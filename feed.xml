@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Jul 2026 03:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 06:31:00 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>看不见、摸得着的家居要素：聊聊湿度管理的方法与实践</title>
+      <link>https://sspai.com/post/112093</link>
+      <description>基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。查看全文</description>
+      <pubDate>Sat, 25 Jul 2026 11:09:49 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112093</guid>
+      <source url="https://sspai.com/post/112093">少数派</source>
+    </item>
     <item>
       <title>9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布</title>
       <link>https://36kr.com/p/3910351337821318?f=rss</link>
@@ -28,6 +36,14 @@
       <source url="https://36kr.com/p/3910351337821318?f=rss">36Kr</source>
     </item>
     <item>
+      <title>全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型</title>
+      <link>https://www.qbitai.com/2026/07/460174.html</link>
+      <description>单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路</description>
+      <pubDate>Sat, 25 Jul 2026 03:21:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460174.html</guid>
+      <source url="https://www.qbitai.com/2026/07/460174.html">量子位</source>
+    </item>
+    <item>
       <title>早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格</title>
       <link>https://www.ifanr.com/1673124?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>· 菲尔兹奖得主 Jacob Tsimerman 将加入 OpenAI 安全部门
@@ -36,16 +52,6 @@
       <pubDate>Sat, 25 Jul 2026 00:23:18 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1673124?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1673124?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>构建时间：使用 GPT-5.6 的 Valuemaxxing</title>
-      <link>https://www.youtube.com/watch?v=jyuyY86GJnA</link>
-      <description>Get more useful work from every token with GPT‑5.6. In this Build Hour, you’ll learn how to choose the right model for your workload—and migrate production agents while improving speed, cost, and performance.
-
-Charlie Guo (DevEx), Bryant Chou (Founder, Ploy) and Lorenzo Gentile (AI Engineer, Ploy) w</description>
-      <pubDate>Fri, 24 Jul 2026 19:47:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=jyuyY86GJnA</guid>
-      <source url="https://www.youtube.com/watch?v=jyuyY86GJnA">OpenAI</source>
     </item>
     <item>
       <title>AnySearch 面向全球推出 “学生与开发者成长计划”</title>
@@ -196,14 +202,6 @@ Charlie Guo (DevEx), Bryant Chou (Founder, Ploy) and Lorenzo Gentile (AI Enginee
       <pubDate>Fri, 24 Jul 2026 09:13:56 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1673042?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1673042?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>紧跟人工智能创新的步伐 |格兰特·李，伽马</title>
-      <link>https://www.youtube.com/watch?v=PB7DBemxl3E</link>
-      <description>We caught up with Grant Lee, Founder and CEO of Gamma, at RAISE Summit in Paris to discuss what it takes to build at the pace of AI innovation. As AI capabilities continue to evolve, the companies that move fastest are those that can quickly turn new breakthroughs into better products and better cus</description>
-      <pubDate>Fri, 24 Jul 2026 09:12:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=PB7DBemxl3E</guid>
-      <source url="https://www.youtube.com/watch?v=PB7DBemxl3E">OpenAI</source>
     </item>
     <item>
       <title>领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场</title>
