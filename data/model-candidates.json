@@ -257,5 +257,40 @@
     "summary": "Cactus 推出基于 Gemma 4 的混合模型“Cactus Hybrid”，在模型检查点内嵌入置信度探针，为每个生成答案输出 0-1 之间的结构化置信度分数。高置信度时在设备端直接回答，低分时可自动路由至更大模型。该探针在零音频训练数据下，于四个音频基准上达到 0.79-0.88 AUROC，远超 token 熵基线（均值 0.549），且 MIT 协议开源。",
     "sourceUrl": "https://github.com/cactus-compute/cactus-hybrid",
     "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Anthropic 发布 Claude Opus 5",
+    "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
+    "sourceUrl": "https://www.anthropic.com/news/claude-opus-5",
+    "sourceName": "Anthropic：Newsroom（网页）"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+    "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10,000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
+    "sourceUrl": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+    "sourceName": "公众号：蚂蚁百灵（Ling）"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "FLUX 3 x mimic：新一代视频动作模型",
+    "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+    "sourceUrl": "https://bfl.ai/blog/flux-3-mimic",
+    "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+    "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
+    "sourceUrl": "https://updates.midjourney.com/version-8-2",
+    "sourceName": "Midjourney：Updates（RSS）"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+    "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+    "sourceUrl": "https://www.ithome.com/0/981/137.htm",
+    "sourceName": "IT之家（RSS）"
   }
 ]
