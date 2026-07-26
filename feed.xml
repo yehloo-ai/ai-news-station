@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 26 Jul 2026 06:49:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 09:26:08 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧</title>
+      <link>https://sspai.com/post/112421</link>
+      <description>「太热了，今天不聊了，赶紧回去吹空调。」查看全文</description>
+      <pubDate>Sun, 26 Jul 2026 15:28:01 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112421</guid>
+      <source url="https://sspai.com/post/112421">少数派</source>
+    </item>
     <item>
       <title>硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资</title>
       <link>https://36kr.com/p/3911162147640456?f=rss</link>
@@ -20,14 +28,22 @@
       <source url="https://36kr.com/p/3911162147640456?f=rss">36Kr</source>
     </item>
     <item>
+      <title>3万小时触觉数据补齐具身智能“手感”！新智具身&amp;复旦报告三连发</title>
+      <link>https://www.qbitai.com/2026/07/460962.html</link>
+      <description>项目数据模型均开源</description>
+      <pubDate>Sun, 26 Jul 2026 05:30:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460962.html</guid>
+      <source url="https://www.qbitai.com/2026/07/460962.html">量子位</source>
+    </item>
+    <item>
       <title>从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目</title>
       <link>https://36kr.com/p/3910880823202948?f=rss</link>
       <description>文｜温丽虹
   编辑｜张雨忻
   Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。
-  从月之暗面离职前，曾歆��是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。
+  从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。
   公司刚创办，曾歆勋就拿到了今日资本徐新200万美元天使投资。他后来才知道，徐新见他前，已经在“AI寻人”这个方向上筛过好几轮。当时徐新在看两个方向，“AI找工作”与“AI找伴侣”。
-  招聘方向</description>
+  招聘方向上</description>
       <pubDate>Sat, 25 Jul 2026 19:00:21 +0800</pubDate>
       <guid isPermaLink="true">https://36kr.com/p/3910880823202948?f=rss</guid>
       <source url="https://36kr.com/p/3910880823202948?f=rss">36Kr</source>
@@ -193,22 +209,6 @@ Charlie Guo (DevEx), Bryant Chou (Founder, Ploy) and Lorenzo Gentile (AI Enginee
       <pubDate>Fri, 24 Jul 2026 15:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/112232</guid>
       <source url="https://sspai.com/post/112232">少数派</source>
-    </item>
-    <item>
-      <title>合肥又押中AI独角兽：多模态赛道，3个月融了21亿</title>
-      <link>https://www.qbitai.com/2026/07/460154.html</link>
-      <description>跑出原生全模态新路径</description>
-      <pubDate>Fri, 24 Jul 2026 14:42:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460154.html</guid>
-      <source url="https://www.qbitai.com/2026/07/460154.html">量子位</source>
-    </item>
-    <item>
-      <title>国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源</title>
-      <link>https://www.qbitai.com/2026/07/460041.html</link>
-      <description>给它一张图，还你整个世界</description>
-      <pubDate>Fri, 24 Jul 2026 14:19:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460041.html</guid>
-      <source url="https://www.qbitai.com/2026/07/460041.html">量子位</source>
     </item>
   </channel>
 </rss>
