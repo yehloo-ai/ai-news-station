@@ -1826,7 +1826,7 @@ const TABS = [
   },
   {
     id: 'daily',
-    name: '日报',
+    name: '日报速览',
     icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="9" y1="7" x2="15" y2="7"/><line x1="9" y1="11" x2="15" y2="11"/><line x1="9" y1="15" x2="12" y2="15"/></svg>',
     layout: 'daily',
     desc: '每日 AI 资讯速览',
@@ -2613,7 +2613,7 @@ function renderTools(data) {
       <div class="section-title">🧰 AI 工具库</div>
       <div class="section-sub">${total} 款精选工具 · ${cats.length} 个场景 · 更新于 ${data.updatedAt || ''}</div>
     </div>
-    <div class="source-pills">按场景挑选好用的 AI 工具，点击直达官网。收录建议欢迎反馈。</div>
+    <div class="source-pills">按场景挑选好用的 AI 工具，点击直达官网。收录建议欢迎反馈，<a href="tools/" target="_blank" rel="noopener" style="color:var(--accent);">网页版（可分享）</a></div>
     <div class="tool-catnav">${nav}</div>
     ${sections}`;
 }
@@ -3413,7 +3413,7 @@ function renderAiHotDaily(data) {
 
   return `
     <div class="dnp-hero">
-      <div class="dnp-title">AI <span>日报</span></div>
+      <div class="dnp-title">AI <span>日报速览</span></div>
       <div class="dnp-dateline">
         <span>${zhDate} ${WEEKS[now.getDay()]}</span>
         <span class="dnp-dateline-sep">｜</span>
@@ -3491,7 +3491,7 @@ function renderDailyNewspaper(items) {
 
   return `
     <div class="dnp-hero">
-      <div class="dnp-title">AI <span>日报</span></div>
+      <div class="dnp-title">AI <span>日报速览</span></div>
       <div class="dnp-dateline">
         <span>${zhDate} ${WEEKS[now.getDay()]}</span>
         <span class="dnp-dateline-sep">｜</span>

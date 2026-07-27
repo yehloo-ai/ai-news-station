@@ -105,15 +105,41 @@ function validModel(model) {
   return model.length >= 2 && model.length <= 8;
 }
 
+// 模态分类（与前端/静态页色卡对齐：语言/视频/图像/语音/多模态/专用）
 function detectType(text) {
+  if (/多模态|全模态|统一.*(图像|视频|音频)/.test(text)) return '多模态';
   if (/视频|文生视频|图生视频/.test(text)) return '视频';
   if (/图像|文生图|图片|绘图|绘画/.test(text)) return '图像';
   if (/语音|音频|音乐|配音|\bTTS\b/i.test(text)) return '语音';
-  if (/代码|编程|coding|\bcode\b/i.test(text)) return '代码';
-  if (/推理|reasoning|思考链/i.test(text)) return '推理';
-  if (/多模态/.test(text)) return '多模态';
-  if (/\bOCR\b|文档理解/i.test(text)) return '专用';
-  return '';
+  if (/\bOCR\b|文档理解|嵌入|\bembed/i.test(text)) return '专用';
+  if (/语言|对话|通用|推理|reasoning|编程|coding|\bcode\b/i.test(text)) return '语言';
+  return '语言'; // 默认按语言模型处理（蓝色主色，AI 大模型主流）
+}
+
+// 关键规格：从摘要抽取参数量 / 上下文 / 开源 / 模态等，供普通级与里程碑卡片展示信息密度
+function detectSpecs(text) {
+  const s = [];
+  let m;
+  if ((m = text.match(/([\d.]+\s*万亿|[\d.]+\s*[BT]\b|[\d.]+\s*亿)\s*(?:总)?参数/i))) s.push(m[0].replace(/\s+/g, ''));
+  else if ((m = text.match(/(?:总)?参数[量]?[约为:：\s]*([\d.]+\s*(?:[BT]|亿|万亿))/i))) s.push('参数 ' + m[1].replace(/\s+/g, ''));
+  if (/百万\s*token|1M\s*token|百万上下文|百万\s*上下文/i.test(text)) s.push('百万 token 上下文');
+  else if ((m = text.match(/([\d.]+\s*[kKmM万]?\s*token(?:\s*(?:上下文|窗口))?)/))) s.push(m[1].replace(/\s+/g, ''));
+  if (/开源|开放权重/.test(text)) s.push('开源');
+  if (/实时|全双工/.test(text)) s.push('实时');
+  if (/端侧|设备端|手机上运行|本地运行/.test(text)) s.push('端侧');
+  return [...new Set(s)].slice(0, 3);
+}
+
+// 权重分级：主流实验室的旗舰型号 → 里程碑；知名厂商或有硬规格 → 普通级（完整卡片）；其余 → 次要（一行）
+const MAJOR_LAB = /openai|anthropic|google\s*deepmind|deepmind|\bmeta\b|深度求索|deepseek|月之暗面|阿里|字节|\bxai\b|智谱|腾讯|百度|快手|minimax|蚂蚁|nvidia/i;
+const NOTABLE = /openai|anthropic|google|deepmind|\bmeta\b|deepseek|深度求索|月之暗面|kimi|阿里|通义|qwen|字节|豆包|\bxai\b|grok|智谱|\bglm\b|腾讯|混元|百度|文心|快手|可灵|kling|minimax|海螺|蚂蚁|nvidia|mistral|midjourney|black\s*forest|flux|stability|runway|\bpika\b|生数|面壁|商汤/i;
+const FLAGSHIP = /claude\s*opus|gpt-?[56]\b|gpt\b.*\b[56]\b|gemini\s*[0-9]|deepseek\s*[vr]?[0-9]|llama\s*[0-9]|grok\s*[0-9]|kimi\s*k[0-9]|qwen[0-9\s-]*max|文心\s*[0-9]|ernie\s*[0-9]/i;
+
+function decideTier(company, model, specs) {
+  const hay = `${company} ${model}`;
+  if (MAJOR_LAB.test(company) && FLAGSHIP.test(hay)) return 'milestone';
+  if (NOTABLE.test(company) || NOTABLE.test(model) || specs.length >= 1) return 'normal';
+  return 'minor';
 }
 
 // ── 合并模型候选（较宽松：来源已是日报「模型发布」板块的精选内容）──
@@ -129,18 +155,22 @@ function mergeModels() {
     const mf = flat(model);
     if (!company || !validModel(model) || known.has(mf)) { keep.push(c); continue; }
     known.add(mf);
-    models.entries.push({
+    const text = `${c.title} ${c.summary}`;
+    const specs = detectSpecs(text);
+    const tier = decideTier(company, model, specs);
+    const entry = {
       date: c.date,
       company,
       model,
-      type: detectType(`${c.title} ${c.summary}`),
-      specs: [],
+      type: detectType(text),
+      specs: tier === 'minor' ? [] : specs, // 次要级压成一行，不展示规格
       highlight: firstClause(c.summary),
       sourceUrl: c.sourceUrl || '',
       sourceName: c.sourceName || '',
-      tier: 'minor',
+      tier,
       auto: true,
-    });
+    };
+    models.entries.push(entry);
     added++;
   }
   if (added) {

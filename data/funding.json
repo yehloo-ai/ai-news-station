@@ -14,7 +14,7 @@
         "换购 2GW MI455 GPU"
       ],
       "highlight": "AMD 投资 Anthropic，换取其采购 2GW GPU 算力。",
-      "tier": "minor",
+      "tier": "normal",
       "sourceName": "SemiAnalysis",
       "sourceUrl": "https://x.com/SemiAnalysis_/status/2079929602429141215"
     },
@@ -63,7 +63,7 @@
         "游戏操作数据训练通用智能体"
       ],
       "highlight": "用海量游戏数据训练可驾驭游戏与机器人的通用智能体。",
-      "tier": "minor",
+      "tier": "normal",
       "sourceName": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world"
     },
@@ -95,7 +95,7 @@
         "ASML 领投"
       ],
       "highlight": "欧洲大模型代表，光刻巨头 ASML 领投。",
-      "tier": "minor",
+      "tier": "normal",
       "sourceName": "Mistral 官方",
       "sourceUrl": "https://mistral.ai/news"
     },
@@ -110,7 +110,7 @@
         "人形机器人"
       ],
       "highlight": "人形机器人估值一年翻数倍。",
-      "tier": "minor",
+      "tier": "normal",
       "sourceName": "Figure 官方",
       "sourceUrl": "https://www.figure.ai/news"
     },
@@ -126,7 +126,7 @@
         "史上最大种子轮之一"
       ],
       "highlight": "前 OpenAI CTO 创业，天价种子轮。",
-      "tier": "minor",
+      "tier": "normal",
       "sourceName": "公开报道",
       "sourceUrl": "https://thinkingmachines.ai"
     },
@@ -141,7 +141,7 @@
         "股权 + 债务混合"
       ],
       "highlight": "马斯克 AI 公司大额补充算力资金。",
-      "tier": "minor",
+      "tier": "milestone",
       "sourceName": "公开报道",
       "sourceUrl": "https://x.ai"
     },
@@ -191,7 +191,7 @@
         "尚无产品"
       ],
       "highlight": "无产品即获超高估值，押注安全超级智能。",
-      "tier": "minor",
+      "tier": "normal",
       "sourceName": "公开报道",
       "sourceUrl": "https://ssi.inc"
     },
@@ -239,7 +239,7 @@
         "开源模型云/推理"
       ],
       "highlight": "开源模型训练与推理云平台。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Together AI",
       "sourceUrl": "https://www.together.ai/"
     },
@@ -254,7 +254,7 @@
         "GPU 云"
       ],
       "highlight": "面向 AI 训练的 GPU 云。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Lambda",
       "sourceUrl": "https://lambda.ai/"
     },
@@ -269,7 +269,7 @@
         "法律 AI"
       ],
       "highlight": "面向律所的法律 AI 助手。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Harvey",
       "sourceUrl": "https://www.harvey.ai/"
     },
@@ -284,7 +284,7 @@
         "AI 语音合成"
       ],
       "highlight": "AI 语音生成龙头。",
-      "tier": "",
+      "tier": "minor",
       "sourceName": "ElevenLabs Blog",
       "sourceUrl": "https://elevenlabs.io/blog"
     },
@@ -299,7 +299,7 @@
         "用途：Colossus 超算扩容"
       ],
       "highlight": "用于自建超算集群扩容。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "xAI News",
       "sourceUrl": "https://x.ai/news"
     },
@@ -314,7 +314,7 @@
         "AI 搜索"
       ],
       "highlight": "AI 搜索应用估值快速攀升。",
-      "tier": "minor",
+      "tier": "normal",
       "sourceName": "Perplexity Blog",
       "sourceUrl": "https://www.perplexity.ai/hub/blog"
     },
@@ -345,7 +345,7 @@
         "绿色算力/数据中心"
       ],
       "highlight": "用富余能源做 AI 算力的数据中心公司。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Crusoe",
       "sourceUrl": "https://www.crusoe.ai/"
     },
@@ -377,7 +377,7 @@
         "企业客服 Agent"
       ],
       "highlight": "前 Salesforce/OpenAI 董事长创立的客服 Agent。",
-      "tier": "",
+      "tier": "minor",
       "sourceName": "Sierra",
       "sourceUrl": "https://sierra.ai/"
     },
@@ -408,7 +408,7 @@
         "面向代码生成"
       ],
       "highlight": "专注软件工程的基础模型公司。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Poolside",
       "sourceUrl": "https://poolside.ai/"
     },
@@ -440,7 +440,7 @@
         "企业内部搜索/助手"
       ],
       "highlight": "企业级 AI 搜索与工作助手。",
-      "tier": "",
+      "tier": "minor",
       "sourceName": "Glean",
       "sourceUrl": "https://www.glean.com/"
     },
@@ -488,7 +488,7 @@
         "LPU 推理芯片"
       ],
       "highlight": "主打超低延迟推理的芯片公司。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Groq",
       "sourceUrl": "https://groq.com/"
     },
@@ -503,7 +503,7 @@
         "面向企业级"
       ],
       "highlight": "专注企业级的大模型公司。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Cohere Blog",
       "sourceUrl": "https://cohere.com/blog"
     },
@@ -518,7 +518,7 @@
         "机器人通用大脑"
       ],
       "highlight": "主打机器人通用操作模型。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Skild AI",
       "sourceUrl": "https://www.skild.ai/"
     },
@@ -533,7 +533,7 @@
         "欧洲开源标杆"
       ],
       "highlight": "欧洲开源大模型代表，General Catalyst 领投。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Mistral AI News",
       "sourceUrl": "https://mistral.ai/news/"
     },
@@ -548,7 +548,7 @@
         "投资方：红杉、a16z、沙特 Kingdom"
       ],
       "highlight": "成立不足一年即完成 60 亿美元融资。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "xAI News",
       "sourceUrl": "https://x.ai/news"
     },
@@ -563,7 +563,7 @@
         "数据标注/评测"
       ],
       "highlight": "AI 训练数据龙头。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Scale AI Blog",
       "sourceUrl": "https://scale.com/blog"
     },
@@ -609,7 +609,7 @@
         "AI 程序员 Devin"
       ],
       "highlight": "AI 软件工程师 Devin 母公司。",
-      "tier": "",
+      "tier": "minor",
       "sourceName": "Cognition",
       "sourceUrl": "https://www.cognition.ai/"
     },
@@ -624,7 +624,7 @@
         "领投：阿里"
       ],
       "highlight": "通用大模型与 AI 应用（星野/Talkie）双线。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "MiniMax官网",
       "sourceUrl": "https://www.minimaxi.com/"
     },
@@ -639,7 +639,7 @@
         "投资方：OpenAI、英伟达、贝索斯"
       ],
       "highlight": "人形机器人，OpenAI/英伟达/贝索斯联合投资。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Figure",
       "sourceUrl": "https://www.figure.ai/"
     },
@@ -654,7 +654,7 @@
         "a16z 领投"
       ],
       "highlight": "欧洲开源大模型代表的早期大额融资。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "Mistral AI News",
       "sourceUrl": "https://mistral.ai/news/"
     },
@@ -669,7 +669,7 @@
         "投资方：阿里、腾讯、美团、蚂蚁等"
       ],
       "highlight": "国产大模型明星公司，大厂集体入股。",
-      "tier": "",
+      "tier": "normal",
       "sourceName": "智谱AI官网",
       "sourceUrl": "https://www.zhipuai.cn/"
     },

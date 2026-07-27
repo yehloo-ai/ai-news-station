@@ -111,7 +111,7 @@ function renderDay(date, data, prev, next) {
   const description = `${date} AI日报（${items.length} 条）：` +
     items.slice(0, 3).map((i) => i.title).join('；').slice(0, 130);
 
-  let body = `<h1>AI 日报 · ${date}</h1>
+  let body = `<h1>AI 日报速览 · ${date}</h1>
 <div class="sub">共 ${items.length} 条 · 覆盖产品发布、行业动态、论文研究等 · 每日自动汇总</div>`;
 
   if (data.lead) body += `<p style="font-size:14px;background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;margin-bottom:8px;">${esc(data.lead)}</p>`;
@@ -205,6 +205,7 @@ const urls = [
   { loc: `${SITE}/daily/`, freq: 'daily', pri: '0.9' },
   { loc: `${SITE}/timeline/`, freq: 'weekly', pri: '0.9' },
   { loc: `${SITE}/funding/`, freq: 'weekly', pri: '0.9' },
+  { loc: `${SITE}/tools/`, freq: 'weekly', pri: '0.9' },
   ...dates.map((d) => ({ loc: `${SITE}/daily/${d}.html`, freq: d === today ? 'daily' : 'monthly', pri: '0.7', date: d })),
 ];
 writeFileSync('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
