@@ -1,39 +1,694 @@
 {
-  "updatedAt": "2026-07-13",
+  "updatedAt": "2026-07-27",
   "reviewNote": "种子数据：金额/估值为公开报道口径，信源暂指向官方新闻页，待站长逐条核实并替换为原始报道链接；后续从日报「商业动态」段半自动抽取候选并入。分级字段 tier 可设 milestone（配 impact）或 minor，缺省为普通。",
   "entries": [
-    {"date": "2025-06-05", "company": "Anysphere（Cursor）", "sector": "应用", "round": "C 轮", "amount": "$9 亿", "valuation": "估值 $99 亿", "specs": ["Thrive/a16z 等", "AI 编程编辑器"], "highlight": "Cursor 母公司，AI 编程赛道估值飙升。", "impact": "AI 编程从插件走向独立平台，跑出百亿美元级公司。", "tier": "milestone", "sourceName": "Cursor Blog", "sourceUrl": "https://www.cursor.com/blog"},
-    {"date": "2025-03-31", "company": "OpenAI", "sector": "大模型", "round": "战略轮", "amount": "$400 亿", "valuation": "估值 $3000 亿", "specs": ["领投：软银", "用途：算力/研究"], "highlight": "软银领投，史上单笔最大私募融资，分批到账。", "impact": "AI 基础设施军备竞赛进入千亿美元量级，头部效应进一步固化。", "tier": "milestone", "sourceName": "OpenAI 官网", "sourceUrl": "https://openai.com/news/"},
-    {"date": "2025-03-03", "company": "Anthropic", "sector": "大模型", "round": "E 轮", "amount": "$35 亿", "valuation": "估值 $615 亿", "specs": ["领投：Lightspeed"], "highlight": "估值一年内翻数倍。", "impact": "第二梯队前沿实验室与 OpenAI 的估值差在快速缩小。", "tier": "milestone", "sourceName": "Anthropic Newsroom", "sourceUrl": "https://www.anthropic.com/news"},
-    {"date": "2025-02-20", "company": "Together AI", "sector": "数据基础设施", "round": "B 轮", "amount": "$3.05 亿", "valuation": "估值 $33 亿", "specs": ["开源模型云/推理"], "highlight": "开源模型训练与推理云平台。", "tier": "", "sourceName": "Together AI", "sourceUrl": "https://www.together.ai/"},
-    {"date": "2025-02-15", "company": "Lambda", "sector": "芯片算力", "round": "C 轮", "amount": "$4.8 亿", "valuation": "", "specs": ["GPU 云"], "highlight": "面向 AI 训练的 GPU 云。", "tier": "", "sourceName": "Lambda", "sourceUrl": "https://lambda.ai/"},
-    {"date": "2025-02-12", "company": "Harvey", "sector": "应用", "round": "D 轮", "amount": "$3 亿", "valuation": "估值 $30 亿", "specs": ["法律 AI"], "highlight": "面向律所的法律 AI 助手。", "tier": "", "sourceName": "Harvey", "sourceUrl": "https://www.harvey.ai/"},
-    {"date": "2025-01-30", "company": "ElevenLabs", "sector": "应用", "round": "C 轮", "amount": "$1.8 亿", "valuation": "估值 $33 亿", "specs": ["AI 语音合成"], "highlight": "AI 语音生成龙头。", "tier": "", "sourceName": "ElevenLabs Blog", "sourceUrl": "https://elevenlabs.io/blog"},
-    {"date": "2024-12-24", "company": "xAI", "sector": "大模型", "round": "C 轮", "amount": "$60 亿", "valuation": "估值 $400 亿", "specs": ["用途：Colossus 超算扩容"], "highlight": "用于自建超算集群扩容。", "tier": "", "sourceName": "xAI News", "sourceUrl": "https://x.ai/news"},
-    {"date": "2024-12-18", "company": "Perplexity", "sector": "应用", "round": "D 轮", "amount": "$5 亿", "valuation": "估值 $90 亿", "specs": ["AI 搜索"], "highlight": "AI 搜索应用估值快速攀升。", "tier": "minor", "sourceName": "Perplexity Blog", "sourceUrl": "https://www.perplexity.ai/hub/blog"},
-    {"date": "2024-12-17", "company": "Databricks", "sector": "数据基础设施", "round": "J 轮", "amount": "$100 亿", "valuation": "估值 $620 亿", "specs": ["领投：Thrive Capital"], "highlight": "数据+AI 平台，为员工股权流动性融资。", "impact": "AI 数据基础设施赛道诞生超级独角兽。", "tier": "milestone", "sourceName": "Databricks 官网", "sourceUrl": "https://www.databricks.com/company/newsroom"},
-    {"date": "2024-12-04", "company": "Crusoe", "sector": "芯片算力", "round": "D 轮", "amount": "$6 亿", "valuation": "估值 $28 亿", "specs": ["绿色算力/数据中心"], "highlight": "用富余能源做 AI 算力的数据中心公司。", "tier": "", "sourceName": "Crusoe", "sourceUrl": "https://www.crusoe.ai/"},
-    {"date": "2024-11-04", "company": "Physical Intelligence", "sector": "具身智能", "round": "融资", "amount": "$4 亿", "valuation": "估值 $24 亿", "specs": ["机器人基础模型"], "highlight": "通用机器人基础模型明星创业公司。", "impact": "具身智能「大模型化」路线获顶级资本重注。", "tier": "milestone", "sourceName": "Physical Intelligence", "sourceUrl": "https://www.physicalintelligence.company/"},
-    {"date": "2024-10-27", "company": "Sierra", "sector": "应用", "round": "融资", "amount": "$1.75 亿", "valuation": "估值 $45 亿", "specs": ["Bret Taylor 创立", "企业客服 Agent"], "highlight": "前 Salesforce/OpenAI 董事长创立的客服 Agent。", "tier": "", "sourceName": "Sierra", "sourceUrl": "https://sierra.ai/"},
-    {"date": "2024-10-02", "company": "OpenAI", "sector": "大模型", "round": "融资", "amount": "$66 亿", "valuation": "估值 $1570 亿", "specs": ["领投：Thrive Capital"], "highlight": "Thrive 领投，微软/英伟达跟投。", "impact": "确立 OpenAI 在资本市场的绝对头部地位。", "tier": "milestone", "sourceName": "OpenAI 官网", "sourceUrl": "https://openai.com/news/"},
-    {"date": "2024-10-01", "company": "Poolside", "sector": "大模型", "round": "B 轮", "amount": "$5 亿", "valuation": "估值 $30 亿", "specs": ["面向代码生成"], "highlight": "专注软件工程的基础模型公司。", "tier": "", "sourceName": "Poolside", "sourceUrl": "https://poolside.ai/"},
-    {"date": "2024-09-13", "company": "World Labs", "sector": "具身智能", "round": "融资", "amount": "$2.3 亿", "valuation": "估值 $10 亿", "specs": ["李飞飞创立", "空间智能"], "highlight": "李飞飞创立，主攻空间智能。", "impact": "「空间智能」成为具身/世界模型的新叙事焦点。", "tier": "milestone", "sourceName": "World Labs", "sourceUrl": "https://www.worldlabs.ai/"},
-    {"date": "2024-09-10", "company": "Glean", "sector": "应用", "round": "E 轮", "amount": "$2.6 亿", "valuation": "估值 $46 亿", "specs": ["企业内部搜索/助手"], "highlight": "企业级 AI 搜索与工作助手。", "tier": "", "sourceName": "Glean", "sourceUrl": "https://www.glean.com/"},
-    {"date": "2024-09-04", "company": "Safe Superintelligence", "sector": "大模型", "round": "种子轮", "amount": "$10 亿", "valuation": "估值 $50 亿", "specs": ["无产品即融资"], "highlight": "Ilya Sutskever 创立，尚无产品即获十亿美元。", "impact": "顶级研究者号召力本身即成资产，重塑早期估值逻辑。", "tier": "milestone", "sourceName": "路透", "sourceUrl": "https://ssi.inc/"},
-    {"date": "2024-08-05", "company": "月之暗面", "sector": "大模型", "round": "B 轮", "amount": "$10 亿", "valuation": "估值 $33 亿", "specs": ["领投：阿里、红杉中国", "Kimi 母公司"], "highlight": "国产大模型当时最大单笔融资，阿里领投。", "impact": "国产大模型第一梯队估值站上 30 亿美元关口。", "tier": "milestone", "sourceName": "月之暗面官网", "sourceUrl": "https://www.moonshot.cn/"},
-    {"date": "2024-08-05", "company": "Groq", "sector": "芯片算力", "round": "D 轮", "amount": "$6.4 亿", "valuation": "估值 $28 亿", "specs": ["LPU 推理芯片"], "highlight": "主打超低延迟推理的芯片公司。", "tier": "", "sourceName": "Groq", "sourceUrl": "https://groq.com/"},
-    {"date": "2024-07-22", "company": "Cohere", "sector": "大模型", "round": "D 轮", "amount": "$5 亿", "valuation": "估值 $55 亿", "specs": ["面向企业级"], "highlight": "专注企业级的大模型公司。", "tier": "", "sourceName": "Cohere Blog", "sourceUrl": "https://cohere.com/blog"},
-    {"date": "2024-07-09", "company": "Skild AI", "sector": "具身智能", "round": "A 轮", "amount": "$3 亿", "valuation": "估值 $15 亿", "specs": ["机器人通用大脑"], "highlight": "主打机器人通用操作模型。", "tier": "", "sourceName": "Skild AI", "sourceUrl": "https://www.skild.ai/"},
-    {"date": "2024-06-11", "company": "Mistral AI", "sector": "大模型", "round": "B 轮", "amount": "€6 亿", "valuation": "估值 $60 亿", "specs": ["欧洲开源标杆"], "highlight": "欧洲开源大模型代表，General Catalyst 领投。", "tier": "", "sourceName": "Mistral AI News", "sourceUrl": "https://mistral.ai/news/"},
-    {"date": "2024-05-26", "company": "xAI", "sector": "大模型", "round": "B 轮", "amount": "$60 亿", "valuation": "估值 $240 亿", "specs": ["投资方：红杉、a16z、沙特 Kingdom"], "highlight": "成立不足一年即完成 60 亿美元融资。", "tier": "", "sourceName": "xAI News", "sourceUrl": "https://x.ai/news"},
-    {"date": "2024-05-21", "company": "Scale AI", "sector": "数据基础设施", "round": "F 轮", "amount": "$10 亿", "valuation": "估值 $138 亿", "specs": ["数据标注/评测"], "highlight": "AI 训练数据龙头。", "tier": "", "sourceName": "Scale AI Blog", "sourceUrl": "https://scale.com/blog"},
-    {"date": "2024-05-21", "company": "Suno", "sector": "应用", "round": "B 轮", "amount": "$1.25 亿", "valuation": "", "specs": ["AI 音乐生成"], "highlight": "AI 音乐生成代表产品。", "tier": "minor", "sourceName": "Suno", "sourceUrl": "https://suno.com/"},
-    {"date": "2024-05-01", "company": "CoreWeave", "sector": "芯片算力", "round": "融资", "amount": "$11 亿", "valuation": "估值 $190 亿", "specs": ["GPU 云"], "highlight": "英伟达支持的 GPU 云新贵。", "impact": "AI 算力租赁成独立超级赛道，估值直逼 200 亿美元。", "tier": "milestone", "sourceName": "CoreWeave", "sourceUrl": "https://www.coreweave.com/"},
-    {"date": "2024-04-08", "company": "Cognition", "sector": "应用", "round": "融资", "amount": "$1.75 亿", "valuation": "估值 $20 亿", "specs": ["AI 程序员 Devin"], "highlight": "AI 软件工程师 Devin 母公司。", "tier": "", "sourceName": "Cognition", "sourceUrl": "https://www.cognition.ai/"},
-    {"date": "2024-03-01", "company": "MiniMax", "sector": "大模型", "round": "战略轮", "amount": "$6 亿", "valuation": "估值 $25 亿", "specs": ["领投：阿里"], "highlight": "通用大模型与 AI 应用（星野/Talkie）双线。", "tier": "", "sourceName": "MiniMax官网", "sourceUrl": "https://www.minimaxi.com/"},
-    {"date": "2024-02-29", "company": "Figure AI", "sector": "具身智能", "round": "B 轮", "amount": "$6.75 亿", "valuation": "估值 $26 亿", "specs": ["投资方：OpenAI、英伟达、贝索斯"], "highlight": "人形机器人，OpenAI/英伟达/贝索斯联合投资。", "tier": "", "sourceName": "Figure", "sourceUrl": "https://www.figure.ai/"},
-    {"date": "2023-12-11", "company": "Mistral AI", "sector": "大模型", "round": "A 轮", "amount": "€3.85 亿", "valuation": "估值 $20 亿", "specs": ["a16z 领投"], "highlight": "欧洲开源大模型代表的早期大额融资。", "tier": "", "sourceName": "Mistral AI News", "sourceUrl": "https://mistral.ai/news/"},
-    {"date": "2023-10-30", "company": "智谱AI", "sector": "大模型", "round": "战略轮", "amount": "¥25 亿", "valuation": "", "specs": ["投资方：阿里、腾讯、美团、蚂蚁等"], "highlight": "国产大模型明星公司，大厂集体入股。", "tier": "", "sourceName": "智谱AI官网", "sourceUrl": "https://www.zhipuai.cn/"},
-    {"date": "2023-08-24", "company": "Hugging Face", "sector": "数据基础设施", "round": "D 轮", "amount": "$2.35 亿", "valuation": "估值 $45 亿", "specs": ["谷歌/英伟达/亚马逊等投资", "开源社区/模型平台"], "highlight": "开源 AI 社区与模型托管平台。", "impact": "开源 AI 基础设施获巨头集体押注。", "tier": "milestone", "sourceName": "Hugging Face Blog", "sourceUrl": "https://huggingface.co/blog"}
+    {
+      "date": "2026-07-23",
+      "company": "Anthropic",
+      "sector": "大模型",
+      "round": "战略投资",
+      "amount": "$50 亿",
+      "valuation": "",
+      "specs": [
+        "AMD 战略投资",
+        "换购 2GW MI455 GPU"
+      ],
+      "highlight": "AMD 投资 Anthropic，换取其采购 2GW GPU 算力。",
+      "tier": "minor",
+      "sourceName": "SemiAnalysis",
+      "sourceUrl": "https://x.com/SemiAnalysis_/status/2079929602429141215"
+    },
+    {
+      "date": "2026-07-21",
+      "company": "Ollama",
+      "sector": "应用",
+      "round": "B 轮",
+      "amount": "$8800 万",
+      "valuation": "",
+      "specs": [
+        "Benchmark / Theory / 8VC 领投",
+        "服务 890 万开发者"
+      ],
+      "highlight": "本地运行开源模型的平台，85% 财富 500 强在用。",
+      "tier": "minor",
+      "sourceName": "Ollama Blog",
+      "sourceUrl": "https://ollama.com/blog/all-aboard-open-models"
+    },
+    {
+      "date": "2026-07-03",
+      "company": "可灵 AI（快手）",
+      "sector": "应用",
+      "round": "战略注资",
+      "amount": "$20.28 亿",
+      "valuation": "估值 $180 亿",
+      "specs": [
+        "视频生成",
+        "拟 12 个月内赴港上市"
+      ],
+      "highlight": "国产 AI 视频龙头独立融资，冲刺 IPO。",
+      "impact": "AI 视频生成走向独立商业化与资本化。",
+      "tier": "milestone",
+      "sourceName": "IT之家",
+      "sourceUrl": "https://www.ithome.com/0/971/954.htm"
+    },
+    {
+      "date": "2026-06-26",
+      "company": "General Intuition",
+      "sector": "具身智能",
+      "round": "融资",
+      "amount": "$3.2 亿",
+      "valuation": "估值 $23 亿",
+      "specs": [
+        "Khosla 领投",
+        "游戏操作数据训练通用智能体"
+      ],
+      "highlight": "用海量游戏数据训练可驾驭游戏与机器人的通用智能体。",
+      "tier": "minor",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world"
+    },
+    {
+      "date": "2025-09-15",
+      "company": "Anthropic",
+      "sector": "大模型",
+      "round": "F 轮",
+      "amount": "$130 亿",
+      "valuation": "估值 $1830 亿",
+      "specs": [
+        "ICONIQ 领投",
+        "ARR 快速攀升"
+      ],
+      "highlight": "F 轮后估值逼近 2000 亿美元。",
+      "impact": "闭源大模型双雄之一，估值进入两千亿美元级。",
+      "tier": "milestone",
+      "sourceName": "Anthropic 官方",
+      "sourceUrl": "https://www.anthropic.com/news"
+    },
+    {
+      "date": "2025-09-09",
+      "company": "Mistral AI",
+      "sector": "大模型",
+      "round": "C 轮",
+      "amount": "€17 亿",
+      "valuation": "估值 €117 亿",
+      "specs": [
+        "ASML 领投"
+      ],
+      "highlight": "欧洲大模型代表，光刻巨头 ASML 领投。",
+      "tier": "minor",
+      "sourceName": "Mistral 官方",
+      "sourceUrl": "https://mistral.ai/news"
+    },
+    {
+      "date": "2025-09-01",
+      "company": "Figure AI",
+      "sector": "具身智能",
+      "round": "C 轮",
+      "amount": "$10 亿",
+      "valuation": "估值 $390 亿",
+      "specs": [
+        "人形机器人"
+      ],
+      "highlight": "人形机器人估值一年翻数倍。",
+      "tier": "minor",
+      "sourceName": "Figure 官方",
+      "sourceUrl": "https://www.figure.ai/news"
+    },
+    {
+      "date": "2025-07-15",
+      "company": "Thinking Machines Lab",
+      "sector": "大模型",
+      "round": "种子轮",
+      "amount": "$20 亿",
+      "valuation": "估值 $120 亿",
+      "specs": [
+        "Mira Murati 创办",
+        "史上最大种子轮之一"
+      ],
+      "highlight": "前 OpenAI CTO 创业，天价种子轮。",
+      "tier": "minor",
+      "sourceName": "公开报道",
+      "sourceUrl": "https://thinkingmachines.ai"
+    },
+    {
+      "date": "2025-07-01",
+      "company": "xAI",
+      "sector": "大模型",
+      "round": "新一轮",
+      "amount": "$100 亿",
+      "valuation": "",
+      "specs": [
+        "股权 + 债务混合"
+      ],
+      "highlight": "马斯克 AI 公司大额补充算力资金。",
+      "tier": "minor",
+      "sourceName": "公开报道",
+      "sourceUrl": "https://x.ai"
+    },
+    {
+      "date": "2025-06-13",
+      "company": "Scale AI",
+      "sector": "数据基础设施",
+      "round": "战略投资",
+      "amount": "$143 亿",
+      "valuation": "估值 $290 亿",
+      "specs": [
+        "Meta 投资约 49%",
+        "创始人加入 Meta"
+      ],
+      "highlight": "数据标注龙头被 Meta 深度绑定。",
+      "impact": "高质量训练数据成为巨头必争的战略资产。",
+      "tier": "milestone",
+      "sourceName": "公开报道",
+      "sourceUrl": "https://scale.com/blog"
+    },
+    {
+      "date": "2025-06-05",
+      "company": "Anysphere（Cursor）",
+      "sector": "应用",
+      "round": "C 轮",
+      "amount": "$9 亿",
+      "valuation": "估值 $99 亿",
+      "specs": [
+        "Thrive/a16z 等",
+        "AI 编程编辑器"
+      ],
+      "highlight": "Cursor 母公司，AI 编程赛道估值飙升。",
+      "impact": "AI 编程从插件走向独立平台，跑出百亿美元级公司。",
+      "tier": "milestone",
+      "sourceName": "Cursor Blog",
+      "sourceUrl": "https://www.cursor.com/blog"
+    },
+    {
+      "date": "2025-04-01",
+      "company": "Safe Superintelligence",
+      "sector": "大模型",
+      "round": "新一轮",
+      "amount": "$20 亿",
+      "valuation": "估值 $320 亿",
+      "specs": [
+        "Ilya Sutskever 创办",
+        "尚无产品"
+      ],
+      "highlight": "无产品即获超高估值，押注安全超级智能。",
+      "tier": "minor",
+      "sourceName": "公开报道",
+      "sourceUrl": "https://ssi.inc"
+    },
+    {
+      "date": "2025-03-31",
+      "company": "OpenAI",
+      "sector": "大模型",
+      "round": "战略轮",
+      "amount": "$400 亿",
+      "valuation": "估值 $3000 亿",
+      "specs": [
+        "领投：软银",
+        "用途：算力/研究"
+      ],
+      "highlight": "软银领投，史上单笔最大私募融资，分批到账。",
+      "impact": "AI 基础设施军备竞赛进入千亿美元量级，头部效应进一步固化。",
+      "tier": "milestone",
+      "sourceName": "OpenAI 官网",
+      "sourceUrl": "https://openai.com/news/"
+    },
+    {
+      "date": "2025-03-03",
+      "company": "Anthropic",
+      "sector": "大模型",
+      "round": "E 轮",
+      "amount": "$35 亿",
+      "valuation": "估值 $615 亿",
+      "specs": [
+        "领投：Lightspeed"
+      ],
+      "highlight": "估值一年内翻数倍。",
+      "impact": "第二梯队前沿实验室与 OpenAI 的估值差在快速缩小。",
+      "tier": "milestone",
+      "sourceName": "Anthropic Newsroom",
+      "sourceUrl": "https://www.anthropic.com/news"
+    },
+    {
+      "date": "2025-02-20",
+      "company": "Together AI",
+      "sector": "数据基础设施",
+      "round": "B 轮",
+      "amount": "$3.05 亿",
+      "valuation": "估值 $33 亿",
+      "specs": [
+        "开源模型云/推理"
+      ],
+      "highlight": "开源模型训练与推理云平台。",
+      "tier": "",
+      "sourceName": "Together AI",
+      "sourceUrl": "https://www.together.ai/"
+    },
+    {
+      "date": "2025-02-15",
+      "company": "Lambda",
+      "sector": "芯片算力",
+      "round": "C 轮",
+      "amount": "$4.8 亿",
+      "valuation": "",
+      "specs": [
+        "GPU 云"
+      ],
+      "highlight": "面向 AI 训练的 GPU 云。",
+      "tier": "",
+      "sourceName": "Lambda",
+      "sourceUrl": "https://lambda.ai/"
+    },
+    {
+      "date": "2025-02-12",
+      "company": "Harvey",
+      "sector": "应用",
+      "round": "D 轮",
+      "amount": "$3 亿",
+      "valuation": "估值 $30 亿",
+      "specs": [
+        "法律 AI"
+      ],
+      "highlight": "面向律所的法律 AI 助手。",
+      "tier": "",
+      "sourceName": "Harvey",
+      "sourceUrl": "https://www.harvey.ai/"
+    },
+    {
+      "date": "2025-01-30",
+      "company": "ElevenLabs",
+      "sector": "应用",
+      "round": "C 轮",
+      "amount": "$1.8 亿",
+      "valuation": "估值 $33 亿",
+      "specs": [
+        "AI 语音合成"
+      ],
+      "highlight": "AI 语音生成龙头。",
+      "tier": "",
+      "sourceName": "ElevenLabs Blog",
+      "sourceUrl": "https://elevenlabs.io/blog"
+    },
+    {
+      "date": "2024-12-24",
+      "company": "xAI",
+      "sector": "大模型",
+      "round": "C 轮",
+      "amount": "$60 亿",
+      "valuation": "估值 $400 亿",
+      "specs": [
+        "用途：Colossus 超算扩容"
+      ],
+      "highlight": "用于自建超算集群扩容。",
+      "tier": "",
+      "sourceName": "xAI News",
+      "sourceUrl": "https://x.ai/news"
+    },
+    {
+      "date": "2024-12-18",
+      "company": "Perplexity",
+      "sector": "应用",
+      "round": "D 轮",
+      "amount": "$5 亿",
+      "valuation": "估值 $90 亿",
+      "specs": [
+        "AI 搜索"
+      ],
+      "highlight": "AI 搜索应用估值快速攀升。",
+      "tier": "minor",
+      "sourceName": "Perplexity Blog",
+      "sourceUrl": "https://www.perplexity.ai/hub/blog"
+    },
+    {
+      "date": "2024-12-17",
+      "company": "Databricks",
+      "sector": "数据基础设施",
+      "round": "J 轮",
+      "amount": "$100 亿",
+      "valuation": "估值 $620 亿",
+      "specs": [
+        "领投：Thrive Capital"
+      ],
+      "highlight": "数据+AI 平台，为员工股权流动性融资。",
+      "impact": "AI 数据基础设施赛道诞生超级独角兽。",
+      "tier": "milestone",
+      "sourceName": "Databricks 官网",
+      "sourceUrl": "https://www.databricks.com/company/newsroom"
+    },
+    {
+      "date": "2024-12-04",
+      "company": "Crusoe",
+      "sector": "芯片算力",
+      "round": "D 轮",
+      "amount": "$6 亿",
+      "valuation": "估值 $28 亿",
+      "specs": [
+        "绿色算力/数据中心"
+      ],
+      "highlight": "用富余能源做 AI 算力的数据中心公司。",
+      "tier": "",
+      "sourceName": "Crusoe",
+      "sourceUrl": "https://www.crusoe.ai/"
+    },
+    {
+      "date": "2024-11-04",
+      "company": "Physical Intelligence",
+      "sector": "具身智能",
+      "round": "融资",
+      "amount": "$4 亿",
+      "valuation": "估值 $24 亿",
+      "specs": [
+        "机器人基础模型"
+      ],
+      "highlight": "通用机器人基础模型明星创业公司。",
+      "impact": "具身智能「大模型化」路线获顶级资本重注。",
+      "tier": "milestone",
+      "sourceName": "Physical Intelligence",
+      "sourceUrl": "https://www.physicalintelligence.company/"
+    },
+    {
+      "date": "2024-10-27",
+      "company": "Sierra",
+      "sector": "应用",
+      "round": "融资",
+      "amount": "$1.75 亿",
+      "valuation": "估值 $45 亿",
+      "specs": [
+        "Bret Taylor 创立",
+        "企业客服 Agent"
+      ],
+      "highlight": "前 Salesforce/OpenAI 董事长创立的客服 Agent。",
+      "tier": "",
+      "sourceName": "Sierra",
+      "sourceUrl": "https://sierra.ai/"
+    },
+    {
+      "date": "2024-10-02",
+      "company": "OpenAI",
+      "sector": "大模型",
+      "round": "融资",
+      "amount": "$66 亿",
+      "valuation": "估值 $1570 亿",
+      "specs": [
+        "领投：Thrive Capital"
+      ],
+      "highlight": "Thrive 领投，微软/英伟达跟投。",
+      "impact": "确立 OpenAI 在资本市场的绝对头部地位。",
+      "tier": "milestone",
+      "sourceName": "OpenAI 官网",
+      "sourceUrl": "https://openai.com/news/"
+    },
+    {
+      "date": "2024-10-01",
+      "company": "Poolside",
+      "sector": "大模型",
+      "round": "B 轮",
+      "amount": "$5 亿",
+      "valuation": "估值 $30 亿",
+      "specs": [
+        "面向代码生成"
+      ],
+      "highlight": "专注软件工程的基础模型公司。",
+      "tier": "",
+      "sourceName": "Poolside",
+      "sourceUrl": "https://poolside.ai/"
+    },
+    {
+      "date": "2024-09-13",
+      "company": "World Labs",
+      "sector": "具身智能",
+      "round": "融资",
+      "amount": "$2.3 亿",
+      "valuation": "估值 $10 亿",
+      "specs": [
+        "李飞飞创立",
+        "空间智能"
+      ],
+      "highlight": "李飞飞创立，主攻空间智能。",
+      "impact": "「空间智能」成为具身/世界模型的新叙事焦点。",
+      "tier": "milestone",
+      "sourceName": "World Labs",
+      "sourceUrl": "https://www.worldlabs.ai/"
+    },
+    {
+      "date": "2024-09-10",
+      "company": "Glean",
+      "sector": "应用",
+      "round": "E 轮",
+      "amount": "$2.6 亿",
+      "valuation": "估值 $46 亿",
+      "specs": [
+        "企业内部搜索/助手"
+      ],
+      "highlight": "企业级 AI 搜索与工作助手。",
+      "tier": "",
+      "sourceName": "Glean",
+      "sourceUrl": "https://www.glean.com/"
+    },
+    {
+      "date": "2024-09-04",
+      "company": "Safe Superintelligence",
+      "sector": "大模型",
+      "round": "种子轮",
+      "amount": "$10 亿",
+      "valuation": "估值 $50 亿",
+      "specs": [
+        "无产品即融资"
+      ],
+      "highlight": "Ilya Sutskever 创立，尚无产品即获十亿美元。",
+      "impact": "顶级研究者号召力本身即成资产，重塑早期估值逻辑。",
+      "tier": "milestone",
+      "sourceName": "路透",
+      "sourceUrl": "https://ssi.inc/"
+    },
+    {
+      "date": "2024-08-05",
+      "company": "月之暗面",
+      "sector": "大模型",
+      "round": "B 轮",
+      "amount": "$10 亿",
+      "valuation": "估值 $33 亿",
+      "specs": [
+        "领投：阿里、红杉中国",
+        "Kimi 母公司"
+      ],
+      "highlight": "国产大模型当时最大单笔融资，阿里领投。",
+      "impact": "国产大模型第一梯队估值站上 30 亿美元关口。",
+      "tier": "milestone",
+      "sourceName": "月之暗面官网",
+      "sourceUrl": "https://www.moonshot.cn/"
+    },
+    {
+      "date": "2024-08-05",
+      "company": "Groq",
+      "sector": "芯片算力",
+      "round": "D 轮",
+      "amount": "$6.4 亿",
+      "valuation": "估值 $28 亿",
+      "specs": [
+        "LPU 推理芯片"
+      ],
+      "highlight": "主打超低延迟推理的芯片公司。",
+      "tier": "",
+      "sourceName": "Groq",
+      "sourceUrl": "https://groq.com/"
+    },
+    {
+      "date": "2024-07-22",
+      "company": "Cohere",
+      "sector": "大模型",
+      "round": "D 轮",
+      "amount": "$5 亿",
+      "valuation": "估值 $55 亿",
+      "specs": [
+        "面向企业级"
+      ],
+      "highlight": "专注企业级的大模型公司。",
+      "tier": "",
+      "sourceName": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog"
+    },
+    {
+      "date": "2024-07-09",
+      "company": "Skild AI",
+      "sector": "具身智能",
+      "round": "A 轮",
+      "amount": "$3 亿",
+      "valuation": "估值 $15 亿",
+      "specs": [
+        "机器人通用大脑"
+      ],
+      "highlight": "主打机器人通用操作模型。",
+      "tier": "",
+      "sourceName": "Skild AI",
+      "sourceUrl": "https://www.skild.ai/"
+    },
+    {
+      "date": "2024-06-11",
+      "company": "Mistral AI",
+      "sector": "大模型",
+      "round": "B 轮",
+      "amount": "€6 亿",
+      "valuation": "估值 $60 亿",
+      "specs": [
+        "欧洲开源标杆"
+      ],
+      "highlight": "欧洲开源大模型代表，General Catalyst 领投。",
+      "tier": "",
+      "sourceName": "Mistral AI News",
+      "sourceUrl": "https://mistral.ai/news/"
+    },
+    {
+      "date": "2024-05-26",
+      "company": "xAI",
+      "sector": "大模型",
+      "round": "B 轮",
+      "amount": "$60 亿",
+      "valuation": "估值 $240 亿",
+      "specs": [
+        "投资方：红杉、a16z、沙特 Kingdom"
+      ],
+      "highlight": "成立不足一年即完成 60 亿美元融资。",
+      "tier": "",
+      "sourceName": "xAI News",
+      "sourceUrl": "https://x.ai/news"
+    },
+    {
+      "date": "2024-05-21",
+      "company": "Scale AI",
+      "sector": "数据基础设施",
+      "round": "F 轮",
+      "amount": "$10 亿",
+      "valuation": "估值 $138 亿",
+      "specs": [
+        "数据标注/评测"
+      ],
+      "highlight": "AI 训练数据龙头。",
+      "tier": "",
+      "sourceName": "Scale AI Blog",
+      "sourceUrl": "https://scale.com/blog"
+    },
+    {
+      "date": "2024-05-21",
+      "company": "Suno",
+      "sector": "应用",
+      "round": "B 轮",
+      "amount": "$1.25 亿",
+      "valuation": "",
+      "specs": [
+        "AI 音乐生成"
+      ],
+      "highlight": "AI 音乐生成代表产品。",
+      "tier": "minor",
+      "sourceName": "Suno",
+      "sourceUrl": "https://suno.com/"
+    },
+    {
+      "date": "2024-05-01",
+      "company": "CoreWeave",
+      "sector": "芯片算力",
+      "round": "融资",
+      "amount": "$11 亿",
+      "valuation": "估值 $190 亿",
+      "specs": [
+        "GPU 云"
+      ],
+      "highlight": "英伟达支持的 GPU 云新贵。",
+      "impact": "AI 算力租赁成独立超级赛道，估值直逼 200 亿美元。",
+      "tier": "milestone",
+      "sourceName": "CoreWeave",
+      "sourceUrl": "https://www.coreweave.com/"
+    },
+    {
+      "date": "2024-04-08",
+      "company": "Cognition",
+      "sector": "应用",
+      "round": "融资",
+      "amount": "$1.75 亿",
+      "valuation": "估值 $20 亿",
+      "specs": [
+        "AI 程序员 Devin"
+      ],
+      "highlight": "AI 软件工程师 Devin 母公司。",
+      "tier": "",
+      "sourceName": "Cognition",
+      "sourceUrl": "https://www.cognition.ai/"
+    },
+    {
+      "date": "2024-03-01",
+      "company": "MiniMax",
+      "sector": "大模型",
+      "round": "战略轮",
+      "amount": "$6 亿",
+      "valuation": "估值 $25 亿",
+      "specs": [
+        "领投：阿里"
+      ],
+      "highlight": "通用大模型与 AI 应用（星野/Talkie）双线。",
+      "tier": "",
+      "sourceName": "MiniMax官网",
+      "sourceUrl": "https://www.minimaxi.com/"
+    },
+    {
+      "date": "2024-02-29",
+      "company": "Figure AI",
+      "sector": "具身智能",
+      "round": "B 轮",
+      "amount": "$6.75 亿",
+      "valuation": "估值 $26 亿",
+      "specs": [
+        "投资方：OpenAI、英伟达、贝索斯"
+      ],
+      "highlight": "人形机器人，OpenAI/英伟达/贝索斯联合投资。",
+      "tier": "",
+      "sourceName": "Figure",
+      "sourceUrl": "https://www.figure.ai/"
+    },
+    {
+      "date": "2023-12-11",
+      "company": "Mistral AI",
+      "sector": "大模型",
+      "round": "A 轮",
+      "amount": "€3.85 亿",
+      "valuation": "估值 $20 亿",
+      "specs": [
+        "a16z 领投"
+      ],
+      "highlight": "欧洲开源大模型代表的早期大额融资。",
+      "tier": "",
+      "sourceName": "Mistral AI News",
+      "sourceUrl": "https://mistral.ai/news/"
+    },
+    {
+      "date": "2023-10-30",
+      "company": "智谱AI",
+      "sector": "大模型",
+      "round": "战略轮",
+      "amount": "¥25 亿",
+      "valuation": "",
+      "specs": [
+        "投资方：阿里、腾讯、美团、蚂蚁等"
+      ],
+      "highlight": "国产大模型明星公司，大厂集体入股。",
+      "tier": "",
+      "sourceName": "智谱AI官网",
+      "sourceUrl": "https://www.zhipuai.cn/"
+    },
+    {
+      "date": "2023-08-24",
+      "company": "Hugging Face",
+      "sector": "数据基础设施",
+      "round": "D 轮",
+      "amount": "$2.35 亿",
+      "valuation": "估值 $45 亿",
+      "specs": [
+        "谷歌/英伟达/亚马逊等投资",
+        "开源社区/模型平台"
+      ],
+      "highlight": "开源 AI 社区与模型托管平台。",
+      "impact": "开源 AI 基础设施获巨头集体押注。",
+      "tier": "milestone",
+      "sourceName": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog"
+    }
   ]
 }
