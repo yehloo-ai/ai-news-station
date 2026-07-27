@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-27",
+  "attribution": {
+    "source": "AI HOT",
+    "canonical": "https://aihot.virxact.com/daily/2026-07-27"
+  },
+  "generatedAt": "2026-07-27T00:00:21.312Z",
+  "windowStart": "2026-07-26T00:00:00.000Z",
+  "windowEnd": "2026-07-27T00:00:00.000Z",
+  "lead": null,
+  "sections": [
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
+          "summary": "下载 Grok Build 并输入 /tutorial http://X.ai/cli",
+          "sourceUrl": "https://x.com/elonmusk/status/2081174079969632347",
+          "sourceName": "X：Elon Musk (@elonmusk, xAI)",
+          "permalink": "https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg"
+          }
+        },
+        {
+          "title": "Suno 推出多项新功能，含MIDI导出等",
+          "summary": "我们一直在以比以往更快的速度构建！🚀 以下是网页端和移动端的新功能一览： • 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto 你最期待 Suno 的哪些新功能？",
+          "sourceUrl": "https://x.com/suno/status/2081443050312843765",
+          "sourceName": "X：Suno (@suno)",
+          "permalink": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd"
+          }
+        }
+      ]
+    },
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+          "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
+          "sourceUrl": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q"
+          }
+        },
+        {
+          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+          "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
+          "sourceUrl": "https://www.ithome.com/0/981/797.htm",
+          "sourceName": "IT之家（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m"
+          }
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "summary": "开发者成功在售价约 8 美元的 ESP32-S3 微控制器上运行了一个 28.9M 参数的大语言模型，完全在芯片本地运行，无需连接服务器，生成速度约 9.5 tok/s。",
+          "sourceUrl": "https://github.com/slvDev/esp32-ai",
+          "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "permalink": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3"
+          }
+        },
+        {
+          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+          "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
+          "sourceUrl": "https://www.ithome.com/0/981/688.htm",
+          "sourceName": "IT之家（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p"
+          }
+        }
+      ]
+    }
+  ],
+  "flashes": []
+}
