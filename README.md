@@ -26,7 +26,7 @@ The sidebar is organized into three groups:
 |---|---|---|
 | **Daily Brief** | Daily Brief (日报速览) | Today's digest — 2-minute read |
 | | Featured | Curated highlights worth your attention |
-| | All Updates (AI 全部动态) | Every article, cross-filterable by source × topic |
+| | All Updates (全部动态) | Every article, cross-filterable by source × topic |
 | **Milestones** | Model Releases | AI model release timeline — who, which model, when, key specs |
 | | Funding | AI funding timeline — who raised, which round, how much, valuation |
 | **Tools** | AI Tools Directory | Curated AI tools by scenario, filterable, CN + overseas |

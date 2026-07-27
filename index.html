@@ -202,8 +202,8 @@
     .tl-year-dot {
       justify-self: center;
       width: 13px; height: 13px; border-radius: 50%;
-      background: #d92b2b;
-      box-shadow: 0 0 0 4px rgba(217,43,43,0.15);
+      background: var(--green);
+      box-shadow: 0 0 0 4px rgba(63,185,80,0.2);
     }
     .tl-year-text {
       display: flex; align-items: baseline; gap: 10px;
@@ -237,8 +237,8 @@
     }
     .tl-time-dot {
       width: 9px; height: 9px; border-radius: 50%;
-      background: #d92b2b; flex-shrink: 0;
-      box-shadow: 0 0 0 3px rgba(217,43,43,0.15);
+      background: var(--green); flex-shrink: 0;
+      box-shadow: 0 0 0 3px rgba(63,185,80,0.2);
     }
     .tl-time-n { font-size: 10px; color: var(--muted); white-space: nowrap; margin-top: 2px; }
     .tl-daycards { display: flex; flex-direction: column; }
@@ -483,7 +483,15 @@
     @media (max-width: 768px) {
       .kw-row { grid-template-columns: 1fr; gap: 6px; }
       .kw-label { text-align: left; }
-      .kw-right { max-height: 160px; }
+      /* 移动端：热词按钮横向铺满在上、资讯列表整宽在下，标题不再被挤没 */
+      .kw-wrap { flex-direction: column; }
+      .kw-left {
+        border-right: none; border-bottom: 1px solid var(--border);
+        display: flex; flex-wrap: wrap; gap: 8px; padding: 10px 12px;
+      }
+      .kw-btn { flex: 0 0 auto; padding: 6px 12px; }
+      .kw-right { max-height: 210px; padding: 10px 14px; gap: 12px; }
+      .kw-item-title { font-size: 12.5px; }
     }
 
     /* ── Section header ── */
@@ -1818,7 +1826,7 @@ const TABS = [
   },
   {
     id: 'all',
-    name: 'AI 全部动态',
+    name: '全部动态',
     mob: '动态',
     translate: true,
     icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>',
