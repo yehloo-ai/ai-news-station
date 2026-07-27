@@ -1747,15 +1747,6 @@ const ALL_FEEDS = [...SHARED_FEEDS, ...OFFICIAL_FEEDS];
 
 const TABS = [
   {
-    id: 'builders',
-    name: 'AI Builder',
-    icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>',
-    layout: 'builders',
-    desc: '追踪 26 位 AI 顶尖建造者的最新动态',
-    aiHotPath: null,
-    feeds: []
-  },
-  {
     id: 'featured',
     name: '精选',
     icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>',
@@ -1805,20 +1796,19 @@ const TABS = [
 ];
 
 // 移动端产品组：这三个 tab 在移动端合并为第5个 tab
-const MOB_GROUP_IDS = ['builders']; // 官方/产品/设计/视频已折进「AI 动态」筛选；更多面板收纳 AI Builder
+const MOB_GROUP_IDS = []; // 官方/产品/设计/视频已折进「AI 动态」筛选；AI Builder 已下线
 // 移动端固定5个 tab 的顺序（日报 | 大事记 | 精选 | 全部 | 更多）
 const MOB_NAV_ORDER = ['daily', 'timeline', 'featured', 'all'];
 // PC 侧边栏分组（数组顺序 = 展示顺序；后续大事记子栏目加到 '大事记' 组的 ids 里）
 const NAV_GROUPS = [
-  { label: '每日速览', ids: ['daily', 'featured'] },
-  { label: '资讯流',   ids: ['all', 'builders'] },
+  { label: '每日速览', ids: ['daily', 'featured', 'all'] },
   { label: '大事记',   ids: ['timeline', 'funding'] },
 ];
 const DEFAULT_TAB = 'daily'; // 默认落地页 = 日报（回访锚点）
 
 // State
 let activeTab = DEFAULT_TAB;
-let mobGroupActiveId = 'builders'; // 「更多」组当前选中的 sub-tab
+let mobGroupActiveId = null; // 「更多」组当前选中的 sub-tab
 let jobsRegion = 'global';   // 'global' | 'domestic'
 let allCatFilter = 'all';    // 右排（类）：'all' | 'ai-products' | 'design' | 'video'
 let allSrcFilter = 'all';    // 左排（源）：'all' | 'official'
@@ -2101,20 +2091,6 @@ function init() {
   renderNav();
   const firstLanded = switchTab(DEFAULT_TAB);
   scheduleAutoRefresh();
-
-  // builders 数据始终后台预取（数据小，同域直连，不影响带宽）
-  fetchJsonSafe(BUILDERS_FEED_X).then(xData => {
-    if (xData) {
-      fetchJsonSafe(BUILDERS_FEED_PODCAST).then(podData => {
-        cache['builders'] = { xData, podData, ts: Date.now() };
-        if (activeTab === 'builders') renderBuilders(xData, podData);
-        const builders = ((xData.x) || []).filter(b => b.tweets?.length);
-        if (builders.length) translateBuilderTweets(builders).then(() => {
-          if (activeTab === 'builders') renderBuilders(xData, podData);
-        });
-      });
-    }
-  });
 
   // PC端：首屏落地页绘制完后全量预取其他频道（门控解耦，不再依赖 featured 是否为落地页）
   if (!IS_MOBILE) {
