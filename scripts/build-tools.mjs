@@ -23,8 +23,9 @@ ${t.by ? `<div class="by">${esc(t.by)}</div>` : ''}
 </article>`;
 }
 
-const catNav = categories.map((c) => `<a href="#cat-${esc(c.id)}">${c.icon || ''} ${esc(c.name)}</a>`).join('');
-const sections = categories.map((c) => `<section class="cat" id="cat-${esc(c.id)}">
+const catNav = `<button class="fil on" data-cat="all">全部</button>` +
+  categories.map((c) => `<button class="fil" data-cat="${esc(c.id)}">${esc(c.name)}</button>`).join('');
+const sections = categories.map((c) => `<section class="cat" id="cat-${esc(c.id)}" data-cat="${esc(c.id)}">
 <h2>${c.icon || ''} ${esc(c.name)}<span class="cn">${c.tools?.length || 0}</span></h2>
 <div class="grid">${(c.tools || []).map(toolCard).join('\n')}</div>
 </section>`).join('\n');
@@ -68,8 +69,9 @@ writeFileSync('tools/index.html', `<!DOCTYPE html>
   h1 { font-size:24px; margin-bottom:6px; }
   .sub { font-size:13px; color:#6b7280; margin-bottom:20px; }
   .catnav { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:26px; }
-  .catnav a { font-size:12px; color:#6b7280; text-decoration:none; padding:4px 12px; border-radius:999px; background:#fff; border:1px solid #e5e7eb; }
-  .catnav a:hover { color:#d92b2b; border-color:rgba(217,43,43,0.35); }
+  .catnav .fil { font-size:12.5px; color:#6b7280; cursor:pointer; padding:5px 14px; border-radius:999px; background:#fff; border:1px solid #e5e7eb; white-space:nowrap; transition:all .15s; }
+  .catnav .fil:hover { color:#d92b2b; border-color:rgba(217,43,43,0.35); }
+  .catnav .fil.on { background:#d92b2b; border-color:#d92b2b; color:#fff; font-weight:600; }
   .cat { margin-bottom:30px; scroll-margin-top:14px; }
   .cat h2 { font-size:18px; margin-bottom:12px; display:flex; align-items:center; gap:8px; }
   .cn { font-size:12px; font-weight:500; color:#6b7280; background:#f4f6f8; border-radius:999px; padding:1px 9px; }
@@ -98,6 +100,16 @@ writeFileSync('tools/index.html', `<!DOCTYPE html>
 ${sections}
 <footer>由 <a href="${SITE}/">飞翔的AI资讯站</a> 维护 · 收录建议欢迎反馈 · 工具链接归各官方所有</footer>
 </div>
+<script>
+document.querySelectorAll('.catnav .fil').forEach(function(btn){
+  btn.addEventListener('click', function(){
+    var cat = btn.dataset.cat;
+    document.querySelectorAll('.catnav .fil').forEach(function(b){ b.classList.toggle('on', b.dataset.cat === cat); });
+    document.querySelectorAll('.cat').forEach(function(sec){ sec.style.display = (cat === 'all' || sec.dataset.cat === cat) ? '' : 'none'; });
+    window.scrollTo(0, 0);
+  });
+});
+</script>
 </body>
 </html>
 `);

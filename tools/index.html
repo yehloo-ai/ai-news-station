@@ -21,8 +21,9 @@
   h1 { font-size:24px; margin-bottom:6px; }
   .sub { font-size:13px; color:#6b7280; margin-bottom:20px; }
   .catnav { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:26px; }
-  .catnav a { font-size:12px; color:#6b7280; text-decoration:none; padding:4px 12px; border-radius:999px; background:#fff; border:1px solid #e5e7eb; }
-  .catnav a:hover { color:#d92b2b; border-color:rgba(217,43,43,0.35); }
+  .catnav .fil { font-size:12.5px; color:#6b7280; cursor:pointer; padding:5px 14px; border-radius:999px; background:#fff; border:1px solid #e5e7eb; white-space:nowrap; transition:all .15s; }
+  .catnav .fil:hover { color:#d92b2b; border-color:rgba(217,43,43,0.35); }
+  .catnav .fil.on { background:#d92b2b; border-color:#d92b2b; color:#fff; font-weight:600; }
   .cat { margin-bottom:30px; scroll-margin-top:14px; }
   .cat h2 { font-size:18px; margin-bottom:12px; display:flex; align-items:center; gap:8px; }
   .cn { font-size:12px; font-weight:500; color:#6b7280; background:#f4f6f8; border-radius:999px; padding:1px 9px; }
@@ -47,8 +48,8 @@
 <div class="top"><a href="https://yehloolau-afk.github.io/ai-news-station/">← 飞翔的AI资讯站</a> · <a href="https://yehloolau-afk.github.io/ai-news-station/daily/">日报速览存档</a> · <a href="https://yehloolau-afk.github.io/ai-news-station/timeline/">模型发布时间线</a></div>
 <h1>AI 工具库 · AI 工具导航</h1>
 <div class="sub">精选 40 款好用的 AI 工具，按场景分类，点击直达官网 · 更新于 2026-07-27</div>
-<nav class="catnav"><a href="#cat-chat">💬 对话助手 / 大模型</a><a href="#cat-coding">⌨️ AI 编程</a><a href="#cat-image">🎨 图像生成</a><a href="#cat-video">🎬 视频生成</a><a href="#cat-audio">🎧 音频 / 语音 / 音乐</a><a href="#cat-search">🔎 AI 搜索 / 研究</a><a href="#cat-writing">📝 写作 / 办公 / 演示</a><a href="#cat-agent">🤖 智能体 / 自动化</a><a href="#cat-design">✏️ 设计 / 创意</a></nav>
-<section class="cat" id="cat-chat">
+<nav class="catnav"><button class="fil on" data-cat="all">全部</button><button class="fil" data-cat="chat">对话助手 / 大模型</button><button class="fil" data-cat="coding">AI 编程</button><button class="fil" data-cat="image">图像生成</button><button class="fil" data-cat="video">视频生成</button><button class="fil" data-cat="audio">音频 / 语音 / 音乐</button><button class="fil" data-cat="search">AI 搜索 / 研究</button><button class="fil" data-cat="writing">写作 / 办公 / 演示</button><button class="fil" data-cat="agent">智能体 / 自动化</button><button class="fil" data-cat="design">设计 / 创意</button></nav>
+<section class="cat" id="cat-chat" data-cat="chat">
 <h2>💬 对话助手 / 大模型<span class="cn">8</span></h2>
 <div class="grid"><article class="tool">
 <div class="thead"><a class="tname" href="https://chat.openai.com" rel="noopener" target="_blank">ChatGPT</a><span class="free">免费</span></div>
@@ -99,7 +100,7 @@
 <div class="tfoot"><span class="tags"><span class="tag">通用</span><span class="tag">国产</span></span><a class="host" href="https://yiyan.baidu.com" rel="noopener" target="_blank">yiyan.baidu.com →</a></div>
 </article></div>
 </section>
-<section class="cat" id="cat-coding">
+<section class="cat" id="cat-coding" data-cat="coding">
 <h2>⌨️ AI 编程<span class="cn">6</span></h2>
 <div class="grid"><article class="tool">
 <div class="thead"><a class="tname" href="https://cursor.com" rel="noopener" target="_blank">Cursor</a><span class="free">免费</span></div>
@@ -138,7 +139,7 @@
 <div class="tfoot"><span class="tags"><span class="tag">补全</span><span class="tag">国产</span></span><a class="host" href="https://tongyi.aliyun.com/lingma" rel="noopener" target="_blank">tongyi.aliyun.com →</a></div>
 </article></div>
 </section>
-<section class="cat" id="cat-image">
+<section class="cat" id="cat-image" data-cat="image">
 <h2>🎨 图像生成<span class="cn">5</span></h2>
 <div class="grid"><article class="tool">
 <div class="thead"><a class="tname" href="https://www.midjourney.com" rel="noopener" target="_blank">Midjourney</a></div>
@@ -171,7 +172,7 @@
 <div class="tfoot"><span class="tags"><span class="tag">文生图</span><span class="tag">国产</span></span><a class="host" href="https://tongyi.aliyun.com/wanxiang" rel="noopener" target="_blank">tongyi.aliyun.com →</a></div>
 </article></div>
 </section>
-<section class="cat" id="cat-video">
+<section class="cat" id="cat-video" data-cat="video">
 <h2>🎬 视频生成<span class="cn">5</span></h2>
 <div class="grid"><article class="tool">
 <div class="thead"><a class="tname" href="https://sora.com" rel="noopener" target="_blank">Sora</a></div>
@@ -204,7 +205,7 @@
 <div class="tfoot"><span class="tags"><span class="tag">文生视频</span><span class="tag">海外</span></span><a class="host" href="https://pika.art" rel="noopener" target="_blank">pika.art →</a></div>
 </article></div>
 </section>
-<section class="cat" id="cat-audio">
+<section class="cat" id="cat-audio" data-cat="audio">
 <h2>🎧 音频 / 语音 / 音乐<span class="cn">3</span></h2>
 <div class="grid"><article class="tool">
 <div class="thead"><a class="tname" href="https://suno.com" rel="noopener" target="_blank">Suno</a><span class="free">免费</span></div>
@@ -225,7 +226,7 @@
 <div class="tfoot"><span class="tags"><span class="tag">配音</span><span class="tag">国产</span></span><a class="host" href="https://hailuoai.com" rel="noopener" target="_blank">hailuoai.com →</a></div>
 </article></div>
 </section>
-<section class="cat" id="cat-search">
+<section class="cat" id="cat-search" data-cat="search">
 <h2>🔎 AI 搜索 / 研究<span class="cn">3</span></h2>
 <div class="grid"><article class="tool">
 <div class="thead"><a class="tname" href="https://www.perplexity.ai" rel="noopener" target="_blank">Perplexity</a><span class="free">免费</span></div>
@@ -246,7 +247,7 @@
 <div class="tfoot"><span class="tags"><span class="tag">知识库</span><span class="tag">国产</span></span><a class="host" href="https://ima.qq.com" rel="noopener" target="_blank">ima.qq.com →</a></div>
 </article></div>
 </section>
-<section class="cat" id="cat-writing">
+<section class="cat" id="cat-writing" data-cat="writing">
 <h2>📝 写作 / 办公 / 演示<span class="cn">4</span></h2>
 <div class="grid"><article class="tool">
 <div class="thead"><a class="tname" href="https://www.notion.so/product/ai" rel="noopener" target="_blank">Notion AI</a><span class="free">免费</span></div>
@@ -273,7 +274,7 @@
 <div class="tfoot"><span class="tags"><span class="tag">演示</span><span class="tag">国产</span></span><a class="host" href="https://zhiwen.xfyun.cn" rel="noopener" target="_blank">zhiwen.xfyun.cn →</a></div>
 </article></div>
 </section>
-<section class="cat" id="cat-agent">
+<section class="cat" id="cat-agent" data-cat="agent">
 <h2>🤖 智能体 / 自动化<span class="cn">3</span></h2>
 <div class="grid"><article class="tool">
 <div class="thead"><a class="tname" href="https://www.coze.cn" rel="noopener" target="_blank">Coze 扣子</a><span class="free">免费</span></div>
@@ -294,7 +295,7 @@
 <div class="tfoot"><span class="tags"><span class="tag">自动化</span><span class="tag">海外</span></span><a class="host" href="https://n8n.io" rel="noopener" target="_blank">n8n.io →</a></div>
 </article></div>
 </section>
-<section class="cat" id="cat-design">
+<section class="cat" id="cat-design" data-cat="design">
 <h2>✏️ 设计 / 创意<span class="cn">3</span></h2>
 <div class="grid"><article class="tool">
 <div class="thead"><a class="tname" href="https://www.canva.com" rel="noopener" target="_blank">Canva</a><span class="free">免费</span></div>
@@ -317,5 +318,15 @@
 </section>
 <footer>由 <a href="https://yehloolau-afk.github.io/ai-news-station/">飞翔的AI资讯站</a> 维护 · 收录建议欢迎反馈 · 工具链接归各官方所有</footer>
 </div>
+<script>
+document.querySelectorAll('.catnav .fil').forEach(function(btn){
+  btn.addEventListener('click', function(){
+    var cat = btn.dataset.cat;
+    document.querySelectorAll('.catnav .fil').forEach(function(b){ b.classList.toggle('on', b.dataset.cat === cat); });
+    document.querySelectorAll('.cat').forEach(function(sec){ sec.style.display = (cat === 'all' || sec.dataset.cat === cat) ? '' : 'none'; });
+    window.scrollTo(0, 0);
+  });
+});
+</script>
 </body>
 </html>

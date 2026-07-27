@@ -6,27 +6,34 @@
 
 **📰 AI Daily archive →** [daily/](https://yehloolau-afk.github.io/ai-news-station/daily/) (static pages crawlable by search & AI engines, rebuilt 3×/day via Actions)
 
-**🕐 AI model release timeline →** [timeline/](https://yehloolau-afk.github.io/ai-news-station/timeline/) (who, which model, when, key specs — maintained from 2023 onward)
+**🕐 AI model release timeline →** [timeline/](https://yehloolau-afk.github.io/ai-news-station/timeline/) (who, which model, when, key specs — auto-merged from the daily digest and weight-tiered)
+
+**💰 AI funding timeline →** [funding/](https://yehloolau-afk.github.io/ai-news-station/funding/) (who raised, which round, how much, valuation — from 2023 onward)
+
+**🧰 AI tools directory →** [tools/](https://yehloolau-afk.github.io/ai-news-station/tools/) (curated AI tools by scenario, filterable, CN + overseas, crawlable SEO page)
 
 **📡 RSS →** [feed.xml](https://yehloolau-afk.github.io/ai-news-station/feed.xml)
 
-A 7-channel AI news aggregator built for design teams. Pulls from 20+ Chinese and English sources, auto-translates, and updates every hour via GitHub Actions.
+An AI news aggregator built for design teams. Pulls from 20+ Chinese and English sources, auto-translates, and updates every hour via GitHub Actions. Content is organized into three sidebar groups — **Daily Brief**, **Milestones** (model + funding timelines), and **Tools** — with priority-weighted timeline cards.
 
 ---
 
-## Channels
+## Structure
 
-| Channel | What you get |
-|---|---|
-| Featured | Curated highlights worth your attention |
-| All | Every article from all sources |
-| Official | Releases from OpenAI, Anthropic, Google, etc. |
-| Launches | New products and tools |
-| Design | AI x design, tools for designers |
-| Video | Video generation, Sora, Kling, and more |
-| Daily | Today's digest |
+The sidebar is organized into three groups:
 
-Plus a **Timeline** group (its own sidebar section) — the first entry is the AI model release timeline; more archives (funding, policy…) can slot in later.
+| Group | Channel | What you get |
+|---|---|---|
+| **Daily Brief** | Daily Brief (日报速览) | Today's digest — 2-minute read |
+| | Featured | Curated highlights worth your attention |
+| | All Updates (AI 全部动态) | Every article, cross-filterable by source × topic |
+| **Milestones** | Model Releases | AI model release timeline — who, which model, when, key specs |
+| | Funding | AI funding timeline — who raised, which round, how much, valuation |
+| **Tools** | AI Tools Directory | Curated AI tools by scenario, filterable, CN + overseas |
+
+**Priority-weighted cards** — timeline and funding entries render at one of three visual weights (milestone / normal / minor) based on the lab's prominence, whether it's a flagship release, and how much structured detail (params, context window, open-source, deal size) is available, so headline events stand out and minor ones stay compact.
+
+**Static, crawlable pages** — `daily/`, `timeline/`, `funding/`, and `tools/` are pre-generated as standalone HTML with JSON-LD and are listed in `sitemap.xml`, so search and AI engines can index the content directly.
 
 ---
 
@@ -53,7 +60,7 @@ GitHub Actions (hourly) → fetch RSS/APIs → process + translate → write JSO
 | Workflow | Frequency | Output |
 |---|---|---|
 | Update channel data | Hourly | `data/{featured,all,official,products,design,videos}.json` + `feed.xml` (same-origin fast data layer for first paint) |
-| Build daily static pages | 3×/day | Permanent `daily/*.html` archive + `sitemap.xml` (GEO/SEO crawl layer, reused by the in-app Daily channel). Also extracts model-release candidates from the daily "model releases" section into `data/model-candidates.json` (merged into `data/models.json` after human review) and rebuilds the `timeline/` static page |
+| Build daily static pages | 3×/day | Permanent `daily/*.html` archive + `sitemap.xml` (GEO/SEO crawl layer, reused by the in-app Daily channel). Also extracts model-release / funding candidates from the daily digest, **auto-merges** them into `data/models.json` & `data/funding.json` (`scripts/merge-candidates.mjs` — heuristic company/model/spec parsing + weight tiering; models merged liberally, funding gated on round + amount), then rebuilds the `timeline/`, `funding/`, and `tools/` static pages |
 | Update analytics | 2×/day | `data/stats.json` (dashboard) |
 
 ### Loading strategy
@@ -65,7 +72,7 @@ GitHub Actions (hourly) → fetch RSS/APIs → process + translate → write JSO
 
 ### Mobile
 
-- Bottom tab navigation + a "More" sheet (channel group + entries for Daily archive / newsletter / dashboard)
+- Bottom tab navigation (Daily · Featured · Updates · Model Releases · More) + a "More" sheet (AI Tools Directory + entries for Daily archive / newsletter / dashboard)
 - Translation is deferred so it never blocks first paint; Phase 2 payload is halved
 
 ---

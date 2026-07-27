@@ -261,10 +261,10 @@
     .tl-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 12px; margin-bottom: 5px; }
     .tl-date { color: var(--accent); font-weight: 700; font-variant-numeric: tabular-nums; }
     .tl-company { font-weight: 600; color: var(--text); }
-    /* 分类 = 彩色胶囊（模态色） */
-    .tl-cat { color: var(--m); background: var(--mb); border: 1px solid var(--mbd); padding: 1px 9px; border-radius: 999px; font-weight: 600; }
-    /* 属性 = 中性描边胶囊（开源/推理/OCR/实时交互/多模态） */
-    .tl-attr { color: var(--muted); background: transparent; border: 1px solid var(--border); padding: 1px 9px; border-radius: 999px; }
+    /* 分类 = 彩色标签（模态色，圆角矩形，与规格块对齐，不做胶囊避免椭圆观感） */
+    .tl-cat { color: var(--m); background: var(--mb); border: 1px solid var(--mbd); padding: 2px 8px; border-radius: 5px; font-weight: 600; line-height: 1.5; }
+    /* 属性 = 中性描边标签（开源/推理/OCR/实时交互/多模态） */
+    .tl-attr { color: var(--muted); background: transparent; border: 1px solid var(--border); padding: 2px 8px; border-radius: 5px; line-height: 1.5; }
     .tl-model { font-size: 15px; font-weight: 700; margin-bottom: 3px; }
     .tl-model a { color: var(--text); text-decoration: none; }
     .tl-model a:hover { color: var(--accent); }
@@ -288,7 +288,7 @@
     /* 里程碑级：左侧强调色条 + 更重标题 + 里程碑标 */
     .tl-card.milestone { box-shadow: inset 5px 0 0 var(--m); background: #fff; }
     .tl-card.milestone .tl-model { font-size: 16.5px; }
-    .tl-mile-tag { display: inline-flex; align-items: center; gap: 3px; font-size: 10.5px; font-weight: 700; color: var(--m); background: var(--mb); padding: 2px 10px; border-radius: 999px; letter-spacing: 0.01em; }
+    .tl-mile-tag { display: inline-flex; align-items: center; gap: 3px; font-size: 10.5px; font-weight: 700; color: var(--m); background: var(--mb); padding: 2px 8px; border-radius: 5px; letter-spacing: 0.01em; line-height: 1.5; }
     /* 次要级：压成一行 */
     .tl-card.minor { padding: 9px 14px; }
     .tl-minor-row { display: flex; align-items: center; gap: 8px; font-size: 12px; }
@@ -507,16 +507,18 @@
       line-height: 1.6;
     }
     /* ── AI 工具库 ── */
-    .tool-catnav {
+    /* 顶部筛选胶囊：全部 + 各分类（纯文案，无图标），点击原地筛选 */
+    .tool-filter {
       display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px;
     }
-    .tool-cat-link {
-      font-size: 12px; color: var(--muted); text-decoration: none;
-      padding: 4px 12px; border-radius: 999px;
+    .tool-fil {
+      font-size: 12.5px; color: var(--muted); cursor: pointer;
+      padding: 5px 14px; border-radius: 999px;
       background: var(--card-bg); border: 1px solid var(--border);
-      transition: all .15s;
+      transition: all .15s; white-space: nowrap;
     }
-    .tool-cat-link:hover { color: var(--accent); border-color: var(--accent-border); }
+    .tool-fil:hover { color: var(--accent); border-color: var(--accent-border); }
+    .tool-fil.on { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
     .tool-cat { margin-bottom: 28px; scroll-margin-top: 16px; }
     .tool-cat-title {
       font-size: 15px; font-weight: 700; color: var(--text);
@@ -1816,7 +1818,8 @@ const TABS = [
   },
   {
     id: 'all',
-    name: 'AI 动态',
+    name: 'AI 全部动态',
+    mob: '动态',
     translate: true,
     icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>',
     layout: 'list',
@@ -1827,6 +1830,7 @@ const TABS = [
   {
     id: 'daily',
     name: '日报速览',
+    mob: '日报',
     icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="9" y1="7" x2="15" y2="7"/><line x1="9" y1="11" x2="15" y2="11"/><line x1="9" y1="15" x2="12" y2="15"/></svg>',
     layout: 'daily',
     desc: '每日 AI 资讯速览',
@@ -1865,7 +1869,7 @@ const TABS = [
 // 移动端产品组：这三个 tab 在移动端合并为第5个 tab
 const MOB_GROUP_IDS = ['tools']; // 移动端「更多」浮层收纳：AI 工具库
 // 移动端固定5个 tab 的顺序（日报 | 大事记 | 精选 | 全部 | 更多）
-const MOB_NAV_ORDER = ['daily', 'timeline', 'featured', 'all'];
+const MOB_NAV_ORDER = ['daily', 'featured', 'all', 'timeline']; // 日报 | 精选 | 动态 | 模型发布 | 更多
 // PC 侧边栏分组（数组顺序 = 展示顺序；后续大事记子栏目加到 '大事记' 组的 ids 里）
 const NAV_GROUPS = [
   { label: '每日速览', ids: ['daily', 'featured', 'all'] },
@@ -2221,7 +2225,7 @@ function renderNav() {
       return `<button class="mob-tab-btn ${t.id === activeTab ? 'active' : ''}"
               onclick="switchTab('${t.id}')">
         <span class="mob-tab-icon">${t.icon}</span>
-        <span class="mob-tab-label">${t.name.replace(/^AI\s/, '')}</span>
+        <span class="mob-tab-label">${t.mob || t.name.replace(/^AI\s/, '')}</span>
       </button>`;
     }).join('') + `
     <button class="mob-tab-btn ${isGroupActive ? 'active' : ''}" id="mob-more-btn"
@@ -2602,9 +2606,10 @@ function renderTools(data) {
   const main = document.getElementById('main');
   const cats = data.categories || [];
   const total = cats.reduce((n, c) => n + (c.tools?.length || 0), 0);
-  const nav = cats.map(c => `<a class="tool-cat-link" href="#tool-cat-${c.id}">${c.icon || ''} ${esc(c.name)}</a>`).join('');
+  const filters = `<button class="tool-fil on" data-cat="all" onclick="filterTools('all')">全部</button>` +
+    cats.map(c => `<button class="tool-fil" data-cat="${c.id}" onclick="filterTools('${c.id}')">${esc(c.name)}</button>`).join('');
   const sections = cats.map(c => `
-    <div class="tool-cat" id="tool-cat-${c.id}">
+    <div class="tool-cat" data-cat="${c.id}">
       <div class="tool-cat-title">${c.icon || ''} ${esc(c.name)}<span class="tool-cat-n">${c.tools?.length || 0}</span></div>
       <div class="tool-grid">${(c.tools || []).map(toolCard).join('')}</div>
     </div>`).join('');
@@ -2614,8 +2619,15 @@ function renderTools(data) {
       <div class="section-sub">${total} 款精选工具 · ${cats.length} 个场景 · 更新于 ${data.updatedAt || ''}</div>
     </div>
     <div class="source-pills">按场景挑选好用的 AI 工具，点击直达官网。收录建议欢迎反馈，<a href="tools/" target="_blank" rel="noopener" style="color:var(--accent);">网页版（可分享）</a></div>
-    <div class="tool-catnav">${nav}</div>
+    <div class="tool-filter">${filters}</div>
     ${sections}`;
+}
+function filterTools(cat) {
+  document.querySelectorAll('.tool-fil').forEach(b => b.classList.toggle('on', b.dataset.cat === cat));
+  document.querySelectorAll('.tool-cat').forEach(sec => {
+    sec.style.display = (cat === 'all' || sec.dataset.cat === cat) ? '' : 'none';
+  });
+  window.scrollTo({ top: 0, behavior: 'instant' });
 }
 
 function renderBuilders(xData, podData) {
