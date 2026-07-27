@@ -818,13 +818,13 @@
     .cat-filter-bar { display: flex; gap: 18px 24px; margin-bottom: 16px; flex-wrap: wrap; align-items: center; justify-content: space-between; }
     .seg-field { display: inline-flex; align-items: center; gap: 8px; }
     .seg-label { font-size: 12px; color: var(--muted); flex-shrink: 0; }
-    .seg { position: relative; display: flex; background: var(--bg); border: 1px solid var(--border); border-radius: 9px; }
-    .seg-thumb { position: absolute; top: 0; bottom: 0; left: 0; border-radius: 8px; background: var(--accent); transition: transform 0.22s cubic-bezier(0.4,0,0.2,1); pointer-events: none; z-index: 0; }
+    .seg { position: relative; display: flex; background: var(--bg); border: 1px solid var(--border); border-radius: 999px; padding: 3px; box-shadow: inset 0 1px 2px rgba(17,24,39,0.05); }
+    .seg-thumb { position: absolute; top: 3px; bottom: 3px; left: 3px; border-radius: 999px; background: var(--accent); box-shadow: 0 1px 3px rgba(208,25,34,0.32); transition: transform 0.25s cubic-bezier(0.34,1.2,0.5,1); pointer-events: none; z-index: 0; }
     .seg-opt {
-      position: relative; z-index: 1; flex: 1 0 auto;
+      position: relative; z-index: 1; flex: 1 1 0;
       border: none; background: transparent; cursor: pointer;
       font-size: 12.5px; color: var(--text); font-weight: 500;
-      padding: 6px 16px; border-radius: 8px; white-space: nowrap; text-align: center;
+      padding: 7px 18px; border-radius: 999px; white-space: nowrap; text-align: center;
       transition: color 0.18s;
     }
     .seg-opt.on { color: #fff; font-weight: 600; }
@@ -3605,7 +3605,7 @@ const CAT_PILLS = [{ label: '全部', val: 'all' }, { label: '产品', val: 'ai-
 function segHtml(id, pills, active, fn) {
   const idx = Math.max(0, pills.findIndex(p => p.val === active));
   return `<div class="seg" id="${id}">
-    <span class="seg-thumb" style="width:${100 / pills.length}%;transform:translateX(${idx * 100}%)"></span>
+    <span class="seg-thumb" style="width:calc((100% - 6px) / ${pills.length});transform:translateX(${idx * 100}%)"></span>
     ${pills.map(p => `<button class="seg-opt${p.val === active ? ' on' : ''}" data-val="${p.val}" onclick="${fn}('${p.val}')">${p.label}</button>`).join('')}
   </div>`;
 }
