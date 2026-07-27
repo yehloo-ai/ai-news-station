@@ -22,16 +22,17 @@ jobs:
       - name: 生成日报页与 sitemap
         run: node scripts/build-daily.mjs
 
-      - name: 抽取候选 + 重建大事记静态页（模型发布 / 资本动态）
+      - name: 抽取候选 → 自动合并进正式时间线 → 重建大事记静态页（模型发布 / 资本动态）
         run: |
           node scripts/extract-model-candidates.mjs
-          node scripts/build-timeline.mjs
           node scripts/extract-funding-candidates.mjs
+          node scripts/merge-candidates.mjs
+          node scripts/build-timeline.mjs
           node scripts/build-funding.mjs
 
       - name: 提交
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add daily data/daily data/daily-index.json data/model-candidates.json data/funding-candidates.json timeline funding sitemap.xml robots.txt
+          git add daily data/daily data/daily-index.json data/models.json data/model-candidates.json data/funding.json data/funding-candidates.json timeline funding sitemap.xml robots.txt
           git diff --cached --quiet || (git commit -m "更新 AI 日报静态页" && git pull --rebase --autostash && git push)

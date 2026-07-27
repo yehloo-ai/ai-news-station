@@ -7,46 +7,11 @@
     "sourceName": "公众号：通义实验室（千问）"
   },
   {
-    "date": "2026-07-08",
-    "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-    "summary": "Meta Superintelligence Labs 发布首个媒体生成模型 Muse Image 和 Muse Video。Muse Image 是目前最先进的图像生成模型，能精确遵循指令、精准编辑、多参考构图，并利用 Instagram 社交上下文。它还具备智能体工具使用能力并集成 Muse Spark。用户可通过 Meta AI 应用、网页、Instagram Stories 和 Whats",
-    "sourceUrl": "https://x.com/AIatMeta/status/2074577662840832382",
-    "sourceName": "X：AI at Meta (@AIatMeta)"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "OpenAI 发布 GPT‑Live 新一代全双工语音模型",
-    "summary": "OpenAI 今日推出 GPT‑Live，基于全双工架构实现同时听与说，支持自然打断与实时回馈。该模型每秒多次判断是否说话、倾听、打断或调用工具，并将搜索、推理等复杂任务委托给后台 GPT‑5.5，保持对话流畅。即日起向全球 ChatGPT 用户提供 GPT‑Live‑1 和 GPT‑Live‑1 mini 两个版本。人类评估显示，在 5‑10 分钟对话中，GPT‑Live‑1 系列在自然度、轮流",
-    "sourceUrl": "https://openai.com/index/introducing-gpt-live",
-    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-  },
-  {
     "date": "2026-07-09",
     "title": "Pulpie：用于清理网络的Pareto最优模型",
     "summary": "Pulpie是一族Pareto最优模型，用于从HTML页面提取主要内容。其最小模型pulpie-orange-small（210M参数）在WebMainBench上取得0.862的ROUGE-5 F1分数，接近600M参数的Dripper（0.864），但成本仅1/20。在NVIDIA L4 GPU上，Pulpie处理速度13.7页/秒，Dripper仅0.68页/秒。清理10亿页HTML，Pul",
     "sourceUrl": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web",
     "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
-    "summary": "蚂蚁集团旗下具身智能公司Robbyant开源LingBot-Vision，一套自监督视觉Transformer家族，专为密集空间感知设计。旗舰ViT-g/16参数约1.1B，采用掩膜边界建模训练，将边界作为原生预训练信号。在密集空间任务中，该1B模型匹配或超越参数规模高达7倍的大模型（如7B DINOv3）。模型以Apache-2.0许可证在Hugging Face开源，提供ViT-g、ViT-L",
-    "sourceUrl": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
-    "sourceName": "MarkTechPost（RSS）"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "OpenAI 推出 ChatGPT Work：可跨应用自主工作的 AI 智能体",
-    "summary": "OpenAI 发布 ChatGPT Work，一个能跨应用和文件收集信息、将复杂项目分解为小步骤独立完成并持续工作数小时的 AI 智能体。它内置 Codex 技术，目前每周超 500 万用户使用 Codex，其中超 100 万用于非软件开发场景。ChatGPT Work 由今天同步推出的最新前沿模型 GPT‑5.6 驱动，具备多步骤推理和按模板生成材料的能力。该功能今天起面向 Pro、Enterp",
-    "sourceUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
-    "summary": "蚂蚁灵波开源新一代实时交互世界模型 LingBot-World 2.0（14B 参数），支持施法、攻击、跳跃等丰富角色动作及文本驱动事件（如切换场景、召唤风暴），内置 Pilot Agent 与 Director Agent 实现世界持续演化，并支持多人同时交互。模型采用因果预训练范式和混合双向自回归注意力掩码（MoBA），可稳定输出 720p/60fps 实时画面，长达一小时测试画质不衰减。通过",
-    "sourceUrl": "https://www.ithome.com/0/974/508.htm",
-    "sourceName": "IT之家（RSS）"
   },
   {
     "date": "2026-07-10",
@@ -56,67 +21,11 @@
     "sourceName": "X：Sam Altman (@sama)"
   },
   {
-    "date": "2026-07-10",
-    "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
-    "summary": "蚂蚁灵波科技正式开源LingBot-Video，这是全球首个基于MoE架构、面向具身智能的视频生成基础模型。总参数30B，推理时仅激活约3B，效率较同规模Dense架构提升约3倍。模型引入7万小时VLA、VLN、Ego等机器人数据，并通过多维强化学习奖励系统对齐物理合理性与任务完成度。在RBench上总分0.620，超越Wan2.6等模型；在Physics-IQ Verified评测中排名第一。可",
-    "sourceUrl": "https://www.ithome.com/0/974/517.htm",
-    "sourceName": "IT之家（RSS）"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
-    "summary": "Robbyant 推出 LingBot-VLA 2.0，一个 6B 参数的开源视觉-语言-动作（VLA）基础模型。它以 Qwen3-VL-4B-Instruct 为骨干，采用 MoE 动作专家架构，通过 55 维规范向量统一表示不同机器人的状态和动作。训练数据涵盖约 60,000 小时高质量数据（50,000 小时机器人轨迹 + 10,000 小时第一人称人类视频），覆盖 20 种机器人配置。在 ",
-    "sourceUrl": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
-    "sourceName": "MarkTechPost（RSS）"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "Meta 发布 Muse Spark 1.1 模型",
-    "summary": "来自 @finkd 的消息 — Muse Spark 1.1 已上线。",
-    "sourceUrl": "https://x.com/AIatMeta/status/2075218647359111460",
-    "sourceName": "X：AI at Meta (@AIatMeta)"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-    "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 5",
-    "sourceUrl": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-    "sourceName": "MarkTechPost（RSS）"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-    "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10",
-    "sourceUrl": "https://x.com/AYi_AInotes/status/2076341952023310580",
-    "sourceName": "X：阿易 AI Notes (@AYi_AInotes)"
-  },
-  {
-    "date": "2026-07-14",
-    "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-    "summary": "腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K 上下文窗口，通过 Agentic Da",
-    "sourceUrl": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-    "sourceName": "公众号：腾讯混元"
-  },
-  {
-    "date": "2026-07-14",
-    "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-    "summary": "德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Aper",
-    "sourceUrl": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-    "sourceName": "The Decoder：AI News（RSS）"
-  },
-  {
     "date": "2026-07-15",
     "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
     "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线",
     "sourceUrl": "https://prismml.com/news/bonsai-27b",
     "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-    "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集及复现剩余公开数据的完整工具包）。",
-    "sourceUrl": "https://x.com/SenseTime_AI/status/2076828658531262619",
-    "sourceName": "X：商汤 SenseTime (@SenseTime_AI)"
   },
   {
     "date": "2026-07-15",
@@ -133,34 +42,6 @@
     "sourceName": "Google Developers Blog（RSS）"
   },
   {
-    "date": "2026-07-16",
-    "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-    "summary": "阿里通义实验室发布实时语音交互模型 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 的 Speech Reasoning 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。",
-    "sourceUrl": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-    "sourceName": "公众号：通义实验室（千问）"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "Thinking Machines 发布多模态模型 Inkling",
-    "summary": "今天，我们推出 Inkling。 Inkling 能高效地对文本、图像和音频模态进行推理。我们将提供完整权重。 https://thinkingmachines.ai/news/introducing-inkling/ 即日起可在 Tinker 上进行微调。在 Inkling Playground 中试用。🧵",
-    "sourceUrl": "https://x.com/thinkymachines/status/2077454609551921208",
-    "sourceName": "X：Thinking Machines (@thinkymachines)"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
-    "summary": "OpenAI 训练了自动化红队模型 GPT-Red，用于在部署前发现漏洞并在训练中生成攻击以提升模型鲁棒性。GPT-Red 能攻破此前几乎所有模型，其攻击被用于对抗训练 GPT-5.6 Sol，使该模型在直接提示注入基准测试中的失败率降至四个月前最佳生产模型的 1/6。GPT-Red 通过自对弈强化学习训练，投入了 OpenAI 后训练中前所未有的计算规模。",
-    "sourceUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "Kimi K3 发布：2.8T 参数开源模型，具备原生视觉与百万 token 上下文窗口",
-    "summary": "月之暗面发布 Kimi K3，一个 2.8T 参数的开源模型，采用 Kimi Delta Attention 和 Attention Residuals 架构，支持原生视觉能力与 100 万 token 上下文窗口。",
-    "sourceUrl": "https://www.kimi.com/blog/kimi-k3",
-    "sourceName": "Moonshot AI：Kimi Blog"
-  },
-  {
     "date": "2026-07-18",
     "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
     "summary": "Kimi K3 在 Frontend Code Arena 以 1679 分登顶，力压 Claude Fable 5 与 GPT-5.6 Sol，7 个前端细分赛道拿下 6 个第一。该模型为 2.8 万亿参数 MoE 架构，百万上下文窗口，7 月 27 日开放权重。K3 的 API 定价为输入每百万 tokens 15 美元，对标前沿闭源模型，放弃低价路线，转向长上下文智能体编码场景的定价策略。",
@@ -168,32 +49,11 @@
     "sourceName": "X：阿易 AI Notes (@AYi_AInotes)"
   },
   {
-    "date": "2026-07-18",
-    "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一",
-    "summary": "NVIDIA 发布 Nemotron 3 Embed 系列，包含三个开源 checkpoint，其中 8B-BF16 版本在 RTEB 基准上以 78.46 的平均 NDCG@10 排名第一。1B-NVFP4 版本在 Blackwell 上吞吐量比 BF16 高 2 倍，精度保留 99.5%，所有模型最大序列长度 32,768 tokens。",
-    "sourceUrl": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb",
-    "sourceName": "MarkTechPost（RSS）"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-    "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将“听、看、说、演”统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
-    "sourceUrl": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-    "sourceName": "公众号：通义实验室（千问）"
-  },
-  {
     "date": "2026-07-20",
     "title": "昆仑万维宣布2026为“世界模型元年”，发布Matrix-Game 3.5等模型",
     "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为“世界模型元年”，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
     "sourceUrl": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
     "sourceName": "公众号：昆仑万维（天工）"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-    "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-    "sourceUrl": "https://x.com/OpenBMB/status/2078839529591759025",
-    "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)"
   },
   {
     "date": "2026-07-20",
@@ -211,20 +71,6 @@
   },
   {
     "date": "2026-07-21",
-    "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成",
-    "summary": "NVIDIA 在 Hugging Face 上开源了 Cosmos 3 Edge，一个 40 亿参数的世界模型，旨在帮助机器人和视觉 AI 智能体在边缘设备上理解环境、实时推理并生成动作。",
-    "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "sourceName": "Hugging Face：Blog（RSS）"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-    "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
-    "sourceUrl": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-    "sourceName": "公众号：通义实验室（千问）"
-  },
-  {
-    "date": "2026-07-21",
     "title": "上海科学智能研究院开放科学多模态基础模型“神珍”",
     "summary": "上海科学智能研究院开放科学多模态基础模型“神珍”，总参数约110亿，可处理DNA、RNA、蛋白质、小分子、地球系统和医学影像六类数据。在生物序列20项任务中，该模型9项取得最优结果；医学影像分割平均Dice得分91.20，在7种参评方法中最优。模型权重及代码已在星河启智、Hugging Face和GitHub开放。",
     "sourceUrl": "https://www.ithome.com/0/979/017.htm",
@@ -236,55 +82,6 @@
     "summary": "小红书 dots 团队携内部版本 dots-note 3.0 参加第 67 届 IMO 2026，六道题均获满分，以 42/42 分取得满分金牌，全球仅 7 位人类选手获此成绩。模型不依赖形式化语言，直接读取原始 LaTeX 题目，通过递归自我批判能力端到端完成解题。dots-note 3.0 是 dots3 系列最轻量级模型，预期将开源。",
     "sourceUrl": "https://mp.weixin.qq.com/s/EITf-SrP5o62Ljp7UGzPVw",
     "sourceName": "公众号：小红书技术（dots.llm）"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-    "summary": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 三款新模型。其中 3.6 Flash 在编码和多模态性能上提升，token 用量降低 17%，成本低于前代；3.5 Flash Cyber 专为修复网络安全漏洞微调，仅限政府及可信合作伙伴使用。",
-    "sourceUrl": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
-    "sourceName": "TechCrunch：AI（RSS）"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型",
-    "summary": "Google DeepMind 推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 三款新模型。其中 Gemini 3.6 Flash 为最新主力模型，3.5 Flash-Lite 主打更低成本与更高效率，3.5 Flash Cyber 则针对网络安全场景优化。三款模型均通过 Google AI 开发者平台提供 API 访问。",
-    "sourceUrl": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
-    "sourceName": "Google DeepMind：Blog（RSS）"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
-    "summary": "Cactus 推出基于 Gemma 4 的混合模型“Cactus Hybrid”，在模型检查点内嵌入置信度探针，为每个生成答案输出 0-1 之间的结构化置信度分数。高置信度时在设备端直接回答，低分时可自动路由至更大模型。该探针在零音频训练数据下，于四个音频基准上达到 0.79-0.88 AUROC，远超 token 熵基线（均值 0.549），且 MIT 协议开源。",
-    "sourceUrl": "https://github.com/cactus-compute/cactus-hybrid",
-    "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）"
-  },
-  {
-    "date": "2026-07-25",
-    "title": "Anthropic 发布 Claude Opus 5",
-    "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
-    "sourceUrl": "https://www.anthropic.com/news/claude-opus-5",
-    "sourceName": "Anthropic：Newsroom（网页）"
-  },
-  {
-    "date": "2026-07-25",
-    "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-    "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10,000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
-    "sourceUrl": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-    "sourceName": "公众号：蚂蚁百灵（Ling）"
-  },
-  {
-    "date": "2026-07-25",
-    "title": "FLUX 3 x mimic：新一代视频动作模型",
-    "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
-    "sourceUrl": "https://bfl.ai/blog/flux-3-mimic",
-    "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）"
-  },
-  {
-    "date": "2026-07-25",
-    "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-    "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
-    "sourceUrl": "https://updates.midjourney.com/version-8-2",
-    "sourceName": "Midjourney：Updates（RSS）"
   },
   {
     "date": "2026-07-25",
