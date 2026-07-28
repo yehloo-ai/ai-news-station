@@ -1,22 +1,17 @@
 {
-  "generatedAt": "2026-07-27T15:58:55.797Z",
+  "generatedAt": "2026-07-28T04:41:15.114Z",
   "umami": {
     "error": null,
     "today": {
-      "visitors": 6,
-      "pageviews": 112
+      "visitors": 2,
+      "pageviews": 9
     },
     "last30d": {
-      "visitors": 42,
-      "pageviews": 649,
-      "visits": 135
+      "visitors": 43,
+      "pageviews": 658,
+      "visits": 137
     },
     "series": [
-      {
-        "date": "2026-06-28",
-        "pageviews": 0,
-        "visitors": 0
-      },
       {
         "date": "2026-06-29",
         "pageviews": 0,
@@ -159,6 +154,11 @@
       },
       {
         "date": "2026-07-27",
+        "pageviews": 9,
+        "visitors": 2
+      },
+      {
+        "date": "2026-07-28",
         "pageviews": 0,
         "visitors": 0
       }
@@ -166,7 +166,7 @@
     "countries": [
       {
         "code": "US",
-        "visitors": 25
+        "visitors": 26
       },
       {
         "code": "CN",
