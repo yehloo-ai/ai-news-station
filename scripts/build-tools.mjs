@@ -92,7 +92,7 @@ writeFileSync('tools/index.html', `<!DOCTYPE html>
   .search input { width:100%; box-sizing:border-box; padding:9px 14px 9px 34px; font-size:13px; color:#111827; background:#fff; border:1px solid #e5e7eb; border-radius:999px; outline:none; }
   .search input:focus { border-color:rgba(217,43,43,0.35); }
   .search::before { content:'🔍'; position:absolute; left:13px; top:50%; transform:translateY(-50%); font-size:12px; opacity:.55; }
-  .catnav { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:10px; }
+  .catnav { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-bottom:10px; }
   .catnav .fil { font-size:12.5px; color:#6b7280; cursor:pointer; padding:5px 14px; border-radius:999px; background:#fff; border:1px solid #e5e7eb; white-space:nowrap; transition:all .15s; }
   .catnav .fil:hover { color:#d92b2b; border-color:rgba(217,43,43,0.35); }
   .catnav .fil.on { background:#d92b2b; border-color:#d92b2b; color:#fff; font-weight:600; }
@@ -138,7 +138,7 @@ writeFileSync('tools/index.html', `<!DOCTYPE html>
 <h1>AI 工具库 · AI 工具导航</h1>
 <div class="sub">精选 ${total} 款好用的 AI 工具，按场景分类，点击直达官网${newCount ? ` · 本月新增 ${newCount}` : ''} · 更新于 ${updatedAt} · <a href="${SUGGEST}" rel="noopener" target="_blank">推荐收录 →</a></div>
 <div class="search"><input type="search" id="q" placeholder="搜索工具名称、厂商、用途…"></div>
-<nav class="catnav">${catNav}</nav>
+<nav class="catnav"><span class="sub-label">类型</span>${catNav}</nav>
 <div class="subfilter">
 <span class="sub-label">地区</span>
 <button class="chip on" data-region="all">全部</button>

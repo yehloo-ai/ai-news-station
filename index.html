@@ -532,8 +532,8 @@
       content: '🔍'; position: absolute; left: 13px; top: 50%;
       transform: translateY(-50%); font-size: 12px; opacity: .55; pointer-events: none;
     }
-    /* 分类筛选胶囊：全部 + 各分类（纯文案，无图标），点击原地筛选 */
-    .tool-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+    /* 分类筛选胶囊：类型 标签 + 全部 + 各分类（纯文案，无图标），点击原地筛选 */
+    .tool-filter { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 10px; }
     .tool-fil {
       font-size: 12.5px; color: var(--muted); cursor: pointer;
       padding: 5px 14px; border-radius: 999px;
@@ -2746,7 +2746,7 @@ function renderTools(data) {
     </div>
     <div class="source-pills">按场景挑选好用的 AI 工具，点击直达官网 · <a href="${TOOLS_SUGGEST_URL}" target="_blank" rel="noopener" style="color:var(--accent);">推荐收录 →</a> · <a href="tools/" target="_blank" rel="noopener" style="color:var(--accent);">网页版（可分享）</a></div>
     <div class="tool-search"><input type="search" id="toolSearch" placeholder="搜索工具名称、厂商、用途…" oninput="filterToolsRun()"></div>
-    <div class="tool-filter">${filters}</div>
+    <div class="tool-filter"><span class="tool-sub-label">类型</span>${filters}</div>
     <div class="tool-subfilter">
       <span class="tool-sub-label">地区</span>
       <button class="tool-chip on" data-region="all" onclick="filterToolsRegion('all')">全部</button>

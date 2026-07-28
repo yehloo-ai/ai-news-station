@@ -25,7 +25,7 @@
   .search input { width:100%; box-sizing:border-box; padding:9px 14px 9px 34px; font-size:13px; color:#111827; background:#fff; border:1px solid #e5e7eb; border-radius:999px; outline:none; }
   .search input:focus { border-color:rgba(217,43,43,0.35); }
   .search::before { content:'🔍'; position:absolute; left:13px; top:50%; transform:translateY(-50%); font-size:12px; opacity:.55; }
-  .catnav { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:10px; }
+  .catnav { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-bottom:10px; }
   .catnav .fil { font-size:12.5px; color:#6b7280; cursor:pointer; padding:5px 14px; border-radius:999px; background:#fff; border:1px solid #e5e7eb; white-space:nowrap; transition:all .15s; }
   .catnav .fil:hover { color:#d92b2b; border-color:rgba(217,43,43,0.35); }
   .catnav .fil.on { background:#d92b2b; border-color:#d92b2b; color:#fff; font-weight:600; }
@@ -71,7 +71,7 @@
 <h1>AI 工具库 · AI 工具导航</h1>
 <div class="sub">精选 40 款好用的 AI 工具，按场景分类，点击直达官网 · 更新于 2026-07-28 · <a href="https://github.com/yehloolau-afk/ai-news-station/issues/new?title=%E3%80%90%E5%B7%A5%E5%85%B7%E6%94%B6%E5%BD%95%E5%BB%BA%E8%AE%AE%E3%80%91&body=%E5%B7%A5%E5%85%B7%E5%90%8D%E7%A7%B0%EF%BC%9A%0A%E5%AE%98%E7%BD%91%E9%93%BE%E6%8E%A5%EF%BC%9A%0A%E6%89%80%E5%B1%9E%E5%88%86%E7%B1%BB%EF%BC%9A%0A%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%80%E4%BB%8B%EF%BC%9A" rel="noopener" target="_blank">推荐收录 →</a></div>
 <div class="search"><input type="search" id="q" placeholder="搜索工具名称、厂商、用途…"></div>
-<nav class="catnav"><button class="fil on" data-cat="all">全部</button><button class="fil" data-cat="chat">对话助手 / 大模型</button><button class="fil" data-cat="coding">AI 编程</button><button class="fil" data-cat="image">图像生成</button><button class="fil" data-cat="video">视频生成</button><button class="fil" data-cat="audio">音频 / 语音 / 音乐</button><button class="fil" data-cat="search">AI 搜索 / 研究</button><button class="fil" data-cat="writing">写作 / 办公 / 演示</button><button class="fil" data-cat="agent">智能体 / 自动化</button><button class="fil" data-cat="design">设计 / 创意</button></nav>
+<nav class="catnav"><span class="sub-label">类型</span><button class="fil on" data-cat="all">全部</button><button class="fil" data-cat="chat">对话助手 / 大模型</button><button class="fil" data-cat="coding">AI 编程</button><button class="fil" data-cat="image">图像生成</button><button class="fil" data-cat="video">视频生成</button><button class="fil" data-cat="audio">音频 / 语音 / 音乐</button><button class="fil" data-cat="search">AI 搜索 / 研究</button><button class="fil" data-cat="writing">写作 / 办公 / 演示</button><button class="fil" data-cat="agent">智能体 / 自动化</button><button class="fil" data-cat="design">设计 / 创意</button></nav>
 <div class="subfilter">
 <span class="sub-label">地区</span>
 <button class="chip on" data-region="all">全部</button>
