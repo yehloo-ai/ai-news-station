@@ -11,6 +11,9 @@
   <meta property="og:description" content="聚合国内外 20+ 主流媒体的 AI 资讯，7 大频道实时更新，外文自动翻译，每日 AI 日报存档。">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://yehloolau-afk.github.io/ai-news-station/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="飞翔的AI资讯站 — AI 行业资讯聚合">
+  <meta name="twitter:description" content="聚合国内外 20+ 主流媒体的 AI 资讯，7 大频道实时更新，外文自动翻译">
   <link rel="preload" href="data/featured.json" as="fetch" crossorigin="anonymous">
   <link rel="preconnect" href="https://api.rss2json.com">
   <link rel="preconnect" href="https://api.allorigins.win">
@@ -919,7 +922,6 @@
 
     /* ── Timeline layout (非日报频道) ── */
     .tl-wrap { display: flex; flex-direction: column; gap: 28px; }
-    .tl-group {}
     .tl-date-divider {
       display: flex;
       align-items: center;
@@ -1166,7 +1168,7 @@
       /* 日报存档横向导航：移动端微调间距 */
       .daily-archive-col { padding: 6px 10px; }
       .archive-day-row { min-width: 36px; padding: 5px 6px; font-size: 12px; }
-      .daily-content-col { overflow: visible; padding: 14px 16px 20px; }
+      .daily-content-col { overflow: visible; padding: 14px 16px 80px; }
 
       /* 日报大标题缩小 */
       .dnp-title { font-size: 30px; }
@@ -1382,6 +1384,65 @@
       background: var(--accent-muted); color: var(--accent);
       border-radius: 20px; white-space: nowrap; flex-shrink: 0;
     }
+
+    /* ── Dark mode ── */
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117;
+        --sidebar-bg: #161b22;
+        --card-bg: #161b22;
+        --card-hover: #1c2129;
+        --border: #30363d;
+        --text: #e6edf3;
+        --muted: #8b949e;
+        --accent: #f85149;
+        --accent-muted: rgba(248,81,73,0.1);
+        --accent-border: rgba(248,81,73,0.3);
+        --green: #3fb950;
+        --yellow: #d29922;
+        --purple: #bc8cff;
+        --orange: #f0883e;
+      }
+      img.card-thumb, img.feat-tl-img { opacity: 0.85; }
+    }
+
+    /* ── 已读状态 ── */
+    .card.is-read { opacity: 0.55; }
+    .card.is-read:hover { opacity: 0.85; }
+    .card.is-read .card-title::after {
+      content: ' ';
+      display: inline-block;
+      width: 6px; height: 6px;
+      background: var(--green);
+      border-radius: 50%;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+
+    /* ── 回到顶部按钮 ── */
+    .back-to-top {
+      position: fixed;
+      bottom: 24px; right: 24px;
+      width: 40px; height: 40px;
+      border-radius: 50%;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s, color 0.12s, border-color 0.12s;
+      z-index: 100;
+    }
+    .back-to-top.visible { opacity: 1; pointer-events: auto; }
+    .back-to-top:hover { color: var(--accent); border-color: var(--accent); }
+    @media (max-width: 768px) {
+      .back-to-top { bottom: 72px; right: 16px; width: 36px; height: 36px; }
+    }
   </style>
 
   <!-- Umami 统计：覆盖全球访客（含国内），后台 https://cloud.umami.is -->
@@ -1409,7 +1470,7 @@
     <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
     订阅
   </a>
-  <button class="mobile-refresh-btn" onclick="manualRefresh()" title="刷新">
+  <button class="mobile-refresh-btn" onclick="manualRefresh()" title="刷新" aria-label="刷新资讯">
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
       <path d="M1 4v6h6M23 20v-6h-6M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/>
     </svg>
@@ -1427,7 +1488,7 @@
     </div>
   </div>
 
-  <nav class="tab-nav" id="tabNav">
+  <nav class="tab-nav" id="tabNav" role="tablist" aria-label="资讯频道">
     <div class="tab-group-label">资讯频道</div>
   </nav>
 
@@ -1437,7 +1498,7 @@
       <span>外文已翻译，实时更新中</span>
       <span class="countdown" id="countdown"></span>
     </div>
-    <button class="refresh-btn" id="refreshBtn" onclick="manualRefresh()">
+    <button class="refresh-btn" id="refreshBtn" onclick="manualRefresh()" aria-label="立即刷新资讯">
       <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
         <path d="M1 4v6h6M23 20v-6h-6M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/>
       </svg>
@@ -1473,6 +1534,13 @@
 </div>
 
 <!-- 移动端底部 tab 导航（手机显示，PC隐藏） -->
+<!-- 回到顶部 -->
+<button class="back-to-top" id="backToTop" onclick="scrollBackToTop()" aria-label="回到顶部">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="18 15 12 9 6 15"/>
+  </svg>
+</button>
+
 <nav class="mobile-nav" id="mobileNav"></nav>
 
 <!-- 移动端产品组浮层 -->
@@ -1507,6 +1575,7 @@ async function fetchStaticData(tabId) {
 // 代理记忆：记住每个 feed 上次成功的代理，下次直接命中，跳过无效路径
 const PROXY_MEM = (() => { try { return JSON.parse(localStorage.getItem('ai_proxy_mem') || '{}'); } catch { return {}; } })();
 function saveProxyHit(url, proxy) {
+  if (PROXY_MEM[url] === proxy) return;
   PROXY_MEM[url] = proxy;
   try { localStorage.setItem('ai_proxy_mem', JSON.stringify(PROXY_MEM)); } catch {}
 }
@@ -1689,80 +1758,65 @@ function genRecReason(item) {
   const desc = String(item.description || '').replace(/<[^>]*>/g, ' ').slice(0, 200);
   const full = raw + ' ' + desc;
 
-  // 提取模型/产品名（作为句子主语）
   const modelRe = /\b(GPT-[\w.]+|o\d[\w.-]*|Claude[\s\w.-]{0,12}|Gemini[\s\w.-]{0,8}|Llama[\s\w.-]{0,8}|Mistral[\w.-]+|Sora|DALL-E[\s\d]*|Stable Diffusion|Midjourney|Runway|Kling|Veo[\s\d]*|Grok[\s\d]*)\b/i;
   const model = (raw.match(modelRe) || [])[0]?.trim();
-
-  // 提取数字指标
   const numRe = /\$[\d,.]+\s*[BMK]?(?:\s*(?:billion|million))?|\b\d+(?:\.\d+)?[xX]|\b\d+(?:\.\d+)?%|\b\d+[BMK]\s*(?:tokens?|params?)/i;
   const num = (raw.match(numRe) || [])[0]?.trim();
-
-  // 识别事件类型，返回对应的描述句式
   const is = re => re.test(full);
+  const isTitle = re => re.test(raw);
+  const candidates = [];
+  function add(re, w, gen) {
+    if (is(re)) candidates.push({ w: isTitle(re) ? w + 2 : w, gen });
+  }
 
-  if (is(/\bfund|invest|融资|raise|valuat|估值/i)) {
+  add(/\bfund|invest|融资|raise|valuat|估值/i, 10, () => {
     const who = model || (raw.match(/\b(OpenAI|Anthropic|DeepMind|Meta|Google|Microsoft|Baidu|ByteDance|Mistral|xAI)\b/i) || [])[0] || '该公司';
     return num
       ? `${who} 完成 ${num} 融资，资本持续押注 AI 赛道的核心信号。`
       : `${who} 最新融资动态，折射当前 AI 赛道的资本走向与竞争格局。`;
-  }
-  if (is(/\bacquir|merger|收购|并购/i)) {
-    return model
-      ? `涉及 ${model} 的并购整合，AI 产业链重组的重要节点。`
-      : '重大并购动态，AI 行业格局调整的关键信号。';
-  }
-  if (is(/\bregulat|policy|法规|监管|compliance|ban|禁止/i)) {
-    return '监管政策收紧，对 AI 产品合规路径与出海策略有直接影响。';
-  }
-  if (is(/\bopen.?source|开源|open.?weight/i)) {
+  });
+  add(/\bacquir|merger|收购|并购/i, 9, () => model
+    ? `涉及 ${model} 的并购整合，AI 产业链重组的重要节点。`
+    : '重大并购动态，AI 行业格局调整的关键信号。');
+  add(/\bregulat|policy|法规|监管|compliance|ban|禁止/i, 8, () =>
+    '监管政策收紧，对 AI 产品合规路径与出海策略有直接影响。');
+  add(/\bopen.?source|开源|open.?weight/i, 7, () => {
     const who = model || 'AI 开源项目';
     return `${who} 开源发布，降低使用门槛，值得关注其生态影响力。`;
+  });
+  add(/\bbenchmark|leaderboard|MMLU|HumanEval|评测|排行/i, 7, () => model
+    ? `${model} 评测结果出炉，能力边界与竞品差距值得深入对比。`
+    : '最新能力评测出炉，横向对比各模型真实表现的重要参考。');
+  add(/\breasoning|chain.of.thought|思维链|思考模式/i, 6, () => model
+    ? `${model} 推理能力升级，复杂问题求解与逻辑链路有显著提升。`
+    : '推理能力突破，AI 处理复杂任务的关键技术进展。');
+  add(/\bmultimodal|多模态|vision|视觉理解/i, 6, () => model
+    ? `${model} 多模态能力更新，图文理解与跨模态交互的重要进展。`
+    : '多模态技术进展，视觉与语言融合应用的新可能。');
+  add(/\bagent|agentic|autonomous|自主|工作流/i, 6, () => model
+    ? `${model} Agent 能力强化，自动化工作流落地又近一步。`
+    : 'AI Agent 最新进展，自主任务执行能力的重要演进节点。');
+  add(/\bvideo.?gen|视频生成|text.to.video/i, 5, () => model
+    ? `${model} 视频生成能力发布，创作工具链的重要补充。`
+    : '视频生成新突破，AI 创作工具链的能力边界再次扩展。');
+  add(/\bimage.gen|生图|text.to.image|文生图/i, 5, () => model
+    ? `${model} 生图效果更新，设计师与创作者值得上手体验。`
+    : 'AI 生图新进展，视觉创作工具的能力与易用性持续提升。');
+  add(/\bcode|coding|编程|develope|developer/i, 4, () => model
+    ? `${model} 代码生成能力提升，开发效率与辅助编程场景的重要参考。`
+    : 'AI 编程能力新进展，开发者工具链的重要动态。');
+  add(/\bpricing|price|cost|定价|收费|付费/i, 5, () => model
+    ? `${model} 定价策略调整，直接影响开发者成本与产品商业化节奏。`
+    : '定价策略变动，对 AI 产品的商业模式与用户选择有直接影响。');
+  add(/\bsafety|alignment|对齐|安全|risk|风险/i, 5, () => model
+    ? `${model} 安全对齐进展，AI 可信度与部署边界的关键参考。`
+    : 'AI 安全对齐动态，影响模型部署策略与行业信任基础。');
+
+  if (candidates.length) {
+    candidates.sort((a, b) => b.w - a.w);
+    return candidates[0].gen();
   }
-  if (is(/\bbenchmark|leaderboard|MMLU|HumanEval|评测|排行/i)) {
-    return model
-      ? `${model} 评测结果出炉，能力边界与竞品差距值得深入对比。`
-      : '最新能力评测出炉，横向对比各模型真实表现的重要参考。';
-  }
-  if (is(/\breasoning|chain.of.thought|思维链|思考模式/i)) {
-    return model
-      ? `${model} 推理能力升级，复杂问题求解与逻辑链路有显著提升。`
-      : '推理能力突破，AI 处理复杂任务的关键技术进展。';
-  }
-  if (is(/\bmultimodal|多模态|vision|视觉理解/i)) {
-    return model
-      ? `${model} 多模态能力更新，图文理解与跨模态交互的重要进展。`
-      : '多模态技术进展，视觉与语言融合应用的新可能。';
-  }
-  if (is(/\bagent|agentic|autonomous|自主|工作流/i)) {
-    return model
-      ? `${model} Agent 能力强化，自动化工作流落地又近一步。`
-      : 'AI Agent 最新进展，自主任务执行能力的重要演进节点。';
-  }
-  if (is(/\bvideo|视频生成|text.to.video/i)) {
-    return model
-      ? `${model} 视频生成能力发布，创作工具链的重要补充。`
-      : '视频生成新突破，AI 创作工具链的能力边界再次扩展。';
-  }
-  if (is(/\bimage.gen|生图|text.to.image|文生图/i)) {
-    return model
-      ? `${model} 生图效果更新，设计师与创作者值得上手体验。`
-      : 'AI 生图新进展，视觉创作工具的能力与易用性持续提升。';
-  }
-  if (is(/\bcode|coding|编程|develope|developer/i)) {
-    return model
-      ? `${model} 代码生成能力提升，开发效率与辅助编程场景的重要参考。`
-      : 'AI 编程能力新进展，开发者工具链的重要动态。';
-  }
-  if (is(/\bpricing|price|cost|定价|收费|付费/i)) {
-    return model
-      ? `${model} 定价策略调整，直接影响开发者成本与产品商业化节奏。`
-      : '定价策略变动，对 AI 产品的商业模式与用户选择有直接影响。';
-  }
-  if (is(/\bsafety|alignment|对齐|安全|risk|风险/i)) {
-    return model
-      ? `${model} 安全对齐进展，AI 可信度与部署边界的关键参考。`
-      : 'AI 安全对齐动态，影响模型部署策略与行业信任基础。';
-  }
+
   if (model) {
     const cat = item._aiCat || '';
     if (cat === 'paper' || is(/\bresearch|论文|study|experiment/i))
@@ -1770,7 +1824,6 @@ function genRecReason(item) {
     return `${model} 重要动态，关注其能力进展与行业影响。`;
   }
 
-  // 兜底：分类句
   const cat = item._aiCat || '';
   if (cat === 'ai-models') return '大模型能力演进的关键节点，值得持续跟踪。';
   if (cat === 'ai-products') return 'AI 产品落地新进展，设计与工程实践的参考样本。';
@@ -2205,6 +2258,8 @@ function renderNav() {
   const makeBtn = t => `
     <button class="tab-btn ${t.id === activeTab ? 'active' : ''}"
             id="btn-${t.id}"
+            role="tab"
+            aria-selected="${t.id === activeTab}"
             onclick="switchTab('${t.id}')"
             onmouseenter="prefetchTab('${t.id}')">
       <span class="tab-icon">${t.icon}</span>
@@ -3129,7 +3184,7 @@ function xmlNsText(el, localName) {
 }
 
 // ── Render ────────────────────────────────────────────
-function renderTab(tab, items, feedErrors = []) {
+function renderTab(tab, items, feedErrors = [], aiHotData = null) {
   const main = document.getElementById('main');
 
   // 只在完全没有内容时才显示错误（有部分内容时静默忽略失败的源）
@@ -3142,16 +3197,16 @@ function renderTab(tab, items, feedErrors = []) {
   // 日报：三列布局（侧边栏 | 存档列表 | 内容）
   if (tab.layout === 'daily') {
     main.classList.add('daily-mode');
-    const newsHtml = arguments[3]?.sections
-      ? renderAiHotDaily(arguments[3])
+    const newsHtml = aiHotData?.sections
+      ? renderAiHotDaily(aiHotData)
       : `${errorBanner}${renderDailyNewspaper(items)}`;
     const dailySourceLine = `<div class="source-pills" style="margin-bottom:12px">${sourcePills}</div>`;
     main.innerHTML = `
       <div class="daily-archive-col" id="archiveCol"></div>
       <div class="daily-content-col" id="dailyContentCol">${dailySourceLine}<div id="dailyBody">${newsHtml}</div></div>`;
     renderArchiveInCol();
-    const _dkey = arguments[3]?.date || new Date().toISOString().slice(0, 10);
-    if (arguments[3]?.sections) afterDailyPaint(arguments[3], _dkey);
+    const _dkey = aiHotData?.date || new Date().toISOString().slice(0, 10);
+    if (aiHotData?.sections) afterDailyPaint(aiHotData, _dkey);
     else afterNewspaperPaint(items, _dkey);
     return;
   }
@@ -3337,48 +3392,6 @@ function renderTimeline(items) {
         <div class="dnp-card-list">${rows}</div>
       </div>`;
   }).join('') + `</div>`;
-}
-
-// ── Render: list ──────────────────────────────────────
-function renderList(items) {
-  return `<div class="card-list">${items.slice(0, 50).map(item => cardHtml(item)).join('')}</div>`;
-}
-
-// ── Render: featured ─────────────────────────────────
-function renderFeatured(items) {
-  const top = items.slice(0, 2);
-  const rest = items.slice(2, 30);
-
-  const topHtml = top.map((item, i) => {
-    const img = getImg(item);
-    const imgEl = img ? `<img class="${i === 0 ? 'hero-img' : 'small-img'}"
-      src="${esc(img)}" onerror="this.remove()" alt="" loading="lazy">` : '';
-    return `
-      <a class="card ${i === 0 ? 'feat-hero' : 'feat-small'}"
-         href="${esc(item.link)}" target="_blank" rel="noopener">
-        ${imgEl}
-        <div class="card-body">
-          <div class="card-source">
-            <span class="src-dot" style="background:${item._feed?.color||'#8b949e'}"></span>
-            ${esc(item._feed?.name || '')}
-            <span>·</span>
-            ${timeAgo(item.pubDate)}
-            <span class="badge badge-featured">精选</span>
-          </div>
-          <div class="card-title">${renderTitle(item)}</div>
-          <div class="rec-tip">
-            <span class="rec-tip-label">💡 推荐理由</span>
-            <span class="rec-tip-text">${genRecReason(item)}</span>
-          </div>
-        </div>
-      </a>`;
-  }).join('');
-
-  return `
-    <div class="featured-wrap">
-      <div class="feat-top">${topHtml}</div>
-      <div class="card-list">${rest.map(item => featCardHtml(item)).join('')}</div>
-    </div>`;
 }
 
 // ── Render: AI HOT daily (structured sections) ────────
@@ -3843,14 +3856,18 @@ function scheduleAutoRefresh() {
 
 function manualRefresh() {
   const btn = document.getElementById('refreshBtn');
-  btn.classList.add('loading');
-  btn.textContent = '刷新中…';
+  const mobBtn = document.querySelector('.mobile-refresh-btn');
+  if (btn) { btn.classList.add('loading'); btn.textContent = '刷新中…'; }
+  if (mobBtn) { mobBtn.style.opacity = '0.4'; mobBtn.style.pointerEvents = 'none'; }
   delete cache[activeTab];
   switchTab(activeTab).then(() => {
-    btn.classList.remove('loading');
-    btn.innerHTML = `<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-      <path d="M1 4v6h6M23 20v-6h-6M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/>
-    </svg> 立即刷新`;
+    if (btn) {
+      btn.classList.remove('loading');
+      btn.innerHTML = `<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <path d="M1 4v6h6M23 20v-6h-6M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/>
+      </svg> 立即刷新`;
+    }
+    if (mobBtn) { mobBtn.style.opacity = ''; mobBtn.style.pointerEvents = ''; }
     if (isUpdateHour()) nextRefreshAt = Date.now() + REFRESH_INTERVAL;
   });
 }
@@ -3933,6 +3950,67 @@ function nowStr() {
   const d = new Date();
   return `${pad(d.getHours())}:${pad(d.getMinutes())}`;
 }
+
+// ── 回到顶部 ─────────────────────────────────────────
+function scrollBackToTop() {
+  const mainEl = document.getElementById('main');
+  if (mainEl && mainEl.scrollTop > 0) {
+    mainEl.scrollTo({ top: 0, behavior: 'smooth' });
+  } else {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+}
+
+// ── 已读状态 ─────────────────────────────────────────
+const LS_READ_KEY = 'ai_station_read_v1';
+const readLinks = (() => {
+  try {
+    const arr = JSON.parse(localStorage.getItem(LS_READ_KEY) || '[]');
+    return new Set(arr);
+  } catch { return new Set(); }
+})();
+
+function markAsRead(link) {
+  if (!link || link === '#') return;
+  readLinks.add(link);
+  const trimmed = [...readLinks].slice(-500);
+  try { localStorage.setItem(LS_READ_KEY, JSON.stringify(trimmed)); } catch {}
+  document.querySelectorAll(`a.card[href="${CSS.escape(link)}"]`).forEach(el => el.classList.add('is-read'));
+}
+
+function applyReadState() {
+  document.querySelectorAll('a.card[href]').forEach(el => {
+    const href = el.getAttribute('href');
+    if (href && readLinks.has(href)) el.classList.add('is-read');
+    if (!el._readBound) {
+      el.addEventListener('click', () => markAsRead(href));
+      el._readBound = true;
+    }
+  });
+}
+
+const _origRenderTab = renderTab;
+renderTab = function(...args) {
+  _origRenderTab.apply(this, args);
+  requestAnimationFrame(applyReadState);
+};
+const _origRenderBuilders = renderBuilders;
+renderBuilders = function(...args) {
+  _origRenderBuilders.apply(this, args);
+  requestAnimationFrame(applyReadState);
+};
+
+// 回到顶部按钮滚动监听（在 init 前注册）
+document.addEventListener('DOMContentLoaded', () => {
+  const btt = document.getElementById('backToTop');
+  function checkScroll() {
+    const mainEl = document.getElementById('main');
+    const scrollY = mainEl ? mainEl.scrollTop : window.scrollY;
+    btt?.classList.toggle('visible', scrollY > 400);
+  }
+  document.getElementById('main')?.addEventListener('scroll', checkScroll, { passive: true });
+  window.addEventListener('scroll', checkScroll, { passive: true });
+});
 
 init();
 </script>
