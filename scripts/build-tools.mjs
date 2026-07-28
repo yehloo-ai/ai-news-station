@@ -130,6 +130,10 @@ writeFileSync('tools/index.html', `<!DOCTYPE html>
   .empty { text-align:center; color:#6b7280; font-size:13px; padding:40px 0; display:none; }
   footer { margin-top:40px; font-size:12px; color:#9ca3af; text-align:center; }
   footer a { color:#6b7280; }
+  @media (max-width:768px) {
+    .grid { grid-template-columns:1fr; }
+    .search input { font-size:16px; } /* 规避 iOS Safari 输入框自动放大 */
+  }
 </style>
 </head>
 <body>

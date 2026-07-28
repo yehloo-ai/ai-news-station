@@ -618,6 +618,8 @@
     .tool-empty { text-align: center; color: var(--muted); font-size: 13px; padding: 40px 0; }
     @media (max-width: 768px) {
       .tool-grid { grid-template-columns: 1fr; }
+      /* iOS Safari 对 <16px 的输入框会自动放大页面，这里放大字号规避 */
+      .tool-search input { font-size: 16px; }
     }
     .pill {
       font-size: 11px;
