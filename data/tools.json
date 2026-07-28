@@ -1,108 +1,90 @@
 {
-  "updatedAt": "2026-07-27",
-  "reviewNote": "AI 工具库种子数据：精选常用、口碑稳定的国内外 AI 工具，按场景分类。desc 为一句话定位，free 表示有免费额度/免费版。链接指向官网首页。后续按热度与新工具持续维护。",
+  "updatedAt": "2026-07-28",
+  "reviewNote": "AI 工具库：精选常用、口碑稳定的国内外 AI 工具，按场景分类。字段：region 国产/海外；pricing 免费/免费额度/付费；platform 支持端；zh 是否有中文界面；added 收录月份（用于「本月新增」标记）；tags 场景标签；desc 一句话定位。logo 前端按官网 favicon 加载，失败回退彩色首字母头像。",
   "categories": [
     {
-      "id": "chat",
-      "name": "对话助手 / 大模型",
-      "icon": "💬",
+      "id": "chat", "name": "对话助手 / 大模型", "icon": "💬",
       "tools": [
-        { "name": "ChatGPT", "by": "OpenAI", "url": "https://chat.openai.com", "desc": "最主流的通用对话助手，GPT 系列模型", "tags": ["通用", "海外"], "free": true },
-        { "name": "Claude", "by": "Anthropic", "url": "https://claude.ai", "desc": "长文本与写作、编码见长的对话助手", "tags": ["写作", "海外"], "free": true },
-        { "name": "Gemini", "by": "Google", "url": "https://gemini.google.com", "desc": "谷歌多模态大模型，深度接入搜索与办公", "tags": ["多模态", "海外"], "free": true },
-        { "name": "DeepSeek", "by": "深度求索", "url": "https://chat.deepseek.com", "desc": "国产开源强推理模型，免费好用", "tags": ["推理", "国产"], "free": true },
-        { "name": "Kimi", "by": "月之暗面", "url": "https://kimi.moonshot.cn", "desc": "超长上下文，擅长长文档阅读与整理", "tags": ["长文本", "国产"], "free": true },
-        { "name": "豆包", "by": "字节跳动", "url": "https://www.doubao.com", "desc": "字节旗下全能助手，语音与多模态体验佳", "tags": ["多模态", "国产"], "free": true },
-        { "name": "通义千问", "by": "阿里巴巴", "url": "https://tongyi.aliyun.com", "desc": "阿里大模型，文档、代码、图像全覆盖", "tags": ["通用", "国产"], "free": true },
-        { "name": "文心一言", "by": "百度", "url": "https://yiyan.baidu.com", "desc": "百度大模型，中文知识与检索结合紧密", "tags": ["通用", "国产"], "free": true }
+        { "name": "ChatGPT", "by": "OpenAI", "url": "https://chat.openai.com", "region": "海外", "pricing": "免费额度", "platform": "Web · App", "zh": false, "desc": "最主流的通用对话助手，GPT 系列模型", "tags": ["通用"], "added": "2026-07" },
+        { "name": "Claude", "by": "Anthropic", "url": "https://claude.ai", "region": "海外", "pricing": "免费额度", "platform": "Web · App", "zh": false, "desc": "长文本与写作、编码见长的对话助手", "tags": ["写作"], "added": "2026-07" },
+        { "name": "Gemini", "by": "Google", "url": "https://gemini.google.com", "region": "海外", "pricing": "免费额度", "platform": "Web · App", "zh": false, "desc": "谷歌多模态大模型，深度接入搜索与办公", "tags": ["多模态"], "added": "2026-07" },
+        { "name": "DeepSeek", "by": "深度求索", "url": "https://chat.deepseek.com", "region": "国产", "pricing": "免费", "platform": "Web · App", "zh": true, "desc": "国产开源强推理模型，免费好用", "tags": ["推理"], "added": "2026-07" },
+        { "name": "Kimi", "by": "月之暗面", "url": "https://kimi.moonshot.cn", "region": "国产", "pricing": "免费", "platform": "Web · App", "zh": true, "desc": "超长上下文，擅长长文档阅读与整理", "tags": ["长文本"], "added": "2026-07" },
+        { "name": "豆包", "by": "字节跳动", "url": "https://www.doubao.com", "region": "国产", "pricing": "免费", "platform": "Web · App", "zh": true, "desc": "字节旗下全能助手，语音与多模态体验佳", "tags": ["多模态"], "added": "2026-07" },
+        { "name": "通义千问", "by": "阿里巴巴", "url": "https://tongyi.aliyun.com", "region": "国产", "pricing": "免费", "platform": "Web · App", "zh": true, "desc": "阿里大模型，文档、代码、图像全覆盖", "tags": ["通用"], "added": "2026-07" },
+        { "name": "文心一言", "by": "百度", "url": "https://yiyan.baidu.com", "region": "国产", "pricing": "免费额度", "platform": "Web · App", "zh": true, "desc": "百度大模型，中文知识与检索结合紧密", "tags": ["通用"], "added": "2026-07" }
       ]
     },
     {
-      "id": "coding",
-      "name": "AI 编程",
-      "icon": "⌨️",
+      "id": "coding", "name": "AI 编程", "icon": "⌨️",
       "tools": [
-        { "name": "Cursor", "by": "Anysphere", "url": "https://cursor.com", "desc": "AI 原生代码编辑器，整库理解与自动改写", "tags": ["编辑器", "海外"], "free": true },
-        { "name": "Claude Code", "by": "Anthropic", "url": "https://claude.com/claude-code", "desc": "终端里的智能体，能读写整个代码仓库", "tags": ["终端", "海外"], "free": false },
-        { "name": "GitHub Copilot", "by": "GitHub", "url": "https://github.com/features/copilot", "desc": "老牌 AI 补全，深度集成主流 IDE", "tags": ["补全", "海外"], "free": true },
-        { "name": "Windsurf", "by": "Codeium", "url": "https://windsurf.com", "desc": "带智能体流的 AI IDE", "tags": ["编辑器", "海外"], "free": true },
-        { "name": "v0", "by": "Vercel", "url": "https://v0.dev", "desc": "自然语言生成前端界面与组件", "tags": ["前端", "海外"], "free": true },
-        { "name": "通义灵码", "by": "阿里巴巴", "url": "https://tongyi.aliyun.com/lingma", "desc": "国产 AI 编程助手，支持主流 IDE", "tags": ["补全", "国产"], "free": true }
+        { "name": "Cursor", "by": "Anysphere", "url": "https://cursor.com", "region": "海外", "pricing": "免费额度", "platform": "桌面", "zh": false, "desc": "AI 原生代码编辑器，整库理解与自动改写", "tags": ["编辑器"], "added": "2026-07" },
+        { "name": "Claude Code", "by": "Anthropic", "url": "https://claude.com/claude-code", "region": "海外", "pricing": "付费", "platform": "终端", "zh": false, "desc": "终端里的智能体，能读写整个代码仓库", "tags": ["终端"], "added": "2026-07" },
+        { "name": "GitHub Copilot", "by": "GitHub", "url": "https://github.com/features/copilot", "region": "海外", "pricing": "免费额度", "platform": "桌面 · 插件", "zh": false, "desc": "老牌 AI 补全，深度集成主流 IDE", "tags": ["补全"], "added": "2026-07" },
+        { "name": "Windsurf", "by": "Codeium", "url": "https://windsurf.com", "region": "海外", "pricing": "免费额度", "platform": "桌面", "zh": false, "desc": "带智能体流的 AI IDE", "tags": ["编辑器"], "added": "2026-07" },
+        { "name": "v0", "by": "Vercel", "url": "https://v0.dev", "region": "海外", "pricing": "免费额度", "platform": "Web", "zh": false, "desc": "自然语言生成前端界面与组件", "tags": ["前端"], "added": "2026-07" },
+        { "name": "通义灵码", "by": "阿里巴巴", "url": "https://tongyi.aliyun.com/lingma", "region": "国产", "pricing": "免费", "platform": "插件", "zh": true, "desc": "国产 AI 编程助手，支持主流 IDE", "tags": ["补全"], "added": "2026-07" }
       ]
     },
     {
-      "id": "image",
-      "name": "图像生成",
-      "icon": "🎨",
+      "id": "image", "name": "图像生成", "icon": "🎨",
       "tools": [
-        { "name": "Midjourney", "by": "Midjourney", "url": "https://www.midjourney.com", "desc": "画面质感最强的文生图工具之一", "tags": ["文生图", "海外"], "free": false },
-        { "name": "即梦", "by": "字节跳动", "url": "https://jimeng.jianying.com", "desc": "国产文生图/图生图，中文创作友好", "tags": ["文生图", "国产"], "free": true },
-        { "name": "可灵", "by": "快手", "url": "https://klingai.kuaishou.com", "desc": "快手 AI 创作平台，图像与视频兼备", "tags": ["文生图", "国产"], "free": true },
-        { "name": "Stable Diffusion", "by": "Stability AI", "url": "https://stability.ai", "desc": "开源图像生成生态，可本地部署", "tags": ["开源", "海外"], "free": true },
-        { "name": "通义万相", "by": "阿里巴巴", "url": "https://tongyi.aliyun.com/wanxiang", "desc": "阿里文生图，支持多种国风与写实风格", "tags": ["文生图", "国产"], "free": true }
+        { "name": "Midjourney", "by": "Midjourney", "url": "https://www.midjourney.com", "region": "海外", "pricing": "付费", "platform": "Web · Discord", "zh": false, "desc": "画面质感最强的文生图工具之一", "tags": ["文生图"], "added": "2026-07" },
+        { "name": "即梦", "by": "字节跳动", "url": "https://jimeng.jianying.com", "region": "国产", "pricing": "免费额度", "platform": "Web · App", "zh": true, "desc": "国产文生图/图生图，中文创作友好", "tags": ["文生图"], "added": "2026-07" },
+        { "name": "可灵", "by": "快手", "url": "https://klingai.kuaishou.com", "region": "国产", "pricing": "免费额度", "platform": "Web", "zh": true, "desc": "快手 AI 创作平台，图像与视频兼备", "tags": ["文生图"], "added": "2026-07" },
+        { "name": "Stable Diffusion", "by": "Stability AI", "url": "https://stability.ai", "region": "海外", "pricing": "免费", "platform": "本地 · Web", "zh": false, "desc": "开源图像生成生态，可本地部署", "tags": ["开源"], "added": "2026-07" },
+        { "name": "通义万相", "by": "阿里巴巴", "url": "https://tongyi.aliyun.com/wanxiang", "region": "国产", "pricing": "免费额度", "platform": "Web", "zh": true, "desc": "阿里文生图，支持多种国风与写实风格", "tags": ["文生图"], "added": "2026-07" }
       ]
     },
     {
-      "id": "video",
-      "name": "视频生成",
-      "icon": "🎬",
+      "id": "video", "name": "视频生成", "icon": "🎬",
       "tools": [
-        { "name": "Sora", "by": "OpenAI", "url": "https://sora.com", "desc": "OpenAI 文生视频，长镜头与物理一致性强", "tags": ["文生视频", "海外"], "free": false },
-        { "name": "Runway", "by": "Runway", "url": "https://runwayml.com", "desc": "老牌 AI 视频创作，编辑功能丰富", "tags": ["视频编辑", "海外"], "free": true },
-        { "name": "可灵", "by": "快手", "url": "https://klingai.kuaishou.com", "desc": "国产文生视频代表，动态与镜头感好", "tags": ["文生视频", "国产"], "free": true },
-        { "name": "海螺 AI", "by": "MiniMax", "url": "https://hailuoai.com", "desc": "MiniMax 视频生成，指令跟随准确", "tags": ["文生视频", "国产"], "free": true },
-        { "name": "Pika", "by": "Pika", "url": "https://pika.art", "desc": "轻量易上手的 AI 视频生成", "tags": ["文生视频", "海外"], "free": true }
+        { "name": "Sora", "by": "OpenAI", "url": "https://sora.com", "region": "海外", "pricing": "付费", "platform": "Web", "zh": false, "desc": "OpenAI 文生视频，长镜头与物理一致性强", "tags": ["文生视频"], "added": "2026-07" },
+        { "name": "Runway", "by": "Runway", "url": "https://runwayml.com", "region": "海外", "pricing": "免费额度", "platform": "Web", "zh": false, "desc": "老牌 AI 视频创作，编辑功能丰富", "tags": ["视频编辑"], "added": "2026-07" },
+        { "name": "可灵", "by": "快手", "url": "https://klingai.kuaishou.com", "region": "国产", "pricing": "免费额度", "platform": "Web", "zh": true, "desc": "国产文生视频代表，动态与镜头感好", "tags": ["文生视频"], "added": "2026-07" },
+        { "name": "海螺 AI", "by": "MiniMax", "url": "https://hailuoai.com", "region": "国产", "pricing": "免费额度", "platform": "Web", "zh": true, "desc": "MiniMax 视频生成，指令跟随准确", "tags": ["文生视频"], "added": "2026-07" },
+        { "name": "Pika", "by": "Pika", "url": "https://pika.art", "region": "海外", "pricing": "免费额度", "platform": "Web", "zh": false, "desc": "轻量易上手的 AI 视频生成", "tags": ["文生视频"], "added": "2026-07" }
       ]
     },
     {
-      "id": "audio",
-      "name": "音频 / 语音 / 音乐",
-      "icon": "🎧",
+      "id": "audio", "name": "音频 / 语音 / 音乐", "icon": "🎧",
       "tools": [
-        { "name": "Suno", "by": "Suno", "url": "https://suno.com", "desc": "一句话生成完整歌曲，含人声与编曲", "tags": ["音乐", "海外"], "free": true },
-        { "name": "ElevenLabs", "by": "ElevenLabs", "url": "https://elevenlabs.io", "desc": "高拟真语音合成与声音克隆", "tags": ["配音", "海外"], "free": true },
-        { "name": "海螺语音", "by": "MiniMax", "url": "https://hailuoai.com", "desc": "中文语音合成与克隆，情感自然", "tags": ["配音", "国产"], "free": true }
+        { "name": "Suno", "by": "Suno", "url": "https://suno.com", "region": "海外", "pricing": "免费额度", "platform": "Web · App", "zh": false, "desc": "一句话生成完整歌曲，含人声与编曲", "tags": ["音乐"], "added": "2026-07" },
+        { "name": "ElevenLabs", "by": "ElevenLabs", "url": "https://elevenlabs.io", "region": "海外", "pricing": "免费额度", "platform": "Web", "zh": false, "desc": "高拟真语音合成与声音克隆", "tags": ["配音"], "added": "2026-07" },
+        { "name": "海螺语音", "by": "MiniMax", "url": "https://hailuoai.com", "region": "国产", "pricing": "免费额度", "platform": "Web", "zh": true, "desc": "中文语音合成与克隆，情感自然", "tags": ["配音"], "added": "2026-07" }
       ]
     },
     {
-      "id": "search",
-      "name": "AI 搜索 / 研究",
-      "icon": "🔎",
+      "id": "search", "name": "AI 搜索 / 研究", "icon": "🔎",
       "tools": [
-        { "name": "Perplexity", "by": "Perplexity", "url": "https://www.perplexity.ai", "desc": "带引用来源的 AI 搜索，问答式检索", "tags": ["搜索", "海外"], "free": true },
-        { "name": "秘塔 AI 搜索", "by": "秘塔科技", "url": "https://metaso.cn", "desc": "国产 AI 搜索，无广告、带大纲与脑图", "tags": ["搜索", "国产"], "free": true },
-        { "name": "ima", "by": "腾讯", "url": "https://ima.qq.com", "desc": "腾讯知识库助手，搜读写一体", "tags": ["知识库", "国产"], "free": true }
+        { "name": "Perplexity", "by": "Perplexity", "url": "https://www.perplexity.ai", "region": "海外", "pricing": "免费额度", "platform": "Web · App", "zh": false, "desc": "带引用来源的 AI 搜索，问答式检索", "tags": ["搜索"], "added": "2026-07" },
+        { "name": "秘塔 AI 搜索", "by": "秘塔科技", "url": "https://metaso.cn", "region": "国产", "pricing": "免费", "platform": "Web · App", "zh": true, "desc": "国产 AI 搜索，无广告、带大纲与脑图", "tags": ["搜索"], "added": "2026-07" },
+        { "name": "ima", "by": "腾讯", "url": "https://ima.qq.com", "region": "国产", "pricing": "免费", "platform": "Web · App", "zh": true, "desc": "腾讯知识库助手，搜读写一体", "tags": ["知识库"], "added": "2026-07" }
       ]
     },
     {
-      "id": "writing",
-      "name": "写作 / 办公 / 演示",
-      "icon": "📝",
+      "id": "writing", "name": "写作 / 办公 / 演示", "icon": "📝",
       "tools": [
-        { "name": "Notion AI", "by": "Notion", "url": "https://www.notion.so/product/ai", "desc": "笔记内的 AI 写作、总结与问答", "tags": ["笔记", "海外"], "free": true },
-        { "name": "Gamma", "by": "Gamma", "url": "https://gamma.app", "desc": "一句话生成幻灯片、网页与文档", "tags": ["演示", "海外"], "free": true },
-        { "name": "WPS AI", "by": "金山办公", "url": "https://ai.wps.cn", "desc": "国产办公套件内置 AI，文档表格全覆盖", "tags": ["办公", "国产"], "free": true },
-        { "name": "讯飞智文", "by": "科大讯飞", "url": "https://zhiwen.xfyun.cn", "desc": "AI 一键生成 PPT 与文档", "tags": ["演示", "国产"], "free": true }
+        { "name": "Notion AI", "by": "Notion", "url": "https://www.notion.so/product/ai", "region": "海外", "pricing": "免费额度", "platform": "Web · App", "zh": false, "desc": "笔记内的 AI 写作、总结与问答", "tags": ["笔记"], "added": "2026-07" },
+        { "name": "Gamma", "by": "Gamma", "url": "https://gamma.app", "region": "海外", "pricing": "免费额度", "platform": "Web", "zh": false, "desc": "一句话生成幻灯片、网页与文档", "tags": ["演示"], "added": "2026-07" },
+        { "name": "WPS AI", "by": "金山办公", "url": "https://ai.wps.cn", "region": "国产", "pricing": "免费额度", "platform": "Web · App · 桌面", "zh": true, "desc": "国产办公套件内置 AI，文档表格全覆盖", "tags": ["办公"], "added": "2026-07" },
+        { "name": "讯飞智文", "by": "科大讯飞", "url": "https://zhiwen.xfyun.cn", "region": "国产", "pricing": "免费额度", "platform": "Web", "zh": true, "desc": "AI 一键生成 PPT 与文档", "tags": ["演示"], "added": "2026-07" }
       ]
     },
     {
-      "id": "agent",
-      "name": "智能体 / 自动化",
-      "icon": "🤖",
+      "id": "agent", "name": "智能体 / 自动化", "icon": "🤖",
       "tools": [
-        { "name": "Coze 扣子", "by": "字节跳动", "url": "https://www.coze.cn", "desc": "零代码搭建 AI Bot 与工作流", "tags": ["搭建", "国产"], "free": true },
-        { "name": "Dify", "by": "Dify", "url": "https://dify.ai", "desc": "开源 LLM 应用开发平台，可自部署", "tags": ["开源", "国产"], "free": true },
-        { "name": "n8n", "by": "n8n", "url": "https://n8n.io", "desc": "开源自动化编排，可接入各类 AI", "tags": ["自动化", "海外"], "free": true }
+        { "name": "Coze 扣子", "by": "字节跳动", "url": "https://www.coze.cn", "region": "国产", "pricing": "免费额度", "platform": "Web", "zh": true, "desc": "零代码搭建 AI Bot 与工作流", "tags": ["搭建"], "added": "2026-07" },
+        { "name": "Dify", "by": "Dify", "url": "https://dify.ai", "region": "国产", "pricing": "免费", "platform": "Web · 自部署", "zh": true, "desc": "开源 LLM 应用开发平台，可自部署", "tags": ["开源"], "added": "2026-07" },
+        { "name": "n8n", "by": "n8n", "url": "https://n8n.io", "region": "海外", "pricing": "免费", "platform": "Web · 自部署", "zh": false, "desc": "开源自动化编排，可接入各类 AI", "tags": ["自动化"], "added": "2026-07" }
       ]
     },
     {
-      "id": "design",
-      "name": "设计 / 创意",
-      "icon": "✏️",
+      "id": "design", "name": "设计 / 创意", "icon": "✏️",
       "tools": [
-        { "name": "Canva", "by": "Canva", "url": "https://www.canva.com", "desc": "在线设计工具，AI 生图与排版一体", "tags": ["设计", "海外"], "free": true },
-        { "name": "稿定设计", "by": "稿定", "url": "https://www.gaoding.com", "desc": "国产在线设计，模板与 AI 抠图丰富", "tags": ["设计", "国产"], "free": true },
-        { "name": "Figma", "by": "Figma", "url": "https://www.figma.com", "desc": "协作设计工具，内置 AI 辅助能力", "tags": ["UI", "海外"], "free": true }
+        { "name": "Canva", "by": "Canva", "url": "https://www.canva.com", "region": "海外", "pricing": "免费额度", "platform": "Web · App", "zh": true, "desc": "在线设计工具，AI 生图与排版一体", "tags": ["设计"], "added": "2026-07" },
+        { "name": "稿定设计", "by": "稿定", "url": "https://www.gaoding.com", "region": "国产", "pricing": "免费额度", "platform": "Web · App", "zh": true, "desc": "国产在线设计，模板与 AI 抠图丰富", "tags": ["设计"], "added": "2026-07" },
+        { "name": "Figma", "by": "Figma", "url": "https://www.figma.com", "region": "海外", "pricing": "免费额度", "platform": "Web · 桌面", "zh": false, "desc": "协作设计工具，内置 AI 辅助能力", "tags": ["UI"], "added": "2026-07" }
       ]
     }
   ]

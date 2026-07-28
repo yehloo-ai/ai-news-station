@@ -518,10 +518,22 @@
       line-height: 1.6;
     }
     /* ── AI 工具库 ── */
-    /* 顶部筛选胶囊：全部 + 各分类（纯文案，无图标），点击原地筛选 */
-    .tool-filter {
-      display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px;
+    /* 顶部搜索框 */
+    .tool-search { position: relative; margin-bottom: 12px; }
+    .tool-search input {
+      width: 100%; box-sizing: border-box;
+      padding: 9px 14px 9px 34px; font-size: 13px;
+      color: var(--text); background: var(--card-bg);
+      border: 1px solid var(--border); border-radius: 999px;
+      outline: none; transition: border-color .15s;
     }
+    .tool-search input:focus { border-color: var(--accent-border); }
+    .tool-search::before {
+      content: '🔍'; position: absolute; left: 13px; top: 50%;
+      transform: translateY(-50%); font-size: 12px; opacity: .55; pointer-events: none;
+    }
+    /* 分类筛选胶囊：全部 + 各分类（纯文案，无图标），点击原地筛选 */
+    .tool-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
     .tool-fil {
       font-size: 12.5px; color: var(--muted); cursor: pointer;
       padding: 5px 14px; border-radius: 999px;
@@ -530,6 +542,18 @@
     }
     .tool-fil:hover { color: var(--accent); border-color: var(--accent-border); }
     .tool-fil.on { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+    /* 次级筛选：地区 + 仅免费 */
+    .tool-subfilter { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 22px; }
+    .tool-sub-label { font-size: 11px; color: var(--muted); }
+    .tool-chip {
+      font-size: 12px; color: var(--muted); cursor: pointer;
+      padding: 4px 12px; border-radius: 999px;
+      background: var(--card-bg); border: 1px solid var(--border);
+      transition: all .15s; white-space: nowrap;
+    }
+    .tool-chip:hover { color: var(--accent); border-color: var(--accent-border); }
+    .tool-chip.on { background: var(--accent-muted); border-color: var(--accent-border); color: var(--accent); font-weight: 600; }
+    .tool-sub-sep { width: 1px; height: 16px; background: var(--border); }
     .tool-cat { margin-bottom: 28px; scroll-margin-top: 16px; }
     .tool-cat-title {
       font-size: 15px; font-weight: 700; color: var(--text);
@@ -541,7 +565,7 @@
     }
     .tool-grid {
       display: grid; gap: 12px;
-      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     }
     .tool-card {
       display: flex; flex-direction: column; gap: 6px;
@@ -551,17 +575,36 @@
     }
     .tool-card:hover {
       border-color: var(--accent-border); transform: translateY(-2px);
-      box-shadow: 0 4px 14px rgba(17,24,39,0.06);
+      box-shadow: 0 4px 14px rgba(0,0,0,0.06);
     }
-    .tool-card-head { display: flex; align-items: center; gap: 8px; }
+    .tool-card-head { display: flex; align-items: flex-start; gap: 10px; }
+    /* 真实 logo（官网 favicon），加载失败回退彩色首字母头像 */
+    .tool-logo {
+      position: relative; width: 34px; height: 34px; flex-shrink: 0;
+      border-radius: 8px; overflow: hidden;
+      display: inline-flex; align-items: center; justify-content: center;
+      color: #fff; font-weight: 700; font-size: 15px; line-height: 1;
+    }
+    .tool-logo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; background: #fff; }
+    .tool-card-head-main { flex: 1; min-width: 0; }
+    .tool-name-row { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
     .tool-name { font-size: 15px; font-weight: 700; color: var(--text); }
-    .tool-free {
-      font-size: 10px; font-weight: 600; color: var(--green);
-      border: 1px solid rgba(22,163,74,0.3); background: rgba(22,163,74,0.08);
-      border-radius: 999px; padding: 1px 7px;
+    .tool-new {
+      font-size: 9px; font-weight: 700; color: #fff; background: var(--accent);
+      border-radius: 4px; padding: 1px 5px; letter-spacing: .04em;
     }
-    .tool-by { font-size: 11px; color: var(--muted); margin-top: -2px; }
+    .tool-price { font-size: 10px; font-weight: 600; border-radius: 999px; padding: 1px 8px; flex-shrink: 0; white-space: nowrap; align-self: flex-start; }
+    .tool-price.free { color: var(--green); border: 1px solid rgba(22,163,74,0.3); background: rgba(22,163,74,0.08); }
+    .tool-price.trial { color: var(--yellow); border: 1px solid rgba(217,119,6,0.3); background: rgba(217,119,6,0.08); }
+    .tool-price.paid { color: var(--muted); border: 1px solid var(--border); background: transparent; }
+    .tool-by { font-size: 11px; color: var(--muted); margin-top: 1px; }
     .tool-desc { font-size: 12.5px; color: var(--text); line-height: 1.55; flex: 1; }
+    .tool-meta { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 2px; }
+    .tool-meta span {
+      font-size: 10px; color: var(--muted);
+      background: var(--bg); border: 1px solid var(--border);
+      border-radius: 4px; padding: 1px 7px;
+    }
     .tool-foot {
       display: flex; align-items: center; justify-content: space-between;
       gap: 8px; margin-top: 4px;
@@ -571,9 +614,8 @@
       font-size: 10px; color: var(--muted);
       border: 1px solid var(--border); border-radius: 999px; padding: 1px 8px;
     }
-    .tool-host {
-      font-size: 11px; color: var(--accent); font-weight: 600; white-space: nowrap;
-    }
+    .tool-host { font-size: 11px; color: var(--accent); font-weight: 600; white-space: nowrap; }
+    .tool-empty { text-align: center; color: var(--muted); font-size: 13px; padding: 40px 0; }
     @media (max-width: 768px) {
       .tool-grid { grid-template-columns: 1fr; }
     }
@@ -2647,18 +2689,33 @@ function renderFundingTimeline(data) {
 }
 
 // ── Render: AI 工具库（按场景分类的工具导航）──
-function toolCard(t) {
+let TOOLS_NEW_MONTH = null; // 本月新增标记（有更早月份的工具作基线时才启用，避免首月全标 NEW）
+const TOOLS_SUGGEST_URL = 'https://github.com/yehloolau-afk/ai-news-station/issues/new?title=' +
+  encodeURIComponent('【工具收录建议】') + '&body=' + encodeURIComponent('工具名称：\n官网链接：\n所属分类：\n一句话简介：');
+function toolCard(t, cat, catName) {
   let host = '';
   try { host = new URL(t.url).hostname.replace(/^www\./, ''); } catch (e) {}
   const tags = (t.tags || []).map(x => `<span class="tool-tag">${esc(x)}</span>`).join('');
-  const freePill = t.free ? '<span class="tool-free">免费</span>' : '';
-  return `<a class="tool-card" href="${esc(t.url)}" target="_blank" rel="noopener">
+  const priceCls = t.pricing === '付费' ? 'paid' : (t.pricing === '免费额度' ? 'trial' : 'free');
+  const priceBadge = t.pricing ? `<span class="tool-price ${priceCls}">${esc(t.pricing)}</span>` : '';
+  const newBadge = (TOOLS_NEW_MONTH && t.added === TOOLS_NEW_MONTH) ? `<span class="tool-new">NEW</span>` : '';
+  const meta = [t.platform, t.zh ? '中文' : '', t.region].filter(Boolean).map(x => `<span>${esc(x)}</span>`).join('');
+  const initial = esc(((t.name || '?').trim()[0] || '?').toUpperCase());
+  // 真实 logo：官网 favicon，加载失败则移除 <img>，露出底层彩色首字母头像
+  const logo = `<span class="tool-logo" style="background:${builderAvColor(t.name || '')}"><img src="https://${esc(host)}/favicon.ico" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">${initial}</span>`;
+  const free = t.pricing !== '付费';
+  const search = esc(`${t.name} ${t.by || ''} ${t.desc || ''} ${(t.tags || []).join(' ')} ${catName || ''}`.toLowerCase());
+  return `<a class="tool-card" data-cat="${esc(cat || '')}" data-region="${esc(t.region || '')}" data-free="${free ? 1 : 0}" data-search="${search}" href="${esc(t.url)}" target="_blank" rel="noopener">
     <div class="tool-card-head">
-      <span class="tool-name">${esc(t.name)}</span>
-      ${freePill}
+      ${logo}
+      <div class="tool-card-head-main">
+        <div class="tool-name-row"><span class="tool-name">${esc(t.name)}</span>${newBadge}</div>
+        ${t.by ? `<div class="tool-by">${esc(t.by)}</div>` : ''}
+      </div>
+      ${priceBadge}
     </div>
-    ${t.by ? `<div class="tool-by">${esc(t.by)}</div>` : ''}
     <div class="tool-desc">${esc(t.desc || '')}</div>
+    ${meta ? `<div class="tool-meta">${meta}</div>` : ''}
     <div class="tool-foot">
       <span class="tool-tags">${tags}</span>
       <span class="tool-host">${esc(host)} →</span>
@@ -2669,28 +2726,74 @@ function renderTools(data) {
   const main = document.getElementById('main');
   const cats = data.categories || [];
   const total = cats.reduce((n, c) => n + (c.tools?.length || 0), 0);
-  const filters = `<button class="tool-fil on" data-cat="all" onclick="filterTools('all')">全部</button>` +
-    cats.map(c => `<button class="tool-fil" data-cat="${c.id}" onclick="filterTools('${c.id}')">${esc(c.name)}</button>`).join('');
+  const curMonth = new Date().toISOString().slice(0, 7);
+  const months = cats.flatMap(c => c.tools || []).map(t => t.added).filter(Boolean);
+  TOOLS_NEW_MONTH = months.some(m => m < curMonth) ? curMonth : null;
+  const newCount = TOOLS_NEW_MONTH ? months.filter(m => m === TOOLS_NEW_MONTH).length : 0;
+  toolFil = { cat: 'all', region: 'all', free: false };
+
+  const filters = `<button class="tool-fil on" data-cat="all" onclick="filterToolsCat('all')">全部</button>` +
+    cats.map(c => `<button class="tool-fil" data-cat="${c.id}" onclick="filterToolsCat('${c.id}')">${esc(c.name)}</button>`).join('');
   const sections = cats.map(c => `
     <div class="tool-cat" data-cat="${c.id}">
       <div class="tool-cat-title">${c.icon || ''} ${esc(c.name)}<span class="tool-cat-n">${c.tools?.length || 0}</span></div>
-      <div class="tool-grid">${(c.tools || []).map(toolCard).join('')}</div>
+      <div class="tool-grid">${(c.tools || []).map(tt => toolCard(tt, c.id, c.name)).join('')}</div>
     </div>`).join('');
   main.innerHTML = `
     <div class="section-header">
       <div class="section-title">🧰 AI 工具库</div>
-      <div class="section-sub">${total} 款精选工具 · ${cats.length} 个场景 · 更新于 ${data.updatedAt || ''}</div>
+      <div class="section-sub">${total} 款精选工具 · ${cats.length} 个场景${newCount ? ` · 本月新增 ${newCount}` : ''} · 更新于 ${data.updatedAt || ''}</div>
     </div>
-    <div class="source-pills">按场景挑选好用的 AI 工具，点击直达官网。收录建议欢迎反馈，<a href="tools/" target="_blank" rel="noopener" style="color:var(--accent);">网页版（可分享）</a></div>
+    <div class="source-pills">按场景挑选好用的 AI 工具，点击直达官网 · <a href="${TOOLS_SUGGEST_URL}" target="_blank" rel="noopener" style="color:var(--accent);">推荐收录 →</a> · <a href="tools/" target="_blank" rel="noopener" style="color:var(--accent);">网页版（可分享）</a></div>
+    <div class="tool-search"><input type="search" id="toolSearch" placeholder="搜索工具名称、厂商、用途…" oninput="filterToolsRun()"></div>
     <div class="tool-filter">${filters}</div>
-    ${sections}`;
+    <div class="tool-subfilter">
+      <span class="tool-sub-label">地区</span>
+      <button class="tool-chip on" data-region="all" onclick="filterToolsRegion('all')">全部</button>
+      <button class="tool-chip" data-region="国产" onclick="filterToolsRegion('国产')">国产</button>
+      <button class="tool-chip" data-region="海外" onclick="filterToolsRegion('海外')">海外</button>
+      <span class="tool-sub-sep"></span>
+      <button class="tool-chip" id="toolFreeChip" onclick="filterToolsFree()">仅看免费</button>
+    </div>
+    <div id="toolSections">${sections}</div>
+    <div class="tool-empty" id="toolEmpty" style="display:none">没有匹配的工具，换个关键词或筛选试试。</div>`;
 }
-function filterTools(cat) {
+let toolFil = { cat: 'all', region: 'all', free: false };
+function filterToolsCat(cat) {
+  toolFil.cat = cat;
   document.querySelectorAll('.tool-fil').forEach(b => b.classList.toggle('on', b.dataset.cat === cat));
-  document.querySelectorAll('.tool-cat').forEach(sec => {
-    sec.style.display = (cat === 'all' || sec.dataset.cat === cat) ? '' : 'none';
+  filterToolsRun();
+}
+function filterToolsRegion(r) {
+  toolFil.region = r;
+  document.querySelectorAll('.tool-chip[data-region]').forEach(b => b.classList.toggle('on', b.dataset.region === r));
+  filterToolsRun();
+}
+function filterToolsFree() {
+  toolFil.free = !toolFil.free;
+  document.getElementById('toolFreeChip')?.classList.toggle('on', toolFil.free);
+  filterToolsRun();
+}
+function filterToolsRun() {
+  const q = (document.getElementById('toolSearch')?.value || '').trim().toLowerCase();
+  const { cat, region, free } = toolFil;
+  let anyShown = false;
+  document.querySelectorAll('#toolSections .tool-cat').forEach(sec => {
+    let shown = 0;
+    sec.querySelectorAll('.tool-card').forEach(card => {
+      const ok = (cat === 'all' || card.dataset.cat === cat)
+        && (region === 'all' || card.dataset.region === region)
+        && (!free || card.dataset.free === '1')
+        && (!q || (card.dataset.search || '').includes(q));
+      card.style.display = ok ? '' : 'none';
+      if (ok) shown++;
+    });
+    sec.style.display = shown ? '' : 'none';
+    const n = sec.querySelector('.tool-cat-n'); if (n) n.textContent = shown;
+    if (shown) anyShown = true;
   });
-  window.scrollTo({ top: 0, behavior: 'instant' });
+  const empty = document.getElementById('toolEmpty');
+  if (empty) empty.style.display = anyShown ? 'none' : '';
 }
 
 function renderBuilders(xData, podData) {
