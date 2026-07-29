@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-07-27",
+  "updatedAt": "2026-07-29",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-07-29",
+      "company": "Microsoft",
+      "model": "MAI-Cyber-1-Flash",
+      "type": "语言",
+      "specs": [
+        "137B总参数"
+      ],
+      "highlight": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B ",
+      "sourceUrl": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+      "sourceName": "MarkTechPost（RSS）",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-07-29",
+      "company": "FeyNoBg",
+      "model": "SOTA",
+      "type": "语言",
+      "specs": [
+        "开源"
+      ],
+      "highlight": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型",
+      "sourceUrl": "https://usefeyn.com/blog/feynobg",
+      "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-07-25",
       "company": "Anthropic",

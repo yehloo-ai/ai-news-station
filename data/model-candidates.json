@@ -89,5 +89,12 @@
     "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
     "sourceUrl": "https://www.ithome.com/0/981/137.htm",
     "sourceName": "IT之家（RSS）"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "OpenAI 推出两款新转录模型 API",
+    "summary": "我们在 API 中引入了两种新的转录模型： • GPT-Live-Transcribe：专为低延迟实时转录而构建。 • GPT-Transcribe：针对已完成音频文件和批量工作负载的异步转录进行了优化。 两种模型都能更好地理解上下文，并在跨口音和语言的实际音频上提供更准确的转录，包括短句、数字、专业术语以及背景噪音较大的语音。",
+    "sourceUrl": "https://x.com/OpenAIDevs/status/2082201169443905798",
+    "sourceName": "X：OpenAI Developers (@OpenAIDevs)"
   }
 ]
