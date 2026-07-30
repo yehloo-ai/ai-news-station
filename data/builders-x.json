@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T07:11:51.765Z",
+  "generatedAt": "2026-07-29T07:13:14.146Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,35 +9,35 @@
       "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
       "tweets": [
         {
-          "id": "2081979163117052311",
-          "text": "@ArtificialAnlys i love you @Kimi_Moonshot https://t.co/4lLeh8OHbH",
-          "createdAt": "2026-07-28T05:44:48.000Z",
-          "url": "https://x.com/swyx/status/2081979163117052311",
-          "likes": 3,
+          "id": "2082287480687272053",
+          "text": "https://t.co/uwzHs4G1nt https://t.co/K6E6EHYPeh",
+          "createdAt": "2026-07-29T02:09:57.000Z",
+          "url": "https://x.com/swyx/status/2082287480687272053",
+          "likes": 2,
           "retweets": 1,
           "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2081904230768816487",
-          "text": "incidentally, $ per input/output tokens died as a relevant cost measure sometime last year\n\nif you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be taken seriously anymore these days https://t.co/EJPJiNwT8I",
-          "createdAt": "2026-07-28T00:47:03.000Z",
-          "url": "https://x.com/swyx/status/2081904230768816487",
-          "likes": 94,
-          "retweets": 6,
-          "replies": 28,
           "isQuote": true,
-          "quotedTweetId": "2081751862768717956"
+          "quotedTweetId": "2082199003983466768"
         },
         {
-          "id": "2081890955070980416",
-          "text": "as the progenitor of the agent lab thesis which got the evals/routing/interactivity/ROI focus right\n\n i gotta say the biggest argument against myself is that Claude Code got accidentally \"open sourced\" this year and approximately ~nothing happened to either it or its competitors' roadmaps",
-          "createdAt": "2026-07-27T23:54:18.000Z",
-          "url": "https://x.com/swyx/status/2081890955070980416",
-          "likes": 55,
-          "retweets": 3,
-          "replies": 17,
+          "id": "2082255848492183583",
+          "text": "i'm just reporting; many counter examples if you dislike this trend: https://t.co/YZ7z66bEVk\n\nsee Edison on @latentspacepod https://t.co/3BDUegJrWf here",
+          "createdAt": "2026-07-29T00:04:15.000Z",
+          "url": "https://x.com/swyx/status/2082255848492183583",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2082254692508401967"
+        },
+        {
+          "id": "2082199414656127010",
+          "text": "re: hiring right now\n\nit's a huge bull market for AI-native IC's/player-coaches\nit's a huge bear market for \"heads of X\" managers\n\nnever seen such furious bifurcation. to oversimplify: 1 year experience managing 10 agents &gt; 10 years experience managing 10-100 people",
+          "createdAt": "2026-07-28T20:20:00.000Z",
+          "url": "https://x.com/swyx/status/2082199414656127010",
+          "likes": 721,
+          "retweets": 25,
+          "replies": 69,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -50,35 +50,35 @@
       "bio": "Codex & ChatGPT @OpenAI",
       "tweets": [
         {
-          "id": "2081979033261412537",
-          "text": "Update. I have decided to take a break from x to recharge a bit. See you back tomorrow for more ChatGPT and Codex fun. It's going to be a fun week.",
-          "createdAt": "2026-07-28T05:44:17.000Z",
-          "url": "https://x.com/thsottiaux/status/2081979033261412537",
-          "likes": 3199,
-          "retweets": 59,
-          "replies": 357,
+          "id": "2082326593532473523",
+          "text": "One day we created the reset button and the rest is history.",
+          "createdAt": "2026-07-29T04:45:22.000Z",
+          "url": "https://x.com/thsottiaux/status/2082326593532473523",
+          "likes": 4056,
+          "retweets": 133,
+          "replies": 640,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2081940052154933696",
-          "text": "Back at the laptop. The usage limits have been reset for all paid users of Codex and ChatGPT Work. Weeeeeeeee. It's a good day! https://t.co/Li7De9EDHz",
-          "createdAt": "2026-07-28T03:09:23.000Z",
-          "url": "https://x.com/thsottiaux/status/2081940052154933696",
-          "likes": 8471,
-          "retweets": 477,
-          "replies": 1302,
-          "isQuote": true,
-          "quotedTweetId": "2081899343091843463"
+          "id": "2082317452755751098",
+          "text": "Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits.\n\nOver the past few weeks, many of you have told us that Sol was using your Codex limits faster than expected. To be clear, we have not reduced usage on any subscription plans.\n\nWe’ve been digging into what was happening and have landed several improvements. As a result, we expect your usage to last around 18% longer during typical use of Sol. Some of you should already see significantly larger improvements from today. Tomorrow, we’ll also restore the five-hour limit that we temporarily paused while investigating.\n\nHere’s what we found:\n- GPT-5.6 Sol is much more willing to work for longer, make additional tool calls, and coordinate complex workflows across tools and subagents. That makes it better at solving hard problems, but some tasks were using far more than we intended.\n- Sol also works harder at the same reasoning effort than previous models. High on Sol can use more tokens than High did on GPT-5.5.\n- Programmatic tool calling, also referred to as code mode, gives Sol much more flexibility to run tool calls in parallel or continue working while waiting. But it also led to more responses per turn, more cached input tokens, and higher usage than expected.\n- This was particularly noticeable when Sol was waiting for tool calls to finish or running many web searches. We’ve improved how we handle both cases and are continuing to make code mode more efficient.\n- The impact was also very uneven. The median user actually found Sol quite token efficient, while some power users working on harder tasks saw their usage drain much faster. We were very focused on average and median usage before launch and missed some cases where the long tail could use significantly more usage.\n\nSol is a significant step forward in what Codex can do, but capability and efficiency do not always improve at the same pace, and some issues only become clear once people are using the model at real-world scale. We should have recognized this sooner and been more upfront about it.\n\nYou keep pushing the frontier and we’ll keep improving efficiency and sharing updates as we go.",
+          "createdAt": "2026-07-29T04:09:02.000Z",
+          "url": "https://x.com/thsottiaux/status/2082317452755751098",
+          "likes": 11970,
+          "retweets": 800,
+          "replies": 2121,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2081899343091843463",
-          "text": "We’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset.\n\nHold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop!",
-          "createdAt": "2026-07-28T00:27:37.000Z",
-          "url": "https://x.com/thsottiaux/status/2081899343091843463",
-          "likes": 9474,
-          "retweets": 374,
-          "replies": 1155,
+          "id": "2082241164850364555",
+          "text": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities in your code. Scan repositories, review changes, track findings over time, and run security checks in CI.\n\nhttps://t.co/nkfTbw8p7b",
+          "createdAt": "2026-07-28T23:05:54.000Z",
+          "url": "https://x.com/thsottiaux/status/2082241164850364555",
+          "likes": 5812,
+          "retweets": 451,
+          "replies": 343,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -91,67 +91,37 @@
       "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
       "tweets": [
         {
-          "id": "2081775399097549083",
-          "text": "I asked @jxnlco (DevEx at OpenAI): “What’s the craziest thing Codex did for you?”\n\nHere’s his answer:\n\n“I was on a bike ride when a coworker asked me to fix a launch video. So I connected remotely from my phone and asked Codex to use computer use to edit the video, export it, and post it back to Slack.\n\nTwenty minutes later, there was a new video in the Slack thread. Then I told Codex:\n\n‘Every 30 minutes, check the thread for feedback and export V2, V3, V4.’\n\nBy the time I got home, the launch video was greenlit.”\n\nCodex had handled the revisions by repeatedly checking Slack for feedback.\n\n📌 Watch the full episode here: https://t.co/DulNtYvqGD",
-          "createdAt": "2026-07-27T16:15:07.000Z",
-          "url": "https://x.com/petergyang/status/2081775399097549083",
-          "likes": 338,
-          "retweets": 16,
-          "replies": 18,
-          "isQuote": true,
-          "quotedTweetId": "2081382827548148091"
-        },
-        {
-          "id": "2081767570198401263",
-          "text": "More takeaways and prompts in this written post:\nhttps://t.co/BgPIKOfA9L",
-          "createdAt": "2026-07-27T15:44:00.000Z",
-          "url": "https://x.com/petergyang/status/2081767570198401263",
-          "likes": 3,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2081767558408175867",
-          "text": "Jason walked through how he uses Codex throughout his workday in our interview.\n\n📌 Watch it here if you missed it: https://t.co/K0gpWLQw4H",
-          "createdAt": "2026-07-27T15:43:57.000Z",
-          "url": "https://x.com/petergyang/status/2081767558408175867",
-          "likes": 4,
+          "id": "2082323512069685575",
+          "text": "These are all valid criticisms of Codex, even though I love the product too!\n\nI actually had no idea that Sol Pro even existed - is this better than Sol High? Why isn’t it available in Codex? https://t.co/nrPsjAgfk1 https://t.co/nFmz6awv7d",
+          "createdAt": "2026-07-29T04:33:07.000Z",
+          "url": "https://x.com/petergyang/status/2082323512069685575",
+          "likes": 34,
           "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Nan Yu",
-      "handle": "thenanyu",
-      "bio": "head of product @linear",
-      "tweets": [
-        {
-          "id": "2081926688250691884",
-          "text": "Eclipse where u at https://t.co/DM9r6rsOYH",
-          "createdAt": "2026-07-28T02:16:17.000Z",
-          "url": "https://x.com/thenanyu/status/2081926688250691884",
-          "likes": 4,
-          "retweets": 0,
-          "replies": 0,
+          "replies": 15,
           "isQuote": true,
-          "quotedTweetId": "2081300648713142408"
+          "quotedTweetId": "2082273539776975236"
         },
         {
-          "id": "2081768780045156358",
-          "text": "A lot of very smart people work very hard to make the product very good and nice to use. \n\nIf you have very smart people, you should have them make your own product very good and nice to use. And pay us a nominal fee to use our product. https://t.co/tS6cSzIUg0",
-          "createdAt": "2026-07-27T15:48:49.000Z",
-          "url": "https://x.com/thenanyu/status/2081768780045156358",
-          "likes": 247,
-          "retweets": 5,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2081575149334335552"
+          "id": "2082254852600873376",
+          "text": "I also built Tastemaker to see if I could turn a rough idea into a useful product with Claude Design and Claude Code.\n\nI made a video walking through my full process, including:\n\n1. Creating a design.md and HTML spec\n2. Prototyping screens in Claude Design\n3. Building and iterating with Claude Code\n\n📌 Subscribe to get the full tutorial tomorrow: https://t.co/NSTj7ijxE0",
+          "createdAt": "2026-07-29T00:00:17.000Z",
+          "url": "https://x.com/petergyang/status/2082254852600873376",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082254840655405293",
+          "text": "I got tired of using IMDb to rate movies and TV shows, and Letterboxd doesn’t support video games.\n\nSo I built Tastemaker to let anyone curate their favorite movies, TV shows, and games all in one beautiful profile.\n\nYou can use it to:\n\n→ Rate and review your favorites\n→ Create and share lists\n→ Discover what to watch or play next\n\nBecause of API limits, I’m launching this as a limited release for the first 100 profiles only.\n\n📌 Claim your free profile now: https://t.co/HLkDespYE8",
+          "createdAt": "2026-07-29T00:00:15.000Z",
+          "url": "https://x.com/petergyang/status/2082254840655405293",
+          "likes": 48,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -162,15 +132,15 @@
       "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
       "tweets": [
         {
-          "id": "2081781952437486052",
-          "text": "Most product review meetings are annoying because they’re poorly run.\n\nThe best product reviews compress months of learnings into an hour by simulating the market reaction to your ideas. \n\nThat only works if the people in the room deeply understand the space, have great product sense, strong opinions, and are often right.\n\nToo many product reviews have drifted toward status updates, leadership visibility, and cross-functional alignment.\n\nWhen that happens, people naturally resent them because it feels more like overhead and less like learning.",
-          "createdAt": "2026-07-27T16:41:09.000Z",
-          "url": "https://x.com/realmadhuguru/status/2081781952437486052",
-          "likes": 36,
+          "id": "2082112941814661236",
+          "text": "I saw a SWE at work today. No Claude. No wispr. No tab key.\n\nJust writing code. With his bare hands. https://t.co/kfV3qV62T7",
+          "createdAt": "2026-07-28T14:36:23.000Z",
+          "url": "https://x.com/realmadhuguru/status/2082112941814661236",
+          "likes": 18,
           "retweets": 0,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2081622865355407385"
         }
       ]
     },
@@ -181,56 +151,37 @@
       "bio": "ceo @replit. civilizationist",
       "tweets": [
         {
-          "id": "2082000490066592127",
-          "text": "We’re entering a new era of exploration.\n\nOur ancestors mapped the Earth. Then they explored space.\n\nOur generation may explore the computational universe: the vast space of algorithms, programs, proofs, and designs that AI agents can search. https://t.co/UWK6nBPVQ8",
-          "createdAt": "2026-07-28T07:09:33.000Z",
-          "url": "https://x.com/amasad/status/2082000490066592127",
-          "likes": 6,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2080003441821163958"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Guillermo Rauch",
-      "handle": "rauchg",
-      "bio": "@vercel CEO",
-      "tweets": [
-        {
-          "id": "2081852481517318560",
-          "text": "In our latest https://t.co/p9AoezbuGt benchmarks, Grok 4.5 has emerged as the best cybersecurity AI model on price-performance.\n\nIt's 10x cheaper than Sol, 5.7x cheaper than Opus 5, and 2.2x cheaper than Kimi K3, yet at Kimi-like perf.\n\nSol remains the frontier, ahead of Opus 5. https://t.co/kcSDIqnXsN",
-          "createdAt": "2026-07-27T21:21:25.000Z",
-          "url": "https://x.com/rauchg/status/2081852481517318560",
-          "likes": 622,
-          "retweets": 40,
-          "replies": 46,
-          "isQuote": true,
-          "quotedTweetId": "2081846100173177313"
-        },
-        {
-          "id": "2081845695112446364",
-          "text": "🇪🇺/acc https://t.co/mpwxrMi5FP",
-          "createdAt": "2026-07-27T20:54:27.000Z",
-          "url": "https://x.com/rauchg/status/2081845695112446364",
+          "id": "2082317323445387514",
+          "text": "Who’s writing an open letter against destroying rare books? https://t.co/6xOyRREqw1",
+          "createdAt": "2026-07-29T04:08:32.000Z",
+          "url": "https://x.com/amasad/status/2082317323445387514",
           "likes": 122,
-          "retweets": 5,
-          "replies": 11,
+          "retweets": 10,
+          "replies": 16,
           "isQuote": true,
-          "quotedTweetId": "2081845326839951374"
+          "quotedTweetId": "2081534588485296565"
         },
         {
-          "id": "2081842439304995169",
-          "text": "Kimi's paper underlines the importance of the right security boundary for agents to run in.\n\ntl:DR: container-level isolation is not enough. In their experiments, agents crashed the underlying machine (via kernel panics).\n\nFirecracker microVMs (as in Vercel Sandbox) are safe. https://t.co/wvbdBo5Ng8 https://t.co/OFCWYaiKw7",
-          "createdAt": "2026-07-27T20:41:30.000Z",
-          "url": "https://x.com/rauchg/status/2081842439304995169",
-          "likes": 295,
-          "retweets": 22,
-          "replies": 36,
+          "id": "2082316553740284060",
+          "text": "Imagine SETI@Home, where you donated compute to search for aliens, but instead you donate compute to search math proofs. https://t.co/5Stl475G4a",
+          "createdAt": "2026-07-29T04:05:28.000Z",
+          "url": "https://x.com/amasad/status/2082316553740284060",
+          "likes": 40,
+          "retweets": 1,
+          "replies": 9,
           "isQuote": true,
-          "quotedTweetId": "2081047912008872293"
+          "quotedTweetId": "2082000490066592127"
+        },
+        {
+          "id": "2082316150273360316",
+          "text": "1300 Elo!\n\nhttps://t.co/4WJ9SYmr1o https://t.co/87CcHf43N7 https://t.co/pk1AR8uNzd",
+          "createdAt": "2026-07-29T04:03:52.000Z",
+          "url": "https://x.com/amasad/status/2082316150273360316",
+          "likes": 63,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2082014295177724025"
         }
       ]
     },
@@ -241,116 +192,67 @@
       "bio": "ceo @box - your business lives in content. unleash it with AI",
       "tweets": [
         {
-          "id": "2081930301752942703",
-          "text": "The negative AI jobs outcome just continues to not be happening as some predicted. A large portion of enterprises I talk with -across industries- are still hiring, just with a tilt in the kind of roles they’re going after.\n\nThey’re finding that AI is letting them do more, and Jevons paradox is actually playing out. They’re hiring engineers to go after problems they couldn’t tackle before. They’re hiring in sales because they can go deeper in client relationships now with the help of AI. They’re hiring in internal FDEs to help them deploy AI. And so on.\n\nAnyone using AI merely to cut costs eventually just gets outcompeted by companies that use AI to better serve their customers and drive more breakthroughs in their business. \n\nCould this trend change at some point? Sure. But for now this appears to be the trajectory we’re on.",
-          "createdAt": "2026-07-28T02:30:38.000Z",
-          "url": "https://x.com/levie/status/2081930301752942703",
-          "likes": 219,
-          "retweets": 27,
-          "replies": 39,
+          "id": "2082168124733116537",
+          "text": "Great piece and vision for AI from Zuckerberg https://t.co/kO0oQbx3CC https://t.co/XjwKwvBZIu",
+          "createdAt": "2026-07-28T18:15:40.000Z",
+          "url": "https://x.com/levie/status/2082168124733116537",
+          "likes": 323,
+          "retweets": 30,
+          "replies": 32,
           "isQuote": true,
-          "quotedTweetId": "2081805331798323296"
+          "quotedTweetId": "2082160210399948869"
         },
         {
-          "id": "2081760710108012702",
-          "text": "The k3 weights have arrived https://t.co/3v8u3myvGA",
-          "createdAt": "2026-07-27T15:16:45.000Z",
-          "url": "https://x.com/levie/status/2081760710108012702",
-          "likes": 341,
-          "retweets": 24,
-          "replies": 19,
+          "id": "2082114876873597239",
+          "text": "https://t.co/Zgd4HPRMyi https://t.co/qrbpAbZifu",
+          "createdAt": "2026-07-28T14:44:05.000Z",
+          "url": "https://x.com/levie/status/2082114876873597239",
+          "likes": 8594,
+          "retweets": 415,
+          "replies": 32,
           "isQuote": true,
-          "quotedTweetId": "2081760186235289764"
+          "quotedTweetId": "2081575149334335552"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Matt Turck",
-      "handle": "mattturck",
-      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
       "tweets": [
         {
-          "id": "2081679801769668980",
-          "text": "New study shows that less than 40% of VCs have any successful investment\n\nEvery VC: “I’m so glad I’m in the 40%!” https://t.co/SosBeNiFrf",
-          "createdAt": "2026-07-27T09:55:15.000Z",
-          "url": "https://x.com/mattturck/status/2081679801769668980",
-          "likes": 44,
-          "retweets": 7,
-          "replies": 11,
+          "id": "2082176112906711452",
+          "text": "It's OK to joke, but when it comes to your life, your intention, and your weltanschauung, be earnest as fuck https://t.co/cgQF2NPElz",
+          "createdAt": "2026-07-28T18:47:24.000Z",
+          "url": "https://x.com/garrytan/status/2082176112906711452",
+          "likes": 228,
+          "retweets": 10,
+          "replies": 43,
           "isQuote": true,
-          "quotedTweetId": "2081364162005893414"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Zara Zhang",
-      "handle": "zarazhangrui",
-      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
-      "tweets": [
-        {
-          "id": "2081983750658044079",
-          "text": "How I get endless content ideas, in one picture https://t.co/UFpOlNKd82",
-          "createdAt": "2026-07-28T06:03:02.000Z",
-          "url": "https://x.com/zarazhangrui/status/2081983750658044079",
-          "likes": 61,
-          "retweets": 3,
-          "replies": 10,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2082175716926648555"
         },
         {
-          "id": "2081976736854737164",
-          "text": "“The magic you’re looking for is in the work you’re avoiding” https://t.co/kWosMDyt3z",
-          "createdAt": "2026-07-28T05:35:09.000Z",
-          "url": "https://x.com/zarazhangrui/status/2081976736854737164",
-          "likes": 21,
-          "retweets": 0,
+          "id": "2082170934182756411",
+          "text": "The original drafter of Sanctuary Cities never meant for this to happen \n https://t.co/KqUOnhS8DG",
+          "createdAt": "2026-07-28T18:26:50.000Z",
+          "url": "https://x.com/garrytan/status/2082170934182756411",
+          "likes": 25,
+          "retweets": 1,
           "replies": 2,
           "isQuote": true,
-          "quotedTweetId": "2081924255374028952"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Nikunj Kothari",
-      "handle": "nikunj",
-      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
-      "tweets": [
-        {
-          "id": "2081992618649547100",
-          "text": "I used Claude Code as my primary interface for my two week trip and then asked it to do a full retrospective on what we can do better next time around.. https://t.co/o0ejibRT33",
-          "createdAt": "2026-07-28T06:38:16.000Z",
-          "url": "https://x.com/nikunj/status/2081992618649547100",
-          "likes": 4,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "1897798154634055929"
         },
         {
-          "id": "2081805464757485706",
-          "text": "TIL Micro, the company that makes those kids scooters you see everywhere , also makes a fully electric car that opens from the front.. \n\nIt’s so freaking cute! https://t.co/pu3AqjMTLF",
-          "createdAt": "2026-07-27T18:14:35.000Z",
-          "url": "https://x.com/nikunj/status/2081805464757485706",
-          "likes": 41,
-          "retweets": 0,
-          "replies": 15,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2081750712761852341",
-          "text": "&gt; be @santa_kaus \n&gt; be a rockstar engineer at @openai\n&gt; have infinite rizz and taste\n&gt; burns tokens like no one else\n&gt; (sometimes) posts performative tennis photos to show he touches grass\n&gt; but still refuses to get a gf\n&gt; X do your thing, please slide into his DMs 🙏 https://t.co/BHpood23Q7",
-          "createdAt": "2026-07-27T14:37:01.000Z",
-          "url": "https://x.com/nikunj/status/2081750712761852341",
-          "likes": 35,
-          "retweets": 0,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2082169572212584877",
+          "text": "Sanctuary city policy was never meant to be used to protect fentanyl dealers or violent criminals https://t.co/jLsQzhfcuU",
+          "createdAt": "2026-07-28T18:21:25.000Z",
+          "url": "https://x.com/garrytan/status/2082169572212584877",
+          "likes": 93,
+          "retweets": 4,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2082114071751782508"
         }
       ]
     },
@@ -361,37 +263,15 @@
       "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
       "tweets": [
         {
-          "id": "2081865727443902654",
-          "text": "See you this weekend! https://t.co/zXgLnQvZJp",
-          "createdAt": "2026-07-27T22:14:03.000Z",
-          "url": "https://x.com/steipete/status/2081865727443902654",
-          "likes": 49,
+          "id": "2082337130299457652",
+          "text": "Serving large models is hard. https://t.co/nCbfTx9lp3",
+          "createdAt": "2026-07-29T05:27:14.000Z",
+          "url": "https://x.com/steipete/status/2082337130299457652",
+          "likes": 115,
           "retweets": 6,
-          "replies": 6,
+          "replies": 15,
           "isQuote": true,
-          "quotedTweetId": "2081864047645872204"
-        },
-        {
-          "id": "2081790109415002468",
-          "text": "We do all the amazing security work with some of the best teams in the world and people still think we're unsafe. 🙃 https://t.co/S0m1yJVRtj",
-          "createdAt": "2026-07-27T17:13:34.000Z",
-          "url": "https://x.com/steipete/status/2081790109415002468",
-          "likes": 690,
-          "retweets": 25,
-          "replies": 52,
-          "isQuote": true,
-          "quotedTweetId": "2081666629264449730"
-        },
-        {
-          "id": "2081767828278170002",
-          "text": "My agent reported a bug, their agent fixed it. [in the same night]\n@jarredsumner's robobun setup is future. https://t.co/KQI5cqvzRP",
-          "createdAt": "2026-07-27T15:45:02.000Z",
-          "url": "https://x.com/steipete/status/2081767828278170002",
-          "likes": 325,
-          "retweets": 24,
-          "replies": 37,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2082253741676208211"
         }
       ]
     },
@@ -402,40 +282,62 @@
       "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
       "tweets": [
         {
-          "id": "2081754482568835152",
-          "text": "if true, this sucks and shouldn't continue with rare books https://t.co/iRUJbl5UKR",
-          "createdAt": "2026-07-27T14:52:00.000Z",
-          "url": "https://x.com/danshipper/status/2081754482568835152",
-          "likes": 232,
-          "retweets": 16,
-          "replies": 20,
+          "id": "2082273076352315440",
+          "text": "or the reason is you don’t have the illness i have where wading through dense, abstract sentences is extremely calming https://t.co/yZH95T9H6p",
+          "createdAt": "2026-07-29T01:12:42.000Z",
+          "url": "https://x.com/danshipper/status/2082273076352315440",
+          "likes": 16,
+          "retweets": 0,
+          "replies": 5,
           "isQuote": true,
-          "quotedTweetId": "2081534588485296565"
+          "quotedTweetId": "2081473807190028374"
+        },
+        {
+          "id": "2082270947793350785",
+          "text": "This is why i do anti depressants and stimulants. \n\nDynamism x2. Join me America! https://t.co/yXB5FbDGsJ",
+          "createdAt": "2026-07-29T01:04:15.000Z",
+          "url": "https://x.com/danshipper/status/2082270947793350785",
+          "likes": 40,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2082140136415096933"
+        },
+        {
+          "id": "2082130836485259530",
+          "text": "i spent the morning writing the definitive history of codex on my couch \n\nit comes from hours of in-depth interviews with the team including @thsottiaux, @ajambrosino, and @gdb \n\nmy hands didn’t touch the keyboard or mouse once …i did the whole thing, including organizing the interviews, building a timeline, writing, editing, and revising via ChatGPT for Work’s voice mode \n\nabsolutely goated for creative work. \n\nwhole piece will be published on @every in a few weeks",
+          "createdAt": "2026-07-28T15:47:30.000Z",
+          "url": "https://x.com/danshipper/status/2082130836485259530",
+          "likes": 178,
+          "retweets": 9,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
     {
       "source": "x",
-      "name": "Sam Altman",
-      "handle": "sama",
-      "bio": "AI is cool i guess",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
       "tweets": [
         {
-          "id": "2081832600591892712",
-          "text": "wrong https://t.co/RdhTY34gQW",
-          "createdAt": "2026-07-27T20:02:25.000Z",
-          "url": "https://x.com/sama/status/2081832600591892712",
-          "likes": 7993,
-          "retweets": 191,
-          "replies": 728,
-          "isQuote": true,
-          "quotedTweetId": "2081707498919112925"
+          "id": "2082214798935326833",
+          "text": "A decade ago…as I was going through my own Minus One journey and was lost in the fog of uncertainty, I got 2 pieces of deep personal insight:\n\n1/ I want to build new things in the world\n2/ I want to work with brilliant and intense people\n\nOn days such as this both feel abundant. https://t.co/muLvlHqTp1",
+          "createdAt": "2026-07-28T21:21:08.000Z",
+          "url": "https://x.com/adityaag/status/2082214798935326833",
+          "likes": 107,
+          "retweets": 7,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 14,
-    "totalTweets": 29
+    "xBuilders": 10,
+    "totalTweets": 23
   }
 }
