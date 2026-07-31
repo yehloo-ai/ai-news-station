@@ -47,5 +47,12 @@
     "summary": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从“一对多”转变为“一对一”。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人——研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
     "sourceUrl": "https://x.com/AndrewYNg/status/2082199333920027009",
     "sourceName": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "FCC 禁止进口中国新型机器人与联网逆变器",
+    "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型“先进机器人设备”和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
+    "sourceUrl": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+    "sourceName": "The Decoder：AI News（RSS）"
   }
 ]
