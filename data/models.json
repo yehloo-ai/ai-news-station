@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-07-30",
+  "updatedAt": "2026-08-01",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-08-01",
+      "company": "深度求索",
+      "model": "DeepSeek V4 Flash 0731",
+      "type": "语言",
+      "specs": [
+        "参数 284B",
+        "开源"
+      ],
+      "highlight": "DeepSeek 发布开源模型 DeepSeek V4 Flash 0731，在 Artif",
+      "sourceUrl": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+      "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+      "tier": "milestone",
+      "auto": true
+    },
+    {
+      "date": "2026-08-01",
+      "company": "MiniMax",
+      "model": "MiniMax H3",
+      "type": "多模态",
+      "specs": [
+        "开源"
+      ],
+      "highlight": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高",
+      "sourceUrl": "https://www.minimax.io/blog/minimax-h3",
+      "sourceName": "MiniMax：Blog（网页）",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-08-01",
+      "company": "深度求索",
+      "model": "Agent",
+      "type": "语言",
+      "specs": [],
+      "highlight": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！ 🔷 我们大幅升级了",
+      "sourceUrl": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "sourceName": "X：DeepSeek (@deepseek_ai)",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-07-30",
       "company": "Google DeepMind",
