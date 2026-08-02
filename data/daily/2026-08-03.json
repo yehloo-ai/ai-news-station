@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-02",
+  "attribution": {
+    "source": "AI HOT",
+    "canonical": "https://aihot.virxact.com/daily/2026-08-02"
+  },
+  "generatedAt": "2026-08-02T00:00:08.660Z",
+  "windowStart": "2026-08-01T00:00:00.000Z",
+  "windowEnd": "2026-08-02T00:00:00.000Z",
+  "lead": null,
+  "sections": [
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成“记忆化”侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+          "sourceUrl": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0"
+          }
+        }
+      ]
+    },
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
+          "sourceUrl": "https://x.com/gdb/status/2083457463337287721",
+          "sourceName": "X：Greg Brockman (@gdb)",
+          "permalink": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h"
+          }
+        }
+      ]
+    }
+  ],
+  "flashes": []
+}
