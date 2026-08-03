@@ -5,8 +5,49 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 03 Aug 2026 00:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 03:52:31 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能</title>
+      <link>http://www.geekpark.net/news/368278</link>
+      <description>AI 产业扩张引发内存芯片短缺，消息称苹果 MacBook Air 笔记本出现供应紧张局面
+8 月 3 日消息，据彭博社记者马克 &amp;middot; 古尔曼（Mark Gurman）报道，全球内存芯片短缺正在影响苹果 Mac 产品供应，其中受消费者欢迎的 MacBook Air 正面临库存压力。
+古尔曼表示，此次内存短缺主要受到 AI 产业快速扩张影响。随着人工智能企业大量采购高性能存储芯片，挤压了消费电子市场供应，苹果旗下部分产品已经受到影响。
+此前，用户基数更少的 Mac mini 和 Mac Studio 已经出现供应限制，而如今这一问题正在扩展至销量更高的 MacBook Air。目前，</description>
+      <pubDate>Mon, 03 Aug 2026 08:13:32 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368278</guid>
+      <source url="http://www.geekpark.net/news/368278">极客公园</source>
+    </item>
+    <item>
+      <title>让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发</title>
+      <link>https://36kr.com/p/3919025939246727?f=rss</link>
+      <description>文 | 赵京娜
+  访谈 编辑 | 海若镜
+  36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。
+  奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。
+  “今天，Agent已经像能力出众的个体，但它们还没有真正进入组织，”薛传奕介绍道。
+ </description>
+      <pubDate>Mon, 03 Aug 2026 08:10:16 +0800</pubDate>
+      <guid isPermaLink="true">https://36kr.com/p/3919025939246727?f=rss</guid>
+      <source url="https://36kr.com/p/3919025939246727?f=rss">36Kr</source>
+    </item>
+    <item>
+      <title>8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿</title>
+      <link>https://36kr.com/p/3923043072634498?f=rss</link>
+      <description>今日热点导览
+  马斯克关注了DeepSeek的X账号
+  祥鹏航空回应航班误发过期方便面
+  OpenAI或将IPO推迟到明年
+  SpaceX首份财报即将发布
+  小米多款手机正式涨价
+  每月10万美元，特朗普“真实社交”售卖“优先访问权”
+  TOP3大新闻
+  蔡崇信宣布离婚，不涉及出售阿里股份
+  8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，这一决定由双方共同作出，彼此仍保持尊重，离婚过程将以友好方式进行。声明表示，蔡崇信与吴明华近年来的关系逐渐转变为共同经营事业、共同抚养子女的合作伙伴关系。虽然双方在</description>
+      <pubDate>Mon, 03 Aug 2026 08:07:39 +0800</pubDate>
+      <guid isPermaLink="true">https://36kr.com/p/3923043072634498?f=rss</guid>
+      <source url="https://36kr.com/p/3923043072634498?f=rss">36Kr</source>
+    </item>
     <item>
       <title>派早报：DeepSeek V4 Flash 正式版发布</title>
       <link>https://sspai.com/post/113014</link>
@@ -14,6 +55,24 @@
       <pubDate>Mon, 03 Aug 2026 06:49:31 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113014</guid>
       <source url="https://sspai.com/post/113014">少数派</source>
+    </item>
+    <item>
+      <title>AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化</title>
+      <link>https://www.qbitai.com/2026/08/464835.html</link>
+      <description>面向AI Agent的可迁移、自演进记忆操作层MindMemOS</description>
+      <pubDate>Mon, 03 Aug 2026 02:51:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/464835.html</guid>
+      <source url="https://www.qbitai.com/2026/08/464835.html">量子位</source>
+    </item>
+    <item>
+      <title>早报｜MacBook Air严重缺货/OpenAI新模型突破10项菲尔兹奖级难题/微信地震预警能力迎来更新</title>
+      <link>https://www.ifanr.com/1673624?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· MacBook Air 严重缺货，许多新订单延至 9 月交付
+· 曾爱玲加入 B 站，负责 AI 视频生成业务
+· Pixel 11 全系规格与售价曝光#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 03 Aug 2026 00:26:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1673624?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1673624?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>NVIDIA 的 AI 了解为何仅复制人类还不够</title>
@@ -149,71 +208,6 @@ Adam Bridges, Benji Rabhan, B Shang, Cameron Navor, Cha</description>
       <pubDate>Sat, 01 Aug 2026 03:18:46 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/464412.html</guid>
       <source url="https://www.qbitai.com/2026/08/464412.html">量子位</source>
-    </item>
-    <item>
-      <title>AI顶会现场，见到了一家美妆巨头</title>
-      <link>https://www.qbitai.com/2026/08/464364.html</link>
-      <description>欧莱雅把AI装进mei'zhuang'quan'lian'lu</description>
-      <pubDate>Sat, 01 Aug 2026 02:52:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/464364.html</guid>
-      <source url="https://www.qbitai.com/2026/08/464364.html">量子位</source>
-    </item>
-    <item>
-      <title>国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目</title>
-      <link>https://36kr.com/p/3919386961177985?f=rss</link>
-      <description>文｜王欣逸
-  编辑｜张雨忻
-  &amp;nbsp;
-  一句话介绍
-  国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。
-  主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。
-  融资情况
-  近日，丘脑智能已完成数千万元种子轮融资，投资方包括深圳一线基金和产业资本，本轮融资主要用于技术研发以及人才队伍补充。
-  团队介绍
-  丘脑智能创立于2025年11月，创始人兼CEO张源毕业于北京大学，是电子与经济双学科背景，曾在一家自动驾驶公司担任COO，也</description>
-      <pubDate>Fri, 31 Jul 2026 23:23:43 +0800</pubDate>
-      <guid isPermaLink="true">https://36kr.com/p/3919386961177985?f=rss</guid>
-      <source url="https://36kr.com/p/3919386961177985?f=rss">36Kr</source>
-    </item>
-    <item>
-      <title>本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置</title>
-      <link>https://sspai.com/post/112962</link>
-      <description>以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本文设有有奖互动环节：你有什么特别喜欢的操作系统模拟玩法的游戏吗？（我很喜欢《Uplink》）提前感谢你真诚的分享。&gt;关注少数派小红书，感受精 ...查看全文</description>
-      <pubDate>Fri, 31 Jul 2026 18:49:07 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112962</guid>
-      <source url="https://sspai.com/post/112962">少数派</source>
-    </item>
-    <item>
-      <title>36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报</title>
-      <link>https://36kr.com/p/3910776673064073?f=rss</link>
-      <description>文｜王毓婵 兰杰
-  编辑｜乔芊
-  36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。
-  36氪就此事向B站方面求证，对方暂无回应。
-  
-  曾爱玲
-  B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。
-  曾爱玲的个人主页显示，她曾在腾讯混元&amp;amp;AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈游创始人蔡浩宇旗下AI公司Anuttacon，负责开发以人为中心的交互式多模态视频生成系统。这些模型使AI智能体能够感知、</description>
-      <pubDate>Fri, 31 Jul 2026 18:27:38 +0800</pubDate>
-      <guid isPermaLink="true">https://36kr.com/p/3910776673064073?f=rss</guid>
-      <source url="https://36kr.com/p/3910776673064073?f=rss">36Kr</source>
-    </item>
-    <item>
-      <title>AIGC 的中场，我们需要创作领域的「Codex」</title>
-      <link>http://www.geekpark.net/news/368267</link>
-      <description>作者｜Moonshot
-编辑｜郑玄
-&amp;nbsp;
-最近，影视飓风开始进入 AI 影视赛道，选择与 TapNow 推出一套 AI 影像创作教程。
-一套教程的出现，本身就是个信号，它说明 AI 影像正在走出「展示奇观」的阶段，开始形成可以被讲解、学习和复用的创作方法。
-被教程吸引进来的，也未必都是准备拍电影的人。
-车企、游戏公司和消费品牌都在增加视频内容的使用：产品发布需要概念片，游戏上线需要世界观短片，市场部门则要持续生产品牌视频、更新社交媒体。
-对这些团队来说，AI 影像正在从一项新技术，变成工作里可以调用的制作能力。
-
-但真正开始做视频以后，问题很快就从「怎么生成」变成了「怎么把视频做下去」</description>
-      <pubDate>Fri, 31 Jul 2026 18:07:42 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368267</guid>
-      <source url="http://www.geekpark.net/news/368267">极客公园</source>
     </item>
   </channel>
 </rss>
