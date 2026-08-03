@@ -1,42 +1,80 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "attribution": {
     "source": "AI HOT",
-    "canonical": "https://aihot.virxact.com/daily/2026-08-02"
+    "canonical": "https://aihot.virxact.com/daily/2026-08-03"
   },
-  "generatedAt": "2026-08-02T00:00:08.660Z",
-  "windowStart": "2026-08-01T00:00:00.000Z",
-  "windowEnd": "2026-08-02T00:00:00.000Z",
+  "generatedAt": "2026-08-03T00:00:04.358Z",
+  "windowStart": "2026-08-02T00:00:00.000Z",
+  "windowEnd": "2026-08-03T00:00:00.000Z",
   "lead": null,
   "sections": [
     {
-      "label": "行业动态",
+      "label": "产品发布/更新",
       "items": [
         {
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成“记忆化”侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
-          "sourceUrl": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "permalink": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
+          "title": "Grok 支持分析任意视频",
+          "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+          "sourceUrl": "https://x.com/elonmusk/status/2083800942927839307",
+          "sourceName": "X：Elon Musk (@elonmusk, xAI)",
+          "permalink": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
           "attribution": {
             "source": "AI HOT",
-            "canonical": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0"
+            "canonical": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk"
           }
         }
       ]
     },
     {
-      "label": "论文研究",
+      "label": "行业动态",
       "items": [
         {
-          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-          "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
-          "sourceUrl": "https://x.com/gdb/status/2083457463337287721",
-          "sourceName": "X：Greg Brockman (@gdb)",
-          "permalink": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
+          "title": "Cloudflare 开启 Agents Week：探讨面向智能体的 Agent Cloud 形态",
+          "summary": "Cloudflare 启动为期五天的 Agents Week，核心议题是“Agent Cloud”应具备何种形态。其认为现有云和网络皆为人设计，而智能体有速度、结构与访问上的独特需求，因此 Agent Cloud 需同时构建面向智能体原生的底层能力，并充当现有网络与智能体网络之间的转换层。本周将围绕执行层、智能体开发生命周期、安全控制及智能体网络等主题展开。",
+          "sourceUrl": "https://blog.cloudflare.com/agents-week-welcome",
+          "sourceName": "Cloudflare Blog",
+          "permalink": "https://aihot.virxact.com/items/cmsc1kf110wjirohvp8a4eouo",
           "attribution": {
             "source": "AI HOT",
-            "canonical": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h"
+            "canonical": "https://aihot.virxact.com/items/cmsc1kf110wjirohvp8a4eouo"
+          }
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+          "sourceUrl": "https://x.com/AYi_AInotes/status/2083867265179537565",
+          "sourceName": "X：阿易 AI Notes (@AYi_AInotes)",
+          "permalink": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1"
+          }
+        },
+        {
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了“合成谬误”：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "sourceUrl": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0"
+          }
+        },
+        {
+          "title": "最新开源模型盘点（#23）：Laguna S2.1、Inkling 与 Kimi K3 展现开源模型在帕累托前沿的价值",
+          "summary": "Thinking Machines 发布首个模型 Inkling，为 975B-A41B 多模态 MoE，支持文本、图像和音频输入，并推出 276B-A12B 小版本。",
+          "sourceUrl": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+          "sourceName": "Nathan Lambert：Interconnects（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsbv6cfx0rjnrohv6yep8b2x",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsbv6cfx0rjnrohv6yep8b2x"
           }
         }
       ]
