@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 04 Aug 2026 17:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:48:53 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>“车企牌”电池相继上车，不只是PK宁德时代</title>
@@ -45,6 +45,15 @@
       <pubDate>Tue, 04 Aug 2026 17:54:35 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/prime/story/home-made-beverages-3</guid>
       <source url="https://sspai.com/prime/story/home-made-beverages-3">少数派</source>
+    </item>
+    <item>
+      <title>认识观鸟伙伴</title>
+      <link>https://www.youtube.com/watch?v=r64krUavXJU</link>
+      <description>Your new birdwatching buddy is here. 
+Make your own: https://github.com/openai/birdingpal</description>
+      <pubDate>Tue, 04 Aug 2026 17:43:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=r64krUavXJU</guid>
+      <source url="https://www.youtube.com/watch?v=r64krUavXJU">OpenAI</source>
     </item>
     <item>
       <title>从追番到下单，国风IP正在重塑硬核数码消费</title>
@@ -216,14 +225,6 @@
       <pubDate>Tue, 04 Aug 2026 09:23:06 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1673802?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1673802?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”</title>
-      <link>https://www.qbitai.com/2026/08/465792.html</link>
-      <description>第二天，就有一篇人类论文回应：AI提出的反例不成立</description>
-      <pubDate>Tue, 04 Aug 2026 09:22:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/465792.html</guid>
-      <source url="https://www.qbitai.com/2026/08/465792.html">量子位</source>
     </item>
   </channel>
 </rss>
