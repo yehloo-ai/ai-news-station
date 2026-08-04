@@ -54,5 +54,12 @@
     "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型“先进机器人设备”和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
     "sourceUrl": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
     "sourceName": "The Decoder：AI News（RSS）"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "Databricks 完成对 Panther 的收购，加速安全湖仓时代",
+    "summary": "Databricks 宣布正式完成对安全数据平台 Panther 的收购，旨在加速安全湖仓（Security Lakehouse）时代。此次收购将 Panther 的安全分析能力整合进 Databricks 平台，帮助企业在统一的数据架构上运行安全运营与威胁检测工作负载。具体交易条款未披露。",
+    "sourceUrl": "https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era",
+    "sourceName": "Databricks：Blog（RSS）"
   }
 ]
