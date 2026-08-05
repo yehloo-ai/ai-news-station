@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Aug 2026 15:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 17:55:22 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>196 张盗版碟，和我的游戏启蒙史</title>
@@ -36,6 +36,14 @@
       <pubDate>Wed, 05 Aug 2026 15:15:56 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/112953</guid>
       <source url="https://sspai.com/post/112953">少数派</source>
+    </item>
+    <item>
+      <title>别再吹AI生图了，不能图层编辑的AI都是“画饼”</title>
+      <link>https://www.qbitai.com/2026/08/467034.html</link>
+      <description>兔展智能发布RabbitVis，让AI真正走完设计全流程</description>
+      <pubDate>Wed, 05 Aug 2026 14:09:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467034.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467034.html">量子位</source>
     </item>
     <item>
       <title>价值十亿美元的人工智能竞赛刚刚结束</title>
@@ -181,15 +189,6 @@ https://x.com/CommandCodeAI/status/2084293498950590839
       <pubDate>Wed, 05 Aug 2026 00:41:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1673981?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1673981?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>ISEE：数据库字段的交互式语义丰富</title>
-      <link>https://arxiv.org/abs/2608.02604</link>
-      <description>arXiv:2608.02604v1 Announce Type: new 
-Abstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their performance heavily depends on the clarity and completeness of data semantics. In practice, many field des</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.02604</guid>
-      <source url="https://arxiv.org/abs/2608.02604">ArXiv AI</source>
     </item>
   </channel>
 </rss>
