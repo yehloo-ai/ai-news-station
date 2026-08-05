@@ -1,0 +1,353 @@
+{
+  "date": "2026-08-05",
+  "attribution": {
+    "source": "AI HOT",
+    "canonical": "https://aihot.virxact.com/daily/2026-08-05"
+  },
+  "generatedAt": "2026-08-05T00:00:33.893Z",
+  "windowStart": "2026-08-04T00:00:00.000Z",
+  "windowEnd": "2026-08-05T00:00:00.000Z",
+  "lead": null,
+  "sections": [
+    {
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
+          "summary": "NVIDIA Alpamayo 2 Super 现已开放商用，基于 Cosmos 3 Super Reasoner 构建，采用强化学习后训练，支持轨迹预测、因果链推理、元动作、自动标注及视觉问答等多任务输出。",
+          "sourceUrl": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+          "sourceName": "NVIDIA Blog（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsesrlcn15j6ro2ecpj577wj",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsesrlcn15j6ro2ecpj577wj"
+          }
+        },
+        {
+          "title": "商汤 SenseNova U1 开源：统一推理与图像生成",
+          "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步生成图文内容，如演示六步画龙教程。模型已上线 SenseNova Studio、HuggingFace 及 GitHub。",
+          "sourceUrl": "https://x.com/SenseTime_AI/status/2084667189479837741",
+          "sourceName": "X：商汤 SenseTime (@SenseTime_AI)",
+          "permalink": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi"
+          }
+        },
+        {
+          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+          "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。 一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
+          "sourceUrl": "https://x.com/OpenRouter/status/2084699413898027064",
+          "sourceName": "X：OpenRouter (@OpenRouter)",
+          "permalink": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k"
+          }
+        },
+        {
+          "title": "蚂蚁百灵发布Ling-3.0-flash开源权重",
+          "summary": "今天，我们发布了 Ling-3.0-flash 的开源权重。🎉 官方 BF16 和 FP8 量化版本现已可用，您可以根据自己的硬件、性能要求和部署需求选择最合适的版本。",
+          "sourceUrl": "https://x.com/AntLingAGI/status/2084656533489754475",
+          "sourceName": "X：蚂蚁百灵 (@AntLingAGI)",
+          "permalink": "https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u"
+          }
+        },
+        {
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "summary": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+          "sourceName": "公众号：腾讯混元",
+          "permalink": "https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4"
+          }
+        },
+        {
+          "title": "FLUX 3 Video, Part 1: Generation FLUX 3 Video, Part 1 August 4, 2026 Read more",
+          "summary": "",
+          "sourceUrl": "https://bfl.ai/blog/flux-3-video",
+          "sourceName": "Black Forest Labs：Blog（网页）",
+          "permalink": "https://aihot.virxact.com/items/cmsezvrip1c8zro2erz7phwqb",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsezvrip1c8zro2erz7phwqb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
+          "sourceUrl": "https://github.com/leonickson1/Swiftlet",
+          "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "permalink": "https://aihot.virxact.com/items/cmsebb0mc0kn1ro2ejvmi5lg8",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsebb0mc0kn1ro2ejvmi5lg8"
+          }
+        },
+        {
+          "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+          "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
+          "sourceUrl": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+          "sourceName": "MarkTechPost（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw"
+          }
+        },
+        {
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "summary": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+          "sourceName": "公众号：面壁智能（MiniCPM）",
+          "permalink": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8"
+          }
+        },
+        {
+          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+          "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
+          "sourceUrl": "https://github.com/MakazhanAlpamys/Soup",
+          "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "permalink": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh"
+          }
+        },
+        {
+          "title": "OpenRouter 推出 ori CLI：为 Claude Code 等 Harness 提供开箱即用的优化配置",
+          "summary": "OpenRouter 发布 ori CLI，用户安装并登录后即可获得针对 Claude Code、Codex、OpenCode、Hermes 等 harness 的优化配置，省去手动设置大量环境变量的麻烦。",
+          "sourceUrl": "https://openrouter.ai/blog/announcements/ori-harness",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsevo9td18ehro2e4owyq95q",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsevo9td18ehro2e4owyq95q"
+          }
+        },
+        {
+          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+          "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+          "sourceUrl": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+          "sourceName": "LMSYS：Blog（Chatbot Arena 团队）",
+          "permalink": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6"
+          }
+        },
+        {
+          "title": "Replit 环境智能：免提示词自动生成设计",
+          "summary": "你无需提示词，也无需设计语言。 环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。 你再也不必纠结下一步该做什么。 立即在 http://replit.com/design 体验。",
+          "sourceUrl": "https://x.com/Replit/status/2084761337570144424",
+          "sourceName": "X：Replit (@Replit)",
+          "permalink": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5"
+          }
+        },
+        {
+          "title": "Cloudflare 让智能体通过本地追踪调试 Workers",
+          "summary": "Cloudflare 即日起在 wrangler dev 和 vite dev 中自动为本地 Worker 调用捕获 OpenTelemetry 追踪，无需安装 SDK 或配置智能体。智能体可通过 Local Explorer API 查询追踪数据，定位失败操作、修复本地环境并验证结果。开发者也可在浏览器界面 Local Explorer 中可视化查看 spans、时序、错误及关联控制台日志。",
+          "sourceUrl": "https://blog.cloudflare.com/local-tracing",
+          "sourceName": "Cloudflare Blog",
+          "permalink": "https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia"
+          }
+        }
+      ]
+    },
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
+          "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2084655258102546579",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "permalink": "https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0"
+          }
+        },
+        {
+          "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721—2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721—2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+          "sourceUrl": "https://www.ithome.com/0/985/665.htm",
+          "sourceName": "IT之家（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq"
+          }
+        },
+        {
+          "title": "GPT-5.6 Luna降价80%永久生效",
+          "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
+          "sourceUrl": "https://x.com/thsottiaux/status/2084506501834829833",
+          "sourceName": "X：Tibo (@thsottiaux)",
+          "permalink": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10"
+          }
+        },
+        {
+          "title": "Mariano-Florentino (Tino) Cuéllar 加入 Anthropic 出任首席全球事务官",
+          "summary": "Anthropic 任命 Mariano-Florentino (Tino) Cuéllar 为首任首席全球事务官，负责全球政策、国际战略参与及政府关系事务。Cuéllar 曾任卡内基国际和平基金会主席、加州最高法院法官，并自 2026 年 1 月起担任 Anthropic 长期利益信托受托人，现已卸任该职务加入公司。",
+          "sourceUrl": "https://www.anthropic.com/news/tino-cuellar",
+          "sourceName": "Anthropic：Newsroom（网页）",
+          "permalink": "https://aihot.virxact.com/items/cmsewswuz19mqro2eze6rnax3",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsewswuz19mqro2eze6rnax3"
+          }
+        },
+        {
+          "title": "OpenAI 说明第三方网络安全评估事件并公布新保障措施",
+          "summary": "OpenAI 就近期第三方网络安全评估事件作出说明，并公布新的保障措施以强化 AI 模型测试与评估流程。相关措施旨在提升模型评估的安全性与可靠性，确保第三方测试在受控环境下进行。",
+          "sourceUrl": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.virxact.com/items/cmsf5ea0u1gt2ro2e6t8w9b5l",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsf5ea0u1gt2ro2e6t8w9b5l"
+          }
+        },
+        {
+          "title": "AI 领袖提出 SAFE 指南，强化智能体网络安全透明度",
+          "summary": "Linux 基金会发布共享 AI 事件交换（SAFE）指南征求意见稿，旨在将智能体网络安全事件转化为全生态共享防护。",
+          "sourceUrl": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions",
+          "sourceName": "NVIDIA Blog（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmseoh97u10w7ro2egtvmv47y",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmseoh97u10w7ro2egtvmv47y"
+          }
+        },
+        {
+          "title": "Google 发布 Gemini 3.6 Flash 等三款新模型及 Gemini Robotics ER 2",
+          "summary": "Google 在 7 月推出三款新 Gemini 模型——Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber，面向生产级 AI 智能体，主打更高 token 效率、更低延迟和更可靠性能。",
+          "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+          "sourceName": "Google Blog：AI（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmseo881f10q5ro2eqhe9s9lw",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmseo881f10q5ro2eqhe9s9lw"
+          }
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+          "sourceUrl": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "permalink": "https://aihot.virxact.com/items/cmseo63z710lvro2eblsf93az",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmseo63z710lvro2eblsf93az"
+          }
+        },
+        {
+          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
+          "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
+          "sourceUrl": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
+          "sourceName": "Simon Willison 博客",
+          "permalink": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux"
+          }
+        },
+        {
+          "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+          "summary": "本教程演示如何用 NVIDIA SkillSpector 评估 AI 技能的安全态势，构建包含干净、风险、恶意及 MCP 示例的合成技能市场，并通过 LangGraph 检查流水线扫描每个技能。",
+          "sourceUrl": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+          "sourceName": "MarkTechPost（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps"
+          }
+        },
+        {
+          "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
+          "summary": "Cloudflare 在 Astro 仓库上运行自动化 triage 流水线，通过隔离的 AI 子代理复现、诊断并修复 bug，将开放 issue 从 200 多个降至约 30 个，预计下月归零。该流水线由 issue 标签驱动，修复后自动发布预览版本供用户验证。其底层引擎已发展为 Flue，一个开源的平台无关框架，用于构建持久化智能体与工作流。",
+          "sourceUrl": "https://blog.cloudflare.com/astro-issue-triage",
+          "sourceName": "Cloudflare Blog",
+          "permalink": "https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y"
+          }
+        },
+        {
+          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+          "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1,000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
+          "sourceUrl": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+          "sourceName": "GitHub Blog",
+          "permalink": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr"
+          }
+        },
+        {
+          "title": "如何用 LangSmith 评估语音智能体",
+          "summary": "LangChain 官方博客介绍如何用 LangSmith 评估语音智能体，覆盖执行、结果与来电者体验三个层面。评估手段包括 LangSmith traces、代码评估器、LLM judges 和人工审查，帮助开发者系统化验证语音智能体的实际表现。",
+          "sourceUrl": "https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience",
+          "sourceName": "LangChain：Blog（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsexo9221aboro2erse3g0ov",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsexo9221aboro2erse3g0ov"
+          }
+        },
+        {
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调“干中学”的AI开发方式。",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+          "sourceName": "公众号：数字生命卡兹克",
+          "permalink": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5"
+          }
+        },
+        {
+          "title": "杰文斯悖论还能持续吗：AI 定价分层如何支撑算力需求增长",
+          "summary": "科技巨头高管普遍表示算力供应仍无法满足需求，但 AI 定价却在上涨：Anthropic 7 月 24 日发布的 Fable 5 定价每百万输出 token 50 美元，较 Opus 5 翻倍；OpenAI 则在 Fable 5 发布五天后将 GPT-5.6 Luna 价格下调 80%。",
+          "sourceUrl": "https://www.tomtunguz.com/what-if-gpu-prices-double",
+          "sourceName": "Tomer Tunguz 博客（VC 分析）",
+          "permalink": "https://aihot.virxact.com/items/cmsf4nabx1g03ro2e3ripbdfm",
+          "attribution": {
+            "source": "AI HOT",
+            "canonical": "https://aihot.virxact.com/items/cmsf4nabx1g03ro2e3ripbdfm"
+          }
+        }
+      ]
+    }
+  ],
+  "flashes": []
+}
