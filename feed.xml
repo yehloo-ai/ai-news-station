@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Aug 2026 13:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 15:28:12 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>196 张盗版碟，和我的游戏启蒙史</title>
@@ -36,6 +36,31 @@
       <pubDate>Wed, 05 Aug 2026 15:15:56 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/112953</guid>
       <source url="https://sspai.com/post/112953">少数派</source>
+    </item>
+    <item>
+      <title>价值十亿美元的人工智能竞赛刚刚结束</title>
+      <link>https://www.youtube.com/watch?v=ppQh4Tc9BmM</link>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
+
+📝 Qwen 3.8 Max:
+https://qwen.ai/blog?id=qwen3.8
+
+Sources:
+https://x.com/loktar00/status/2082589566934929750
+https://x.com/CommandCodeAI/status/2084293498950590839
+
+🙏 We would like to thank our generous Patreon suppor</description>
+      <pubDate>Wed, 05 Aug 2026 13:54:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ppQh4Tc9BmM</guid>
+      <source url="https://www.youtube.com/watch?v=ppQh4Tc9BmM">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……</title>
+      <link>https://www.qbitai.com/2026/08/467036.html</link>
+      <description>MiniMax H3也能开箱即用了</description>
+      <pubDate>Wed, 05 Aug 2026 13:47:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467036.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467036.html">量子位</source>
     </item>
     <item>
       <title>又一家AI基金暴雷了</title>
@@ -165,24 +190,6 @@ Abstract: LLM-based agents are increasingly being deployed for data-related task
       <pubDate>Wed, 05 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.02604</guid>
       <source url="https://arxiv.org/abs/2608.02604">ArXiv AI</source>
-    </item>
-    <item>
-      <title>自组织数字电路</title>
-      <link>https://arxiv.org/abs/2608.02606</link>
-      <description>arXiv:2608.02606v1 Announce Type: new 
-Abstract: Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcting codes. Biological systems, in contrast, exhibit adaptive plasticity, maintaining function through dynamic re-organisatio</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.02606</guid>
-      <source url="https://arxiv.org/abs/2608.02606">ArXiv AI</source>
-    </item>
-    <item>
-      <title>超越 Hivemind：通过元角色锚定和顺序温度缩放逃避法学硕士同质性</title>
-      <link>https://arxiv.org/abs/2608.02618</link>
-      <description>arXiv:2608.02618v1 Announce Type: new 
-Abstract: Recent studies have identified an ``Artificial Hivemind'' effect in Large Language Models (LLMs) causing models to converge on a narrow, homogenized consensus even for open questions. This semantic collapse limits the diversity of AI, resulting in hig</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.02618</guid>
-      <source url="https://arxiv.org/abs/2608.02618">ArXiv AI</source>
     </item>
   </channel>
 </rss>
