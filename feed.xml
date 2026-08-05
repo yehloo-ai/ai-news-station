@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Aug 2026 10:49:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:05:12 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>196 张盗版碟，和我的游戏启蒙史</title>
@@ -36,6 +36,14 @@
       <pubDate>Wed, 05 Aug 2026 15:15:56 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/112953</guid>
       <source url="https://sspai.com/post/112953">少数派</source>
+    </item>
+    <item>
+      <title>又一家AI基金暴雷了</title>
+      <link>https://www.qbitai.com/2026/08/467001.html</link>
+      <description>开源改写游戏规则</description>
+      <pubDate>Wed, 05 Aug 2026 12:43:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467001.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467001.html">量子位</source>
     </item>
     <item>
       <title>角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」</title>
@@ -175,15 +183,6 @@ Abstract: Recent studies have identified an ``Artificial Hivemind'' effect in La
       <pubDate>Wed, 05 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.02618</guid>
       <source url="https://arxiv.org/abs/2608.02618">ArXiv AI</source>
-    </item>
-    <item>
-      <title>PULSE：时空知识图工程的可执行合约语言</title>
-      <link>https://arxiv.org/abs/2608.02630</link>
-      <description>arXiv:2608.02630v1 Announce Type: new 
-Abstract: Knowledge graph engineering often distributes accepted state, observations, constraints, processes, and hypothetical scenarios across artifacts whose combined execution contract remains external. We present PULSE, an Object-Process-Methodology-inspire</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.02630</guid>
-      <source url="https://arxiv.org/abs/2608.02630">ArXiv AI</source>
     </item>
   </channel>
 </rss>
