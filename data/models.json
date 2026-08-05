@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-04",
+  "updatedAt": "2026-08-05",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-08-05",
+      "company": "NVIDIA",
+      "model": "NVIDIA Alpamayo 2 Super",
+      "type": "语言",
+      "specs": [
+        "开源"
+      ],
+      "highlight": "NVIDIA Alpamayo 2 Super 现已开放商用，基于 Cosmos 3 Sup",
+      "sourceUrl": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+      "sourceName": "NVIDIA Blog（RSS）",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-08-05",
+      "company": "商汤",
+      "model": "SenseNova U1",
+      "type": "多模态",
+      "specs": [
+        "开源"
+      ],
+      "highlight": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成",
+      "sourceUrl": "https://x.com/SenseTime_AI/status/2084667189479837741",
+      "sourceName": "X：商汤 SenseTime (@SenseTime_AI)",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-08-05",
+      "company": "腾讯",
+      "model": "Hy ASR 3.0",
+      "type": "语音",
+      "specs": [
+        "开源"
+      ],
+      "highlight": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+      "sourceName": "公众号：腾讯混元",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-08-04",
       "company": "商汤",
