@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 06 Aug 2026 03:32:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:45:38 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>角落新声｜音乐，刻在时光里的私人地图</title>
@@ -37,6 +37,14 @@ Anthropic 证实正在组建内部芯片团队</description>
       <source url="http://www.geekpark.net/news/368444">极客公园</source>
     </item>
     <item>
+      <title>超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地</title>
+      <link>https://www.qbitai.com/2026/08/467262.html</link>
+      <description></description>
+      <pubDate>Thu, 06 Aug 2026 05:29:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467262.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467262.html">量子位</source>
+    </item>
+    <item>
       <title>Gemini 把逆风翻盘的希望，全押在这个人身上</title>
       <link>https://www.ifanr.com/1673901?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>Gemini 新任掌门人，到底什么来头？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
@@ -63,128 +71,121 @@ Anthropic 证实正在组建内部芯片团队</description>
       <source url="https://www.ifanr.com/1674104?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿</title>
-      <link>https://www.qbitai.com/2026/08/467196.html</link>
-      <description>与此同时，哈萨比斯卸任谷歌DeepMind CEO</description>
-      <pubDate>Wed, 05 Aug 2026 23:52:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467196.html</guid>
-      <source url="https://www.qbitai.com/2026/08/467196.html">量子位</source>
+      <title>冗余调整人工年龄评分（AAS）下人工智能系统的长期持久性理论</title>
+      <link>https://arxiv.org/abs/2608.04012</link>
+      <description>arXiv:2608.04012v1 Announce Type: new 
+Abstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through isolated one-shot outputs. This raises a fundamental theoretical question: can an AI system persist in</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04012</guid>
+      <source url="https://arxiv.org/abs/2608.04012">ArXiv AI</source>
     </item>
     <item>
-      <title>196 张盗版碟，和我的游戏启蒙史</title>
-      <link>https://sspai.com/post/112831</link>
-      <description>游戏首先要传播出去才会具备被用户接受和讨论的价值，那些曾经陪伴你我的盗版游戏，是否也为今天的你埋下过一颗种子？查看全文</description>
-      <pubDate>Wed, 05 Aug 2026 17:24:34 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112831</guid>
-      <source url="https://sspai.com/post/112831">少数派</source>
+      <title>法学硕士提议，行政人员处置：一种自我验证代理工具，可将长期代理中的承诺漂移与约束漂移分开</title>
+      <link>https://arxiv.org/abs/2608.04066</link>
+      <description>arXiv:2608.04066v1 Announce Type: new 
+Abstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so that verification is structural rather than post-hoc. A deterministic Executive owns all belief; a la</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04066</guid>
+      <source url="https://arxiv.org/abs/2608.04066">ArXiv AI</source>
     </item>
     <item>
-      <title>办公 Agent 爆火，模型大战进入下一阶段</title>
-      <link>http://www.geekpark.net/news/368429</link>
-      <description>作者｜Cynthia 
-编辑｜ 靖宇
-&amp;nbsp;
-从今年 6 月到 8 月初，短短不到 60 天时间，有一件事几乎同时在新 BAT 发生。
-先是 6 月，阿里率先开启内部 Agent 的产品线与能力大整合，到 8 月 3 日，官宣在编程（Coding）和专业办公（Cowork）能力大幅提升的 Qwen3.8 模型的同时，正式将内部孵化的三款 Agent 产品 QoderWork、悟空、MuleRun 合并为统一的 Agent 产品「千问办公」。
-紧随其后，7 月 20 日，腾讯开启业务整合，QClaw 的相关业务和团队被并入 WorkBuddy 体系。
-10 天后的 7 月 30 日， 字节</description>
-      <pubDate>Wed, 05 Aug 2026 16:42:08 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368429</guid>
-      <source url="http://www.geekpark.net/news/368429">极客公园</source>
+      <title>用于表到多模式报告生成的蒙特卡罗树搜索</title>
+      <link>https://arxiv.org/abs/2608.04071</link>
+      <description>arXiv:2608.04071v1 Announce Type: new 
+Abstract: Automatically generating professional multimodal reports comprising both textual analysis and visual charts from structured tabular data is a critical challenge in data intelligence. Existing methods suffer from fixed linear pipelines and isolated sub</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04071</guid>
+      <source url="https://arxiv.org/abs/2608.04071">ArXiv AI</source>
     </item>
     <item>
-      <title>Bookology：从藏书到笔记，打造你的私人阅读档案</title>
-      <link>https://sspai.com/post/112953</link>
-      <description>作为长期阅读的用户，多年以来，我一直在使用Kindle、AppleBooks、PDF等多种工具读书。在管理阅读方面，我使用多款应用来进行：管理书籍我使用的是Calibre；追踪阅读和数据统计，我使用计 ...查看全文</description>
-      <pubDate>Wed, 05 Aug 2026 15:15:56 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112953</guid>
-      <source url="https://sspai.com/post/112953">少数派</source>
+      <title>FinProBench：使用源自专业交付成果的基于角色的标准评估金融人工智能代理</title>
+      <link>https://arxiv.org/abs/2608.04077</link>
+      <description>arXiv:2608.04077v1 Announce Type: new 
+Abstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task prompts or model outputs, overlooking tacit standards visible only in practitioner deliverables. We intro</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04077</guid>
+      <source url="https://arxiv.org/abs/2608.04077">ArXiv AI</source>
     </item>
     <item>
-      <title>别再吹AI生图了，不能图层编辑的AI都是“画饼”</title>
-      <link>https://www.qbitai.com/2026/08/467034.html</link>
-      <description>兔展智能发布RabbitVis，让AI真正走完设计全流程</description>
-      <pubDate>Wed, 05 Aug 2026 14:09:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467034.html</guid>
-      <source url="https://www.qbitai.com/2026/08/467034.html">量子位</source>
+      <title>FinPerMA：LLM 代理的基于理论、基于事件的个性化记忆基准</title>
+      <link>https://arxiv.org/abs/2608.04095</link>
+      <description>arXiv:2608.04095v1 Announce Type: new 
+Abstract: Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains unclear whether they can maintain and update an individualized user model over long horizons. Existing</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04095</guid>
+      <source url="https://arxiv.org/abs/2608.04095">ArXiv AI</source>
     </item>
     <item>
-      <title>等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……</title>
-      <link>https://www.qbitai.com/2026/08/467036.html</link>
-      <description>MiniMax H3也能开箱即用了</description>
-      <pubDate>Wed, 05 Aug 2026 13:47:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467036.html</guid>
-      <source url="https://www.qbitai.com/2026/08/467036.html">量子位</source>
+      <title>C$^2$MOE：不完整多模态情感学习的一致性和互补性引导专家混合</title>
+      <link>https://arxiv.org/abs/2608.04013</link>
+      <description>arXiv:2608.04013v1 Announce Type: new 
+Abstract: Recent advances in Multimodal Emotion Recognition in Conversations (MERC) highlight its reliance on complete multimodal inputs. However, real-world data often suffer from missing modalities due to transmission errors or user behavior, severely degradi</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04013</guid>
+      <source url="https://arxiv.org/abs/2608.04013">ArXiv ML</source>
     </item>
     <item>
-      <title>又一家AI基金暴雷了</title>
-      <link>https://www.qbitai.com/2026/08/467001.html</link>
-      <description>开源改写游戏规则</description>
-      <pubDate>Wed, 05 Aug 2026 12:43:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467001.html</guid>
-      <source url="https://www.qbitai.com/2026/08/467001.html">量子位</source>
+      <title>关于次主导（最小最大）超度量的 Hamming-Lipschitz 类型稳定性：理论和简单证明</title>
+      <link>https://arxiv.org/abs/2608.04014</link>
+      <description>arXiv:2608.04014v1 Announce Type: new 
+Abstract: The subdominant (minmax) ultrametric is a canonical tree-structured summary of a dissimilarity matrix, arising equivalently as the ultrametric induced by single-linkage clustering. While its classical stability theory is usually formulated in $\ell_\i</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04014</guid>
+      <source url="https://arxiv.org/abs/2608.04014">ArXiv ML</source>
     </item>
     <item>
-      <title>角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」</title>
-      <link>https://sspai.com/post/112891</link>
-      <description>从最初放个音箱响了就行的混沌，到后来对摆位与频响的死磕，这篇文章记录的，是我如何在这 1 平米的空间里，通过对声音和设备的不断调整，一步步厘清并重构自己精神生活一角的全过程。查看全文</description>
-      <pubDate>Wed, 05 Aug 2026 10:15:19 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112891</guid>
-      <source url="https://sspai.com/post/112891">少数派</source>
+      <title>矩估计的信赖域框架</title>
+      <link>https://arxiv.org/abs/2608.04026</link>
+      <description>arXiv:2608.04026v1 Announce Type: new 
+Abstract: In this paper, we develop a trust-region framework for understanding the behavior of adaptive moment estimation mechanisms, such as \textsc{Adam}, in stochastic gradient optimization. Specifically, in this framework, the magnitude of the update step f</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04026</guid>
+      <source url="https://arxiv.org/abs/2608.04026">ArXiv ML</source>
     </item>
     <item>
-      <title>淘天开启2027届应届生招聘：AI技术类岗位占比超9成</title>
-      <link>https://www.qbitai.com/2026/08/466998.html</link>
-      <description>阿里巴巴淘天集团开启2027届应届生招聘。</description>
-      <pubDate>Wed, 05 Aug 2026 09:38:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466998.html</guid>
-      <source url="https://www.qbitai.com/2026/08/466998.html">量子位</source>
+      <title>学习用全卷积神经网络解决中子共振</title>
+      <link>https://arxiv.org/abs/2608.04027</link>
+      <description>arXiv:2608.04027v1 Announce Type: new 
+Abstract: This work investigates the feasibility of augmenting traditional R-Matrix codes with a robust machine learning framework for automatically detecting neutron resonances in transmission spectra. Neutron transmission data are often complex and noisy, mak</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04027</guid>
+      <source url="https://arxiv.org/abs/2608.04027">ArXiv ML</source>
     </item>
     <item>
-      <title>华为全场景新品齐发，尊界 V800 领航版售价破百万，埃尔法们的加价生意不好做了</title>
-      <link>https://www.ifanr.com/1674060?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>尊界整顿百万级 MPV 市场。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 05 Aug 2026 09:15:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674060?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674060?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>Lindblad 启发的具有可分离旋转和耗散的多时间尺度储层计算</title>
+      <link>https://arxiv.org/abs/2608.04028</link>
+      <description>arXiv:2608.04028v1 Announce Type: new 
+Abstract: Echo-state networks enable efficient temporal learning by fixing the recurrent dynamics and training only a linear readout. However, conventional reservoirs typically accommodate signal mixing, memory retention, and stability within a single random re</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04028</guid>
+      <source url="https://arxiv.org/abs/2608.04028">ArXiv ML</source>
     </item>
     <item>
-      <title>MacBook Air 快断货了，等等党不能再等了</title>
-      <link>https://www.ifanr.com/1674038?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>《地主家也没有余粮了 II》#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 05 Aug 2026 08:47:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674038?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674038?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>通过 LLM 提示进行古典拉丁语命名实体识别的迁移学习</title>
+      <link>https://arxiv.org/abs/2608.04015</link>
+      <description>arXiv:2608.04015v1 Announce Type: new 
+Abstract: With the increase in digitized resources of Classical Latin texts and modern breakthroughs of Large Language Models (LLMs), I contribute to ancient language research by participating in EvaLatin 2026. This paper describes Team uOttawa's system descrip</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04015</guid>
+      <source url="https://arxiv.org/abs/2608.04015">ArXiv NLP</source>
     </item>
     <item>
-      <title>派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等</title>
-      <link>https://sspai.com/post/113087</link>
-      <description>索尼发布 FE 100-400mm F5.6-8 OSS 全画幅超远摄变焦镜头，国内航线燃油附加费下调等。查看全文</description>
-      <pubDate>Wed, 05 Aug 2026 08:30:43 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113087</guid>
-      <source url="https://sspai.com/post/113087">少数派</source>
+      <title>当多变少时：语言模型中位置相关的重复效应</title>
+      <link>https://arxiv.org/abs/2608.04021</link>
+      <description>arXiv:2608.04021v1 Announce Type: new 
+Abstract: Cloze-style probes that vary how often a target token appears implicitly assume that more copies of a target affect prediction the same way regardless of where the readout slot sits. We show this assumption fails. Our two-probe design holds a repeated</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04021</guid>
+      <source url="https://arxiv.org/abs/2608.04021">ArXiv NLP</source>
     </item>
     <item>
-      <title>鸿蒙智行发布「竹知了」相关情况说明；小红书封禁 AI 毒动画，未成年陪聊等 10 万账号；马斯克财富缩水2.45万亿元｜极客早知道</title>
-      <link>http://www.geekpark.net/news/368389</link>
-      <description>​鸿蒙智行发布「竹知了」相关情况说明
-
-8 月 4 日晚，@ 鸿蒙智行发言人 发布关于近期「竹知了」相关网络信息的情况说明。
-
-鸿蒙智行表示：长期以来，网络上持续存在恶意剪辑、仿冒相关高管声音、利用 AI 丑化肖像、虚假归因、侮辱诽谤等侵害个人合法权益的内容。我们一直依法开展日常取证和投诉。本次投诉是日常维权工作的一部分，针对的是具体侵权内容，并非针对「竹知了」玩具。
-截至 8 月 4 日晚，共监测到相关网络信息累计 5.6 万余条。我们实际对其中 171 条具体侵权内容发起投诉，平台反馈下架 144 条。
-经多部门复核，相关投诉均有明确侵权事实和留存证据，不存在仅为正常把玩、制作、展示或者销</description>
-      <pubDate>Wed, 05 Aug 2026 08:13:50 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368389</guid>
-      <source url="http://www.geekpark.net/news/368389">极客公园</source>
-    </item>
-    <item>
-      <title>114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型</title>
-      <link>https://www.qbitai.com/2026/08/466847.html</link>
-      <description>10秒1080P，成本只要5毛钱</description>
-      <pubDate>Wed, 05 Aug 2026 07:05:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466847.html</guid>
-      <source url="https://www.qbitai.com/2026/08/466847.html">量子位</source>
+      <title>从叙事重建持久世界以实现基于叙事的互动体验</title>
+      <link>https://arxiv.org/abs/2608.04037</link>
+      <description>arXiv:2608.04037v1 Announce Type: new 
+Abstract: Designing narrative-grounded interactive experiences remains labor-intensive because interactive content must align with the underlying world implied by the narrative. Existing approaches formulate problems such as narrative planning, scene generation</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.04037</guid>
+      <source url="https://arxiv.org/abs/2608.04037">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
