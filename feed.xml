@@ -5,8 +5,20 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 06 Aug 2026 12:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 15:29:10 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场</title>
+      <link>http://www.geekpark.net/news/368503</link>
+      <description>未来的影像设备，应该是「前轻后重」的。
+这是影石Insta360 创始人刘靖康在 AGI Playground 2026 上对影像行业未来趋势的判断。上个月，影石刚刚宣布了「打造 Cameraman」的最新产品愿景&amp;mdash;&amp;mdash;它代表着一种「更简单操作+更好的交付」的影像体验。
+刘靖康说：「也可以认为这是一种 Camera Agent」。
+产品形态大概率是多样的。因为哪怕「前轻」，不同出片场景里人们依然需要不一样的镜头、焦段以及第一人称、第三人称等不同拍摄形式。
+和具身领域一样，目前距离让设备本体在通用场景里「自由移动」，仍有不小的挑战。但 Cameraman 未必需要一个「通用</description>
+      <pubDate>Thu, 06 Aug 2026 20:52:10 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368503</guid>
+      <source url="http://www.geekpark.net/news/368503">极客公园</source>
+    </item>
     <item>
       <title>新玩意 248｜少数派的编辑们最近买了啥？</title>
       <link>https://sspai.com/post/113139</link>
@@ -58,6 +70,14 @@
       <pubDate>Thu, 06 Aug 2026 15:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/112916</guid>
       <source url="https://sspai.com/post/112916">少数派</source>
+    </item>
+    <item>
+      <title>Wan 3.0 有了自己的镜头美学</title>
+      <link>https://www.ifanr.com/1674218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>真正好的工具不替你做决定，它只是让你的决定更容易落地。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 06 Aug 2026 14:34:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>角落新声｜音乐，刻在时光里的私人地图</title>
@@ -171,24 +191,6 @@ Abstract: How do you verify a long-horizon agent when its own state and self-rep
       <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.04066</guid>
       <source url="https://arxiv.org/abs/2608.04066">ArXiv AI</source>
-    </item>
-    <item>
-      <title>用于表到多模式报告生成的蒙特卡罗树搜索</title>
-      <link>https://arxiv.org/abs/2608.04071</link>
-      <description>arXiv:2608.04071v1 Announce Type: new 
-Abstract: Automatically generating professional multimodal reports comprising both textual analysis and visual charts from structured tabular data is a critical challenge in data intelligence. Existing methods suffer from fixed linear pipelines and isolated sub</description>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.04071</guid>
-      <source url="https://arxiv.org/abs/2608.04071">ArXiv AI</source>
-    </item>
-    <item>
-      <title>FinProBench：使用源自专业交付成果的基于角色的评分标准评估金融人工智能代理</title>
-      <link>https://arxiv.org/abs/2608.04077</link>
-      <description>arXiv:2608.04077v1 Announce Type: new 
-Abstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task prompts or model outputs, overlooking tacit standards visible only in practitioner deliverables. We intro</description>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.04077</guid>
-      <source url="https://arxiv.org/abs/2608.04077">ArXiv AI</source>
     </item>
   </channel>
 </rss>
