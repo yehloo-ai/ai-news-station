@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-05",
+  "updatedAt": "2026-08-06",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-08-06",
+      "company": "阿里巴巴",
+      "model": "Qwen Cloud",
+      "type": "图像",
+      "specs": [],
+      "highlight": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwe",
+      "sourceUrl": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+      "sourceName": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-08-05",
       "company": "NVIDIA",
