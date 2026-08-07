@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 07 Aug 2026 05:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:42:30 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>角落新声｜从合租到整租，我在客厅听见了自己的声音</title>
@@ -34,6 +34,30 @@
       <pubDate>Fri, 07 Aug 2026 08:18:42 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368504</guid>
       <source url="http://www.geekpark.net/news/368504">极客公园</source>
+    </item>
+    <item>
+      <title>AI批量轰炸苹果bug赏金计划，审核团队已下线</title>
+      <link>https://www.qbitai.com/2026/08/466738.html</link>
+      <description></description>
+      <pubDate>Fri, 07 Aug 2026 06:21:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466738.html</guid>
+      <source url="https://www.qbitai.com/2026/08/466738.html">量子位</source>
+    </item>
+    <item>
+      <title>openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境</title>
+      <link>https://www.qbitai.com/2026/08/468305.html</link>
+      <description>从「能用」走向「规模化落地」</description>
+      <pubDate>Fri, 07 Aug 2026 06:18:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468305.html</guid>
+      <source url="https://www.qbitai.com/2026/08/468305.html">量子位</source>
+    </item>
+    <item>
+      <title>AI圈功能狂卷，付费寥寥，Keep正在试一条新路</title>
+      <link>https://www.qbitai.com/2026/08/467878.html</link>
+      <description>AI卷向运动赛道，Keep的新答卷能否跑通？</description>
+      <pubDate>Fri, 07 Aug 2026 05:30:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467878.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467878.html">量子位</source>
     </item>
     <item>
       <title>解读｜OpenAI 音箱：果味设计，但比苹果多走一步</title>
@@ -116,22 +140,6 @@
       <source url="https://www.qbitai.com/2026/08/467663.html">量子位</source>
     </item>
     <item>
-      <title>冲刺全球首个100万小时具身数据！三家国产公司，联手了</title>
-      <link>https://www.qbitai.com/2026/08/467486.html</link>
-      <description>采集、仿真、训练和评测，闭环了</description>
-      <pubDate>Fri, 07 Aug 2026 00:55:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467486.html</guid>
-      <source url="https://www.qbitai.com/2026/08/467486.html">量子位</source>
-    </item>
-    <item>
-      <title>DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体</title>
-      <link>https://www.qbitai.com/2026/08/467487.html</link>
-      <description>此后模型、算力、数据中心都在合作范围内</description>
-      <pubDate>Fri, 07 Aug 2026 00:25:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467487.html</guid>
-      <source url="https://www.qbitai.com/2026/08/467487.html">量子位</source>
-    </item>
-    <item>
       <title>早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台</title>
       <link>https://www.ifanr.com/1674259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>· OpenAI 请求法院驳回苹果商业秘密诉讼
@@ -167,15 +175,6 @@ Abstract: Large language models often fail on reasoning tasks despite possessing
       <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.05168</guid>
       <source url="https://arxiv.org/abs/2608.05168">ArXiv AI</source>
-    </item>
-    <item>
-      <title>从连续预测因子到临床阈值：关于缺血性卒中结果预测基于指南的分类性能权衡的早期证据</title>
-      <link>https://arxiv.org/abs/2608.05203</link>
-      <description>arXiv:2608.05203v1 Announce Type: new 
-Abstract: Machine learning models achieve strong predictive accuracy for 90-day outcome prediction in acute ischaemic stroke, yet clinical adoption is limited by the misalignment of model explanations with clinicians' reasoning. Motivated by a clinician user st</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05203</guid>
-      <source url="https://arxiv.org/abs/2608.05203">ArXiv AI</source>
     </item>
   </channel>
 </rss>
