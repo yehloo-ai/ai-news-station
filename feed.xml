@@ -5,200 +5,180 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 07 Aug 2026 00:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 04:03:47 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>如何使用 ChatGPT Work 安排每周指标报告</title>
-      <link>https://www.youtube.com/watch?v=p_slDAvPjv0</link>
-      <description>Stop spending hours pulling together your weekly report. 
+      <title>角落新声｜从合租到整租，我在客厅听见了自己的声音</title>
+      <link>https://sspai.com/post/113144</link>
+      <description>当我坐下来，这个小角落就慢慢有了属于我的声音。查看全文</description>
+      <pubDate>Fri, 07 Aug 2026 10:15:51 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113144</guid>
+      <source url="https://sspai.com/post/113144">少数派</source>
+    </item>
+    <item>
+      <title>派早报：Bose 发布新款 QuietComfort 头戴式耳机等</title>
+      <link>https://sspai.com/post/113162</link>
+      <description>Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。查看全文</description>
+      <pubDate>Fri, 07 Aug 2026 08:51:06 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113162</guid>
+      <source url="https://sspai.com/post/113162">少数派</source>
+    </item>
+    <item>
+      <title>OpenAI 首款 AI 硬件曝光；DeepSeek 拟上调 API 服务定价；曝字节拟训练超 5 万亿超大参数模型｜极客早知道</title>
+      <link>http://www.geekpark.net/news/368504</link>
+      <description>&amp;nbsp;
 
-In this step-by-step demo, Eunji from Data Science shows how she sets up a recurring task in ChatGPT Work. Once it’s scheduled, ChatGPT Work pulls the latest metrics, explains what changed, updates the charts, and drafts the Slack message ev</description>
-      <pubDate>Thu, 06 Aug 2026 22:29:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=p_slDAvPjv0</guid>
-      <source url="https://www.youtube.com/watch?v=p_slDAvPjv0">OpenAI</source>
+古尔曼爆料 OpenAI 首款 AI 硬件：甜甜圈造型、冰球大小，先进语音交互等
+8 月 7 日消息，彭博社的马克 &amp;middot; 古尔曼（Mark Gurman）今天（8 月 7 日）发布 Power On 实时通讯，爆料称 OpenAI 的首款 AI 硬件为冰球（Hockey Puck，约 115.8 立方厘米）大小，售价预估在 300 美元到 400 美元（IT 之家注：现汇率约合 2,029 元到 2,705 元人民币）之间，有望 2027 年发布。
+定位方面，这款 AI 硬件本质上是「没有显示屏的智能音箱」，面向家庭场景设计，用户可用单手在家中携带它移动，由 Ope</description>
+      <pubDate>Fri, 07 Aug 2026 08:18:42 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368504</guid>
+      <source url="http://www.geekpark.net/news/368504">极客公园</source>
     </item>
     <item>
-      <title>如何使用 ChatGPT Work 将预测电子表格转变为交互式计划工具</title>
-      <link>https://www.youtube.com/watch?v=TryfaGZwvIE</link>
-      <description>Bring your spreadsheets to life with ChatGPT Work. 
-
-In this demo, Kyle from Strategic Finance teaches you how to turn your data into an interactive dashboard you can use to compare scenarios and see how numbers change.
-
-The best part: you can build it in minutes, without knowing how to code.
-
-https</description>
-      <pubDate>Thu, 06 Aug 2026 22:29:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=TryfaGZwvIE</guid>
-      <source url="https://www.youtube.com/watch?v=TryfaGZwvIE">OpenAI</source>
+      <title>蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作</title>
+      <link>https://www.qbitai.com/2026/08/467871.html</link>
+      <description>蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线</description>
+      <pubDate>Fri, 07 Aug 2026 03:08:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467871.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467871.html">量子位</source>
     </item>
     <item>
-      <title>对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场</title>
-      <link>http://www.geekpark.net/news/368503</link>
-      <description>未来的影像设备，应该是「前轻后重」的。
-这是影石Insta360 创始人刘靖康在 AGI Playground 2026 上对影像行业未来趋势的判断。上个月，影石刚刚宣布了「打造 Cameraman」的最新产品愿景&amp;mdash;&amp;mdash;它代表着一种「更简单操作+更好的交付」的影像体验。
-刘靖康说：「也可以认为这是一种 Camera Agent」。
-产品形态大概率是多样的。因为哪怕「前轻」，不同出片场景里人们依然需要不一样的镜头、焦段以及第一人称、第三人称等不同拍摄形式。
-和具身领域一样，目前距离让设备本体在通用场景里「自由移动」，仍有不小的挑战。但 Cameraman 未必需要一个「通用</description>
-      <pubDate>Thu, 06 Aug 2026 20:52:10 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368503</guid>
-      <source url="http://www.geekpark.net/news/368503">极客公园</source>
+      <title>AI SSD：大模型推理的存储范式转移</title>
+      <link>https://www.qbitai.com/2026/08/467840.html</link>
+      <description>算力、网络、内存与存储开始围绕每个Token协同</description>
+      <pubDate>Fri, 07 Aug 2026 02:56:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467840.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467840.html">量子位</source>
     </item>
     <item>
-      <title>新玩意 248｜少数派的编辑们最近买了啥？</title>
-      <link>https://sspai.com/post/113139</link>
-      <description>编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文</description>
-      <pubDate>Thu, 06 Aug 2026 17:30:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113139</guid>
-      <source url="https://sspai.com/post/113139">少数派</source>
+      <title>独家体验｜千问大更新，把 Agent 装进了电脑和手机</title>
+      <link>https://www.ifanr.com/1674265?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>全新功能都可以免费试用#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 07 Aug 2026 02:45:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674265?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674265?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>这枚不到 5 克的戒指，藏着 AI 交互的未来</title>
-      <link>http://www.geekpark.net/news/368497</link>
-      <description>智能戒指是一个被行业反复捡起、又反复放下的品类。
-过去十多年，从消息通知、移动支付、身份识别到手势控制，厂商几乎把所有对可穿戴设备的想象都装进过戒指。它足够贴身，又比手表更轻，理论上应该是最接近人的计算设备之一。但在真实使用中，一枚没有屏幕、算力和电池空间都极其有限的戒指，很难独立完成一套足够复杂的交互。
-很多能力因此停留在发布会演示里：抬手翻一页 PPT，捏一下手指拍照，或者隔空切换一首歌。第一次体验很新鲜，但用户很快会发现，它们既不能替代原来的遥控器，也没有构成购买一枚戒指的充分理由。
-经过几轮产品迭代，Oura、RingConn 等公司逐渐把健康监测推到产品核心。与需要即时响应的交互相比</description>
-      <pubDate>Thu, 06 Aug 2026 17:02:45 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368497</guid>
-      <source url="http://www.geekpark.net/news/368497">极客公园</source>
+      <title>宝马 3 系换代、奔驰 C 级改款，谁更有机会翻盘？</title>
+      <link>https://www.ifanr.com/1674199?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>他们都想翻盘，但对手早已不只是彼此。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 07 Aug 2026 02:06:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674199?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674199?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>代理插件简介</title>
-      <link>https://www.youtube.com/watch?v=UaeWJK_vv-Y</link>
-      <description>Introducing Agent Plugins, an open standard developed in collaboration with partners across the AI ecosystem.
-
-Bundle Agent Skills and supported MCP server configurations into plugins you can use across ChatGPT, Codex, Cursor, GitHub Copilot, Kiro, and VS Code.
-
-Get started: https://agent-plugins.or</description>
-      <pubDate>Thu, 06 Aug 2026 16:13:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=UaeWJK_vv-Y</guid>
-      <source url="https://www.youtube.com/watch?v=UaeWJK_vv-Y">OpenAI</source>
+      <title>PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商</title>
+      <link>https://www.qbitai.com/2026/08/467834.html</link>
+      <description></description>
+      <pubDate>Fri, 07 Aug 2026 01:39:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467834.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467834.html">量子位</source>
     </item>
     <item>
-      <title>从会聊天到能管钱：Agent 进入交易时代</title>
-      <link>http://www.geekpark.net/news/368494</link>
-      <description>新加坡滨海湾花园，AGI Playground 2026 的主舞台灯光亮起。台下坐着 50 多家全球 VC、数百位 AI Builder，对 Agent 下一个阶段发展方向充满期待。
-大家都在看一个问题：
-当 Agent 从对话走向执行，我们离自动交付还有多远？
-圆桌上， Airwallex 空中云汇全球首席营收官吴 恺 给出了一个不同于多数人的 观点 。他没有从模型能力或交互界面切入，而是直接把问题拉到了金融这个最严苛的场景 ，他认为， AI 不 仅 会改变软件的使用方式，还会改变企业的构建和运营方式 ：「 我们正在为 AI 原生的企业金融与商业构建 底层执行能力 」。
-这句话意味着 Age</description>
-      <pubDate>Thu, 06 Aug 2026 15:53:44 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368494</guid>
-      <source url="http://www.geekpark.net/news/368494">极客公园</source>
+      <title>智元下架了首席科学家罗剑岚</title>
+      <link>https://www.qbitai.com/2026/08/467730.html</link>
+      <description>智元机器人高管生变！</description>
+      <pubDate>Fri, 07 Aug 2026 01:25:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467730.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467730.html">量子位</source>
     </item>
     <item>
-      <title>谷歌「地基元老」Jeff Dean 离职创业，新公司瞄准 AI4S</title>
-      <link>http://www.geekpark.net/news/368495</link>
-      <description>作者｜桦林舞王
-编辑｜靖宇
-&amp;nbsp;
-1999 年，Jeff Dean 加入谷歌的时候，这家公司只有 20 个人，办公室在 Palo Alto 一家 T-Mobile 门店的楼上。27 年后，他是谷歌的首席科学家，身后是 MapReduce、Bigtable、Spanner、TensorFlow、TPU、Gemini&amp;mdash;&amp;mdash;几乎每一项支撑谷歌运转的核心基础设施，都有他的名字。
-8 月 5 日，Jeff Dean 宣布离开谷歌，和三位长期合作者共同创立 Discovery Loop。消息公布当天，Alphabet 股价下跌约 5%。
-市场的反应很诚实。走的不是一个高管，是</description>
-      <pubDate>Thu, 06 Aug 2026 15:51:48 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368495</guid>
-      <source url="http://www.geekpark.net/news/368495">极客公园</source>
+      <title>Show me《指环王》！卡帕西强推大模型评测新基准</title>
+      <link>https://www.qbitai.com/2026/08/467663.html</link>
+      <description>指环王成为大模型新基准</description>
+      <pubDate>Fri, 07 Aug 2026 01:15:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467663.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467663.html">量子位</source>
     </item>
     <item>
-      <title>TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验</title>
-      <link>https://sspai.com/post/112916</link>
-      <description>这篇文章是TDSStudio在少数派上的第27篇文章，依然是全平台首发。在去年的年度企划之一「中价位TWS横评」中，vivo/iQOO的TWS5系列表现在多个方面都有优势，尤其是降噪综合能力的表现给人 ...查看全文</description>
-      <pubDate>Thu, 06 Aug 2026 15:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112916</guid>
-      <source url="https://sspai.com/post/112916">少数派</source>
+      <title>冲刺全球首个100万小时具身数据！三家国产公司，联手了</title>
+      <link>https://www.qbitai.com/2026/08/467486.html</link>
+      <description>采集、仿真、训练和评测，闭环了</description>
+      <pubDate>Fri, 07 Aug 2026 00:55:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467486.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467486.html">量子位</source>
     </item>
     <item>
-      <title>Wan 3.0 有了自己的镜头美学</title>
-      <link>https://www.ifanr.com/1674218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>真正好的工具不替你做决定，它只是让你的决定更容易落地。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 06 Aug 2026 14:34:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体</title>
+      <link>https://www.qbitai.com/2026/08/467487.html</link>
+      <description>此后模型、算力、数据中心都在合作范围内</description>
+      <pubDate>Fri, 07 Aug 2026 00:25:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467487.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467487.html">量子位</source>
     </item>
     <item>
-      <title>角落新声｜音乐，刻在时光里的私人地图</title>
-      <link>https://sspai.com/post/113017</link>
-      <description>没什么特别的，但无处不在，刚刚好。查看全文</description>
-      <pubDate>Thu, 06 Aug 2026 10:14:58 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113017</guid>
-      <source url="https://sspai.com/post/113017">少数派</source>
+      <title>早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台</title>
+      <link>https://www.ifanr.com/1674259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· OpenAI 请求法院驳回苹果商业秘密诉讼
+· DeepSeek 预告近期上调 API 价格，称预计涨幅较大
+· 推理能力大普及，OpenAI 为 ChatGPT 免费用户新增「Think」按钮#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 07 Aug 2026 00:15:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>价格一分没涨，非晶电驱上车：2027 款埃安 RT 上市，9.98 万元起</title>
-      <link>https://www.ifanr.com/1674178?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>每一度电都要花在刀刃上。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 06 Aug 2026 10:01:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674178?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674178?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>代理嵌套：现有企业应用程序集成和服务的新方法</title>
+      <link>https://arxiv.org/abs/2608.05159</link>
+      <description>arXiv:2608.05159v1 Announce Type: new 
+Abstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmentation. Enterprises have invested considerable financial and material resources i</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05159</guid>
+      <source url="https://arxiv.org/abs/2608.05159">ArXiv AI</source>
     </item>
     <item>
-      <title>下个月的 iPhone 发布会，可能是五年来最有「活人感」的一次</title>
-      <link>https://www.ifanr.com/1674187?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>真人站台的苹果发布会，可能要回来了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 06 Aug 2026 10:00:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674187?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674187?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>点火指数：测量语言模型中的全球工作空间动态</title>
+      <link>https://arxiv.org/abs/2608.05160</link>
+      <description>arXiv:2608.05160v1 Announce Type: new 
+Abstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in transformer language models. The metric fits a four-parameter sigmoid to per-layer linear probe accu</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05160</guid>
+      <source url="https://arxiv.org/abs/2608.05160">ArXiv AI</source>
     </item>
     <item>
-      <title>20.18 万元起，唯一直接挂「长城」名号的 H10，要抢家庭 SUV 市场</title>
-      <link>https://www.ifanr.com/1674168?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>灵活越野。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 06 Aug 2026 09:28:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674168?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674168?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>啄木鸟蒸馏：弱模型诊断强模型中的推理错误</title>
+      <link>https://arxiv.org/abs/2608.05168</link>
+      <description>arXiv:2608.05168v1 Announce Type: new 
+Abstract: Large language models often fail on reasoning tasks despite possessing the capability to solve them. We argue that many such failures arise from localized reasoning bugs in intermediate steps rather than from global incompetence. We show that these bu</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05168</guid>
+      <source url="https://arxiv.org/abs/2608.05168">ArXiv AI</source>
     </item>
     <item>
-      <title>新内存战争</title>
-      <link>https://www.ifanr.com/1674075?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>内存更好了，但不会变得更便宜。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 06 Aug 2026 08:51:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674075?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674075?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>从连续预测因子到临床阈值：关于缺血性卒中结果预测基于指南的分类性能权衡的早期证据</title>
+      <link>https://arxiv.org/abs/2608.05203</link>
+      <description>arXiv:2608.05203v1 Announce Type: new 
+Abstract: Machine learning models achieve strong predictive accuracy for 90-day outcome prediction in acute ischaemic stroke, yet clinical adoption is limited by the misalignment of model explanations with clinicians' reasoning. Motivated by a clinician user st</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05203</guid>
+      <source url="https://arxiv.org/abs/2608.05203">ArXiv AI</source>
     </item>
     <item>
-      <title>派早报：华为发布尊界 MPV 及多款新品等</title>
-      <link>https://sspai.com/post/113110</link>
-      <description>英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文</description>
-      <pubDate>Thu, 06 Aug 2026 08:42:08 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113110</guid>
-      <source url="https://sspai.com/post/113110">少数派</source>
+      <title>SkillTrace：LLM 代理技能重用的多跟踪出处审核</title>
+      <link>https://arxiv.org/abs/2608.05204</link>
+      <description>arXiv:2608.05204v1 Announce Type: new 
+Abstract: LLM-agent ecosystems are rapidly growing around reusable skills: mixed-modality packages of metadata, natural-language instructions, code, tools, references, and operational workflows. As skills become marketplace artifacts, auditing their reuse is no</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05204</guid>
+      <source url="https://arxiv.org/abs/2608.05204">ArXiv AI</source>
     </item>
     <item>
-      <title>传 DeepSeek 重启融资；华为余承东：手机之后可能都要大规模涨价；首例破坏 AI 模型刑案宣判，程序员「删库跑路」获刑</title>
-      <link>http://www.geekpark.net/news/368444</link>
-      <description>传 DeepSeek 重启融资
-据多名交易人士透露，大模型公司 DeepSeek 重启了第二轮融资，本轮计划募资 500 亿元，投前估值约 5000 亿元，并计划将在 8 月下旬完成签约。
-多位投资人提到，DeepSeek 第二轮融资至少在 7 月中旬就已开启，但在 7 月底突然暂停，当时一些谈判候补名单上的投资人被告知签署融资协议的计划暂缓。
-据介绍，DeepSeek 和正在谈判桌上的投资人们希望这次融资在重启后能低调进行。目前，一些此前积极接触的投资机构表示，他们还没有接到 DeepSeek 重启融资的消息，通道仍处在暂缓状态。（来源：财经）
-
-Anthropic 证实正在组建内部芯片团队</description>
-      <pubDate>Thu, 06 Aug 2026 08:30:53 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368444</guid>
-      <source url="http://www.geekpark.net/news/368444">极客公园</source>
+      <title>MS-MLB：基于血液的 MS 分类的开放机器学习基准</title>
+      <link>https://arxiv.org/abs/2608.05196</link>
+      <description>arXiv:2608.05196v1 Announce Type: new 
+Abstract: Multiple sclerosis (MS) is diagnosed through clinical assessment, magnetic resonance imaging, laboratory evidence when appropriate, and exclusion of better explanations. Blood RNA expression data may contain disease associated immune signal, but a blo</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05196</guid>
+      <source url="https://arxiv.org/abs/2608.05196">ArXiv ML</source>
     </item>
     <item>
-      <title>降价 3 万元！理想 i8 新增后驱长续航版，升级电动前备箱</title>
-      <link>https://www.ifanr.com/1674159?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>为了销量，理想换了一个思路。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 06 Aug 2026 06:51:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674159?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674159?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Gemini 把逆风翻盘的希望，全押在这个人身上</title>
-      <link>https://www.ifanr.com/1673901?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>Gemini 新任掌门人，到底什么来头？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 06 Aug 2026 02:26:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1673901?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1673901?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>突发｜谷歌AI一夜巨震，Gemini换帅，首席科学家带三个大牛出走创业</title>
-      <link>https://www.ifanr.com/1673985?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>模型延期、股价下跌、人才出走，谷歌迎来压力测试#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 06 Aug 2026 02:18:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1673985?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1673985?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>纠正功能何时有帮助？黑盒预报器修正特征发现代理</title>
+      <link>https://arxiv.org/abs/2608.05207</link>
+      <description>arXiv:2608.05207v1 Announce Type: new 
+Abstract: Frozen pretrained forecasters often fail in structured, recurring ways that are costly to repair through fine-tuning. We study corrective feature discovery: mining interpretable features of a frozen forecaster's residual to drive a lightweight post-ho</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05207</guid>
+      <source url="https://arxiv.org/abs/2608.05207">ArXiv ML</source>
     </item>
   </channel>
 </rss>
