@@ -5,8 +5,32 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 06 Aug 2026 15:29:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:16:16 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>如何使用 ChatGPT Work 安排每周指标报告</title>
+      <link>https://www.youtube.com/watch?v=p_slDAvPjv0</link>
+      <description>Stop spending hours pulling together your weekly report. 
+
+In this step-by-step demo, Eunji from Data Science shows how she sets up a recurring task in ChatGPT Work. Once it’s scheduled, ChatGPT Work pulls the latest metrics, explains what changed, updates the charts, and drafts the Slack message ev</description>
+      <pubDate>Thu, 06 Aug 2026 22:29:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=p_slDAvPjv0</guid>
+      <source url="https://www.youtube.com/watch?v=p_slDAvPjv0">OpenAI</source>
+    </item>
+    <item>
+      <title>如何使用 ChatGPT Work 将预测电子表格转变为交互式计划工具</title>
+      <link>https://www.youtube.com/watch?v=TryfaGZwvIE</link>
+      <description>Bring your spreadsheets to life with ChatGPT Work. 
+
+In this demo, Kyle from Strategic Finance teaches you how to turn your data into an interactive dashboard you can use to compare scenarios and see how numbers change.
+
+The best part: you can build it in minutes, without knowing how to code.
+
+https</description>
+      <pubDate>Thu, 06 Aug 2026 22:29:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=TryfaGZwvIE</guid>
+      <source url="https://www.youtube.com/watch?v=TryfaGZwvIE">OpenAI</source>
+    </item>
     <item>
       <title>对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场</title>
       <link>http://www.geekpark.net/news/368503</link>
@@ -37,6 +61,18 @@
       <pubDate>Thu, 06 Aug 2026 17:02:45 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368497</guid>
       <source url="http://www.geekpark.net/news/368497">极客公园</source>
+    </item>
+    <item>
+      <title>代理插件简介</title>
+      <link>https://www.youtube.com/watch?v=UaeWJK_vv-Y</link>
+      <description>Introducing Agent Plugins, an open standard developed in collaboration with partners across the AI ecosystem.
+
+Bundle Agent Skills and supported MCP server configurations into plugins you can use across ChatGPT, Codex, Cursor, GitHub Copilot, Kiro, and VS Code.
+
+Get started: https://agent-plugins.or</description>
+      <pubDate>Thu, 06 Aug 2026 16:13:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=UaeWJK_vv-Y</guid>
+      <source url="https://www.youtube.com/watch?v=UaeWJK_vv-Y">OpenAI</source>
     </item>
     <item>
       <title>从会聊天到能管钱：Agent 进入交易时代</title>
@@ -163,34 +199,6 @@ Anthropic 证实正在组建内部芯片团队</description>
       <pubDate>Thu, 06 Aug 2026 02:18:38 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1673985?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1673985?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成</title>
-      <link>https://www.ifanr.com/1674104?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 苹果首款折叠屏 iPhone Ultra 渲染图及规格曝光：配备 7.8 英寸内屏与 2nm A20 芯片
-· Anthropic 组建 Claude 芯片设计团队
-· 宇树科技科创板 IPO 开启初步询价#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 06 Aug 2026 00:41:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674104?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674104?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>冗余调整人工年龄评分（AAS）下人工智能系统的长期持久性理论</title>
-      <link>https://arxiv.org/abs/2608.04012</link>
-      <description>arXiv:2608.04012v1 Announce Type: new 
-Abstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through isolated one-shot outputs. This raises a fundamental theoretical question: can an AI system persist in</description>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.04012</guid>
-      <source url="https://arxiv.org/abs/2608.04012">ArXiv AI</source>
-    </item>
-    <item>
-      <title>法学硕士提议，行政人员处置：一种自我验证代理工具，可将长期代理中的承诺漂移与约束漂移分开</title>
-      <link>https://arxiv.org/abs/2608.04066</link>
-      <description>arXiv:2608.04066v1 Announce Type: new 
-Abstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so that verification is structural rather than post-hoc. A deterministic Executive owns all belief; a la</description>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.04066</guid>
-      <source url="https://arxiv.org/abs/2608.04066">ArXiv AI</source>
     </item>
   </channel>
 </rss>
