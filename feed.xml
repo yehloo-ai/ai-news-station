@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 07 Aug 2026 04:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 05:52:26 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>角落新声｜从合租到整租，我在客厅听见了自己的声音</title>
@@ -34,6 +34,30 @@
       <pubDate>Fri, 07 Aug 2026 08:18:42 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368504</guid>
       <source url="http://www.geekpark.net/news/368504">极客公园</source>
+    </item>
+    <item>
+      <title>解读｜OpenAI 音箱：果味设计，但比苹果多走一步</title>
+      <link>https://www.ifanr.com/1674363?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>甜甜圈真好吃#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 07 Aug 2026 04:00:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674363?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674363?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频</title>
+      <link>https://www.qbitai.com/2026/08/467877.html</link>
+      <description>8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测</description>
+      <pubDate>Fri, 07 Aug 2026 03:23:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467877.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467877.html">量子位</source>
+    </item>
+    <item>
+      <title>刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了</title>
+      <link>https://www.qbitai.com/2026/08/467879.html</link>
+      <description>Chat优化版</description>
+      <pubDate>Fri, 07 Aug 2026 03:23:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467879.html</guid>
+      <source url="https://www.qbitai.com/2026/08/467879.html">量子位</source>
     </item>
     <item>
       <title>蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作</title>
@@ -152,33 +176,6 @@ Abstract: Machine learning models achieve strong predictive accuracy for 90-day 
       <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.05203</guid>
       <source url="https://arxiv.org/abs/2608.05203">ArXiv AI</source>
-    </item>
-    <item>
-      <title>SkillTrace：LLM 代理技能重用的多跟踪出处审核</title>
-      <link>https://arxiv.org/abs/2608.05204</link>
-      <description>arXiv:2608.05204v1 Announce Type: new 
-Abstract: LLM-agent ecosystems are rapidly growing around reusable skills: mixed-modality packages of metadata, natural-language instructions, code, tools, references, and operational workflows. As skills become marketplace artifacts, auditing their reuse is no</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05204</guid>
-      <source url="https://arxiv.org/abs/2608.05204">ArXiv AI</source>
-    </item>
-    <item>
-      <title>MS-MLB：基于血液的 MS 分类的开放机器学习基准</title>
-      <link>https://arxiv.org/abs/2608.05196</link>
-      <description>arXiv:2608.05196v1 Announce Type: new 
-Abstract: Multiple sclerosis (MS) is diagnosed through clinical assessment, magnetic resonance imaging, laboratory evidence when appropriate, and exclusion of better explanations. Blood RNA expression data may contain disease associated immune signal, but a blo</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05196</guid>
-      <source url="https://arxiv.org/abs/2608.05196">ArXiv ML</source>
-    </item>
-    <item>
-      <title>纠正功能何时有帮助？黑盒预报器修正特征发现代理</title>
-      <link>https://arxiv.org/abs/2608.05207</link>
-      <description>arXiv:2608.05207v1 Announce Type: new 
-Abstract: Frozen pretrained forecasters often fail in structured, recurring ways that are costly to repair through fine-tuning. We study corrective feature discovery: mining interpretable features of a frozen forecaster's residual to drive a lightweight post-ho</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05207</guid>
-      <source url="https://arxiv.org/abs/2608.05207">ArXiv ML</source>
     </item>
   </channel>
 </rss>
