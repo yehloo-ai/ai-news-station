@@ -5,8 +5,39 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:16:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:07:02 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DeepSeek 的「斩杀线」，正在重塑 AI 行业的世界观</title>
+      <link>http://www.geekpark.net/news/368556</link>
+      <description>作者｜Techno 之王
+编辑｜靖宇
+&amp;nbsp;
+8 月 4 日，「DeepSeek&amp;nbsp;斩杀线」竟然冲上微博热搜。V4 Flash&amp;nbsp;正式版凭借极致的性价比，在全球 AI 大模型的「成本-性能」坐标系上划出了一条残酷的行业生死线&amp;mdash;&amp;mdash;比它贵的没它强，比它弱的没它便宜。开发者社区群情振奋，甚至外溢成了更大人群津津乐道的话题。
+当看起来 AI 世界的定价权已经易手，所有人为极致性价比欢呼的时候，两天后，8 月 6 日，DeepSeek 在开放平台后台发布了一条简短的公告：「计划近期整体上调 DeepSeek API 服务的定价，预计涨幅较大，请合理安排您的使</description>
+      <pubDate>Fri, 07 Aug 2026 17:56:59 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368556</guid>
+      <source url="http://www.geekpark.net/news/368556">极客公园</source>
+    </item>
+    <item>
+      <title>本周看什么 | 最近值得一看的 10 部作品</title>
+      <link>https://sspai.com/post/113191</link>
+      <description>📅本周新预告《生化危机：爆发夜》中字预告8月5日，电影《生化危机：爆发夜》发布了全新中字预告，将于9月18日在北美上映。扎克・克雷格（《凶器》《野蛮人》）执导，奥斯汀·艾布拉姆斯主演，一份双倍酬劳的郊 ...查看全文</description>
+      <pubDate>Fri, 07 Aug 2026 17:52:38 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113191</guid>
+      <source url="https://sspai.com/post/113191">少数派</source>
+    </item>
+    <item>
+      <title>打破机器人「数据焦虑」，穹彻智能想建一条「训练数据」生产线</title>
+      <link>http://www.geekpark.net/news/368553</link>
+      <description>如果说 2025 年是具身智能爆发的一年，那么今年，行业竞争已经开始进入新的阶段。
+从国内外越来越多机器人公司发布新产品，到资本持续加码，具身智能正成为 AI 领域最受关注的方向之一。但随着行业快速发展，一个新的共识正在形成：真正限制机器人进化速度的，不再只是模型，而是数据。
+与大语言模型可以利用互联网海量文本不同，机器人需要学习的是现实世界中的操作能力。一次抓取、一段搬运、一场整理任务，都需要真实发生，并同步记录视觉、动作、轨迹等多模态信息。如何持续获得高质量数据，并将这些数据快速转化为模型能够学习的数据集，成为越来越多具身智能企业面临的新挑战。
+作为国内具身智能企业，穹彻智能一直围绕「数据</description>
+      <pubDate>Fri, 07 Aug 2026 17:40:17 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368553</guid>
+      <source url="http://www.geekpark.net/news/368553">极客公园</source>
+    </item>
     <item>
       <title>[限时优惠] 数据分析：用好 Excel 中的数据透视表</title>
       <link>https://sspai.com/post/113108</link>
@@ -24,6 +55,14 @@
       <source url="https://sspai.com/post/113144">少数派</source>
     </item>
     <item>
+      <title>在 ChinaJoy ，我看到了第一台「科技潮玩」机器人</title>
+      <link>https://www.ifanr.com/1674308?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>先进家门的机器人，可能是科技潮玩#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 07 Aug 2026 10:12:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674308?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674308?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
       <title>派早报：Bose 发布新款 QuietComfort 头戴式耳机等</title>
       <link>https://sspai.com/post/113162</link>
       <description>Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。查看全文</description>
@@ -32,7 +71,7 @@
       <source url="https://sspai.com/post/113162">少数派</source>
     </item>
     <item>
-      <title>每个人都应该效仿的 DeepMind 人工智能技巧</title>
+      <title>DeepMind 刚刚改变了人工智能看待世界的方式</title>
       <link>https://www.youtube.com/watch?v=vO6SWG-jxvE</link>
       <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
 
@@ -145,41 +184,6 @@ https://x.com/UnslothAI/status/2078118183085731843
       <pubDate>Fri, 07 Aug 2026 02:06:09 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1674199?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1674199?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商</title>
-      <link>https://www.qbitai.com/2026/08/467834.html</link>
-      <description></description>
-      <pubDate>Fri, 07 Aug 2026 01:39:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467834.html</guid>
-      <source url="https://www.qbitai.com/2026/08/467834.html">量子位</source>
-    </item>
-    <item>
-      <title>智元下架了首席科学家罗剑岚</title>
-      <link>https://www.qbitai.com/2026/08/467730.html</link>
-      <description>智元机器人高管生变！</description>
-      <pubDate>Fri, 07 Aug 2026 01:25:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467730.html</guid>
-      <source url="https://www.qbitai.com/2026/08/467730.html">量子位</source>
-    </item>
-    <item>
-      <title>早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台</title>
-      <link>https://www.ifanr.com/1674259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· OpenAI 请求法院驳回苹果商业秘密诉讼
-· DeepSeek 预告近期上调 API 价格，称预计涨幅较大
-· 推理能力大普及，OpenAI 为 ChatGPT 免费用户新增「Think」按钮#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 07 Aug 2026 00:15:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>代理嵌套：现有企业应用程序集成和服务的新方法</title>
-      <link>https://arxiv.org/abs/2608.05159</link>
-      <description>arXiv:2608.05159v1 Announce Type: new 
-Abstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmentation. Enterprises have invested considerable financial and material resources i</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05159</guid>
-      <source url="https://arxiv.org/abs/2608.05159">ArXiv AI</source>
     </item>
   </channel>
 </rss>
