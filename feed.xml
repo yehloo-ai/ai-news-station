@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:42:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 09:16:38 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[限时优惠] 数据分析：用好 Excel 中的数据透视表</title>
+      <link>https://sspai.com/post/113108</link>
+      <description>编注：本文为Microsoft365工具生值包内随附专属定制教程的免费试读内容。接上级经销商通知，微软将于本月提高Microsoft365订阅的供应成本，后续软件售价也将随之进行相应调整。为此，我们特 ...查看全文</description>
+      <pubDate>Fri, 07 Aug 2026 15:39:58 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113108</guid>
+      <source url="https://sspai.com/post/113108">少数派</source>
+    </item>
     <item>
       <title>角落新声｜从合租到整租，我在客厅听见了自己的声音</title>
       <link>https://sspai.com/post/113144</link>
@@ -24,6 +32,21 @@
       <source url="https://sspai.com/post/113162">少数派</source>
     </item>
     <item>
+      <title>每个人都应该效仿的 DeepMind 人工智能技巧</title>
+      <link>https://www.youtube.com/watch?v=vO6SWG-jxvE</link>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
+
+📝 The Gemma4 paper and some more is available here:
+https://arxiv.org/abs/2607.02770
+https://x.com/googlegemma/status/2077449152062247219
+https://x.com/UnslothAI/status/2078118183085731843
+
+🙏 We would like to thank o</description>
+      <pubDate>Fri, 07 Aug 2026 08:22:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vO6SWG-jxvE</guid>
+      <source url="https://www.youtube.com/watch?v=vO6SWG-jxvE">Two Minute Papers</source>
+    </item>
+    <item>
       <title>OpenAI 首款 AI 硬件曝光；DeepSeek 拟上调 API 服务定价；曝字节拟训练超 5 万亿超大参数模型｜极客早知道</title>
       <link>http://www.geekpark.net/news/368504</link>
       <description>&amp;nbsp;
@@ -34,6 +57,14 @@
       <pubDate>Fri, 07 Aug 2026 08:18:42 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368504</guid>
       <source url="http://www.geekpark.net/news/368504">极客公园</source>
+    </item>
+    <item>
+      <title>阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力</title>
+      <link>https://www.qbitai.com/2026/08/468324.html</link>
+      <description>AI语音“听、说、创”一站式满足</description>
+      <pubDate>Fri, 07 Aug 2026 07:43:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468324.html</guid>
+      <source url="https://www.qbitai.com/2026/08/468324.html">量子位</source>
     </item>
     <item>
       <title>AI批量轰炸苹果bug赏金计划，审核团队已下线</title>
@@ -132,14 +163,6 @@
       <source url="https://www.qbitai.com/2026/08/467730.html">量子位</source>
     </item>
     <item>
-      <title>Show me《指环王》！卡帕西强推大模型评测新基准</title>
-      <link>https://www.qbitai.com/2026/08/467663.html</link>
-      <description>指环王成为大模型新基准</description>
-      <pubDate>Fri, 07 Aug 2026 01:15:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467663.html</guid>
-      <source url="https://www.qbitai.com/2026/08/467663.html">量子位</source>
-    </item>
-    <item>
       <title>早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台</title>
       <link>https://www.ifanr.com/1674259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>· OpenAI 请求法院驳回苹果商业秘密诉讼
@@ -157,24 +180,6 @@ Abstract: Enterprise operations extensively rely on multiple heterogeneous busin
       <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.05159</guid>
       <source url="https://arxiv.org/abs/2608.05159">ArXiv AI</source>
-    </item>
-    <item>
-      <title>点火指数：测量语言模型中的全球工作空间动态</title>
-      <link>https://arxiv.org/abs/2608.05160</link>
-      <description>arXiv:2608.05160v1 Announce Type: new 
-Abstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in transformer language models. The metric fits a four-parameter sigmoid to per-layer linear probe accu</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05160</guid>
-      <source url="https://arxiv.org/abs/2608.05160">ArXiv AI</source>
-    </item>
-    <item>
-      <title>啄木鸟蒸馏：弱模型诊断强模型中的推理错误</title>
-      <link>https://arxiv.org/abs/2608.05168</link>
-      <description>arXiv:2608.05168v1 Announce Type: new 
-Abstract: Large language models often fail on reasoning tasks despite possessing the capability to solve them. We argue that many such failures arise from localized reasoning bugs in intermediate steps rather than from global incompetence. We show that these bu</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05168</guid>
-      <source url="https://arxiv.org/abs/2608.05168">ArXiv AI</source>
     </item>
   </channel>
 </rss>
