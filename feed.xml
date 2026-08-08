@@ -5,8 +5,29 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 07 Aug 2026 23:47:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 02:22:57 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒｜极客早知道</title>
+      <link>http://www.geekpark.net/news/368565</link>
+      <description>OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程
+据报道，OpenAI 表示，不能排除其即将推出的模型 Astra 具备「关键性」网络能力，这促使 OpenAI 扩大安全测试范围，并暂停不符合更严格安全要求的内部活动。这是人工智能模型网络能力快速提升的最新迹象。
+OpenAI 表示，在对即将推出的模型之一 Astra 进行内部评估后，「我们无法排除其具备关键性网络能力」。在发布 Astra 之前，OpenAI 将扩大针对该模型的测试和安全措施，并按照公司 2023 年首次发布的「准备框架」要求，放缓 Astra 的开发进程，直到建立适当的安全防护措施。
+OpenAI 还表示，A</description>
+      <pubDate>Sat, 08 Aug 2026 08:40:23 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368565</guid>
+      <source url="http://www.geekpark.net/news/368565">极客公园</source>
+    </item>
+    <item>
+      <title>早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型</title>
+      <link>https://www.ifanr.com/1674478?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 曝 iPhone 18 系列备货遇阻：A20 Pro 处理器充足，移动 DRAM 短缺
+· DeepSeek 参与宇树科技战略配售，获配约 1.41 亿元
+· 小米称 YU7 登顶纯电动车一年期保值率第一#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 08 Aug 2026 00:52:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674478?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674478?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>Seedance 2.5 实测：从「片段」到「叙事」，AI 视频的下半场开始了｜AI 上新</title>
       <link>http://www.geekpark.net/news/368563</link>
@@ -197,22 +218,6 @@ https://x.com/UnslothAI/status/2078118183085731843
       <pubDate>Fri, 07 Aug 2026 05:30:08 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/467878.html</guid>
       <source url="https://www.qbitai.com/2026/08/467878.html">量子位</source>
-    </item>
-    <item>
-      <title>解读｜OpenAI 音箱：果味设计，但比苹果多走一步</title>
-      <link>https://www.ifanr.com/1674363?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>甜甜圈真好吃#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 07 Aug 2026 04:00:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674363?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674363?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频</title>
-      <link>https://www.qbitai.com/2026/08/467877.html</link>
-      <description>8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测</description>
-      <pubDate>Fri, 07 Aug 2026 03:23:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467877.html</guid>
-      <source url="https://www.qbitai.com/2026/08/467877.html">量子位</source>
     </item>
   </channel>
 </rss>
