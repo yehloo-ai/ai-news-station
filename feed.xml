@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 08 Aug 2026 02:22:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 04:22:31 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒｜极客早知道</title>
@@ -19,6 +19,22 @@ OpenAI 还表示，A</description>
       <source url="http://www.geekpark.net/news/368565">极客公园</source>
     </item>
     <item>
+      <title>谷歌急了：AI核心员工全给我搬回硅谷坐班！</title>
+      <link>https://www.qbitai.com/2026/08/468398.html</link>
+      <description>再花15亿美元买现成AI编程团队</description>
+      <pubDate>Sat, 08 Aug 2026 02:45:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468398.html</guid>
+      <source url="https://www.qbitai.com/2026/08/468398.html">量子位</source>
+    </item>
+    <item>
+      <title>Kimi K3也失控了…学霸AI逃离沙箱只为找答案</title>
+      <link>https://www.qbitai.com/2026/08/468338.html</link>
+      <description>啊，这真是个AI“失控”的夏天</description>
+      <pubDate>Sat, 08 Aug 2026 02:35:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468338.html</guid>
+      <source url="https://www.qbitai.com/2026/08/468338.html">量子位</source>
+    </item>
+    <item>
       <title>早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型</title>
       <link>https://www.ifanr.com/1674478?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>· 曝 iPhone 18 系列备货遇阻：A20 Pro 处理器充足，移动 DRAM 短缺
@@ -27,6 +43,51 @@ OpenAI 还表示，A</description>
       <pubDate>Sat, 08 Aug 2026 00:52:06 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1674478?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1674478?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>用于工业因果推理的基于模拟器的大型语言模型：用于废水处理决策支持的工具使用、结构化注入和工厂便携式检索</title>
+      <link>https://arxiv.org/abs/2608.05151</link>
+      <description>arXiv:2608.05151v1 Announce Type: new 
+Abstract: Wastewater operators need answers grounded in how their plant's variables interact and how fast effects propagate, not in generic pretraining text, when asking causal questions such as "why is N2O rising?" or "what happens if I cut aeration by 20%?". </description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05151</guid>
+      <source url="https://arxiv.org/abs/2608.05151">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>大型语言模型中思想链推理的平均场动力学</title>
+      <link>https://arxiv.org/abs/2608.05152</link>
+      <description>arXiv:2608.05152v1 Announce Type: new 
+Abstract: Large language models (LLMs) with chain-of-thought reasoning have been widely applied in recent years, and theoretical explanations of their behavior may help deepen our understanding and guide model optimization. In this study, we introduce a framewo</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05152</guid>
+      <source url="https://arxiv.org/abs/2608.05152">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>通用病理学、条件后果：用于多跳可追溯性的 RAG 三重鲁棒性分析</title>
+      <link>https://arxiv.org/abs/2608.05153</link>
+      <description>arXiv:2608.05153v1 Announce Type: new 
+Abstract: GraphRAG underperforms vector RAG on citation precision in many reports, but where and why have remained corpus-bound. We present a triple-robustness analysis that holds the retrieval architecture fixed and varies three orthogonal axes embedder (local</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05153</guid>
+      <source url="https://arxiv.org/abs/2608.05153">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>RIG-RoPE：具有持续时间感知时间坐标的关系门控和实例门控旋转位置编码</title>
+      <link>https://arxiv.org/abs/2608.05154</link>
+      <description>arXiv:2608.05154v1 Announce Type: new 
+Abstract: Rotary positional encoding (RoPE) is a core component of modern language models and has been extended to multimodal LLMs through multidimensional variants such as multimodal RoPE (M-RoPE), which split positional channels into temporal, height, and wid</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05154</guid>
+      <source url="https://arxiv.org/abs/2608.05154">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>超越情感：比较传统 NLP 和基于 LLM 的政治新闻评估多维分析</title>
+      <link>https://arxiv.org/abs/2608.05155</link>
+      <description>arXiv:2608.05155v1 Announce Type: new 
+Abstract: Traditional sentiment analysis (SA) models, while effective for polarity classification, provide limited insight into the rhetorical, ideological, and framing dimensions of political discourse -- dimensions that are central to research in the social s</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05155</guid>
+      <source url="https://arxiv.org/abs/2608.05155">ArXiv NLP</source>
     </item>
     <item>
       <title>Seedance 2.5 实测：从「片段」到「叙事」，AI 视频的下半场开始了｜AI 上新</title>
@@ -151,73 +212,6 @@ Fitbit Air 形态非常惹人喜欢｜图片来源：极客公园
       <pubDate>Fri, 07 Aug 2026 10:12:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1674308?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1674308?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>派早报：Bose 发布新款 QuietComfort 头戴式耳机等</title>
-      <link>https://sspai.com/post/113162</link>
-      <description>Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。查看全文</description>
-      <pubDate>Fri, 07 Aug 2026 08:51:06 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113162</guid>
-      <source url="https://sspai.com/post/113162">少数派</source>
-    </item>
-    <item>
-      <title>DeepMind 刚刚改变了人工智能看待世界的方式</title>
-      <link>https://www.youtube.com/watch?v=vO6SWG-jxvE</link>
-      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
-
-📝 The Gemma4 paper and some more is available here:
-https://arxiv.org/abs/2607.02770
-https://x.com/googlegemma/status/2077449152062247219
-https://x.com/UnslothAI/status/2078118183085731843
-
-🙏 We would like to thank o</description>
-      <pubDate>Fri, 07 Aug 2026 08:22:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=vO6SWG-jxvE</guid>
-      <source url="https://www.youtube.com/watch?v=vO6SWG-jxvE">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>OpenAI 首款 AI 硬件曝光；DeepSeek 拟上调 API 服务定价；曝字节拟训练超 5 万亿超大参数模型｜极客早知道</title>
-      <link>http://www.geekpark.net/news/368504</link>
-      <description>&amp;nbsp;
-
-古尔曼爆料 OpenAI 首款 AI 硬件：甜甜圈造型、冰球大小，先进语音交互等
-8 月 7 日消息，彭博社的马克 &amp;middot; 古尔曼（Mark Gurman）今天（8 月 7 日）发布 Power On 实时通讯，爆料称 OpenAI 的首款 AI 硬件为冰球（Hockey Puck，约 115.8 立方厘米）大小，售价预估在 300 美元到 400 美元（IT 之家注：现汇率约合 2,029 元到 2,705 元人民币）之间，有望 2027 年发布。
-定位方面，这款 AI 硬件本质上是「没有显示屏的智能音箱」，面向家庭场景设计，用户可用单手在家中携带它移动，由 Ope</description>
-      <pubDate>Fri, 07 Aug 2026 08:18:42 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368504</guid>
-      <source url="http://www.geekpark.net/news/368504">极客公园</source>
-    </item>
-    <item>
-      <title>阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力</title>
-      <link>https://www.qbitai.com/2026/08/468324.html</link>
-      <description>AI语音“听、说、创”一站式满足</description>
-      <pubDate>Fri, 07 Aug 2026 07:43:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468324.html</guid>
-      <source url="https://www.qbitai.com/2026/08/468324.html">量子位</source>
-    </item>
-    <item>
-      <title>AI批量轰炸苹果bug赏金计划，审核团队已下线</title>
-      <link>https://www.qbitai.com/2026/08/466738.html</link>
-      <description></description>
-      <pubDate>Fri, 07 Aug 2026 06:21:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466738.html</guid>
-      <source url="https://www.qbitai.com/2026/08/466738.html">量子位</source>
-    </item>
-    <item>
-      <title>openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境</title>
-      <link>https://www.qbitai.com/2026/08/468305.html</link>
-      <description>从「能用」走向「规模化落地」</description>
-      <pubDate>Fri, 07 Aug 2026 06:18:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468305.html</guid>
-      <source url="https://www.qbitai.com/2026/08/468305.html">量子位</source>
-    </item>
-    <item>
-      <title>AI圈功能狂卷，付费寥寥，Keep正在试一条新路</title>
-      <link>https://www.qbitai.com/2026/08/467878.html</link>
-      <description>AI卷向运动赛道，Keep的新答卷能否跑通？</description>
-      <pubDate>Fri, 07 Aug 2026 05:30:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/467878.html</guid>
-      <source url="https://www.qbitai.com/2026/08/467878.html">量子位</source>
     </item>
   </channel>
 </rss>
