@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 09 Aug 2026 02:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 04:29:38 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍</title>
@@ -17,6 +17,22 @@
       <pubDate>Sun, 09 Aug 2026 07:56:23 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368577</guid>
       <source url="http://www.geekpark.net/news/368577">极客公园</source>
+    </item>
+    <item>
+      <title>Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了</title>
+      <link>https://www.qbitai.com/2026/08/468766.html</link>
+      <description>据说GPT-5.6很适合拿来做游戏</description>
+      <pubDate>Sun, 09 Aug 2026 03:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468766.html</guid>
+      <source url="https://www.qbitai.com/2026/08/468766.html">量子位</source>
+    </item>
+    <item>
+      <title>爆料：哈萨比斯原本要和Jeff Dean一起走！</title>
+      <link>https://www.qbitai.com/2026/08/468715.html</link>
+      <description>谷歌缓兵之计把人留下</description>
+      <pubDate>Sun, 09 Aug 2026 03:17:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468715.html</guid>
+      <source url="https://www.qbitai.com/2026/08/468715.html">量子位</source>
     </item>
     <item>
       <title>就内容创作而言，说话还是替代不了打字</title>
@@ -96,51 +112,6 @@ OpenAI 还表示，A</description>
       <source url="https://www.ifanr.com/1674478?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>用于工业因果推理的基于模拟器的大型语言模型：用于废水处理决策支持的工具使用、结构化注入和工厂便携式检索</title>
-      <link>https://arxiv.org/abs/2608.05151</link>
-      <description>arXiv:2608.05151v1 Announce Type: new 
-Abstract: Wastewater operators need answers grounded in how their plant's variables interact and how fast effects propagate, not in generic pretraining text, when asking causal questions such as "why is N2O rising?" or "what happens if I cut aeration by 20%?". </description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05151</guid>
-      <source url="https://arxiv.org/abs/2608.05151">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>大型语言模型中思想链推理的平均场动力学</title>
-      <link>https://arxiv.org/abs/2608.05152</link>
-      <description>arXiv:2608.05152v1 Announce Type: new 
-Abstract: Large language models (LLMs) with chain-of-thought reasoning have been widely applied in recent years, and theoretical explanations of their behavior may help deepen our understanding and guide model optimization. In this study, we introduce a framewo</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05152</guid>
-      <source url="https://arxiv.org/abs/2608.05152">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>通用病理学、条件后果：用于多跳可追溯性的 RAG 三重鲁棒性分析</title>
-      <link>https://arxiv.org/abs/2608.05153</link>
-      <description>arXiv:2608.05153v1 Announce Type: new 
-Abstract: GraphRAG underperforms vector RAG on citation precision in many reports, but where and why have remained corpus-bound. We present a triple-robustness analysis that holds the retrieval architecture fixed and varies three orthogonal axes embedder (local</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05153</guid>
-      <source url="https://arxiv.org/abs/2608.05153">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>RIG-RoPE：具有持续时间感知时间坐标的关系门控和实例门控旋转位置编码</title>
-      <link>https://arxiv.org/abs/2608.05154</link>
-      <description>arXiv:2608.05154v1 Announce Type: new 
-Abstract: Rotary positional encoding (RoPE) is a core component of modern language models and has been extended to multimodal LLMs through multidimensional variants such as multimodal RoPE (M-RoPE), which split positional channels into temporal, height, and wid</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05154</guid>
-      <source url="https://arxiv.org/abs/2608.05154">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>超越情感：比较传统 NLP 和基于 LLM 的政治新闻评估多维分析</title>
-      <link>https://arxiv.org/abs/2608.05155</link>
-      <description>arXiv:2608.05155v1 Announce Type: new 
-Abstract: Traditional sentiment analysis (SA) models, while effective for polarity classification, provide limited insight into the rhetorical, ideological, and framing dimensions of political discourse -- dimensions that are central to research in the social s</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05155</guid>
-      <source url="https://arxiv.org/abs/2608.05155">ArXiv NLP</source>
-    </item>
-    <item>
       <title>Seedance 2.5 实测：从「片段」到「叙事」，AI 视频的下半场开始了｜AI 上新</title>
       <link>http://www.geekpark.net/news/368563</link>
       <description>30 秒视频直出不是参数升级，是创作方式的切换。
@@ -212,6 +183,33 @@ Fitbit Air 形态非常惹人喜欢｜图片来源：极客公园
       <pubDate>Fri, 07 Aug 2026 17:52:38 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113191</guid>
       <source url="https://sspai.com/post/113191">少数派</source>
+    </item>
+    <item>
+      <title>打破机器人「数据焦虑」，穹彻智能想建一条「训练数据」生产线</title>
+      <link>http://www.geekpark.net/news/368553</link>
+      <description>如果说 2025 年是具身智能爆发的一年，那么今年，行业竞争已经开始进入新的阶段。
+从国内外越来越多机器人公司发布新产品，到资本持续加码，具身智能正成为 AI 领域最受关注的方向之一。但随着行业快速发展，一个新的共识正在形成：真正限制机器人进化速度的，不再只是模型，而是数据。
+与大语言模型可以利用互联网海量文本不同，机器人需要学习的是现实世界中的操作能力。一次抓取、一段搬运、一场整理任务，都需要真实发生，并同步记录视觉、动作、轨迹等多模态信息。如何持续获得高质量数据，并将这些数据快速转化为模型能够学习的数据集，成为越来越多具身智能企业面临的新挑战。
+作为国内具身智能企业，穹彻智能一直围绕「数据</description>
+      <pubDate>Fri, 07 Aug 2026 17:40:17 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368553</guid>
+      <source url="http://www.geekpark.net/news/368553">极客公园</source>
+    </item>
+    <item>
+      <title>[限时优惠] 数据分析：用好 Excel 中的数据透视表</title>
+      <link>https://sspai.com/post/113108</link>
+      <description>编注：本文为Microsoft365工具生值包内随附专属定制教程的免费试读内容。接上级经销商通知，微软将于本月提高Microsoft365订阅的供应成本，后续软件售价也将随之进行相应调整。为此，我们特 ...查看全文</description>
+      <pubDate>Fri, 07 Aug 2026 15:39:58 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113108</guid>
+      <source url="https://sspai.com/post/113108">少数派</source>
+    </item>
+    <item>
+      <title>与 Apollo 谈论 Gemini Robotics 2 🤖</title>
+      <link>https://www.youtube.com/shorts/zlveLhFb64M</link>
+      <description></description>
+      <pubDate>Fri, 07 Aug 2026 14:47:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/zlveLhFb64M</guid>
+      <source url="https://www.youtube.com/shorts/zlveLhFb64M">DeepMind</source>
     </item>
   </channel>
 </rss>
