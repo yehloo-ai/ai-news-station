@@ -5,8 +5,19 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 08 Aug 2026 23:43:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 02:31:16 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍</title>
+      <link>http://www.geekpark.net/news/368577</link>
+      <description>苹果中国官网删除 Apple 智能接入阿里千问使用手册
+8 月 9 日消息，8 月 8 日，一篇名为《在 Mac 上配合 Apple 智能使用千问》的支持文档现身苹果官网 Mac 简体中文使用手册，其中明确提到 Apple 智能可配合阿里巴巴千问模型工作。然而，现在这份中文操作手册已从苹果官网被删除，原网页链接无法正常访问。
+据苹果官网此前所述，千问扩展适用于 macOS 26.6 或更高版本，用户满足以下三种情形之一可以开启：位于中国大陆且 Apple 账户国家或地区需为中国大陆、Mac 机型是中国大陆版本、物理位置位于中国大陆且尚未登陆 Apple 账户。
+同时，用户可前往 macOS 的</description>
+      <pubDate>Sun, 09 Aug 2026 07:56:23 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368577</guid>
+      <source url="http://www.geekpark.net/news/368577">极客公园</source>
+    </item>
     <item>
       <title>就内容创作而言，说话还是替代不了打字</title>
       <link>https://sspai.com/post/112901</link>
@@ -201,17 +212,6 @@ Fitbit Air 形态非常惹人喜欢｜图片来源：极客公园
       <pubDate>Fri, 07 Aug 2026 17:52:38 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113191</guid>
       <source url="https://sspai.com/post/113191">少数派</source>
-    </item>
-    <item>
-      <title>打破机器人「数据焦虑」，穹彻智能想建一条「训练数据」生产线</title>
-      <link>http://www.geekpark.net/news/368553</link>
-      <description>如果说 2025 年是具身智能爆发的一年，那么今年，行业竞争已经开始进入新的阶段。
-从国内外越来越多机器人公司发布新产品，到资本持续加码，具身智能正成为 AI 领域最受关注的方向之一。但随着行业快速发展，一个新的共识正在形成：真正限制机器人进化速度的，不再只是模型，而是数据。
-与大语言模型可以利用互联网海量文本不同，机器人需要学习的是现实世界中的操作能力。一次抓取、一段搬运、一场整理任务，都需要真实发生，并同步记录视觉、动作、轨迹等多模态信息。如何持续获得高质量数据，并将这些数据快速转化为模型能够学习的数据集，成为越来越多具身智能企业面临的新挑战。
-作为国内具身智能企业，穹彻智能一直围绕「数据</description>
-      <pubDate>Fri, 07 Aug 2026 17:40:17 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368553</guid>
-      <source url="http://www.geekpark.net/news/368553">极客公园</source>
     </item>
   </channel>
 </rss>
