@@ -5,8 +5,25 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 09 Aug 2026 04:29:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 05:58:43 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器</title>
+      <link>http://www.geekpark.net/news/368579</link>
+      <description>浏览器是功能，不是目的地。
+
+作者｜张勇毅
+编辑｜靖宇
+
+2025 年 10 月 21 日，OpenAI 发布自己的 AI 原生浏览器 Atlas 的那个晚上，全球科技媒体的标题里挤满了同一个词：「Chrome 杀手」。
+
+OpenAI 自研 AI Agent 浏览器 ChatGPT Atlas 于 2025 年 10 月发布｜图片来源：OpenAI 官号
+那是手握八亿周活的 OpenAI 第一次入口级出手，不少人相信，统治了互联网三十年的浏览器，终于等来了换代时刻。
+甚至 OpenAI 要发布浏览器的消息，还在硅谷引发了一阵不大不小的产品抢发潮：许多致力于开发 AI 浏览器的大小厂团队为了避</description>
+      <pubDate>Sun, 09 Aug 2026 12:28:04 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368579</guid>
+      <source url="http://www.geekpark.net/news/368579">极客公园</source>
+    </item>
     <item>
       <title>苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍</title>
       <link>http://www.geekpark.net/news/368577</link>
@@ -17,6 +34,14 @@
       <pubDate>Sun, 09 Aug 2026 07:56:23 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368577</guid>
       <source url="http://www.geekpark.net/news/368577">极客公园</source>
+    </item>
+    <item>
+      <title>当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI</title>
+      <link>https://www.qbitai.com/2026/08/468782.html</link>
+      <description>AI参与创造下一代AI</description>
+      <pubDate>Sun, 09 Aug 2026 03:40:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468782.html</guid>
+      <source url="https://www.qbitai.com/2026/08/468782.html">量子位</source>
     </item>
     <item>
       <title>Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了</title>
@@ -194,22 +219,6 @@ Fitbit Air 形态非常惹人喜欢｜图片来源：极客公园
       <pubDate>Fri, 07 Aug 2026 17:40:17 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368553</guid>
       <source url="http://www.geekpark.net/news/368553">极客公园</source>
-    </item>
-    <item>
-      <title>[限时优惠] 数据分析：用好 Excel 中的数据透视表</title>
-      <link>https://sspai.com/post/113108</link>
-      <description>编注：本文为Microsoft365工具生值包内随附专属定制教程的免费试读内容。接上级经销商通知，微软将于本月提高Microsoft365订阅的供应成本，后续软件售价也将随之进行相应调整。为此，我们特 ...查看全文</description>
-      <pubDate>Fri, 07 Aug 2026 15:39:58 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113108</guid>
-      <source url="https://sspai.com/post/113108">少数派</source>
-    </item>
-    <item>
-      <title>与 Apollo 谈论 Gemini Robotics 2 🤖</title>
-      <link>https://www.youtube.com/shorts/zlveLhFb64M</link>
-      <description></description>
-      <pubDate>Fri, 07 Aug 2026 14:47:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/zlveLhFb64M</guid>
-      <source url="https://www.youtube.com/shorts/zlveLhFb64M">DeepMind</source>
     </item>
   </channel>
 </rss>
