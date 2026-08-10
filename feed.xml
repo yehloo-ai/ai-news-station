@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 10 Aug 2026 15:17:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:07:15 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>不再拆机飞线：借助 ACC 实现旧手机直供电「改造」</title>
@@ -88,6 +88,22 @@ More information about the pilot: https://www.anthropic.com/news/anthropic-and-i
       <source url="https://www.youtube.com/watch?v=iF5IWjOWcA4">Anthropic</source>
     </item>
     <item>
+      <title>AI倒查论文100年！99.2%的顶刊都有问题…</title>
+      <link>https://www.qbitai.com/2026/08/469795.html</link>
+      <description>科研人快来啊，天上掉选题了</description>
+      <pubDate>Mon, 10 Aug 2026 13:58:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/469795.html</guid>
+      <source url="https://www.qbitai.com/2026/08/469795.html">量子位</source>
+    </item>
+    <item>
+      <title>PDF当死，ARA该立！论文是时候Agent原生了</title>
+      <link>https://www.qbitai.com/2026/08/469721.html</link>
+      <description>以后论文的第一读者不是人，而是AI？</description>
+      <pubDate>Mon, 10 Aug 2026 13:53:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/469721.html</guid>
+      <source url="https://www.qbitai.com/2026/08/469721.html">量子位</source>
+    </item>
+    <item>
       <title>模型 ML 如何使用 GPT-5.6 Sol 更高效地完成财务工作</title>
       <link>https://www.youtube.com/watch?v=OEkxKdhtQng</link>
       <description>Model ML is solving the “last-mile problem” in finance, carrying asks from research to analysis to a finished PowerPoint deck or Excel workbook with traceable sources. 
@@ -130,6 +146,14 @@ When Model ML tested GPT‑5.6 Sol in its Composite, the results “blew every m
       <source url="https://www.ifanr.com/1674579?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
+      <title>模型路线趋同之后，Physical AI的胜负手变了</title>
+      <link>https://www.qbitai.com/2026/08/469544.html</link>
+      <description>物理AI新瓶颈已出现</description>
+      <pubDate>Mon, 10 Aug 2026 09:20:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/469544.html</guid>
+      <source url="https://www.qbitai.com/2026/08/469544.html">量子位</source>
+    </item>
+    <item>
       <title>苹果被曝正在测试长鑫科技存储芯片；宇树科技今日申购，中一签或赚 20 万元；原字节跳动机器人一号位加入小米｜极客早知道</title>
       <link>http://www.geekpark.net/news/368581</link>
       <description>苹果被曝正在测试长鑫科技存储芯片，用于 iPhone 和 MacBook
@@ -166,39 +190,12 @@ When Model ML tested GPT‑5.6 Sol in its Composite, the results “blew every m
       <source url="https://sspai.com/post/113268">少数派</source>
     </item>
     <item>
-      <title>卡西欧小方块，是我今年最想要的智能戒指</title>
-      <link>https://www.ifanr.com/1674518?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>我今年也买了个表#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 10 Aug 2026 04:19:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674518?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674518?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>AI 开始帮写朋友圈了，但我更想念「古法手作」文字</title>
-      <link>https://www.ifanr.com/1673846?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>想念那个「说人话」的时代#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 10 Aug 2026 03:40:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1673846?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1673846?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购</title>
-      <link>https://www.ifanr.com/1674507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 苹果测试长鑫存储芯片，拟用于中国市场 iPhone 和 MacBook
-· SpaceX 收购 Cursor 临近落地
-· Pixel 11 Pro 真机曝光：沙丘色、哑光黑，改用圆形长焦开孔#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 10 Aug 2026 00:44:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>迈向多标签图基础模型：从单向量表示学习到多语义基础学习</title>
-      <link>https://arxiv.org/abs/2608.06394</link>
-      <description>arXiv:2608.06394v1 Announce Type: new 
-Abstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing methods for multi-label node classification can effectively model multiple labels, while only consi</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.06394</guid>
-      <source url="https://arxiv.org/abs/2608.06394">ArXiv AI</source>
+      <title>对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI</title>
+      <link>https://www.qbitai.com/2026/08/469520.html</link>
+      <description>“我们90天就成了独角兽”</description>
+      <pubDate>Mon, 10 Aug 2026 06:58:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/469520.html</guid>
+      <source url="https://www.qbitai.com/2026/08/469520.html">量子位</source>
     </item>
   </channel>
 </rss>
