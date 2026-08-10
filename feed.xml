@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 10 Aug 2026 02:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 04:53:27 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕</title>
+      <link>https://sspai.com/post/113202</link>
+      <description>喜欢，从来没有一个明确的定义。查看全文</description>
+      <pubDate>Mon, 10 Aug 2026 11:00:56 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113202</guid>
+      <source url="https://sspai.com/post/113202">少数派</source>
+    </item>
     <item>
       <title>苹果被曝正在测试长鑫科技存储芯片；宇树科技今日申购，中一签或赚 20 万元；原字节跳动机器人一号位加入小米｜极客早知道</title>
       <link>http://www.geekpark.net/news/368581</link>
@@ -26,6 +34,46 @@
       <pubDate>Mon, 10 Aug 2026 07:08:03 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113268</guid>
       <source url="https://sspai.com/post/113268">少数派</source>
+    </item>
+    <item>
+      <title>卡西欧小方块，是我今年最想要的智能戒指</title>
+      <link>https://www.ifanr.com/1674518?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>我今年也买了个表#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 10 Aug 2026 04:19:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674518?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674518?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>AI 开始帮写朋友圈了，但我更想念「古法手作」文字</title>
+      <link>https://www.ifanr.com/1673846?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>想念那个「说人话」的时代#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 10 Aug 2026 03:40:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1673846?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1673846?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅</title>
+      <link>https://www.qbitai.com/2026/08/469493.html</link>
+      <description>从面向个人的AI创作工具，扩展为可供组织使用的生产力平台</description>
+      <pubDate>Mon, 10 Aug 2026 03:24:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/469493.html</guid>
+      <source url="https://www.qbitai.com/2026/08/469493.html">量子位</source>
+    </item>
+    <item>
+      <title>苹果开测长鑫存储！百度、千问也一起挤进苹果供应链</title>
+      <link>https://www.qbitai.com/2026/08/469475.html</link>
+      <description>先解决这轮内存荒！</description>
+      <pubDate>Mon, 10 Aug 2026 02:34:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/469475.html</guid>
+      <source url="https://www.qbitai.com/2026/08/469475.html">量子位</source>
+    </item>
+    <item>
+      <title>墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒</title>
+      <link>https://www.qbitai.com/2026/08/469454.html</link>
+      <description></description>
+      <pubDate>Mon, 10 Aug 2026 02:25:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/469454.html</guid>
+      <source url="https://www.qbitai.com/2026/08/469454.html">量子位</source>
     </item>
     <item>
       <title>魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只</title>
@@ -56,150 +104,85 @@
       <source url="https://www.ifanr.com/1674507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面</title>
-      <link>https://sspai.com/post/113158</link>
-      <description>特别声明本文的项目构思、结构设计及相关素材整理均由人工完成。在产品开发与调试过程中，使用GPT-5.6Sol模型作为辅助工具，参与方案讨论、代码编写与问题排查。文章内容基于实际开发过程中的经验与记录， ...查看全文</description>
-      <pubDate>Sun, 09 Aug 2026 15:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113158</guid>
-      <source url="https://sspai.com/post/113158">少数派</source>
+      <title>迈向多标签图基础模型：从单向量表示学习到多语义基础学习</title>
+      <link>https://arxiv.org/abs/2608.06394</link>
+      <description>arXiv:2608.06394v1 Announce Type: new 
+Abstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing methods for multi-label node classification can effectively model multiple labels, while only consi</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.06394</guid>
+      <source url="https://arxiv.org/abs/2608.06394">ArXiv AI</source>
     </item>
     <item>
-      <title>OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器</title>
-      <link>http://www.geekpark.net/news/368579</link>
-      <description>浏览器是功能，不是目的地。
-
-作者｜张勇毅
-编辑｜靖宇
-
-2025 年 10 月 21 日，OpenAI 发布自己的 AI 原生浏览器 Atlas 的那个晚上，全球科技媒体的标题里挤满了同一个词：「Chrome 杀手」。
-
-OpenAI 自研 AI Agent 浏览器 ChatGPT Atlas 于 2025 年 10 月发布｜图片来源：OpenAI 官号
-那是手握八亿周活的 OpenAI 第一次入口级出手，不少人相信，统治了互联网三十年的浏览器，终于等来了换代时刻。
-甚至 OpenAI 要发布浏览器的消息，还在硅谷引发了一阵不大不小的产品抢发潮：许多致力于开发 AI 浏览器的大小厂团队为了避</description>
-      <pubDate>Sun, 09 Aug 2026 12:28:04 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368579</guid>
-      <source url="http://www.geekpark.net/news/368579">极客公园</source>
+      <title>EntropyMoE：无分词器 LLM 的熵感知稀疏专家路由</title>
+      <link>https://arxiv.org/abs/2608.06398</link>
+      <description>arXiv:2608.06398v1 Announce Type: new 
+Abstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into dynamically sized patches. However, existing byte-patch architectures still apply the same dense feed-forward computation </description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.06398</guid>
+      <source url="https://arxiv.org/abs/2608.06398">ArXiv AI</source>
     </item>
     <item>
-      <title>180万刀，连亚马逊都烧不起Claude了</title>
-      <link>https://www.qbitai.com/2026/08/469010.html</link>
-      <description>Claude不是我说你，钱真不能这么花</description>
-      <pubDate>Sun, 09 Aug 2026 09:25:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/469010.html</guid>
-      <source url="https://www.qbitai.com/2026/08/469010.html">量子位</source>
+      <title>超越路由权重：通过贡献对比对专家混合奖励模型进行忠实的响应水平解释</title>
+      <link>https://arxiv.org/abs/2608.06400</link>
+      <description>arXiv:2608.06400v1 Announce Type: new 
+Abstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging. Recent sparse Mixture-of-Experts (MoE) reward models seek to improve interpretability by routing prompts to specialized ex</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.06400</guid>
+      <source url="https://arxiv.org/abs/2608.06400">ArXiv AI</source>
     </item>
     <item>
-      <title>GPT-5.6和Fable联手，解决了一道悬了25年的数学难题</title>
-      <link>https://www.qbitai.com/2026/08/468913.html</link>
-      <description>作者读博时就在研究，17年后被AI解开了</description>
-      <pubDate>Sun, 09 Aug 2026 09:16:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468913.html</guid>
-      <source url="https://www.qbitai.com/2026/08/468913.html">量子位</source>
+      <title>使用法学硕士符号化结构化流程进行可解释的无监督社区检测</title>
+      <link>https://arxiv.org/abs/2608.06402</link>
+      <description>arXiv:2608.06402v1 Announce Type: new 
+Abstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Classic objective-driven methods struggle with complex graph structures, while deep-learning approaches</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.06402</guid>
+      <source url="https://arxiv.org/abs/2608.06402">ArXiv AI</source>
     </item>
     <item>
-      <title>苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍</title>
-      <link>http://www.geekpark.net/news/368577</link>
-      <description>苹果中国官网删除 Apple 智能接入阿里千问使用手册
-8 月 9 日消息，8 月 8 日，一篇名为《在 Mac 上配合 Apple 智能使用千问》的支持文档现身苹果官网 Mac 简体中文使用手册，其中明确提到 Apple 智能可配合阿里巴巴千问模型工作。然而，现在这份中文操作手册已从苹果官网被删除，原网页链接无法正常访问。
-据苹果官网此前所述，千问扩展适用于 macOS 26.6 或更高版本，用户满足以下三种情形之一可以开启：位于中国大陆且 Apple 账户国家或地区需为中国大陆、Mac 机型是中国大陆版本、物理位置位于中国大陆且尚未登陆 Apple 账户。
-同时，用户可前往 macOS 的</description>
-      <pubDate>Sun, 09 Aug 2026 07:56:23 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368577</guid>
-      <source url="http://www.geekpark.net/news/368577">极客公园</source>
+      <title>ADIAS：交互式代理系统的自动化设计</title>
+      <link>https://arxiv.org/abs/2608.06410</link>
+      <description>arXiv:2608.06410v1 Announce Type: new 
+Abstract: Automated agent design improves agent harnesses through iterative revision, evaluation, and feedback summarization. Existing methods are largely candidate-centric: cross-round experience is organized around candidate agents, which leaves the repair pr</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.06410</guid>
+      <source url="https://arxiv.org/abs/2608.06410">ArXiv AI</source>
     </item>
     <item>
-      <title>当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI</title>
-      <link>https://www.qbitai.com/2026/08/468782.html</link>
-      <description>AI参与创造下一代AI</description>
-      <pubDate>Sun, 09 Aug 2026 03:40:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468782.html</guid>
-      <source url="https://www.qbitai.com/2026/08/468782.html">量子位</source>
+      <title>潜在事实检查：通过激活工程检测错误信息</title>
+      <link>https://arxiv.org/abs/2608.06417</link>
+      <description>arXiv:2608.06417v1 Announce Type: new 
+Abstract: The proliferation of misinformation online has driven demand for scalable detection systems. While most existing approaches rely on surface-level linguistic features or external knowledge retrieval, we examine truthfulness as a geometric property of a</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.06417</guid>
+      <source url="https://arxiv.org/abs/2608.06417">ArXiv ML</source>
     </item>
     <item>
-      <title>Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了</title>
-      <link>https://www.qbitai.com/2026/08/468766.html</link>
-      <description>据说GPT-5.6很适合拿来做游戏</description>
-      <pubDate>Sun, 09 Aug 2026 03:25:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468766.html</guid>
-      <source url="https://www.qbitai.com/2026/08/468766.html">量子位</source>
+      <title>噪声感知下智能体的风险意识决策策略</title>
+      <link>https://arxiv.org/abs/2608.06420</link>
+      <description>arXiv:2608.06420v1 Announce Type: new 
+Abstract: Perception in biological systems is inherently noisy, requiring organisms to make decisions under uncertainty where misclassification can be costly or fatal. We present an Artificial Life predator-prey model of foraging under noisy perception, and com</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.06420</guid>
+      <source url="https://arxiv.org/abs/2608.06420">ArXiv ML</source>
     </item>
     <item>
-      <title>爆料：哈萨比斯原本要和Jeff Dean一起走！</title>
-      <link>https://www.qbitai.com/2026/08/468715.html</link>
-      <description>谷歌缓兵之计把人留下</description>
-      <pubDate>Sun, 09 Aug 2026 03:17:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468715.html</guid>
-      <source url="https://www.qbitai.com/2026/08/468715.html">量子位</source>
+      <title>分片可防止 LLM 监督失败和对抗性剥削</title>
+      <link>https://arxiv.org/abs/2608.06422</link>
+      <description>arXiv:2608.06422v1 Announce Type: new 
+Abstract: Giving an LLM judge more compute does not necessarily make it check more requirements. When one call must return many verdicts, some decisions become weakly grounded in the evidence, even when that call receives the same token or tool budget as a pane</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.06422</guid>
+      <source url="https://arxiv.org/abs/2608.06422">ArXiv ML</source>
     </item>
     <item>
-      <title>就内容创作而言，说话还是替代不了打字</title>
-      <link>https://sspai.com/post/112901</link>
-      <description>创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。查看全文</description>
-      <pubDate>Sat, 08 Aug 2026 13:11:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112901</guid>
-      <source url="https://sspai.com/post/112901">少数派</source>
-    </item>
-    <item>
-      <title>王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒｜极客早知道</title>
-      <link>http://www.geekpark.net/news/368565</link>
-      <description>OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程
-据报道，OpenAI 表示，不能排除其即将推出的模型 Astra 具备「关键性」网络能力，这促使 OpenAI 扩大安全测试范围，并暂停不符合更严格安全要求的内部活动。这是人工智能模型网络能力快速提升的最新迹象。
-OpenAI 表示，在对即将推出的模型之一 Astra 进行内部评估后，「我们无法排除其具备关键性网络能力」。在发布 Astra 之前，OpenAI 将扩大针对该模型的测试和安全措施，并按照公司 2023 年首次发布的「准备框架」要求，放缓 Astra 的开发进程，直到建立适当的安全防护措施。
-OpenAI 还表示，A</description>
-      <pubDate>Sat, 08 Aug 2026 08:40:23 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368565</guid>
-      <source url="http://www.geekpark.net/news/368565">极客公园</source>
-    </item>
-    <item>
-      <title>奥特曼的ChatGPT育儿大法，捅了马蜂窝</title>
-      <link>https://www.qbitai.com/2026/08/468631.html</link>
-      <description>这就有些尴尬了。</description>
-      <pubDate>Sat, 08 Aug 2026 07:57:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468631.html</guid>
-      <source url="https://www.qbitai.com/2026/08/468631.html">量子位</source>
-    </item>
-    <item>
-      <title>中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷</title>
-      <link>https://www.qbitai.com/2026/08/468555.html</link>
-      <description>海外团队纷纷下注，NeoLab浪潮狂飙</description>
-      <pubDate>Sat, 08 Aug 2026 07:56:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468555.html</guid>
-      <source url="https://www.qbitai.com/2026/08/468555.html">量子位</source>
-    </item>
-    <item>
-      <title>Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱</title>
-      <link>https://www.qbitai.com/2026/08/468498.html</link>
-      <description>「我，Jeff Dean，打钱」</description>
-      <pubDate>Sat, 08 Aug 2026 07:51:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/468498.html</guid>
-      <source url="https://www.qbitai.com/2026/08/468498.html">量子位</source>
-    </item>
-    <item>
-      <title>早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型</title>
-      <link>https://www.ifanr.com/1674478?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 曝 iPhone 18 系列备货遇阻：A20 Pro 处理器充足，移动 DRAM 短缺
-· DeepSeek 参与宇树科技战略配售，获配约 1.41 亿元
-· 小米称 YU7 登顶纯电动车一年期保值率第一#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 08 Aug 2026 00:52:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674478?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674478?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Seedance 2.5 实测：从「片段」到「叙事」，AI 视频的下半场开始了｜AI 上新</title>
-      <link>http://www.geekpark.net/news/368563</link>
-      <description>30 秒视频直出不是参数升级，是创作方式的切换。
-
-作者｜张勇毅
-编辑｜靖宇
-
-5 个月前，我们在体验 Seedance 2.0 那篇「AI 上新」的时候，提到了一个关键判断&amp;mdash;&amp;mdash;「AI 视频第一阶段的比赛，结束了」。
-看完之后，我一直在想一个问题：第二阶段是什么？第一阶段比的是谁能生成更好看的画面、更连贯的动作、更稳定的输出。Seedance 2.0 把这条线拉得很高。但「好看」解决了之后呢？
-7 月 31 日，字节正式发布了 Seedance 2.5，同步上线即梦、豆包专业版、扣子和小云雀。
-
-我立即重新打开我已经吃灰许久的即梦账号，花重金充值了会员，花了一个下午把它</description>
-      <pubDate>Fri, 07 Aug 2026 23:25:50 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368563</guid>
-      <source url="http://www.geekpark.net/news/368563">极客公园</source>
+      <title>对抗性因果干预证伪</title>
+      <link>https://arxiv.org/abs/2608.06427</link>
+      <description>arXiv:2608.06427v1 Announce Type: new 
+Abstract: Generative models can reproduce an observational distribution while encoding an incorrect causal structure. We study a sequential game in which a structural causal generator proposes observational and interventional distributions, while an adversarial</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.06427</guid>
+      <source url="https://arxiv.org/abs/2608.06427">ArXiv ML</source>
     </item>
   </channel>
 </rss>
