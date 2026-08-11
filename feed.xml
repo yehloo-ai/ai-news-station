@@ -5,8 +5,32 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 11 Aug 2026 06:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:27:39 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Seedance 2.5 上线后，LibTV 先帮创作者「学会」了新模型</title>
+      <link>http://www.geekpark.net/news/368665</link>
+      <description>作者｜甘德 
+编辑｜ 郑玄
+&amp;nbsp;
+Seedance 2.5 发布的时候，身边几乎所有 AI 视频或者 AI 影视相关的朋友都很兴奋。
+「模型能力已经溢出了」。
+一位在做 AI 短剧导演的朋友这样评价。他的体验是，现在有一个好故事，有专业的电影制作经验，或者一支足够专业的抽卡师团队，以及比较充足的资金，Seedance 2.5 已经能够稳定制作出业界工业水准之上的视频内容了。
+但这样专业而无后顾之忧的创作者仍然是少数。
+过去一年，视频模型的生成能力大幅提升。但这些变化还没有能够完全兑现到视频整体质量的提升上。
+答案或许在那位 AI 短剧导演的后半句里。Seedance 2.5 是一块金子</description>
+      <pubDate>Tue, 11 Aug 2026 15:21:37 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368665</guid>
+      <source url="http://www.geekpark.net/news/368665">极客公园</source>
+    </item>
+    <item>
+      <title>走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线</title>
+      <link>https://sspai.com/post/112887</link>
+      <description>随着HarmonyOSNEXT的日渐成熟，越来越多的独立开发者和小团队开始将目光投向这片新的生态。借助日益强大的AI辅助编程工具，写出能跑通的代码、画出漂亮的UI界面，门槛已经变得前所未有地低。但当你 ...查看全文</description>
+      <pubDate>Tue, 11 Aug 2026 13:59:27 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112887</guid>
+      <source url="https://sspai.com/post/112887">少数派</source>
+    </item>
     <item>
       <title>从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你</title>
       <link>https://sspai.com/post/113288</link>
@@ -157,24 +181,6 @@ Abstract: Training deep learning models on variable long sequences poses signifi
       <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.07524</guid>
       <source url="https://arxiv.org/abs/2608.07524">ArXiv AI</source>
-    </item>
-    <item>
-      <title>人工智能在银行欺诈操作识别中的应用</title>
-      <link>https://arxiv.org/abs/2608.07471</link>
-      <description>arXiv:2608.07471v1 Announce Type: new 
-Abstract: This study considers the task of applying artificial intelligence to recognize bank fraud. In recent years, due to the COVID19 pandemic, bank fraud has become even more common due to the massive transition of many operations to online platforms and th</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.07471</guid>
-      <source url="https://arxiv.org/abs/2608.07471">ArXiv ML</source>
-    </item>
-    <item>
-      <title>数据驱动的火区分割可改进短期野火预测</title>
-      <link>https://arxiv.org/abs/2608.07472</link>
-      <description>arXiv:2608.07472v1 Announce Type: new 
-Abstract: Wildfire prediction models typically discretize study areas into uniform grids, ignoring the heterogeneous spatial distribution of ignitions. We challenge this paradigm by showing that how data is discretized matters more than which model is used. We </description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.07472</guid>
-      <source url="https://arxiv.org/abs/2608.07472">ArXiv ML</source>
     </item>
   </channel>
 </rss>
