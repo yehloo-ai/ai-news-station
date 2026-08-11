@@ -96,5 +96,12 @@
     "summary": "我们在 API 中引入了两种新的转录模型： • GPT-Live-Transcribe：专为低延迟实时转录而构建。 • GPT-Transcribe：针对已完成音频文件和批量工作负载的异步转录进行了优化。 两种模型都能更好地理解上下文，并在跨口音和语言的实际音频上提供更准确的转录，包括短句、数字、专业术语以及背景噪音较大的语音。",
     "sourceUrl": "https://x.com/OpenAIDevs/status/2082201169443905798",
     "sourceName": "X：OpenAI Developers (@OpenAIDevs)"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+    "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
+    "sourceUrl": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+    "sourceName": "LMSYS：Blog（Chatbot Arena 团队）"
   }
 ]

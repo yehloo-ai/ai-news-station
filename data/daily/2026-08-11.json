@@ -1,59 +1,255 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "attribution": {
     "source": "AIHOT",
-    "canonical": "https://aihot.virxact.com/daily/2026-08-10"
+    "canonical": "https://aihot.virxact.com/daily/2026-08-11"
   },
-  "generatedAt": "2026-08-10T00:00:52.089Z",
-  "windowStart": "2026-08-09T00:00:00.000Z",
-  "windowEnd": "2026-08-10T00:00:00.000Z",
+  "generatedAt": "2026-08-11T00:00:41.048Z",
+  "windowStart": "2026-08-10T00:00:00.000Z",
+  "windowEnd": "2026-08-11T00:00:00.000Z",
   "lead": null,
   "sections": [
+    {
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+          "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
+          "sourceUrl": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+          "sourceName": "LMSYS：Blog（Chatbot Arena 团队）",
+          "permalink": "https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta"
+          }
+        },
+        {
+          "title": "Meta 发布开源模型 Muse Glimmer",
+          "summary": "推出 Muse Glimmer，一款开放权重、300 亿参数的模型，专为本地、常驻运行的智能体工作流优化。 与同尺寸领先模型相比，Muse Glimmer 在关键智能体用例和基准测试中表现出色，并设计为完全在消费级硬件（如 Mac 或配备高性能 GPU 的 PC）上运行。 秉承我们长期分享基础 AI 研究的传统，我们以宽松的 Apache 2.0 许可证发布模型权重。",
+          "sourceUrl": "https://x.com/AIatMeta/status/2086757844544811485",
+          "sourceName": "X：AI at Meta (@AIatMeta)",
+          "permalink": "https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7"
+          }
+        },
+        {
+          "title": "OpenAI 推出 GPT-5.6-Cyber，面向授权漏洞研究的网络安全专用模型",
+          "summary": "OpenAI 发布网络安全专用模型 GPT-5.6-Cyber，可通过 Daybreak Red 获取，用于授权的漏洞研究、漏洞验证和安全测试。该模型旨在应对网络防御窗口不断收窄的挑战，为安全研究人员提供专门工具。",
+          "sourceUrl": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2"
+          }
+        }
+      ]
+    },
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+          "summary": "OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。",
+          "sourceUrl": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsnejv4i042qrohff64pz0jh",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsnejv4i042qrohff64pz0jh"
+          }
+        },
+        {
+          "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+          "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击“圆点角标”进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+          "sourceName": "公众号：千问APP（阿里）",
+          "permalink": "https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em"
+          }
+        },
+        {
+          "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
+          "summary": "👀 看见只是开始。 借助 Qwen-MM-Plugins，让你的智能体原生支持多模态——读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。 从多模态模型 → 多模态智能体。🚀 观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
+          "sourceUrl": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+          "sourceName": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "permalink": "https://aihot.virxact.com/items/cmsmpwjyh0b0drohfw1hpbbzh",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsmpwjyh0b0drohfw1hpbbzh"
+          }
+        },
+        {
+          "title": "OpenChamber：一个基于代理的开发环境",
+          "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+          "sourceUrl": "https://openchamber.dev/",
+          "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "permalink": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb"
+          }
+        },
+        {
+          "title": "Claude Code 自动模式默认开启原理",
+          "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。 但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+          "sourceUrl": "https://x.com/ClaudeDevs/status/2086844755770757531",
+          "sourceName": "X：Claude Devs (@ClaudeDevs)",
+          "permalink": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar"
+          }
+        },
+        {
+          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+          "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+          "sourceName": "公众号：数字生命卡兹克",
+          "permalink": "https://aihot.virxact.com/items/cmsmizpgb02yerohf3bh8jesi",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsmizpgb02yerohf3bh8jesi"
+          }
+        },
+        {
+          "title": "Omnigent 上下文策略如何阻断“致命三重奏”组合攻击",
+          "summary": "Omnigent 的上下文策略（Contextual Policies）可阻断“致命三重奏”组合攻击——即多个看似无害的请求叠加后形成的恶意行为。该机制在单个请求层面不设防，而是在组合上下文中识别并拦截风险，从而在不牺牲正常功能的前提下提升安全性。",
+          "sourceUrl": "https://www.databricks.com/blog/innocent-until-combined-blocking-lethal-trifecta-omnigent-contextual-policies",
+          "sourceName": "Databricks：Blog（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsnkk68z0byorohfynveywic",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsnkk68z0byorohfynveywic"
+          }
+        },
+        {
+          "title": "Google 为 Google Ads 和 Google Analytics 推出新 AI 与智能体功能",
+          "summary": "Google 宣布在 Google Ads 和 Google Analytics 中新增 AI 与智能体体验，包括 Google Analytics 首页的 AI Overviews 智能摘要、Google Ads 首页的 AI 洞察卡片，以及 Ask Advisor 新增的基准对比功能，可将广告效果与同类商家匿名平均值比较。这些功能基于 Gemini 构建，目前面向英文账户开放 beta 测试。",
+          "sourceUrl": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
+          "sourceName": "Google Blog：AI（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsnchnus0240rohfaltoqlae",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsnchnus0240rohfaltoqlae"
+          }
+        }
+      ]
+    },
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
+          "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
+          "sourceUrl": "https://x.com/JensenHuang/status/2086934705207959965",
+          "sourceName": "X：Jensen Huang (@JensenHuang)",
+          "permalink": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6"
+          }
+        },
+        {
+          "title": "Zapier 如何用 ChatGPT Work 改造核心营销流程",
+          "summary": "Zapier 企业营销团队用 ChatGPT Work 自动化线索漏斗优化、营销素材搭建和报告生成，每月可对数千条线索执行 QA/QC，单人查看一条流失线索原本需 35 至 45 分钟。该系统每月为销售团队带来七位数管道价值，并生成高管仪表盘展示线索管道中的重复问题与每周趋势。团队得以将更多时间投入策略与创意工作，并计划未来设置常驻自动化循环。",
+          "sourceUrl": "https://openai.com/index/zapier",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.virxact.com/items/cmsntacii0j0urohfz48viimb",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsntacii0j0urohfz48viimb"
+          }
+        }
+      ]
+    },
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
+          "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+          "sourceUrl": "https://www.anthropic.com/research/riemann-zeta",
+          "sourceName": "Anthropic：Research（发表成果 · 网页）",
+          "permalink": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp"
+          }
+        }
+      ]
+    },
     {
       "label": "技巧与观点",
       "items": [
         {
-          "title": "Seedance 2.5 上线一周新增六种创意玩法",
-          "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别“AI 油腻感”，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
-          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-          "sourceName": "公众号：卡尔的AI沃茨",
-          "permalink": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl",
+          "title": "tl;dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "summary": "AI会议记录平台tl;dv的Firestore数据库因缺乏租户隔离，任何已认证用户可查询全部18.1万段会议记录，涉及84,312名用户、35,003个域名，含23国政府及多所高校会议。处于录制状态的约1,000场会议会暴露可加入的会议ID，研究者借此闯入马来西亚教育部及美国某大学创业团队的实时通话。该漏洞自2026年1月报告后6个月仍未修复，另有超1,000段会议内容为公开状态。",
+          "sourceUrl": "https://bobdahacker.com/blog/tldv-hack",
+          "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "permalink": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl"
+            "canonical": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43"
           }
         },
         {
-          "title": "Anthropic 称已基本解决提示注入攻击",
-          "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
-          "sourceUrl": "https://x.com/bcherny/status/2086520950259118464",
-          "sourceName": "X：Boris Cherny (@bcherny)",
-          "permalink": "https://aihot.virxact.com/items/cmsm5mk1109hdroy9apis4bb7",
+          "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
+          "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
+          "sourceUrl": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+          "sourceName": "a16z：News（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmsm5mk1109hdroy9apis4bb7"
+            "canonical": "https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5"
           }
         },
         {
-          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-          "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
-          "sourceUrl": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-          "sourceName": "MarkTechPost（RSS）",
-          "permalink": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb",
+          "title": "扎克伯格：超级智能应人人可用",
+          "summary": "我相信每个人都应能使用超级智能，我撰写了一篇长文，阐述 Meta 为所有人构建积极未来的理念与价值观。http://meta.com/thefutureisforeveryone",
+          "sourceUrl": "https://x.com/finkd/status/2086754845218726027",
+          "sourceName": "X：Mark Zuckerberg (@finkd)",
+          "permalink": "https://aihot.virxact.com/items/cmsn32xab06ehro8ou4tskajr",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb"
+            "canonical": "https://aihot.virxact.com/items/cmsn32xab06ehro8ou4tskajr"
           }
         },
         {
-          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
-          "sourceUrl": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-          "sourceName": "Nathan Lambert：Interconnects（RSS）",
-          "permalink": "https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol",
+          "title": "Linear 如何构建 Linear Agent：在系统提示词、工具设计与系统技能中划定边界",
+          "summary": "Linear Agent 的价值在于完成未预设的工作，因此团队未为其编写固定路径，而是通过系统提示词、工具设计、产品模型、运行范围及底层自定义 harness 划定边界。系统提示词聚焦沟通风格、硬性边界与产品概念解释；工具设计将约束编码进参数，使无效操作难以执行。团队还引入系统技能作为组合单元，按需渐进加载，避免一次性暴露过多上下文。",
+          "sourceUrl": "https://linear.app/now/how-we-built-linear-agent",
+          "sourceName": "Linear：Now（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsn9ug4u08wwron5dlzviqy4",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol"
+            "canonical": "https://aihot.virxact.com/items/cmsn9ug4u08wwron5dlzviqy4"
+          }
+        },
+        {
+          "title": "Forking-Sequences：一种统计与计算上更高效的多步预测训练范式",
+          "summary": "CMU 研究团队正式定义并系统评测了 forking-sequences 训练范式：它无需新增参数，在一次前向传播中跨所有预测创建日期编码解码整条序列。",
+          "sourceUrl": "https://blog.ml.cmu.edu/2026/08/10/forking-sequences-part-i-statistically-and-computationally-efficient-multi-horizon-forecasting",
+          "sourceName": "CMU：Machine Learning Blog",
+          "permalink": "https://aihot.virxact.com/items/cmsnrnxfm0hl6rohfifnv9qdj",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsnrnxfm0hl6rohfifnv9qdj"
+          }
+        },
+        {
+          "title": "开源不等于开放权重：Gary Marcus 剖析两者本质差异",
+          "summary": "开放权重模型并非真正的开源，二者在透明度和可定制性上存在根本区别。开源软件公开完整源代码，允许任何人查看、修改和分支；而开放权重模型仅发布训练后的神经网络权重，用户无法访问原始训练数据、预处理方法或训练算法，也不能自由修改或深入调查。这导致开发者、监管者和科学家在使用开放权重模型时面临诸多限制，Meta 最新发布的开放权重模型即为例证。",
+          "sourceUrl": "https://garymarcus.substack.com/p/open-source-is-not-the-same-as-open",
+          "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsnewsbp04hmrohf62i8y8xx",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsnewsbp04hmrohf62i8y8xx"
           }
         }
       ]
