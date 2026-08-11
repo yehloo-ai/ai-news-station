@@ -1,22 +1,17 @@
 {
-  "generatedAt": "2026-08-10T14:35:32.671Z",
+  "generatedAt": "2026-08-11T03:18:06.861Z",
   "umami": {
     "error": null,
     "today": {
-      "visitors": 1,
-      "pageviews": 1
+      "visitors": 0,
+      "pageviews": 0
     },
     "last30d": {
-      "visitors": 35,
-      "pageviews": 382,
-      "visits": 92
+      "visitors": 34,
+      "pageviews": 305,
+      "visits": 82
     },
     "series": [
-      {
-        "date": "2026-07-12",
-        "pageviews": 95,
-        "visitors": 10
-      },
       {
         "date": "2026-07-13",
         "pageviews": 10,
@@ -161,6 +156,11 @@
         "date": "2026-08-10",
         "pageviews": 0,
         "visitors": 0
+      },
+      {
+        "date": "2026-08-11",
+        "pageviews": 0,
+        "visitors": 0
       }
     ],
     "countries": [
@@ -170,7 +170,7 @@
       },
       {
         "code": "CN",
-        "visitors": 14
+        "visitors": 13
       },
       {
         "code": "SG",
@@ -184,14 +184,14 @@
       },
       {
         "domain": "github.com",
-        "visitors": 4
-      },
-      {
-        "domain": "localhost",
-        "visitors": 2
+        "visitors": 3
       },
       {
         "domain": "lmqinsydney-lab.github.io",
+        "visitors": 1
+      },
+      {
+        "domain": "localhost",
         "visitors": 1
       }
     ]
