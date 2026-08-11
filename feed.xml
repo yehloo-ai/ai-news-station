@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 11 Aug 2026 04:40:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 06:05:18 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你</title>
+      <link>https://sspai.com/post/113288</link>
+      <description>从最初的测试与共创算起，Quote/0（摘录）已经陪伴大家近一年半的时间。最初我们只想做一块安静的墨水屏：不推送、不闪烁，只把真正重要的信息留在抬眼可见的地方。后来Quote/0进入了许多我们没有预设 ...查看全文</description>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113288</guid>
+      <source url="https://sspai.com/post/113288">少数派</source>
+    </item>
     <item>
       <title>不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍</title>
       <link>https://sspai.com/post/113263</link>
@@ -30,6 +38,46 @@
       <pubDate>Tue, 11 Aug 2026 08:09:35 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113301</guid>
       <source url="https://sspai.com/post/113301">少数派</source>
+    </item>
+    <item>
+      <title>百年黎曼猜想被Claude破了新纪录！是个未公开新模型</title>
+      <link>https://www.qbitai.com/2026/08/470485.html</link>
+      <description>把下界推高了一大截</description>
+      <pubDate>Tue, 11 Aug 2026 05:12:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/470485.html</guid>
+      <source url="https://www.qbitai.com/2026/08/470485.html">量子位</source>
+    </item>
+    <item>
+      <title>宇树会破发吗？王兴兴回应了</title>
+      <link>https://www.qbitai.com/2026/08/470307.html</link>
+      <description>200问回应一切</description>
+      <pubDate>Tue, 11 Aug 2026 04:42:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/470307.html</guid>
+      <source url="https://www.qbitai.com/2026/08/470307.html">量子位</source>
+    </item>
+    <item>
+      <title>GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资</title>
+      <link>https://www.qbitai.com/2026/08/470254.html</link>
+      <description>真就把GPU当理财产品了～</description>
+      <pubDate>Tue, 11 Aug 2026 04:31:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/470254.html</guid>
+      <source url="https://www.qbitai.com/2026/08/470254.html">量子位</source>
+    </item>
+    <item>
+      <title>Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字</title>
+      <link>https://www.qbitai.com/2026/08/470228.html</link>
+      <description>大水印时代来了</description>
+      <pubDate>Tue, 11 Aug 2026 03:51:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/470228.html</guid>
+      <source url="https://www.qbitai.com/2026/08/470228.html">量子位</source>
+    </item>
+    <item>
+      <title>机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿</title>
+      <link>https://www.qbitai.com/2026/08/469880.html</link>
+      <description></description>
+      <pubDate>Tue, 11 Aug 2026 03:37:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/469880.html</guid>
+      <source url="https://www.qbitai.com/2026/08/469880.html">量子位</source>
     </item>
     <item>
       <title>当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三</title>
@@ -127,60 +175,6 @@ Abstract: Wildfire prediction models typically discretize study areas into unifo
       <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.07472</guid>
       <source url="https://arxiv.org/abs/2608.07472">ArXiv ML</source>
-    </item>
-    <item>
-      <title>多模式大语言模型不断发展的安全格局：新兴威胁和保障措施的调查</title>
-      <link>https://arxiv.org/abs/2608.07535</link>
-      <description>arXiv:2608.07535v1 Announce Type: new 
-Abstract: Multi-modal large language models (MLLMs) integrate heterogeneous modalities through modality alignment and fusion, enabling stronger understanding and reasoning. However, this architectural shift reshapes the safety landscape of machine learning. Inc</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.07535</guid>
-      <source url="https://arxiv.org/abs/2608.07535">ArXiv ML</source>
-    </item>
-    <item>
-      <title>追踪深度学习预测中认知不确定性的来源：同方差和异方差线性化估计器</title>
-      <link>https://arxiv.org/abs/2608.07630</link>
-      <description>arXiv:2608.07630v1 Announce Type: new 
-Abstract: We adapt two classical statistical estimators for quantifying uncertainty to modern deep learning, in order to provide clearer insights into uncertainty attributable to two sources : aleatoric uncertainty, or locally scarce data. Our approach leverage</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.07630</guid>
-      <source url="https://arxiv.org/abs/2608.07630">ArXiv ML</source>
-    </item>
-    <item>
-      <title>SkillConsist：通过双向图对齐检测代理技能的不一致</title>
-      <link>https://arxiv.org/abs/2608.07639</link>
-      <description>arXiv:2608.07639v1 Announce Type: new 
-Abstract: Agent Skills provide reusable capabilities to LLM agents. Agent Skill inconsistencies can expose undisclosed dangerous behavior or cause wrong Skill selection. Recent Agent Skill research has increasingly examined Agent Skill consistency detection. Ex</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.07639</guid>
-      <source url="https://arxiv.org/abs/2608.07639">ArXiv ML</source>
-    </item>
-    <item>
-      <title>多模态大语言模型的统一幻觉模糊测试</title>
-      <link>https://arxiv.org/abs/2608.07525</link>
-      <description>arXiv:2608.07525v1 Announce Type: new 
-Abstract: Hallucination remains a persistent challenge for Multimodal Large Language Models (MLLMs), severely limiting their reliability in high-stakes applications. Existing evaluations, predominantly based on static benchmarks, suffer from narrow taxonomical </description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.07525</guid>
-      <source url="https://arxiv.org/abs/2608.07525">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>DocAtlas：作为可变状态交互的长文档理解</title>
-      <link>https://arxiv.org/abs/2608.07527</link>
-      <description>arXiv:2608.07527v1 Announce Type: new 
-Abstract: Long-document understanding requires models to find and combine evidence across many pages, layouts, tables, figures, and charts. Existing retrieval-augmented systems usually select evidence from a static index before generation, while recent agentic </description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.07527</guid>
-      <source url="https://arxiv.org/abs/2608.07527">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>WuYuEval：固体废物管理大型语言模型的多级基准</title>
-      <link>https://arxiv.org/abs/2608.07529</link>
-      <description>arXiv:2608.07529v1 Announce Type: new 
-Abstract: Large language models (LLMs) are increasingly used as technical assistants, but their competence in solid waste management (SWM) remains difficult to assess because existing benchmarks emphasize general knowledge rather than professional decisions und</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.07529</guid>
-      <source url="https://arxiv.org/abs/2608.07529">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
