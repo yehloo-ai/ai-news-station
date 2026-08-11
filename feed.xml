@@ -5,8 +5,21 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 11 Aug 2026 07:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 09:15:58 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」</title>
+      <link>http://www.geekpark.net/news/368667</link>
+      <description>作者｜张鹏 
+整理｜ 徐珊
+&amp;nbsp;
+世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World Labs 发布 Marble，NVIDIA 用 Cosmos 拉起联盟，国内的大厂与创业公司也在密集进场。让 AI 理解物理世界，已经是今年的主流方向。
+但模型智能的上限，最终取决于喂给它的数据。 语言模型和视频模型的成长，都建立在互联网三十年的积累上；而这一次，世界模型的牌桌上，没有任何一家的数据够得到训练基础模型所需的量级。
+行业不是没有努力。从遥操到第一视角采集，具身公司都在重金投入数据。但在影溯科技创始人兼董事长、浙江大学求是特聘教</description>
+      <pubDate>Tue, 11 Aug 2026 15:30:55 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368667</guid>
+      <source url="http://www.geekpark.net/news/368667">极客公园</source>
+    </item>
     <item>
       <title>Seedance 2.5 上线后，LibTV 先帮创作者「学会」了新模型</title>
       <link>http://www.geekpark.net/news/368665</link>
@@ -62,6 +75,14 @@ Seedance 2.5 发布的时候，身边几乎所有 AI 视频或者 AI 影视相�
       <pubDate>Tue, 11 Aug 2026 08:09:35 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113301</guid>
       <source url="https://sspai.com/post/113301">少数派</source>
+    </item>
+    <item>
+      <title>双 17.2 英寸大屏、首发鸿蒙座舱 6，奕境 X9 最后一张牌留给价格</title>
+      <link>https://www.ifanr.com/1674705?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>还得看价格。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 11 Aug 2026 07:53:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674705?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674705?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>百年黎曼猜想被Claude破了新纪录！是个未公开新模型</title>
@@ -163,24 +184,6 @@ Abstract: We develop a formal framework for constructing canonical interpretatio
       <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.07476</guid>
       <source url="https://arxiv.org/abs/2608.07476">ArXiv AI</source>
-    </item>
-    <item>
-      <title>人类驾驶主动推理模型中的情感</title>
-      <link>https://arxiv.org/abs/2608.07480</link>
-      <description>arXiv:2608.07480v1 Announce Type: new 
-Abstract: Active inference has emerged as a principled framework for modeling adaptive behavior by balancing goal-directed action with uncertainty reduction. It has been successfully applied across biological and artificial systems, including recent work on hum</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.07480</guid>
-      <source url="https://arxiv.org/abs/2608.07480">ArXiv AI</source>
-    </item>
-    <item>
-      <title>使用以数据为中心的并行训练可变长序列</title>
-      <link>https://arxiv.org/abs/2608.07524</link>
-      <description>arXiv:2608.07524v1 Announce Type: new 
-Abstract: Training deep learning models on variable long sequences poses significant computational challenges. Existing methods force a difficult trade-off between efficiency and ease-of-use. Simple approaches use static configurations that cause workload imbal</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.07524</guid>
-      <source url="https://arxiv.org/abs/2608.07524">ArXiv AI</source>
     </item>
   </channel>
 </rss>
