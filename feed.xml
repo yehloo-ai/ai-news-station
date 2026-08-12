@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 12 Aug 2026 06:28:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:41:20 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派</title>
+      <link>https://sspai.com/post/113352</link>
+      <description>《三五环》主播刘飞邀请老麦聊了聊他从 Palm 时代开始的二十年数码时代的经营历程。复盘了少数派如何从一家媒体，一步步跑通「内容+产品」的商业闭环；也聊到了他与罗永浩那段「不打不相识」的往事，以及那些改变了他对科技媒体商业模式认知的故事。查看全文</description>
+      <pubDate>Wed, 12 Aug 2026 15:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113352</guid>
+      <source url="https://sspai.com/post/113352">少数派</source>
+    </item>
     <item>
       <title>造物100 #02｜能打游戏的「牙套」键盘、众筹 249 万美元的电子假花、能用卫星找狗的项圈</title>
       <link>http://www.geekpark.net/news/368707</link>
@@ -50,6 +58,22 @@ Manus 宣布脱离 Meta 恢复独立运营
       <pubDate>Wed, 12 Aug 2026 08:35:54 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368700</guid>
       <source url="http://www.geekpark.net/news/368700">极客公园</source>
+    </item>
+    <item>
+      <title>2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕</title>
+      <link>https://www.qbitai.com/2026/08/470901.html</link>
+      <description>2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。</description>
+      <pubDate>Wed, 12 Aug 2026 07:31:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/470901.html</guid>
+      <source url="https://www.qbitai.com/2026/08/470901.html">量子位</source>
+    </item>
+    <item>
+      <title>iOS 27 曝光苹果 AI 收费：想让 iPhone 更聪明？得加钱</title>
+      <link>https://www.ifanr.com/1674897?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>得加钱。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 12 Aug 2026 07:03:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674897?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674897?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>人形之外，擎羽把“身体”变成具身智能的新变量</title>
@@ -166,33 +190,6 @@ Abstract: Large language models (LLMs) increasingly rely on external tools to ac
       <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.10037</guid>
       <source url="https://arxiv.org/abs/2608.10037">ArXiv ML</source>
-    </item>
-    <item>
-      <title>LLM 代理工厂：检索特定领域的 LLM 代理</title>
-      <link>https://arxiv.org/abs/2608.09934</link>
-      <description>arXiv:2608.09934v1 Announce Type: new 
-Abstract: Large language model (LLM) agents improve task performance by decomposing problems into role-specialized behaviors. However, their practical deployment is often limited by the computational cost and instability associated with the on-the-fly agent des</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.09934</guid>
-      <source url="https://arxiv.org/abs/2608.09934">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>冲突还是策略？ 2022-2025 年法国新闻头条中“法国不团结”和“国民联盟”的不对称角色框架</title>
-      <link>https://arxiv.org/abs/2608.09936</link>
-      <description>arXiv:2608.09936v1 Announce Type: new 
-Abstract: Do French news headlines frame left- and right-populist challengers as symmetric ``extremes,'' or as fundamentally different political adversaries? We examine 28,592 headlines about La France insoumise (LFI) and Rassemblement National (RN) published b</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.09936</guid>
-      <source url="https://arxiv.org/abs/2608.09936">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>仔细考虑文化：使用文化共识理论分析单一和多元文化环境中的法学硕士一致性</title>
-      <link>https://arxiv.org/abs/2608.09937</link>
-      <description>arXiv:2608.09937v1 Announce Type: new 
-Abstract: Recent work in NLP has probed large language models for their understanding of cultural norms across countries. However, this work typically considers distributional patterns, ignoring group consensus or possible multicultural environments within a co</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.09937</guid>
-      <source url="https://arxiv.org/abs/2608.09937">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
