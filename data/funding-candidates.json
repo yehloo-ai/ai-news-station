@@ -89,5 +89,26 @@
     "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
     "sourceUrl": "https://x.com/JensenHuang/status/2086934705207959965",
     "sourceName": "X：Jensen Huang (@JensenHuang)"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+    "summary": "Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。公司估值高达 9,650 亿美元，年化收入已超 470 亿美元，并淡化来自中国 AI 企业的竞争影响。Anthropic 还计划拓展 AI 在医疗和生物学领域的应用，但尚未公布具体 IPO 定价方案。",
+    "sourceUrl": "https://www.ithome.com/0/988/239.htm",
+    "sourceName": "IT之家（RSS）"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "英伟达循环融资达到新高度，黄仁勋是否过度出牌？",
+    "summary": "英伟达股价在相关消息公布后小幅下滑，收盘报217.55美元，盘前略有回升。金融记者Holger Zschaepitz和曾预测安然倒闭的Jim Chanos均对英伟达的循环融资做法表示担忧。此外，英伟达将发布真正开源（非仅开放权重）的Nemotron模型新版本，这可能最终削弱其合作伙伴OpenAI和Anthropic的地位。",
+    "sourceUrl": "https://garymarcus.substack.com/p/breaking-circular-financing-reaches",
+    "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "每个类别都有赢家：AI 时代 SaaS 龙头的估值溢价",
+    "summary": "SaaS 估值整体承压，但每个细分赛道都跑出了 AI 龙头：CrowdStrike 以 34.4x 前瞻收入领跑安全（中位数 3.9x），Cloudflare 32.6x 对 17.5x，Shopify 11.3x 对 1.4x。",
+    "sourceUrl": "https://www.tomtunguz.com/a-winner-in-every-category",
+    "sourceName": "Tomer Tunguz 博客（VC 分析）"
   }
 ]

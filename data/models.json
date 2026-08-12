@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-08-11",
+  "updatedAt": "2026-08-12",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-08-12",
+      "company": "NVIDIA",
+      "model": "Nemotron 3.5 Lightning",
+      "type": "语言",
+      "specs": [
+        "开源"
+      ],
+      "highlight": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B ",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "sourceName": "NVIDIA Blog（RSS）",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-08-12",
+      "company": "NVIDIA",
+      "model": "NVIDIA Nemotron 3.5 Lightnin",
+      "type": "语言",
+      "specs": [
+        "30B总参数",
+        "百万 token 上下文",
+        "开源"
+      ],
+      "highlight": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Da",
+      "sourceUrl": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
+      "sourceName": "LMSYS：Blog（Chatbot Arena 团队）",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-08-12",
+      "company": "蚂蚁",
+      "model": "Ling-3.0-tiny",
+      "type": "语言",
+      "specs": [
+        "1.3B参数",
+        "开源"
+      ],
+      "highlight": "蚂蚁百灵开源 Ling-3.0-tiny，一款总参数 7.9B、推理时仅激活 1.3B 参数",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+      "sourceName": "公众号：蚂蚁百灵（Ling）",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-08-11",
       "company": "Meta",
