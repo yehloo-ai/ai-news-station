@@ -5,8 +5,38 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 12 Aug 2026 08:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:22:15 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新</title>
+      <link>http://www.geekpark.net/news/368744</link>
+      <description>作者｜lfei
+编辑｜靖宇
+&amp;nbsp;
+8 月 3 日， Genspark 创始人&amp;amp;CEO 景鲲在 AGI Playground 2026 大会上发布了 GenOffice 。这是一款 AI 深度集成的本地 Office 客户端，其亮点在于打通了从 AI 生成到工作交付间的链路：通过 GenOffice 打造的软件工程框架，模型得以 直接操作 Office 文件最复杂的底层格式，将生成内容转化为可编辑、可交付的 Word 和 PPT 成品。
+Genspark 推出这样一款产品并不令人意外。
+在 Genspark 的产品体系 AI WorkSpace 6.0 中，AI 办公套件是核心价</description>
+      <pubDate>Wed, 12 Aug 2026 17:24:24 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368744</guid>
+      <source url="http://www.geekpark.net/news/368744">极客公园</source>
+    </item>
+    <item>
+      <title>AI 入口，开始收费</title>
+      <link>http://www.geekpark.net/news/368740</link>
+      <description>作者｜宇航猿
+编辑｜靖宇
+&amp;nbsp;
+AI 将成为未来唯一的「入口」，这几乎是近年来的一个行业共识，但是这个「入口」如何变现，没人能给出答案。
+不过，现在中国大厂的探索路径，已经清晰出现了。
+8 月 10 日这个周末，两条看起来不相关的新闻几乎同时出现。
+豆包宣布，通过其 AI 对话推荐跳转抖音来客成交的酒店订单，正式执行 12% 的独立佣金费率。
+同一天，千问开放平台上线，顺丰、自如、盈米基金等十多个领域的服务商以 AI 智能体形态接入千问。
+一个开始变现，一个把门打开。
+这两件事放在一起看，信号非常明确&amp;mdash;&amp;mdash;AI 助手喊了两年的「新入口」故事，现在终于开始探索变现了</description>
+      <pubDate>Wed, 12 Aug 2026 17:14:56 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368740</guid>
+      <source url="http://www.geekpark.net/news/368740">极客公园</source>
+    </item>
     <item>
       <title>对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派</title>
       <link>https://sspai.com/post/113352</link>
@@ -36,6 +66,14 @@
       <pubDate>Wed, 12 Aug 2026 11:04:34 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/112880</guid>
       <source url="https://sspai.com/post/112880">少数派</source>
+    </item>
+    <item>
+      <title>最擅长平台化的大众，盯上了辅助驾驶</title>
+      <link>https://www.ifanr.com/1674909?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>大众的「传统艺能」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 12 Aug 2026 09:03:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674909?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674909?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等</title>
@@ -163,33 +201,6 @@ Abstract: The current state-of-the-art (SOTA) deep randomized neural networks, s
       <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.10007</guid>
       <source url="https://arxiv.org/abs/2608.10007">ArXiv ML</source>
-    </item>
-    <item>
-      <title>CurveFP：语言模型的闭乘积的 Rational-Radix 对数数据类型</title>
-      <link>https://arxiv.org/abs/2608.10010</link>
-      <description>arXiv:2608.10010v1 Announce Type: new 
-Abstract: Low-precision datatypes reduce language-model cost, but most formats optimize scalar fidelity while leaving the arithmetic induced by their products unchanged. We introduce CurveFP, a closed-product codebook family that distributes quantized magnitude</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.10010</guid>
-      <source url="https://arxiv.org/abs/2608.10010">ArXiv ML</source>
-    </item>
-    <item>
-      <title>基于层的联合表示学习</title>
-      <link>https://arxiv.org/abs/2608.10016</link>
-      <description>arXiv:2608.10016v1 Announce Type: new 
-Abstract: Heterogeneous federated systems require agents to learn and exchange informative representations despite differences in data distributions, sensing modalities, model architectures, latent dimensionalities, and local learning objectives. To address thi</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.10016</guid>
-      <source url="https://arxiv.org/abs/2608.10016">ArXiv ML</source>
-    </item>
-    <item>
-      <title>DOCSCHISEL：LLM 代理的自适应工具文档优化框架</title>
-      <link>https://arxiv.org/abs/2608.10037</link>
-      <description>arXiv:2608.10037v1 Announce Type: new 
-Abstract: Large language models (LLMs) increasingly rely on external tools to accomplish complex real-world tasks, making tool documentation a critical grounding resource for LLM agents. Existing studies mainly focus on improving the tool-use capabilities of LL</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.10037</guid>
-      <source url="https://arxiv.org/abs/2608.10037">ArXiv ML</source>
     </item>
   </channel>
 </rss>
