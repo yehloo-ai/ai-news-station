@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 12 Aug 2026 10:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 11:59:46 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>把「闪念胶囊」（Almost）放到 iPhone 锁屏</title>
+      <link>https://sspai.com/post/113219</link>
+      <description>想法被及时、完好的记下来，然后呢？查看全文</description>
+      <pubDate>Wed, 12 Aug 2026 17:30:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113219</guid>
+      <source url="https://sspai.com/post/113219">少数派</source>
+    </item>
     <item>
       <title>实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新</title>
       <link>http://www.geekpark.net/news/368744</link>
@@ -66,6 +74,22 @@ AI 将成为未来唯一的「入口」，这几乎是近年来的一个行业�
       <pubDate>Wed, 12 Aug 2026 11:04:34 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/112880</guid>
       <source url="https://sspai.com/post/112880">少数派</source>
+    </item>
+    <item>
+      <title>紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力</title>
+      <link>https://www.qbitai.com/2026/08/471030.html</link>
+      <description>免训练、开箱即用！</description>
+      <pubDate>Wed, 12 Aug 2026 10:54:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/471030.html</guid>
+      <source url="https://www.qbitai.com/2026/08/471030.html">量子位</source>
+    </item>
+    <item>
+      <title>内饰揭晓！焕然一新的捷豹 Type 01，仍然很「捷豹」</title>
+      <link>https://www.ifanr.com/1674925?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>捷豹变了，但没有变成另一个品牌。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 12 Aug 2026 10:43:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674925?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674925?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>最擅长平台化的大众，盯上了辅助驾驶</title>
@@ -174,33 +198,6 @@ Abstract: Artificial Intelligence (AI) and Machine Learning (ML) have become pow
       <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.09998</guid>
       <source url="https://arxiv.org/abs/2608.09998">ArXiv AI</source>
-    </item>
-    <item>
-      <title>ReCBM：概念瓶颈模型的不确定性门控关系推理</title>
-      <link>https://arxiv.org/abs/2608.10004</link>
-      <description>arXiv:2608.10004v1 Announce Type: new 
-Abstract: Concept Bottleneck Models (CBMs) provide an interpretable framework by grounding predictions in human-understandable concepts, enabling semantic inspection and test-time intervention. Recent variants have improved CBMs through richer concept represent</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.10004</guid>
-      <source url="https://arxiv.org/abs/2608.10004">ArXiv AI</source>
-    </item>
-    <item>
-      <title>变压器几何观测站 TGO-IV：发育拓扑观测站</title>
-      <link>https://arxiv.org/abs/2608.09997</link>
-      <description>arXiv:2608.09997v1 Announce Type: new 
-Abstract: Transformers have had a profound impact on the world of language processing and computer vision. As efforts to answer the million-dollar question of ``How does a Transformer learn?" have been increasing, existing interpretability studies primarily ana</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.09997</guid>
-      <source url="https://arxiv.org/abs/2608.09997">ArXiv ML</source>
-    </item>
-    <item>
-      <title>用于分类的不确定性感知集成深度随机神经网络</title>
-      <link>https://arxiv.org/abs/2608.10007</link>
-      <description>arXiv:2608.10007v1 Announce Type: new 
-Abstract: The current state-of-the-art (SOTA) deep randomized neural networks, such as deep Random Vector Functional Link (dRVFL) and ensemble deep RVFL (edRVFL), treat all training samples uniformly, which limits their robustness and effectiveness when applied</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.10007</guid>
-      <source url="https://arxiv.org/abs/2608.10007">ArXiv ML</source>
     </item>
   </channel>
 </rss>
