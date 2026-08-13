@@ -5,8 +5,30 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 08:43:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:23:20 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>实测正式版 DeepSeek V4 Pro，补齐 Agent 能力｜AI 上新</title>
+      <link>http://www.geekpark.net/news/368777</link>
+      <description>作者｜桦林舞王
+编辑｜靖宇
+&amp;nbsp;
+没有预告，没有倒计时，甚至连更新日志都没来得及写好。DeepSeek V4 Pro 的正式版，就这么悄悄的来了。
+8 月 13 日凌晨，DeepSeek 官网悄悄刷新了 API 文档。模型名还是那个 deepseek-v4-pro，但 fingerprint 已经变成了 fp_v4pro_20260812。打开社区一看，消息已经炸开&amp;mdash;&amp;mdash; V4 Pro 正式版，来了。
+从 4 月 24 日预览版上线算起，整整 111 天。
+这期间 Kimi K3 高调发布抢走了开源头条，V4 Flash 正式版先行一步在 7 月 31 日上线，A</description>
+      <pubDate>Thu, 13 Aug 2026 16:55:49 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368777</guid>
+      <source url="http://www.geekpark.net/news/368777">极客公园</source>
+    </item>
+    <item>
+      <title>从原理出发，高效搞定夏日营养冷食</title>
+      <link>https://sspai.com/prime/story/summer-cold-meal-guide</link>
+      <description>不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。</description>
+      <pubDate>Thu, 13 Aug 2026 16:01:56 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/prime/story/summer-cold-meal-guide</guid>
+      <source url="https://sspai.com/prime/story/summer-cold-meal-guide">少数派</source>
+    </item>
     <item>
       <title>TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验</title>
       <link>https://sspai.com/post/113338</link>
@@ -41,6 +63,14 @@ Pixel 11 全系四款手机、Pixel Watch 5，加上防丢器 Pixel Tag，一口
       <pubDate>Thu, 13 Aug 2026 11:18:09 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/112873</guid>
       <source url="https://sspai.com/post/112873">少数派</source>
+    </item>
+    <item>
+      <title>刚刚！Ilya首个模型曝光了</title>
+      <link>https://www.qbitai.com/2026/08/471701.html</link>
+      <description>SSI第一剑，劈向持续学习</description>
+      <pubDate>Thu, 13 Aug 2026 08:36:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/471701.html</guid>
+      <source url="https://www.qbitai.com/2026/08/471701.html">量子位</source>
     </item>
     <item>
       <title>派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等</title>
@@ -162,34 +192,6 @@ Learn more about ChatGPT Work: htt</description>
       <pubDate>Thu, 13 Aug 2026 01:04:57 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1674964?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1674964?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>早报｜9999起，荣耀Robot Phone发布/Google发布Pixel 11系列/岚图董事长卢放:开发周期短不等于「速成车」</title>
-      <link>https://www.ifanr.com/1674986?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 抖音处置 1.28 万条台风不实内容，重点治理 AI 虚构灾害画面
-· 激进投资者要求狮门影业加速 AI 转型，否则考虑出售
-· 面壁智能启动 IPO 辅导#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 13 Aug 2026 00:04:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674986?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674986?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>多法学硕士代理系统的动态治理以实现协作对话结果</title>
-      <link>https://arxiv.org/abs/2608.11207</link>
-      <description>arXiv:2608.11207v1 Announce Type: new 
-Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach, and the conversat</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.11207</guid>
-      <source url="https://arxiv.org/abs/2608.11207">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Distribird：基于文献的贝叶斯模型校准先验分布设计</title>
-      <link>https://arxiv.org/abs/2608.11210</link>
-      <description>arXiv:2608.11210v1 Announce Type: new 
-Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors fro</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.11210</guid>
-      <source url="https://arxiv.org/abs/2608.11210">ArXiv AI</source>
     </item>
   </channel>
 </rss>
