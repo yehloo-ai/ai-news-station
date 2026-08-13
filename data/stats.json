@@ -1,22 +1,17 @@
 {
-  "generatedAt": "2026-08-12T14:35:13.764Z",
+  "generatedAt": "2026-08-13T03:40:19.425Z",
   "umami": {
     "error": null,
     "today": {
-      "visitors": 1,
-      "pageviews": 1
+      "visitors": 0,
+      "pageviews": 0
     },
     "last30d": {
-      "visitors": 28,
-      "pageviews": 212,
-      "visits": 58
+      "visitors": 27,
+      "pageviews": 202,
+      "visits": 55
     },
     "series": [
-      {
-        "date": "2026-07-14",
-        "pageviews": 2,
-        "visitors": 2
-      },
       {
         "date": "2026-07-15",
         "pageviews": 9,
@@ -161,12 +156,17 @@
         "date": "2026-08-12",
         "pageviews": 0,
         "visitors": 0
+      },
+      {
+        "date": "2026-08-13",
+        "pageviews": 0,
+        "visitors": 0
       }
     ],
     "countries": [
       {
         "code": "US",
-        "visitors": 19
+        "visitors": 18
       },
       {
         "code": "CN",
@@ -187,11 +187,11 @@
         "visitors": 1
       },
       {
-        "domain": "localhost",
+        "domain": "github.com",
         "visitors": 1
       },
       {
-        "domain": "github.com",
+        "domain": "localhost",
         "visitors": 1
       }
     ]
