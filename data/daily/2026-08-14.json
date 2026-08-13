@@ -1,0 +1,259 @@
+{
+  "date": "2026-08-13",
+  "attribution": {
+    "source": "AIHOT",
+    "canonical": "https://aihot.virxact.com/daily/2026-08-13"
+  },
+  "generatedAt": "2026-08-13T00:00:25.517Z",
+  "windowStart": "2026-08-12T00:00:00.000Z",
+  "windowEnd": "2026-08-13T00:00:00.000Z",
+  "lead": null,
+  "sections": [
+    {
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
+          "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
+          "sourceUrl": "https://x.ai/news/grok-4-6",
+          "sourceName": "xAI：News（网页）",
+          "permalink": "https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d"
+          }
+        },
+        {
+          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "summary": "阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262,144 Token 上下文并可扩展至 1,010,000 Token。",
+          "sourceUrl": "https://www.ithome.com/0/989/001.htm",
+          "sourceName": "IT之家（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue"
+          }
+        },
+        {
+          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1,000 万美元的组织可免费使用。",
+          "sourceUrl": "https://www.ithome.com/0/988/766.htm",
+          "sourceName": "IT之家（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmspr6h6s01hero4hjcdf95mw",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmspr6h6s01hero4hjcdf95mw"
+          }
+        },
+        {
+          "title": "微软首发自研推理模型MAI-Thinking-1",
+          "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+          "sourceUrl": "https://x.com/mustafasuleyman/status/2087570047967408396",
+          "sourceName": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "permalink": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj"
+          }
+        }
+      ]
+    },
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "title": "OpenRouter 推出实时网页搜索基准测试：如何为智能体选择引擎、深度与模型",
+          "summary": "OpenRouter 发布实时排行榜，系统评测模型、搜索引擎、搜索方法与预算四类配置组合。数据显示，将搜索预算从 1 轮增至 25 轮可使 BrowseComp 得分近乎翻倍，成本仅增 2.5-7 倍；模型选择比引擎更重要，平均分差 15 分 vs 10 分。失败率高的任务应降低搜索深度以控制成本。",
+          "sourceUrl": "https://openrouter.ai/blog/announcements/web-search-benchmark",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsq9h6gs01x5ronde8fdla7e",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsq9h6gs01x5ronde8fdla7e"
+          }
+        },
+        {
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+          "sourceUrl": "https://claude.com/blog/cowork-chrome-side-panel",
+          "sourceName": "Claude：Blog（网页）",
+          "permalink": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r"
+          }
+        },
+        {
+          "title": "SGLang 与 Miles 为 Qwen3.8-2.4T-A95B 提供 Day-0 支持",
+          "summary": "SGLang 与 Miles 在发布首日即支持 Qwen3.8-2.4T-A95B，这是 Qwen 最大的开源模型，总参数 2.4T，每 token 激活 95B，采用混合注意力架构。",
+          "sourceUrl": "https://www.lmsys.org/blog/2026-08-12-qwen3-8-day0-support",
+          "sourceName": "LMSYS：Blog（Chatbot Arena 团队）",
+          "permalink": "https://aihot.virxact.com/items/cmsq9tn9a001mroxag87x1ltg",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsq9tn9a001mroxag87x1ltg"
+          }
+        },
+        {
+          "title": "WhatsApp 如何用端到端加密与可验证性构建 Scam Alert 诈骗提醒功能",
+          "summary": "WhatsApp 推出可选功能 Scam Alert，通过端到端加密保护下在设备端运行机器学习模型，识别潜在诈骗消息，且消息内容不会离开设备或自动上报。该功能遵循仅设备端处理、无自动上报、用户控制三大原则，模型权重公开供独立验证，遥测数据经差分隐私聚合处理。目前已在 Beta 版有限推出，并邀请安全研究社区参与测试。",
+          "sourceUrl": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp",
+          "sourceName": "Meta Engineering Blog（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsq5eksf0481ro2ebve4t2jq",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsq5eksf0481ro2ebve4t2jq"
+          }
+        },
+        {
+          "title": "Claude Code v2.1.229 发布：新增远程会话恢复、插件市场命令源及多项修复",
+          "summary": "Claude Code v2.1.229 发布，新增远程控制会话恢复、自托管 runner 的服务器端 hook 支持，以及插件市场命令源。修复了长响应流式输出丢失、窄终端渲染崩溃、Windows 扩展路径崩溃等问题。改进工作流扇出以复用缓存提示前缀，并调整 /commit-push-pr 对危险 git/gh 命令不再自动批准。",
+          "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.229",
+          "sourceName": "Claude Code：GitHub Releases（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsqklahe05ifroxvk12gixbx",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsqklahe05ifroxvk12gixbx"
+          }
+        }
+      ]
+    },
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "Research Gold 号称“100%人类撰写、绝不使用AI”，实则全程由AI驱动",
+          "summary": "面向医学研究者的网站 Research Gold 宣称其服务“100%由人类撰写、绝不使用AI”，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称“Sarah”的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
+          "sourceUrl": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+          "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "permalink": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a"
+          }
+        },
+        {
+          "title": "RingCentral 如何用 ChatGPT Work 和 Codex 构建 AI 原生工作流",
+          "summary": "RingCentral 通过全员发放 ChatGPT Work 和 Codex，推动从工程到运营的 AI 原生开发，其 AI-Native Challenge 让数千名员工（含非技术人员）交付了可运行项目。",
+          "sourceUrl": "https://openai.com/index/ringcentral",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.virxact.com/items/cmsqmvjex02jbrow2udzat483",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsqmvjex02jbrow2udzat483"
+          }
+        }
+      ]
+    },
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
+          "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于“丢钥匙”而非“空货架”。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2,150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
+          "sourceUrl": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+          "sourceName": "Google Research：Blog（网页）",
+          "permalink": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7"
+          }
+        },
+        {
+          "title": "Anthropic 联合独立研究者发布工人再培训项目证据综述",
+          "summary": "Anthropic 与独立研究者 David Roodman 合作发布报告，基于 56 项美国随机研究和欧洲实验证据，评估工人再培训项目应对 AI 劳动力市场冲击的效果。",
+          "sourceUrl": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+          "sourceName": "Anthropic：Research（发表成果 · 网页）",
+          "permalink": "https://aihot.virxact.com/items/cmsqcs2m402xzroosy1xpgvm0",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsqcs2m402xzroosy1xpgvm0"
+          }
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "零基础用户半天上手AI的12步实操流程",
+          "summary": "文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+          "sourceName": "公众号：数字生命卡兹克",
+          "permalink": "https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg"
+          }
+        },
+        {
+          "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+          "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
+          "sourceName": "公众号：数字生命卡兹克",
+          "permalink": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp"
+          }
+        },
+        {
+          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+          "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从“不可用”转变为“可用但不符合路线图”。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的“人类探测器”。",
+          "sourceUrl": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+          "sourceName": "GitHub Blog",
+          "permalink": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi"
+          }
+        },
+        {
+          "title": "我写了一本 AI 教科书——AI 还要多久才能写得更好？",
+          "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
+          "sourceUrl": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+          "sourceName": "Nathan Lambert：Interconnects（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo"
+          }
+        },
+        {
+          "title": "OpenRouter 工具调用指南：一次编写循环，切换模型字符串即可跨模型运行",
+          "summary": "OpenRouter 发布工具调用指南，展示如何用同一套代码在 Claude、GPT 和开源权重模型间切换，仅需更改模型字符串。指南涵盖定义工具、发送请求、读取 tool_calls 响应、执行函数并返回结果的完整循环，支持 OpenAI 兼容的 JSON schema，并提供 cURL、Python 和 JavaScript/TypeScript 示例。",
+          "sourceUrl": "https://openrouter.ai/blog/tutorials/tool-calling",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsql9mbw065uroxvb09rxir4",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsql9mbw065uroxvb09rxir4"
+          }
+        },
+        {
+          "title": "LangChain 详解：什么是 AI 智能体？",
+          "summary": "AI 智能体是在大语言模型循环中自主运行的系统，通过反复调用模型、观察结果并调整下一步行动来完成复杂任务。工作流（workflow）则是对固定步骤的预编排，两者互补：工作流保证确定性，智能体提供灵活性。理解二者差异是构建可靠、可投入生产的自主系统的关键。",
+          "sourceUrl": "https://www.langchain.com/blog/what-is-an-agent",
+          "sourceName": "LangChain：Blog（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsppq8pe01dxrog7ppmbaug9",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsppq8pe01dxrog7ppmbaug9"
+          }
+        },
+        {
+          "title": "OpenAI 研究：企业如何用 ChatGPT 和 Codex 落地智能体 AI",
+          "summary": "OpenAI 研究揭示企业采用智能体 AI 的方式，以及前沿企业如何在 AI 应用上拉开差距。企业正通过 ChatGPT 和 Codex 将 AI 从辅助转向执行，头部公司已率先将智能体投入实际业务流程。",
+          "sourceUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.virxact.com/items/cmsq3ulbm02wero2em6p0huto",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsq3ulbm02wero2em6p0huto"
+          }
+        }
+      ]
+    }
+  ],
+  "flashes": []
+}
