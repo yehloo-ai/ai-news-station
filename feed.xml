@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 17:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:09:17 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>不用改签名，给 Mac 微信聊天记录「搬个家」</title>
@@ -14,6 +14,16 @@
       <pubDate>Thu, 13 Aug 2026 17:30:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113225</guid>
       <source url="https://sspai.com/post/113225">少数派</source>
+    </item>
+    <item>
+      <title>预览超快模式：GPT‑5.6 Sol 速度高达 14 倍</title>
+      <link>https://www.youtube.com/watch?v=WCwT4gWpHmI</link>
+      <description>“There’s an old adage that performance can be a feature because when something becomes fast enough, it changes behavior.”
+
+Today we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and ge</description>
+      <pubDate>Thu, 13 Aug 2026 17:12:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=WCwT4gWpHmI</guid>
+      <source url="https://www.youtube.com/watch?v=WCwT4gWpHmI">OpenAI</source>
     </item>
     <item>
       <title>实测正式版 DeepSeek V4 Pro，补齐 Agent 能力｜AI 上新</title>
@@ -143,18 +153,6 @@ ChatGPT Work connects board materials in Google Drive with posted financial data
       <pubDate>Thu, 13 Aug 2026 11:53:02 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/472060.html</guid>
       <source url="https://www.qbitai.com/2026/08/472060.html">量子位</source>
-    </item>
-    <item>
-      <title>使用 ChatGPT Work 提供董事会就绪的报告</title>
-      <link>https://www.youtube.com/watch?v=_HCks5jkPLw</link>
-      <description>Catch quarter-end mistakes before they reach your board.
-
-This is how we use ChatGPT Work to check our financial model, executive memo, and board deck against data. ChatGPT Work will flag anything that doesn’t match for our teams to check.
-
-Watch the full session for more demos here: https://openai.</description>
-      <pubDate>Thu, 13 Aug 2026 11:31:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=_HCks5jkPLw</guid>
-      <source url="https://www.youtube.com/watch?v=_HCks5jkPLw">OpenAI</source>
     </item>
     <item>
       <title>Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表</title>
