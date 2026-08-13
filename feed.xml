@@ -5,8 +5,42 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 12 Aug 2026 23:58:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 02:42:38 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等</title>
+      <link>https://sspai.com/post/113385</link>
+      <description>影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。查看全文</description>
+      <pubDate>Thu, 13 Aug 2026 08:14:09 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113385</guid>
+      <source url="https://sspai.com/post/113385">少数派</source>
+    </item>
+    <item>
+      <title>Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布 HY4 大模型；曝 iPhone18 至少涨价 2000 元起 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/368747</link>
+      <description>DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 58 月 13 日消息，DeepSeek V4 Pro 正式版正式发布，已更新至 API，调用模型名不变。新版本增强了 Agent 能力，支持 Responses API 和 Codex 接入。从官方群放出的评测对比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多项测试中接近 Fable 5 水平，相比之前的预览版能力大幅提升。定价如下：百万 tokens 输入（缓存命中）：0.025 元百万 tokens 输入（缓存未命中）：3 元百万 tokens 输出</description>
+      <pubDate>Thu, 13 Aug 2026 08:14:05 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368747</guid>
+      <source url="http://www.geekpark.net/news/368747">极客公园</source>
+    </item>
+    <item>
+      <title>DeepSeek V4 Pro 正式版上线，多项指标逼近 Fable 5</title>
+      <link>https://www.ifanr.com/1674964?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>DeepSeek V4 Pro 正式版来了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 13 Aug 2026 01:04:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674964?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674964?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>早报｜9999起，荣耀Robot Phone发布/Google发布Pixel 11系列/岚图董事长卢放:开发周期短不等于「速成车」</title>
+      <link>https://www.ifanr.com/1674986?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 抖音处置 1.28 万条台风不实内容，重点治理 AI 虚构灾害画面
+· 激进投资者要求狮门影业加速 AI 转型，否则考虑出售
+· 面壁智能启动 IPO 辅导#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 13 Aug 2026 00:04:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674986?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674986?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>回来了，马斯克带着 24 小时干活的 Agent 回来了</title>
       <link>https://www.ifanr.com/1674851?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -154,44 +188,6 @@ AI 将成为未来唯一的「入口」，这几乎是近年来的一个行业�
       <pubDate>Wed, 12 Aug 2026 08:44:13 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113343</guid>
       <source url="https://sspai.com/post/113343">少数派</source>
-    </item>
-    <item>
-      <title>林俊旸创办 AI 公司，估值20亿美元；Gemini 月活用户达 10 亿；Manus 宣布恢复独立运营</title>
-      <link>http://www.geekpark.net/news/368700</link>
-      <description>&amp;nbsp;
-
-&amp;nbsp;
-Manus 宣布脱离 Meta 恢复独立运营
-8 月 11 日消息，Manus 在官网发布声明，宣布脱离 Meta 并恢复独立公司形式运营，继续为全球数百万用户提供服务。在此过程中，部分用户的账户将受到影响。
-为遵守特定司法辖区的监管要求，部分用户在 2025 年 12 月 29 日当前或之后产生的数据，将于北京时间 2026 年 8 月 23 日 08:00 起至 8 月 24 日期间被删除。受影响用户将会在 Manus App 和电子邮件收件箱中看到通知。如果用户是使用 Apple 账户或 Facebook 账户注册 Manus，则需要留意应用内通知。
-在此期</description>
-      <pubDate>Wed, 12 Aug 2026 08:35:54 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368700</guid>
-      <source url="http://www.geekpark.net/news/368700">极客公园</source>
-    </item>
-    <item>
-      <title>2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕</title>
-      <link>https://www.qbitai.com/2026/08/470901.html</link>
-      <description>2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。</description>
-      <pubDate>Wed, 12 Aug 2026 07:31:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/470901.html</guid>
-      <source url="https://www.qbitai.com/2026/08/470901.html">量子位</source>
-    </item>
-    <item>
-      <title>iOS 27 曝光苹果 AI 收费：想让 iPhone 更聪明？得加钱</title>
-      <link>https://www.ifanr.com/1674897?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>得加钱。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 12 Aug 2026 07:03:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674897?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674897?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>人形之外，擎羽把“身体”变成具身智能的新变量</title>
-      <link>https://www.qbitai.com/2026/08/470874.html</link>
-      <description>从柔性本体走向跨本体基础智能，让任务与世界知识延续</description>
-      <pubDate>Wed, 12 Aug 2026 04:29:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/470874.html</guid>
-      <source url="https://www.qbitai.com/2026/08/470874.html">量子位</source>
     </item>
   </channel>
 </rss>
