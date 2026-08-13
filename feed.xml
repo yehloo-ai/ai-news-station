@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 06:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:43:35 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验</title>
+      <link>https://sspai.com/post/113338</link>
+      <description>SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。查看全文</description>
+      <pubDate>Thu, 13 Aug 2026 15:01:08 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113338</guid>
+      <source url="https://sspai.com/post/113338">少数派</source>
+    </item>
     <item>
       <title>「美国豆包手机」全系涨价，新东西全留给了 Gemini</title>
       <link>http://www.geekpark.net/news/368766</link>
@@ -49,6 +57,47 @@ Pixel 11 全系四款手机、Pixel Watch 5，加上防丢器 Pixel Tag，一口
       <pubDate>Thu, 13 Aug 2026 08:14:05 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368747</guid>
       <source url="http://www.geekpark.net/news/368747">极客公园</source>
+    </item>
+    <item>
+      <title>您只需启动站点 |聊天GPT工作</title>
+      <link>https://www.youtube.com/watch?v=6VwIXjFj6YQ</link>
+      <description>ChatGPT Work gathers context across your surfaces and helps you go from ambition to action with polished docs, slides, and sites.  
+
+See how ChatGPT Work builds a structured, shareable launch hub your team can use as a single source of truth—and refine directly before sharing.  
+
+Learn more about Ch</description>
+      <pubDate>Thu, 13 Aug 2026 08:12:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=6VwIXjFj6YQ</guid>
+      <source url="https://www.youtube.com/watch?v=6VwIXjFj6YQ">OpenAI</source>
+    </item>
+    <item>
+      <title>你就可以完成工作了|聊天GPT工作</title>
+      <link>https://www.youtube.com/watch?v=-vvGAKtV_Ek</link>
+      <description>ChatGPT Work turns your team’s notes, drafts, and ideas into finished work—while you stay in control.  
+
+See how ChatGPT Work brings together launch results, recap notes, and a Slack thread to build an exec-friendly launch deck you can circulate with leadership.  
+
+Learn more about ChatGPT Work: htt</description>
+      <pubDate>Thu, 13 Aug 2026 08:09:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=-vvGAKtV_Ek</guid>
+      <source url="https://www.youtube.com/watch?v=-vvGAKtV_Ek">OpenAI</source>
+    </item>
+    <item>
+      <title>打工人的办公三件套，被 WorkBuddy 用 AI 重做了</title>
+      <link>https://www.ifanr.com/1674810?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI 时代的新 Office 长什么样？WorkBuddy 给出了一种答案
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 13 Aug 2026 07:40:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1674810?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1674810?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期</title>
+      <link>https://www.qbitai.com/2026/08/471697.html</link>
+      <description>当季实现营收1834亿元人民币，同比猛增43%，创历史新高</description>
+      <pubDate>Thu, 13 Aug 2026 06:33:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/471697.html</guid>
+      <source url="https://www.qbitai.com/2026/08/471697.html">量子位</source>
     </item>
     <item>
       <title>Pixel 11 上手：AI 不支棱，涨价不消停</title>
@@ -141,51 +190,6 @@ Abstract: Bayesian calibration of process-based models requires a prior distribu
       <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.11210</guid>
       <source url="https://arxiv.org/abs/2608.11210">ArXiv AI</source>
-    </item>
-    <item>
-      <title>康威 99 图的强制结构约简和可验证界限</title>
-      <link>https://arxiv.org/abs/2608.11211</link>
-      <description>arXiv:2608.11211v1 Announce Type: new 
-Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, scored under the track's partial-credit metric. Our</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.11211</guid>
-      <source url="https://arxiv.org/abs/2608.11211">ArXiv AI</source>
-    </item>
-    <item>
-      <title>检测路线翻转比知道是否修复它更容易：量化专家混合中的因果路线介导的损害</title>
-      <link>https://arxiv.org/abs/2608.11212</link>
-      <description>arXiv:2608.11212v1 Announce Type: new 
-Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips which experts fire. T</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.11212</guid>
-      <source url="https://arxiv.org/abs/2608.11212">ArXiv AI</source>
-    </item>
-    <item>
-      <title>穷人的代理建模：在笔记本电脑上模拟大型法学硕士代理社团</title>
-      <link>https://arxiv.org/abs/2608.11215</link>
-      <description>arXiv:2608.11215v1 Announce Type: new 
-Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any sing</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.11215</guid>
-      <source url="https://arxiv.org/abs/2608.11215">ArXiv AI</source>
-    </item>
-    <item>
-      <title>FarSky：用于生成小时内太阳预报的任务感知潜在空间耦合</title>
-      <link>https://arxiv.org/abs/2608.11254</link>
-      <description>arXiv:2608.11254v1 Announce Type: new 
-Abstract: Accurate solar irradiance forecasting is essential for the reliable integration of photovoltaic power into modern electricity grids. All-sky imagers (ASI) provide high-resolution observations of clouds, making them well suited for intra-hour forecasti</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.11254</guid>
-      <source url="https://arxiv.org/abs/2608.11254">ArXiv ML</source>
-    </item>
-    <item>
-      <title>为什么人工智能检测无法保证学术诚信</title>
-      <link>https://arxiv.org/abs/2608.11256</link>
-      <description>arXiv:2608.11256v1 Announce Type: new 
-Abstract: Institutions use commercial AI detectors for academic integrity, yet detectors cannot distinguish AI editing from full LLM drafts and may treat both as misconduct. In a controlled study of published English abstracts (four domains; 2013 to 2015 vs. 20</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.11256</guid>
-      <source url="https://arxiv.org/abs/2608.11256">ArXiv ML</source>
     </item>
   </channel>
 </rss>
