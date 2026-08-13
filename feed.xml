@@ -5,8 +5,27 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 06:29:40 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>「美国豆包手机」全系涨价，新东西全留给了 Gemini</title>
+      <link>http://www.geekpark.net/news/368766</link>
+      <description>Pixel 11 不是一台想赢的手机，它是 Gemini 的身体。
+
+作者｜张勇毅
+编辑｜靖宇
+
+纽约时间 8 月 12 日下午，谷歌在布鲁克林开完了今年的 Made by Google 发布会。
+Pixel 11 全系四款手机、Pixel Watch 5，加上防丢器 Pixel Tag，一口气全发了，当天就开预购。
+热闹是足够热闹。但两个小时看下来，最能概括这场发布会的，是 Pixel 11 背面新增的那一小圈灯。
+
+本次发布的全系 Pixel 新品｜图片来源：Google
+全系背面都多了这圈环形 LED，在 Pro 机型上，它顶替的正是上一代温度传感器的位置。官方名字叫 HiLight。
+</description>
+      <pubDate>Thu, 13 Aug 2026 14:18:04 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368766</guid>
+      <source url="http://www.geekpark.net/news/368766">极客公园</source>
+    </item>
     <item>
       <title>6 天时间丈量独库公路：我的平安骑行指南</title>
       <link>https://sspai.com/post/112873</link>
@@ -30,6 +49,22 @@
       <pubDate>Thu, 13 Aug 2026 08:14:05 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368747</guid>
       <source url="http://www.geekpark.net/news/368747">极客公园</source>
+    </item>
+    <item>
+      <title>Pixel 11 上手：AI 不支棱，涨价不消停</title>
+      <link>https://www.ifanr.com/1675041?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>差不多得了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 13 Aug 2026 06:00:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675041?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675041?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>倒计时｜2026世界机器人大会主论坛议程发布！</title>
+      <link>https://www.qbitai.com/2026/08/471668.html</link>
+      <description></description>
+      <pubDate>Thu, 13 Aug 2026 05:10:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/471668.html</guid>
+      <source url="https://www.qbitai.com/2026/08/471668.html">量子位</source>
     </item>
     <item>
       <title>具身智能迎来「DeepSeek 时刻」：国产机器人用更低成本反超 Figure AI</title>
@@ -151,33 +186,6 @@ Abstract: Institutions use commercial AI detectors for academic integrity, yet d
       <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.11256</guid>
       <source url="https://arxiv.org/abs/2608.11256">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Basin：Rust 中高效且可扩展的数值优化</title>
-      <link>https://arxiv.org/abs/2608.11279</link>
-      <description>arXiv:2608.11279v1 Announce Type: new 
-Abstract: Basin is a numerical optimization library for the Rust programming language. Numerical optimization is the task of finding the inputs that minimize a function, and it is a fundamental element across the sciences: fitting a model to data, calibrating a</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.11279</guid>
-      <source url="https://arxiv.org/abs/2608.11279">ArXiv ML</source>
-    </item>
-    <item>
-      <title>分布式数控刀具磨损预测的联邦学习</title>
-      <link>https://arxiv.org/abs/2608.11281</link>
-      <description>arXiv:2608.11281v1 Announce Type: new 
-Abstract: Tool wear prediction is an important task in CNC machining, where accurate monitoring of tool condition supports product quality and process reliability. Machine learning methods have shown potential for this task, but their use in industrial environm</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.11281</guid>
-      <source url="https://arxiv.org/abs/2608.11281">ArXiv ML</source>
-    </item>
-    <item>
-      <title>终端对称作为决策资源：随时验证构造的状态细化</title>
-      <link>https://arxiv.org/abs/2608.11318</link>
-      <description>arXiv:2608.11318v1 Announce Type: new 
-Abstract: Many sequential construction tasks exhibit exact symmetry at completion while their execution remains directed and history-dependent. We develop a decision-resource view of terminal symmetry: process evidence supplies directionality, terminal correspo</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.11318</guid>
-      <source url="https://arxiv.org/abs/2608.11318">ArXiv ML</source>
     </item>
   </channel>
 </rss>
