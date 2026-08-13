@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 16:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 17:13:19 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>不用改签名，给 Mac 微信聊天记录「搬个家」</title>
@@ -28,6 +28,14 @@
       <pubDate>Thu, 13 Aug 2026 16:55:49 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368777</guid>
       <source url="http://www.geekpark.net/news/368777">极客公园</source>
+    </item>
+    <item>
+      <title>深度体验DeepSeek Harness，我原谅它涨价了</title>
+      <link>https://www.qbitai.com/2026/08/472208.html</link>
+      <description>欢迎，为后人种点树</description>
+      <pubDate>Thu, 13 Aug 2026 16:03:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/472208.html</guid>
+      <source url="https://www.qbitai.com/2026/08/472208.html">量子位</source>
     </item>
     <item>
       <title>从原理出发，高效搞定夏日营养冷食</title>
@@ -187,14 +195,6 @@ Watch the full session for more demos here: https://openai.</description>
       <pubDate>Thu, 13 Aug 2026 08:36:53 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/471701.html</guid>
       <source url="https://www.qbitai.com/2026/08/471701.html">量子位</source>
-    </item>
-    <item>
-      <title>派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等</title>
-      <link>https://sspai.com/post/113385</link>
-      <description>影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。查看全文</description>
-      <pubDate>Thu, 13 Aug 2026 08:14:09 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113385</guid>
-      <source url="https://sspai.com/post/113385">少数派</source>
     </item>
   </channel>
 </rss>
