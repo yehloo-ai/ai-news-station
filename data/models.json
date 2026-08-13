@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-08-13",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-08-13",
+      "company": "Microsoft",
+      "model": "MAI-Thinking-1",
+      "type": "语言",
+      "specs": [],
+      "highlight": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft ",
+      "sourceUrl": "https://x.com/mustafasuleyman/status/2087570047967408396",
+      "sourceName": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "tier": "minor",
+      "auto": true
+    },
     {
       "date": "2026-08-12",
       "company": "NVIDIA",
