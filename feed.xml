@@ -5,8 +5,23 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 08:27:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:18:19 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>阿里云，接得住中国智驾吗？</title>
+      <link>http://www.geekpark.net/news/368846</link>
+      <description>作者｜李苏
+编辑｜靖宇
+&amp;nbsp;
+8 月，乌兰察布。
+近 30 位来自核心车企和方案商的智驾关键力量，被请进了阿里巴巴数据中心。
+这里承载着中国智能驾驶研发 60% 的算力。数据中心昼夜不停，像一颗强健搏动的心脏；而道路上智能驾驶的车辆每一次从容的转弯、精准的刹停、安稳的跟车，背后都可能是这里彻夜的计算。几乎所有参会者正在训练的模型，就跑在脚下这片机房里。
+把论坛开在数据中心所在地，本身就是一个信号： 智驾的竞争，已经从算法下沉到工程。
+阿里云智能集团资深副总裁、公共云事业部总裁刘伟光的开场白很简短&amp;mdash;&amp;mdash; 模型、芯片、云，这三样东西过去由三类供应商分别提供 ，在三种不</description>
+      <pubDate>Fri, 14 Aug 2026 18:02:05 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368846</guid>
+      <source url="http://www.geekpark.net/news/368846">极客公园</source>
+    </item>
     <item>
       <title>你初高中时的书单里，总有本「东野圭吾」吧？</title>
       <link>https://sspai.com/post/113416</link>
@@ -49,6 +64,14 @@ DeepSeek 官方给它的定义其实和别家也差不多：模型加上 Harness
       <source url="https://sspai.com/post/112279">少数派</source>
     </item>
     <item>
+      <title>实测GLM-5.3: 在神仙打架的一周杀回国模顶流，还按下了重置键</title>
+      <link>https://www.ifanr.com/1675225?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>7000 亿 VS 2.8 万亿#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 14 Aug 2026 09:44:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675225?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675225?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
       <title>DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元</title>
       <link>http://www.geekpark.net/news/368789</link>
       <description>对标 Claude Cowork：DeepSeek Harness 公测，同步开放插件生态
@@ -66,6 +89,38 @@ DeepSeek 正式开源 DeepSeek‑V4‑Pro‑0813 模型，同步推出基于 Cor
       <pubDate>Fri, 14 Aug 2026 08:52:24 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113434</guid>
       <source url="https://sspai.com/post/113434">少数派</source>
+    </item>
+    <item>
+      <title>刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了</title>
+      <link>https://www.qbitai.com/2026/08/473038.html</link>
+      <description>顺手拿下最强开源安全模型</description>
+      <pubDate>Fri, 14 Aug 2026 08:47:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473038.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473038.html">量子位</source>
+    </item>
+    <item>
+      <title>Claude AI 失败 650 次……然后打破了人类记录</title>
+      <link>https://www.youtube.com/watch?v=QnGNF8k_uoc</link>
+      <description>❤️ Check out Weights &amp; Biases and sign up for a free demo here: https://wandb.me/papers
+
+📝 The paper is available here:
+https://www.anthropic.com/research/riemann-zeta
+
+Source:
+https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/
+
+🙏 We would like to thank </description>
+      <pubDate>Fri, 14 Aug 2026 08:42:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=QnGNF8k_uoc</guid>
+      <source url="https://www.youtube.com/watch?v=QnGNF8k_uoc">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端</title>
+      <link>https://www.qbitai.com/2026/08/473144.html</link>
+      <description></description>
+      <pubDate>Fri, 14 Aug 2026 08:36:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473144.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473144.html">量子位</source>
     </item>
     <item>
       <title>算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」</title>
@@ -144,51 +199,6 @@ Abstract: Language models are increasingly deployed as co-scientists, yet their 
       <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.12345</guid>
       <source url="https://arxiv.org/abs/2608.12345">ArXiv AI</source>
-    </item>
-    <item>
-      <title>立场：联盟社区正在无意中构建审查工具包</title>
-      <link>https://arxiv.org/abs/2608.12346</link>
-      <description>arXiv:2608.12346v1 Announce Type: new 
-Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techni</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12346</guid>
-      <source url="https://arxiv.org/abs/2608.12346">ArXiv AI</source>
-    </item>
-    <item>
-      <title>协议并不一致：人类和法学硕士道德判断中不同的道德基础</title>
-      <link>https://arxiv.org/abs/2608.12368</link>
-      <description>arXiv:2608.12368v1 Announce Type: new 
-Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same j</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12368</guid>
-      <source url="https://arxiv.org/abs/2608.12368">ArXiv AI</source>
-    </item>
-    <item>
-      <title>移动边缘计算中流处理的 LLM 辅助合同网络协商的多代理调度</title>
-      <link>https://arxiv.org/abs/2608.12371</link>
-      <description>arXiv:2608.12371v1 Announce Type: new 
-Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12371</guid>
-      <source url="https://arxiv.org/abs/2608.12371">ArXiv AI</source>
-    </item>
-    <item>
-      <title>LoKiFormer：具有解耦知识记忆的局部感知注意力，用于高效的大型语言模型预训练</title>
-      <link>https://arxiv.org/abs/2608.12419</link>
-      <description>arXiv:2608.12419v1 Announce Type: new 
-Abstract: Large language models (LLMs) have achieved remarkable breakthroughs across various applications. However, their architectures remain inefficient in pretraining due to two main limitations: (i) self-attention lacks an explicit inductive bias for locali</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12419</guid>
-      <source url="https://arxiv.org/abs/2608.12419">ArXiv ML</source>
-    </item>
-    <item>
-      <title>哪个地点、何时：喜马拉雅冰川湖溃决、山体滑坡和冰洪水的免费卫星数据测试</title>
-      <link>https://arxiv.org/abs/2608.12422</link>
-      <description>arXiv:2608.12422v1 Announce Type: new 
-Abstract: Two free satellite signals carry real information about glacial-lake outburst risk in the Nepal Himalaya: radar interferometry sees a moraine dam slowly sagging, and satellite weather marks the weeks when a primed lake is under stress. A companion fea</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12422</guid>
-      <source url="https://arxiv.org/abs/2608.12422">ArXiv ML</source>
     </item>
   </channel>
 </rss>
