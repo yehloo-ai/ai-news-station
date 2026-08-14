@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 05:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:27:38 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>DeepSeek Harness实测：一夜5万星，特工界的Android来了</title>
@@ -58,6 +58,14 @@ DeepSeek 正式开源 DeepSeek‑V4‑Pro‑0813 模型，同步推出基于 Cor
       <pubDate>Fri, 14 Aug 2026 08:52:24 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113434</guid>
       <source url="https://sspai.com/post/113434">少数派</source>
+    </item>
+    <item>
+      <title>首发 | 澎湃OS 4 体验：小米第一个 AIOS，用起来怎么样？</title>
+      <link>https://www.ifanr.com/1675208?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>只有小米的 AI 才能成就 AI 的小米。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 14 Aug 2026 06:00:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675208?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675208?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员</title>
@@ -183,15 +191,6 @@ Abstract: When a salient surface cue competes with an implicit feasibility const
       <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.12321</guid>
       <source url="https://arxiv.org/abs/2608.12321">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>是什么促使法学硕士自我反思？武装冲突预测中不确定性路由的受控消除</title>
-      <link>https://arxiv.org/abs/2608.12322</link>
-      <description>arXiv:2608.12322v1 Announce Type: new 
-Abstract: Self-reflection is widely assumed to improve LLM reasoning, yet which component drives the gain remains poorly understood. We present a controlled six-condition ablation isolating four components of LLM self-reflection: evidence exposure, diagnostic s</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12322</guid>
-      <source url="https://arxiv.org/abs/2608.12322">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
