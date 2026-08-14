@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 17:09:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:04:32 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>这家靠全景起步的公司，正在逐步让用户「忘掉相机」</title>
@@ -41,6 +41,16 @@
       <pubDate>Fri, 14 Aug 2026 17:50:02 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113459</guid>
       <source url="https://sspai.com/post/113459">少数派</source>
+    </item>
+    <item>
+      <title>预览超快模式：GPT‑5.6 Sol 速度高达 14 倍</title>
+      <link>https://www.youtube.com/watch?v=EDWbX_-RYws</link>
+      <description>Today we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and generates up to 750 output tokens per second.
+
+OpenAI technical staff are already seeing what that speed changes. One securit</description>
+      <pubDate>Fri, 14 Aug 2026 17:19:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=EDWbX_-RYws</guid>
+      <source url="https://www.youtube.com/watch?v=EDWbX_-RYws">OpenAI</source>
     </item>
     <item>
       <title>刚刚，Qwen3.8-27B 开源了！家用显卡也能跑</title>
@@ -159,7 +169,7 @@ DeepSeek 正式开源 DeepSeek‑V4‑Pro‑0813 模型，同步推出基于 Cor
       <source url="https://www.qbitai.com/2026/08/473038.html">量子位</source>
     </item>
     <item>
-      <title>Claude AI 失败了 650 次……然后打破了人类记录</title>
+      <title>Claude AI 失败 650 次……然后打破了人类记录</title>
       <link>https://www.youtube.com/watch?v=QnGNF8k_uoc</link>
       <description>❤️ Check out Weights &amp; Biases and sign up for a free demo here: https://wandb.me/papers
 
@@ -189,16 +199,6 @@ https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-
       <pubDate>Fri, 14 Aug 2026 07:29:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/472722.html</guid>
       <source url="https://www.qbitai.com/2026/08/472722.html">量子位</source>
-    </item>
-    <item>
-      <title>走进板球最聪明的幕后 |拉贾斯坦皇家队 |聊天GPT @rajasthanroyals</title>
-      <link>https://www.youtube.com/watch?v=0XPk_MAwCW4</link>
-      <description>What gives one of cricket’s smartest teams its edge before the first ball is bowled?
-
-Go behind the scenes with Rajasthan Royals as Kumar Sangakkara and the franchise’s analytics and technology teams reveal how ChatGPT and OpenAI tools support auction strategy, player analysis, match preparation, an</description>
-      <pubDate>Fri, 14 Aug 2026 06:30:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=0XPk_MAwCW4</guid>
-      <source url="https://www.youtube.com/watch?v=0XPk_MAwCW4">OpenAI</source>
     </item>
   </channel>
 </rss>
