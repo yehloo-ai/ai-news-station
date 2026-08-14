@@ -5,8 +5,53 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 23:57:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 02:41:47 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元</title>
+      <link>http://www.geekpark.net/news/368789</link>
+      <description>对标 Claude Cowork：DeepSeek Harness 公测，同步开放插件生态
+8 月 13 日消息，DeepSeek-V4-Pro-0813 正式开源，同时还推出了其开源（MIT 协议）的代码智能体框架 Harness 的 v0.1 开发者预览版（基于 Cordis），并同步开放了配套的插件生态系统。相关 GitHub 仓库也已公开。
+
+DeepSeek 正式开源 DeepSeek‑V4‑Pro‑0813 模型，同步推出基于 Cordis、采用 MIT 协议的代码智能体框架 Harness v0.1 开发者预览版，并开放配套插件生态，GitHub 仓库现已公开，开发者可通过 np</description>
+      <pubDate>Fri, 14 Aug 2026 08:52:35 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368789</guid>
+      <source url="http://www.geekpark.net/news/368789">极客公园</source>
+    </item>
+    <item>
+      <title>派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态</title>
+      <link>https://sspai.com/post/113434</link>
+      <description>阿里千问开放平台上线菜鸟智能体，Brave 和  Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。查看全文</description>
+      <pubDate>Fri, 14 Aug 2026 08:52:24 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113434</guid>
+      <source url="https://sspai.com/post/113434">少数派</source>
+    </item>
+    <item>
+      <title>爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员</title>
+      <link>https://www.ifanr.com/1675196?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>狂热可能正在退去，即便强如谷歌，也到了给盲目追求前沿的虚荣心画句号的时候。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 14 Aug 2026 02:22:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675196?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675196?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>DeepSeek V4 Flash 之后，大模型开始卷「智效比」了</title>
+      <link>https://www.ifanr.com/1675156?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>Agent 时代，怎么挑选「高智效」模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 14 Aug 2026 02:14:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675156?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675156?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>早报｜曝iPhone全线涨价100美元/ChatGPT开始拥有你的电脑历史/长鑫科技市值超过腾讯</title>
+      <link>https://www.ifanr.com/1675193?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· Anthropic 投资者押注秋季 IPO，预期估值或超过 2 万亿美元
+· 比亚迪辅助驾驶车型保有量超过 352 万辆
+· 张雪机车获红杉中国独家投资，月交付量破万台#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 14 Aug 2026 00:30:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675193?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675193?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>ChatGPT 中的计算机历史记录</title>
       <link>https://www.youtube.com/watch?v=W-HhMUe9hOg</link>
@@ -155,46 +200,6 @@ ChatGPT Work connects approved financial data from Google Drive and NetSuite, co
       <pubDate>Thu, 13 Aug 2026 11:53:02 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/472060.html</guid>
       <source url="https://www.qbitai.com/2026/08/472060.html">量子位</source>
-    </item>
-    <item>
-      <title>Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表</title>
-      <link>https://www.qbitai.com/2026/08/472016.html</link>
-      <description>好数学家不挑AI模型</description>
-      <pubDate>Thu, 13 Aug 2026 11:29:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/472016.html</guid>
-      <source url="https://www.qbitai.com/2026/08/472016.html">量子位</source>
-    </item>
-    <item>
-      <title>6 天时间丈量独库公路：我的平安骑行指南</title>
-      <link>https://sspai.com/post/112873</link>
-      <description>如果你也想骑一次独库，希望这份来自普通骑行爱好者的实战记录，能让你出发前少踩一点坑。查看全文</description>
-      <pubDate>Thu, 13 Aug 2026 11:18:09 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112873</guid>
-      <source url="https://sspai.com/post/112873">少数派</source>
-    </item>
-    <item>
-      <title>中国人能飞！杭州发布全球首款站姿载人飞行器</title>
-      <link>https://www.qbitai.com/2026/08/471893.html</link>
-      <description>让一部分人先飞起来</description>
-      <pubDate>Thu, 13 Aug 2026 10:20:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/471893.html</guid>
-      <source url="https://www.qbitai.com/2026/08/471893.html">量子位</source>
-    </item>
-    <item>
-      <title>科大讯飞发布企业服务全系列产品 覆盖七大核心场景</title>
-      <link>https://www.qbitai.com/2026/08/471884.html</link>
-      <description></description>
-      <pubDate>Thu, 13 Aug 2026 10:01:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/471884.html</guid>
-      <source url="https://www.qbitai.com/2026/08/471884.html">量子位</source>
-    </item>
-    <item>
-      <title>刚刚！Ilya首个模型曝光了</title>
-      <link>https://www.qbitai.com/2026/08/471701.html</link>
-      <description>SSI第一剑，劈向持续学习</description>
-      <pubDate>Thu, 13 Aug 2026 08:36:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/471701.html</guid>
-      <source url="https://www.qbitai.com/2026/08/471701.html">量子位</source>
     </item>
   </channel>
 </rss>
