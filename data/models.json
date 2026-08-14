@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-08-14",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-08-14",
+      "company": "小红书",
+      "model": "dots.tts",
+      "type": "语音",
+      "specs": [
+        "20亿参数",
+        "开源"
+      ],
+      "highlight": "小红书 dots 团队开源 20 亿参数全连续端到端自回归语音合成模型 dots.tts，在",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496062&idx=1&sn=d4c48926c5d7607f129dfea03699a6c0",
+      "sourceName": "公众号：小红书技术（dots.llm）",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-08-14",
+      "company": "MiniMax",
+      "model": "MiniMax Music 3.0",
+      "type": "语音",
+      "specs": [
+        "开源"
+      ],
+      "highlight": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性",
+      "sourceUrl": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+      "sourceName": "MiniMax：Blog（网页）",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-08-13",
       "company": "Microsoft",
