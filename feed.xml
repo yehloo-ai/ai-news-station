@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 16:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 17:09:21 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>这家靠全景起步的公司，正在逐步让用户「忘掉相机」</title>
@@ -43,12 +43,28 @@
       <source url="https://sspai.com/post/113459">少数派</source>
     </item>
     <item>
+      <title>刚刚，Qwen3.8-27B 开源了！家用显卡也能跑</title>
+      <link>https://www.qbitai.com/2026/08/473379.html</link>
+      <description>所有人都可免费下载部署及商用。</description>
+      <pubDate>Fri, 14 Aug 2026 15:41:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473379.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473379.html">量子位</source>
+    </item>
+    <item>
       <title>你初高中时的书单里，总有本「东野圭吾」吧？</title>
       <link>https://sspai.com/post/113416</link>
       <description>纪念并且感谢他为我们留下的推理世界。查看全文</description>
       <pubDate>Fri, 14 Aug 2026 15:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113416</guid>
       <source url="https://sspai.com/post/113416">少数派</source>
+    </item>
+    <item>
+      <title>7亿年薪留不住！余家辉离职Meta创业</title>
+      <link>https://www.qbitai.com/2026/08/473261.html</link>
+      <description>真就只待了一年</description>
+      <pubDate>Fri, 14 Aug 2026 14:59:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473261.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473261.html">量子位</source>
     </item>
     <item>
       <title>谷歌开始肢解DeepMind，数个团队被划归总部</title>
@@ -143,7 +159,7 @@ DeepSeek 正式开源 DeepSeek‑V4‑Pro‑0813 模型，同步推出基于 Cor
       <source url="https://www.qbitai.com/2026/08/473038.html">量子位</source>
     </item>
     <item>
-      <title>Claude AI 失败 650 次……然后打破了人类记录</title>
+      <title>Claude AI 失败了 650 次……然后打破了人类记录</title>
       <link>https://www.youtube.com/watch?v=QnGNF8k_uoc</link>
       <description>❤️ Check out Weights &amp; Biases and sign up for a free demo here: https://wandb.me/papers
 
@@ -183,22 +199,6 @@ Go behind the scenes with Rajasthan Royals as Kumar Sangakkara and the franchise
       <pubDate>Fri, 14 Aug 2026 06:30:28 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=0XPk_MAwCW4</guid>
       <source url="https://www.youtube.com/watch?v=0XPk_MAwCW4">OpenAI</source>
-    </item>
-    <item>
-      <title>德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集</title>
-      <link>https://www.qbitai.com/2026/08/472718.html</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 06:18:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/472718.html</guid>
-      <source url="https://www.qbitai.com/2026/08/472718.html">量子位</source>
-    </item>
-    <item>
-      <title>首发 | 澎湃OS 4 体验：小米第一个 AIOS，用起来怎么样？</title>
-      <link>https://www.ifanr.com/1675208?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>只有小米的 AI 才能成就 AI 的小米。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 14 Aug 2026 06:00:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675208?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675208?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
