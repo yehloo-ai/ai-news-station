@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 13:39:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:07:50 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>这家靠全景起步的公司，正在逐步让用户「忘掉相机」</title>
@@ -51,7 +51,23 @@
       <source url="https://sspai.com/post/113416">少数派</source>
     </item>
     <item>
-      <title>DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了</title>
+      <title>谷歌开始肢解DeepMind，数个团队被划归总部</title>
+      <link>https://www.qbitai.com/2026/08/473153.html</link>
+      <description>布林亲自下场督战</description>
+      <pubDate>Fri, 14 Aug 2026 14:51:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473153.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473153.html">量子位</source>
+    </item>
+    <item>
+      <title>23.98 万元起，大五座魏牌 V8X 上市，并非 V9X 的减法</title>
+      <link>https://www.ifanr.com/1675246?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>其实是少了一个座位的 V9X。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 14 Aug 2026 13:55:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675246?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675246?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>DeepSeek Harness实测：一夜5万星，特工界的Android来了</title>
       <link>http://www.geekpark.net/news/368809</link>
       <description>Agent 行业需要一个 Android。
 
@@ -127,7 +143,7 @@ DeepSeek 正式开源 DeepSeek‑V4‑Pro‑0813 模型，同步推出基于 Cor
       <source url="https://www.qbitai.com/2026/08/473038.html">量子位</source>
     </item>
     <item>
-      <title>Claude AI Failed 650 Times…Then Beat The Human Record</title>
+      <title>Claude AI 失败了 650 次……然后打破了人类记录</title>
       <link>https://www.youtube.com/watch?v=QnGNF8k_uoc</link>
       <description>❤️ Check out Weights &amp; Biases and sign up for a free demo here: https://wandb.me/papers
 
@@ -159,7 +175,7 @@ https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-
       <source url="https://www.qbitai.com/2026/08/472722.html">量子位</source>
     </item>
     <item>
-      <title>Inside Cricket’s Smartest Backroom | Rajasthan Royals | ChatGPT @rajasthanroyals</title>
+      <title>走进板球最聪明的幕后 |拉贾斯坦皇家队 |聊天GPT @rajasthanroyals</title>
       <link>https://www.youtube.com/watch?v=0XPk_MAwCW4</link>
       <description>What gives one of cricket’s smartest teams its edge before the first ball is bowled?
 
@@ -183,22 +199,6 @@ Go behind the scenes with Rajasthan Royals as Kumar Sangakkara and the franchise
       <pubDate>Fri, 14 Aug 2026 06:00:53 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1675208?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1675208?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员</title>
-      <link>https://www.ifanr.com/1675196?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>狂热可能正在退去，即便强如谷歌，也到了给盲目追求前沿的虚荣心画句号的时候。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 14 Aug 2026 02:22:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675196?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675196?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>DeepSeek V4 Flash 之后，大模型开始卷「智效比」了</title>
-      <link>https://www.ifanr.com/1675156?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>Agent 时代，怎么挑选「高智效」模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 14 Aug 2026 02:14:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675156?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675156?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
