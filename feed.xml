@@ -5,8 +5,41 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 02:41:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 05:01:00 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DeepSeek Harness实测：一夜5万星，特工界的Android来了</title>
+      <link>http://www.geekpark.net/news/368809</link>
+      <description>Agent 行业需要一个 Android。
+
+作者｜张勇毅
+编辑｜靖宇
+
+北京时间 8 月 13 日晚上八点半，DeepSeek 正式公布了它成立以来的第一个 Agent 产品，之前预热很久，大家期待值很高的 Deepseek Harness。
+截至发稿，它的 GitHub 仓库已经涨到超过 5 万个 star&amp;mdash;&amp;mdash; 而仓库公开刚刚过了 12 个小时。
+
+Deepseek Harness GitHub 主页截止发稿时已突破 5 万 star｜图片来源：GitHub
+DeepSeek 官方给它的定义其实和别家也差不多：模型加上 Harness，才等于 Agent。模型是脑子</description>
+      <pubDate>Fri, 14 Aug 2026 12:17:18 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368809</guid>
+      <source url="http://www.geekpark.net/news/368809">极客公园</source>
+    </item>
+    <item>
+      <title>声擎×少数派｜「角落新声」征文活动获奖结果公布</title>
+      <link>https://sspai.com/post/111709</link>
+      <description>那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文</description>
+      <pubDate>Fri, 14 Aug 2026 11:44:03 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/111709</guid>
+      <source url="https://sspai.com/post/111709">少数派</source>
+    </item>
+    <item>
+      <title>App+1 | 把图标收进格子，DeskBox 让桌面整洁有序</title>
+      <link>https://sspai.com/post/112279</link>
+      <description>DeskBox 让 Windows 桌面上散落的文件、待办和临时信息，都有一个顺手的位置。查看全文</description>
+      <pubDate>Fri, 14 Aug 2026 10:54:21 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112279</guid>
+      <source url="https://sspai.com/post/112279">少数派</source>
+    </item>
     <item>
       <title>DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元</title>
       <link>http://www.geekpark.net/news/368789</link>
@@ -53,153 +86,112 @@ DeepSeek 正式开源 DeepSeek‑V4‑Pro‑0813 模型，同步推出基于 Cor
       <source url="https://www.ifanr.com/1675193?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>ChatGPT 中的计算机历史记录</title>
-      <link>https://www.youtube.com/watch?v=W-HhMUe9hOg</link>
-      <description>Codex &amp; ChatGPT can now understand the context around what you’re working on.
-
-When you opt in to Computer History, it can help you pick up where you left off, get back to unfinished projects, and see suggested skills or scheduled tasks based on the work you do regularly.
-
-Available in the ChatGPT d</description>
-      <pubDate>Thu, 13 Aug 2026 20:34:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=W-HhMUe9hOg</guid>
-      <source url="https://www.youtube.com/watch?v=W-HhMUe9hOg">OpenAI</source>
+      <title>立场：推理是一个可学习的基于规则的过程</title>
+      <link>https://arxiv.org/abs/2608.12325</link>
+      <description>arXiv:2608.12325v1 Announce Type: new 
+Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and </description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12325</guid>
+      <source url="https://arxiv.org/abs/2608.12325">ArXiv AI</source>
     </item>
     <item>
-      <title>不用改签名，给 Mac 微信聊天记录「搬个家」</title>
-      <link>https://sspai.com/post/113225</link>
-      <description>对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文</description>
-      <pubDate>Thu, 13 Aug 2026 17:30:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113225</guid>
-      <source url="https://sspai.com/post/113225">少数派</source>
+      <title>评估法学硕士作为联合科学家的研究诚信的诊断基础</title>
+      <link>https://arxiv.org/abs/2608.12345</link>
+      <description>arXiv:2608.12345v1 Announce Type: new 
+Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action r</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12345</guid>
+      <source url="https://arxiv.org/abs/2608.12345">ArXiv AI</source>
     </item>
     <item>
-      <title>预览超快模式：GPT‑5.6 Sol 速度高达 14 倍</title>
-      <link>https://www.youtube.com/watch?v=WCwT4gWpHmI</link>
-      <description>“There’s an old adage that performance can be a feature because when something becomes fast enough, it changes behavior.”
-
-Today we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and ge</description>
-      <pubDate>Thu, 13 Aug 2026 17:12:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=WCwT4gWpHmI</guid>
-      <source url="https://www.youtube.com/watch?v=WCwT4gWpHmI">OpenAI</source>
+      <title>立场：联盟社区正在无意中构建审查工具包</title>
+      <link>https://arxiv.org/abs/2608.12346</link>
+      <description>arXiv:2608.12346v1 Announce Type: new 
+Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techni</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12346</guid>
+      <source url="https://arxiv.org/abs/2608.12346">ArXiv AI</source>
     </item>
     <item>
-      <title>实测正式版 DeepSeek V4 Pro，补齐 Agent 能力｜AI 上新</title>
-      <link>http://www.geekpark.net/news/368777</link>
-      <description>作者｜桦林舞王
-编辑｜靖宇
-&amp;nbsp;
-没有预告，没有倒计时，甚至连更新日志都没来得及写好。DeepSeek V4 Pro 的正式版，就这么悄悄的来了。
-8 月 13 日凌晨，DeepSeek 官网悄悄刷新了 API 文档。模型名还是那个 deepseek-v4-pro，但 fingerprint 已经变成了 fp_v4pro_20260812。打开社区一看，消息已经炸开&amp;mdash;&amp;mdash; V4 Pro 正式版，来了。
-从 4 月 24 日预览版上线算起，整整 111 天。
-这期间 Kimi K3 高调发布抢走了开源头条，V4 Flash 正式版先行一步在 7 月 31 日上线，A</description>
-      <pubDate>Thu, 13 Aug 2026 16:55:49 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368777</guid>
-      <source url="http://www.geekpark.net/news/368777">极客公园</source>
+      <title>协议并不一致：人类和法学硕士道德判断中不同的道德基础</title>
+      <link>https://arxiv.org/abs/2608.12368</link>
+      <description>arXiv:2608.12368v1 Announce Type: new 
+Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same j</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12368</guid>
+      <source url="https://arxiv.org/abs/2608.12368">ArXiv AI</source>
     </item>
     <item>
-      <title>深度体验DeepSeek Harness，我原谅它涨价了</title>
-      <link>https://www.qbitai.com/2026/08/472208.html</link>
-      <description>欢迎，为后人种点树</description>
-      <pubDate>Thu, 13 Aug 2026 16:03:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/472208.html</guid>
-      <source url="https://www.qbitai.com/2026/08/472208.html">量子位</source>
+      <title>移动边缘计算中流处理的 LLM 辅助合同网络协商多代理调度</title>
+      <link>https://arxiv.org/abs/2608.12371</link>
+      <description>arXiv:2608.12371v1 Announce Type: new 
+Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12371</guid>
+      <source url="https://arxiv.org/abs/2608.12371">ArXiv AI</source>
     </item>
     <item>
-      <title>从原理出发，高效搞定夏日营养冷食</title>
-      <link>https://sspai.com/prime/story/summer-cold-meal-guide</link>
-      <description>不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。</description>
-      <pubDate>Thu, 13 Aug 2026 16:01:56 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/prime/story/summer-cold-meal-guide</guid>
-      <source url="https://sspai.com/prime/story/summer-cold-meal-guide">少数派</source>
+      <title>LoKiFormer：具有解耦知识记忆的局部感知注意力，用于高效的大型语言模型预训练</title>
+      <link>https://arxiv.org/abs/2608.12419</link>
+      <description>arXiv:2608.12419v1 Announce Type: new 
+Abstract: Large language models (LLMs) have achieved remarkable breakthroughs across various applications. However, their architectures remain inefficient in pretraining due to two main limitations: (i) self-attention lacks an explicit inductive bias for locali</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12419</guid>
+      <source url="https://arxiv.org/abs/2608.12419">ArXiv ML</source>
     </item>
     <item>
-      <title>TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验</title>
-      <link>https://sspai.com/post/113338</link>
-      <description>SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。查看全文</description>
-      <pubDate>Thu, 13 Aug 2026 15:01:08 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113338</guid>
-      <source url="https://sspai.com/post/113338">少数派</source>
+      <title>哪个地点、何时：喜马拉雅冰川湖溃决、山体滑坡和冰洪水的免费卫星数据测试</title>
+      <link>https://arxiv.org/abs/2608.12422</link>
+      <description>arXiv:2608.12422v1 Announce Type: new 
+Abstract: Two free satellite signals carry real information about glacial-lake outburst risk in the Nepal Himalaya: radar interferometry sees a moraine dam slowly sagging, and satellite weather marks the weeks when a primed lake is under stress. A companion fea</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12422</guid>
+      <source url="https://arxiv.org/abs/2608.12422">ArXiv ML</source>
     </item>
     <item>
-      <title>「美国豆包手机」全系涨价，新东西全留给了 Gemini</title>
-      <link>http://www.geekpark.net/news/368766</link>
-      <description>Pixel 11 不是一台想赢的手机，它是 Gemini 的身体。
-
-作者｜张勇毅
-编辑｜靖宇
-
-纽约时间 8 月 12 日下午，谷歌在布鲁克林开完了今年的 Made by Google 发布会。
-Pixel 11 全系四款手机、Pixel Watch 5，加上防丢器 Pixel Tag，一口气全发了，当天就开预购。
-热闹是足够热闹。但两个小时看下来，最能概括这场发布会的，是 Pixel 11 背面新增的那一小圈灯。
-
-本次发布的全系 Pixel 新品｜图片来源：Google
-全系背面都多了这圈环形 LED，在 Pro 机型上，它顶替的正是上一代温度传感器的位置。官方名字叫 HiLight。
-</description>
-      <pubDate>Thu, 13 Aug 2026 14:18:04 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368766</guid>
-      <source url="http://www.geekpark.net/news/368766">极客公园</source>
+      <title>三月：使用内容路由状态锚扩展循环内存</title>
+      <link>https://arxiv.org/abs/2608.12435</link>
+      <description>arXiv:2608.12435v1 Announce Type: new 
+Abstract: Transformers owe much of their strong long-context retrieval capability to a token-level memory that grows with context length. This flexibility, however, incurs a quadratic computation complexity during training and a key--value cache that grows line</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12435</guid>
+      <source url="https://arxiv.org/abs/2608.12435">ArXiv ML</source>
     </item>
     <item>
-      <title>9.99 万元起，EV 版 9 分钟充到 97%，秦 MAX 正式上市</title>
-      <link>https://www.ifanr.com/1675157?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>秦 MAX，将以最强形态出击。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 13 Aug 2026 13:35:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675157?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675157?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>基于多AUV自组织网络的目标跟踪：一种价值梯度引导多智能体扩散强化学习方法</title>
+      <link>https://arxiv.org/abs/2608.12436</link>
+      <description>arXiv:2608.12436v1 Announce Type: new 
+Abstract: Multi-AUV ad-hoc network-based target tracking requires networked autonomous underwater vehicles (AUVs) to cooperatively track maneuvering targets under constrained acoustic communication, dynamic topology, and uncertain ocean disturbances. Although m</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12436</guid>
+      <source url="https://arxiv.org/abs/2608.12436">ArXiv ML</source>
     </item>
     <item>
-      <title>通过 ChatGPT Work 获取每日 CFO 简报</title>
-      <link>https://www.youtube.com/watch?v=bl2eGejkbaU</link>
-      <description>Start the day with a clear view of the decisions that matter most.
-
-ChatGPT Work brings financial performance, close status, contract risks, and market signals into one CFO briefing. See what changed, identify emerging opportunities, and prioritize decisions across the business.
-
-When a potential ac</description>
-      <pubDate>Thu, 13 Aug 2026 13:06:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=bl2eGejkbaU</guid>
-      <source url="https://www.youtube.com/watch?v=bl2eGejkbaU">OpenAI</source>
+      <title>将生成模型与路径积分相统一</title>
+      <link>https://arxiv.org/abs/2608.12438</link>
+      <description>arXiv:2608.12438v1 Announce Type: new 
+Abstract: We formulate generative modeling as a path integral in which flow-based, diffusion-based, variational, and adversarial models arise as different evaluation principles for a single master action. Its Martin-Siggia-Rose-Janssen-de~Dominicis (MSRJD) form</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12438</guid>
+      <source url="https://arxiv.org/abs/2608.12438">ArXiv ML</source>
     </item>
     <item>
-      <title>使用 ChatGPT Work 构建自定义财务预测应用程序</title>
-      <link>https://www.youtube.com/watch?v=94Td-y5z5rk</link>
-      <description>Build an interactive financial forecast using the numbers your business already trusts.
-
-ChatGPT Work connects approved financial data from Google Drive and NetSuite, compares actuals with the latest outlook, and creates an interactive forecasting dashboard. Adjust assumptions, test scenarios, and s</description>
-      <pubDate>Thu, 13 Aug 2026 13:05:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=94Td-y5z5rk</guid>
-      <source url="https://www.youtube.com/watch?v=94Td-y5z5rk">OpenAI</source>
+      <title>法学硕士知道约束但不使用它：实用约束推理中的激活瓶颈</title>
+      <link>https://arxiv.org/abs/2608.12321</link>
+      <description>arXiv:2608.12321v1 Announce Type: new 
+Abstract: When a salient surface cue competes with an implicit feasibility constraint, LLMs often fail -- but aggregate accuracy conflates genuine constraint inference with conservative defaulting. We formalize the distinction as conditional constraint activati</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12321</guid>
+      <source url="https://arxiv.org/abs/2608.12321">ArXiv NLP</source>
     </item>
     <item>
-      <title>首发体验 | DeepSeek Harness 来了，它不想做下一个Codex</title>
-      <link>https://www.ifanr.com/1675083?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>一切皆插件#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 13 Aug 2026 12:46:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675083?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675083?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围</title>
-      <link>https://www.qbitai.com/2026/08/472059.html</link>
-      <description>首颗AI芯片已进入量产</description>
-      <pubDate>Thu, 13 Aug 2026 12:34:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/472059.html</guid>
-      <source url="https://www.qbitai.com/2026/08/472059.html">量子位</source>
-    </item>
-    <item>
-      <title>马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购</title>
-      <link>https://www.qbitai.com/2026/08/472067.html</link>
-      <description>马斯克版Workbuddy也来了</description>
-      <pubDate>Thu, 13 Aug 2026 12:04:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/472067.html</guid>
-      <source url="https://www.qbitai.com/2026/08/472067.html">量子位</source>
-    </item>
-    <item>
-      <title>具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施</title>
-      <link>https://www.qbitai.com/2026/08/472060.html</link>
-      <description>重新定义物理AI数据基础设施</description>
-      <pubDate>Thu, 13 Aug 2026 11:53:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/472060.html</guid>
-      <source url="https://www.qbitai.com/2026/08/472060.html">量子位</source>
+      <title>是什么促使法学硕士自我反思？武装冲突预测中不确定性路由的受控消除</title>
+      <link>https://arxiv.org/abs/2608.12322</link>
+      <description>arXiv:2608.12322v1 Announce Type: new 
+Abstract: Self-reflection is widely assumed to improve LLM reasoning, yet which component drives the gain remains poorly understood. We present a controlled six-condition ablation isolating four components of LLM self-reflection: evidence exposure, diagnostic s</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12322</guid>
+      <source url="https://arxiv.org/abs/2608.12322">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
