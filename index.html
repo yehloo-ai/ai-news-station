@@ -620,6 +620,14 @@
       .tool-grid { grid-template-columns: 1fr; }
       /* iOS Safari 对 <16px 的输入框会自动放大页面，这里放大字号规避 */
       .tool-search input { font-size: 16px; }
+      .tool-card,
+      .job-card,
+      .jobs-search-link,
+      .mob-more-opt,
+      .dnp-tag {
+        -webkit-tap-highlight-color: rgba(208,25,34,0.12);
+        touch-action: manipulation;
+      }
     }
     .pill {
       font-size: 11px;
@@ -651,6 +659,8 @@
       min-height: 90px;
       align-items: flex-start;
       box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+      -webkit-tap-highlight-color: rgba(208,25,34,0.12);
+      touch-action: manipulation;
     }
     /* 卡片正文纵向撑满，让来源在顶、摘要/占位在底，矮卡不塌陷 */
     .card-body { display: flex; flex-direction: column; }
@@ -3411,7 +3421,7 @@ function renderFeaturedTimeline(items) {
       const _tags = extractTags(item);
       const _tagsHtml = _tags.length ? `<div class="card-tags">${_tags.map(t => `<span class="card-tag">${esc(t)}</span>`).join('')}</div>` : '';
       const videoEl = videoInfo ? `
-        <div class="feat-video-wrap" onclick="event.stopPropagation();window.open('${esc(videoInfo.videoUrl)}','_blank')">
+        <div class="feat-video-wrap">
           ${videoInfo.thumb
             ? `<img src="${esc(videoInfo.thumb)}" onerror="this.closest('.feat-video-wrap').remove()" alt="" loading="lazy">`
             : `<div style="height:90px;background:var(--border);display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:12px">视频</div>`
@@ -3427,7 +3437,7 @@ function renderFeaturedTimeline(items) {
             <span class="dnp-time-label">${timeLabel}</span>
             <span class="dnp-time-dot"></span>
           </div>
-          <a class="card feat-tl-card" href="${esc(item.link || '#')}" target="_blank" rel="noopener">
+          <a class="card feat-tl-card" href="${esc(videoInfo?.videoUrl || item.link || '#')}" target="_blank" rel="noopener">
             <div class="card-body">
               <div class="card-source">
                 <span class="src-dot" style="background:${item._feed?.color||'#8b949e'}"></span>
@@ -3824,7 +3834,7 @@ function featCardHtml(item) {
   const videoInfo = getVideoInfo(item);
   const img = !videoInfo ? getImg(item) : null;
   const videoEl = videoInfo ? `
-    <div class="feat-video-wrap" onclick="event.stopPropagation();window.open('${esc(videoInfo.videoUrl)}','_blank')">
+    <div class="feat-video-wrap">
       ${videoInfo.thumb
         ? `<img src="${esc(videoInfo.thumb)}" onerror="this.closest('.feat-video-wrap').remove()" alt="" loading="lazy">`
         : `<div style="height:90px;background:var(--border);display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:12px">视频</div>`
@@ -3837,7 +3847,7 @@ function featCardHtml(item) {
   const tags = extractTags(item);
   const tagsHtml = tags.length ? `<div class="card-tags">${tags.map(t => `<span class="card-tag">${esc(t)}</span>`).join('')}</div>` : '';
   return `
-    <a class="card" href="${esc(item.link || '#')}" target="_blank" rel="noopener">
+    <a class="card" href="${esc(videoInfo?.videoUrl || item.link || '#')}" target="_blank" rel="noopener">
       <div class="card-body">
         <div class="card-source">
           <span class="src-dot" style="background:${item._feed?.color||'#8b949e'}"></span>
@@ -3865,7 +3875,7 @@ function cardHtml(item, badgeClass = '') {
   const img = !videoInfo ? getImg(item) : null;
   let thumbEl = '';
   if (videoInfo && videoInfo.thumb) {
-    thumbEl = `<div class="card-video-thumb" onclick="event.preventDefault();event.stopPropagation();window.open('${esc(videoInfo.videoUrl)}','_blank')">
+    thumbEl = `<div class="card-video-thumb">
         <img src="${esc(videoInfo.thumb)}" onerror="this.closest('.card-video-thumb').remove()" alt="" loading="lazy">
         <div class="card-video-play"><svg viewBox="0 0 24 24" fill="white"><polygon points="5,3 19,12 5,21"/></svg></div>
       </div>`;
@@ -4080,7 +4090,10 @@ function markAsRead(link) {
   readLinks.add(link);
   const trimmed = [...readLinks].slice(-500);
   try { localStorage.setItem(LS_READ_KEY, JSON.stringify(trimmed)); } catch {}
-  document.querySelectorAll(`a.card[href="${CSS.escape(link)}"]`).forEach(el => el.classList.add('is-read'));
+  const escaped = window.CSS && typeof CSS.escape === 'function'
+    ? CSS.escape(link)
+    : String(link).replace(/["\\]/g, '\\$&');
+  document.querySelectorAll(`a.card[href="${escaped}"]`).forEach(el => el.classList.add('is-read'));
 }
 
 function applyReadState() {
@@ -4093,6 +4106,29 @@ function applyReadState() {
     }
   });
 }
+
+function shouldFallbackOpenOnMobile(anchor) {
+  if (!IS_MOBILE || !anchor || anchor.target !== '_blank') return false;
+  const href = anchor.getAttribute('href') || '';
+  return !!href && href !== '#' && !href.startsWith('javascript:') && !href.startsWith('mailto:') && !href.startsWith('tel:');
+}
+
+function openMobileLink(anchor) {
+  const opened = window.open(anchor.href, '_blank');
+  if (opened) {
+    try { opened.opener = null; } catch {}
+  } else {
+    window.location.href = anchor.href;
+  }
+}
+
+document.addEventListener('click', event => {
+  const anchor = event.target.closest?.('a[href]');
+  if (!shouldFallbackOpenOnMobile(anchor) || event.defaultPrevented) return;
+  event.preventDefault();
+  markAsRead(anchor.getAttribute('href'));
+  openMobileLink(anchor);
+});
 
 const _origRenderTab = renderTab;
 renderTab = function(...args) {
