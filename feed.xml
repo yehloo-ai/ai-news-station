@@ -5,8 +5,21 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 08:44:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 09:40:04 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>3 个月烧掉 105 亿，腾讯急了</title>
+      <link>http://www.geekpark.net/news/368852</link>
+      <description>头图来源：视觉中国
+&amp;nbsp;
+腾讯的 AI 故事，正在进入一个更昂贵的阶段。
+8 月 12 日，腾讯发布 2026 年第二季度财报。本季度营收 2047.9 亿元，同比增长 11%；Non-IFRS 经营利润 756.4 亿元，同比增长 9%；Non-IFRS 归母净利润 684 亿元，同比增长 9%。
+单看数字，这仍然是一份稳健的财报。但把 AI 拆出来之后，腾讯的增长曲线呈现出了明显的分叉：若剔除混元、元宝、CodeBuddy、WorkBuddy、小微等新 AI 产品的收入、成本与开支，腾讯本季度 Non-IFRS 经营利润为 861 亿元，同比增长 19%。
+这意味着，腾讯原有业务的</description>
+      <pubDate>Sat, 15 Aug 2026 16:46:20 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368852</guid>
+      <source url="http://www.geekpark.net/news/368852">极客公园</source>
+    </item>
     <item>
       <title>有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布</title>
       <link>https://sspai.com/post/111974</link>
@@ -191,14 +204,6 @@ OpenAI technical staff are already seeing what that speed changes. One securit</
       <pubDate>Fri, 14 Aug 2026 17:19:17 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=EDWbX_-RYws</guid>
       <source url="https://www.youtube.com/watch?v=EDWbX_-RYws">OpenAI</source>
-    </item>
-    <item>
-      <title>刚刚，Qwen3.8-27B 开源了！家用显卡也能跑</title>
-      <link>https://www.qbitai.com/2026/08/473379.html</link>
-      <description>所有人都可免费下载部署及商用。</description>
-      <pubDate>Fri, 14 Aug 2026 15:41:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473379.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473379.html">量子位</source>
     </item>
   </channel>
 </rss>
