@@ -5,8 +5,21 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 05:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:58:13 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>当 AI 开始批量写 HTML，WorkBuddy 想解决「生成之后」的问题</title>
+      <link>http://www.geekpark.net/news/368851</link>
+      <description>&amp;nbsp;
+头图来源：视觉中国
+「人人都应该有一个 AI 工作台」，最近这段时间，网络上掀起了一阵搭建个人工作台的热潮。
+先是一位百万级大网红用 WorkBuddy 几句话搭出了一个专属工作台，视频发出后，抖音、小红书的评论区随即变成了「大型交作业现场」&amp;mdash;&amp;mdash; 有人搭自媒体选题看板，有人做健身打卡记录，有人给一年级孩子做暑期学习计划，有人整了短视频带货管理系统&amp;hellip;&amp;hellip;
+但热闹之下，一个共性问题也很快浮出水面：工作台搭起来容易，用起来却卡壳了。
+不少用户在晒完新鲜感之后，很快发现了同一个坑&amp;mdash;&amp;mdash; 数据只存在本地。在办公室电脑上</description>
+      <pubDate>Sat, 15 Aug 2026 14:41:47 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368851</guid>
+      <source url="http://www.geekpark.net/news/368851">极客公园</source>
+    </item>
     <item>
       <title>智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道</title>
       <link>http://www.geekpark.net/news/368849</link>
@@ -22,6 +35,14 @@ GLM-5.3 拥有更强的编程能力，在内部自建体感评测中较 GLM-5.2 
       <pubDate>Sat, 15 Aug 2026 08:52:38 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368849</guid>
       <source url="http://www.geekpark.net/news/368849">极客公园</source>
+    </item>
+    <item>
+      <title>DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了</title>
+      <link>https://www.qbitai.com/2026/08/473597.html</link>
+      <description>大家已经给DeepSeek装上了啥</description>
+      <pubDate>Sat, 15 Aug 2026 05:53:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473597.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473597.html">量子位</source>
     </item>
     <item>
       <title>对话郎咸朋：用机器人创业重做一次“百万智驾量产”</title>
@@ -185,22 +206,6 @@ DeepSeek 官方给它的定义其实和别家也差不多：模型加上 Harness
       <pubDate>Fri, 14 Aug 2026 12:17:18 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368809</guid>
       <source url="http://www.geekpark.net/news/368809">极客公园</source>
-    </item>
-    <item>
-      <title>声擎×少数派｜「角落新声」征文活动获奖结果公布</title>
-      <link>https://sspai.com/post/111709</link>
-      <description>那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文</description>
-      <pubDate>Fri, 14 Aug 2026 11:44:03 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/111709</guid>
-      <source url="https://sspai.com/post/111709">少数派</source>
-    </item>
-    <item>
-      <title>App+1 | 把图标收进格子，DeskBox 让桌面整洁有序</title>
-      <link>https://sspai.com/post/112279</link>
-      <description>DeskBox 让 Windows 桌面上散落的文件、待办和临时信息，都有一个顺手的位置。查看全文</description>
-      <pubDate>Fri, 14 Aug 2026 10:54:21 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112279</guid>
-      <source url="https://sspai.com/post/112279">少数派</source>
     </item>
   </channel>
 </rss>
