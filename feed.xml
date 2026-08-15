@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 04:45:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:39:53 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道</title>
@@ -22,6 +22,22 @@ GLM-5.3 拥有更强的编程能力，在内部自建体感评测中较 GLM-5.2 
       <pubDate>Sat, 15 Aug 2026 08:52:38 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368849</guid>
       <source url="http://www.geekpark.net/news/368849">极客公园</source>
+    </item>
+    <item>
+      <title>对话郎咸朋：用机器人创业重做一次“百万智驾量产”</title>
+      <link>https://www.qbitai.com/2026/08/473407.html</link>
+      <description>1.9万字全文实录</description>
+      <pubDate>Sat, 15 Aug 2026 04:21:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473407.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473407.html">量子位</source>
+    </item>
+    <item>
+      <title>高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！</title>
+      <link>https://www.qbitai.com/2026/08/473395.html</link>
+      <description>对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。</description>
+      <pubDate>Sat, 15 Aug 2026 04:03:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473395.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473395.html">量子位</source>
     </item>
     <item>
       <title>早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付</title>
@@ -70,7 +86,7 @@ Abstract: Agreement with human judgments is a common proxy for evaluating the al
       <source url="https://arxiv.org/abs/2608.12368">ArXiv AI</source>
     </item>
     <item>
-      <title>移动边缘计算中流处理的 LLM 辅助合同网络协商多代理调度</title>
+      <title>移动边缘计算中流处理的 LLM 辅助合同网络协商的多代理调度</title>
       <link>https://arxiv.org/abs/2608.12371</link>
       <description>arXiv:2608.12371v1 Announce Type: new 
 Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper</description>
@@ -112,16 +128,6 @@ Abstract: Stream-processing systems increasingly operate across heterogeneous mo
       <pubDate>Fri, 14 Aug 2026 17:50:02 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113459</guid>
       <source url="https://sspai.com/post/113459">少数派</source>
-    </item>
-    <item>
-      <title>预览超快模式：GPT‑5.6 Sol 速度高达 14 倍</title>
-      <link>https://www.youtube.com/watch?v=EDWbX_-RYws</link>
-      <description>Today we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and generates up to 750 output tokens per second.
-
-OpenAI technical staff are already seeing what that speed changes. One securit</description>
-      <pubDate>Fri, 14 Aug 2026 17:19:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=EDWbX_-RYws</guid>
-      <source url="https://www.youtube.com/watch?v=EDWbX_-RYws">OpenAI</source>
     </item>
     <item>
       <title>刚刚，Qwen3.8-27B 开源了！家用显卡也能跑</title>
@@ -195,14 +201,6 @@ DeepSeek 官方给它的定义其实和别家也差不多：模型加上 Harness
       <pubDate>Fri, 14 Aug 2026 10:54:21 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/112279</guid>
       <source url="https://sspai.com/post/112279">少数派</source>
-    </item>
-    <item>
-      <title>太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募</title>
-      <link>https://www.qbitai.com/2026/08/473149.html</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 10:25:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473149.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473149.html">量子位</source>
     </item>
   </channel>
 </rss>
