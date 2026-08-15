@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 07:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:44:49 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布</title>
+      <link>https://sspai.com/post/111974</link>
+      <description>Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文</description>
+      <pubDate>Sat, 15 Aug 2026 15:07:54 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/111974</guid>
+      <source url="https://sspai.com/post/111974">少数派</source>
+    </item>
     <item>
       <title>当 AI 开始批量写 HTML，WorkBuddy 想解决「生成之后」的问题</title>
       <link>http://www.geekpark.net/news/368851</link>
@@ -35,6 +43,30 @@ GLM-5.3 拥有更强的编程能力，在内部自建体感评测中较 GLM-5.2 
       <pubDate>Sat, 15 Aug 2026 08:52:38 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368849</guid>
       <source url="http://www.geekpark.net/news/368849">极客公园</source>
+    </item>
+    <item>
+      <title>至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%</title>
+      <link>https://www.qbitai.com/2026/08/473876.html</link>
+      <description>理解大模型，无需再训练一个替代网络</description>
+      <pubDate>Sat, 15 Aug 2026 06:42:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473876.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473876.html">量子位</source>
+    </item>
+    <item>
+      <title>根治AI音乐通病！这家国产音乐模型正面挑战SUNO</title>
+      <link>https://www.qbitai.com/2026/08/473866.html</link>
+      <description>音潮API限时免费开放</description>
+      <pubDate>Sat, 15 Aug 2026 06:36:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473866.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473866.html">量子位</source>
+    </item>
+    <item>
+      <title>源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude</title>
+      <link>https://www.qbitai.com/2026/08/473669.html</link>
+      <description>推理能力还能自定义</description>
+      <pubDate>Sat, 15 Aug 2026 06:05:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473669.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473669.html">量子位</source>
     </item>
     <item>
       <title>DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了</title>
@@ -107,7 +139,7 @@ Abstract: Agreement with human judgments is a common proxy for evaluating the al
       <source url="https://arxiv.org/abs/2608.12368">ArXiv AI</source>
     </item>
     <item>
-      <title>移动边缘计算中流处理的 LLM 辅助合同网络协商的多代理调度</title>
+      <title>移动边缘计算中流处理的 LLM 辅助合同网络协商多代理调度</title>
       <link>https://arxiv.org/abs/2608.12371</link>
       <description>arXiv:2608.12371v1 Announce Type: new 
 Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper</description>
@@ -167,38 +199,6 @@ OpenAI technical staff are already seeing what that speed changes. One securit</
       <pubDate>Fri, 14 Aug 2026 15:41:12 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/473379.html</guid>
       <source url="https://www.qbitai.com/2026/08/473379.html">量子位</source>
-    </item>
-    <item>
-      <title>你初高中时的书单里，总有本「东野圭吾」吧？</title>
-      <link>https://sspai.com/post/113416</link>
-      <description>纪念并且感谢他为我们留下的推理世界。查看全文</description>
-      <pubDate>Fri, 14 Aug 2026 15:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113416</guid>
-      <source url="https://sspai.com/post/113416">少数派</source>
-    </item>
-    <item>
-      <title>7亿年薪留不住！余家辉离职Meta创业</title>
-      <link>https://www.qbitai.com/2026/08/473261.html</link>
-      <description>真就只待了一年</description>
-      <pubDate>Fri, 14 Aug 2026 14:59:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473261.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473261.html">量子位</source>
-    </item>
-    <item>
-      <title>谷歌开始肢解DeepMind，数个团队被划归总部</title>
-      <link>https://www.qbitai.com/2026/08/473153.html</link>
-      <description>布林亲自下场督战</description>
-      <pubDate>Fri, 14 Aug 2026 14:51:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473153.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473153.html">量子位</source>
-    </item>
-    <item>
-      <title>23.98 万元起，大五座魏牌 V8X 上市，并非 V9X 的减法</title>
-      <link>https://www.ifanr.com/1675246?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>其实是少了一个座位的 V9X。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 14 Aug 2026 13:55:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675246?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675246?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
