@@ -110,5 +110,12 @@
     "summary": "SaaS 估值整体承压，但每个细分赛道都跑出了 AI 龙头：CrowdStrike 以 34.4x 前瞻收入领跑安全（中位数 3.9x），Cloudflare 32.6x 对 17.5x，Shopify 11.3x 对 1.4x。",
     "sourceUrl": "https://www.tomtunguz.com/a-winner-in-every-category",
     "sourceName": "Tomer Tunguz 博客（VC 分析）"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Cursor 正式被 SpaceX 收购",
+    "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+    "sourceUrl": "https://cursor.com/blog/joining-spacex",
+    "sourceName": "Cursor Blog"
   }
 ]

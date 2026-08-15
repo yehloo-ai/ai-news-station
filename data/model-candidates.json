@@ -110,5 +110,12 @@
     "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1,000 万美元的组织可免费使用。",
     "sourceUrl": "https://www.ithome.com/0/988/766.htm",
     "sourceName": "IT之家（RSS）"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+    "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+    "sourceName": "公众号：小红书技术（dots.llm）"
   }
 ]
