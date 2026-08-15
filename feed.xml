@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 06:58:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 07:43:00 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>当 AI 开始批量写 HTML，WorkBuddy 想解决「生成之后」的问题</title>
@@ -151,6 +151,16 @@ Abstract: Stream-processing systems increasingly operate across heterogeneous mo
       <source url="https://sspai.com/post/113459">少数派</source>
     </item>
     <item>
+      <title>预览超快模式：GPT‑5.6 Sol 速度高达 14 倍</title>
+      <link>https://www.youtube.com/watch?v=EDWbX_-RYws</link>
+      <description>Today we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and generates up to 750 output tokens per second.
+
+OpenAI technical staff are already seeing what that speed changes. One securit</description>
+      <pubDate>Fri, 14 Aug 2026 17:19:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=EDWbX_-RYws</guid>
+      <source url="https://www.youtube.com/watch?v=EDWbX_-RYws">OpenAI</source>
+    </item>
+    <item>
       <title>刚刚，Qwen3.8-27B 开源了！家用显卡也能跑</title>
       <link>https://www.qbitai.com/2026/08/473379.html</link>
       <description>所有人都可免费下载部署及商用。</description>
@@ -189,23 +199,6 @@ Abstract: Stream-processing systems increasingly operate across heterogeneous mo
       <pubDate>Fri, 14 Aug 2026 13:55:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1675246?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1675246?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>DeepSeek Harness实测：一夜5万星，特工界的Android来了</title>
-      <link>http://www.geekpark.net/news/368809</link>
-      <description>Agent 行业需要一个 Android。
-
-作者｜张勇毅
-编辑｜靖宇
-
-北京时间 8 月 13 日晚上八点半，DeepSeek 正式公布了它成立以来的第一个 Agent 产品，之前预热很久，大家期待值很高的 Deepseek Harness。
-截至发稿，它的 GitHub 仓库已经涨到超过 5 万个 star&amp;mdash;&amp;mdash; 而仓库公开刚刚过了 12 个小时。
-
-Deepseek Harness GitHub 主页截止发稿时已突破 5 万 star｜图片来源：GitHub
-DeepSeek 官方给它的定义其实和别家也差不多：模型加上 Harness，才等于 Agent。模型是脑子</description>
-      <pubDate>Fri, 14 Aug 2026 12:17:18 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368809</guid>
-      <source url="http://www.geekpark.net/news/368809">极客公园</source>
     </item>
   </channel>
 </rss>
