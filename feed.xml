@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 03:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 04:45:25 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道</title>
@@ -32,6 +32,51 @@ GLM-5.3 拥有更强的编程能力，在内部自建体感评测中较 GLM-5.2 
       <pubDate>Sat, 15 Aug 2026 00:40:29 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1675280?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1675280?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>立场：推理是一个可学习的基于规则的过程</title>
+      <link>https://arxiv.org/abs/2608.12325</link>
+      <description>arXiv:2608.12325v1 Announce Type: new 
+Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and </description>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12325</guid>
+      <source url="https://arxiv.org/abs/2608.12325">ArXiv AI</source>
+    </item>
+    <item>
+      <title>评估法学硕士作为联合科学家的研究诚信的诊断基础</title>
+      <link>https://arxiv.org/abs/2608.12345</link>
+      <description>arXiv:2608.12345v1 Announce Type: new 
+Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action r</description>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12345</guid>
+      <source url="https://arxiv.org/abs/2608.12345">ArXiv AI</source>
+    </item>
+    <item>
+      <title>立场：联盟社区正在无意中构建审查工具包</title>
+      <link>https://arxiv.org/abs/2608.12346</link>
+      <description>arXiv:2608.12346v1 Announce Type: new 
+Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techni</description>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12346</guid>
+      <source url="https://arxiv.org/abs/2608.12346">ArXiv AI</source>
+    </item>
+    <item>
+      <title>协议并不一致：人类和法学硕士道德判断中不同的道德基础</title>
+      <link>https://arxiv.org/abs/2608.12368</link>
+      <description>arXiv:2608.12368v1 Announce Type: new 
+Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same j</description>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12368</guid>
+      <source url="https://arxiv.org/abs/2608.12368">ArXiv AI</source>
+    </item>
+    <item>
+      <title>移动边缘计算中流处理的 LLM 辅助合同网络协商多代理调度</title>
+      <link>https://arxiv.org/abs/2608.12371</link>
+      <description>arXiv:2608.12371v1 Announce Type: new 
+Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper</description>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12371</guid>
+      <source url="https://arxiv.org/abs/2608.12371">ArXiv AI</source>
     </item>
     <item>
       <title>这家靠全景起步的公司，正在逐步让用户「忘掉相机」</title>
@@ -158,57 +203,6 @@ DeepSeek 官方给它的定义其实和别家也差不多：模型加上 Harness
       <pubDate>Fri, 14 Aug 2026 10:25:36 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/473149.html</guid>
       <source url="https://www.qbitai.com/2026/08/473149.html">量子位</source>
-    </item>
-    <item>
-      <title>实测GLM-5.3: 在神仙打架的一周杀回国模顶流，还按下了重置键</title>
-      <link>https://www.ifanr.com/1675225?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>7000 亿 VS 2.8 万亿#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 14 Aug 2026 09:44:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675225?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675225?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元</title>
-      <link>http://www.geekpark.net/news/368789</link>
-      <description>对标 Claude Cowork：DeepSeek Harness 公测，同步开放插件生态
-8 月 13 日消息，DeepSeek-V4-Pro-0813 正式开源，同时还推出了其开源（MIT 协议）的代码智能体框架 Harness 的 v0.1 开发者预览版（基于 Cordis），并同步开放了配套的插件生态系统。相关 GitHub 仓库也已公开。
-
-DeepSeek 正式开源 DeepSeek‑V4‑Pro‑0813 模型，同步推出基于 Cordis、采用 MIT 协议的代码智能体框架 Harness v0.1 开发者预览版，并开放配套插件生态，GitHub 仓库现已公开，开发者可通过 np</description>
-      <pubDate>Fri, 14 Aug 2026 08:52:35 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368789</guid>
-      <source url="http://www.geekpark.net/news/368789">极客公园</source>
-    </item>
-    <item>
-      <title>派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态</title>
-      <link>https://sspai.com/post/113434</link>
-      <description>阿里千问开放平台上线菜鸟智能体，Brave 和  Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。查看全文</description>
-      <pubDate>Fri, 14 Aug 2026 08:52:24 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113434</guid>
-      <source url="https://sspai.com/post/113434">少数派</source>
-    </item>
-    <item>
-      <title>刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了</title>
-      <link>https://www.qbitai.com/2026/08/473038.html</link>
-      <description>顺手拿下最强开源安全模型</description>
-      <pubDate>Fri, 14 Aug 2026 08:47:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473038.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473038.html">量子位</source>
-    </item>
-    <item>
-      <title>Claude AI 失败 650 次……然后打破了人类记录</title>
-      <link>https://www.youtube.com/watch?v=QnGNF8k_uoc</link>
-      <description>❤️ Check out Weights &amp; Biases and sign up for a free demo here: https://wandb.me/papers
-
-📝 The paper is available here:
-https://www.anthropic.com/research/riemann-zeta
-
-Source:
-https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/
-
-🙏 We would like to thank </description>
-      <pubDate>Fri, 14 Aug 2026 08:42:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=QnGNF8k_uoc</guid>
-      <source url="https://www.youtube.com/watch?v=QnGNF8k_uoc">Two Minute Papers</source>
     </item>
   </channel>
 </rss>
