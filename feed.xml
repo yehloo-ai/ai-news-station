@@ -5,8 +5,21 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 23:34:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 01:58:18 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭</title>
+      <link>http://www.geekpark.net/news/368854</link>
+      <description>2026 世界机器人大会展位图揭晓：8 月 19 日开幕，宇树科技、优必选等参展
+8 月 16 日消息，2026 世界机器人大会将于 8 月 19 日至 23 日在北京经济技术开发区北人亦创国际会展中心举行。近日，2026 世界机器人大会展位图全揭晓。
+
+作为大会展览的重要新增空间，智创馆面积达 2 万平方米，拥有更加开阔、通透的展示环境，将进一步提升企业参展和观众观展体验。
+宇树科技、星海图、优必选、银河通用、自变量、明略科技、维他动力、智身科技、云深处、傅利叶、越疆、仙工、中科慧灵等代表性企业，将带来机器人整机、具身智能及人形机器人的最新成果。
+北京、上海、浙江、湖北、广东、四川、吉林等地</description>
+      <pubDate>Sun, 16 Aug 2026 09:15:43 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368854</guid>
+      <source url="http://www.geekpark.net/news/368854">极客公园</source>
+    </item>
     <item>
       <title>3 个月烧掉 105 亿，腾讯急了</title>
       <link>http://www.geekpark.net/news/368852</link>
@@ -194,16 +207,6 @@ Abstract: Stream-processing systems increasingly operate across heterogeneous mo
       <pubDate>Fri, 14 Aug 2026 17:50:02 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113459</guid>
       <source url="https://sspai.com/post/113459">少数派</source>
-    </item>
-    <item>
-      <title>预览超快模式：GPT‑5.6 Sol 速度高达 14 倍</title>
-      <link>https://www.youtube.com/watch?v=EDWbX_-RYws</link>
-      <description>Today we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and generates up to 750 output tokens per second.
-
-OpenAI technical staff are already seeing what that speed changes. One securit</description>
-      <pubDate>Fri, 14 Aug 2026 17:19:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=EDWbX_-RYws</guid>
-      <source url="https://www.youtube.com/watch?v=EDWbX_-RYws">OpenAI</source>
     </item>
   </channel>
 </rss>
