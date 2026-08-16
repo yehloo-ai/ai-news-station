@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 16 Aug 2026 03:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 04:00:51 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭</title>
@@ -129,51 +129,6 @@ GLM-5.3 拥有更强的编程能力，在内部自建体感评测中较 GLM-5.2 
       <source url="https://www.ifanr.com/1675280?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>立场：推理是一个可学习的基于规则的过程</title>
-      <link>https://arxiv.org/abs/2608.12325</link>
-      <description>arXiv:2608.12325v1 Announce Type: new 
-Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and </description>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12325</guid>
-      <source url="https://arxiv.org/abs/2608.12325">ArXiv AI</source>
-    </item>
-    <item>
-      <title>评估法学硕士作为联合科学家的研究诚信的诊断基础</title>
-      <link>https://arxiv.org/abs/2608.12345</link>
-      <description>arXiv:2608.12345v1 Announce Type: new 
-Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action r</description>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12345</guid>
-      <source url="https://arxiv.org/abs/2608.12345">ArXiv AI</source>
-    </item>
-    <item>
-      <title>立场：联盟社区正在无意中构建审查工具包</title>
-      <link>https://arxiv.org/abs/2608.12346</link>
-      <description>arXiv:2608.12346v1 Announce Type: new 
-Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techni</description>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12346</guid>
-      <source url="https://arxiv.org/abs/2608.12346">ArXiv AI</source>
-    </item>
-    <item>
-      <title>协议并不一致：人类和法学硕士道德判断中不同的道德基础</title>
-      <link>https://arxiv.org/abs/2608.12368</link>
-      <description>arXiv:2608.12368v1 Announce Type: new 
-Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same j</description>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12368</guid>
-      <source url="https://arxiv.org/abs/2608.12368">ArXiv AI</source>
-    </item>
-    <item>
-      <title>移动边缘计算中流处理的 LLM 辅助合同网络协商的多代理调度</title>
-      <link>https://arxiv.org/abs/2608.12371</link>
-      <description>arXiv:2608.12371v1 Announce Type: new 
-Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper</description>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12371</guid>
-      <source url="https://arxiv.org/abs/2608.12371">ArXiv AI</source>
-    </item>
-    <item>
       <title>这家靠全景起步的公司，正在逐步让用户「忘掉相机」</title>
       <link>http://www.geekpark.net/news/368847</link>
       <description>你上一次打开全景相机，是什么时候？
@@ -207,6 +162,48 @@ Abstract: Stream-processing systems increasingly operate across heterogeneous mo
       <pubDate>Fri, 14 Aug 2026 17:50:02 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113459</guid>
       <source url="https://sspai.com/post/113459">少数派</source>
+    </item>
+    <item>
+      <title>预览超快模式：GPT‑5.6 Sol 速度高达 14 倍</title>
+      <link>https://www.youtube.com/watch?v=EDWbX_-RYws</link>
+      <description>Today we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and generates up to 750 output tokens per second.
+
+OpenAI technical staff are already seeing what that speed changes. One securit</description>
+      <pubDate>Fri, 14 Aug 2026 17:19:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=EDWbX_-RYws</guid>
+      <source url="https://www.youtube.com/watch?v=EDWbX_-RYws">OpenAI</source>
+    </item>
+    <item>
+      <title>刚刚，Qwen3.8-27B 开源了！家用显卡也能跑</title>
+      <link>https://www.qbitai.com/2026/08/473379.html</link>
+      <description>所有人都可免费下载部署及商用。</description>
+      <pubDate>Fri, 14 Aug 2026 15:41:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473379.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473379.html">量子位</source>
+    </item>
+    <item>
+      <title>你初高中时的书单里，总有本「东野圭吾」吧？</title>
+      <link>https://sspai.com/post/113416</link>
+      <description>纪念并且感谢他为我们留下的推理世界。查看全文</description>
+      <pubDate>Fri, 14 Aug 2026 15:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113416</guid>
+      <source url="https://sspai.com/post/113416">少数派</source>
+    </item>
+    <item>
+      <title>7亿年薪留不住！余家辉离职Meta创业</title>
+      <link>https://www.qbitai.com/2026/08/473261.html</link>
+      <description>真就只待了一年</description>
+      <pubDate>Fri, 14 Aug 2026 14:59:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473261.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473261.html">量子位</source>
+    </item>
+    <item>
+      <title>谷歌开始肢解DeepMind，数个团队被划归总部</title>
+      <link>https://www.qbitai.com/2026/08/473153.html</link>
+      <description>布林亲自下场督战</description>
+      <pubDate>Fri, 14 Aug 2026 14:51:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473153.html</guid>
+      <source url="https://www.qbitai.com/2026/08/473153.html">量子位</source>
     </item>
   </channel>
 </rss>
