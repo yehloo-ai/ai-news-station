@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:00:11 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>分享我知识管理 12 年来最重要的经验：INL 结构</title>
@@ -77,6 +77,30 @@ IBM 的超级计算机「深蓝」在六局对决中，以 3.5 比 2.5 击败国
       <source url="https://sspai.com/post/113445">少数派</source>
     </item>
     <item>
+      <title>《牛来》爆火之后，我更理解为什么 AI 视频需要自己的 Blender</title>
+      <link>https://www.ifanr.com/1675279?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI 视频卷到今天，updream 开始做「创作者的 Blender」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 17 Aug 2026 09:11:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675279?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675279?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>人形机器人开始打国球了！两台机器人完整打完11分制比赛</title>
+      <link>https://www.qbitai.com/2026/08/474518.html</link>
+      <description>没有遥控、没人喂球</description>
+      <pubDate>Mon, 17 Aug 2026 09:04:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474518.html</guid>
+      <source url="https://www.qbitai.com/2026/08/474518.html">量子位</source>
+    </item>
+    <item>
+      <title>菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想</title>
+      <link>https://www.qbitai.com/2026/08/474381.html</link>
+      <description>AI最近最出圈的数学突破，都在“找反例”</description>
+      <pubDate>Mon, 17 Aug 2026 08:36:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474381.html</guid>
+      <source url="https://www.qbitai.com/2026/08/474381.html">量子位</source>
+    </item>
+    <item>
       <title>问界「童车」上市，华为联合设计；DeepSeek 涨价策略今日实行；大学生用 AI 人脸视频盗刷 5 万元被判刑</title>
       <link>http://www.geekpark.net/news/368859</link>
       <description>IPO 前 Anthropic CEO 达里奥 &amp;middot; 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病
@@ -85,6 +109,22 @@ Anthropic CEO 达里奥 &amp;middot; 阿莫迪（Dario Amodei）几乎从不碰�
       <pubDate>Mon, 17 Aug 2026 08:29:59 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368859</guid>
       <source url="http://www.geekpark.net/news/368859">极客公园</source>
+    </item>
+    <item>
+      <title>快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用</title>
+      <link>https://www.qbitai.com/2026/08/474361.html</link>
+      <description>智谱GLM-5.3首发上线范式PhanRouter，即日开放调用</description>
+      <pubDate>Mon, 17 Aug 2026 08:26:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474361.html</guid>
+      <source url="https://www.qbitai.com/2026/08/474361.html">量子位</source>
+    </item>
+    <item>
+      <title>终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成</title>
+      <link>https://www.qbitai.com/2026/08/474334.html</link>
+      <description>即将完全开源</description>
+      <pubDate>Mon, 17 Aug 2026 07:39:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474334.html</guid>
+      <source url="https://www.qbitai.com/2026/08/474334.html">量子位</source>
     </item>
     <item>
       <title>派早报：😭（放声大哭）成为最流行 emoji</title>
@@ -156,51 +196,6 @@ Abstract: LLM agents increasingly operate as execution systems that invoke tools
       <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.13574</guid>
       <source url="https://arxiv.org/abs/2608.13574">ArXiv AI</source>
-    </item>
-    <item>
-      <title>L-FNO：随机事件动力学洛伦兹傅立叶神经算子</title>
-      <link>https://arxiv.org/abs/2608.13562</link>
-      <description>arXiv:2608.13562v1 Announce Type: new 
-Abstract: Modern operational systems face uncertainty even in routine conditions, where rare, bursty, and self-exciting events emerge from both exogenous covariates and endogenous event dynamics. Standard neural operators are typically trained as regression-sty</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13562</guid>
-      <source url="https://arxiv.org/abs/2608.13562">ArXiv ML</source>
-    </item>
-    <item>
-      <title>不要声称面向基准的优化可以提高通用编码能力——需要多样化的评估</title>
-      <link>https://arxiv.org/abs/2608.13566</link>
-      <description>arXiv:2608.13566v1 Announce Type: new 
-Abstract: Post-training papers, model cards, and blog posts often treat scores on a small set of coding benchmarks (e.g., SWE-bench and LiveCodeBench) as evidence of broad coding capability, both for research artifacts and user-facing systems. We argue that opt</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13566</guid>
-      <source url="https://arxiv.org/abs/2608.13566">ArXiv ML</source>
-    </item>
-    <item>
-      <title>用于回归的稳健 XGBoosting</title>
-      <link>https://arxiv.org/abs/2608.13590</link>
-      <description>arXiv:2608.13590v1 Announce Type: new 
-Abstract: XGBoost is a very popular and powerful method for prediction. It iteratively fits simple decision trees to the residuals of the previous step. An efficient and scalable implementation is available. The standard loss function for XGBoost is the quadrat</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13590</guid>
-      <source url="https://arxiv.org/abs/2608.13590">ArXiv ML</source>
-    </item>
-    <item>
-      <title>通过激活引导剪枝实现跨模型尺度的免训练知识转移</title>
-      <link>https://arxiv.org/abs/2608.13596</link>
-      <description>arXiv:2608.13596v1 Announce Type: new 
-Abstract: Heterogeneous model fusion seeks to combine models that differ in tasks, initializations, architectures, or scales. We study an underexplored cross-scale setting: improving a small recipient language model with a stronger donor despite substantial arc</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13596</guid>
-      <source url="https://arxiv.org/abs/2608.13596">ArXiv ML</source>
-    </item>
-    <item>
-      <title>硬案例，坏标签：在有界标签噪声下测试不确定性采样中的错误暴露和错误定位</title>
-      <link>https://arxiv.org/abs/2608.13601</link>
-      <description>arXiv:2608.13601v1 Announce Type: new 
-Abstract: Active learning can reduce labeling cost by selecting informative examples, but the most uncertain examples may also be the hardest to label correctly. This study tests whether uncertainty sampling fails because it acquires more corrupted labels or be</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13601</guid>
-      <source url="https://arxiv.org/abs/2608.13601">ArXiv ML</source>
     </item>
   </channel>
 </rss>
