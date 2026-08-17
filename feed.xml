@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 17 Aug 2026 15:39:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:46:18 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>派评 | 近期值得关注的 App</title>
@@ -14,6 +14,16 @@
       <pubDate>Mon, 17 Aug 2026 18:14:56 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113544</guid>
       <source url="https://sspai.com/post/113544">少数派</source>
+    </item>
+    <item>
+      <title>Base44 如何使用 GPT-5.6 构建应用程序，代币数量减少 20%</title>
+      <link>https://www.youtube.com/watch?v=Cxp2aZQqkYM</link>
+      <description>Base44 helps people turn natural language into production-ready applications and custom AI agents—no coding required.
+
+In this Startup Spotlight, Yoav Farhi, Staff AI Engineer at Base44, shares how the team tested GPT-5.6 across a wide range of app-building scenarios. Compared with GPT-5.5, GPT-5.6 </description>
+      <pubDate>Mon, 17 Aug 2026 15:22:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Cxp2aZQqkYM</guid>
+      <source url="https://www.youtube.com/watch?v=Cxp2aZQqkYM">OpenAI</source>
     </item>
     <item>
       <title>分享我知识管理 12 年来最重要的经验：INL 结构</title>
@@ -184,15 +194,6 @@ Abstract: Evaluating language-model agents at scale increasingly relies on a sec
       <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.13564</guid>
       <source url="https://arxiv.org/abs/2608.13564">ArXiv AI</source>
-    </item>
-    <item>
-      <title>通过基于幅度的专家掩蔽对混合专家模型进行深度感知灵敏度分析</title>
-      <link>https://arxiv.org/abs/2608.13565</link>
-      <description>arXiv:2608.13565v1 Announce Type: new 
-Abstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despite their widespread adoption, the relative importance of individual MoE layers remains insufficiently c</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13565</guid>
-      <source url="https://arxiv.org/abs/2608.13565">ArXiv AI</source>
     </item>
   </channel>
 </rss>
