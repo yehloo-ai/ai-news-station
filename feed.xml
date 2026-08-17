@@ -5,8 +5,36 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 17 Aug 2026 03:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:03:03 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注</title>
+      <link>http://www.geekpark.net/news/368887</link>
+      <description>作者｜Li Yuan
+编辑｜张鹏
+
+8 月 10 日，宇树科技完成科创板申购，发行价 150.80 元，发行市值约 610 亿元，发行市盈率 219 倍，是通用设备行业平均值的近六倍。多家机构给出的挂牌后估值直接标到千亿以上，敲钟的日子很可能就落在这个月下旬，几乎与世界机器人大会撞在一起。
+钱多，预期更高。钱多，预期更高。对标电动车，意味着一个万亿级的制造业；对标 AI，则意味着根本没有天花板&amp;mdash;&amp;mdash;毕竟具身智能被寄予的，是让 AI 真正落进物理世界。
+热的是估值，冷的是订单。可作对照的是另一组数字。2025 年宇树人形机器人出货 5500 多台，全球第一；工信部预计 20</description>
+      <pubDate>Mon, 17 Aug 2026 11:28:54 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368887</guid>
+      <source url="http://www.geekpark.net/news/368887">极客公园</source>
+    </item>
+    <item>
+      <title>闭门、举牌、真话，这场路演有点不一样</title>
+      <link>http://www.geekpark.net/news/368885</link>
+      <description>作者｜Li Yuan
+编辑｜郑玄
+
+会算命的非遗挂件？专挑膝盖下手的外骨骼？会跳的机器人？
+8 月 7 日，地瓜机器人办的这场闭门路演「地心引力 DemoDay 2026」，十个项目轮番上台，画风一个比一个野。
+有做具身智能的，也有做智能硬件的，大部分都还初具雏形：一些项目，半年前才刚正式启动。
+地瓜选择本场 Demoday 选手的调性，与其他不太一样。CEO 王丛开场就说：他不太在乎地瓜自己出货量多大、市场占有率多高，他更想看到的画面是，被他们孵化出来的那些五花八门的东西，能被随便拿一个回家，给爸妈玩，给孩子玩，路边看到都是。
+地瓜过去一年一直在用真金白银和工程资源接住这批人&amp;mdash;&amp;</description>
+      <pubDate>Mon, 17 Aug 2026 11:26:23 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368885</guid>
+      <source url="http://www.geekpark.net/news/368885">极客公园</source>
+    </item>
     <item>
       <title>问界「童车」上市，华为联合设计；DeepSeek 涨价策略今日实行；大学生用 AI 人脸视频盗刷 5 万元被判刑</title>
       <link>http://www.geekpark.net/news/368859</link>
@@ -36,163 +64,139 @@ Anthropic CEO 达里奥 &amp;middot; 阿莫迪（Dario Amodei）几乎从不碰�
       <source url="https://www.ifanr.com/1675332?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程</title>
-      <link>https://www.ifanr.com/1675326?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>信息爆炸时代，质量比数量重要得多。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sun, 16 Aug 2026 14:47:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675326?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675326?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>引入无奖励的评审标准，减少代理商评估中的过度信任</title>
+      <link>https://arxiv.org/abs/2608.13564</link>
+      <description>arXiv:2608.13564v1 Announce Type: new 
+Abstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavailable at deployment time. Such a judge is a reward-</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13564</guid>
+      <source url="https://arxiv.org/abs/2608.13564">ArXiv AI</source>
     </item>
     <item>
-      <title>今年最激动人心的 AI 宣言，来自科技圈最不受待见的人</title>
-      <link>https://www.ifanr.com/1674733?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>是未来，还是黑暗森林？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sun, 16 Aug 2026 14:29:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1674733?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1674733?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>通过基于幅度的专家掩蔽对混合专家模型进行深度感知灵敏度分析</title>
+      <link>https://arxiv.org/abs/2608.13565</link>
+      <description>arXiv:2608.13565v1 Announce Type: new 
+Abstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despite their widespread adoption, the relative importance of individual MoE layers remains insufficiently c</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13565</guid>
+      <source url="https://arxiv.org/abs/2608.13565">ArXiv AI</source>
     </item>
     <item>
-      <title>浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」</title>
-      <link>https://sspai.com/post/113495</link>
-      <description>在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文</description>
-      <pubDate>Sun, 16 Aug 2026 12:48:21 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113495</guid>
-      <source url="https://sspai.com/post/113495">少数派</source>
+      <title>模块化认知架构出现在大型语言模型中</title>
+      <link>https://arxiv.org/abs/2608.13567</link>
+      <description>arXiv:2608.13567v1 Announce Type: new 
+Abstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental prin</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13567</guid>
+      <source url="https://arxiv.org/abs/2608.13567">ArXiv AI</source>
     </item>
     <item>
-      <title>杭州95后小伙，5亿买走硅谷城堡</title>
-      <link>https://www.qbitai.com/2026/08/474245.html</link>
-      <description>辞别马斯克xAI半年之后…</description>
-      <pubDate>Sun, 16 Aug 2026 11:51:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474245.html</guid>
-      <source url="https://www.qbitai.com/2026/08/474245.html">量子位</source>
+      <title>法学硕士服务的一年：工作负载演变、缓存和负载平衡</title>
+      <link>https://arxiv.org/abs/2608.13573</link>
+      <description>arXiv:2608.13573v1 Announce Type: new 
+Abstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving systems. However, existing LLM serving workload studies remain limited in scale and scope. They often o</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13573</guid>
+      <source url="https://arxiv.org/abs/2608.13573">ArXiv AI</source>
     </item>
     <item>
-      <title>李飞飞最新访谈：AI咋能代替人呢？</title>
-      <link>https://www.qbitai.com/2026/08/474140.html</link>
-      <description>AI不是替代者，而是个人能力的放大镜</description>
-      <pubDate>Sun, 16 Aug 2026 10:45:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474140.html</guid>
-      <source url="https://www.qbitai.com/2026/08/474140.html">量子位</source>
+      <title>Agentao：用于使用工具的 LLM 代理的受管理的本地优先运行时</title>
+      <link>https://arxiv.org/abs/2608.13574</link>
+      <description>arXiv:2608.13574v1 Announce Type: new 
+Abstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols. These capabilities make agents useful, but they also introduce risks related to over-privileged ac</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13574</guid>
+      <source url="https://arxiv.org/abs/2608.13574">ArXiv AI</source>
     </item>
     <item>
-      <title>“B站教AI”爆火后，北航90后副教授何静回应一切</title>
-      <link>https://www.qbitai.com/2026/08/474064.html</link>
-      <description>“错过种一棵树最好的时间”</description>
-      <pubDate>Sun, 16 Aug 2026 10:36:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474064.html</guid>
-      <source url="https://www.qbitai.com/2026/08/474064.html">量子位</source>
+      <title>L-FNO：随机事件动力学洛伦兹傅立叶神经算子</title>
+      <link>https://arxiv.org/abs/2608.13562</link>
+      <description>arXiv:2608.13562v1 Announce Type: new 
+Abstract: Modern operational systems face uncertainty even in routine conditions, where rare, bursty, and self-exciting events emerge from both exogenous covariates and endogenous event dynamics. Standard neural operators are typically trained as regression-sty</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13562</guid>
+      <source url="https://arxiv.org/abs/2608.13562">ArXiv ML</source>
     </item>
     <item>
-      <title>Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭</title>
-      <link>http://www.geekpark.net/news/368854</link>
-      <description>2026 世界机器人大会展位图揭晓：8 月 19 日开幕，宇树科技、优必选等参展
-8 月 16 日消息，2026 世界机器人大会将于 8 月 19 日至 23 日在北京经济技术开发区北人亦创国际会展中心举行。近日，2026 世界机器人大会展位图全揭晓。
-
-作为大会展览的重要新增空间，智创馆面积达 2 万平方米，拥有更加开阔、通透的展示环境，将进一步提升企业参展和观众观展体验。
-宇树科技、星海图、优必选、银河通用、自变量、明略科技、维他动力、智身科技、云深处、傅利叶、越疆、仙工、中科慧灵等代表性企业，将带来机器人整机、具身智能及人形机器人的最新成果。
-北京、上海、浙江、湖北、广东、四川、吉林等地</description>
-      <pubDate>Sun, 16 Aug 2026 09:15:43 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368854</guid>
-      <source url="http://www.geekpark.net/news/368854">极客公园</source>
+      <title>不要声称面向基准的优化可以提高通用编码能力——需要多样化的评估</title>
+      <link>https://arxiv.org/abs/2608.13566</link>
+      <description>arXiv:2608.13566v1 Announce Type: new 
+Abstract: Post-training papers, model cards, and blog posts often treat scores on a small set of coding benchmarks (e.g., SWE-bench and LiveCodeBench) as evidence of broad coding capability, both for research artifacts and user-facing systems. We argue that opt</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13566</guid>
+      <source url="https://arxiv.org/abs/2608.13566">ArXiv ML</source>
     </item>
     <item>
-      <title>WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队</title>
-      <link>https://www.qbitai.com/2026/08/473972.html</link>
-      <description>背后是四项关键能力</description>
-      <pubDate>Sun, 16 Aug 2026 05:37:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473972.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473972.html">量子位</source>
+      <title>用于回归的稳健 XGBoosting</title>
+      <link>https://arxiv.org/abs/2608.13590</link>
+      <description>arXiv:2608.13590v1 Announce Type: new 
+Abstract: XGBoost is a very popular and powerful method for prediction. It iteratively fits simple decision trees to the residuals of the previous step. An efficient and scalable implementation is available. The standard loss function for XGBoost is the quadrat</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13590</guid>
+      <source url="https://arxiv.org/abs/2608.13590">ArXiv ML</source>
     </item>
     <item>
-      <title>牛来！A社营收暴涨1400%，最新季度入账115亿美元</title>
-      <link>https://www.qbitai.com/2026/08/473947.html</link>
-      <description>将超越马斯克的SpaceX，成为史上上市估值最高的IPO。</description>
-      <pubDate>Sun, 16 Aug 2026 05:28:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473947.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473947.html">量子位</source>
+      <title>通过激活引导剪枝实现跨模型尺度的免训练知识转移</title>
+      <link>https://arxiv.org/abs/2608.13596</link>
+      <description>arXiv:2608.13596v1 Announce Type: new 
+Abstract: Heterogeneous model fusion seeks to combine models that differ in tasks, initializations, architectures, or scales. We study an underexplored cross-scale setting: improving a small recipient language model with a stronger donor despite substantial arc</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13596</guid>
+      <source url="https://arxiv.org/abs/2608.13596">ArXiv ML</source>
     </item>
     <item>
-      <title>3 个月烧掉 105 亿，腾讯急了</title>
-      <link>http://www.geekpark.net/news/368852</link>
-      <description>头图来源：视觉中国
-&amp;nbsp;
-腾讯的 AI 故事，正在进入一个更昂贵的阶段。
-8 月 12 日，腾讯发布 2026 年第二季度财报。本季度营收 2047.9 亿元，同比增长 11%；Non-IFRS 经营利润 756.4 亿元，同比增长 9%；Non-IFRS 归母净利润 684 亿元，同比增长 9%。
-单看数字，这仍然是一份稳健的财报。但把 AI 拆出来之后，腾讯的增长曲线呈现出了明显的分叉：若剔除混元、元宝、CodeBuddy、WorkBuddy、小微等新 AI 产品的收入、成本与开支，腾讯本季度 Non-IFRS 经营利润为 861 亿元，同比增长 19%。
-这意味着，腾讯原有业务的</description>
-      <pubDate>Sat, 15 Aug 2026 16:46:20 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368852</guid>
-      <source url="http://www.geekpark.net/news/368852">极客公园</source>
+      <title>硬案例，坏标签：在有界标签噪声下测试不确定性采样中的错误暴露和错误定位</title>
+      <link>https://arxiv.org/abs/2608.13601</link>
+      <description>arXiv:2608.13601v1 Announce Type: new 
+Abstract: Active learning can reduce labeling cost by selecting informative examples, but the most uncertain examples may also be the hardest to label correctly. This study tests whether uncertainty sampling fails because it acquires more corrupted labels or be</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13601</guid>
+      <source url="https://arxiv.org/abs/2608.13601">ArXiv ML</source>
     </item>
     <item>
-      <title>有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布</title>
-      <link>https://sspai.com/post/111974</link>
-      <description>Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文</description>
-      <pubDate>Sat, 15 Aug 2026 15:07:54 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/111974</guid>
-      <source url="https://sspai.com/post/111974">少数派</source>
+      <title>语言服务器是否为编码代理保存令牌？测量方法和初步研究</title>
+      <link>https://arxiv.org/abs/2608.13568</link>
+      <description>arXiv:2608.13568v1 Announce Type: new 
+Abstract: Coding agents spend most of their context budget on retrieval. Lexical retrieval (grep) is universal, instant, and zero-setup, but noisy: it cannot tell a definition from a call from a comment. Semantic retrieval via the Language Server Protocol (LSP)</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13568</guid>
+      <source url="https://arxiv.org/abs/2608.13568">ArXiv NLP</source>
     </item>
     <item>
-      <title>当 AI 开始批量写 HTML，WorkBuddy 想解决「生成之后」的问题</title>
-      <link>http://www.geekpark.net/news/368851</link>
-      <description>&amp;nbsp;
-头图来源：视觉中国
-「人人都应该有一个 AI 工作台」，最近这段时间，网络上掀起了一阵搭建个人工作台的热潮。
-先是一位百万级大网红用 WorkBuddy 几句话搭出了一个专属工作台，视频发出后，抖音、小红书的评论区随即变成了「大型交作业现场」&amp;mdash;&amp;mdash; 有人搭自媒体选题看板，有人做健身打卡记录，有人给一年级孩子做暑期学习计划，有人整了短视频带货管理系统&amp;hellip;&amp;hellip;
-但热闹之下，一个共性问题也很快浮出水面：工作台搭起来容易，用起来却卡壳了。
-不少用户在晒完新鲜感之后，很快发现了同一个坑&amp;mdash;&amp;mdash; 数据只存在本地。在办公室电脑上</description>
-      <pubDate>Sat, 15 Aug 2026 14:41:47 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368851</guid>
-      <source url="http://www.geekpark.net/news/368851">极客公园</source>
+      <title>潜在思考，语言解释：可自我解释的潜在推理</title>
+      <link>https://arxiv.org/abs/2608.13570</link>
+      <description>arXiv:2608.13570v1 Announce Type: new 
+Abstract: Latent reasoning has emerged as a powerful alternative to text-based Chain-of-Thought (CoT), offering significant gains in computational efficiency by compressing verbose reasoning into compact embeddings. However, compressing reasoning into the laten</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13570</guid>
+      <source url="https://arxiv.org/abs/2608.13570">ArXiv NLP</source>
     </item>
     <item>
-      <title>智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道</title>
-      <link>http://www.geekpark.net/news/368849</link>
-      <description>智谱正式发布 GLM-5.3，拥有更强编程能力
-8 月 14 日，据介绍，与 GLM-5.2 相比，GLM-5.3 基座模型未变，但通过极致的后训练 Scaling 大大提高了模型的智能上界。
-GLM-5.3 拥有更强的编程能力，在内部自建体感评测中较 GLM-5.2 提升 50%，在包括 TerminalBench3.0、Agents'LastExam(CLI)在内的公开基准测试中取得开源第一。
-智谱还表示，将在发布两周后开放模型权重。
-（来源：广角观察）
-
-
-知情人士称苹果在阿里巴巴支持下为中国市场训练专属 AI 模型
-据三位知情人士透露，苹果公司已经专门为中国市场训练了一个大型语言模型。</description>
-      <pubDate>Sat, 15 Aug 2026 08:52:38 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368849</guid>
-      <source url="http://www.geekpark.net/news/368849">极客公园</source>
+      <title>并非所有代币都是平等的：代理 LLM 系统的通货膨胀感知路由</title>
+      <link>https://arxiv.org/abs/2608.13571</link>
+      <description>arXiv:2608.13571v1 Announce Type: new 
+Abstract: When a language model fails to answer a query on the first attempt, an agentic system retries, consuming additional tokens each time. This retry overhead creates a gap between what a model's per-token price implies and what a full workflow actually co</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13571</guid>
+      <source url="https://arxiv.org/abs/2608.13571">ArXiv NLP</source>
     </item>
     <item>
-      <title>至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%</title>
-      <link>https://www.qbitai.com/2026/08/473876.html</link>
-      <description>理解大模型，无需再训练一个替代网络</description>
-      <pubDate>Sat, 15 Aug 2026 06:42:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473876.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473876.html">量子位</source>
+      <title>BCMT：块式因果记忆变压器</title>
+      <link>https://arxiv.org/abs/2608.13578</link>
+      <description>arXiv:2608.13578v1 Announce Type: new 
+Abstract: Transformer architectures rely on dense self-attention to model long-range dependencies, but this mechanism exhibits quadratic complexity with respect to sequence length. We introduce BCMT (Blockwise Causal Memory Transformer), an architecture for lon</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13578</guid>
+      <source url="https://arxiv.org/abs/2608.13578">ArXiv NLP</source>
     </item>
     <item>
-      <title>根治AI音乐通病！这家国产音乐模型正面挑战SUNO</title>
-      <link>https://www.qbitai.com/2026/08/473866.html</link>
-      <description>音潮API限时免费开放</description>
-      <pubDate>Sat, 15 Aug 2026 06:36:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473866.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473866.html">量子位</source>
-    </item>
-    <item>
-      <title>源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude</title>
-      <link>https://www.qbitai.com/2026/08/473669.html</link>
-      <description>推理能力还能自定义</description>
-      <pubDate>Sat, 15 Aug 2026 06:05:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473669.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473669.html">量子位</source>
-    </item>
-    <item>
-      <title>DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了</title>
-      <link>https://www.qbitai.com/2026/08/473597.html</link>
-      <description>大家已经给DeepSeek装上了啥</description>
-      <pubDate>Sat, 15 Aug 2026 05:53:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473597.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473597.html">量子位</source>
+      <title>Jais 2：一系列以阿拉伯语为中心的开放大型语言模型</title>
+      <link>https://arxiv.org/abs/2608.13580</link>
+      <description>arXiv:2608.13580v1 Announce Type: new 
+Abstract: Jais 2 is a family of Arabic-centric large language models developed jointly by MBZUAI, Cerebras, and Inception, designed to advance Arabic-centric language modeling, with strong performance across the Arabic and culturally grounded benchmarks evaluat</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13580</guid>
+      <source url="https://arxiv.org/abs/2608.13580">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
