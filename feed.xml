@@ -5,8 +5,36 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 16 Aug 2026 23:34:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 01:55:43 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>问界「童车」上市，华为联合设计；DeepSeek 涨价策略今日实行；大学生用 AI 人脸视频盗刷 5 万元被判刑</title>
+      <link>http://www.geekpark.net/news/368859</link>
+      <description>IPO 前 Anthropic CEO 达里奥 &amp;middot; 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病
+Anthropic CEO 达里奥 &amp;middot; 阿莫迪（Dario Amodei）几乎从不碰社交媒体。但就在 IPO 估值被推到 2 万亿美元的节骨眼上，他罕见地发了一篇长文，正面回应 Anthropic 如何看待监管。
+长文中，达里奥 &amp;middot; 阿莫迪回「我们设计的每一条政策，都让前沿公司承担更多成本，同时有利于规模更小的竞争者。」他同样支持 Demis Hassabis 提出的、建立一个类似 FINRA（美国金融业监管局）的 AI 监管机构</description>
+      <pubDate>Mon, 17 Aug 2026 08:29:59 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368859</guid>
+      <source url="http://www.geekpark.net/news/368859">极客公园</source>
+    </item>
+    <item>
+      <title>派早报：😭（放声大哭）成为最流行 emoji</title>
+      <link>https://sspai.com/post/113524</link>
+      <description>😭（放声大哭）成为最流行 emoji美国要求合作方在中美 AI 竞赛中「选边站」ChatGPT 上线使用历史记录功能美国政府敦促苹果不要购买中国内存芯片uBlock Origin 放弃维护 Facebook 广告规则索尼加速向娱乐业务转型看看就行的简讯少数派的近期动态你可能错过的好文章查看全文</description>
+      <pubDate>Mon, 17 Aug 2026 06:54:56 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113524</guid>
+      <source url="https://sspai.com/post/113524">少数派</source>
+    </item>
+    <item>
+      <title>早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市</title>
+      <link>https://www.ifanr.com/1675332?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 于东来：胖东来首批刑释员工无人离职，将再招 20 人
+· Dario Amodei：公众反对 AI，本质上是信任危机
+· 2056 台机器人将同场比跳远、举重和拧螺丝#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 17 Aug 2026 00:22:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675332?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675332?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程</title>
       <link>https://www.ifanr.com/1675326?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -165,36 +193,6 @@ GLM-5.3 拥有更强的编程能力，在内部自建体感评测中较 GLM-5.2 
       <pubDate>Sat, 15 Aug 2026 05:53:01 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/473597.html</guid>
       <source url="https://www.qbitai.com/2026/08/473597.html">量子位</source>
-    </item>
-    <item>
-      <title>对话郎咸朋：用机器人创业重做一次“百万智驾量产”</title>
-      <link>https://www.qbitai.com/2026/08/473407.html</link>
-      <description>1.9万字全文实录</description>
-      <pubDate>Sat, 15 Aug 2026 04:21:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473407.html</guid>
-      <source url="https://www.qbitai.com/2026/08/473407.html">量子位</source>
-    </item>
-    <item>
-      <title>早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付</title>
-      <link>https://www.ifanr.com/1675280?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· Google DeepMind 或裁员三分之一以上，资源转向 Flash
-· WorkBuddy 接入 GLM-5.3
-· 曝 DeepSeek 正研发情感 AI 模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 15 Aug 2026 00:40:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675280?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675280?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>这家靠全景起步的公司，正在逐步让用户「忘掉相机」</title>
-      <link>http://www.geekpark.net/news/368847</link>
-      <description>你上一次打开全景相机，是什么时候？
-几个全景品类的老用户告诉我：全景相机很容易「吃灰」。他们当年冲着拍出酷炫的运动视频下单，到手之后发现不是没有相机，而是没那么多时间去滑雪、潜水、登山&amp;hellip;&amp;hellip;机器用了几次就放抽屉里了。
-不过，更多最近一年入手全景相机的朋友，给出了完全不同的答案。他们的使用场景不再局限在户外运动，亲子、旅行、自驾游是他们更主流的使用场景。
-从整体影像市场来看，相比起今年爆火的云台相机，全景相机的增速自然更慢。核心原因是两个品类的目标和任务复杂度不同：
-前者最核心的任务之一是「拍好人像」，实现这个目标的方式相对明确和收敛；而后者则希望接管用户从按下录制到拿</description>
-      <pubDate>Fri, 14 Aug 2026 18:44:01 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368847</guid>
-      <source url="http://www.geekpark.net/news/368847">极客公园</source>
     </item>
   </channel>
 </rss>
