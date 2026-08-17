@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 17 Aug 2026 10:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:46:14 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>分享我知识管理 12 年来最重要的经验：INL 结构</title>
@@ -75,6 +75,22 @@ IBM 的超级计算机「深蓝」在六局对决中，以 3.5 比 2.5 击败国
       <pubDate>Mon, 17 Aug 2026 11:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113445</guid>
       <source url="https://sspai.com/post/113445">少数派</source>
+    </item>
+    <item>
+      <title>22.39 万元起，岚图追光 S 上市，大回环是噱头，运动底盘才是正题</title>
+      <link>https://www.ifanr.com/1675423?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>为了让你记住一台新车，车企已经豁出去了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 17 Aug 2026 09:57:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675423?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675423?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”</title>
+      <link>https://www.qbitai.com/2026/08/474537.html</link>
+      <description>8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo</description>
+      <pubDate>Mon, 17 Aug 2026 09:30:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474537.html</guid>
+      <source url="https://www.qbitai.com/2026/08/474537.html">量子位</source>
     </item>
     <item>
       <title>《牛来》爆火之后，我更理解为什么 AI 视频需要自己的 Blender</title>
@@ -178,24 +194,6 @@ Abstract: The human brain exhibits a striking degree of functional specializatio
       <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.13567</guid>
       <source url="https://arxiv.org/abs/2608.13567">ArXiv AI</source>
-    </item>
-    <item>
-      <title>法学硕士服务的一年：工作负载演变、缓存和负载平衡</title>
-      <link>https://arxiv.org/abs/2608.13573</link>
-      <description>arXiv:2608.13573v1 Announce Type: new 
-Abstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving systems. However, existing LLM serving workload studies remain limited in scale and scope. They often o</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13573</guid>
-      <source url="https://arxiv.org/abs/2608.13573">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Agentao：用于使用工具的 LLM 代理的受管理的本地优先运行时</title>
-      <link>https://arxiv.org/abs/2608.13574</link>
-      <description>arXiv:2608.13574v1 Announce Type: new 
-Abstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols. These capabilities make agents useful, but they also introduce risks related to over-privileged ac</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13574</guid>
-      <source url="https://arxiv.org/abs/2608.13574">ArXiv AI</source>
     </item>
   </channel>
 </rss>
