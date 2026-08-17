@@ -5,8 +5,33 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 17 Aug 2026 05:48:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:16:37 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>当陶瓷水杯遇上像素屏：PixelMug 体验</title>
+      <link>https://sspai.com/post/113448</link>
+      <description>如今，伴随着科技和生产力的发展，许多曾经只存在于科幻作品里的创意都逐渐变成了现实。各种新奇酷炫的产品，也开始在人们的刚需之外提供不一样的解法。尤其是那些无关「生产力」、单纯为了让生活变得更有意思的产品 ...查看全文</description>
+      <pubDate>Mon, 17 Aug 2026 13:55:17 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113448</guid>
+      <source url="https://sspai.com/post/113448">少数派</source>
+    </item>
+    <item>
+      <title>被 AI 碾压 30 年后，人们重新爱上了下棋</title>
+      <link>http://www.geekpark.net/news/368897</link>
+      <description>作者｜Techno 之王
+编辑｜靖宇
+&amp;nbsp;
+1997 年 5 月 11 日，纽约。
+IBM 的超级计算机「深蓝」在六局对决中，以 3.5 比 2.5 击败国际象棋世界冠军卡斯帕罗夫。
+这是人类第一次在智力游戏的最高殿堂输给机器。
+那场比赛的最后一局只用了 19 步。卡斯帕罗夫在一个经典开局中走出了罕见的失误，深蓝精准地抓住了机会，迅速将局面推向不可挽回。
+终局时，卡斯帕罗夫猛地站起来离开棋桌，脸上写满了震惊和愤怒。他后来公开指控 IBM 在幕后使用了人类棋手协助，拒绝接受这个结果。
+那一天，全世界都在讨论同一个问题&amp;mdash;&amp;mdash;在机器面前，人类的智力还有尊严吗？
+时间快进</description>
+      <pubDate>Mon, 17 Aug 2026 13:54:45 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368897</guid>
+      <source url="http://www.geekpark.net/news/368897">极客公园</source>
+    </item>
     <item>
       <title>世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注</title>
       <link>http://www.geekpark.net/news/368887</link>
@@ -177,24 +202,6 @@ Abstract: Coding agents spend most of their context budget on retrieval. Lexical
       <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.13568</guid>
       <source url="https://arxiv.org/abs/2608.13568">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>潜在思考，语言解释：可自我解释的潜在推理</title>
-      <link>https://arxiv.org/abs/2608.13570</link>
-      <description>arXiv:2608.13570v1 Announce Type: new 
-Abstract: Latent reasoning has emerged as a powerful alternative to text-based Chain-of-Thought (CoT), offering significant gains in computational efficiency by compressing verbose reasoning into compact embeddings. However, compressing reasoning into the laten</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13570</guid>
-      <source url="https://arxiv.org/abs/2608.13570">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>并非所有代币都是平等的：代理 LLM 系统的通货膨胀感知路由</title>
-      <link>https://arxiv.org/abs/2608.13571</link>
-      <description>arXiv:2608.13571v1 Announce Type: new 
-Abstract: When a language model fails to answer a query on the first attempt, an agentic system retries, consuming additional tokens each time. This retry overhead creates a gap between what a model's per-token price implies and what a full workflow actually co</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13571</guid>
-      <source url="https://arxiv.org/abs/2608.13571">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
