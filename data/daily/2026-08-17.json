@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-17",
+  "attribution": {
+    "source": "AIHOT",
+    "canonical": "https://aihot.virxact.com/daily/2026-08-17"
+  },
+  "generatedAt": "2026-08-17T00:00:05.258Z",
+  "windowStart": "2026-08-16T00:00:00.000Z",
+  "windowEnd": "2026-08-17T00:00:00.000Z",
+  "lead": null,
+  "sections": [
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+          "summary": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型 Qwen 3.8 27B，官方基准显示其超越前代 Qwen 3.6 27B 及闭源 Qwen 3.7-Plus。",
+          "sourceUrl": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+          "sourceName": "Simon Willison 博客",
+          "permalink": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c"
+          }
+        },
+        {
+          "title": "The hyping of Anthropic’s IPO",
+          "summary": "对 Anthropic IPO 静默期流传的 2028 年 1900 亿美元级营收预测，文章提示其多基于匿名信源和未披露算法，可帮助在追踪上市进展时区分已核实数据与传闻。",
+          "sourceUrl": "https://garymarcus.substack.com/p/the-hyping-of-anthropics-ipo",
+          "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmsw88ide0liyrovmhjpvtel2",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmsw88ide0liyrovmhjpvtel2"
+          }
+        }
+      ]
+    }
+  ],
+  "flashes": []
+}
