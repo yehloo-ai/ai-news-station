@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 17 Aug 2026 04:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:58:27 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注</title>
@@ -36,6 +36,14 @@
       <source url="http://www.geekpark.net/news/368885">极客公园</source>
     </item>
     <item>
+      <title>成年人包里的唯一一支笔：模块笔入门导购</title>
+      <link>https://sspai.com/post/113445</link>
+      <description>如果你的包里想带一支笔以备不时之需，这支笔应该就是你想要的。查看全文</description>
+      <pubDate>Mon, 17 Aug 2026 11:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113445</guid>
+      <source url="https://sspai.com/post/113445">少数派</source>
+    </item>
+    <item>
       <title>问界「童车」上市，华为联合设计；DeepSeek 涨价策略今日实行；大学生用 AI 人脸视频盗刷 5 万元被判刑</title>
       <link>http://www.geekpark.net/news/368859</link>
       <description>IPO 前 Anthropic CEO 达里奥 &amp;middot; 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病
@@ -52,6 +60,14 @@ Anthropic CEO 达里奥 &amp;middot; 阿莫迪（Dario Amodei）几乎从不碰�
       <pubDate>Mon, 17 Aug 2026 06:54:56 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113524</guid>
       <source url="https://sspai.com/post/113524">少数派</source>
+    </item>
+    <item>
+      <title>拒绝「差不多」，电商模型测评迎来「最严厉的父亲」</title>
+      <link>https://www.ifanr.com/1675338?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>从真实需求定义任务，用仿真环境状态验证结果，建构属于电商的测试哲学#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 17 Aug 2026 04:10:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675338?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675338?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市</title>
@@ -136,7 +152,7 @@ Abstract: XGBoost is a very popular and powerful method for prediction. It itera
       <source url="https://arxiv.org/abs/2608.13590">ArXiv ML</source>
     </item>
     <item>
-      <title>通过激活引导剪枝实现跨模型尺度的免训练知识转移</title>
+      <title>Training-Free Knowledge Transfer Across Model Scales through Activation-Guided Pruning</title>
       <link>https://arxiv.org/abs/2608.13596</link>
       <description>arXiv:2608.13596v1 Announce Type: new 
 Abstract: Heterogeneous model fusion seeks to combine models that differ in tasks, initializations, architectures, or scales. We study an underexplored cross-scale setting: improving a small recipient language model with a stronger donor despite substantial arc</description>
@@ -179,24 +195,6 @@ Abstract: When a language model fails to answer a query on the first attempt, an
       <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.13571</guid>
       <source url="https://arxiv.org/abs/2608.13571">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>BCMT：块式因果记忆变压器</title>
-      <link>https://arxiv.org/abs/2608.13578</link>
-      <description>arXiv:2608.13578v1 Announce Type: new 
-Abstract: Transformer architectures rely on dense self-attention to model long-range dependencies, but this mechanism exhibits quadratic complexity with respect to sequence length. We introduce BCMT (Blockwise Causal Memory Transformer), an architecture for lon</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13578</guid>
-      <source url="https://arxiv.org/abs/2608.13578">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Jais 2：一系列以阿拉伯语为中心的开放大型语言模型</title>
-      <link>https://arxiv.org/abs/2608.13580</link>
-      <description>arXiv:2608.13580v1 Announce Type: new 
-Abstract: Jais 2 is a family of Arabic-centric large language models developed jointly by MBZUAI, Cerebras, and Inception, designed to advance Arabic-centric language modeling, with strong performance across the Arabic and culturally grounded benchmarks evaluat</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13580</guid>
-      <source url="https://arxiv.org/abs/2608.13580">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
