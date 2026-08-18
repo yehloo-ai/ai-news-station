@@ -5,8 +5,22 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 05:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:04:20 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TikTok带货博主卷疯快递：三天，从深圳到伦敦</title>
+      <link>http://www.geekpark.net/news/368962</link>
+      <description>&amp;nbsp;
+今年6月26日，英国气温飙到了36摄氏度，创下十多年来的纪录。
+26万台小电风扇，从中国出发，在不到两周的时间里涌进了欧洲人的家门。不少英国人从下单到收货，只用了两天半。
+放在五年前，跨境卖家根本不敢想象这么快。而现在，这不得不成为&amp;ldquo;基础&amp;rdquo;。
+8月5日，菜鸟集团正式发布"全球三日达"，在中国至欧洲、泛欧国家间、中东国家间等15条核心线路上，实现3个自然日门到门送达。0.5公斤欧洲小包，单票物流费只有标准国际快递的一半。
+这是继2020年&amp;ldquo;全球十日达&amp;rdquo;和2023年&amp;ldquo;全球五日达&amp;rdquo;之后，跨境物流速度的又一次飞跃。
+</description>
+      <pubDate>Tue, 18 Aug 2026 13:56:14 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368962</guid>
+      <source url="http://www.geekpark.net/news/368962">极客公园</source>
+    </item>
     <item>
       <title>7月音乐精选：夏天赠予我们的 9张专辑</title>
       <link>https://sspai.com/post/113454</link>
@@ -52,6 +66,14 @@
       <pubDate>Tue, 18 Aug 2026 07:55:18 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368929</guid>
       <source url="http://www.geekpark.net/news/368929">极客公园</source>
+    </item>
+    <item>
+      <title>650亿美元！IPO前夕，Anthropic营收底牌曝光</title>
+      <link>https://www.qbitai.com/2026/08/474673.html</link>
+      <description>回头看，A社就这样完成了反超</description>
+      <pubDate>Tue, 18 Aug 2026 05:58:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474673.html</guid>
+      <source url="https://www.qbitai.com/2026/08/474673.html">量子位</source>
     </item>
     <item>
       <title>阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了</title>
@@ -174,24 +196,6 @@ Abstract: Understanding human mobility is critical for a wide range of urban app
       <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.14570</guid>
       <source url="https://arxiv.org/abs/2608.14570">ArXiv ML</source>
-    </item>
-    <item>
-      <title>几何形状并不稳健：PGD 评估的轨迹级研究</title>
-      <link>https://arxiv.org/abs/2608.14594</link>
-      <description>arXiv:2608.14594v1 Announce Type: new 
-Abstract: Projected Gradient Descent (PGD) is widely used to evaluate adversarial robustness, typically via final adversarial accuracy, which does not capture model behaviour throughout the attack. Recent work proposes trajectory-level diagnostics, such as loss</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.14594</guid>
-      <source url="https://arxiv.org/abs/2608.14594">ArXiv ML</source>
-    </item>
-    <item>
-      <title>DumpsterCluster：从垃圾箱潜水到在 60 美元的 GPU 上为 LLaMA-70B 提供服务</title>
-      <link>https://arxiv.org/abs/2608.14614</link>
-      <description>arXiv:2608.14614v1 Announce Type: new 
-Abstract: As AI datacenters retire functional GPUs, vast quantities of still capable accelerators enter secondary markets. This paper investigates whether these retired GPUs can find a productive afterlife to form a DumpsterCluster that can serve modern LLM inf</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.14614</guid>
-      <source url="https://arxiv.org/abs/2608.14614">ArXiv ML</source>
     </item>
   </channel>
 </rss>
