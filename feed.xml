@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 03:57:38 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7月音乐精选：夏天赠予我们的 9张专辑</title>
+      <link>https://sspai.com/post/113454</link>
+      <description>编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文</description>
+      <pubDate>Tue, 18 Aug 2026 10:52:11 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113454</guid>
+      <source url="https://sspai.com/post/113454">少数派</source>
+    </item>
     <item>
       <title>从「拍得到」到「拍得成」：大疆如何重塑全景影像天花板</title>
       <link>http://www.geekpark.net/news/368932</link>
@@ -72,12 +80,30 @@
       <source url="https://www.ifanr.com/1675387?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
+      <title>您可以让工作继续进行</title>
+      <link>https://www.youtube.com/watch?v=wIf9yMGalPU</link>
+      <description>ChatGPT Work keeps projects moving. Monitoring what matters, surfacing what needs attention, and picking up where your team leaves off.</description>
+      <pubDate>Mon, 17 Aug 2026 18:25:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=wIf9yMGalPU</guid>
+      <source url="https://www.youtube.com/watch?v=wIf9yMGalPU">OpenAI</source>
+    </item>
+    <item>
       <title>派评 | 近期值得关注的 App</title>
       <link>https://sspai.com/post/113544</link>
       <description>&gt;下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰&gt;实用、好用的正版软件，少数派为你呈现🚀查看全文</description>
       <pubDate>Mon, 17 Aug 2026 18:14:56 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113544</guid>
       <source url="https://sspai.com/post/113544">少数派</source>
+    </item>
+    <item>
+      <title>Base44 如何使用 GPT-5.6 构建应用程序，代币数量减少 20%</title>
+      <link>https://www.youtube.com/watch?v=Cxp2aZQqkYM</link>
+      <description>Base44 helps people turn natural language into production-ready applications and custom AI agents—no coding required.
+
+In this Startup Spotlight, Yoav Farhi, Staff AI Engineer at Base44, shares how the team tested GPT-5.6 across a wide range of app-building scenarios. Compared with GPT-5.5, GPT-5.6 </description>
+      <pubDate>Mon, 17 Aug 2026 15:22:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Cxp2aZQqkYM</guid>
+      <source url="https://www.youtube.com/watch?v=Cxp2aZQqkYM">OpenAI</source>
     </item>
     <item>
       <title>分享我知识管理 12 年来最重要的经验：INL 结构</title>
@@ -179,32 +205,6 @@ IBM 的超级计算机「深蓝」在六局对决中，以 3.5 比 2.5 击败国
       <pubDate>Mon, 17 Aug 2026 09:04:37 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/474518.html</guid>
       <source url="https://www.qbitai.com/2026/08/474518.html">量子位</source>
-    </item>
-    <item>
-      <title>菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想</title>
-      <link>https://www.qbitai.com/2026/08/474381.html</link>
-      <description>AI最近最出圈的数学突破，都在“找反例”</description>
-      <pubDate>Mon, 17 Aug 2026 08:36:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474381.html</guid>
-      <source url="https://www.qbitai.com/2026/08/474381.html">量子位</source>
-    </item>
-    <item>
-      <title>问界「童车」上市，华为联合设计；DeepSeek 涨价策略今日实行；大学生用 AI 人脸视频盗刷 5 万元被判刑</title>
-      <link>http://www.geekpark.net/news/368859</link>
-      <description>IPO 前 Anthropic CEO 达里奥 &amp;middot; 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病
-Anthropic CEO 达里奥 &amp;middot; 阿莫迪（Dario Amodei）几乎从不碰社交媒体。但就在 IPO 估值被推到 2 万亿美元的节骨眼上，他罕见地发了一篇长文，正面回应 Anthropic 如何看待监管。
-长文中，达里奥 &amp;middot; 阿莫迪回「我们设计的每一条政策，都让前沿公司承担更多成本，同时有利于规模更小的竞争者。」他同样支持 Demis Hassabis 提出的、建立一个类似 FINRA（美国金融业监管局）的 AI 监管机构</description>
-      <pubDate>Mon, 17 Aug 2026 08:29:59 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368859</guid>
-      <source url="http://www.geekpark.net/news/368859">极客公园</source>
-    </item>
-    <item>
-      <title>快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用</title>
-      <link>https://www.qbitai.com/2026/08/474361.html</link>
-      <description>智谱GLM-5.3首发上线范式PhanRouter，即日开放调用</description>
-      <pubDate>Mon, 17 Aug 2026 08:26:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474361.html</guid>
-      <source url="https://www.qbitai.com/2026/08/474361.html">量子位</source>
     </item>
   </channel>
 </rss>
