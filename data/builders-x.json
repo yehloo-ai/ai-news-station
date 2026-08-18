@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T06:27:46.023Z",
+  "generatedAt": "2026-08-17T06:28:37.062Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,15 +9,15 @@
       "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
       "tweets": [
         {
-          "id": "2088755688361378082",
-          "text": "in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other. as an outsider i might have assumed that everyone is in secret illuminati group chats. those exist, but are very much short lived exceptions rather than the rule. what you see of the major headlines is pretty much what they also see. i guess one way to interpret this is also simply that most effort is still on doing the work rather than working the narrative or the gossip. and that, to me at least, is genuinely quite reassuring, this far in to my career.",
-          "createdAt": "2026-08-15T22:32:17.000Z",
-          "url": "https://x.com/swyx/status/2088755688361378082",
-          "likes": 233,
-          "retweets": 5,
-          "replies": 18,
+          "id": "2089221797254459822",
+          "text": "5 years later and most of the best players here have been bought https://t.co/SemLNVzXXx https://t.co/Ow9t5om5zd",
+          "createdAt": "2026-08-17T05:24:26.000Z",
+          "url": "https://x.com/swyx/status/2089221797254459822",
+          "likes": 19,
+          "retweets": 1,
+          "replies": 9,
           "isQuote": true,
-          "quotedTweetId": "2088670186153127996"
+          "quotedTweetId": "1429888354192019476"
         }
       ]
     },
@@ -28,35 +28,35 @@
       "bio": "Codex & ChatGPT @OpenAI",
       "tweets": [
         {
-          "id": "2088866513008873560",
-          "text": "On tokens and prices per token.\n\nI said I’d write more about this, so here goes: an OpenAI token != another model’s token. We compare AI prices in dollars per million tokens as if a token were a standardized unit, like a gram or a kilowatt-hour. It isn’t. Different models use and produce the exact same text using different numbers of tokens, which means a lower price per token does not necessarily mean a lower bill.\n\nImagine two identical pizzas. One is cut into 8 slices at $2 each. The other is cut into 16 slices at $1.25 each. The second place advertises cheaper slices, but the whole pizza costs $20 instead of $16. Bummer ... your stomach doesn't actually care about the number of slices you just ate.\n\nI know you are hungry now, but back to tokens. In one small comparison spanning English, technical, multilingual, and numerical text, the tokenizer we use for GPT-5.6 Sol used 766 tokens versus an estimated 1,170 for Claude Opus 5. That's a very significant difference of about 34.5% fewer tokens. You can get the same exact text, but pay for all those extra tokens. The price per token doesn't really tell this story.\n\nEven correcting for tokenizer differences misses the bigger point. What actually matters is price per successful outcome, and for that you can use benchmarks as a starting point, but really you have to try it and measure on your own use cases.\n\nThat's all. May the tokens flow.",
-          "createdAt": "2026-08-16T05:52:40.000Z",
-          "url": "https://x.com/thsottiaux/status/2088866513008873560",
-          "likes": 1006,
-          "retweets": 74,
-          "replies": 280,
+          "id": "2089149255382438340",
+          "text": "Codex\n\n✅ Almost 100% reliable\n✅ Occasional resets\n✅ Open-source\n✅ (will have Astra) https://t.co/DxNdAgpag5",
+          "createdAt": "2026-08-17T00:36:11.000Z",
+          "url": "https://x.com/thsottiaux/status/2089149255382438340",
+          "likes": 7429,
+          "retweets": 245,
+          "replies": 921,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2088850995430477882",
-          "text": "If you have a company and still use Opus instead of Sol, why so? Does price not matter to you? What's something that would convince you to switch?",
-          "createdAt": "2026-08-16T04:51:00.000Z",
-          "url": "https://x.com/thsottiaux/status/2088850995430477882",
-          "likes": 2607,
-          "retweets": 57,
-          "replies": 1503,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2089143488696705077",
+          "text": "GPT-5.6 Sol 1M in Codex. This used to only work for API keys, but we just flipped the switch and works for usage through ChatGPT accounts now too. \n\nThe same warning applies, there is a reason the current context length is the default, we have tuned it to ~perfection. But you do you!",
+          "createdAt": "2026-08-17T00:13:16.000Z",
+          "url": "https://x.com/thsottiaux/status/2089143488696705077",
+          "likes": 3686,
+          "retweets": 171,
+          "replies": 445,
+          "isQuote": true,
+          "quotedTweetId": "2089082893804896524"
         },
         {
-          "id": "2088725514542575903",
-          "text": "Incredible things are happening at OpenAI right now. Energy is high.",
-          "createdAt": "2026-08-15T20:32:23.000Z",
-          "url": "https://x.com/thsottiaux/status/2088725514542575903",
-          "likes": 9357,
-          "retweets": 220,
-          "replies": 1264,
+          "id": "2089082893804896524",
+          "text": "Here is how to enable a 1M-token context window in Codex for GPT-5.6 Sol. \n\nEven though we have tuned the context limit in Codex to be set optimally when it comes to performance and cost, this is a common ask, so here it is documented.\n\nA larger context window lets Codex retain more code, tool output, and conversation history before summarizing older material. You need a model that supports it. And GPT-5.6 Sol, for example, has a documented 1,050,000-token window. \n\nOpen ~/.codex/config.toml and add or update these settings at the top level, before any [section] headers:\n\n```\nmodel = \"gpt-5.6-sol\"\nmodel_context_window = 1000000\nmodel_auto_compact_token_limit = 900000\n```\n\nThe first setting selects the model. The second tells Codex to use a one-million-token context budget. The third starts automatic history compaction around 900,000 tokens, leaving some headroom. Restart Codex client and start a new session after saving. \n\nTo try the configuration for a single CLI session without changing your defaults:\n\n```\ncodex -m gpt-5.6-sol \\\n  -c model_context_window=1000000 \\\n  -c model_auto_compact_token_limit=900000\n```\n\nHave fun, but also know that we tuned the default carefully!",
+          "createdAt": "2026-08-16T20:12:29.000Z",
+          "url": "https://x.com/thsottiaux/status/2089082893804896524",
+          "likes": 11811,
+          "retweets": 925,
+          "replies": 822,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -69,35 +69,35 @@
       "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
       "tweets": [
         {
-          "id": "2088773343629750535",
-          "text": "I am a fan of Grok Bot but @X is the #1 differentiated data source that it should  have access to and it doesn't seem to work? \n\nThe connector doesn't work and I can't even login to X on the cloud computer. \n\nAm I doing something wrong? https://t.co/O5OI9OhETb",
-          "createdAt": "2026-08-15T23:42:27.000Z",
-          "url": "https://x.com/petergyang/status/2088773343629750535",
-          "likes": 137,
-          "retweets": 3,
-          "replies": 31,
+          "id": "2089205978877268334",
+          "text": "I want to use this feature but I'm paranoid that it'll eat up all my tokens. Is it pretty token efficient? https://t.co/zjNnpGb4tJ",
+          "createdAt": "2026-08-17T04:21:35.000Z",
+          "url": "https://x.com/petergyang/status/2089205978877268334",
+          "likes": 39,
+          "retweets": 0,
+          "replies": 20,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2088772605323214999",
-          "text": "I 100% agree with Dario that using AI to cure diseases (and speeding up the regulatory approval of AI breakthroughs in healthcare) could bring 10x the benefit to humanity as everything else combined. https://t.co/1CkVwkyxtW",
-          "createdAt": "2026-08-15T23:39:31.000Z",
-          "url": "https://x.com/petergyang/status/2088772605323214999",
-          "likes": 71,
-          "retweets": 3,
-          "replies": 11,
-          "isQuote": true,
-          "quotedTweetId": "2088758819304443967"
+          "id": "2089182111282729470",
+          "text": "How do I set up this thing to work across all apps not just codex? https://t.co/2N2odVoXix",
+          "createdAt": "2026-08-17T02:46:45.000Z",
+          "url": "https://x.com/petergyang/status/2089182111282729470",
+          "likes": 28,
+          "retweets": 0,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2088626815166464507",
-          "text": "Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content business.\n\nI particularly loved watching him demo how he creates YouTube thumbnails with AI:\n\n1. He uses Codex to find 100 top-performing thumbnails in his niche and add them to a Paper canvas.\n\n2. He uses Paper to mix and match those thumbnails with photos of himself until he creates something he’s happy with.\n\nHonestly, you have to watch the workflow to see how crazy it is.\n\n📌 Subscribe to get the full episode tomorrow: https://t.co/NSTj7ijxE0",
-          "createdAt": "2026-08-15T14:00:12.000Z",
-          "url": "https://x.com/petergyang/status/2088626815166464507",
-          "likes": 94,
-          "retweets": 7,
-          "replies": 9,
+          "id": "2089111410219556916",
+          "text": "Damn nevermind https://t.co/h94Zwu2yio",
+          "createdAt": "2026-08-16T22:05:48.000Z",
+          "url": "https://x.com/petergyang/status/2089111410219556916",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -107,40 +107,29 @@
       "source": "x",
       "name": "Nan Yu",
       "handle": "thenanyu",
-      "bio": "head of product @linear",
+      "bio": "product enthusiast",
       "tweets": [
         {
-          "id": "2088811172090769461",
-          "text": "These two were ahead of their time https://t.co/adjYZkvCM1",
-          "createdAt": "2026-08-16T02:12:46.000Z",
-          "url": "https://x.com/thenanyu/status/2088811172090769461",
-          "likes": 8,
+          "id": "2089146409152872764",
+          "text": "Moving house, and I’m finally ready to let these old friends go https://t.co/UoTPwoe8sU",
+          "createdAt": "2026-08-17T00:24:53.000Z",
+          "url": "https://x.com/thenanyu/status/2089146409152872764",
+          "likes": 19,
           "retweets": 0,
-          "replies": 1,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2088810666958196988",
-          "text": "This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software. https://t.co/V9SzxqFEnL",
-          "createdAt": "2026-08-16T02:10:45.000Z",
-          "url": "https://x.com/thenanyu/status/2088810666958196988",
-          "likes": 18,
-          "retweets": 1,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2088691959695380920"
-        },
-        {
-          "id": "2088808413744558266",
-          "text": "Watches https://t.co/pbushpJPOH",
-          "createdAt": "2026-08-16T02:01:48.000Z",
-          "url": "https://x.com/thenanyu/status/2088808413744558266",
-          "likes": 3,
+          "id": "2088978519594352875",
+          "text": "History rhymes \n\nhttps://t.co/zy7sAmH9Hn https://t.co/vZTsJrH4x3",
+          "createdAt": "2026-08-16T13:17:45.000Z",
+          "url": "https://x.com/thenanyu/status/2088978519594352875",
+          "likes": 2,
           "retweets": 0,
-          "replies": 1,
+          "replies": 0,
           "isQuote": true,
-          "quotedTweetId": "2088687353602994497"
+          "quotedTweetId": "2088866513008873560"
         }
       ]
     },
@@ -151,13 +140,13 @@
       "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
       "tweets": [
         {
-          "id": "2088710566689018103",
-          "text": "There is no longer an excuse for B2B software to have such poor UX.\n\nThanks to AI, every software product can and should be as easy to use as the best consumer software.",
-          "createdAt": "2026-08-15T19:33:00.000Z",
-          "url": "https://x.com/realmadhuguru/status/2088710566689018103",
-          "likes": 55,
-          "retweets": 1,
-          "replies": 9,
+          "id": "2089022997407686663",
+          "text": "the more you earn, the more you crave the things money can’t buy.",
+          "createdAt": "2026-08-16T16:14:29.000Z",
+          "url": "https://x.com/realmadhuguru/status/2089022997407686663",
+          "likes": 57,
+          "retweets": 0,
+          "replies": 6,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -170,26 +159,15 @@
       "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
       "tweets": [
         {
-          "id": "2088721024825344289",
-          "text": "https://t.co/KynBYnZeSi",
-          "createdAt": "2026-08-15T20:14:33.000Z",
-          "url": "https://x.com/trq212/status/2088721024825344289",
-          "likes": 81,
-          "retweets": 4,
-          "replies": 6,
+          "id": "2089085004966207679",
+          "text": "it says a lot that the creators of three of the most iconic web frameworks: django (@simonw), flask (@mitsuhiko) and rails (@dhh) were so AI pilled so early",
+          "createdAt": "2026-08-16T20:20:53.000Z",
+          "url": "https://x.com/trq212/status/2089085004966207679",
+          "likes": 1630,
+          "retweets": 54,
+          "replies": 52,
           "isQuote": false,
           "quotedTweetId": null
-        },
-        {
-          "id": "2088721023223132213",
-          "text": "Watermarking without quality loss is a bit unintuitive, doesn't feel like it should work.\n\nI made this artifact with Claude to help me understand how it works, sharing in case it's helpful. https://t.co/ALReoOH6tB https://t.co/hEPeCHgGRM",
-          "createdAt": "2026-08-15T20:14:33.000Z",
-          "url": "https://x.com/trq212/status/2088721023223132213",
-          "likes": 2565,
-          "retweets": 128,
-          "replies": 427,
-          "isQuote": true,
-          "quotedTweetId": "2088343978873966687"
         }
       ]
     },
@@ -200,15 +178,15 @@
       "bio": "ceo @replit. civilizationist",
       "tweets": [
         {
-          "id": "2088867492907327573",
-          "text": "The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of super exponential growth in compute price-performance. \n\nImprovement in algorithms and continued hardware efficiency gains     means there is no reason to assume AGI-level capabilities will always require a data center to run.\n\nScaling laws are not laws of physics. They’re simply empirical relationships observed for particular architectures, objectives, datasets etc. Change any one of those factors and you get a different scaling curve. \n\nIf the brain is any guide, true AGI will likely be very efficient. In fact, current scaling laws might a bug and not a feature. It shows how inefficiency of the ML algorithms we discovered so far.",
-          "createdAt": "2026-08-16T05:56:34.000Z",
-          "url": "https://x.com/amasad/status/2088867492907327573",
-          "likes": 21,
-          "retweets": 3,
-          "replies": 8,
+          "id": "2089069905375351169",
+          "text": "18x improvement in intelligence per joule in 16 months. https://t.co/lP62kI5rpr https://t.co/LAPXQHLgxJ",
+          "createdAt": "2026-08-16T19:20:53.000Z",
+          "url": "https://x.com/amasad/status/2089069905375351169",
+          "likes": 976,
+          "retweets": 124,
+          "replies": 98,
           "isQuote": true,
-          "quotedTweetId": "2088758816376807762"
+          "quotedTweetId": "2089028986932470156"
         }
       ]
     },
@@ -219,37 +197,56 @@
       "bio": "@vercel CEO",
       "tweets": [
         {
-          "id": "2088838302367732178",
-          "text": "Recursive self improvement https://t.co/wOqa7mW997",
-          "createdAt": "2026-08-16T04:00:34.000Z",
-          "url": "https://x.com/rauchg/status/2088838302367732178",
-          "likes": 131,
-          "retweets": 5,
-          "replies": 19,
+          "id": "2089179650891432270",
+          "text": "https://t.co/BaVgd3k0dc",
+          "createdAt": "2026-08-17T02:36:58.000Z",
+          "url": "https://x.com/rauchg/status/2089179650891432270",
+          "likes": 1418,
+          "retweets": 35,
+          "replies": 137,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2088801077659635715",
-          "text": "Impressive https://t.co/fv5zyLbPNt",
-          "createdAt": "2026-08-16T01:32:39.000Z",
-          "url": "https://x.com/rauchg/status/2088801077659635715",
-          "likes": 168,
-          "retweets": 6,
-          "replies": 10,
-          "isQuote": true,
-          "quotedTweetId": "2088706415586377792"
-        },
-        {
-          "id": "2088757738037989755",
-          "text": "I think people don’t realize how much of the success of React is actually @shadcn.\n\nI once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks. The spec.\n\nShadcn is what people actually wanted from React. Reusable high quality components that also tunable. It’s a pseudo-library. There’s code but it’s actually meant to be digested into your context window and remixed.",
-          "createdAt": "2026-08-15T22:40:26.000Z",
-          "url": "https://x.com/rauchg/status/2088757738037989755",
-          "likes": 1072,
+          "id": "2089126690043916495",
+          "text": "We ran evals on GLM 5.3 cybersecurity capabilities. It's the new open frontier.\n\nGiven its lower costs, I expect this to be a boon for defensive security work. e.g., it means you can run https://t.co/KwrlahlCiK at least 3× more often! https://t.co/aCQDMoxAXI",
+          "createdAt": "2026-08-16T23:06:31.000Z",
+          "url": "https://x.com/rauchg/status/2089126690043916495",
+          "likes": 537,
           "retweets": 27,
-          "replies": 80,
-          "isQuote": false,
-          "quotedTweetId": null
+          "replies": 31,
+          "isQuote": true,
+          "quotedTweetId": "2089123749572616645"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2089209131391729763",
+          "text": "Pretty good way to think about the value of AI agents and where the opportunity lies. You have a technology that will tirelessly do all the things that you could never fully do before. Not because you didn’t want to or it wasn’t valuable, but because it was just not even remotely practical.\n\nThe upside with AI is to think about everything you can now throw intelligence at that won’t give up and what would the returns be. \n\nYou just couldn’t possibly find every security vulnerability in your codebase, because you couldn’t simulate every risk vector. You couldn’t read every contract or document to process the data and capture it to query later. You couldn’t comb through your customer base and look for every relevant data point for doing upsells. And so on. \n\nThis is a pretty clear way to think about how to deploy AI to get real gains, but also where the startup opportunities are as well. Go after the markets where more compute on a problem will qualitatively change what customers can now do in that domain.",
+          "createdAt": "2026-08-17T04:34:07.000Z",
+          "url": "https://x.com/levie/status/2089209131391729763",
+          "likes": 88,
+          "retweets": 5,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2089020697876275202"
+        },
+        {
+          "id": "2088995821056659901",
+          "text": "AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending $660/mo per employee on AI. But the general trend of continued exponential growth is occurring throughout all firm types. \n\nAnd what the top 10% is doing today may easily be what the top 50% is doing in 3 years from now, at least in terms of token volume if not in dollars. This is why there’s still so much opportunity right now in the diffusion of AI in the enterprise.\n\nEspecially as token costs come down, we will throw larger portions of work at agents. They’ll be scanning all our code for security issues, testing all of our software, writing coding for much larger projects, processing nearly all data, and much more. So this trend has no end in sight.",
+          "createdAt": "2026-08-16T14:26:30.000Z",
+          "url": "https://x.com/levie/status/2088995821056659901",
+          "likes": 361,
+          "retweets": 50,
+          "replies": 58,
+          "isQuote": true,
+          "quotedTweetId": "2088314089659662799"
         }
       ]
     },
@@ -260,24 +257,24 @@
       "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
       "tweets": [
         {
-          "id": "2088661047913914847",
-          "text": "Whitepill timeline cleanser: \n\nProgress and abundance looks like record production of crops, year on year, progressing upwards and to the right. This is the output of markets and technology working together for millenia. \n\nhttps://t.co/LXe01sF5G4 https://t.co/VZct22uHUF",
-          "createdAt": "2026-08-15T16:16:13.000Z",
-          "url": "https://x.com/garrytan/status/2088661047913914847",
-          "likes": 117,
-          "retweets": 10,
-          "replies": 24,
+          "id": "2089012934953599263",
+          "text": "Everyone go follow this guy on instagram, he's amazing https://t.co/zSIaTRCjpf",
+          "createdAt": "2026-08-16T15:34:30.000Z",
+          "url": "https://x.com/garrytan/status/2089012934953599263",
+          "likes": 20,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2088642982614651196",
-          "text": "Anyone else's Codex Desktop app erroring out on chats? https://t.co/raNUNTPqbe",
-          "createdAt": "2026-08-15T15:04:26.000Z",
-          "url": "https://x.com/garrytan/status/2088642982614651196",
-          "likes": 223,
-          "retweets": 6,
-          "replies": 83,
+          "id": "2089012811007688746",
+          "text": "There's nothing more conservative than a liberal with a house. https://t.co/GshcvD1duN",
+          "createdAt": "2026-08-16T15:34:00.000Z",
+          "url": "https://x.com/garrytan/status/2089012811007688746",
+          "likes": 322,
+          "retweets": 17,
+          "replies": 27,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -290,15 +287,34 @@
       "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
       "tweets": [
         {
-          "id": "2088716743615352963",
-          "text": "Last week I’m sitting across a stealth portfolio founder working in a deeply unsexy space (at least from Bay Area standards)..\n\nThey’re lamenting about how how some of the critical contracts and partnerships that would give them credibility (and revenue and network effects) are basically stuck at the 1-yard line. This is a massively fragmented market. And this is btw just straight up pure bureaucracy. The champions, terms and everything is lined up. It’s purely a win win situation but summer and one random clause is the issue. And, it might cause them to not reach their ambitious timelines. \n\nAnd I’m sitting there smiling and eventually laughing and at some point they ask what’s funny. I tell them “do you know how long it’ll take anyone to do the same thing as you” - and this is with leverage and relationships that they already have. \n\nAnd, this in the short term is painful but in the long term becomes such a strong moat. That they’ll look back and laugh why they were worried about a few days when in the long term this is what will make them one of the biggest companies in the world. \n\nUnnecessary and 996 performative pain is not the moat. But building entrenched software and relationships that take a lot of pain is a moat :)",
-          "createdAt": "2026-08-15T19:57:32.000Z",
-          "url": "https://x.com/nikunj/status/2088716743615352963",
-          "likes": 96,
+          "id": "2089212708621291766",
+          "text": "What are your favorite technical papers that you have read end to end this year? \n\nAnd separately what are the most riveting reads (scifi ideally) that I should read this year?\n\nI try to parallelize both to keep things interesting 😅",
+          "createdAt": "2026-08-17T04:48:20.000Z",
+          "url": "https://x.com/nikunj/status/2089212708621291766",
+          "likes": 3,
           "retweets": 1,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2088027784442482995"
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2089154019885490449",
+          "text": "Was wondering what this new icon in my menu bar is that I didn't enable and that loaded a slow html box.\n\nTime for Chrome Lite? https://t.co/4Q64q7vdfl",
+          "createdAt": "2026-08-17T00:55:07.000Z",
+          "url": "https://x.com/steipete/status/2089154019885490449",
+          "likes": 147,
+          "retweets": 4,
+          "replies": 33,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -309,51 +325,32 @@
       "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
       "tweets": [
         {
-          "id": "2088780884048552202",
-          "text": "Dario should tweet more https://t.co/N29v9simn6",
-          "createdAt": "2026-08-16T00:12:25.000Z",
-          "url": "https://x.com/danshipper/status/2088780884048552202",
-          "likes": 160,
-          "retweets": 0,
-          "replies": 16,
+          "id": "2089127868903375257",
+          "text": "i am also skeptical of the centralization of power hypothesis\n\nit comes from Lewis Mumford in 1964 who argued:\n\n\"from late Neolithic times in the Near East, right down to our own day, two technologies have recurrently existed side by side: one authoritarian, the other democratic, the first system-centered, immensely powerful, but inherently unstable, the other man-centered, relatively weak, but resourceful and durable.\"\n\nthis echoes around the valley. peter thiel said in 2018, \"crypto is libertarian and AI is communist\"\n\ncertainly today, it seems like we're on track for AI to look more centralized. if you are a hardcore AGI person you believe this will continue. but we're also seeing a resurgence of fine tuning models for specific purposes. and as amjad says, the human brain provides very good evidence for the benefits of decentralization. we just may not see it yet because we're still in the hyperliterate  \"bee\" or \"ant\" days of AI\n\ni'd be surprised if the optimal design continues to be maximally centralized",
+          "createdAt": "2026-08-16T23:11:12.000Z",
+          "url": "https://x.com/danshipper/status/2089127868903375257",
+          "likes": 27,
+          "retweets": 3,
+          "replies": 8,
           "isQuote": true,
-          "quotedTweetId": "2088758816376807762"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Aditya Agarwal",
-      "handle": "adityaag",
-      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
-      "tweets": [
-        {
-          "id": "2088734739893293175",
-          "text": "America turned 250 years old earlier this year. \n\nIndia turns 80 today...80 years young.\n\nBuilding countries is really hard. 80 years in...America was struggling with a civil war.\n\nIndians should be damn proud of the country they have built. \n\nLike America, India wants more. She wants to be better and stronger and more successful. She will get there.",
-          "createdAt": "2026-08-15T21:09:03.000Z",
-          "url": "https://x.com/adityaag/status/2088734739893293175",
-          "likes": 880,
-          "retweets": 45,
-          "replies": 34,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2088867492907327573"
         },
         {
-          "id": "2088629172512195035",
-          "text": "This is remarkably well done.\n\nAnd of course featuring our very own @shreepoorna365.\n\nLet's go. https://t.co/UacgWndqL4",
-          "createdAt": "2026-08-15T14:09:34.000Z",
-          "url": "https://x.com/adityaag/status/2088629172512195035",
-          "likes": 90,
-          "retweets": 5,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2088513518584697085"
+          "id": "2089121597017759800",
+          "text": "used fable to vibe code an app that visualizes and groups everyone who applied to come to Thesis \n\nwe live in incredible times where detailed understanding of each of your customers—and how they cluster together in groups—is possible with very little effort https://t.co/UBkHaDIDhK",
+          "createdAt": "2026-08-16T22:46:17.000Z",
+          "url": "https://x.com/danshipper/status/2089121597017759800",
+          "likes": 88,
+          "retweets": 0,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 12,
-    "totalTweets": 23
+    "xBuilders": 13,
+    "totalTweets": 22
   }
 }
