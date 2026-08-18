@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 07:53:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:56:13 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会</title>
+      <link>https://sspai.com/post/113564</link>
+      <description>二次元加爵士，你说有没有搞头？音乐人介绍炒饭（B站），本职是常驻波士顿的程序员社畜，同时也是多乐器演奏音乐人、B站UP主。炒饭没有专业科班学习经历，却凭兴趣及自学掌握了多种音乐技能，专辑音乐均为自己在 ...查看全文</description>
+      <pubDate>Tue, 18 Aug 2026 15:05:05 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113564</guid>
+      <source url="https://sspai.com/post/113564">少数派</source>
+    </item>
     <item>
       <title>App+1 | 让任务栏更有用：WindowSill</title>
       <link>https://sspai.com/post/113438</link>
@@ -74,6 +82,14 @@
       <pubDate>Tue, 18 Aug 2026 07:55:18 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368929</guid>
       <source url="http://www.geekpark.net/news/368929">极客公园</source>
+    </item>
+    <item>
+      <title>6个Agent组团Vibe Gaming：自己生成、试玩、修Bug</title>
+      <link>https://www.qbitai.com/2026/08/474806.html</link>
+      <description>代码能跑≠游戏能玩</description>
+      <pubDate>Tue, 18 Aug 2026 07:33:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474806.html</guid>
+      <source url="https://www.qbitai.com/2026/08/474806.html">量子位</source>
     </item>
     <item>
       <title>今日起，阿里“千问办公”接入企业微信</title>
@@ -174,24 +190,6 @@ Abstract: Large language models (LLMs) are increasingly evaluated and used in me
       <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.14552</guid>
       <source url="https://arxiv.org/abs/2608.14552">ArXiv AI</source>
-    </item>
-    <item>
-      <title>不成文的基准：抽象感知推理中多模态机器学习的新挑战</title>
-      <link>https://arxiv.org/abs/2608.14558</link>
-      <description>arXiv:2608.14558v1 Announce Type: new 
-Abstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, their capacity for abstract perceptual reasoning, inferring unseen information from dynamic, generative processes, remains a</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.14558</guid>
-      <source url="https://arxiv.org/abs/2608.14558">ArXiv AI</source>
-    </item>
-    <item>
-      <title>何时进行沟通：多智能体强化学习中原则性门控的置信分布和 KL 散度</title>
-      <link>https://arxiv.org/abs/2608.14559</link>
-      <description>arXiv:2608.14559v1 Announce Type: new 
-Abstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \textit{what} to communicate, but when? Existing approaches either communicate at every timestep or learn a binary gate through REINFORCE policy gradients</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.14559</guid>
-      <source url="https://arxiv.org/abs/2608.14559">ArXiv AI</source>
     </item>
   </channel>
 </rss>
