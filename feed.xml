@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 07:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:53:06 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>App+1 | 让任务栏更有用：WindowSill</title>
+      <link>https://sspai.com/post/113438</link>
+      <description>屏幕不是注意力中心的地方可以塞下多少有用的东西呢？查看全文</description>
+      <pubDate>Tue, 18 Aug 2026 14:30:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113438</guid>
+      <source url="https://sspai.com/post/113438">少数派</source>
+    </item>
     <item>
       <title>TikTok带货博主卷疯快递：三天，从深圳到伦敦</title>
       <link>http://www.geekpark.net/news/368962</link>
@@ -66,6 +74,30 @@
       <pubDate>Tue, 18 Aug 2026 07:55:18 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368929</guid>
       <source url="http://www.geekpark.net/news/368929">极客公园</source>
+    </item>
+    <item>
+      <title>今日起，阿里“千问办公”接入企业微信</title>
+      <link>https://www.qbitai.com/2026/08/474803.html</link>
+      <description>国内三大办公平台全面支持</description>
+      <pubDate>Tue, 18 Aug 2026 07:17:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474803.html</guid>
+      <source url="https://www.qbitai.com/2026/08/474803.html">量子位</source>
+    </item>
+    <item>
+      <title>奔驰连发两款重磅油车：C 级全面焕新，国产 GLE 剑指 X5L</title>
+      <link>https://www.ifanr.com/1675486?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>奔驰最近很忙。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 18 Aug 2026 06:52:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675486?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675486?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>吉利汽车业绩高点，李书福激流勇退</title>
+      <link>https://www.qbitai.com/2026/08/474736.html</link>
+      <description>“吉利不再研发传统燃油车”</description>
+      <pubDate>Tue, 18 Aug 2026 06:46:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474736.html</guid>
+      <source url="https://www.qbitai.com/2026/08/474736.html">量子位</source>
     </item>
     <item>
       <title>650亿美元！IPO前夕，Anthropic营收底牌曝光</title>
@@ -160,42 +192,6 @@ Abstract: Effective communication in multi-agent reinforcement learning requires
       <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.14559</guid>
       <source url="https://arxiv.org/abs/2608.14559">ArXiv AI</source>
-    </item>
-    <item>
-      <title>全球人工智能高风险用例中的公平和道德法规：比较审查</title>
-      <link>https://arxiv.org/abs/2608.14562</link>
-      <description>arXiv:2608.14562v1 Announce Type: new 
-Abstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertainty for operators of high-stakes AI. We present a comparative matrix for the EU, US, and China that m</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.14562</guid>
-      <source url="https://arxiv.org/abs/2608.14562">ArXiv AI</source>
-    </item>
-    <item>
-      <title>使用 Cochain-Frame 等变学习物理场的离散黎曼度量</title>
-      <link>https://arxiv.org/abs/2608.14556</link>
-      <description>arXiv:2608.14556v1 Announce Type: new 
-Abstract: Physical fields on meshes require a separation between topology and geometry: conservation laws are topological and should be exact, while geometry, material response, and anisotropic coupling must be learned from data. Existing neural surrogates ofte</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.14556</guid>
-      <source url="https://arxiv.org/abs/2608.14556">ArXiv ML</source>
-    </item>
-    <item>
-      <title>前向传播域适应（无跨层反向传播）</title>
-      <link>https://arxiv.org/abs/2608.14563</link>
-      <description>arXiv:2608.14563v1 Announce Type: new 
-Abstract: Forward-Pass-Only MLP training (FPO) adapts large language models without a backward pass through the model body, achieving 2.7--3.2x the throughput of standard fine-tuning at ~40% less peak training memory, while leaving off-domain benchmarks within </description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.14563</guid>
-      <source url="https://arxiv.org/abs/2608.14563">ArXiv ML</source>
-    </item>
-    <item>
-      <title>用于城市系统轨迹生成的从粗到细的多分辨率扩散模型</title>
-      <link>https://arxiv.org/abs/2608.14570</link>
-      <description>arXiv:2608.14570v1 Announce Type: new 
-Abstract: Understanding human mobility is critical for a wide range of urban applications, including traffic management, epidemic control, and urban planning. However, due to privacy concerns, the availability of large-scale public trajectory data remains limit</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.14570</guid>
-      <source url="https://arxiv.org/abs/2608.14570">ArXiv ML</source>
     </item>
   </channel>
 </rss>
