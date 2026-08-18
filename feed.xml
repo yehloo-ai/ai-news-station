@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 05:43:20 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>7月音乐精选：夏天赠予我们的 9张专辑</title>
@@ -52,6 +52,14 @@
       <pubDate>Tue, 18 Aug 2026 07:55:18 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368929</guid>
       <source url="http://www.geekpark.net/news/368929">极客公园</source>
+    </item>
+    <item>
+      <title>阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了</title>
+      <link>https://www.qbitai.com/2026/08/474647.html</link>
+      <description>MyContext补上Agent的数据加工层</description>
+      <pubDate>Tue, 18 Aug 2026 04:40:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474647.html</guid>
+      <source url="https://www.qbitai.com/2026/08/474647.html">量子位</source>
     </item>
     <item>
       <title>Claude 给所有 AI 文字加了水印，全球用户彻底怒了！</title>
@@ -184,15 +192,6 @@ Abstract: As AI datacenters retire functional GPUs, vast quantities of still cap
       <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.14614</guid>
       <source url="https://arxiv.org/abs/2608.14614">ArXiv ML</source>
-    </item>
-    <item>
-      <title>法学硕士辅助系统审查筛选的辅助不确定性信号：八个 Cohen 药物类别审查的基准</title>
-      <link>https://arxiv.org/abs/2608.14551</link>
-      <description>arXiv:2608.14551v1 Announce Type: new 
-Abstract: Large language models (LLMs) are increasingly used for title-abstract screening in systematic reviews, but their decisions lack calibrated uncertainty. We show that an auxiliary BERT+GCN classifier supplies a structured uncertainty signal that improve</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.14551</guid>
-      <source url="https://arxiv.org/abs/2608.14551">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
