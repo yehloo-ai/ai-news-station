@@ -53,86 +53,81 @@
       overflow: hidden;
     }
 
-    .poster-inner { padding: 40px 38px 34px; }
+    .poster-inner { padding: 30px 32px 28px; }
 
     .brand {
       display: flex;
       align-items: center;
-      gap: 16px;
-      margin-bottom: 34px;
+      gap: 12px;
+      margin-bottom: 18px;
     }
 
-    .brand-mark {
-      width: 64px;
-      height: 64px;
-      display: grid;
-      place-items: center;
-      border-radius: 10px;
-      background: var(--accent);
-      color: #fff;
-      font-size: 48px;
-      font-weight: 900;
-      line-height: 1;
+    .brand-logo {
+      width: 44px;
+      height: 44px;
+      display: block;
+      border-radius: 6px;
     }
 
     .brand-name {
-      font-size: 28px;
-      font-weight: 900;
+      font-size: 18px;
+      font-weight: 800;
       letter-spacing: 0;
     }
 
     .headline {
-      margin: 0 0 22px;
-      font-size: clamp(58px, 8vw, 92px);
-      line-height: 0.98;
+      margin: 0 0 12px;
+      font-size: 34px;
+      line-height: 1.2;
+      font-weight: 800;
       letter-spacing: 0;
     }
 
-    .headline span { color: var(--accent); }
+    .headline span { color: inherit; }
 
     .red-line {
-      height: 6px;
+      height: 3px;
       width: 100%;
       background: linear-gradient(90deg, var(--accent), var(--accent) 86%, transparent 86%);
-      margin-bottom: 28px;
+      margin-bottom: 18px;
     }
 
     .meta-row {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      gap: 14px;
-      margin-bottom: 34px;
+      gap: 10px;
+      margin-bottom: 22px;
     }
 
     .date-pill {
       display: inline-flex;
       align-items: center;
-      min-height: 44px;
-      padding: 0 16px;
+      min-height: 32px;
+      padding: 0 12px;
       border-radius: 8px;
-      background: var(--accent);
+      background: var(--ink);
       color: #fff;
-      font-size: 24px;
-      font-weight: 900;
+      font-size: 15px;
+      font-weight: 750;
     }
 
     .count-pill {
       display: inline-flex;
       align-items: center;
-      gap: 10px;
-      min-height: 44px;
-      padding: 0 16px;
+      gap: 7px;
+      min-height: 34px;
+      padding: 0 12px;
       border-radius: 999px;
       background: var(--soft);
       color: var(--ink);
-      font-size: 21px;
-      font-weight: 850;
+      font-size: 15px;
+      font-weight: 750;
     }
 
     .dot {
-      width: 13px;
-      height: 13px;
+      width: 9px;
+      height: 9px;
       border-radius: 50%;
       background: var(--green);
     }
@@ -140,8 +135,8 @@
     .timeline {
       position: relative;
       display: grid;
-      gap: 20px;
-      padding-left: 34px;
+      gap: 14px;
+      padding-left: 28px;
     }
 
     .timeline::before {
@@ -149,28 +144,28 @@
       position: absolute;
       top: 10px;
       bottom: 10px;
-      left: 9px;
+      left: 7px;
       width: 2px;
-      background: var(--accent);
+      background: var(--ink);
       opacity: 0.36;
     }
 
     .section {
       position: relative;
-      padding: 22px;
+      padding: 16px;
       border: 1px solid var(--line);
       border-radius: 10px;
       background: var(--paper);
-      box-shadow: 0 10px 26px rgba(17, 24, 39, 0.08);
+      box-shadow: 0 4px 14px rgba(17, 24, 39, 0.05);
     }
 
     .section::before {
       content: "";
       position: absolute;
-      top: 28px;
-      left: -34px;
-      width: 16px;
-      height: 16px;
+      top: 22px;
+      left: -28px;
+      width: 13px;
+      height: 13px;
       border: 4px solid var(--paper);
       border-radius: 50%;
       background: var(--accent);
@@ -180,34 +175,35 @@
     .section-head {
       display: flex;
       align-items: center;
-      gap: 12px;
-      margin-bottom: 16px;
+      gap: 9px;
+      margin-bottom: 11px;
     }
 
     .section-num {
-      width: 48px;
-      height: 48px;
+      width: 30px;
+      height: 30px;
       display: grid;
       place-items: center;
       border-radius: 8px;
-      background: var(--accent);
-      color: #fff;
-      font-size: 26px;
+      border: 1px solid var(--line);
+      background: var(--soft);
+      color: var(--accent);
+      font-size: 14px;
       font-weight: 900;
     }
 
     .section-title {
-      padding: 8px 12px;
-      border-radius: 8px;
-      background: var(--accent-soft);
-      color: var(--accent);
-      font-size: 24px;
-      font-weight: 900;
+      padding: 5px 8px;
+      border-radius: 5px;
+      background: var(--soft);
+      color: var(--ink);
+      font-size: 15px;
+      font-weight: 800;
     }
 
     .story-list {
       display: grid;
-      gap: 12px;
+      gap: 9px;
       margin: 0;
       padding: 0;
       list-style: none;
@@ -216,10 +212,10 @@
     .story {
       display: grid;
       grid-template-columns: 8px 1fr;
-      gap: 12px;
+      gap: 9px;
       align-items: start;
       color: var(--ink);
-      font-size: 19px;
+      font-size: 16px;
       line-height: 1.45;
       font-weight: 720;
     }
@@ -228,16 +224,16 @@
       content: "";
       width: 7px;
       height: 7px;
-      margin-top: 10px;
+      margin-top: 8px;
       border-radius: 50%;
-      background: var(--accent);
+      background: #64748b;
     }
 
     .story-source {
       display: block;
-      margin-top: 4px;
+      margin-top: 3px;
       color: var(--muted);
-      font-size: 14px;
+      font-size: 12px;
       font-weight: 600;
     }
 
@@ -338,17 +334,16 @@
         position: static;
       }
       .poster-inner {
-        padding: 28px 24px 26px;
+        padding: 24px 18px 22px;
       }
-      .brand-mark {
-        width: 48px;
-        height: 48px;
-        font-size: 36px;
+        .brand-logo {
+        width: 38px;
+        height: 38px;
       }
-      .brand-name { font-size: 22px; }
-      .headline { font-size: 54px; }
-      .section-title { font-size: 20px; }
-      .story { font-size: 17px; }
+      .brand-name { font-size: 18px; }
+      .headline { font-size: 28px; }
+      .section-title { font-size: 14px; }
+      .story { font-size: 15px; }
       .footer {
         grid-template-columns: 1fr;
       }
@@ -363,7 +358,7 @@
     <main class="poster" id="poster">
       <div class="poster-inner">
         <div class="brand">
-          <div class="brand-mark">7</div>
+          <img class="brand-logo" src="site-logo.png" width="44" height="44" alt="飞翔的AI资讯站标识">
           <div class="brand-name">飞翔的AI资讯站</div>
         </div>
         <h1 class="headline">AI <span>日报速览</span></h1>
@@ -422,17 +417,19 @@
 
     function pickStories(items, date) {
       const todayItems = items.filter(item => String(item.pubDate || "").slice(0, 10) === date);
-      const source = todayItems.length ? todayItems : items.slice(0, 18);
+      const source = todayItems.length ? todayItems : items.slice(0, 24);
       const used = new Set();
-      return GROUPS.map((group, index) => {
+      return GROUPS.map(group => {
         const matches = source.filter(item => {
           const text = `${item.title || ""} ${item.description || ""} ${item.source || ""}`;
           return group.test(text) && !used.has(item.link || item.title);
-        }).slice(0, index === 0 ? 2 : 1);
+        }).slice(0, 3);
         matches.forEach(item => used.add(item.link || item.title));
-        const fallback = source.filter(item => !used.has(item.link || item.title)).slice(0, index === 0 ? 2 - matches.length : 1 - matches.length);
+        const fallback = source.filter(item => !used.has(item.link || item.title)).slice(0, 3 - matches.length);
         fallback.forEach(item => used.add(item.link || item.title));
-        return { ...group, items: matches.concat(fallback) };
+        const reserve = items.filter(item => !used.has(item.link || item.title)).slice(0, 3 - matches.length - fallback.length);
+        reserve.forEach(item => used.add(item.link || item.title));
+        return { ...group, items: matches.concat(fallback, reserve) };
       });
     }
 
