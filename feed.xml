@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:40:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:53:50 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线</title>
@@ -35,6 +35,23 @@
       <pubDate>Wed, 19 Aug 2026 20:19:12 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369047</guid>
       <source url="http://www.geekpark.net/news/369047">极客公园</source>
+    </item>
+    <item>
+      <title>DeepSeek 刚刚让封闭式人工智能看起来很荒谬</title>
+      <link>https://www.youtube.com/watch?v=kyYepbhe1g8</link>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
+
+DeepSeek V4 Pro 0813:
+https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813
+
+DSpark full episode: https://www.youtube.com/watch?v=1yBU41auQhw
+
+Sources:
+https://x.com/cline/status/2087602193205694891
+https://x.com/T</description>
+      <pubDate>Wed, 19 Aug 2026 18:02:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=kyYepbhe1g8</guid>
+      <source url="https://www.youtube.com/watch?v=kyYepbhe1g8">Two Minute Papers</source>
     </item>
     <item>
       <title>iOS 27 测试版近期动向，还有 Apple 产品新消息</title>
@@ -184,14 +201,6 @@ OpenAI 表示，截至 6 月的三个月内，公司营收增至 67 亿美元，
       <pubDate>Wed, 19 Aug 2026 07:22:19 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/475476.html</guid>
       <source url="https://www.qbitai.com/2026/08/475476.html">量子位</source>
-    </item>
-    <item>
-      <title>从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑</title>
-      <link>https://www.qbitai.com/2026/08/475460.html</link>
-      <description>“做物理，要敢于提出蠢问题”</description>
-      <pubDate>Wed, 19 Aug 2026 06:35:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/475460.html</guid>
-      <source url="https://www.qbitai.com/2026/08/475460.html">量子位</source>
     </item>
   </channel>
 </rss>
