@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 19 Aug 2026 08:54:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:48:36 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了</title>
@@ -56,6 +56,14 @@
       <pubDate>Wed, 19 Aug 2026 08:30:54 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113607</guid>
       <source url="https://sspai.com/post/113607">少数派</source>
+    </item>
+    <item>
+      <title>MiniMax核心工程负责人阿岛离职</title>
+      <link>https://www.qbitai.com/2026/08/475869.html</link>
+      <description>从技术研发到开发者沟通，长期活跃在开发者一线</description>
+      <pubDate>Wed, 19 Aug 2026 08:23:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/475869.html</guid>
+      <source url="https://www.qbitai.com/2026/08/475869.html">量子位</source>
     </item>
     <item>
       <title>苹果「摄像头耳机」曝光；小米机器人将亮相机器人大会；特斯拉与 SpaceX 合并预期升温 | 极客早知道</title>
@@ -174,15 +182,6 @@ Abstract: Clinical trial programming -- transforming study protocols into analys
       <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.16890</guid>
       <source url="https://arxiv.org/abs/2608.16890">ArXiv AI</source>
-    </item>
-    <item>
-      <title>代理人工智能的运行时治理：具有可信来源和故障关闭执行的动作边界控制</title>
-      <link>https://arxiv.org/abs/2608.16891</link>
-      <description>arXiv:2608.16891v1 Announce Type: new 
-Abstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text generation to harmful operational side effects. Prompt-level governance can shape mod</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.16891</guid>
-      <source url="https://arxiv.org/abs/2608.16891">ArXiv AI</source>
     </item>
   </channel>
 </rss>
