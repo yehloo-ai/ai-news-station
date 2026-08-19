@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>飞翔的AI资讯站 — AI 行业资讯聚合 · 每日 AI 日报</title>
+  <title>AI资讯站</title>
   <meta name="description" content="飞翔的AI资讯站：聚合国内外 20+ 主流媒体的 AI 资讯，覆盖产品发布、行业动态、论文研究、AI 设计等 7 大频道，外文自动翻译，实时更新，并提供每日 AI 日报存档。">
   <meta name="google-site-verification" content="o1ypFKflQRbCQp6Al499inns-RPMuzUGwjx49idKP2k">
   <link rel="canonical" href="https://yehloolau-afk.github.io/ai-news-station/">
@@ -531,6 +531,7 @@
     }
     .feed-source-line { position: relative; }
     .source-info { display: none; }
+    .daily-source-mobile { display: none; }
     .chronicle-tabs { display: none; }
     .mobile-only { display: none; }
     /* ── AI 工具库 ── */
@@ -1244,8 +1245,9 @@
       /* 日报信息头：移动端整合标题、日期与操作，减少重复层级 */
       .dnp-hero {
         padding: 12px 0 14px;
-        margin-bottom: 20px;
+        margin-bottom: 0;
         border-top: 0;
+        border-bottom: 0;
       }
       .dnp-title {
         display: flex;
@@ -1255,7 +1257,7 @@
         font-size: 21px;
         line-height: 1.25;
       }
-      .dnp-title span { color: inherit; }
+      .dnp-title > span:first-of-type { color: var(--accent); }
       .dnp-mobile-count {
         display: inline;
         color: var(--muted);
@@ -1326,6 +1328,11 @@
         align-items: center;
         gap: 8px;
         min-width: 0;
+      }
+      .daily-source-desktop { display: none; }
+      .daily-source-mobile {
+        display: flex;
+        margin: 14px 0 20px;
       }
       .feed-source-text {
         min-width: 0;
@@ -1678,7 +1685,7 @@
 
 <!-- 移动端顶栏（手机显示，PC隐藏） -->
 <div class="mobile-header">
-  <span class="mobile-header-title">AI资讯站</span>
+  <span class="mobile-header-title">飞翔的AI资讯站</span>
   <button class="mobile-refresh-btn" onclick="manualRefresh()" title="刷新" aria-label="刷新资讯">
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
       <path d="M1 4v6h6M23 20v-6h-6M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/>
@@ -3475,7 +3482,7 @@ function renderTab(tab, items, feedErrors = [], aiHotData = null) {
     const newsHtml = aiHotData?.sections
       ? renderAiHotDaily(aiHotData)
       : `${errorBanner}${renderDailyNewspaper(items)}`;
-    const dailySourceLine = sourceLine;
+    const dailySourceLine = feedSourceLine(tab.feeds, 'daily-source-desktop');
     main.innerHTML = `
       <div class="daily-archive-col" id="archiveCol"></div>
       <div class="daily-content-col" id="dailyContentCol">${dailySourceLine}<div id="dailyBody">${newsHtml}</div></div>`;
@@ -3558,7 +3565,7 @@ function renderTab(tab, items, feedErrors = [], aiHotData = null) {
     ${tab.id === 'all' ? `<div id="allListWrap">${content}</div>` : content}`;
 }
 
-function feedSourceLine(feeds) {
+function feedSourceLine(feeds, extraClass = '') {
   const list = feeds || [];
   const sourceText = '来源：' + list.map(feed => feed.name).join(' | ');
   const sourceItems = list.map(feed => `
@@ -3566,7 +3573,7 @@ function feedSourceLine(feeds) {
       <span class="source-popover-dot" style="background:${esc(feed.color || '#8b949e')}"></span>
       <span>${esc(feed.name)}</span>
     </div>`).join('');
-  return `<div class="source-pills feed-source-line">
+  return `<div class="source-pills feed-source-line${extraClass ? ` ${extraClass}` : ''}">
     <span class="feed-source-text">${esc(sourceText)}</span>
     <details class="source-info">
       <summary aria-label="查看全部数据源" title="查看全部数据源"><span aria-hidden="true">i</span></summary>
@@ -3752,6 +3759,7 @@ function renderAiHotDaily(data) {
         </span>
       </div>
     </div>
+    ${feedSourceLine(SHARED_FEEDS, 'daily-source-mobile')}
     ${sectionsHtml||'<div class="empty-state"><div class="empty-icon">📭</div><p>暂无内容</p></div>'}`;
 }
 
@@ -3833,6 +3841,7 @@ function renderDailyNewspaper(items) {
         </span>
       </div>
     </div>
+    ${feedSourceLine(SHARED_FEEDS, 'daily-source-mobile')}
     ${sectionsHtml}`;
 }
 
