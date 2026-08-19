@@ -58,15 +58,7 @@
     .brand {
       display: flex;
       align-items: center;
-      gap: 12px;
       margin-bottom: 18px;
-    }
-
-    .brand-logo {
-      width: 44px;
-      height: 44px;
-      display: block;
-      border-radius: 6px;
     }
 
     .brand-name {
@@ -168,13 +160,13 @@
       position: absolute;
       top: 22px;
       left: calc(var(--rail-x) - 28px);
-      width: 13px;
-      height: 13px;
+      width: 7px;
+      height: 7px;
       transform: translateX(-50%);
-      border: 4px solid var(--paper);
+      border: 2px solid var(--paper);
       border-radius: 50%;
       background: var(--accent);
-      box-shadow: 0 0 0 2px rgba(208, 25, 34, 0.2);
+      box-shadow: 0 0 0 1px rgba(208, 25, 34, 0.2);
     }
 
     .section-head {
@@ -243,10 +235,7 @@
     }
 
     .footer {
-      display: grid;
-      grid-template-columns: 1fr 112px;
-      gap: 22px;
-      align-items: center;
+      display: block;
       margin-top: 28px;
       padding: 20px;
       border-radius: 10px;
@@ -264,18 +253,6 @@
       color: var(--muted);
       font-size: 15px;
       word-break: break-all;
-    }
-
-    .qr {
-      width: 112px;
-      aspect-ratio: 1;
-      border: 8px solid #fff;
-      border-radius: 8px;
-      background:
-        linear-gradient(90deg, #111 12px, transparent 12px) 0 0 / 28px 28px,
-        linear-gradient(#111 12px, transparent 12px) 0 0 / 28px 28px,
-        #fff;
-      outline: 1px solid var(--line);
     }
 
     .panel {
@@ -341,20 +318,10 @@
       .poster-inner {
         padding: 24px 18px 22px;
       }
-        .brand-logo {
-        width: 38px;
-        height: 38px;
-      }
       .brand-name { font-size: 18px; }
       .headline { font-size: 28px; }
       .section-title { font-size: 14px; }
       .story { font-size: 15px; }
-      .footer {
-        grid-template-columns: 1fr;
-      }
-      .qr {
-        width: 96px;
-      }
     }
   </style>
 </head>
@@ -363,7 +330,6 @@
     <main class="poster" id="poster">
       <div class="poster-inner">
         <div class="brand">
-          <img class="brand-logo" src="site-logo.png" width="44" height="44" alt="飞翔的AI资讯站标识">
           <div class="brand-name">飞翔的AI资讯站</div>
         </div>
         <h1 class="headline">AI <span>日报速览</span></h1>
@@ -378,7 +344,6 @@
             <p class="footer-title">2 分钟读懂今天的 AI</p>
             <p class="footer-url">yehloolau-afk.github.io/ai-news-station</p>
           </div>
-          <div class="qr" aria-label="二维码占位"></div>
         </footer>
       </div>
     </main>
