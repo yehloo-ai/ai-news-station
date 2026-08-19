@@ -342,12 +342,6 @@
     .refresh-btn.loading { opacity: 0.5; pointer-events: none; }
     .btn-row { display: flex; gap: 6px; margin-top: 6px; }
     .btn-row .refresh-btn { margin-top: 0; flex: 1 1 0; min-width: 0; text-decoration: none; }
-    .share-entry-btn {
-      background: var(--accent-muted);
-      border-color: var(--accent-border);
-      color: var(--accent);
-      font-weight: 700;
-    }
     .subscribe-btn {
       margin-top: 6px;
       width: 100%;
@@ -535,6 +529,10 @@
       margin-top: -6px;
       line-height: 1.6;
     }
+    .feed-source-line { position: relative; }
+    .source-info { display: none; }
+    .chronicle-tabs { display: none; }
+    .mobile-only { display: none; }
     /* ── AI 工具库 ── */
     /* 顶部搜索框 */
     .tool-search { position: relative; margin-bottom: 12px; }
@@ -1043,10 +1041,11 @@
       font-size: 58px;
       font-weight: 800;
       line-height: 1;
-      letter-spacing: -0.03em;
+      letter-spacing: 0;
       margin-bottom: 14px;
     }
     .dnp-title span { color: var(--accent); }
+    .dnp-mobile-count { display: none; }
     .dnp-dateline {
       display: flex;
       align-items: center;
@@ -1242,8 +1241,34 @@
       .archive-day-row { min-width: 36px; padding: 5px 6px; font-size: 12px; }
       .daily-content-col { overflow: visible; padding: 14px 16px 80px; }
 
-      /* 日报大标题缩小 */
-      .dnp-title { font-size: 30px; }
+      /* 日报信息头：移动端整合标题、日期与操作，减少重复层级 */
+      .dnp-hero {
+        padding: 12px 0 14px;
+        margin-bottom: 20px;
+        border-top: 0;
+      }
+      .dnp-title {
+        display: flex;
+        align-items: baseline;
+        gap: 8px;
+        margin-bottom: 8px;
+        font-size: 21px;
+        line-height: 1.25;
+      }
+      .dnp-title span { color: inherit; }
+      .dnp-mobile-count {
+        display: inline;
+        color: var(--muted);
+        font-size: 11px;
+        font-weight: 500;
+      }
+      .dnp-dateline {
+        gap: 8px;
+        font-size: 11px;
+      }
+      .dnp-dateline-sep,
+      .dnp-summary { display: none; }
+      .dnp-actions { margin-left: auto; }
 
       /* 推荐理由：左侧「推荐/理由」纵向排列，短竖线分隔 */
       .rec-tip-label {
@@ -1258,6 +1283,11 @@
       /* 标题与间距微调 */
       .section-header { flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
       .section-title { font-size: 16px; }
+      .section-header .section-tagline,
+      .section-header .section-meta,
+      .section-header .section-sub { display: none; }
+      .desktop-only { display: none; }
+      .mobile-only { display: inline; }
       .source-pills { font-size: 10px; margin-bottom: 12px; }
       /* 日报时间轴列宽收窄 */
       .dnp-row { grid-template-columns: 60px 1fr; }
@@ -1278,10 +1308,12 @@
         align-items: center; gap: 10px;
       }
       .mobile-header-title {
-        font-weight: 700; font-size: 15px;
+        font-weight: 800; font-size: 17px;
         flex: 1; color: var(--text);
       }
       .mobile-refresh-btn {
+        width: 40px; height: 40px;
+        justify-content: center;
         border: none; background: transparent;
         cursor: pointer; padding: 6px;
         color: var(--muted);
@@ -1289,19 +1321,116 @@
         border-radius: 6px; transition: color 0.12s;
       }
       .mobile-refresh-btn:active { color: var(--accent); }
-      .mobile-share-btn {
-        border: 1px solid var(--accent-border);
-        background: var(--accent-muted);
-        color: var(--accent);
-        padding: 5px 9px;
-        border-radius: 14px;
-        font-size: 11px;
-        font-weight: 700;
-        text-decoration: none;
+      .feed-source-line {
         display: flex;
         align-items: center;
+        gap: 8px;
+        min-width: 0;
+      }
+      .feed-source-text {
+        min-width: 0;
+        flex: 1;
+        overflow: hidden;
+        text-overflow: ellipsis;
         white-space: nowrap;
-        flex-shrink: 0;
+      }
+      .source-info {
+        display: block;
+        position: relative;
+        flex: 0 0 auto;
+      }
+      .source-info summary {
+        width: 40px;
+        height: 40px;
+        display: grid;
+        place-items: center;
+        border: 0;
+        background: transparent;
+        cursor: pointer;
+        list-style: none;
+      }
+      .source-info summary span {
+        width: 25px;
+        height: 25px;
+        display: grid;
+        place-items: center;
+        border: 1px solid var(--border);
+        border-radius: 50%;
+        background: var(--card-bg);
+        color: var(--muted);
+        font-size: 12px;
+        font-weight: 800;
+        font-family: Georgia, serif;
+      }
+      .source-info summary::-webkit-details-marker { display: none; }
+      .source-info[open] summary span {
+        border-color: var(--accent-border);
+        color: var(--accent);
+        background: var(--accent-muted);
+      }
+      .source-popover {
+        position: absolute;
+        top: 48px;
+        right: 0;
+        z-index: 190;
+        width: min(300px, calc(100vw - 32px));
+        max-height: 280px;
+        overflow-y: auto;
+        padding: 14px;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        background: var(--card-bg);
+        color: var(--text);
+        box-shadow: 0 12px 30px rgba(0,0,0,0.16);
+      }
+      .source-popover-title {
+        margin-bottom: 9px;
+        font-size: 12px;
+        font-weight: 800;
+      }
+      .source-popover-list {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 7px 12px;
+      }
+      .source-popover-item {
+        min-width: 0;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        font-size: 11px;
+        color: var(--muted);
+      }
+      .source-popover-dot {
+        width: 7px;
+        height: 7px;
+        border-radius: 50%;
+        flex: 0 0 auto;
+      }
+      .chronicle-tabs {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 3px;
+        padding: 3px;
+        margin: -4px 0 16px;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        background: var(--bg);
+      }
+      .chronicle-tab {
+        min-height: 40px;
+        border: 0;
+        border-radius: 6px;
+        background: transparent;
+        color: var(--muted);
+        font-size: 13px;
+        font-weight: 650;
+        cursor: pointer;
+      }
+      .chronicle-tab.active {
+        background: var(--card-bg);
+        color: var(--accent);
+        box-shadow: 0 1px 4px rgba(0,0,0,0.08);
       }
 
       /* ── 移动端底部 tab 导航（5个平分） ── */
@@ -1549,14 +1678,7 @@
 
 <!-- 移动端顶栏（手机显示，PC隐藏） -->
 <div class="mobile-header">
-  <img id="mobileLogo" width="28" height="28" alt="logo" style="border-radius:4px;flex-shrink:0">
-  <span class="mobile-header-title">飞翔的AI资讯站</span>
-  <span class="live-dot"></span>
-  <a class="mobile-share-btn" href="daily-share/" title="查看今日分享长图">分享图</a>
-  <a href="https://aistation.substack.com/subscribe" target="_blank" rel="noopener" title="订阅周报" style="border:none;background:var(--accent);color:#fff;padding:5px 10px;border-radius:14px;font-size:11px;font-weight:600;text-decoration:none;display:flex;align-items:center;gap:4px;white-space:nowrap;flex-shrink:0;">
-    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-    订阅
-  </a>
+  <span class="mobile-header-title">AI资讯站</span>
   <button class="mobile-refresh-btn" onclick="manualRefresh()" title="刷新" aria-label="刷新资讯">
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
       <path d="M1 4v6h6M23 20v-6h-6M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/>
@@ -1596,12 +1718,6 @@
         <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/>
       </svg>
       订阅周报
-    </a>
-    <a class="refresh-btn share-entry-btn" href="daily-share/" title="查看今日日报分享长图">
-      <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-        <path d="M4 4h16v16H4z"/><path d="M8 9h8M8 13h5M8 17h8"/>
-      </svg>
-      今日分享图
     </a>
     <div class="btn-row">
       <a class="refresh-btn" href="admin.html" title="站点数据看板（需口令）">
@@ -1994,6 +2110,7 @@ const TABS = [
   {
     id: 'timeline',
     name: '模型发布',
+    mob: '大事记',
     icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>',
     layout: 'timeline',
     desc: 'AI 模型发布时间线：哪家、什么模型、哪天发布、关键规格',
@@ -2371,6 +2488,7 @@ function renderNav() {
   const mobileNav = document.getElementById('mobileNav');
   if (mobileNav) {
     const isGroupActive = MOB_GROUP_IDS.includes(activeTab);
+    const isChronicleActive = activeTab === 'timeline' || activeTab === 'funding';
     if (isGroupActive) mobGroupActiveId = activeTab;
     // 「更多」按钮固定名称与图标，避免随上次选中的子频道漂移
     const MORE_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="12" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="19" cy="12" r="1.6"/></svg>';
@@ -2378,7 +2496,8 @@ function renderNav() {
     mobileNav.innerHTML = MOB_NAV_ORDER.map(id => {
       const t = TABS.find(t => t.id === id);
       if (!t) return '';
-      return `<button class="mob-tab-btn ${t.id === activeTab ? 'active' : ''}"
+      const isActive = t.id === activeTab || (t.id === 'timeline' && isChronicleActive);
+      return `<button class="mob-tab-btn ${isActive ? 'active' : ''}"
               onclick="switchTab('${t.id}')">
         <span class="mob-tab-icon">${t.icon}</span>
         <span class="mob-tab-label">${t.mob || t.name.replace(/^AI\s/, '')}</span>
@@ -2470,25 +2589,7 @@ function renderMobMorePanel() {
         <span class="mob-more-opt-icon">${t.icon}</span>
         <span class="mob-more-opt-label">${t.name}</span>
       </button>`;
-    }).join('') +
-    // PC 侧边栏专属功能，移动端从这里进入
-    `<div class="mob-more-divider"></div>
-    <a class="mob-more-opt" href="daily/">
-      <span class="mob-more-opt-icon">📰</span>
-      <span class="mob-more-opt-label">AI 日报存档</span>
-    </a>
-    <a class="mob-more-opt" href="daily-share/">
-      <span class="mob-more-opt-icon">▣</span>
-      <span class="mob-more-opt-label">今日分享长图</span>
-    </a>
-    <a class="mob-more-opt" href="https://aistation.substack.com/subscribe" target="_blank" rel="noopener">
-      <span class="mob-more-opt-icon">📮</span>
-      <span class="mob-more-opt-label">订阅周报</span>
-    </a>
-    <a class="mob-more-opt" href="admin.html">
-      <span class="mob-more-opt-icon">📊</span>
-      <span class="mob-more-opt-label">站点数据</span>
-    </a>`;
+    }).join('');
 }
 function selectMobMore(id) {
   closeMobMore();
@@ -2499,6 +2600,12 @@ function closeMobMore() {
   document.getElementById('mobMorePanel')?.classList.remove('open');
   document.getElementById('mobMoreBackdrop')?.classList.remove('open');
 }
+
+document.addEventListener('click', event => {
+  document.querySelectorAll('details.source-info[open]').forEach(details => {
+    if (!details.contains(event.target)) details.removeAttribute('open');
+  });
+});
 
 // ── Tab switch ────────────────────────────────────────
 function prefetchTab(id) {
@@ -2669,9 +2776,10 @@ function renderModelTimeline(data) {
 
   main.innerHTML = `
     <div class="section-header">
-      <div class="section-title">🕐 AI 大事记 · 模型发布时间线</div>
+      <div class="section-title"><span class="desktop-only">AI 大事记 · 模型发布时间线</span><span class="mobile-only">大事记</span></div>
       <div class="section-sub">${entries.length} 条 · 更新于 ${data.updatedAt}</div>
     </div>
+    ${chronicleTabs('timeline')}
     <div class="source-pills">哪家 · 什么模型 · 哪天发布 · 关键规格 —— 条目均附官方信源，<a href="timeline/" target="_blank" rel="noopener" style="color:var(--accent);">网页版（可分享）</a></div>
     <div class="tl-wrap">${yearsHtml}</div>`;
 }
@@ -2736,11 +2844,19 @@ function renderFundingTimeline(data) {
   }).join('');
   main.innerHTML = `
     <div class="section-header">
-      <div class="section-title">💰 AI 大事记 · 资本动态时间线</div>
+      <div class="section-title"><span class="desktop-only">AI 大事记 · 资本动态时间线</span><span class="mobile-only">大事记</span></div>
       <div class="section-sub">${entries.length} 条 · 更新于 ${data.updatedAt}</div>
     </div>
+    ${chronicleTabs('funding')}
     <div class="source-pills">谁 · 什么轮次 · 多少钱 · 什么估值 —— 条目均附信源</div>
     <div class="tl-wrap">${yearsHtml}</div>`;
+}
+
+function chronicleTabs(current) {
+  return `<div class="chronicle-tabs" role="tablist" aria-label="大事记分类">
+    <button class="chronicle-tab ${current === 'timeline' ? 'active' : ''}" type="button" role="tab" aria-selected="${current === 'timeline'}" onclick="switchTab('timeline')">模型发布</button>
+    <button class="chronicle-tab ${current === 'funding' ? 'active' : ''}" type="button" role="tab" aria-selected="${current === 'funding'}" onclick="switchTab('funding')">资本动态</button>
+  </div>`;
 }
 
 // ── Render: AI 工具库（按场景分类的工具导航）──
@@ -3351,6 +3467,7 @@ function renderTab(tab, items, feedErrors = [], aiHotData = null) {
     : '';
 
   const sourcePills = '来源：' + tab.feeds.map(f => f.name).join(' | ');
+  const sourceLine = feedSourceLine(tab.feeds);
 
   // 日报：三列布局（侧边栏 | 存档列表 | 内容）
   if (tab.layout === 'daily') {
@@ -3358,7 +3475,7 @@ function renderTab(tab, items, feedErrors = [], aiHotData = null) {
     const newsHtml = aiHotData?.sections
       ? renderAiHotDaily(aiHotData)
       : `${errorBanner}${renderDailyNewspaper(items)}`;
-    const dailySourceLine = `<div class="source-pills" style="margin-bottom:12px">${sourcePills}</div>`;
+    const dailySourceLine = sourceLine;
     main.innerHTML = `
       <div class="daily-archive-col" id="archiveCol"></div>
       <div class="daily-content-col" id="dailyContentCol">${dailySourceLine}<div id="dailyBody">${newsHtml}</div></div>`;
@@ -3435,10 +3552,30 @@ function renderTab(tab, items, feedErrors = [], aiHotData = null) {
       <div class="section-meta">${totalLabel} · ${nowStr()} 更新</div>
     </div>
     ${errorBanner}
-    <div class="source-pills">${sourcePills}</div>
+    ${sourceLine}
     ${kwInline}
     ${catPillsHtml}
     ${tab.id === 'all' ? `<div id="allListWrap">${content}</div>` : content}`;
+}
+
+function feedSourceLine(feeds) {
+  const list = feeds || [];
+  const sourceText = '来源：' + list.map(feed => feed.name).join(' | ');
+  const sourceItems = list.map(feed => `
+    <div class="source-popover-item">
+      <span class="source-popover-dot" style="background:${esc(feed.color || '#8b949e')}"></span>
+      <span>${esc(feed.name)}</span>
+    </div>`).join('');
+  return `<div class="source-pills feed-source-line">
+    <span class="feed-source-text">${esc(sourceText)}</span>
+    <details class="source-info">
+      <summary aria-label="查看全部数据源" title="查看全部数据源"><span aria-hidden="true">i</span></summary>
+      <div class="source-popover">
+        <div class="source-popover-title">全部数据源 · ${list.length} 个</div>
+        <div class="source-popover-list">${sourceItems}</div>
+      </div>
+    </details>
+  </div>`;
 }
 
 // ── Render: featured timeline (精选专用，富卡片) ────────
@@ -3604,11 +3741,11 @@ function renderAiHotDaily(data) {
 
   return `
     <div class="dnp-hero">
-      <div class="dnp-title">AI <span>日报速览</span></div>
+      <div class="dnp-title">AI <span>日报速览</span><span class="dnp-mobile-count">${total} 条</span></div>
       <div class="dnp-dateline">
         <span>${zhDate} ${WEEKS[now.getDay()]}</span>
         <span class="dnp-dateline-sep">｜</span>
-        <span>每日速览 · ${total} 条 · 2 分钟读懂今天的 AI</span>
+        <span class="dnp-summary">${total} 条 · 2 分钟读懂今天的 AI</span>
         <span class="dnp-actions">
           <a class="dnp-tag share-poster" href="daily-share/?date=${date}" target="_blank" rel="noopener" style="text-decoration:none;cursor:pointer;" title="打开适合朋友圈和小红书的日报长图版">分享长图</a>
           ${STATIC_DAILY_DATES.has(date) ? `<a class="dnp-tag" href="daily/${date}.html" target="_blank" rel="noopener" style="text-decoration:none;cursor:pointer;" title="本期固定网址，秒开、可转发分享">分享网页版</a>` : ''}
@@ -3685,11 +3822,11 @@ function renderDailyNewspaper(items) {
 
   return `
     <div class="dnp-hero">
-      <div class="dnp-title">AI <span>日报速览</span></div>
+      <div class="dnp-title">AI <span>日报速览</span><span class="dnp-mobile-count">${items.length} 条</span></div>
       <div class="dnp-dateline">
         <span>${zhDate} ${WEEKS[now.getDay()]}</span>
         <span class="dnp-dateline-sep">｜</span>
-        <span>每日速览 · ${items.length} 条 · 2 分钟读懂今天的 AI</span>
+        <span class="dnp-summary">${items.length} 条 · 2 分钟读懂今天的 AI</span>
       </div>
     </div>
     ${sectionsHtml}`;
