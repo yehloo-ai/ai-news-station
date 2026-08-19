@@ -551,6 +551,7 @@
     }
     /* 分类筛选胶囊：类型 标签 + 全部 + 各分类（纯文案，无图标），点击原地筛选 */
     .tool-filter { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 10px; }
+    .tool-filter-options { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; min-width: 0; }
     .tool-fil {
       font-size: 12.5px; color: var(--muted); cursor: pointer;
       padding: 5px 14px; border-radius: 999px;
@@ -569,7 +570,7 @@
       transition: all .15s; white-space: nowrap;
     }
     .tool-chip:hover { color: var(--accent); border-color: var(--accent-border); }
-    .tool-chip.on { background: var(--accent-muted); border-color: var(--accent-border); color: var(--accent); font-weight: 600; }
+    .tool-chip.on { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
     .tool-sub-sep { width: 1px; height: 16px; background: var(--border); }
     .tool-cat { margin-bottom: 28px; scroll-margin-top: 16px; }
     .tool-cat-title {
@@ -1577,8 +1578,22 @@
       .tools-header { margin-bottom: 8px; }
       .tools-intro { display: none; }
       .tool-controls { display: flex; flex-direction: column; }
-      .tool-filter { order: 1; gap: 6px; margin-bottom: 8px; }
-      .tool-subfilter { order: 2; gap: 6px; margin-bottom: 8px; }
+      .tool-filter,
+      .tool-subfilter {
+        display: grid;
+        grid-template-columns: max-content minmax(0, 1fr);
+        align-items: start;
+        column-gap: 8px;
+      }
+      .tool-filter { order: 1; margin-bottom: 8px; }
+      .tool-subfilter { order: 2; margin-bottom: 8px; }
+      .tool-filter-options { gap: 6px; }
+      .tool-filter > .tool-sub-label,
+      .tool-subfilter > .tool-sub-label {
+        min-height: 32px;
+        display: inline-flex;
+        align-items: center;
+      }
       .tool-fil,
       .tool-chip {
         min-height: 32px;
@@ -3084,7 +3099,7 @@ function renderTools(data) {
     cats.map(c => `<button class="tool-fil" data-cat="${c.id}" onclick="filterToolsCat('${c.id}')">${esc(c.name)}</button>`).join('');
   const sections = cats.map(c => `
     <div class="tool-cat" data-cat="${c.id}">
-      <div class="tool-cat-title">${c.icon || ''} ${esc(c.name)}<span class="tool-cat-n">${c.tools?.length || 0}</span></div>
+      <div class="tool-cat-title">${esc(c.name)}<span class="tool-cat-n">${c.tools?.length || 0}</span></div>
       <div class="tool-grid">${(c.tools || []).map(tt => toolCard(tt, c.id, c.name)).join('')}</div>
     </div>`).join('');
   main.innerHTML = `
@@ -3095,14 +3110,16 @@ function renderTools(data) {
     <div class="tool-controls">
       <div class="source-pills tools-intro">按场景挑选好用的 AI 工具，点击直达官网 · <a href="${TOOLS_SUGGEST_URL}" target="_blank" rel="noopener" style="color:var(--accent);">推荐收录 →</a> · <a href="tools/" target="_blank" rel="noopener" style="color:var(--accent);">网页版（可分享）</a></div>
       <div class="tool-search"><input type="search" id="toolSearch" placeholder="搜索工具名称、厂商、用途…" oninput="filterToolsRun()"></div>
-      <div class="tool-filter"><span class="tool-sub-label">类型</span>${filters}</div>
+      <div class="tool-filter"><span class="tool-sub-label">类型</span><div class="tool-filter-options">${filters}</div></div>
       <div class="tool-subfilter">
         <span class="tool-sub-label">地区</span>
-        <button class="tool-chip on" data-region="all" onclick="filterToolsRegion('all')">全部</button>
-        <button class="tool-chip" data-region="国产" onclick="filterToolsRegion('国产')">国产</button>
-        <button class="tool-chip" data-region="海外" onclick="filterToolsRegion('海外')">海外</button>
-        <span class="tool-sub-sep"></span>
-        <button class="tool-chip" id="toolFreeChip" onclick="filterToolsFree()">仅看免费</button>
+        <div class="tool-filter-options">
+          <button class="tool-chip on" data-region="all" onclick="filterToolsRegion('all')">全部</button>
+          <button class="tool-chip" data-region="国产" onclick="filterToolsRegion('国产')">国产</button>
+          <button class="tool-chip" data-region="海外" onclick="filterToolsRegion('海外')">海外</button>
+          <span class="tool-sub-sep"></span>
+          <button class="tool-chip" id="toolFreeChip" onclick="filterToolsFree()">仅看免费</button>
+        </div>
       </div>
     </div>
     <div id="toolSections">${sections}</div>
