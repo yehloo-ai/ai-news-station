@@ -5,8 +5,23 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 19 Aug 2026 01:53:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:59:36 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成代理店</title>
+      <link>http://www.geekpark.net/news/369003</link>
+      <description>嘲讽与反转，是属于 DSH 同一个架构的因果两端。
+作者｜张勇毅
+编辑｜靖宇
+&amp;nbsp;
+
+
+8 月 14 日上午，DeepSeek Harness 上线 GitHub 还不到十二小时，项目 GitHub Star 就突破了 5 万。跻身 GitHub 史上最速达成记录之列。
+极客公园曾在首发实测总结它的「一切皆插件」的概念是，「Agent 界的 Android」，但这个评价的另一面，是当时社区围绕 DeepSeek Harness（下文简称 DSH）的巨大争议：「对非开发者不是很友好」与「毛边随处可见」是不少第一时间体验之后的评论；还有一些第三方测显示同样跑 V4 Flash，DSH 比别</description>
+      <pubDate>Wed, 19 Aug 2026 10:33:05 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369003</guid>
+      <source url="http://www.geekpark.net/news/369003">极客公园</source>
+    </item>
     <item>
       <title>派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等</title>
       <link>https://sspai.com/post/113607</link>
@@ -25,6 +40,14 @@ OpenAI 表示，截至 6 月的三个月内，公司营收增至 67 亿美元，
       <pubDate>Wed, 19 Aug 2026 08:10:47 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368995</guid>
       <source url="http://www.geekpark.net/news/368995">极客公园</source>
+    </item>
+    <item>
+      <title>OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段</title>
+      <link>https://www.ifanr.com/1675512?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>更聪明的模型，也是更危险的模型。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 19 Aug 2026 03:28:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675512?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675512?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>郭富城换车，30万级顶配华为全家桶</title>
@@ -173,22 +196,6 @@ The re</description>
       <pubDate>Tue, 18 Aug 2026 10:04:14 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/474857.html</guid>
       <source url="https://www.qbitai.com/2026/08/474857.html">量子位</source>
-    </item>
-    <item>
-      <title>支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事</title>
-      <link>https://www.ifanr.com/1675514?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>当 Agent 彼此协作，下一代互联网开始成形。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 18 Aug 2026 10:00:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675514?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675514?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>π0引用的中国团队，又出手了：世界仿真器新作发布</title>
-      <link>https://www.qbitai.com/2026/08/474838.html</link>
-      <description>给机器人造一个更接近真实的“第二世界”</description>
-      <pubDate>Tue, 18 Aug 2026 09:57:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474838.html</guid>
-      <source url="https://www.qbitai.com/2026/08/474838.html">量子位</source>
     </item>
   </channel>
 </rss>
