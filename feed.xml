@@ -5,8 +5,27 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 19 Aug 2026 03:59:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:51:32 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>马斯克带火的太空算力领域，传一个 800MB 模型上天要四周</title>
+      <link>http://www.geekpark.net/news/369013</link>
+      <description>「所有劝我不要干太空算力的朋友，现在全在干太空算力。」
+太空字节联合创始人秦贵军这样描述过去一年。这家公司 2024 年底成立，做的是太空数据中心；他本人参与过北斗导航重大专项，在卫星行业干了十几年。那些劝过他的朋友也大多是同一个画像：传统航天出身，两年前还觉得把算力送上天是个不着调的故事，如今已经用脚投票。
+他画过一张国内太空算力的行业热力图，从长三角到北京亦庄、中关村，再到成都、西安、合肥，玩家已经超过三十家，正在往四十家走。
+热度的源头在大洋彼岸。2026 年 6 月 12 日，SpaceX 以每股 135 美元、约 1.75 万亿美元的估值登陆纳斯达克，成为美股史上规模最大的 IPO。</description>
+      <pubDate>Wed, 19 Aug 2026 12:02:55 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369013</guid>
+      <source url="http://www.geekpark.net/news/369013">极客公园</source>
+    </item>
+    <item>
+      <title>App+1 | Inkive：把纸质书上划好的线存进 Obsidian</title>
+      <link>https://sspai.com/post/111936</link>
+      <description>让纸书上的划线，回到你的数字笔记里。查看全文</description>
+      <pubDate>Wed, 19 Aug 2026 10:54:52 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/111936</guid>
+      <source url="https://sspai.com/post/111936">少数派</source>
+    </item>
     <item>
       <title>黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成代理店</title>
       <link>http://www.geekpark.net/news/369003</link>
@@ -76,126 +95,103 @@ OpenAI 表示，截至 6 月的三个月内，公司营收增至 67 亿美元，
       <source url="https://www.ifanr.com/1675531?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>如何使用 ChatGPT 将业务问题转化为战略方案 |教程</title>
-      <link>https://www.youtube.com/watch?v=XjSJ6ybS9I8</link>
-      <description>Turn a business question into a clear recommendation—without spending days gathering research and building slides.
-
-In this demo, Arvind from OpenAI’s Strategy &amp; Business Operations team shows how he uses ChatGPT Work to pull together market research, customer data, and past strategy work; propose a</description>
-      <pubDate>Tue, 18 Aug 2026 19:05:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=XjSJ6ybS9I8</guid>
-      <source url="https://www.youtube.com/watch?v=XjSJ6ybS9I8">OpenAI</source>
+      <title>GxP-Agent：使用 LLM 代理进行可靠的临床试验编程的 Process-DAG 拓扑</title>
+      <link>https://arxiv.org/abs/2608.16890</link>
+      <description>arXiv:2608.16890v1 Announce Type: new 
+Abstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across 11 single-shot attemp</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16890</guid>
+      <source url="https://arxiv.org/abs/2608.16890">ArXiv AI</source>
     </item>
     <item>
-      <title>如何使用 ChatGPT Work 创建可靠的博客草稿 |教程</title>
-      <link>https://www.youtube.com/watch?v=0j9yDUDMrBs</link>
-      <description>Turn scattered launch materials into a solid first draft.
-
-Sahil from OpenAI’s Marketing team shows how he uses ChatGPT Work to bring together product documentation, research, meeting notes, and messaging; follow an established blog template; and create a structured launch blog draft.
-
-He then revie</description>
-      <pubDate>Tue, 18 Aug 2026 19:02:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=0j9yDUDMrBs</guid>
-      <source url="https://www.youtube.com/watch?v=0j9yDUDMrBs">OpenAI</source>
+      <title>代理人工智能的运行时治理：具有可信来源和故障关闭执行的动作边界控制</title>
+      <link>https://arxiv.org/abs/2608.16891</link>
+      <description>arXiv:2608.16891v1 Announce Type: new 
+Abstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text generation to harmful operational side effects. Prompt-level governance can shape mod</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16891</guid>
+      <source url="https://arxiv.org/abs/2608.16891">ArXiv AI</source>
     </item>
     <item>
-      <title>如何使用 ChatGPT Work 准备客户会议 |教程</title>
-      <link>https://www.youtube.com/watch?v=yQZgOSHHxjk</link>
-      <description>Spend less time preparing for customer calls and following up afterward.
-
-Alex from OpenAI’s Sales team shows how he uses ChatGPT Work to gather account context and create a meeting brief. After the call, ChatGPT Work drafts notes, a follow-up email, and proposed CRM updates for his review..
-
-The re</description>
-      <pubDate>Tue, 18 Aug 2026 18:58:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=yQZgOSHHxjk</guid>
-      <source url="https://www.youtube.com/watch?v=yQZgOSHHxjk">OpenAI</source>
+      <title>思考的代价：作为特定于模型的 API 合约的推理工作</title>
+      <link>https://arxiv.org/abs/2608.16956</link>
+      <description>arXiv:2608.16956v1 Announce Type: new 
+Abstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omission, output rail, service product, prompt, and price schedule. We study the reasoning-effort term thr</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16956</guid>
+      <source url="https://arxiv.org/abs/2608.16956">ArXiv AI</source>
     </item>
     <item>
-      <title>社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机</title>
-      <link>https://sspai.com/post/113593</link>
-      <description>除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文</description>
-      <pubDate>Tue, 18 Aug 2026 17:01:31 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113593</guid>
-      <source url="https://sspai.com/post/113593">少数派</source>
+      <title>FedPref：用于结构化放射学报告提取的联合偏好学习</title>
+      <link>https://arxiv.org/abs/2608.16971</link>
+      <description>arXiv:2608.16971v1 Announce Type: new 
+Abstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requires labels that are unevenly distributed across institutions: smaller hospitals</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16971</guid>
+      <source url="https://arxiv.org/abs/2608.16971">ArXiv AI</source>
     </item>
     <item>
-      <title>线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会</title>
-      <link>https://sspai.com/post/113564</link>
-      <description>二次元加爵士，你说有没有搞头？音乐人介绍炒饭（B站），本职是常驻波士顿的程序员社畜，同时也是多乐器演奏音乐人、B站UP主。炒饭没有专业科班学习经历，却凭兴趣及自学掌握了多种音乐技能，专辑音乐均为自己在 ...查看全文</description>
-      <pubDate>Tue, 18 Aug 2026 15:05:05 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113564</guid>
-      <source url="https://sspai.com/post/113564">少数派</source>
+      <title>问题就是问题：迈向可扩展的数学发现</title>
+      <link>https://arxiv.org/abs/2608.16977</link>
+      <description>arXiv:2608.16977v1 Announce Type: new 
+Abstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical review is even more sharply constrained. Allocating these scarce resources well</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16977</guid>
+      <source url="https://arxiv.org/abs/2608.16977">ArXiv AI</source>
     </item>
     <item>
-      <title>App+1 | 让任务栏更有用：WindowSill</title>
-      <link>https://sspai.com/post/113438</link>
-      <description>屏幕不是注意力中心的地方可以塞下多少有用的东西呢？查看全文</description>
-      <pubDate>Tue, 18 Aug 2026 14:30:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113438</guid>
-      <source url="https://sspai.com/post/113438">少数派</source>
+      <title>澳大利亚的主动道路安全干预：根据联网车辆数据预测危险驾驶热点</title>
+      <link>https://arxiv.org/abs/2608.16913</link>
+      <description>arXiv:2608.16913v1 Announce Type: new 
+Abstract: Road safety monitoring has historically been reactive, relying on crash-record analysis after fatalities and injuries have already occurred. Proactive identification of high-risk locations and dangerous driving behaviour before incidents occur is a cr</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16913</guid>
+      <source url="https://arxiv.org/abs/2608.16913">ArXiv ML</source>
     </item>
     <item>
-      <title>TikTok带货博主卷疯快递：三天，从深圳到伦敦</title>
-      <link>http://www.geekpark.net/news/368962</link>
-      <description>&amp;nbsp;
-今年6月26日，英国气温飙到了36摄氏度，创下十多年来的纪录。
-26万台小电风扇，从中国出发，在不到两周的时间里涌进了欧洲人的家门。不少英国人从下单到收货，只用了两天半。
-放在五年前，跨境卖家根本不敢想象这么快。而现在，这不得不成为&amp;ldquo;基础&amp;rdquo;。
-8月5日，菜鸟集团正式发布"全球三日达"，在中国至欧洲、泛欧国家间、中东国家间等15条核心线路上，实现3个自然日门到门送达。0.5公斤欧洲小包，单票物流费只有标准国际快递的一半。
-这是继2020年&amp;ldquo;全球十日达&amp;rdquo;和2023年&amp;ldquo;全球五日达&amp;rdquo;之后，跨境物流速度的又一次飞跃。
-</description>
-      <pubDate>Tue, 18 Aug 2026 13:56:14 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368962</guid>
-      <source url="http://www.geekpark.net/news/368962">极客公园</source>
+      <title>检测和区分混合偏微分方程参数学习中的操作员错误指定：无参考仪器，歧视范围仅限于样本</title>
+      <link>https://arxiv.org/abs/2608.16925</link>
+      <description>arXiv:2608.16925v1 Announce Type: new 
+Abstract: We build an instrument that reads, from a single fit and with no oracle, whether the operator a hybrid PDE-parameter estimator postulates is wrong-and separates that from a merely unidentifiable parameter. On one self-adjoint parabolic inverse problem</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16925</guid>
+      <source url="https://arxiv.org/abs/2608.16925">ArXiv ML</source>
     </item>
     <item>
-      <title>网易传媒发布了「蜜蜂AI」 ：想探索 AI 与年轻化社区的新连接</title>
-      <link>https://www.ifanr.com/1675521?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>社区 AI 产品，思考的不只是基础模型能力，还有用户需求洞察。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 18 Aug 2026 12:04:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675521?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675521?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>Data-DPO：LLM训练后目标模型数据选择的直接偏好优化</title>
+      <link>https://arxiv.org/abs/2608.16926</link>
+      <description>arXiv:2608.16926v1 Announce Type: new 
+Abstract: Data selection in supervised fine-tuning aims to select a small set of effective samples from large-scale candidate data, reducing training cost while preserving model performance. However, existing methods usually treat data value as a relatively sta</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16926</guid>
+      <source url="https://arxiv.org/abs/2608.16926">ArXiv ML</source>
     </item>
     <item>
-      <title>一台诞生于 AI 时代的电脑，该是什么样？</title>
-      <link>https://www.ifanr.com/1675518?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>从手机到电脑，AI 正在重新定义我们与设备交互的方式。
-鸿蒙电脑发布一年多后，生态应用已经增长到超过 19000 款。更值得关注的是，越来越多应用开始围绕折叠屏、跨设备协同和系统级 AI，重新设计电脑上的工作流。
-这一期，我们从日常办公、内容创作到专业软件实际体验了一遍鸿蒙电脑，看看一台诞生于 AI 和多设备全场景时代的电脑，究竟该是什么样。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 18 Aug 2026 11:11:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675518?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675518?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>LLM 训练后通过流形覆盖和稀疏特征覆盖进行分层数据选择</title>
+      <link>https://arxiv.org/abs/2608.16927</link>
+      <description>arXiv:2608.16927v1 Announce Type: new 
+Abstract: As supervised fine-tuning data continues to scale, selecting high-value subsets from large candidate pools is crucial for reducing training cost and improving model performance. Existing methods often measure diversity directly in the original embeddi</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16927</guid>
+      <source url="https://arxiv.org/abs/2608.16927">ArXiv ML</source>
     </item>
     <item>
-      <title>年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元</title>
-      <link>https://www.qbitai.com/2026/08/474907.html</link>
-      <description>8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本</description>
-      <pubDate>Tue, 18 Aug 2026 11:07:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474907.html</guid>
-      <source url="https://www.qbitai.com/2026/08/474907.html">量子位</source>
+      <title>对文档敏感度分类的经典模型和基于 Transformer 的模型进行基准测试</title>
+      <link>https://arxiv.org/abs/2608.16928</link>
+      <description>arXiv:2608.16928v1 Announce Type: new 
+Abstract: Automatic sensitivity classification of organizational documents is a critical yet underserved problem, where the consequences of misclassification range from regulatory violations to security breaches. While AI-based approaches offer a scalable alter</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16928</guid>
+      <source url="https://arxiv.org/abs/2608.16928">ArXiv ML</source>
     </item>
     <item>
-      <title>7月音乐精选：夏天赠予我们的 9 张专辑</title>
-      <link>https://sspai.com/post/113454</link>
-      <description>编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文</description>
-      <pubDate>Tue, 18 Aug 2026 10:52:11 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113454</guid>
-      <source url="https://sspai.com/post/113454">少数派</source>
-    </item>
-    <item>
-      <title>比亚迪全程护航丝路万里行，深圳收官再启海外征程</title>
-      <link>https://www.qbitai.com/2026/08/474868.html</link>
-      <description>8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。</description>
-      <pubDate>Tue, 18 Aug 2026 10:40:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474868.html</guid>
-      <source url="https://www.qbitai.com/2026/08/474868.html">量子位</source>
-    </item>
-    <item>
-      <title>网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人</title>
-      <link>https://www.qbitai.com/2026/08/474857.html</link>
-      <description>8月18日，网易传媒举办“蜜蜂AI媒体沟通会”</description>
-      <pubDate>Tue, 18 Aug 2026 10:04:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474857.html</guid>
-      <source url="https://www.qbitai.com/2026/08/474857.html">量子位</source>
+      <title>用于脑语言对应的边距正则化结构化语义对齐</title>
+      <link>https://arxiv.org/abs/2608.16975</link>
+      <description>arXiv:2608.16975v1 Announce Type: new 
+Abstract: With the rapid advancement of large language models, brain-language decoding has achieved remarkable progress. However, it remains unclear whether decoded content genuinely reflects neural representations or is largely reconstructed by the language mo</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16975</guid>
+      <source url="https://arxiv.org/abs/2608.16975">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
