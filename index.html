@@ -1251,6 +1251,7 @@
 
       /* 日报信息头：移动端整合标题、日期与操作，减少重复层级 */
       .dnp-hero {
+        position: relative;
         padding: 3px 0 0;
         margin-bottom: 0;
         border-top: 0;
@@ -1260,7 +1261,8 @@
         display: flex;
         align-items: baseline;
         gap: 8px;
-        margin-bottom: 6px;
+        margin-bottom: 4px;
+        padding-right: 154px;
         color: var(--accent);
         font-size: 19px;
         line-height: 1.2;
@@ -1274,7 +1276,14 @@
       }
       .dnp-dateline-sep,
       .dnp-summary { display: none; }
-      .dnp-actions { margin-left: auto; }
+      .dnp-actions {
+        position: absolute;
+        top: 3px;
+        right: 0;
+        margin-left: 0;
+        flex-wrap: nowrap;
+        gap: 6px;
+      }
 
       /* 推荐理由：左侧「推荐/理由」纵向排列，短竖线分隔 */
       .rec-tip-label {
@@ -1290,7 +1299,7 @@
       .section-header { flex-wrap: wrap; gap: 0; margin-bottom: 0; }
       .section-title { font-size: 16px; }
       .section-tagline {
-        margin-top: 6px;
+        margin-top: 4px;
         font-size: 10.5px;
         line-height: 1.2;
       }
@@ -1301,7 +1310,7 @@
       .desktop-only { display: none; }
       .mobile-only { display: inline; }
       .source-pills {
-        margin: 6px 0 10px;
+        margin: 4px 0 10px;
         font-size: 10px;
         line-height: 1.2;
       }
@@ -1312,7 +1321,11 @@
       .tl-row, .tl-year-node { grid-template-columns: 54px 1fr; }
       .tl-list::after { left: 27px; }
       .tl-time-label { font-size: 11px; }
-      .tl-year-text { font-size: 17px; }
+      .chronicle-timeline { gap: 0; }
+      .chronicle-timeline .tl-year-node { margin: 18px 0 6px; }
+      .chronicle-timeline .tl-year-node:first-child { margin-top: 0; }
+      .tl-year-text { gap: 6px; font-size: 14px; }
+      .tl-year-count { font-size: 10px; }
 
       /* ── 移动端顶栏 ── */
       .mobile-header {
@@ -1362,7 +1375,7 @@
       .daily-source-desktop { display: none; }
       .daily-source-mobile {
         display: flex;
-        margin: 6px 0 10px;
+        margin: 4px 0 10px;
       }
       .feed-source-text {
         min-width: 0;
@@ -1448,7 +1461,7 @@
         display: flex;
         gap: 0;
         padding: 3px;
-        margin: 0 0 12px;
+        margin: 4px 0 10px;
         border: 1px solid var(--border);
         border-radius: 999px;
         background: var(--bg);
@@ -1472,7 +1485,19 @@
         font-weight: 600;
         box-shadow: 0 1px 3px rgba(208,25,34,0.32);
       }
-      .chronicle-header,
+      .chronicle-mobile-title {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+      }
+      .chronicle-title-icon {
+        width: 20px;
+        height: 20px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .chronicle-title-icon svg { width: 20px; height: 20px; }
       .chronicle-subtitle { display: none; }
 
       /* 工具库：筛选在前、搜索在后，操作高度统一 */
@@ -2845,12 +2870,15 @@ function renderModelTimeline(data) {
 
   main.innerHTML = `
     <div class="section-header chronicle-header">
-      <div class="section-title"><span class="desktop-only">AI 大事记 · 模型发布时间线</span><span class="mobile-only">大事记</span></div>
+      <div>
+        <div class="section-title"><span class="desktop-only">AI 大事记 · 模型发布时间线</span><span class="mobile-only chronicle-mobile-title"><span class="chronicle-title-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>大事记</span></div>
+        <div class="section-tagline mobile-only">记录 AI 模型发布与资本变化</div>
+      </div>
       <div class="section-sub">${entries.length} 条 · 更新于 ${data.updatedAt}</div>
     </div>
     ${chronicleTabs('timeline')}
     <div class="source-pills chronicle-subtitle">哪家 · 什么模型 · 哪天发布 · 关键规格 —— 条目均附官方信源，<a href="timeline/" target="_blank" rel="noopener" style="color:var(--accent);">网页版（可分享）</a></div>
-    <div class="tl-wrap">${yearsHtml}</div>`;
+    <div class="tl-wrap chronicle-timeline">${yearsHtml}</div>`;
 }
 
 // ── Render: AI 大事记（资本动态 / 融资时间线）——复用模型发布的时间轴视觉语言 ──
@@ -2913,12 +2941,15 @@ function renderFundingTimeline(data) {
   }).join('');
   main.innerHTML = `
     <div class="section-header chronicle-header">
-      <div class="section-title"><span class="desktop-only">AI 大事记 · 资本动态时间线</span><span class="mobile-only">大事记</span></div>
+      <div>
+        <div class="section-title"><span class="desktop-only">AI 大事记 · 资本动态时间线</span><span class="mobile-only chronicle-mobile-title"><span class="chronicle-title-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>大事记</span></div>
+        <div class="section-tagline mobile-only">记录 AI 模型发布与资本变化</div>
+      </div>
       <div class="section-sub">${entries.length} 条 · 更新于 ${data.updatedAt}</div>
     </div>
     ${chronicleTabs('funding')}
     <div class="source-pills chronicle-subtitle">谁 · 什么轮次 · 多少钱 · 什么估值 —— 条目均附信源</div>
-    <div class="tl-wrap">${yearsHtml}</div>`;
+    <div class="tl-wrap chronicle-timeline">${yearsHtml}</div>`;
 }
 
 function chronicleTabs(current) {
