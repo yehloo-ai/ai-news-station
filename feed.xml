@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 19 Aug 2026 05:44:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:03:56 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>马斯克带火的太空算力领域，传一个 800MB 模型上天要四周</title>
@@ -59,6 +59,14 @@ OpenAI 表示，截至 6 月的三个月内，公司营收增至 67 亿美元，
       <pubDate>Wed, 19 Aug 2026 08:10:47 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368995</guid>
       <source url="http://www.geekpark.net/news/368995">极客公园</source>
+    </item>
+    <item>
+      <title>预售价 29.98 万元起，奕境 X9 想成为「半价问界 M9」</title>
+      <link>https://www.ifanr.com/1675579?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>作为后来者，奕境很清楚自己需要怎么做。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 19 Aug 2026 06:20:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675579?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675579?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段</title>
@@ -183,15 +191,6 @@ Abstract: Automatic sensitivity classification of organizational documents is a 
       <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.16928</guid>
       <source url="https://arxiv.org/abs/2608.16928">ArXiv ML</source>
-    </item>
-    <item>
-      <title>用于脑语言对应的边距正则化结构化语义对齐</title>
-      <link>https://arxiv.org/abs/2608.16975</link>
-      <description>arXiv:2608.16975v1 Announce Type: new 
-Abstract: With the rapid advancement of large language models, brain-language decoding has achieved remarkable progress. However, it remains unclear whether decoded content genuinely reflects neural representations or is largely reconstructed by the language mo</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.16975</guid>
-      <source url="https://arxiv.org/abs/2608.16975">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
