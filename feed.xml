@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:56:16 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>马斯克带火的太空算力领域，传一个 800MB 模型上天要四周</title>
@@ -59,6 +59,14 @@ OpenAI 表示，截至 6 月的三个月内，公司营收增至 67 亿美元，
       <pubDate>Wed, 19 Aug 2026 08:10:47 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/368995</guid>
       <source url="http://www.geekpark.net/news/368995">极客公园</source>
+    </item>
+    <item>
+      <title>纯电 315km 的插混方盒子：钛 7 DM 长续航版上市，起售价 19.58 万元</title>
+      <link>https://www.ifanr.com/1675594?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>多加 6000 元换来大电池。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 19 Aug 2026 07:34:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675594?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675594?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>预售价 29.98 万元起，奕境 X9 想成为「半价问界 M9」</title>
@@ -182,15 +190,6 @@ Abstract: As supervised fine-tuning data continues to scale, selecting high-valu
       <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.16927</guid>
       <source url="https://arxiv.org/abs/2608.16927">ArXiv ML</source>
-    </item>
-    <item>
-      <title>对文档敏感度分类的经典模型和基于 Transformer 的模型进行基准测试</title>
-      <link>https://arxiv.org/abs/2608.16928</link>
-      <description>arXiv:2608.16928v1 Announce Type: new 
-Abstract: Automatic sensitivity classification of organizational documents is a critical yet underserved problem, where the consequences of misclassification range from regulatory violations to security breaches. While AI-based approaches offer a scalable alter</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.16928</guid>
-      <source url="https://arxiv.org/abs/2608.16928">ArXiv ML</source>
     </item>
   </channel>
 </rss>
