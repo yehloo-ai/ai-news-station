@@ -3773,6 +3773,7 @@ function renderDailyNewspaper(items) {
   if (!items.length) return '<div class="empty-state"><div class="empty-icon">📭</div><p>暂无内容</p></div>';
 
   const now = new Date();
+  const date = `${now.getFullYear()}-${pad(now.getMonth()+1)}-${pad(now.getDate())}`;
   const ZH = '〇一二三四五六七八九';
   const toZh = n => String(n).split('').map(d => ZH[+d]).join('');
   const WEEKS = ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
@@ -3827,6 +3828,9 @@ function renderDailyNewspaper(items) {
         <span>${zhDate} ${WEEKS[now.getDay()]}</span>
         <span class="dnp-dateline-sep">｜</span>
         <span class="dnp-summary">${items.length} 条 · 2 分钟读懂今天的 AI</span>
+        <span class="dnp-actions">
+          <a class="dnp-tag share-poster" href="daily-share/?date=${date}" target="_blank" rel="noopener" style="text-decoration:none;cursor:pointer;" title="打开适合朋友圈和小红书的日报长图版">分享长图</a>
+        </span>
       </div>
     </div>
     ${sectionsHtml}`;
