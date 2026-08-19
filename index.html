@@ -1326,6 +1326,61 @@
       .chronicle-timeline .tl-year-node:first-child { margin-top: 0; }
       .tl-year-text { gap: 6px; font-size: 14px; }
       .tl-year-count { font-size: 10px; }
+      .chronicle-timeline .tl-daycards,
+      .chronicle-timeline .tl-card { min-width: 0; }
+      .chronicle-timeline .tl-card {
+        overflow: hidden;
+        padding: 11px 12px;
+      }
+      .chronicle-timeline .tl-card.minor { padding: 10px 12px; }
+      .chronicle-timeline .tl-meta { gap: 5px 6px; }
+      .chronicle-timeline .tl-cat,
+      .chronicle-timeline .tl-attr,
+      .chronicle-timeline .tl-mile-tag {
+        flex: 0 0 auto;
+        white-space: nowrap;
+      }
+      .chronicle-timeline .tl-model,
+      .chronicle-timeline .tl-highlight,
+      .chronicle-timeline .tl-minor-desc {
+        overflow-wrap: anywhere;
+        word-break: break-word;
+      }
+      .chronicle-timeline .tl-minor-row {
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 6px 8px;
+        line-height: 1.4;
+      }
+      .chronicle-timeline .tl-minor-row .tl-company { max-width: 100%; }
+      .chronicle-timeline .tl-minor-row .tl-model {
+        flex: 0 1 auto;
+        min-width: 0;
+      }
+      .chronicle-timeline .tl-minor-desc {
+        flex: 1 1 140px;
+        min-width: 0;
+        white-space: normal;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+      }
+      .chronicle-timeline .tl-foot { margin-top: 8px; }
+      .chronicle-timeline .tl-source-line {
+        width: 100%;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        align-items: start;
+        gap: 8px;
+      }
+      .chronicle-timeline .tl-source-main { min-width: 0; }
+      .chronicle-timeline .tl-source-label,
+      .chronicle-timeline .tl-source-date { white-space: nowrap; }
+      .chronicle-timeline .tl-source {
+        overflow-wrap: anywhere;
+        word-break: break-word;
+      }
+      .chronicle-timeline .tl-source-date { text-align: right; }
 
       /* ── 移动端顶栏 ── */
       .mobile-header {
@@ -1459,9 +1514,11 @@
       }
       .chronicle-tabs {
         display: flex;
+        flex: 0 0 156px;
         gap: 0;
-        padding: 3px;
-        margin: 4px 0 10px;
+        width: 156px;
+        padding: 2px;
+        margin: 0;
         border: 1px solid var(--border);
         border-radius: 999px;
         background: var(--bg);
@@ -1469,12 +1526,13 @@
       }
       .chronicle-tab {
         flex: 1 1 0;
-        min-height: 34px;
+        min-height: 30px;
+        padding: 0 8px;
         border: 0;
         border-radius: 999px;
         background: transparent;
         color: var(--text);
-        font-size: 12.5px;
+        font-size: 11.5px;
         font-weight: 500;
         cursor: pointer;
         transition: color 0.18s, background 0.18s, box-shadow 0.18s;
@@ -1489,6 +1547,21 @@
         display: inline-flex;
         align-items: center;
         gap: 8px;
+      }
+      .chronicle-top {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 8px;
+        margin-bottom: 8px;
+      }
+      .chronicle-top .chronicle-header {
+        flex: 1 1 auto;
+        min-width: 0;
+      }
+      .chronicle-top .section-tagline {
+        margin-top: 2px;
+        white-space: nowrap;
       }
       .chronicle-title-icon {
         width: 20px;
@@ -2805,7 +2878,7 @@ function tlSource(e, cls) {
   if (cls === 'tl-source') {
     const name = esc(e.sourceName || '官方信源');
     const date = esc(e.date || '');
-    return `信源：<a class="${cls}" href="${esc(e.sourceUrl)}" target="_blank" rel="noopener">${name}</a>${date ? ` · ${date}` : ''}`;
+    return `<span class="tl-source-line"><span class="tl-source-main"><span class="tl-source-label">信源：</span><a class="${cls}" href="${esc(e.sourceUrl)}" target="_blank" rel="noopener">${name}</a></span>${date ? `<span class="tl-source-date">${date}</span>` : ''}</span>`;
   }
   return `<a class="${cls}" href="${esc(e.sourceUrl)}" target="_blank" rel="noopener">${TL_LINK_ICON}</a>`;
 }
@@ -2869,14 +2942,16 @@ function renderModelTimeline(data) {
   }).join('');
 
   main.innerHTML = `
-    <div class="section-header chronicle-header">
-      <div>
-        <div class="section-title"><span class="desktop-only">AI 大事记 · 模型发布时间线</span><span class="mobile-only chronicle-mobile-title"><span class="chronicle-title-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>大事记</span></div>
-        <div class="section-tagline mobile-only">记录 AI 模型发布与资本变化</div>
+    <div class="chronicle-top">
+      <div class="section-header chronicle-header">
+        <div>
+          <div class="section-title"><span class="desktop-only">AI 大事记 · 模型发布时间线</span><span class="mobile-only chronicle-mobile-title"><span class="chronicle-title-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>大事记</span></div>
+          <div class="section-tagline mobile-only">模型与资本动态</div>
+        </div>
+        <div class="section-sub">${entries.length} 条 · 更新于 ${data.updatedAt}</div>
       </div>
-      <div class="section-sub">${entries.length} 条 · 更新于 ${data.updatedAt}</div>
+      ${chronicleTabs('timeline')}
     </div>
-    ${chronicleTabs('timeline')}
     <div class="source-pills chronicle-subtitle">哪家 · 什么模型 · 哪天发布 · 关键规格 —— 条目均附官方信源，<a href="timeline/" target="_blank" rel="noopener" style="color:var(--accent);">网页版（可分享）</a></div>
     <div class="tl-wrap chronicle-timeline">${yearsHtml}</div>`;
 }
@@ -2940,14 +3015,16 @@ function renderFundingTimeline(data) {
       <div class="tl-list">${dateRows}</div>`;
   }).join('');
   main.innerHTML = `
-    <div class="section-header chronicle-header">
-      <div>
-        <div class="section-title"><span class="desktop-only">AI 大事记 · 资本动态时间线</span><span class="mobile-only chronicle-mobile-title"><span class="chronicle-title-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>大事记</span></div>
-        <div class="section-tagline mobile-only">记录 AI 模型发布与资本变化</div>
+    <div class="chronicle-top">
+      <div class="section-header chronicle-header">
+        <div>
+          <div class="section-title"><span class="desktop-only">AI 大事记 · 资本动态时间线</span><span class="mobile-only chronicle-mobile-title"><span class="chronicle-title-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>大事记</span></div>
+          <div class="section-tagline mobile-only">模型与资本动态</div>
+        </div>
+        <div class="section-sub">${entries.length} 条 · 更新于 ${data.updatedAt}</div>
       </div>
-      <div class="section-sub">${entries.length} 条 · 更新于 ${data.updatedAt}</div>
+      ${chronicleTabs('funding')}
     </div>
-    ${chronicleTabs('funding')}
     <div class="source-pills chronicle-subtitle">谁 · 什么轮次 · 多少钱 · 什么估值 —— 条目均附信源</div>
     <div class="tl-wrap chronicle-timeline">${yearsHtml}</div>`;
 }
