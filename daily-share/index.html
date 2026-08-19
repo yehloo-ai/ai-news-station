@@ -1,0 +1,484 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>今日分享长图 · 飞翔的AI资讯站</title>
+  <meta name="description" content="飞翔的AI资讯站每日 AI 日报分享长图预览。">
+  <meta name="robots" content="noindex">
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f4f6f8;
+      --paper: #ffffff;
+      --ink: #111827;
+      --muted: #6b7280;
+      --line: #e5e7eb;
+      --soft: #f8fafc;
+      --accent: #d01922;
+      --accent-soft: rgba(208, 25, 34, 0.08);
+      --green: #16a34a;
+      --shadow: 0 18px 48px rgba(17, 24, 39, 0.12);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: inherit; text-decoration: none; }
+
+    .shell {
+      width: min(1180px, 100%);
+      margin: 0 auto;
+      padding: 24px;
+      display: grid;
+      grid-template-columns: 1fr 380px;
+      gap: 28px;
+      align-items: start;
+    }
+
+    .poster {
+      width: min(720px, 100%);
+      margin: 0 auto;
+      background: var(--paper);
+      border-radius: 10px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .poster-inner { padding: 40px 38px 34px; }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 34px;
+    }
+
+    .brand-mark {
+      width: 64px;
+      height: 64px;
+      display: grid;
+      place-items: center;
+      border-radius: 10px;
+      background: var(--accent);
+      color: #fff;
+      font-size: 48px;
+      font-weight: 900;
+      line-height: 1;
+    }
+
+    .brand-name {
+      font-size: 28px;
+      font-weight: 900;
+      letter-spacing: 0;
+    }
+
+    .headline {
+      margin: 0 0 22px;
+      font-size: clamp(58px, 8vw, 92px);
+      line-height: 0.98;
+      letter-spacing: 0;
+    }
+
+    .headline span { color: var(--accent); }
+
+    .red-line {
+      height: 6px;
+      width: 100%;
+      background: linear-gradient(90deg, var(--accent), var(--accent) 86%, transparent 86%);
+      margin-bottom: 28px;
+    }
+
+    .meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 34px;
+    }
+
+    .date-pill {
+      display: inline-flex;
+      align-items: center;
+      min-height: 44px;
+      padding: 0 16px;
+      border-radius: 8px;
+      background: var(--accent);
+      color: #fff;
+      font-size: 24px;
+      font-weight: 900;
+    }
+
+    .count-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      min-height: 44px;
+      padding: 0 16px;
+      border-radius: 999px;
+      background: var(--soft);
+      color: var(--ink);
+      font-size: 21px;
+      font-weight: 850;
+    }
+
+    .dot {
+      width: 13px;
+      height: 13px;
+      border-radius: 50%;
+      background: var(--green);
+    }
+
+    .timeline {
+      position: relative;
+      display: grid;
+      gap: 20px;
+      padding-left: 34px;
+    }
+
+    .timeline::before {
+      content: "";
+      position: absolute;
+      top: 10px;
+      bottom: 10px;
+      left: 9px;
+      width: 2px;
+      background: var(--accent);
+      opacity: 0.36;
+    }
+
+    .section {
+      position: relative;
+      padding: 22px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--paper);
+      box-shadow: 0 10px 26px rgba(17, 24, 39, 0.08);
+    }
+
+    .section::before {
+      content: "";
+      position: absolute;
+      top: 28px;
+      left: -34px;
+      width: 16px;
+      height: 16px;
+      border: 4px solid var(--paper);
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 0 2px rgba(208, 25, 34, 0.2);
+    }
+
+    .section-head {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .section-num {
+      width: 48px;
+      height: 48px;
+      display: grid;
+      place-items: center;
+      border-radius: 8px;
+      background: var(--accent);
+      color: #fff;
+      font-size: 26px;
+      font-weight: 900;
+    }
+
+    .section-title {
+      padding: 8px 12px;
+      border-radius: 8px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-size: 24px;
+      font-weight: 900;
+    }
+
+    .story-list {
+      display: grid;
+      gap: 12px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .story {
+      display: grid;
+      grid-template-columns: 8px 1fr;
+      gap: 12px;
+      align-items: start;
+      color: var(--ink);
+      font-size: 19px;
+      line-height: 1.45;
+      font-weight: 720;
+    }
+
+    .story::before {
+      content: "";
+      width: 7px;
+      height: 7px;
+      margin-top: 10px;
+      border-radius: 50%;
+      background: var(--accent);
+    }
+
+    .story-source {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    .footer {
+      display: grid;
+      grid-template-columns: 1fr 112px;
+      gap: 22px;
+      align-items: center;
+      margin-top: 28px;
+      padding: 20px;
+      border-radius: 10px;
+      background: var(--soft);
+    }
+
+    .footer-title {
+      margin: 0 0 8px;
+      font-size: 25px;
+      font-weight: 900;
+    }
+
+    .footer-url {
+      margin: 0;
+      color: var(--muted);
+      font-size: 15px;
+      word-break: break-all;
+    }
+
+    .qr {
+      width: 112px;
+      aspect-ratio: 1;
+      border: 8px solid #fff;
+      border-radius: 8px;
+      background:
+        linear-gradient(90deg, #111 12px, transparent 12px) 0 0 / 28px 28px,
+        linear-gradient(#111 12px, transparent 12px) 0 0 / 28px 28px,
+        #fff;
+      outline: 1px solid var(--line);
+    }
+
+    .panel {
+      position: sticky;
+      top: 24px;
+      padding: 20px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--paper);
+    }
+
+    .panel h2 {
+      margin: 0 0 10px;
+      font-size: 22px;
+      letter-spacing: 0;
+    }
+
+    .panel p {
+      margin: 0 0 18px;
+      color: var(--muted);
+      line-height: 1.65;
+    }
+
+    .actions {
+      display: grid;
+      gap: 10px;
+    }
+
+    .btn {
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--ink);
+      font-weight: 800;
+      cursor: pointer;
+    }
+
+    .btn.primary {
+      border-color: var(--accent);
+      background: var(--accent);
+      color: #fff;
+    }
+
+    .hint {
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 820px) {
+      .shell {
+        padding: 14px;
+        grid-template-columns: 1fr;
+      }
+      .panel {
+        position: static;
+      }
+      .poster-inner {
+        padding: 28px 24px 26px;
+      }
+      .brand-mark {
+        width: 48px;
+        height: 48px;
+        font-size: 36px;
+      }
+      .brand-name { font-size: 22px; }
+      .headline { font-size: 54px; }
+      .section-title { font-size: 20px; }
+      .story { font-size: 17px; }
+      .footer {
+        grid-template-columns: 1fr;
+      }
+      .qr {
+        width: 96px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <main class="poster" id="poster">
+      <div class="poster-inner">
+        <div class="brand">
+          <div class="brand-mark">7</div>
+          <div class="brand-name">飞翔的AI资讯站</div>
+        </div>
+        <h1 class="headline">AI <span>日报速览</span></h1>
+        <div class="red-line"></div>
+        <div class="meta-row">
+          <div class="date-pill" id="datePill">加载中</div>
+          <div class="count-pill"><span class="dot"></span><span id="countText">今日重点</span></div>
+        </div>
+        <div class="timeline" id="timeline"></div>
+        <footer class="footer">
+          <div>
+            <p class="footer-title">2 分钟读懂今天的 AI</p>
+            <p class="footer-url">yehloolau-afk.github.io/ai-news-station</p>
+          </div>
+          <div class="qr" aria-label="二维码占位"></div>
+        </footer>
+      </div>
+    </main>
+
+    <aside class="panel">
+      <h2>今日分享长图</h2>
+      <p>这是日报的移动分享版，适合保存后发朋友圈、小红书或群聊。当前版本先提供稳定预览，后续可以接入一键生成 PNG。</p>
+      <div class="actions">
+        <a class="btn primary" href="../">回到资讯站</a>
+        <button class="btn" type="button" id="copyBtn">复制分享文案</button>
+      </div>
+      <div class="hint" id="hint">数据来自今日日报静态 JSON。</div>
+    </aside>
+  </div>
+
+  <script>
+    const WEEKS = ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"];
+    const GROUPS = [
+      { title: "产品发布 / 更新", test: text => /产品|工具|应用|上线|发布|更新|功能|app|tool|work|api|插件/i.test(text) },
+      { title: "模型与研究", test: text => /模型|研究|论文|arxiv|benchmark|gpt|claude|gemini|deepmind|anthropic|openai|llm/i.test(text) },
+      { title: "资本与行业", test: text => /融资|投资|资本|行业|估值|收购|上市|太空|眼镜|公司|市场/i.test(text) }
+    ];
+
+    function getDateParam() {
+      const p = new URLSearchParams(location.search).get("date");
+      return p && /^\d{4}-\d{2}-\d{2}$/.test(p) ? p : null;
+    }
+
+    function formatDate(date) {
+      const d = new Date(date + "T12:00:00+08:00");
+      return `${date.replace(/-/g, ".")}  ${WEEKS[d.getDay()]}`;
+    }
+
+    function esc(value) {
+      return String(value || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function pickStories(items, date) {
+      const todayItems = items.filter(item => String(item.pubDate || "").slice(0, 10) === date);
+      const source = todayItems.length ? todayItems : items.slice(0, 18);
+      const used = new Set();
+      return GROUPS.map((group, index) => {
+        const matches = source.filter(item => {
+          const text = `${item.title || ""} ${item.description || ""} ${item.source || ""}`;
+          return group.test(text) && !used.has(item.link || item.title);
+        }).slice(0, index === 0 ? 2 : 1);
+        matches.forEach(item => used.add(item.link || item.title));
+        const fallback = source.filter(item => !used.has(item.link || item.title)).slice(0, index === 0 ? 2 - matches.length : 1 - matches.length);
+        fallback.forEach(item => used.add(item.link || item.title));
+        return { ...group, items: matches.concat(fallback) };
+      });
+    }
+
+    async function init() {
+      const index = await fetch("../data/daily-index.json").then(r => r.json());
+      const date = getDateParam() || index[0]?.date || new Date().toISOString().slice(0, 10);
+      const dailyPayload = await fetch("../data/daily.json?v=" + Math.floor(Date.now() / 3600000)).then(r => r.json());
+      const items = Array.isArray(dailyPayload) ? dailyPayload : dailyPayload.items || [];
+      const dailyCount = index.find(item => item.date === date)?.count || items.filter(item => String(item.pubDate || "").slice(0, 10) === date).length || items.length;
+      const sections = pickStories(items, date);
+
+      document.getElementById("datePill").textContent = formatDate(date);
+      document.getElementById("countText").textContent = `今日 ${dailyCount} 条重点`;
+      document.getElementById("timeline").innerHTML = sections.map((section, idx) => `
+        <section class="section">
+          <div class="section-head">
+            <div class="section-num">${String(idx + 1).padStart(2, "0")}</div>
+            <div class="section-title">${esc(section.title)}</div>
+          </div>
+          <ul class="story-list">
+            ${section.items.map(item => `
+              <li class="story">
+                <span>
+                  ${esc(item.title)}
+                  <span class="story-source">${esc(item.source || "AI News")}</span>
+                </span>
+              </li>
+            `).join("")}
+          </ul>
+        </section>
+      `).join("");
+      const shareText = `飞翔的AI资讯站｜${date} AI 日报速览：今日 ${dailyCount} 条重点\\nhttps://yehloolau-afk.github.io/ai-news-station/daily-share/?date=${date}`;
+      document.getElementById("copyBtn").addEventListener("click", async () => {
+        try {
+          await navigator.clipboard.writeText(shareText);
+          document.getElementById("hint").textContent = "分享文案已复制。";
+        } catch {
+          document.getElementById("hint").textContent = shareText;
+        }
+      });
+    }
+
+    init().catch(() => {
+      document.getElementById("datePill").textContent = "加载失败";
+      document.getElementById("timeline").innerHTML = '<section class="section"><div class="section-title">数据暂时不可用</div></section>';
+    });
+  </script>
+</body>
+</html>
