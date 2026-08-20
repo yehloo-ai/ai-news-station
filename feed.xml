@@ -5,8 +5,37 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Aug 2026 03:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:59:24 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>「广告位」时代已死，智能体商业开收「中介费」</title>
+      <link>http://www.geekpark.net/news/369078</link>
+      <description>「意图」这两个字，在整场支付宝 AI 生态合作伙伴大会上被提及了超 40 次。
+如果说 5 月的 AI 支付生态大会上，Token Pay、AI 钱包，加上此前推出的 AI 付与 AI 收，代表支付宝明确了「支付可以用 AI」；那么这一次，我们看到的是，支付宝内部对智能体商业化该怎么做已经形成明确预期，并且对各个阶段的节奏和内容，做出了新的判断与调整。
+这一次，支付宝几乎没有发布太多新产品，而是在告诉坐在台下的商家、交易平台、手机和车机厂商们，智能体商业化将会是什么样的。蚂蚁集团 CEO 韩歆毅认为，AI 能力的提升、流量红利见顶后的需求跃迁，以及可持续价值闭环的出现，会推动智能体商业在未来 </description>
+      <pubDate>Thu, 20 Aug 2026 11:26:08 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369078</guid>
+      <source url="http://www.geekpark.net/news/369078">极客公园</source>
+    </item>
+    <item>
+      <title>睡觉时往脑袋上通电，4000 个美国人抢着买单</title>
+      <link>http://www.geekpark.net/news/369077</link>
+      <description>提到印度科技，你想到的大概是外包、程序员和满街的仿制药。很少有人会想到，2026 年美国众筹市场上最快破百万美元的印度健康硬件，是一群班加罗尔年轻人做的一枚神经刺激贴片。
+这款睡眠设备 DUSQ，6 月 9 日在 Kickstarter 上线，设备重 12 克，贴在耳后佩戴。它主要是在人睡着时监测神经系统，并施加微弱的电流刺激，维持更长时间的深度睡眠，早鸟价 229 美元起。30 天众筹结束后，4326 人为它支付了 123 万美元，刷新了印度健康科技公司在 Kickstarter 上的纪录。
+
+DUSQ 处理的是一个大多数人不知道的问题，也就是人睡着之后的交感神经每晚可能出现二三十次「涌动」</description>
+      <pubDate>Thu, 20 Aug 2026 11:14:57 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369077</guid>
+      <source url="http://www.geekpark.net/news/369077">极客公园</source>
+    </item>
+    <item>
+      <title>「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测</title>
+      <link>https://sspai.com/post/113497</link>
+      <description>在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。查看全文</description>
+      <pubDate>Thu, 20 Aug 2026 10:41:31 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113497</guid>
+      <source url="https://sspai.com/post/113497">少数派</source>
+    </item>
     <item>
       <title>派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本</title>
       <link>https://sspai.com/post/113638</link>
@@ -124,6 +153,23 @@
       <source url="http://www.geekpark.net/news/369047">极客公园</source>
     </item>
     <item>
+      <title>DeepSeek 刚刚让封闭式人工智能看起来很荒谬</title>
+      <link>https://www.youtube.com/watch?v=kyYepbhe1g8</link>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
+
+DeepSeek V4 Pro 0813:
+https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813
+
+DSpark full episode: https://www.youtube.com/watch?v=1yBU41auQhw
+
+Sources:
+https://x.com/cline/status/2087602193205694891
+https://x.com/T</description>
+      <pubDate>Wed, 19 Aug 2026 18:02:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=kyYepbhe1g8</guid>
+      <source url="https://www.youtube.com/watch?v=kyYepbhe1g8">Two Minute Papers</source>
+    </item>
+    <item>
       <title>iOS 27 测试版近期动向，还有 Apple 产品新消息</title>
       <link>https://sspai.com/post/113618</link>
       <description>7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ...查看全文</description>
@@ -157,45 +203,6 @@
       <pubDate>Wed, 19 Aug 2026 10:54:52 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/111936</guid>
       <source url="https://sspai.com/post/111936">少数派</source>
-    </item>
-    <item>
-      <title>章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式</title>
-      <link>https://www.qbitai.com/2026/08/475931.html</link>
-      <description></description>
-      <pubDate>Wed, 19 Aug 2026 10:54:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/475931.html</guid>
-      <source url="https://www.qbitai.com/2026/08/475931.html">量子位</source>
-    </item>
-    <item>
-      <title>黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成代理店</title>
-      <link>http://www.geekpark.net/news/369003</link>
-      <description>嘲讽与反转，是属于 DSH 同一个架构的因果两端。
-作者｜张勇毅
-编辑｜靖宇
-&amp;nbsp;
-
-
-8 月 14 日上午，DeepSeek Harness 上线 GitHub 还不到十二小时，项目 GitHub Star 就突破了 5 万。跻身 GitHub 史上最速达成记录之列。
-极客公园曾在首发实测总结它的「一切皆插件」的概念是，「Agent 界的 Android」，但这个评价的另一面，是当时社区围绕 DeepSeek Harness（下文简称 DSH）的巨大争议：「对非开发者不是很友好」与「毛边随处可见」是不少第一时间体验之后的评论；还有一些第三方测显示同样跑 V4 Flash，DSH 比别</description>
-      <pubDate>Wed, 19 Aug 2026 10:33:05 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369003</guid>
-      <source url="http://www.geekpark.net/news/369003">极客公园</source>
-    </item>
-    <item>
-      <title>全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会</title>
-      <link>https://www.qbitai.com/2026/08/475907.html</link>
-      <description>超维动力KAI全栈具身智能硬核登场</description>
-      <pubDate>Wed, 19 Aug 2026 10:12:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/475907.html</guid>
-      <source url="https://www.qbitai.com/2026/08/475907.html">量子位</source>
-    </item>
-    <item>
-      <title>预售 21.99 万元起，全新一代智己 L6 把全线控底盘带进 20 万级，还有一个高定限量版</title>
-      <link>https://www.ifanr.com/1675639?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>技术先锋。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 19 Aug 2026 09:49:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675639?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675639?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
