@@ -5,8 +5,16 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:55:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:56:32 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>十年阅读历程，这是我的阅读工具推荐</title>
+      <link>https://sspai.com/post/113567</link>
+      <description>从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ...查看全文</description>
+      <pubDate>Thu, 20 Aug 2026 15:25:47 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113567</guid>
+      <source url="https://sspai.com/post/113567">少数派</source>
+    </item>
     <item>
       <title>「广告位」时代已死，智能体商业开收「中介费」</title>
       <link>http://www.geekpark.net/news/369078</link>
@@ -56,6 +64,22 @@ DUSQ 处理的是一个大多数人不知道的问题，也就是人睡着之后
       <pubDate>Thu, 20 Aug 2026 08:39:28 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369056</guid>
       <source url="http://www.geekpark.net/news/369056">极客公园</source>
+    </item>
+    <item>
+      <title>我三刷了「满血版」的《奥德赛》，总结出这份最全 IMAX 观影指南（附推荐影厅）</title>
+      <link>https://www.ifanr.com/1675763?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>与此同时，同事在影厅欣赏着《牛来》#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 20 Aug 2026 08:28:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675763?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675763?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>2026 年，手机厂商为什么非做 Pocket 不可？｜硬哲学</title>
+      <link>https://www.ifanr.com/1675750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>参数之外，手机厂商有机会重写体验#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 20 Aug 2026 07:55:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？</title>
@@ -157,33 +181,6 @@ Abstract: We present a review on the applications of large language models (LLMs
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.18080</guid>
       <source url="https://arxiv.org/abs/2608.18080">ArXiv AI</source>
-    </item>
-    <item>
-      <title>立场：行为系统需要行为测试</title>
-      <link>https://arxiv.org/abs/2608.18081</link>
-      <description>arXiv:2608.18081v1 Announce Type: new 
-Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the underlying behaviora</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.18081</guid>
-      <source url="https://arxiv.org/abs/2608.18081">ArXiv AI</source>
-    </item>
-    <item>
-      <title>立场：当前模型卡不足以满足开放权重基础模型的下游治理</title>
-      <link>https://arxiv.org/abs/2608.18086</link>
-      <description>arXiv:2608.18086v1 Announce Type: new 
-Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model repositories, existing fr</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.18086</guid>
-      <source url="https://arxiv.org/abs/2608.18086">ArXiv AI</source>
-    </item>
-    <item>
-      <title>熵约束自适应随机量化</title>
-      <link>https://arxiv.org/abs/2608.18147</link>
-      <description>arXiv:2608.18147v1 Announce Type: new 
-Abstract: Adaptive stochastic quantization (ASQ) is a recently introduced quantization approach that optimizes the Mean Squared Error (MSE) for a given input while preserving unbiasedness. It is designed to alleviate the communication and memory bottlenecks of </description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.18147</guid>
-      <source url="https://arxiv.org/abs/2608.18147">ArXiv ML</source>
     </item>
   </channel>
 </rss>
