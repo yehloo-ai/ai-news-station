@@ -117,5 +117,12 @@
     "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
     "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
     "sourceName": "公众号：小红书技术（dots.llm）"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+    "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
+    "sourceUrl": "https://huggingface.co/blog/LiquidAI/qad",
+    "sourceName": "Hugging Face：Blog（RSS）"
   }
 ]
