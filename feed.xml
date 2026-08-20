@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Aug 2026 03:59:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:52:14 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>「广告位」时代已死，智能体商业开收「中介费」</title>
@@ -124,85 +124,67 @@ DUSQ 处理的是一个大多数人不知道的问题，也就是人睡着之后
       <source url="https://www.ifanr.com/1675698?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线</title>
-      <link>http://www.geekpark.net/news/369051</link>
-      <description>宇树的下一张牌，是搭起一套系统，让全球 AI 的持续进步，转化为机器人不断加快的进化速度。
-作者&amp;nbsp;|&amp;nbsp;Li Yuan
-
-
-8 月 19 日，宇树科技正式登陆科创板。上市首日，公司股价一度较发行价涨超 6 倍，总市值突破 4400 亿元。
-当市场盯着这家「机器人身体最强公司」的股价时，一个更重要的问题随之出现：获得更多资金和资源之后，宇树接下来要做什么？
-当天中午，王兴兴参加了宇树的上市答谢午宴。这几乎是公司上市后的标准动作：感谢一路支持的政府、股东和合作伙伴，再回望一遍创业十年的艰辛。
-但在略显磕巴地完成这些常规致谢后，王兴兴没有就此结束，而是突然把话题转向技术，开始讲述宇</description>
-      <pubDate>Wed, 19 Aug 2026 20:29:50 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369051</guid>
-      <source url="http://www.geekpark.net/news/369051">极客公园</source>
+      <title>立场：人工智能推理代理之间的共谋风险证明了市场决策的认证要求是合理的</title>
+      <link>https://arxiv.org/abs/2608.18078</link>
+      <description>arXiv:2608.18078v1 Announce Type: new 
+Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This i</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.18078</guid>
+      <source url="https://arxiv.org/abs/2608.18078">ArXiv AI</source>
     </item>
     <item>
-      <title>宇树往事</title>
-      <link>http://www.geekpark.net/news/369047</link>
-      <description>今天，宇树科技鸣锣上市了，跑出了超过 4000 亿的市值。
-对于风口正盛的具身智能行业来说，宇树扮演了赛道破风者的角色，为整个行业设定了一个宝贵的价值锚点。
-大家近几年看到的，或许是宇树极其迅猛的发展加速度。但回望它的成长之路，其实并不是个爽文的剧本，从 2017 年极客公园旗下变量资本决定投资宇树天使轮至今，我们也已经陪伴宇树走过了九个年头。在我眼里，这是个脆弱与坚强交织、纠结与决断并存的过程。
-上市的精彩只是一瞬间，但我想把陪伴宇树这段长跑里的往事好好「蒸馏」一下，也许能从中提炼出一些对当下及未来创业者依然有价值和有意义的东西。
-&amp;nbsp;
-适度悲观地「走夜路」
-从融资的角度看，宇树出生</description>
-      <pubDate>Wed, 19 Aug 2026 20:19:12 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369047</guid>
-      <source url="http://www.geekpark.net/news/369047">极客公园</source>
+      <title>职位：通过转换复杂性分析游戏世界</title>
+      <link>https://arxiv.org/abs/2608.18079</link>
+      <description>arXiv:2608.18079v1 Announce Type: new 
+Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction problem is at the declared interface (pixels/tokens/latents with finite history).</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.18079</guid>
+      <source url="https://arxiv.org/abs/2608.18079">ArXiv AI</source>
     </item>
     <item>
-      <title>DeepSeek 刚刚让封闭式人工智能看起来很荒谬</title>
-      <link>https://www.youtube.com/watch?v=kyYepbhe1g8</link>
-      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
-
-DeepSeek V4 Pro 0813:
-https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813
-
-DSpark full episode: https://www.youtube.com/watch?v=1yBU41auQhw
-
-Sources:
-https://x.com/cline/status/2087602193205694891
-https://x.com/T</description>
-      <pubDate>Wed, 19 Aug 2026 18:02:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=kyYepbhe1g8</guid>
-      <source url="https://www.youtube.com/watch?v=kyYepbhe1g8">Two Minute Papers</source>
+      <title>心理健康中的大型语言模型：应用、创新和伦理挑战的系统回顾</title>
+      <link>https://arxiv.org/abs/2608.18080</link>
+      <description>arXiv:2608.18080v1 Announce Type: new 
+Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate fi</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.18080</guid>
+      <source url="https://arxiv.org/abs/2608.18080">ArXiv AI</source>
     </item>
     <item>
-      <title>iOS 27 测试版近期动向，还有 Apple 产品新消息</title>
-      <link>https://sspai.com/post/113618</link>
-      <description>7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ...查看全文</description>
-      <pubDate>Wed, 19 Aug 2026 17:39:05 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113618</guid>
-      <source url="https://sspai.com/post/113618">少数派</source>
+      <title>立场：行为系统需要行为测试</title>
+      <link>https://arxiv.org/abs/2608.18081</link>
+      <description>arXiv:2608.18081v1 Announce Type: new 
+Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the underlying behaviora</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.18081</guid>
+      <source url="https://arxiv.org/abs/2608.18081">ArXiv AI</source>
     </item>
     <item>
-      <title>《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了</title>
-      <link>https://sspai.com/post/113588</link>
-      <description>本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ...查看全文</description>
-      <pubDate>Wed, 19 Aug 2026 15:20:08 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113588</guid>
-      <source url="https://sspai.com/post/113588">少数派</source>
+      <title>立场：当前模型卡不足以满足开放权重基础模型的下游治理</title>
+      <link>https://arxiv.org/abs/2608.18086</link>
+      <description>arXiv:2608.18086v1 Announce Type: new 
+Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model repositories, existing fr</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.18086</guid>
+      <source url="https://arxiv.org/abs/2608.18086">ArXiv AI</source>
     </item>
     <item>
-      <title>马斯克带火的太空算力领域，传一个 800MB 模型上天要四周</title>
-      <link>http://www.geekpark.net/news/369013</link>
-      <description>「所有劝我不要干太空算力的朋友，现在全在干太空算力。」
-太空字节联合创始人秦贵军这样描述过去一年。这家公司 2024 年底成立，做的是太空数据中心；他本人参与过北斗导航重大专项，在卫星行业干了十几年。那些劝过他的朋友也大多是同一个画像：传统航天出身，两年前还觉得把算力送上天是个不着调的故事，如今已经用脚投票。
-他画过一张国内太空算力的行业热力图，从长三角到北京亦庄、中关村，再到成都、西安、合肥，玩家已经超过三十家，正在往四十家走。
-热度的源头在大洋彼岸。2026 年 6 月 12 日，SpaceX 以每股 135 美元、约 1.75 万亿美元的估值登陆纳斯达克，成为美股史上规模最大的 IPO。</description>
-      <pubDate>Wed, 19 Aug 2026 12:02:55 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369013</guid>
-      <source url="http://www.geekpark.net/news/369013">极客公园</source>
+      <title>熵约束自适应随机量化</title>
+      <link>https://arxiv.org/abs/2608.18147</link>
+      <description>arXiv:2608.18147v1 Announce Type: new 
+Abstract: Adaptive stochastic quantization (ASQ) is a recently introduced quantization approach that optimizes the Mean Squared Error (MSE) for a given input while preserving unbiasedness. It is designed to alleviate the communication and memory bottlenecks of </description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.18147</guid>
+      <source url="https://arxiv.org/abs/2608.18147">ArXiv ML</source>
     </item>
     <item>
-      <title>App+1 | Inkive：把纸质书上划好的线存进 Obsidian</title>
-      <link>https://sspai.com/post/111936</link>
-      <description>让纸书上的划线，回到你的数字笔记里。查看全文</description>
-      <pubDate>Wed, 19 Aug 2026 10:54:52 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/111936</guid>
-      <source url="https://sspai.com/post/111936">少数派</source>
+      <title>迈向可逆遗忘：管理持续企业人工智能代理中的过时知识</title>
+      <link>https://arxiv.org/abs/2608.18177</link>
+      <description>arXiv:2608.18177v1 Announce Type: new 
+Abstract: Continual learning has traditionally treated forgetting as a failure, emphasizing preservation of previously acquired knowledge as environments evolve. We argue that this objective is incomplete for enterprise AI agents operating in non-stationary env</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.18177</guid>
+      <source url="https://arxiv.org/abs/2608.18177">ArXiv ML</source>
     </item>
   </channel>
 </rss>
