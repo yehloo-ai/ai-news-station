@@ -1,22 +1,17 @@
 {
-  "generatedAt": "2026-08-19T14:05:45.707Z",
+  "generatedAt": "2026-08-20T02:36:23.176Z",
   "umami": {
     "error": null,
     "today": {
-      "visitors": 6,
-      "pageviews": 40
+      "visitors": 1,
+      "pageviews": 1
     },
     "last30d": {
       "visitors": 33,
-      "pageviews": 233,
-      "visits": 64
+      "pageviews": 234,
+      "visits": 65
     },
     "series": [
-      {
-        "date": "2026-07-21",
-        "pageviews": 2,
-        "visitors": 1
-      },
       {
         "date": "2026-07-22",
         "pageviews": 1,
@@ -159,6 +154,11 @@
       },
       {
         "date": "2026-08-19",
+        "pageviews": 1,
+        "visitors": 1
+      },
+      {
+        "date": "2026-08-20",
         "pageviews": 0,
         "visitors": 0
       }
