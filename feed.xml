@@ -5,7 +5,7 @@
     <link>https://yehloolau-afk.github.io/designer-tool/ai-station.html</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Aug 2026 05:44:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:05:48 +0000</lastBuildDate>
     <atom:link href="https://yehloolau-afk.github.io/designer-tool/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>「广告位」时代已死，智能体商业开收「中介费」</title>
@@ -56,6 +56,14 @@ DUSQ 处理的是一个大多数人不知道的问题，也就是人睡着之后
       <pubDate>Thu, 20 Aug 2026 08:39:28 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369056</guid>
       <source url="http://www.geekpark.net/news/369056">极客公园</source>
+    </item>
+    <item>
+      <title>宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？</title>
+      <link>https://www.qbitai.com/2026/08/476120.html</link>
+      <description>这几个玩家或可被“押注”</description>
+      <pubDate>Thu, 20 Aug 2026 06:17:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476120.html</guid>
+      <source url="https://www.qbitai.com/2026/08/476120.html">量子位</source>
     </item>
     <item>
       <title>苹果「带摄像头的 AirPods」意外曝光，但今年还是买不到</title>
@@ -176,15 +184,6 @@ Abstract: Adaptive stochastic quantization (ASQ) is a recently introduced quanti
       <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.18147</guid>
       <source url="https://arxiv.org/abs/2608.18147">ArXiv ML</source>
-    </item>
-    <item>
-      <title>迈向可逆遗忘：管理持续企业人工智能代理中的过时知识</title>
-      <link>https://arxiv.org/abs/2608.18177</link>
-      <description>arXiv:2608.18177v1 Announce Type: new 
-Abstract: Continual learning has traditionally treated forgetting as a failure, emphasizing preservation of previously acquired knowledge as environments evolve. We argue that this objective is incomplete for enterprise AI agents operating in non-stationary env</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.18177</guid>
-      <source url="https://arxiv.org/abs/2608.18177">ArXiv ML</source>
     </item>
   </channel>
 </rss>
