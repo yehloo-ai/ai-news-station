@@ -3,7 +3,7 @@
 
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 
-const SITE = 'https://yehloolau-afk.github.io/ai-news-station';
+const SITE = 'https://yehloo-ai.github.io/ai-news-station';
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 const { updatedAt, entries } = JSON.parse(readFileSync('data/funding.json', 'utf8'));

@@ -6,7 +6,7 @@
 import { writeFileSync, mkdirSync } from 'node:fs';
 
 const UMAMI_GATEWAY = 'https://gateway-us.umami.is/api';
-const SITE_DOMAIN = 'yehloolau-afk.github.io';
+const SITE_DOMAIN = 'yehloo-ai.github.io';
 const DAYS = 30;
 
 // 北京时间固定 UTC+8，无夏令时

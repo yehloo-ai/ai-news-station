@@ -3,8 +3,8 @@
 
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 
-const SITE = 'https://yehloolau-afk.github.io/ai-news-station';
-const SUGGEST = 'https://github.com/yehloolau-afk/ai-news-station/issues/new?title=' +
+const SITE = 'https://yehloo-ai.github.io/ai-news-station';
+const SUGGEST = 'https://github.com/yehloo-ai/ai-news-station/issues/new?title=' +
   encodeURIComponent('【工具收录建议】') + '&body=' + encodeURIComponent('工具名称：\n官网链接：\n所属分类：\n一句话简介：');
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const AV_COLORS = ['#d01922', '#7c3aed', '#0891b2', '#16a34a', '#ea580c', '#1677ff', '#c026d3', '#0f766e'];

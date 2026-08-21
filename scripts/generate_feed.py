@@ -66,8 +66,8 @@ def translate_items_en(items):
     print(f'  ✓ 翻译 {translated}/{len(targets)} 条')
 
 # ── 常量 ──────────────────────────────────────────────
-SITE_URL  = 'https://yehloolau-afk.github.io/designer-tool/ai-station.html'
-FEED_URL  = 'https://yehloolau-afk.github.io/designer-tool/feed.xml'
+SITE_URL  = 'https://yehloo-ai.github.io/ai-news-station/'
+FEED_URL  = 'https://yehloo-ai.github.io/ai-news-station/feed.xml'
 TIMEOUT   = 12
 HEADERS   = {'User-Agent': 'Mozilla/5.0 (compatible; FeixiangBot/1.0)'}
 

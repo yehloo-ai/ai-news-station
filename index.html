@@ -6,11 +6,11 @@
   <title>AI资讯站</title>
   <meta name="description" content="飞翔的AI资讯站：聚合国内外 20+ 主流媒体的 AI 资讯，覆盖产品发布、行业动态、论文研究、AI 设计等 7 大频道，外文自动翻译，实时更新，并提供每日 AI 日报存档。">
   <meta name="google-site-verification" content="o1ypFKflQRbCQp6Al499inns-RPMuzUGwjx49idKP2k">
-  <link rel="canonical" href="https://yehloolau-afk.github.io/ai-news-station/">
+  <link rel="canonical" href="https://yehloo-ai.github.io/ai-news-station/">
   <meta property="og:title" content="飞翔的AI资讯站 — AI 行业资讯聚合">
   <meta property="og:description" content="聚合国内外 20+ 主流媒体的 AI 资讯，7 大频道实时更新，外文自动翻译，每日 AI 日报存档。">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://yehloolau-afk.github.io/ai-news-station/">
+  <meta property="og:url" content="https://yehloo-ai.github.io/ai-news-station/">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="飞翔的AI资讯站 — AI 行业资讯聚合">
   <meta name="twitter:description" content="聚合国内外 20+ 主流媒体的 AI 资讯，7 大频道实时更新，外文自动翻译">
@@ -2866,8 +2866,8 @@ function prefetchTab(id) {
 }
 
 // ── AI Builder tab: fetch from Follow Builders feeds ──────────────────────
-const BUILDERS_FEED_X       = 'https://yehloolau-afk.github.io/ai-news-station/data/builders-x.json';
-const BUILDERS_FEED_PODCAST = 'https://yehloolau-afk.github.io/ai-news-station/data/builders-podcasts.json';
+const BUILDERS_FEED_X       = 'https://yehloo-ai.github.io/ai-news-station/data/builders-x.json';
+const BUILDERS_FEED_PODCAST = 'https://yehloo-ai.github.io/ai-news-station/data/builders-podcasts.json';
 const AV_COLORS = ['#d01922','#7c3aed','#0891b2','#16a34a','#ea580c','#1677ff','#c026d3','#0f766e'];
 function builderAvColor(name = '') { return AV_COLORS[name.charCodeAt(0) % AV_COLORS.length]; }
 function fmtBigNum(n) { if (!n) return '0'; return n >= 1000 ? (n/1000).toFixed(1)+'k' : String(n); }
@@ -3053,7 +3053,7 @@ function chronicleTabs(current) {
 
 // ── Render: AI 工具库（按场景分类的工具导航）──
 let TOOLS_NEW_MONTH = null; // 本月新增标记（有更早月份的工具作基线时才启用，避免首月全标 NEW）
-const TOOLS_SUGGEST_URL = 'https://github.com/yehloolau-afk/ai-news-station/issues/new?title=' +
+const TOOLS_SUGGEST_URL = 'https://github.com/yehloo-ai/ai-news-station/issues/new?title=' +
   encodeURIComponent('【工具收录建议】') + '&body=' + encodeURIComponent('工具名称：\n官网链接：\n所属分类：\n一句话简介：');
 function toolCard(t, cat, catName) {
   let host = '';

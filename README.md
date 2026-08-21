@@ -1,18 +1,18 @@
 # AI News Station
 
-**Live →** [yehloolau-afk.github.io/ai-news-station/](https://yehloolau-afk.github.io/ai-news-station/)
+**Live →** [yehloo-ai.github.io/ai-news-station/](https://yehloo-ai.github.io/ai-news-station/)
 
-**📊 Dashboard →** [admin.html](https://yehloolau-afk.github.io/ai-news-station/admin.html) (owner-only, passcode protected)
+**📊 Dashboard →** [admin.html](https://yehloo-ai.github.io/ai-news-station/admin.html) (owner-only, passcode protected)
 
-**📰 AI Daily archive →** [daily/](https://yehloolau-afk.github.io/ai-news-station/daily/) (static pages crawlable by search & AI engines, rebuilt 3×/day via Actions)
+**📰 AI Daily archive →** [daily/](https://yehloo-ai.github.io/ai-news-station/daily/) (static pages crawlable by search & AI engines, rebuilt 3×/day via Actions)
 
-**🕐 AI model release timeline →** [timeline/](https://yehloolau-afk.github.io/ai-news-station/timeline/) (who, which model, when, key specs — auto-merged from the daily digest and weight-tiered)
+**🕐 AI model release timeline →** [timeline/](https://yehloo-ai.github.io/ai-news-station/timeline/) (who, which model, when, key specs — auto-merged from the daily digest and weight-tiered)
 
-**💰 AI funding timeline →** [funding/](https://yehloolau-afk.github.io/ai-news-station/funding/) (who raised, which round, how much, valuation — from 2023 onward)
+**💰 AI funding timeline →** [funding/](https://yehloo-ai.github.io/ai-news-station/funding/) (who raised, which round, how much, valuation — from 2023 onward)
 
-**🧰 AI tools directory →** [tools/](https://yehloolau-afk.github.io/ai-news-station/tools/) (curated AI tools by scenario, filterable, CN + overseas, crawlable SEO page)
+**🧰 AI tools directory →** [tools/](https://yehloo-ai.github.io/ai-news-station/tools/) (curated AI tools by scenario, filterable, CN + overseas, crawlable SEO page)
 
-**📡 RSS →** [feed.xml](https://yehloolau-afk.github.io/ai-news-station/feed.xml)
+**📡 RSS →** [feed.xml](https://yehloo-ai.github.io/ai-news-station/feed.xml)
 
 An AI news aggregator built for design teams. Pulls from 20+ Chinese and English sources, auto-translates, and updates every hour via GitHub Actions. Content is organized into three sidebar groups — **Daily Brief**, **Milestones** (model + funding timelines), and **Tools** — with priority-weighted timeline cards.
 
@@ -93,7 +93,7 @@ The site wires in two analytics providers and ships a self-hosted aggregated das
 
 ### Dashboard
 
-- URL: [yehloolau-afk.github.io/ai-news-station/admin.html](https://yehloolau-afk.github.io/ai-news-station/admin.html) (a small "📊 Site data" entry sits at the bottom of the sidebar; the page is set to `noindex`)
+- URL: [yehloo-ai.github.io/ai-news-station/admin.html](https://yehloo-ai.github.io/ai-news-station/admin.html) (a small "📊 Site data" entry sits at the bottom of the sidebar; the page is set to `noindex`)
 - Requires a passcode. The passcode itself is **not** committed — only its SHA-256 hash lives in `PASS_HASH` inside `admin.html`, and it only keeps casual visitors out.
 - One screen: today / last-30-day visitors and pageviews, 30-day trend chart, domestic vs. overseas split, referrers, and domestic referrer types (Baidu Tongji, pending).
 

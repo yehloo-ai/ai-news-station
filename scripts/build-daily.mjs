@@ -4,7 +4,7 @@
 
 import { writeFileSync, mkdirSync, readdirSync, readFileSync, existsSync } from 'node:fs';
 
-const SITE = 'https://yehloolau-afk.github.io/ai-news-station';
+const SITE = 'https://yehloo-ai.github.io/ai-news-station';
 const AIHOT = 'https://aihot.virxact.com/api/public';
 const FETCH_DAYS = 10;
 const HEADERS = {
