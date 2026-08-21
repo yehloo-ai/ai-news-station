@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 07:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:57:05 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资</title>
@@ -48,6 +48,14 @@
       <pubDate>Fri, 21 Aug 2026 08:05:46 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369114</guid>
       <source url="http://www.geekpark.net/news/369114">极客公园</source>
+    </item>
+    <item>
+      <title>比亚迪大汉预售价 24.99 万元起！第三代唐同步亮相，内饰大变样</title>
+      <link>https://www.ifanr.com/1675982?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>新的汉唐家族成型了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 21 Aug 2026 07:17:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675982?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675982?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>派早报：华为发布 Pura X View、享界 G9 等多款新品</title>
@@ -170,15 +178,6 @@
       <pubDate>Fri, 21 Aug 2026 00:24:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1675947?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1675947?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>主动推理作为 AI 代理的上下文获取</title>
-      <link>https://arxiv.org/abs/2608.19202</link>
-      <description>arXiv:2608.19202v1 Announce Type: new 
-Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval cal</description>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.19202</guid>
-      <source url="https://arxiv.org/abs/2608.19202">ArXiv AI</source>
     </item>
   </channel>
 </rss>
