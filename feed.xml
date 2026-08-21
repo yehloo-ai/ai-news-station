@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 04:54:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 05:46:52 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验</title>
@@ -30,6 +30,14 @@
       <pubDate>Fri, 21 Aug 2026 07:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113666</guid>
       <source url="https://sspai.com/post/113666">少数派</source>
+    </item>
+    <item>
+      <title>Jeff Dean离职后首次公开访谈火力有点猛。。。</title>
+      <link>https://www.qbitai.com/2026/08/476468.html</link>
+      <description>离开谷歌的原因之一：小团队可以极致聚焦！</description>
+      <pubDate>Fri, 21 Aug 2026 04:05:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476468.html</guid>
+      <source url="https://www.qbitai.com/2026/08/476468.html">量子位</source>
     </item>
     <item>
       <title>苹果 Apple Music 不想放过任何一首 AI 音乐</title>
@@ -106,7 +114,7 @@
       <source url="https://www.ifanr.com/1675947?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>主动推理作为 AI 代理的上下文获取</title>
+      <title>主动推理作为人工智能代理的上下文获取</title>
       <link>https://arxiv.org/abs/2608.19202</link>
       <description>arXiv:2608.19202v1 Announce Type: new 
 Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval cal</description>
@@ -167,15 +175,6 @@ Abstract: Decision-making in complex systems often involves dealing with impreci
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.19234</guid>
       <source url="https://arxiv.org/abs/2608.19234">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Holtercare-Bench：评估长期动态心电图分析的多模式基准</title>
-      <link>https://arxiv.org/abs/2608.19297</link>
-      <description>arXiv:2608.19297v1 Announce Type: new 
-Abstract: While multimodal large language models (MLLMs) excel in medical applications, most of them favor static images or short-term signals. In the critical field of dynamic electrocardiograms (ECG), models struggle with complex temporal reasoning and diagno</description>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.19297</guid>
-      <source url="https://arxiv.org/abs/2608.19297">ArXiv ML</source>
     </item>
   </channel>
 </rss>
