@@ -124,5 +124,12 @@
     "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
     "sourceUrl": "https://huggingface.co/blog/LiquidAI/qad",
     "sourceName": "Hugging Face：Blog（RSS）"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+    "summary": "Hugging Face 发布 LFM2.5 系列三款模型的 DSpark 草稿模型检查点，通过投机解码在不改变输出质量的前提下，GPU 吞吐最高提升 3.18 倍，端侧最高 2.87 倍。草稿模型约 300M 参数，LFM2.5-2.6B 函数调用延迟平均降低 57%，已开源支持 llama.cpp 和 SGLang。",
+    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "sourceName": "Hugging Face：Blog（RSS）"
   }
 ]

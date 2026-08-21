@@ -1,0 +1,226 @@
+{
+  "date": "2026-08-21",
+  "attribution": {
+    "source": "AIHOT",
+    "canonical": "https://aihot.virxact.com/daily/2026-08-21"
+  },
+  "generatedAt": "2026-08-21T00:01:06.088Z",
+  "windowStart": "2026-08-20T00:00:00.000Z",
+  "windowEnd": "2026-08-21T00:00:00.000Z",
+  "lead": null,
+  "sections": [
+    {
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "title": "阿里发布 Qwen-UI-Agent，主打让模型真正“会用”每一块屏幕",
+          "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+          "sourceUrl": "https://www.ithome.com/0/992/239.htm",
+          "sourceName": "IT之家（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby"
+          }
+        },
+        {
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+          "summary": "Hugging Face 发布 LFM2.5 系列三款模型的 DSpark 草稿模型检查点，通过投机解码在不改变输出质量的前提下，GPU 吞吐最高提升 3.18 倍，端侧最高 2.87 倍。草稿模型约 300M 参数，LFM2.5-2.6B 函数调用延迟平均降低 57%，已开源支持 llama.cpp 和 SGLang。",
+          "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "sourceName": "Hugging Face：Blog（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b"
+          }
+        }
+      ]
+    },
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+          "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+          "sourceUrl": "https://mistral.ai/news/agentic-search",
+          "sourceName": "Mistral AI：News（网页）",
+          "permalink": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7"
+          }
+        },
+        {
+          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+          "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O(N^1/2) 降至 O(N^1/4)。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
+          "sourceUrl": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+          "sourceName": "Google Cloud：Databases（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6"
+          }
+        },
+        {
+          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+          "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+          "sourceUrl": "https://claude.com/blog/computer-use-skills-api-files-api",
+          "sourceName": "Claude：Blog（网页）",
+          "permalink": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew"
+          }
+        },
+        {
+          "title": "Anthropic 如何开展 AI 教学",
+          "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及“ever-boarding”持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+          "sourceUrl": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+          "sourceName": "Claude：Blog（网页）",
+          "permalink": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65"
+          }
+        },
+        {
+          "title": "Mooncake 如何为 Miles 强化学习系统实现高效批量 Rollout 数据传输",
+          "summary": "大规模 LLM 强化学习采用解耦架构后，rollout 数据从推理侧到训练侧的传输成为瓶颈。Mooncake 针对 Miles 系统中异构、碎片化的 rollout 数据（如 list[np.ndarray] 形式的 tokens、loss_masks、rollout_log_probs），通过批量 I/O 优化实现高效传输，同时满足效率、正确性、可扩展性、灵活性和可预测的交接延迟等要求。",
+          "sourceUrl": "https://www.lmsys.org/blog/2026-08-20-miles-mooncake-rollout-data-transfer",
+          "sourceName": "LMSYS：Blog（Chatbot Arena 团队）",
+          "permalink": "https://aihot.virxact.com/items/cmt1tnrvi07h4roov529jj7fn",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1tnrvi07h4roov529jj7fn"
+          }
+        },
+        {
+          "title": "Claude Code v2.1.238 发布：新增 readline 键位、插件市场 headersHelper 与多项 Remote Control 修复",
+          "summary": "Claude Code v2.1.238 发布，新增 keybindingFlavor 设置（可设为 \"readline\" 使 Ctrl+W 删除至前一个空白符），并为插件市场引入 headersHelper 以生成 HTTP 头。",
+          "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.238",
+          "sourceName": "Claude Code：GitHub Releases（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmt206dhq0d95roovjuqm08xj",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt206dhq0d95roovjuqm08xj"
+          }
+        },
+        {
+          "title": "Claude Code v2.1.237 发布：修复 LLM 网关提示词缓存，新增“简洁”输出风格",
+          "summary": "Claude Code v2.1.237 修复了使用 LLM 网关或自定义 base URL 的会话中的提示词缓存问题，并新增内置“简洁”输出风格。该风格下 Claude 直接给出结果，跳过开场白和叙述，但工作完成度不变，可在 /config 的 Output style 下选择。",
+          "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.237",
+          "sourceName": "Claude Code：GitHub Releases（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmt0taqbd0eqero2o25htdjwk",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt0taqbd0eqero2o25htdjwk"
+          }
+        },
+        {
+          "title": "LangSmith 预览构建：如何在合并前测试智能体变更",
+          "summary": "LangSmith 预览构建让团队在合并智能体变更前，于临时的、类生产环境的部署中测试拉取请求分支。该功能旨在降低变更上线风险，使智能体改动验证更贴近真实运行条件。",
+          "sourceUrl": "https://www.langchain.com/blog/langsmith-preview-builds-test-agent-changes-before-production",
+          "sourceName": "LangChain：Blog（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmt1syh3c06wkroovu6hir326",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1syh3c06wkroovu6hir326"
+          }
+        }
+      ]
+    },
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+          "sourceUrl": "https://www.ithome.com/0/991/886.htm",
+          "sourceName": "IT之家（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob"
+          }
+        }
+      ]
+    },
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "title": "数据受限下的多语言知识迁移：Apple 提出基于词汇干预的新方法",
+          "summary": "Apple 研究团队提出一种基于词汇干预的多语言知识迁移方法，旨在解决低资源语言训练数据不足时，模型难以从高资源语言获取科学推理、常识推断和世界知识的问题。该方法无需大量平行语料、翻译系统或辅助模型，为数据受限场景下的跨语言知识迁移提供了更高效的替代方案。",
+          "sourceUrl": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
+          "sourceName": "Apple Machine Learning Research（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmt1nax0o02deroovp316md4c",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1nax0o02deroovp316md4c"
+          }
+        },
+        {
+          "title": "数据约束下的混合预训练缩放定律",
+          "summary": "苹果机器学习研究团队通过2000余次语言模型训练实验，系统研究了稀缺目标数据与通用数据混合预训练中的权衡问题。研究发现，目标数据占比过低会导致模型对目标领域暴露不足，而占比过高则因重复样本过多引发收益递减乃至过拟合，为数据约束下的混合预训练策略提供了量化依据。",
+          "sourceUrl": "https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining",
+          "sourceName": "Apple Machine Learning Research（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmt1nax0o02dfroovlqhc3duf",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1nax0o02dfroovlqhc3duf"
+          }
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
+          "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出“人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化”五大规则。",
+          "sourceUrl": "https://claude.com/blog/claude-code-guide-for-startups",
+          "sourceName": "Claude：Blog（网页）",
+          "permalink": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv"
+          }
+        },
+        {
+          "title": "OpenAI 推出 AI Futures 博客，探讨自由社会如何应对变革性 AI",
+          "summary": "OpenAI 新设 Strategic Futures 团队并推出博客 AI Futures，核心问题是自由社会应如何重构以在变革性 AI 出现时保障个人权利与自主权。团队认为，自主系统和机器智能的进步可能使国家无需依赖人力即可投射力量、征收税收并自动化官僚体系，从而削弱民众在谈判桌上的地位。文章主张借鉴美国开国元勋“以权力制衡权力”的思路，寻求建立并维持适当的权力平衡，而非彻底去中心化。",
+          "sourceUrl": "https://openai.com/index/introducing-ai-futures",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.virxact.com/items/cmt1xl5qy0bcqroovbg8l2x5q",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1xl5qy0bcqroovbg8l2x5q"
+          }
+        },
+        {
+          "title": "Leopold 的愚蠢：一个年轻人如何象征一个时代",
+          "summary": "作者以“空头支票”式骗局为类比，指出生成式 AI 行业存在类似循环融资的投机成分，如以 OpenAI 股份为抵押贷款再购入更多股份。文章认为这些债务能否偿付高度不确定，可能最终带来数万亿美元利润，也可能落空，并呼吁需要不同的分析框架。",
+          "sourceUrl": "https://garymarcus.substack.com/p/leopolds-folly",
+          "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmt1tqvhd07kfroovdo84515n",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt1tqvhd07kfroovdo84515n"
+          }
+        },
+        {
+          "title": "共和党因与大型科技公司关系陷入恐慌",
+          "summary": "共和党正因与大型科技公司的关系而陷入恐慌，原因是他们意识到大型AI议程在美国民众中极不受欢迎。特朗普已从反对AI监管转向强烈鼓励对前沿AI模型进行自愿预检测试。新成立的超级政治行动委员会Guardrails Alliance指出，共和党因早前向AI行业妥协而面临困境，正急于挽回局面。",
+          "sourceUrl": "https://garymarcus.substack.com/p/breaking-the-republican-party-is",
+          "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmt11vfrx0m3pro2oh3rnt89a",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmt11vfrx0m3pro2oh3rnt89a"
+          }
+        }
+      ]
+    }
+  ],
+  "flashes": []
+}
