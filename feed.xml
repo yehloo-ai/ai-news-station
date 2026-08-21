@@ -5,8 +5,34 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 05:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:07:13 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资</title>
+      <link>http://www.geekpark.net/news/369162</link>
+      <description>&amp;nbsp;
+头图来源：Wapoo 官网
+极客公园获悉，面向 Gen Alpha 的视频共创社交平台 Wapoo 已完成近千万美元天使轮融资。本轮融资由某互联网集团旗下战略投资方投资，其在全球化产品运营、年轻用户生态及新兴市场拓展方面已具备一定积累，探奇资本担任公司独家融资顾问。目前，Wapoo 团队约 10 人，并已开始筹备下一轮融资。
+过去十年，短视频完成了对全球用户注意力的接管，也逐渐逼近既有产品形态的边界。一个新的问题正在浮出水面：跟着 Roblox 和 Minecraft 长大的 Gen Alpha，是否还会满足于被动刷视频？
+他们习惯修改、共创，也习惯在数字世界留下自己的版本。但进</description>
+      <pubDate>Fri, 21 Aug 2026 14:15:33 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369162</guid>
+      <source url="http://www.geekpark.net/news/369162">极客公园</source>
+    </item>
+    <item>
+      <title>小红书悄悄开源发布了自己的大模型，内容平台也要造底座</title>
+      <link>http://www.geekpark.net/news/369161</link>
+      <description>&amp;nbsp;
+头图来源：chatgpt 生成
+&amp;nbsp;
+前几天，我们注意小红书在海外发布了一款大模型 dots3-note preview。
+这款模型采用 MoE 架构，总参数 280B、激活参数 16B，支持 512K 上下文，并具备文本、视觉、语音的多模态理解能力。它属于 dots3 系列，后续还将有 jazz、aria 等不同定位的版本。作为先行发布的 note 版本，它更像是小红书将模型能力推向实际业务和开发者生态的第一步。
+模型上线后，海外开发者社区很快开始讨论，Hugging Face 下载量破百，华为昇腾也在当天宣布完成适配；但在国内，这次发布暂时还没有掀起太大水花。
+在这件</description>
+      <pubDate>Fri, 21 Aug 2026 14:12:45 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369161</guid>
+      <source url="http://www.geekpark.net/news/369161">极客公园</source>
+    </item>
     <item>
       <title>TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验</title>
       <link>https://sspai.com/post/113586</link>
@@ -32,6 +58,38 @@
       <source url="https://sspai.com/post/113666">少数派</source>
     </item>
     <item>
+      <title>苹果 VR 部门再裁 60 人，VisionPro 2 真悬了？</title>
+      <link>https://www.ifanr.com/1675978?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>苹果的下一台「Vision」设备，可能不是一台 VR 头显，而是一副能每天戴出门的 AI 眼镜。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 21 Aug 2026 05:53:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1675978?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1675978?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌</title>
+      <link>https://www.qbitai.com/2026/08/476532.html</link>
+      <description>一点新鲜变化都没有吗？</description>
+      <pubDate>Fri, 21 Aug 2026 05:38:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476532.html</guid>
+      <source url="https://www.qbitai.com/2026/08/476532.html">量子位</source>
+    </item>
+    <item>
+      <title>科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进一个桌面</title>
+      <link>https://www.qbitai.com/2026/08/476520.html</link>
+      <description>让科学家的时间回到科学创造</description>
+      <pubDate>Fri, 21 Aug 2026 05:33:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476520.html</guid>
+      <source url="https://www.qbitai.com/2026/08/476520.html">量子位</source>
+    </item>
+    <item>
+      <title>设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会</title>
+      <link>https://www.qbitai.com/2026/08/476525.html</link>
+      <description>中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。</description>
+      <pubDate>Fri, 21 Aug 2026 05:09:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476525.html</guid>
+      <source url="https://www.qbitai.com/2026/08/476525.html">量子位</source>
+    </item>
+    <item>
       <title>Jeff Dean离职后首次公开访谈火力有点猛。。。</title>
       <link>https://www.qbitai.com/2026/08/476468.html</link>
       <description>离开谷歌的原因之一：小团队可以极致聚焦！</description>
@@ -50,7 +108,7 @@
     <item>
       <title>ChatGPT 可以看短信了，AI 想从你的 App 里拿到你的一切</title>
       <link>https://www.ifanr.com/1675954?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>苹果做守门员，ChatGPT 做指挥官。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <description>苹果得把门看好了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
       <pubDate>Fri, 21 Aug 2026 03:34:05 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1675954?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1675954?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
@@ -114,67 +172,13 @@
       <source url="https://www.ifanr.com/1675947?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>主动推理作为人工智能代理的上下文获取</title>
+      <title>主动推理作为 AI 代理的上下文获取</title>
       <link>https://arxiv.org/abs/2608.19202</link>
       <description>arXiv:2608.19202v1 Announce Type: new 
 Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval cal</description>
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.19202</guid>
       <source url="https://arxiv.org/abs/2608.19202">ArXiv AI</source>
-    </item>
-    <item>
-      <title>泊位分配和码头起重机分配不确定性下的稳健元启发法：综述</title>
-      <link>https://arxiv.org/abs/2608.19214</link>
-      <description>arXiv:2608.19214v1 Announce Type: new 
-Abstract: The berth allocation and quay crane assignment problem (BACAP) is a representative port-terminal scheduling problem in maritime transportation and freight logistics, where vessel arrivals, berth positions, service durations, and quay?crane availabilit</description>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.19214</guid>
-      <source url="https://arxiv.org/abs/2608.19214">ArXiv AI</source>
-    </item>
-    <item>
-      <title>如何应对人工智能意识的不确定性</title>
-      <link>https://arxiv.org/abs/2608.19215</link>
-      <description>arXiv:2608.19215v1 Announce Type: new 
-Abstract: Given deep uncertainty about the possibility of artificial consciousness, it is unclear how we should treat potentially sentient AI. On the one hand, we could assume insentience but risk doing terrible harms to entities that deserve moral standing. On</description>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.19215</guid>
-      <source url="https://arxiv.org/abs/2608.19215">ArXiv AI</source>
-    </item>
-    <item>
-      <title>有界主权和控制税：部署者不拥有模型时人工智能监督的定价</title>
-      <link>https://arxiv.org/abs/2608.19216</link>
-      <description>arXiv:2608.19216v1 Announce Type: new 
-Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations u</description>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.19216</guid>
-      <source url="https://arxiv.org/abs/2608.19216">ArXiv AI</source>
-    </item>
-    <item>
-      <title>交互效价揭示了奶牛社交网络的对比</title>
-      <link>https://arxiv.org/abs/2608.19222</link>
-      <description>arXiv:2608.19222v1 Announce Type: new 
-Abstract: Social relationships shape access to resources, exposure to conflict and group stability, yet automated livestock monitoring typically treats behaviour as isolated events. Here, we present a valence-aware social-network framework that transforms video</description>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.19222</guid>
-      <source url="https://arxiv.org/abs/2608.19222">ArXiv AI</source>
-    </item>
-    <item>
-      <title>基于机器学习的直升机重量估计器的机载实施</title>
-      <link>https://arxiv.org/abs/2608.19210</link>
-      <description>arXiv:2608.19210v1 Announce Type: new 
-Abstract: This paper focuses on the implementation of a novel supervised Machine Learning model for estimating helicopter weight during takeoff, utilizing extensive datasets from Airbus's global in-service fleet. The study details a learning assurance process a</description>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.19210</guid>
-      <source url="https://arxiv.org/abs/2608.19210">ArXiv ML</source>
-    </item>
-    <item>
-      <title>三角模糊重缩放距离</title>
-      <link>https://arxiv.org/abs/2608.19234</link>
-      <description>arXiv:2608.19234v1 Announce Type: new 
-Abstract: Decision-making in complex systems often involves dealing with imprecise or uncertain information, frequently represented using fuzzy sets, particularly Triangular Fuzzy Numbers (TFNs). A crucial aspect of many fuzzy methods is the quantification of d</description>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.19234</guid>
-      <source url="https://arxiv.org/abs/2608.19234">ArXiv ML</source>
     </item>
   </channel>
 </rss>
