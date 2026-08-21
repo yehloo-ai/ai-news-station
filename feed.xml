@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:40:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:12:36 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>MiniMax，做视频领域的 Claude Code 的野心已经藏不住了</title>
@@ -67,6 +67,14 @@
       <pubDate>Fri, 21 Aug 2026 14:12:45 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369161</guid>
       <source url="http://www.geekpark.net/news/369161">极客公园</source>
+    </item>
+    <item>
+      <title>最大运力自动驾驶轻卡落地，来自无人车巨头</title>
+      <link>https://www.qbitai.com/2026/08/476778.html</link>
+      <description>载重4.2吨、容积19.32m³</description>
+      <pubDate>Fri, 21 Aug 2026 11:47:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476778.html</guid>
+      <source url="https://www.qbitai.com/2026/08/476778.html">量子位</source>
     </item>
     <item>
       <title>19.68 万元起，华为乾崑双智上车，全新深蓝 G318 想从山野开回城市</title>
@@ -179,14 +187,6 @@
       <pubDate>Fri, 21 Aug 2026 07:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113666</guid>
       <source url="https://sspai.com/post/113666">少数派</source>
-    </item>
-    <item>
-      <title>科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面</title>
-      <link>https://www.qbitai.com/2026/08/476591.html</link>
-      <description>让科学家的时间回到科学创造</description>
-      <pubDate>Fri, 21 Aug 2026 06:40:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476591.html</guid>
-      <source url="https://www.qbitai.com/2026/08/476591.html">量子位</source>
     </item>
   </channel>
 </rss>
