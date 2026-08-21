@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-21T02:43:00.462Z",
+  "generatedAt": "2026-08-21T14:05:32.579Z",
   "umami": {
     "error": null,
     "today": {
-      "visitors": 0,
-      "pageviews": 0
+      "visitors": 10,
+      "pageviews": 15
     },
     "last30d": {
-      "visitors": 34,
-      "pageviews": 235,
-      "visits": 66
+      "visitors": 43,
+      "pageviews": 250,
+      "visits": 77
     },
     "series": [
       {
@@ -154,8 +154,8 @@
       },
       {
         "date": "2026-08-20",
-        "pageviews": 0,
-        "visitors": 0
+        "pageviews": 15,
+        "visitors": 10
       },
       {
         "date": "2026-08-21",
@@ -166,20 +166,36 @@
     "countries": [
       {
         "code": "US",
-        "visitors": 21
+        "visitors": 27
       },
       {
         "code": "CN",
         "visitors": 13
+      },
+      {
+        "code": "DE",
+        "visitors": 1
+      },
+      {
+        "code": "CA",
+        "visitors": 1
+      },
+      {
+        "code": "NL",
+        "visitors": 1
       }
     ],
     "referrers": [
       {
-        "domain": "weixin110.qq.com",
+        "domain": "lmqinsydney-lab.github.io",
         "visitors": 1
       },
       {
-        "domain": "lmqinsydney-lab.github.io",
+        "domain": "github.com",
+        "visitors": 1
+      },
+      {
+        "domain": "weixin110.qq.com",
         "visitors": 1
       }
     ]
