@@ -5,8 +5,21 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:45:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:40:27 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MiniMax，做视频领域的 Claude Code 的野心已经藏不住了</title>
+      <link>http://www.geekpark.net/news/369201</link>
+      <description>作者｜Cynthia
+编辑｜靖宇
+
+7 月 31 日，MiniMax H3 发布当天，我们就做了实测。
+屏幕上的进度指示走到尽头，一段最高 2K 分辨率的视频出现在屏幕：画面、运动、声音被协调地装在同一个结果里。无论流畅度、画面精细程度，还是后期的视频修改操作便捷度，这无疑都是当前行业的 SOTA 级模型。
+榜单成果也验证了我们的猜想。截至 8 月中旬，Artificial Analysis 的视频编辑榜上，H3 位列第一；在文生视频与图生视频榜单中，它同样处于第一梯队，全球前三。模型发布的同一时间，MiniMax 还顺便官宣了 H3 加量不加价，定价仅为同级别产品的三分之一，每秒 8 毛，一</description>
+      <pubDate>Fri, 21 Aug 2026 18:58:09 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369201</guid>
+      <source url="http://www.geekpark.net/news/369201">极客公园</source>
+    </item>
     <item>
       <title>从单点突破到全数 SOTA，阿里打响「模型团战」第一枪</title>
       <link>http://www.geekpark.net/news/369200</link>
@@ -20,6 +33,14 @@
       <pubDate>Fri, 21 Aug 2026 18:15:12 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369200</guid>
       <source url="http://www.geekpark.net/news/369200">极客公园</source>
+    </item>
+    <item>
+      <title>本周看什么 | 最近值得一看的 10 部作品</title>
+      <link>https://sspai.com/post/113693</link>
+      <description>📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ...查看全文</description>
+      <pubDate>Fri, 21 Aug 2026 18:08:59 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113693</guid>
+      <source url="https://sspai.com/post/113693">少数派</source>
     </item>
     <item>
       <title>前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资</title>
@@ -48,6 +69,22 @@
       <source url="http://www.geekpark.net/news/369161">极客公园</source>
     </item>
     <item>
+      <title>19.68 万元起，华为乾崑双智上车，全新深蓝 G318 想从山野开回城市</title>
+      <link>https://www.ifanr.com/1676102?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>方盒子进城。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 21 Aug 2026 11:32:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676102?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676102?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>捷尼赛思 GV90 正式亮相，全尺寸对开门量产，比劳斯莱斯更激进</title>
+      <link>https://www.ifanr.com/1676069?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>这将会是韩式高端的代表作之一。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 21 Aug 2026 11:32:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676069?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676069?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
       <title>TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验</title>
       <link>https://sspai.com/post/113586</link>
       <description>Nothing Ear (3a) 保持了它作为 Nothing 产品的精良做工和标志性的外观设计，在操作等方面也做得不错，单元素质也在水平线之上，降噪等方面也并不差，至少在中价位产品中绝对不能算落后。查看全文</description>
@@ -70,6 +107,14 @@
       <pubDate>Fri, 21 Aug 2026 10:23:24 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1676067?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1676067?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景</title>
+      <link>https://www.qbitai.com/2026/08/476733.html</link>
+      <description>明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。</description>
+      <pubDate>Fri, 21 Aug 2026 09:44:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476733.html</guid>
+      <source url="https://www.qbitai.com/2026/08/476733.html">量子位</source>
     </item>
     <item>
       <title>微信 AI 修图抢先体验：能用够用，但还不够好用</title>
@@ -142,46 +187,6 @@
       <pubDate>Fri, 21 Aug 2026 06:40:34 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/476591.html</guid>
       <source url="https://www.qbitai.com/2026/08/476591.html">量子位</source>
-    </item>
-    <item>
-      <title>苹果 VR 部门再裁 60 人，VisionPro 2 真悬了？</title>
-      <link>https://www.ifanr.com/1675978?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>苹果的下一台「Vision」设备，可能不是一台 VR 头显，而是一副能每天戴出门的 AI 眼镜。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 21 Aug 2026 05:53:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675978?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675978?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌</title>
-      <link>https://www.qbitai.com/2026/08/476532.html</link>
-      <description>一点新鲜变化都没有吗？</description>
-      <pubDate>Fri, 21 Aug 2026 05:38:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476532.html</guid>
-      <source url="https://www.qbitai.com/2026/08/476532.html">量子位</source>
-    </item>
-    <item>
-      <title>设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会</title>
-      <link>https://www.qbitai.com/2026/08/476525.html</link>
-      <description>中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。</description>
-      <pubDate>Fri, 21 Aug 2026 05:09:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476525.html</guid>
-      <source url="https://www.qbitai.com/2026/08/476525.html">量子位</source>
-    </item>
-    <item>
-      <title>Jeff Dean离职后首次公开访谈火力有点猛。。。</title>
-      <link>https://www.qbitai.com/2026/08/476468.html</link>
-      <description>离开谷歌的原因之一：小团队可以极致聚焦！</description>
-      <pubDate>Fri, 21 Aug 2026 04:05:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476468.html</guid>
-      <source url="https://www.qbitai.com/2026/08/476468.html">量子位</source>
-    </item>
-    <item>
-      <title>苹果 Apple Music 不想放过任何一首 AI 音乐</title>
-      <link>https://www.ifanr.com/1675958?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>国内音乐平台什么时候跟上#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 21 Aug 2026 03:39:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675958?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675958?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
