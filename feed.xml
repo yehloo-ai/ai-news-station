@@ -5,8 +5,26 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:43:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:40:52 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>越会用 AI 的人，学习能力退化得越快</title>
+      <link>http://www.geekpark.net/news/369212</link>
+      <description>「坏 AI，使人笨！」
+
+作者｜张勇毅
+编辑｜靖宇
+
+「AI 用多了，人会不会逐渐变笨？」
+这应该是过去三年被讨论最多的一个迷思之一，从 ChatGPT 走红那天就有。吵了三年多，两边都拿不出像样的证据：
+担心的人只有体感，不担心的人只有立场。
+8 月 18 日，《经济学人》给这场争论补上了迄今最硬的一份证据。
+报道的主角是 2.7 万名中国中学生。用上 AI 之后，他们的作业分数平均涨了 18%，写一份作业的时间从 64 分钟缩到 45 分钟。到这里全是好消息，直到月考卷子发下来：闭卷考试里，这批学生的成绩比不用 AI 的同学低了 20%。
+作业分曾是最可靠的「晴雨表」：作业越好，考试越好。</description>
+      <pubDate>Sat, 22 Aug 2026 18:07:50 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369212</guid>
+      <source url="http://www.geekpark.net/news/369212">极客公园</source>
+    </item>
     <item>
       <title>线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展</title>
       <link>https://sspai.com/post/113675</link>
@@ -184,14 +202,6 @@
       <pubDate>Fri, 21 Aug 2026 09:06:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1676006?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1676006?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>雷鸟iO发布：两天续航、全天候主动式AI，轻至34g</title>
-      <link>https://www.qbitai.com/2026/08/476628.html</link>
-      <description>8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会</description>
-      <pubDate>Fri, 21 Aug 2026 09:00:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476628.html</guid>
-      <source url="https://www.qbitai.com/2026/08/476628.html">量子位</source>
     </item>
   </channel>
 </rss>
