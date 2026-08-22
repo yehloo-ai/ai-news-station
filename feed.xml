@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 14:39:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 15:36:08 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>越会用 AI 的人，学习能力退化得越快</title>
@@ -24,6 +24,30 @@
       <pubDate>Sat, 22 Aug 2026 18:07:50 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369212</guid>
       <source url="http://www.geekpark.net/news/369212">极客公园</source>
+    </item>
+    <item>
+      <title>伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒</title>
+      <link>https://www.qbitai.com/2026/08/477246.html</link>
+      <description>直击WRC</description>
+      <pubDate>Sat, 22 Aug 2026 14:19:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/477246.html</guid>
+      <source url="https://www.qbitai.com/2026/08/477246.html">量子位</source>
+    </item>
+    <item>
+      <title>魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗</title>
+      <link>https://www.qbitai.com/2026/08/477155.html</link>
+      <description>一脑驱动多形落地</description>
+      <pubDate>Sat, 22 Aug 2026 14:11:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/477155.html</guid>
+      <source url="https://www.qbitai.com/2026/08/477155.html">量子位</source>
+    </item>
+    <item>
+      <title>00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token</title>
+      <link>https://www.qbitai.com/2026/08/477094.html</link>
+      <description>采集，从一条腕带开始</description>
+      <pubDate>Sat, 22 Aug 2026 13:56:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/477094.html</guid>
+      <source url="https://www.qbitai.com/2026/08/477094.html">量子位</source>
     </item>
     <item>
       <title>Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台</title>
@@ -178,30 +202,6 @@
       <pubDate>Fri, 21 Aug 2026 11:05:01 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113586</guid>
       <source url="https://sspai.com/post/113586">少数派</source>
-    </item>
-    <item>
-      <title>首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕</title>
-      <link>https://www.ifanr.com/1676070?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>拿起机器，按下拍摄——对于普通用户而言，这已经是口袋相机相当难得的专业表现；而对影石来说，开拓了新的客群，也意味着创造出更多的机会。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 21 Aug 2026 10:30:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676070?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676070?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了</title>
-      <link>https://www.ifanr.com/1676067?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>那个熟悉的 DeepSeek 终于又回来了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 21 Aug 2026 10:23:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676067?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676067?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景</title>
-      <link>https://www.qbitai.com/2026/08/476733.html</link>
-      <description>明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。</description>
-      <pubDate>Fri, 21 Aug 2026 09:44:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476733.html</guid>
-      <source url="https://www.qbitai.com/2026/08/476733.html">量子位</source>
     </item>
   </channel>
 </rss>
