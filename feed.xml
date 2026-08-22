@@ -5,8 +5,29 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 23:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:52:55 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车</title>
+      <link>http://www.geekpark.net/news/369206</link>
+      <description>DeepSeek V4-Flash-Vision-Exp 上线：开启多模态 API 服务，Agent 能力接近 Opus-4.8
+8 月 21 日消息，深度求索官方宣布全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台。
+该模型支持在文本之外输入图片，可以让模型描述图片、识别截图中的文字、分析图表等。支持的图片格式包括 JPEG、PNG、GIF、WebP。
+深度求索官方表示，V4-Flash-Vision-Exp 在各类 Agent 框架内展现出了较好的多模态适配能力，能够有效支持大家借助多样化的 Agent 工具解锁更多实</description>
+      <pubDate>Sat, 22 Aug 2026 08:23:28 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369206</guid>
+      <source url="http://www.geekpark.net/news/369206">极客公园</source>
+    </item>
+    <item>
+      <title>早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」</title>
+      <link>https://www.ifanr.com/1676129?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 阿里二季度重组电商与 AI 业务架构
+· 腾讯芯片负责人高剑林被曝离职创业，瞄准 RISC-V AI CPU
+· 旺旺被曝启动裁员，并要求员工提交自评报告#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 22 Aug 2026 00:50:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676129?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676129?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>MiniMax，做视频领域的 Claude Code 的野心已经藏不住了</title>
       <link>http://www.geekpark.net/news/369201</link>
@@ -171,22 +192,6 @@
       <pubDate>Fri, 21 Aug 2026 07:17:58 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/476596.html</guid>
       <source url="https://www.qbitai.com/2026/08/476596.html">量子位</source>
-    </item>
-    <item>
-      <title>比亚迪大汉预售价 24.99 万元起！第三代唐同步亮相，内饰大变样</title>
-      <link>https://www.ifanr.com/1675982?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>新的汉唐家族成型了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 21 Aug 2026 07:17:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1675982?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1675982?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>派早报：华为发布 Pura X View、享界 G9 等多款新品</title>
-      <link>https://sspai.com/post/113666</link>
-      <description>影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等。查看全文</description>
-      <pubDate>Fri, 21 Aug 2026 07:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113666</guid>
-      <source url="https://sspai.com/post/113666">少数派</source>
     </item>
   </channel>
 </rss>
