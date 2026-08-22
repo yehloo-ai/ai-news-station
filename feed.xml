@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 15:36:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:40:27 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>越会用 AI 的人，学习能力退化得越快</title>
@@ -24,6 +24,14 @@
       <pubDate>Sat, 22 Aug 2026 18:07:50 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369212</guid>
       <source url="http://www.geekpark.net/news/369212">极客公园</source>
+    </item>
+    <item>
+      <title>不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径</title>
+      <link>https://www.qbitai.com/2026/08/477253.html</link>
+      <description>端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？</description>
+      <pubDate>Sat, 22 Aug 2026 14:46:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/477253.html</guid>
+      <source url="https://www.qbitai.com/2026/08/477253.html">量子位</source>
     </item>
     <item>
       <title>伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒</title>
@@ -194,14 +202,6 @@
       <pubDate>Fri, 21 Aug 2026 11:32:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1676069?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1676069?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验</title>
-      <link>https://sspai.com/post/113586</link>
-      <description>Nothing Ear (3a) 保持了它作为 Nothing 产品的精良做工和标志性的外观设计，在操作等方面也做得不错，单元素质也在水平线之上，降噪等方面也并不差，至少在中价位产品中绝对不能算落后。查看全文</description>
-      <pubDate>Fri, 21 Aug 2026 11:05:01 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113586</guid>
-      <source url="https://sspai.com/post/113586">少数派</source>
     </item>
   </channel>
 </rss>
