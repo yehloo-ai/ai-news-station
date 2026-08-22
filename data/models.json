@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-15",
+  "updatedAt": "2026-08-22",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-08-22",
+      "company": "深度求索",
+      "model": "DeepSeek-V4-Flash-Vision-Exp",
+      "type": "多模态",
+      "specs": [],
+      "highlight": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Visi",
+      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21",
+      "sourceName": "DeepSeek：API 更新日志",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-08-15",
       "company": "智谱",
