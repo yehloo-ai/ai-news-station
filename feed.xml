@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 03:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 04:47:56 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展</title>
+      <link>https://sspai.com/post/113675</link>
+      <description>又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...查看全文</description>
+      <pubDate>Sat, 22 Aug 2026 11:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113675</guid>
+      <source url="https://sspai.com/post/113675">少数派</source>
+    </item>
     <item>
       <title>微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车</title>
       <link>http://www.geekpark.net/news/369206</link>
@@ -184,14 +192,6 @@
       <pubDate>Fri, 21 Aug 2026 08:05:46 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369114</guid>
       <source url="http://www.geekpark.net/news/369114">极客公园</source>
-    </item>
-    <item>
-      <title>机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作</title>
-      <link>https://www.qbitai.com/2026/08/476596.html</link>
-      <description>机器人看3秒演示就能学会</description>
-      <pubDate>Fri, 21 Aug 2026 07:17:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476596.html</guid>
-      <source url="https://www.qbitai.com/2026/08/476596.html">量子位</source>
     </item>
   </channel>
 </rss>
