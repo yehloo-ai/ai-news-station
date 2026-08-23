@@ -5,8 +5,59 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 23 Aug 2026 13:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 14:41:22 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻</title>
+      <link>http://www.geekpark.net/news/369223</link>
+      <description>如果物理 AI 也能 scaling，意味着什么？
+
+作者｜Li Yuan
+编辑｜靖宇
+
+研究人员先教机器人拿起刷子，把桌上的积木扫进碗里。
+然后，他们把刷子拿走，换成一根香蕉。
+机器人抓起香蕉，将它横过来贴住桌面，把积木一点点扫进碗中。
+随后，香蕉又被换成了一只簸箕。机器人这次没有继续照搬「扫」的动作，而是伸出另一只手，把积木推上簸箕，再端起来倒进碗里。
+重点来了，研究人员从来没有在这项任务里教它用香蕉和簸箕，它是自己推理出来的。
+
+
+
+
+
+
+
+
+
+
+已关注
+
+
+关注
+
+ 重播   分享    赞                                随便看看            </description>
+      <pubDate>Sun, 23 Aug 2026 22:35:51 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369223</guid>
+      <source url="http://www.geekpark.net/news/369223">极客公园</source>
+    </item>
+    <item>
+      <title>世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」</title>
+      <link>http://www.geekpark.net/news/369221</link>
+      <description>从人形、轮式到重载，从家庭、零售到工业，银河星脑正在走进更多身体和真实场景。
+作者｜Li Yuan
+编辑｜靖宇
+&amp;nbsp;
+
+
+每年走进世界机器人大会，人们最先看到的都是身体。
+有的机器人长出双腿，有的装上轮子；有的把手指做得越来越像人，有的用钢铁手臂扛起几十公斤重物。我们也因此习惯用外形给机器人分类：会跳舞的是一种，能搬箱子的是另一种，会进厨房和卧室的，又是另一种。
+今年的世界机器人大会上，这套认识开始松动。
+银河通用在分论坛发布了小型双足人形机器人 ET1。它第一次登台便跳起一段高动态舞蹈，也第一次让银河通用拥有了一副可以走路、舞动，并从人类动作中继续学习的双足身体。
+银河通用创始人兼 </description>
+      <pubDate>Sun, 23 Aug 2026 22:33:26 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369221</guid>
+      <source url="http://www.geekpark.net/news/369221">极客公园</source>
+    </item>
     <item>
       <title>AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本</title>
       <link>https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard</link>
@@ -14,6 +65,14 @@
       <pubDate>Sun, 23 Aug 2026 15:25:29 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard</guid>
       <source url="https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard">少数派</source>
+    </item>
+    <item>
+      <title>WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店</title>
+      <link>https://www.qbitai.com/2026/08/478319.html</link>
+      <description>玩的就是真实</description>
+      <pubDate>Sun, 23 Aug 2026 13:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478319.html</guid>
+      <source url="https://www.qbitai.com/2026/08/478319.html">量子位</source>
     </item>
     <item>
       <title>具身创业里的香港教授们</title>
@@ -134,14 +193,6 @@
       <source url="https://www.qbitai.com/2026/08/477253.html">量子位</source>
     </item>
     <item>
-      <title>伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒</title>
-      <link>https://www.qbitai.com/2026/08/477246.html</link>
-      <description>直击WRC</description>
-      <pubDate>Sat, 22 Aug 2026 14:19:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/477246.html</guid>
-      <source url="https://www.qbitai.com/2026/08/477246.html">量子位</source>
-    </item>
-    <item>
       <title>线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展</title>
       <link>https://sspai.com/post/113675</link>
       <description>又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...查看全文</description>
@@ -168,29 +219,6 @@
       <pubDate>Sat, 22 Aug 2026 08:23:28 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369206</guid>
       <source url="http://www.geekpark.net/news/369206">极客公园</source>
-    </item>
-    <item>
-      <title>早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」</title>
-      <link>https://www.ifanr.com/1676129?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 阿里二季度重组电商与 AI 业务架构
-· 腾讯芯片负责人高剑林被曝离职创业，瞄准 RISC-V AI CPU
-· 旺旺被曝启动裁员，并要求员工提交自评报告#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 22 Aug 2026 00:50:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676129?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676129?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>MiniMax，做视频领域的 Claude Code 的野心已经藏不住了</title>
-      <link>http://www.geekpark.net/news/369201</link>
-      <description>作者｜Cynthia
-编辑｜靖宇
-
-7 月 31 日，MiniMax H3 发布当天，我们就做了实测。
-屏幕上的进度指示走到尽头，一段最高 2K 分辨率的视频出现在屏幕：画面、运动、声音被协调地装在同一个结果里。无论流畅度、画面精细程度，还是后期的视频修改操作便捷度，这无疑都是当前行业的 SOTA 级模型。
-榜单成果也验证了我们的猜想。截至 8 月中旬，Artificial Analysis 的视频编辑榜上，H3 位列第一；在文生视频与图生视频榜单中，它同样处于第一梯队，全球前三。模型发布的同一时间，MiniMax 还顺便官宣了 H3 加量不加价，定价仅为同级别产品的三分之一，每秒 8 毛，一</description>
-      <pubDate>Fri, 21 Aug 2026 18:58:09 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369201</guid>
-      <source url="http://www.geekpark.net/news/369201">极客公园</source>
     </item>
   </channel>
 </rss>
