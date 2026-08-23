@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:47:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:47:11 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本</title>
+      <link>https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard</link>
+      <description>手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。</description>
+      <pubDate>Sun, 23 Aug 2026 15:25:29 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard</guid>
+      <source url="https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard">少数派</source>
+    </item>
     <item>
       <title>让 PC 与 HomePod 互联：音频串流工具 WinAirCast</title>
       <link>https://sspai.com/post/113002</link>
@@ -26,6 +34,22 @@
       <pubDate>Sun, 23 Aug 2026 08:20:39 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369215</guid>
       <source url="http://www.geekpark.net/news/369215">极客公园</source>
+    </item>
+    <item>
+      <title>你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕</title>
+      <link>https://www.qbitai.com/2026/08/478017.html</link>
+      <description></description>
+      <pubDate>Sun, 23 Aug 2026 07:17:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478017.html</guid>
+      <source url="https://www.qbitai.com/2026/08/478017.html">量子位</source>
+    </item>
+    <item>
+      <title>从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动</title>
+      <link>https://www.qbitai.com/2026/08/478007.html</link>
+      <description></description>
+      <pubDate>Sun, 23 Aug 2026 07:12:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478007.html</guid>
+      <source url="https://www.qbitai.com/2026/08/478007.html">量子位</source>
     </item>
     <item>
       <title>AI 即将接管流量，而广告正在疯狂「末日反扑」</title>
@@ -167,40 +191,6 @@
       <pubDate>Fri, 21 Aug 2026 18:58:09 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369201</guid>
       <source url="http://www.geekpark.net/news/369201">极客公园</source>
-    </item>
-    <item>
-      <title>从单点突破到全数 SOTA，阿里打响「模型团战」第一枪</title>
-      <link>http://www.geekpark.net/news/369200</link>
-      <description>作者｜李苏
-编辑｜靖宇
-
-8 月 20 日晚，阿里巴巴发布新季度业绩。
-阿里云外部商业化收入同比增长 45%，创 22 个季度以来的新高。AI 云及算力服务收入达到 484.37 亿元，经调整 EBITA 为 56.28 亿元，同比增长 133%，利润率升至 12%。AI 相关产品收入连续第 12 个季度实现三位数增长，本季度达到 123.76 亿元。
-这组数字解释了市场对云业务的反应。同样亮眼的，还有以千问大模型为核心的一整套模型矩阵。过去一个月，阿里在大语言、图像、语音、视频、音乐五个方向上，密集摆出了一整排全球第一梯队的模型。
-在这场愈演愈烈的模型大战里，绝大多数公司还在拼某一个单项，而</description>
-      <pubDate>Fri, 21 Aug 2026 18:15:12 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369200</guid>
-      <source url="http://www.geekpark.net/news/369200">极客公园</source>
-    </item>
-    <item>
-      <title>本周看什么 | 最近值得一看的 10 部作品</title>
-      <link>https://sspai.com/post/113693</link>
-      <description>📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ...查看全文</description>
-      <pubDate>Fri, 21 Aug 2026 18:08:59 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113693</guid>
-      <source url="https://sspai.com/post/113693">少数派</source>
-    </item>
-    <item>
-      <title>前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资</title>
-      <link>http://www.geekpark.net/news/369162</link>
-      <description>&amp;nbsp;
-头图来源：Wapoo 官网
-极客公园获悉，面向 Gen Alpha 的视频共创社交平台 Wapoo 已完成近千万美元天使轮融资。本轮融资由某互联网集团旗下战略投资方投资，其在全球化产品运营、年轻用户生态及新兴市场拓展方面已具备一定积累，探奇资本担任公司独家融资顾问。目前，Wapoo 团队约 10 人，并已开始筹备下一轮融资。
-过去十年，短视频完成了对全球用户注意力的接管，也逐渐逼近既有产品形态的边界。一个新的问题正在浮出水面：跟着 Roblox 和 Minecraft 长大的 Gen Alpha，是否还会满足于被动刷视频？
-他们习惯修改、共创，也习惯在数字世界留下自己的版本。但进</description>
-      <pubDate>Fri, 21 Aug 2026 14:15:33 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369162</guid>
-      <source url="http://www.geekpark.net/news/369162">极客公园</source>
     </item>
   </channel>
 </rss>
