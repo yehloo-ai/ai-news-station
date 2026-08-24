@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 14:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:59:34 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>硅谷押注的下一个 Harness，是整个桌面操作系统</title>
@@ -149,6 +149,30 @@ Omarchy4 桌面｜图片来源：极客公园
       <source url="http://www.geekpark.net/news/369264">极客公园</source>
     </item>
     <item>
+      <title>You Can Just Use Your Voice | ChatGPT Work</title>
+      <link>https://www.youtube.com/watch?v=ceBruD6v5Bk</link>
+      <description>ChatGPT Work turns what you say into work you can use, capturing your thinking and helping you move it forward.</description>
+      <pubDate>Mon, 24 Aug 2026 13:55:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ceBruD6v5Bk</guid>
+      <source url="https://www.youtube.com/watch?v=ceBruD6v5Bk">OpenAI</source>
+    </item>
+    <item>
+      <title>AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊</title>
+      <link>https://www.qbitai.com/2026/08/478670.html</link>
+      <description>Visa看到的AI未来</description>
+      <pubDate>Mon, 24 Aug 2026 13:32:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478670.html</guid>
+      <source url="https://www.qbitai.com/2026/08/478670.html">量子位</source>
+    </item>
+    <item>
+      <title>一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一</title>
+      <link>https://www.qbitai.com/2026/08/478568.html</link>
+      <description>全球大厂开始押注的AI科研，终于有了统一标准</description>
+      <pubDate>Mon, 24 Aug 2026 13:21:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478568.html</guid>
+      <source url="https://www.qbitai.com/2026/08/478568.html">量子位</source>
+    </item>
+    <item>
       <title>快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制</title>
       <link>https://sspai.com/post/112983</link>
       <description>有些 app 总是太吵，有些又总嫌声音不够大；既然 iOS 还没有提供真正的应用独立音量，不妨用快捷指令让 iPhone 自动记住每个 app 该有多大声。查看全文</description>
@@ -208,30 +232,6 @@ Anthropic 还是上个月唯一一家没有签署支持开放权重模型联名�
       <pubDate>Mon, 24 Aug 2026 07:13:55 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113767</guid>
       <source url="https://sspai.com/post/113767">少数派</source>
-    </item>
-    <item>
-      <title>单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布</title>
-      <link>https://www.qbitai.com/2026/08/478469.html</link>
-      <description>定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地</description>
-      <pubDate>Mon, 24 Aug 2026 07:04:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478469.html</guid>
-      <source url="https://www.qbitai.com/2026/08/478469.html">量子位</source>
-    </item>
-    <item>
-      <title>8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！</title>
-      <link>https://www.qbitai.com/2026/08/478447.html</link>
-      <description>AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。</description>
-      <pubDate>Mon, 24 Aug 2026 06:03:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478447.html</guid>
-      <source url="https://www.qbitai.com/2026/08/478447.html">量子位</source>
-    </item>
-    <item>
-      <title>折叠 iPhone 最全爆料汇总：用过的都说好，但有两个大缺点</title>
-      <link>https://www.ifanr.com/1676426?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>一万五的 iPhone，你会买吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 24 Aug 2026 05:19:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676426?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676426?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
