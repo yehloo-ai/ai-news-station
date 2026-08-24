@@ -5,8 +5,31 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 14:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:56:16 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>「米芯」三连发：雷军五年花了 210 亿，归来已「不只手机」</title>
+      <link>http://www.geekpark.net/news/369302</link>
+      <description>玄戒 O3 的跑分是烟花，玄戒 O100 的带宽才是信号。
+作者｜张勇毅
+编辑｜靖宇
+&amp;nbsp;
+
+
+8 月 24 日下午，小米一口气发布了三颗新芯片：玄戒 O3、玄戒 O100、玄戒 D100。
+距离第一代玄戒 O1 亮相，过去了 459 天。但这次小米确实打了一场准备充分的仗：按小米公布的成绩，玄戒 O3 安兔兔跑分 522 万，是第一颗突破 500 万分的旗舰手机 SoC。号称「安卓性能之王」。
+
+
+
+小米玄戒 O3 系统架构｜图片来源：小米
+&amp;nbsp;
+
+
+但性能显然不全是这场发布会的重点，玄戒 O3 希望实现的是 AI 原生芯片的概念，AI 能力将不仅体现在端侧 AI，同时也涉及</description>
+      <pubDate>Mon, 24 Aug 2026 23:34:23 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369302</guid>
+      <source url="http://www.geekpark.net/news/369302">极客公园</source>
+    </item>
     <item>
       <title>硅谷押注的下一个 Harness，是整个桌面操作系统</title>
       <link>http://www.geekpark.net/news/369298</link>
@@ -224,14 +247,6 @@ Anthropic 还是上个月唯一一家没有签署支持开放权重模型联名�
       <pubDate>Mon, 24 Aug 2026 08:07:59 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/478473.html</guid>
       <source url="https://www.qbitai.com/2026/08/478473.html">量子位</source>
-    </item>
-    <item>
-      <title>派早报：九家车企召回近 430 万辆不易识别应急拉手汽车</title>
-      <link>https://sspai.com/post/113767</link>
-      <description>九家车企召回近 430 万辆不易识别应急拉手汽车英伟达达成 70 亿美元合作，研发顶级开放权重模型高院发布著作权新司法解释，网络转载不允许先转后付买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘国际加紧制定统一月球时间个人消费贷贴息政策扩展覆盖买车、装修等看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文</description>
-      <pubDate>Mon, 24 Aug 2026 07:13:55 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113767</guid>
-      <source url="https://sspai.com/post/113767">少数派</source>
     </item>
   </channel>
 </rss>
