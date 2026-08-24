@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 03:18:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:02:03 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制</title>
+      <link>https://sspai.com/post/112983</link>
+      <description>有些 app 总是太吵，有些又总嫌声音不够大；既然 iOS 还没有提供真正的应用独立音量，不妨用快捷指令让 iPhone 自动记住每个 app 该有多大声。查看全文</description>
+      <pubDate>Mon, 24 Aug 2026 11:30:44 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112983</guid>
+      <source url="https://sspai.com/post/112983">少数派</source>
+    </item>
     <item>
       <title>传 Hugging Face 寻求出售，估值 130 亿美元；Altman：担心 AI 被少数强势主体掌控；成都 AG.AL 获电竞世俱杯冠军</title>
       <link>http://www.geekpark.net/news/369224</link>
@@ -27,6 +35,24 @@ Anthropic 还是上个月唯一一家没有签署支持开放权重模型联名�
       <pubDate>Mon, 24 Aug 2026 07:13:55 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113767</guid>
       <source url="https://sspai.com/post/113767">少数派</source>
+    </item>
+    <item>
+      <title>50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场</title>
+      <link>https://www.ifanr.com/1676318?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>一座专属的「AI 片场」，影视专家易用、可依赖的基建。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 24 Aug 2026 04:00:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676318?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676318?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>AI 开发者每天都要刷的网站，准备 130 亿美金卖了</title>
+      <link>https://www.ifanr.com/1676393?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI 行业下一笔百亿美元级收购，可能落在许多开发者每天都会打开的网站上：Hugging Face——对，就是前不久险些被 OpenAI 的神秘新模型攻破的那个平台。
+
+#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 24 Aug 2026 03:35:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676393?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676393?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>100 万像素的摄像头，为什么是苹果 AI 最重要的零件？｜硬哲学</title>
@@ -65,182 +91,103 @@ The NTT Data sales teams uses Codex to automate tasks like customer list mainten
       <source url="https://www.ifanr.com/1676314?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻</title>
-      <link>http://www.geekpark.net/news/369223</link>
-      <description>如果物理 AI 也能 scaling，意味着什么？
-
-作者｜Li Yuan
-编辑｜靖宇
-
-研究人员先教机器人拿起刷子，把桌上的积木扫进碗里。
-然后，他们把刷子拿走，换成一根香蕉。
-机器人抓起香蕉，将它横过来贴住桌面，把积木一点点扫进碗中。
-随后，香蕉又被换成了一只簸箕。机器人这次没有继续照搬「扫」的动作，而是伸出另一只手，把积木推上簸箕，再端起来倒进碗里。
-重点来了，研究人员从来没有在这项任务里教它用香蕉和簸箕，它是自己推理出来的。
-
-
-
-
-
-
-
-
-
-
-已关注
-
-
-关注
-
- 重播   分享    赞                                随便看看            </description>
-      <pubDate>Sun, 23 Aug 2026 22:35:51 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369223</guid>
-      <source url="http://www.geekpark.net/news/369223">极客公园</source>
+      <title>SDAD: Spec-Driven Agentic Development for the AI-Native SDLC</title>
+      <link>https://arxiv.org/abs/2608.20341</link>
+      <description>arXiv:2608.20341v1 Announce Type: new 
+Abstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reasoning now allow substan</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20341</guid>
+      <source url="https://arxiv.org/abs/2608.20341">ArXiv AI</source>
     </item>
     <item>
-      <title>世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」</title>
-      <link>http://www.geekpark.net/news/369221</link>
-      <description>从人形、轮式到重载，从家庭、零售到工业，银河星脑正在走进更多身体和真实场景。
-作者｜Li Yuan
-编辑｜靖宇
-&amp;nbsp;
-
-
-每年走进世界机器人大会，人们最先看到的都是身体。
-有的机器人长出双腿，有的装上轮子；有的把手指做得越来越像人，有的用钢铁手臂扛起几十公斤重物。我们也因此习惯用外形给机器人分类：会跳舞的是一种，能搬箱子的是另一种，会进厨房和卧室的，又是另一种。
-今年的世界机器人大会上，这套认识开始松动。
-银河通用在分论坛发布了小型双足人形机器人 ET1。它第一次登台便跳起一段高动态舞蹈，也第一次让银河通用拥有了一副可以走路、舞动，并从人类动作中继续学习的双足身体。
-银河通用创始人兼 </description>
-      <pubDate>Sun, 23 Aug 2026 22:33:26 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369221</guid>
-      <source url="http://www.geekpark.net/news/369221">极客公园</source>
+      <title>PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure</title>
+      <link>https://arxiv.org/abs/2608.20342</link>
+      <description>arXiv:2608.20342v1 Announce Type: new 
+Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's termi</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20342</guid>
+      <source url="https://arxiv.org/abs/2608.20342">ArXiv AI</source>
     </item>
     <item>
-      <title>AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本</title>
-      <link>https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard</link>
-      <description>手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。</description>
-      <pubDate>Sun, 23 Aug 2026 15:25:29 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard</guid>
-      <source url="https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard">少数派</source>
+      <title>Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification</title>
+      <link>https://arxiv.org/abs/2608.20378</link>
+      <description>arXiv:2608.20378v1 Announce Type: new 
+Abstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This s</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20378</guid>
+      <source url="https://arxiv.org/abs/2608.20378">ArXiv AI</source>
     </item>
     <item>
-      <title>让 PC 与 HomePod 互联：音频串流工具 WinAirCast</title>
-      <link>https://sspai.com/post/113002</link>
-      <description>打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。查看全文</description>
-      <pubDate>Sun, 23 Aug 2026 11:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113002</guid>
-      <source url="https://sspai.com/post/113002">少数派</source>
+      <title>A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications</title>
+      <link>https://arxiv.org/abs/2608.20379</link>
+      <description>arXiv:2608.20379v1 Announce Type: new 
+Abstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbon</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20379</guid>
+      <source url="https://arxiv.org/abs/2608.20379">ArXiv AI</source>
     </item>
     <item>
-      <title>DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络</title>
-      <link>http://www.geekpark.net/news/369215</link>
-      <description>第二届世界人形机器人运动会开幕：2056 台机器人齐聚「冰丝带」，666 支队伍竞技 51 赛项
-8 月 22 日晚间，第二届世界人形机器人运动会在国家速滑馆「冰丝带」开幕。
-本届赛事由北京市人民政府、中央广播电视总台、世界机器人合作组织、亚太机器人世界杯国际理事会联合主办。来自六大洲 16 个国家的 666 支队伍、2056 台机器人参赛，队伍数量较首届增长 138%，机器人数量翻了两番。
-开幕式上，田径 100 米大型组预赛率先开跑。来自北京人形机器人创新中心的天工 Ultra 以 9.39 秒的成绩率先冲线，打破了博尔特保持的 9.58 秒人类百米世界纪录。
-开幕式运动员入场环节，80 </description>
-      <pubDate>Sun, 23 Aug 2026 08:20:39 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369215</guid>
-      <source url="http://www.geekpark.net/news/369215">极客公园</source>
+      <title>Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles</title>
+      <link>https://arxiv.org/abs/2608.20384</link>
+      <description>arXiv:2608.20384v1 Announce Type: new 
+Abstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-understandable explanations of the cues driving their decisions -- a dual objective </description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20384</guid>
+      <source url="https://arxiv.org/abs/2608.20384">ArXiv AI</source>
     </item>
     <item>
-      <title>AI 即将接管流量，而广告正在疯狂「末日反扑」</title>
-      <link>https://www.ifanr.com/1676208?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>我们在腌臜的广告泥潭中，畅想着美好的 AGI 未来。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sun, 23 Aug 2026 03:53:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676208?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676208?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis</title>
+      <link>https://arxiv.org/abs/2608.20343</link>
+      <description>arXiv:2608.20343v1 Announce Type: new 
+Abstract: This study develops and evaluates a bankruptcy prediction framework that integrates consensus-based feature selection, hybrid resampling, stacking ensembles, and explainable artificial intelligence to improve minority-class detection in severely imbal</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20343</guid>
+      <source url="https://arxiv.org/abs/2608.20343">ArXiv ML</source>
     </item>
     <item>
-      <title>越会用 AI 的人，学习能力退化得越快</title>
-      <link>http://www.geekpark.net/news/369212</link>
-      <description>「坏 AI，使人笨！」
-
-作者｜张勇毅
-编辑｜靖宇
-
-「AI 用多了，人会不会逐渐变笨？」
-这应该是过去三年被讨论最多的一个迷思之一，从 ChatGPT 走红那天就有。吵了三年多，两边都拿不出像样的证据：
-担心的人只有体感，不担心的人只有立场。
-8 月 18 日，《经济学人》给这场争论补上了迄今最硬的一份证据。
-报道的主角是 2.7 万名中国中学生。用上 AI 之后，他们的作业分数平均涨了 18%，写一份作业的时间从 64 分钟缩到 45 分钟。到这里全是好消息，直到月考卷子发下来：闭卷考试里，这批学生的成绩比不用 AI 的同学低了 20%。
-作业分曾是最可靠的「晴雨表」：作业越好，考试越好。</description>
-      <pubDate>Sat, 22 Aug 2026 18:07:50 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369212</guid>
-      <source url="http://www.geekpark.net/news/369212">极客公园</source>
+      <title>Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting: Comparative Evaluation and an Ontario COVID-19 Case Study</title>
+      <link>https://arxiv.org/abs/2608.20406</link>
+      <description>arXiv:2608.20406v1 Announce Type: new 
+Abstract: Public health forecasts must respond to abrupt changes in surveillance data without over-extrapolating noise, reporting artifacts, or temporary trends. We evaluated autoregressive integrated moving average (ARIMA), random forest, and extreme gradient </description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20406</guid>
+      <source url="https://arxiv.org/abs/2608.20406">ArXiv ML</source>
     </item>
     <item>
-      <title>线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展</title>
-      <link>https://sspai.com/post/113675</link>
-      <description>又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...查看全文</description>
-      <pubDate>Sat, 22 Aug 2026 11:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113675</guid>
-      <source url="https://sspai.com/post/113675">少数派</source>
+      <title>From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing</title>
+      <link>https://arxiv.org/abs/2608.20423</link>
+      <description>arXiv:2608.20423v1 Announce Type: new 
+Abstract: Personalised thermal comfort is essential for occupant wellbeing and for the development of more responsive building-control strategies, yet conventional Heating, Ventilation, and Air Conditioning (HVAC) systems rely on static setpoints and population</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20423</guid>
+      <source url="https://arxiv.org/abs/2608.20423">ArXiv ML</source>
     </item>
     <item>
-      <title>Windows 是 AI PC 路上的绊脚石</title>
-      <link>https://www.ifanr.com/1676189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>你知道我不想离开
-你知道我有多无奈#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 22 Aug 2026 10:00:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers</title>
+      <link>https://arxiv.org/abs/2608.20427</link>
+      <description>arXiv:2608.20427v1 Announce Type: new 
+Abstract: Dense causal attention remains expensive at long context even when implemented with highly optimized exact kernels. We study BF1, a deterministic block-aligned dyadic sparse-attention route that combines a small exact local neighborhood, a global firs</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20427</guid>
+      <source url="https://arxiv.org/abs/2608.20427">ArXiv ML</source>
     </item>
     <item>
-      <title>微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车</title>
-      <link>http://www.geekpark.net/news/369206</link>
-      <description>DeepSeek V4-Flash-Vision-Exp 上线：开启多模态 API 服务，Agent 能力接近 Opus-4.8
-8 月 21 日消息，深度求索官方宣布全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台。
-该模型支持在文本之外输入图片，可以让模型描述图片、识别截图中的文字、分析图表等。支持的图片格式包括 JPEG、PNG、GIF、WebP。
-深度求索官方表示，V4-Flash-Vision-Exp 在各类 Agent 框架内展现出了较好的多模态适配能力，能够有效支持大家借助多样化的 Agent 工具解锁更多实</description>
-      <pubDate>Sat, 22 Aug 2026 08:23:28 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369206</guid>
-      <source url="http://www.geekpark.net/news/369206">极客公园</source>
+      <title>Approximate Homomorphisms and Convergent Representations in Transducers</title>
+      <link>https://arxiv.org/abs/2608.20428</link>
+      <description>arXiv:2608.20428v1 Announce Type: new 
+Abstract: We study the stability of minimal representations of controlled stochastic processes (in particular, transducers) under perturbations. This question is motivated by recent experiments finding predictive-state structure in the latent representations of</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20428</guid>
+      <source url="https://arxiv.org/abs/2608.20428">ArXiv ML</source>
     </item>
     <item>
-      <title>早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」</title>
-      <link>https://www.ifanr.com/1676129?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 阿里二季度重组电商与 AI 业务架构
-· 腾讯芯片负责人高剑林被曝离职创业，瞄准 RISC-V AI CPU
-· 旺旺被曝启动裁员，并要求员工提交自评报告#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 22 Aug 2026 00:50:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676129?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676129?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>MiniMax，做视频领域的 Claude Code 的野心已经藏不住了</title>
-      <link>http://www.geekpark.net/news/369201</link>
-      <description>作者｜Cynthia
-编辑｜靖宇
-
-7 月 31 日，MiniMax H3 发布当天，我们就做了实测。
-屏幕上的进度指示走到尽头，一段最高 2K 分辨率的视频出现在屏幕：画面、运动、声音被协调地装在同一个结果里。无论流畅度、画面精细程度，还是后期的视频修改操作便捷度，这无疑都是当前行业的 SOTA 级模型。
-榜单成果也验证了我们的猜想。截至 8 月中旬，Artificial Analysis 的视频编辑榜上，H3 位列第一；在文生视频与图生视频榜单中，它同样处于第一梯队，全球前三。模型发布的同一时间，MiniMax 还顺便官宣了 H3 加量不加价，定价仅为同级别产品的三分之一，每秒 8 毛，一</description>
-      <pubDate>Fri, 21 Aug 2026 18:58:09 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369201</guid>
-      <source url="http://www.geekpark.net/news/369201">极客公园</source>
-    </item>
-    <item>
-      <title>从单点突破到全数 SOTA，阿里打响「模型团战」第一枪</title>
-      <link>http://www.geekpark.net/news/369200</link>
-      <description>作者｜李苏
-编辑｜靖宇
-
-8 月 20 日晚，阿里巴巴发布新季度业绩。
-阿里云外部商业化收入同比增长 45%，创 22 个季度以来的新高。AI 云及算力服务收入达到 484.37 亿元，经调整 EBITA 为 56.28 亿元，同比增长 133%，利润率升至 12%。AI 相关产品收入连续第 12 个季度实现三位数增长，本季度达到 123.76 亿元。
-这组数字解释了市场对云业务的反应。同样亮眼的，还有以千问大模型为核心的一整套模型矩阵。过去一个月，阿里在大语言、图像、语音、视频、音乐五个方向上，密集摆出了一整排全球第一梯队的模型。
-在这场愈演愈烈的模型大战里，绝大多数公司还在拼某一个单项，而</description>
-      <pubDate>Fri, 21 Aug 2026 18:15:12 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369200</guid>
-      <source url="http://www.geekpark.net/news/369200">极客公园</source>
-    </item>
-    <item>
-      <title>本周看什么 | 最近值得一看的 10 部作品</title>
-      <link>https://sspai.com/post/113693</link>
-      <description>📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ...查看全文</description>
-      <pubDate>Fri, 21 Aug 2026 18:08:59 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113693</guid>
-      <source url="https://sspai.com/post/113693">少数派</source>
+      <title>Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital Twins</title>
+      <link>https://arxiv.org/abs/2608.20344</link>
+      <description>arXiv:2608.20344v1 Announce Type: new 
+Abstract: LLM-based "digital twins" aim to simulate how an individual would behavein new environments or respond to novel questions, given some representation of that individual's prior responses. A common approach constructs this representation from survey tra</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.20344</guid>
+      <source url="https://arxiv.org/abs/2608.20344">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
