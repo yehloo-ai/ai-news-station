@@ -5,8 +5,27 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:04:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:03:44 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>硅谷押注的下一个 Harness，是整个桌面操作系统</title>
+      <link>http://www.geekpark.net/news/369298</link>
+      <description>不是 AI 操作系统，是 AI 读得懂的操作系统
+
+作者｜张勇毅
+编辑｜靖宇
+
+截止目前，有了 DeepSeek Harness 之类 CLI 产品之后，你电脑里的 AI 几乎已经无所不能：它可以总结网页，润色邮件，改两张图。
+目前做不了几乎只有一件事：碰你的电脑本身。
+有一个操作系统反过来做了这件事。它叫 Omarchy，一个 Linux 发行版，8 月 14 日发布了 4.0 版本：AI 直接装在系统里，你用一句话告诉它要什么，它替你操作电脑。十天之内，社区给它写了 1,074 个插件。
+
+Omarchy4 桌面｜图片来源：极客公园
+这个周末，硅谷有八个人为它掏了 800 万美元。
+8 月</description>
+      <pubDate>Mon, 24 Aug 2026 17:57:38 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369298</guid>
+      <source url="http://www.geekpark.net/news/369298">极客公园</source>
+    </item>
     <item>
       <title>130 亿美元，Hugging Face 要卖了</title>
       <link>http://www.geekpark.net/news/369289</link>
@@ -38,6 +57,14 @@
       <pubDate>Mon, 24 Aug 2026 16:43:37 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369290</guid>
       <source url="http://www.geekpark.net/news/369290">极客公园</source>
+    </item>
+    <item>
+      <title>Windows On ARM 原生应用少？你可以试试这些改造方法</title>
+      <link>https://sspai.com/prime/story/create-your-own-windows-apps</link>
+      <description>相比大家熟知的基于Intel或AMD处理器的传统x86架构Windows，不少人以为WindowsonARM是近几年的新产物。事实上，微软早在2012年就曾通过WindowsRT尝试探索ARM设备，但 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。</description>
+      <pubDate>Mon, 24 Aug 2026 16:28:26 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/prime/story/create-your-own-windows-apps</guid>
+      <source url="https://sspai.com/prime/story/create-your-own-windows-apps">少数派</source>
     </item>
     <item>
       <title>「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球</title>
@@ -122,6 +149,22 @@
       <source url="https://sspai.com/post/112983">少数派</source>
     </item>
     <item>
+      <title>折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕</title>
+      <link>https://www.ifanr.com/1676310?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>期待值拉满，槽点也不少#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 24 Aug 2026 09:31:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676310?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676310?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>小米发布玄戒 AI 芯片「全家桶」，还官宣了小米「阔折叠」</title>
+      <link>https://www.ifanr.com/1676441?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>小米掀桌了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 24 Aug 2026 09:07:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676441?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676441?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
       <title>传 Hugging Face 寻求出售，估值 130 亿美元；Altman：担心 AI 被少数强势主体掌控；成都 AG.AL 获电竞世俱杯冠军</title>
       <link>http://www.geekpark.net/news/369224</link>
       <description>&amp;nbsp;
@@ -189,40 +232,6 @@ Anthropic 还是上个月唯一一家没有签署支持开放权重模型联名�
       <pubDate>Mon, 24 Aug 2026 05:09:27 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/478427.html</guid>
       <source url="https://www.qbitai.com/2026/08/478427.html">量子位</source>
-    </item>
-    <item>
-      <title>WRC 2026｜原生全模态世界模型：从模拟世界到交互世界</title>
-      <link>https://www.qbitai.com/2026/08/478421.html</link>
-      <description></description>
-      <pubDate>Mon, 24 Aug 2026 05:04:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478421.html</guid>
-      <source url="https://www.qbitai.com/2026/08/478421.html">量子位</source>
-    </item>
-    <item>
-      <title>50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场</title>
-      <link>https://www.ifanr.com/1676318?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>一座专属的「AI 片场」，影视专家易用、可依赖的基建。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 24 Aug 2026 04:00:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676318?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676318?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>AI 开发者每天都要刷的网站，准备 130 亿美金卖了</title>
-      <link>https://www.ifanr.com/1676393?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI 行业下一笔百亿美元级收购，可能落在许多开发者每天都会打开的网站上：Hugging Face——对，就是前不久险些被 OpenAI 的神秘新模型攻破的那个平台。
-
-#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 24 Aug 2026 03:35:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676393?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676393?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>100 万像素的摄像头，为什么是苹果 AI 最重要的零件？｜硬哲学</title>
-      <link>https://www.ifanr.com/1676333?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>随时在的硬件，记录完整的你#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 24 Aug 2026 02:18:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676333?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676333?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
