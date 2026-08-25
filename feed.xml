@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:11:38 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>社区速递 155 | 适马千元人像神头与七月派友剁手清单</title>
@@ -50,6 +50,14 @@
       <pubDate>Tue, 25 Aug 2026 13:14:40 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369324</guid>
       <source url="http://www.geekpark.net/news/369324">极客公园</source>
+    </item>
+    <item>
+      <title>OpenAI「亲儿子」反水，认中国模型做「赛博义父」</title>
+      <link>https://www.ifanr.com/1676629?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>美国的 AI 产品，由中国模型预制#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 25 Aug 2026 12:01:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676629?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676629?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙</title>
@@ -180,14 +188,6 @@
       <pubDate>Tue, 25 Aug 2026 04:08:21 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/478839.html</guid>
       <source url="https://www.qbitai.com/2026/08/478839.html">量子位</source>
-    </item>
-    <item>
-      <title>WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求</title>
-      <link>https://www.qbitai.com/2026/08/478479.html</link>
-      <description>2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！</description>
-      <pubDate>Tue, 25 Aug 2026 04:06:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478479.html</guid>
-      <source url="https://www.qbitai.com/2026/08/478479.html">量子位</source>
     </item>
   </channel>
 </rss>
