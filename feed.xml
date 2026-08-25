@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:58:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:59:44 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>台湾打工换宿｜用人与人的喜好串起淡水的地图</title>
+      <link>https://sspai.com/post/113673</link>
+      <description>Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文</description>
+      <pubDate>Tue, 25 Aug 2026 15:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113673</guid>
+      <source url="https://sspai.com/post/113673">少数派</source>
+    </item>
     <item>
       <title>《有头有脸的大模型公司，集体搞起「匿名公测」》</title>
       <link>http://www.geekpark.net/news/369324</link>
@@ -46,6 +54,14 @@
       <pubDate>Tue, 25 Aug 2026 08:25:52 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369303</guid>
       <source url="http://www.geekpark.net/news/369303">极客公园</source>
+    </item>
+    <item>
+      <title>《道路交通安全法》拟大改：「电鸡」限速上调至 20km/h，将严管「暴走团」占道</title>
+      <link>https://www.ifanr.com/1676652?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>车进步了，法规也要跟着进步。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 25 Aug 2026 08:06:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676652?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676652?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>QQ 宠物靠 AI 在手机复活，可我更想要一只桌宠企鹅</title>
@@ -164,22 +180,6 @@
       <pubDate>Tue, 25 Aug 2026 02:41:56 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1676596?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1676596?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜</title>
-      <link>https://www.qbitai.com/2026/08/478791.html</link>
-      <description>机器人大脑新SOTA</description>
-      <pubDate>Tue, 25 Aug 2026 02:22:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478791.html</guid>
-      <source url="https://www.qbitai.com/2026/08/478791.html">量子位</source>
-    </item>
-    <item>
-      <title>VC开始靠AI预测未来了</title>
-      <link>https://www.qbitai.com/2026/08/478774.html</link>
-      <description>FutureX榜单前十占了仨</description>
-      <pubDate>Tue, 25 Aug 2026 02:16:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478774.html</guid>
-      <source url="https://www.qbitai.com/2026/08/478774.html">量子位</source>
     </item>
   </channel>
 </rss>
