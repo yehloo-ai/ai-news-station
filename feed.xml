@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 15:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:59:27 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>从被找到、被用好到被修好，HarmonyOS 7 给出开发者一套新解法</title>
+      <link>http://www.geekpark.net/news/369356</link>
+      <description>原来关注 App 被打开的次数，现在关注的是服务被调用的次数。
+
+作者｜张勇毅
+编辑｜靖宇
+
+对应用开发者来讲，一天里有三个时刻经常会想起操作系统：早上看数据。昨天的新增还剩多少，七日留存掉到了哪条线，还有那一大批装了就再没打开过的用户&amp;mdash;&amp;mdash;你的图标被留在第四屏，和几十个 App 挤在一起。
+下午改代码。一个编译错误卡了半小时，AI 给的写法改了三遍还是不对，因为它根本没见过多少这个平台的代码。
+半夜被告警叫醒。线上崩溃率抬头，后台堆了几千条日志，没有一条直接告诉你为什么。
+被找到、被用好、被修好&amp;mdash;&amp;mdash;这三件事和操作系统的关系，过去十年几乎没变过：系</description>
+      <pubDate>Tue, 25 Aug 2026 23:52:42 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369356</guid>
+      <source url="http://www.geekpark.net/news/369356">极客公园</source>
+    </item>
     <item>
       <title>苹果 Mac mini M6 发布：两年涨 2500 块，AI 税反噬「龙虾神机」</title>
       <link>http://www.geekpark.net/news/369354</link>
@@ -188,14 +204,6 @@
       <pubDate>Tue, 25 Aug 2026 06:39:51 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/479132.html</guid>
       <source url="https://www.qbitai.com/2026/08/479132.html">量子位</source>
-    </item>
-    <item>
-      <title>AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project</title>
-      <link>https://www.qbitai.com/2026/08/479096.html</link>
-      <description>AI科研能力从工具级转向系统级</description>
-      <pubDate>Tue, 25 Aug 2026 05:48:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479096.html</guid>
-      <source url="https://www.qbitai.com/2026/08/479096.html">量子位</source>
     </item>
   </channel>
 </rss>
