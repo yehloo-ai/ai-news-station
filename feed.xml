@@ -5,8 +5,20 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 04:53:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:45:44 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>《有头有脸的大模型公司，集体搞起「匿名公测」》</title>
+      <link>http://www.geekpark.net/news/369324</link>
+      <description>头图来源：oxalpha.com
+&amp;nbsp;
+最近，海外开发者圈又被一个没有名字的模型刷屏了。
+8 月 20 日，OpenRouter 上多了一个叫 Ox Alpha 的模型，100 万 token 上下文、支持图片和视频输入、能调用工具、免费。随后，它被接进 OpenCode、Hermes 等编程 Agent。有人拿它修代码，有人用它跑软件工程基准，还有人盯着 tokenizer 和报错信息，试图猜出它到底是谁家的。
+目前，Ox Alpha 的身份还没有得到官方确认。社区最流行的猜测是，它与智谱 GLM-5.x 系列关系很近；依据是 tokenizer、推理模式报错和部分输出习惯的相似性。</description>
+      <pubDate>Tue, 25 Aug 2026 13:14:40 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369324</guid>
+      <source url="http://www.geekpark.net/news/369324">极客公园</source>
+    </item>
     <item>
       <title>App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙</title>
       <link>https://sspai.com/post/112442</link>
@@ -34,6 +46,22 @@
       <pubDate>Tue, 25 Aug 2026 08:25:52 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369303</guid>
       <source url="http://www.geekpark.net/news/369303">极客公园</source>
+    </item>
+    <item>
+      <title>人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机</title>
+      <link>https://www.qbitai.com/2026/08/478839.html</link>
+      <description>2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。</description>
+      <pubDate>Tue, 25 Aug 2026 04:08:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478839.html</guid>
+      <source url="https://www.qbitai.com/2026/08/478839.html">量子位</source>
+    </item>
+    <item>
+      <title>WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求</title>
+      <link>https://www.qbitai.com/2026/08/478479.html</link>
+      <description>2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！</description>
+      <pubDate>Tue, 25 Aug 2026 04:06:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478479.html</guid>
+      <source url="https://www.qbitai.com/2026/08/478479.html">量子位</source>
     </item>
     <item>
       <title>实测豆包工作：连上飞书后，Agent 终于像个同事了</title>
@@ -153,33 +181,6 @@ Abstract: Literature reviews are essential to scientific progress, but rigorousl
       <pubDate>Tue, 25 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.21374</guid>
       <source url="https://arxiv.org/abs/2608.21374">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis</title>
-      <link>https://arxiv.org/abs/2608.20343</link>
-      <description>arXiv:2608.20343v1 Announce Type: new 
-Abstract: This study develops and evaluates a bankruptcy prediction framework that integrates consensus-based feature selection, hybrid resampling, stacking ensembles, and explainable artificial intelligence to improve minority-class detection in severely imbal</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.20343</guid>
-      <source url="https://arxiv.org/abs/2608.20343">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting: Comparative Evaluation and an Ontario COVID-19 Case Study</title>
-      <link>https://arxiv.org/abs/2608.20406</link>
-      <description>arXiv:2608.20406v1 Announce Type: new 
-Abstract: Public health forecasts must respond to abrupt changes in surveillance data without over-extrapolating noise, reporting artifacts, or temporary trends. We evaluated autoregressive integrated moving average (ARIMA), random forest, and extreme gradient </description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.20406</guid>
-      <source url="https://arxiv.org/abs/2608.20406">ArXiv ML</source>
-    </item>
-    <item>
-      <title>From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing</title>
-      <link>https://arxiv.org/abs/2608.20423</link>
-      <description>arXiv:2608.20423v1 Announce Type: new 
-Abstract: Personalised thermal comfort is essential for occupant wellbeing and for the development of more responsive building-control strategies, yet conventional Heating, Ventilation, and Air Conditioning (HVAC) systems rely on static setpoints and population</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.20423</guid>
-      <source url="https://arxiv.org/abs/2608.20423">ArXiv ML</source>
     </item>
   </channel>
 </rss>
