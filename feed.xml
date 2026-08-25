@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 04:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 04:53:56 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙</title>
+      <link>https://sspai.com/post/112442</link>
+      <description>你会把它当成一个金融账户，还是一件属于自己人生的收藏品？查看全文</description>
+      <pubDate>Tue, 25 Aug 2026 11:13:35 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112442</guid>
+      <source url="https://sspai.com/post/112442">少数派</source>
+    </item>
     <item>
       <title>派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等</title>
       <link>https://sspai.com/post/113813</link>
@@ -172,15 +180,6 @@ Abstract: Personalised thermal comfort is essential for occupant wellbeing and f
       <pubDate>Tue, 25 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.20423</guid>
       <source url="https://arxiv.org/abs/2608.20423">ArXiv ML</source>
-    </item>
-    <item>
-      <title>BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers</title>
-      <link>https://arxiv.org/abs/2608.20427</link>
-      <description>arXiv:2608.20427v1 Announce Type: new 
-Abstract: Dense causal attention remains expensive at long context even when implemented with highly optimized exact kernels. We study BF1, a deterministic block-aligned dyadic sparse-attention route that combines a small exact local neighborhood, a global firs</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.20427</guid>
-      <source url="https://arxiv.org/abs/2608.20427">ArXiv ML</source>
     </item>
   </channel>
 </rss>
