@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:59:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:57:16 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响</title>
+      <link>http://www.geekpark.net/news/369344</link>
+      <description>&amp;nbsp;
+头图来源：视觉中国、ChatGPT 生成
+8 月 25 日，字节做了一个大动作：正式发布面向生产力场景的 Agent 产品「豆包工作」。
+它可以自主拆解任务、调用工具，完成文档、表格、PPT 及多媒体内容制作，并通过虚拟桌面操作电脑和浏览器；接入飞书后，还能调用企业的消息、文档、会议和权限等上下文，进一步完成周报、解决方案、风险识别与经营分析等复杂工作。
+
+图片来源：「豆包工作」公众号
+这次发布，也让字节近期密集的产品与组织调整有了一个明确落点。
+一天前，字节完成了新一轮办公 AI 产品整合：TRAE、扣子团队整体并入豆包体系，相关产品与运营团队统一向豆包产品负责人赵祺汇报。
+此</description>
+      <pubDate>Tue, 25 Aug 2026 16:58:10 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369344</guid>
+      <source url="http://www.geekpark.net/news/369344">极客公园</source>
+    </item>
     <item>
       <title>台湾打工换宿｜用人与人的喜好串起淡水的地图</title>
       <link>https://sspai.com/post/113673</link>
@@ -172,14 +188,6 @@
       <pubDate>Tue, 25 Aug 2026 02:46:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1676571?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1676571?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>实测小米 AI 手机：性能超 iPhone，端侧 AI 超级快</title>
-      <link>https://www.ifanr.com/1676596?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>真的很快。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 25 Aug 2026 02:41:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676596?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676596?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
