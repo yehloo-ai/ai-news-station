@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 16:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:45:45 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>从被找到、被用好到被修好，HarmonyOS 7 给出开发者一套新解法</title>
@@ -38,6 +38,16 @@
       <pubDate>Tue, 25 Aug 2026 22:46:38 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369354</guid>
       <source url="http://www.geekpark.net/news/369354">极客公园</source>
+    </item>
+    <item>
+      <title>No Limits on Text Chats with ChatGPT</title>
+      <link>https://www.youtube.com/watch?v=9MIkJHcMtVA</link>
+      <description>All users now have unlimited access to text chats in ChatGPT with our latest model GPT-5.6 Luna.
+
+🎥: @2UnlimitedOfficial</description>
+      <pubDate>Tue, 25 Aug 2026 17:21:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=9MIkJHcMtVA</guid>
+      <source url="https://www.youtube.com/watch?v=9MIkJHcMtVA">OpenAI</source>
     </item>
     <item>
       <title>社区速递 155 | 适马千元人像神头与七月派友剁手清单</title>
@@ -196,14 +206,6 @@
       <pubDate>Tue, 25 Aug 2026 06:53:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/479192.html</guid>
       <source url="https://www.qbitai.com/2026/08/479192.html">量子位</source>
-    </item>
-    <item>
-      <title>半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司</title>
-      <link>https://www.qbitai.com/2026/08/479132.html</link>
-      <description>字节、汇川等已入股未来不远机器人最新一轮融资</description>
-      <pubDate>Tue, 25 Aug 2026 06:39:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479132.html</guid>
-      <source url="https://www.qbitai.com/2026/08/479132.html">量子位</source>
     </item>
   </channel>
 </rss>
