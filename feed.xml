@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:57:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:49:32 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>社区速递 155 | 适马千元人像神头与七月派友剁手清单</title>
+      <link>https://sspai.com/post/113828</link>
+      <description>除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文</description>
+      <pubDate>Tue, 25 Aug 2026 17:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113828</guid>
+      <source url="https://sspai.com/post/113828">少数派</source>
+    </item>
     <item>
       <title>字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响</title>
       <link>http://www.geekpark.net/news/369344</link>
@@ -50,6 +58,14 @@
       <pubDate>Tue, 25 Aug 2026 11:13:35 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/112442</guid>
       <source url="https://sspai.com/post/112442">少数派</source>
+    </item>
+    <item>
+      <title>从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划</title>
+      <link>https://www.qbitai.com/2026/08/479314.html</link>
+      <description>近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。</description>
+      <pubDate>Tue, 25 Aug 2026 09:31:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479314.html</guid>
+      <source url="https://www.qbitai.com/2026/08/479314.html">量子位</source>
     </item>
     <item>
       <title>派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等</title>
@@ -172,22 +188,6 @@
       <pubDate>Tue, 25 Aug 2026 04:06:18 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/478479.html</guid>
       <source url="https://www.qbitai.com/2026/08/478479.html">量子位</source>
-    </item>
-    <item>
-      <title>实测豆包工作：连上飞书后，Agent 终于像个同事了</title>
-      <link>https://www.ifanr.com/1676539?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>懂人、懂项目、懂上下文、懂工作流#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 25 Aug 2026 03:32:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676539?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676539?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>对话雷鸟创新李宏伟：智能眼镜的终局仍然是「AI + AR」，AI 是我们现在最重要的事丨多样性公司</title>
-      <link>https://www.ifanr.com/1676571?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>让 AI 「增强人类」，而不是让 AI 取代人类。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 25 Aug 2026 02:46:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676571?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676571?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
