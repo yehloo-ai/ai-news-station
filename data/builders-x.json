@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:27:32.823Z",
+  "generatedAt": "2026-08-24T06:28:47.362Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,15 +9,37 @@
       "bio": "Codex & ChatGPT @OpenAI",
       "tweets": [
         {
-          "id": "2091407991736332689",
-          "text": "Update on rate limits in Codex. \n\nWe’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.\n\nAs part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.\n\nSee you then.",
-          "createdAt": "2026-08-23T06:11:36.000Z",
-          "url": "https://x.com/thsottiaux/status/2091407991736332689",
-          "likes": 1382,
-          "retweets": 113,
-          "replies": 248,
+          "id": "2091688655828246890",
+          "text": "Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating. https://t.co/6mgUetJnhg",
+          "createdAt": "2026-08-24T00:46:51.000Z",
+          "url": "https://x.com/thsottiaux/status/2091688655828246890",
+          "likes": 7425,
+          "retweets": 316,
+          "replies": 1055,
           "isQuote": true,
-          "quotedTweetId": "2091033630147854385"
+          "quotedTweetId": "2091407991736332689"
+        },
+        {
+          "id": "2091581575108653374",
+          "text": "2026 is the year companies start seriously caring about model efficiency and reliability as it becomes critical infrastructure",
+          "createdAt": "2026-08-23T17:41:21.000Z",
+          "url": "https://x.com/thsottiaux/status/2091581575108653374",
+          "likes": 5442,
+          "retweets": 155,
+          "replies": 441,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2091413240337326588",
+          "text": "Meant 2pm obviously",
+          "createdAt": "2026-08-23T06:32:27.000Z",
+          "url": "https://x.com/thsottiaux/status/2091413240337326588",
+          "likes": 2474,
+          "retweets": 27,
+          "replies": 249,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -28,37 +50,56 @@
       "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
       "tweets": [
         {
-          "id": "2091331251211059468",
-          "text": "If you care about your privacy:\n\n1. Go to https://t.co/yICN6WAe9R in Chrome\n2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser\n3. Then pick the ones you want to remove and tell AI to do it\n\nJust disconnected half the apps that should no longer have my Google info.",
-          "createdAt": "2026-08-23T01:06:40.000Z",
-          "url": "https://x.com/petergyang/status/2091331251211059468",
-          "likes": 447,
-          "retweets": 23,
-          "replies": 20,
+          "id": "2091631590799737306",
+          "text": "I've been working with Char, my (human!) assistant from @oceanstalent for 6 months.\n\nI think the best assistants today need to know how to work with AI agents.\n\nChar uses Claude Code and Codex to help me run podcast post-production, draft show notes, and make clips. He's made copies of my AI skills and tailored them for his own workflows over time.\n\nIf you want to hire vetted, AI-fluent operators who can help you run your business, check out Oceans at https://t.co/kKx6GaKTqw\n\n#sponsored",
+          "createdAt": "2026-08-23T21:00:06.000Z",
+          "url": "https://x.com/petergyang/status/2091631590799737306",
+          "likes": 21,
+          "retweets": 3,
+          "replies": 6,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2091239339204415969",
-          "text": "I’m working on a new AI skill. \n\nIt’s called /fuck-cancer\n\nGoal is to help patients and their family navigate this whole process and stay informed. \n\nWhat should I include in it?",
-          "createdAt": "2026-08-22T19:01:26.000Z",
-          "url": "https://x.com/petergyang/status/2091239339204415969",
-          "likes": 188,
-          "retweets": 5,
-          "replies": 39,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2091586298779955512",
+          "text": "There are two types of AI evals - tops down and bottoms up.\n\nFrom @sh_reya:\n\n“Think of top-down as: If you’re in a vacuum, just given the task description, what would you come up with? Claude does a very good job of helping you with these top-down evals.\n\nBottom-up evals are the other half. When you look at lots and lots of sample outputs, what is your gut feedback that you want externalized into evals? “Claude is very, very bad at coming up with bottom-up evals. That’s all you.”\n\n📌 Watch the full episode here: https://t.co/BuTklgfbr4",
+          "createdAt": "2026-08-23T18:00:08.000Z",
+          "url": "https://x.com/petergyang/status/2091586298779955512",
+          "likes": 43,
+          "retweets": 9,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2091529690041491820"
         },
         {
-          "id": "2091187611507499321",
-          "text": "Looks like you can now delete external data (like my 36 Gmail records) if you go to https://t.co/iZVklVswyI and scroll down to Data Privacy.\n\nKudos to the Instinct team for listening and shipping this quickly. \n\nI will always say it like it is, especially when it comes to privacy & trust.",
-          "createdAt": "2026-08-22T15:35:53.000Z",
-          "url": "https://x.com/petergyang/status/2091187611507499321",
-          "likes": 13,
+          "id": "2091529714104168870",
+          "text": "If you enjoyed this episode, I highly recommend Shreya and Hamel's industry-leading AI evals course.\n\nIt has 4.7 stars with 900 reviews, which is almost unheard of on Maven.\n\nThe next cohort starts on 9/5 and you can get 25% off with this link: https://t.co/K7nu51cgOo\n\nCheck it out and get your company to expense it if you can!",
+          "createdAt": "2026-08-23T14:15:17.000Z",
+          "url": "https://x.com/petergyang/status/2091529714104168870",
+          "likes": 1,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product enthusiast",
+      "tweets": [
+        {
+          "id": "2091559951739277451",
+          "text": "Also every other category of software https://t.co/OYC8Ss5zld",
+          "createdAt": "2026-08-23T16:15:26.000Z",
+          "url": "https://x.com/thenanyu/status/2091559951739277451",
+          "likes": 5,
           "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2091396855162921023"
         }
       ]
     },
@@ -69,56 +110,15 @@
       "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
       "tweets": [
         {
-          "id": "2091278899711967441",
-          "text": "Part 1\nhttps://t.co/9PCxjUITL6\n\nPart 2\nhttps://t.co/oMkXFWt9m7\n\nPart 3\nhttps://t.co/dwQ8cOzIrR\n\nPart 4\nhttps://t.co/NeaJzD7dry\n\nPart 5\nhttps://t.co/G0R7ZlEVDt",
-          "createdAt": "2026-08-22T21:38:38.000Z",
-          "url": "https://x.com/realmadhuguru/status/2091278899711967441",
-          "likes": 2,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2090930137885774324"
-        },
-        {
-          "id": "2091278653435072523",
-          "text": "How to build great evals - part 6\n\nHill climbing on evals is just a fancy way of saying: pick a dimension that matters and optimize for it.\n\nThis could be improving the quality of existing features based on your latest production data on high value user journeys, expanding to adjacent use cases, lowering cost or latency.\n\nThe actual work boils down to better harnesses and model selection through methods like prompt eng, context eng, memory, post training, deterministic old school code etc.\n\nYour failure mode taxonomy (from part 3) is a good compass for where your product struggles and needs some love.\n\nE.g. maybe tool calling failures are your most common problem. You dig in and notice you stuff 20 tools in context, when each task really only needs 3-5. hill climbing here involves context eng to give it the right tools at the right stage and iterate until you get it to good.\n\nOr take the cost reduction goal..\nI’ve written about how I advise launching your product with the best model first. Get the quality as high as you can. Once you know users love the experience, hill climb to get similar quality with a smaller, cheaper, faster model. Same methods - harness, models.\n\nThe important thing is to have evals that tell you whether you are actually moving in the right direction.\n\nMore tomorrow. \n\nSend this to your teammates!\n\nDrop your questions in the comments and I will answer in future posts.",
-          "createdAt": "2026-08-22T21:37:39.000Z",
-          "url": "https://x.com/realmadhuguru/status/2091278653435072523",
-          "likes": 143,
+          "id": "2091684812012875981",
+          "text": "How to build great evals - part 7.\n\nThe Goldilocks principle for eval construction.\n\nYour evals should measure at the level of the various jobs to be done, not just the final answer.\n\nE.g. consider a financial analysis agent. It's ultimate output is a stock recommendation. The most common mistake I see is teams create a golden set of right answers and check if the agent recommended the \"right” stock.\n\nThe problem here is that there are probably a bunch of meaningful jobs that happened before this recommendation. E.g.\n\n1/ Understanding the client: their portfolio, risk tolerance, investment horizon, goals, constraints\n\n2/ Gather evidence: latest data points on the different stock stocks, the sectors, macro environment, Fed policy, recent and upcoming news events\n\n3/ Analyze the data: revenue growth, valuation guidance, growth projections and produce a narrower number of candidate stocks\n\n4/ Make a recommendation: stock ticker name, bid/sell price, timeframe\n\nEach of these is a stage and produces an intermittent output. Each of them can (and maybe should have) their own eval so you can diagnose issues.\n\nIf the final recommendation is wrong, a well designed eval set would tell you:\nClient understanding : 92%,\nEvidence extraction : 92%,\nData analysis: 70%\nRecommendation: 75%\n\nNow you know where to go dig. And you might go, man the data analysis step is too complex and I need to break it down into a set of jobs to be done, and construct eval sets for them.\n\nNot too granular. Not too coarse. Just right.\nMake your eval set as granular as you need to diagnose and act.\n\nDrop your eval questions in the comments and I will answer in future posts.\n\nShare this with your teammates!\n\nSee you tomorrow.",
+          "createdAt": "2026-08-24T00:31:35.000Z",
+          "url": "https://x.com/realmadhuguru/status/2091684812012875981",
+          "likes": 110,
           "retweets": 8,
-          "replies": 11,
+          "replies": 3,
           "isQuote": true,
-          "quotedTweetId": "2090930137885774324"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Amjad Masad",
-      "handle": "amasad",
-      "bio": "ceo @replit. civilizationist",
-      "tweets": [
-        {
-          "id": "2091346778746757204",
-          "text": "A week has 7 days\n\nThat means 7 ships https://t.co/DFGoTnEy5G",
-          "createdAt": "2026-08-23T02:08:22.000Z",
-          "url": "https://x.com/amasad/status/2091346778746757204",
-          "likes": 70,
-          "retweets": 4,
-          "replies": 12,
-          "isQuote": true,
-          "quotedTweetId": "2091311652494803424"
-        },
-        {
-          "id": "2091217410615644349",
-          "text": "“Pretty soon” turned out to be 3 months. https://t.co/LC19TuXUuP",
-          "createdAt": "2026-08-22T17:34:18.000Z",
-          "url": "https://x.com/amasad/status/2091217410615644349",
-          "likes": 643,
-          "retweets": 43,
-          "replies": 37,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2091278653435072523"
         }
       ]
     },
@@ -129,35 +129,24 @@
       "bio": "@vercel CEO",
       "tweets": [
         {
-          "id": "2091338152791474331",
-          "text": "AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorious land and geography. I'm very long 🇺🇸🇦🇷. We're so early.",
-          "createdAt": "2026-08-23T01:34:05.000Z",
-          "url": "https://x.com/rauchg/status/2091338152791474331",
-          "likes": 735,
-          "retweets": 30,
-          "replies": 27,
+          "id": "2091671326897713424",
+          "text": "Intelligence is getting cheaper.\n\n@OpenAI Sol's price reductions & discounts on Vercel AI Gateway have made Sol our fastest-growing frontier model.\n\nThis shows ① that the demand for intelligence is highly elastic: as inference costs fall, usage grows rapidly.\n\n② If you're not using a gateway, you're missing out on this incredible price volatility, which lowers your operating costs and increases your margins. \n\nIt's no wonder the router space has heated up… gateways are inevitable.",
+          "createdAt": "2026-08-23T23:38:00.000Z",
+          "url": "https://x.com/rauchg/status/2091671326897713424",
+          "likes": 325,
+          "retweets": 17,
+          "replies": 33,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2091265836719956474",
-          "text": "cc @windows https://t.co/jwb1iekgRg",
-          "createdAt": "2026-08-22T20:46:43.000Z",
-          "url": "https://x.com/rauchg/status/2091265836719956474",
-          "likes": 57,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2091263423359389951",
-          "text": "San Francisco is a paradise on Earth https://t.co/NqAfgzAnTB",
-          "createdAt": "2026-08-22T20:37:08.000Z",
-          "url": "https://x.com/rauchg/status/2091263423359389951",
-          "likes": 1084,
-          "retweets": 20,
-          "replies": 80,
+          "id": "2091583525661384813",
+          "text": "Our philosophy on extending 𝚏𝚡: open protocols.\n∙ MCP (modelcontextprotocol⁠.io)\n∙ Skills (agentskills⁠.io)\n∙ Plugins (agent-plugins⁠.org)\n\nAnd the best one, Unix:\n\n① Small programs that do one thing well and compose by calling other programs.\n\n② 𝚕𝚒𝚋𝚏𝚡 that enables embeddability into more complex programs. You should be able to build your own CLI, background agent, software factory. Local or cloud.",
+          "createdAt": "2026-08-23T17:49:06.000Z",
+          "url": "https://x.com/rauchg/status/2091583525661384813",
+          "likes": 703,
+          "retweets": 33,
+          "replies": 50,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -170,43 +159,62 @@
       "bio": "ceo @box - your business lives in content. unleash it with AI",
       "tweets": [
         {
-          "id": "2091359223368315050",
-          "text": "AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the relative capability level of models.\n\nThe far bigger space over time are evals on all the major workflows that enterprises do, down to the specifics of an individual company. \n\nThis will be a huge space over time because you can’t automate what you can’t assess the progress on. Enterprises will not be able to go just on vibes.",
-          "createdAt": "2026-08-23T02:57:49.000Z",
-          "url": "https://x.com/levie/status/2091359223368315050",
-          "likes": 138,
-          "retweets": 12,
-          "replies": 25,
-          "isQuote": true,
-          "quotedTweetId": "2090500944979243181"
+          "id": "2091580656598102047",
+          "text": "I’m good to retire now https://t.co/YjTjVxlKvN",
+          "createdAt": "2026-08-23T17:37:42.000Z",
+          "url": "https://x.com/levie/status/2091580656598102047",
+          "likes": 1985,
+          "retweets": 43,
+          "replies": 45,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
     {
       "source": "x",
-      "name": "Zara Zhang",
-      "handle": "zarazhangrui",
-      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
       "tweets": [
         {
-          "id": "2091379220257603593",
-          "text": "There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing \n\nBut when the same individual is put into a large organization, they at most increase their potential by 20% (and sometimes it’s even decreased)\n\nThis is why I’m seeing more and more talented people leave large companies. (The only exceptions are probably top AI labs like OpenAI/Anthropic)",
-          "createdAt": "2026-08-23T04:17:16.000Z",
-          "url": "https://x.com/zarazhangrui/status/2091379220257603593",
-          "likes": 147,
-          "retweets": 7,
-          "replies": 14,
-          "isQuote": true,
-          "quotedTweetId": "2090815767180656839"
+          "id": "2091597222987383155",
+          "text": "https://t.co/BNr8qU8a6e",
+          "createdAt": "2026-08-23T18:43:32.000Z",
+          "url": "https://x.com/ryolu_/status/2091597222987383155",
+          "likes": 41,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2091338374447763481",
-          "text": "Everyone who’s ahead in using AI thinks they’re behind",
-          "createdAt": "2026-08-23T01:34:58.000Z",
-          "url": "https://x.com/zarazhangrui/status/2091338374447763481",
-          "likes": 336,
-          "retweets": 20,
-          "replies": 53,
+          "id": "2091596272654582062",
+          "text": "leaving\n\nleaving is the process from fullness into emptiness\n\nfrom the familiar circle of life\nthe routines undone\nthe streets i knew by heart\nthe people i kept meeting\nthe names and labels that had gathered on my skin\n\ntoward a place entirely unknown\nwhere a new life waits to be written\n\nbefore i go\ni take out everything i had hidden in my heart\nand say goodbye to it\npiece by piece\n\nmemory rises\nand feeling rises with it\n\none by one\ni empty the rooms within me\nuntil i am almost as i was when i first arrived\nunfurnished\nunclaimed\nopen\n\nwhat remains is a blankness\nechoing with my fear of loneliness\nmy longing for freedom\nand the questions i still cannot answer\n\nwhat is freedom\nwhat is happiness\n\nwhen i first came here\ni was drifting in a river\ncarried by the current\nthinking only of making things\n\nnow i have to place my own hands on the helm\n\nno longer mistaking the waves for fate\nor the shore for salvation\n\ni will miss the days i lived here\n\nbut i must learn again\nhow to sleep inside loneliness\nhow to eat inside uncertainty\nhow to recognize desire in the blank\n\nand through the act of leaving\nturn freedom from an idea\ninto a life i practice every day",
+          "createdAt": "2026-08-23T18:39:46.000Z",
+          "url": "https://x.com/ryolu_/status/2091596272654582062",
+          "likes": 808,
+          "retweets": 31,
+          "replies": 38,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2091742825042030681",
+          "text": "Prediction: systems of record will need to become AI harnesses or face replacement by agents",
+          "createdAt": "2026-08-24T04:22:06.000Z",
+          "url": "https://x.com/garrytan/status/2091742825042030681",
+          "likes": 567,
+          "retweets": 29,
+          "replies": 101,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -219,73 +227,51 @@
       "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
       "tweets": [
         {
-          "id": "2091403643815604629",
-          "text": "Few things:\n1) These are Twitter DMs. I try to be helpful to as many cold DMs as I can. This one shouldn’t have passed the bar. \n\n2) Doxxing someone is not my style. I hope they learned their lesson. \n\n3) I can’t stress enough how important it is to find the right people to take advice from. It boils my blood to see many talented young people who actually have substance play these stupid games.",
-          "createdAt": "2026-08-23T05:54:19.000Z",
-          "url": "https://x.com/nikunj/status/2091403643815604629",
-          "likes": 23,
+          "id": "2091696412744700268",
+          "text": "Mother in law is visiting from India..\n\nWants to do serendipitous date night with her grand daughter. \n\nRealized she didn’t sign up for roaming and we need a way to communicate. \n\nI get a data eSIM in under three minutes and she’s connected. \n\nWhat a wonderful world we live in 🤗\n\n(real ones know this would historically be a trip to the store or calling the carrier for an extra line that I need to cancel in a month)",
+          "createdAt": "2026-08-24T01:17:41.000Z",
+          "url": "https://x.com/nikunj/status/2091696412744700268",
+          "likes": 170,
           "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2091381756012511244",
-          "text": "Kids, I don't know what advice you are getting, but ragebaiting investors and then sending them SAFE docs to just wire you money is NOT how investing works.. https://t.co/MSXm6S85Vd",
-          "createdAt": "2026-08-23T04:27:21.000Z",
-          "url": "https://x.com/nikunj/status/2091381756012511244",
-          "likes": 370,
-          "retweets": 4,
-          "replies": 73,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2091220881590927441",
-          "text": "We complain about slop at X, but LinkedIn has stooped to unimaginable levels of slop 🤮 https://t.co/ULMk7CdxGL https://t.co/MP3lxxhTQ5",
-          "createdAt": "2026-08-22T17:48:05.000Z",
-          "url": "https://x.com/nikunj/status/2091220881590927441",
-          "likes": 40,
-          "retweets": 1,
           "replies": 12,
-          "isQuote": true,
-          "quotedTweetId": "2090886423574688058"
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
     {
       "source": "x",
-      "name": "Dan Shipper",
-      "handle": "danshipper",
-      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
       "tweets": [
         {
-          "id": "2091361962068254840",
-          "text": "we’re hiring @every!\n\nhttps://t.co/UVzy1MRevu https://t.co/QLoIrG8K5Z",
-          "createdAt": "2026-08-23T03:08:42.000Z",
-          "url": "https://x.com/danshipper/status/2091361962068254840",
-          "likes": 131,
-          "retweets": 3,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2090853094082945216"
+          "id": "2091650136506327253",
+          "text": "cli is nice, having UI visualizations and your team where you work is nicer. https://t.co/OFmkkkq6l5",
+          "createdAt": "2026-08-23T22:13:48.000Z",
+          "url": "https://x.com/steipete/status/2091650136506327253",
+          "likes": 1067,
+          "retweets": 44,
+          "replies": 89,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2091162447029608735",
-          "text": "agent native ftw https://t.co/C1mGoNcXpO",
-          "createdAt": "2026-08-22T13:55:53.000Z",
-          "url": "https://x.com/danshipper/status/2091162447029608735",
-          "likes": 149,
-          "retweets": 1,
-          "replies": 11,
-          "isQuote": true,
-          "quotedTweetId": "2090889137062826240"
+          "id": "2091639468935831910",
+          "text": "I added the rotation USB protocol to https://t.co/kyF8ap5Pq6 and told my claw to look around- now it's having fun with my 360 webcam.",
+          "createdAt": "2026-08-23T21:31:24.000Z",
+          "url": "https://x.com/steipete/status/2091639468935831910",
+          "likes": 208,
+          "retweets": 11,
+          "replies": 20,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 9,
-    "totalTweets": 19
+    "xBuilders": 10,
+    "totalTweets": 17
   }
 }
