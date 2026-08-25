@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:45:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:07:49 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>《有头有脸的大模型公司，集体搞起「匿名公测」》</title>
@@ -46,6 +46,22 @@
       <pubDate>Tue, 25 Aug 2026 08:25:52 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369303</guid>
       <source url="http://www.geekpark.net/news/369303">极客公园</source>
+    </item>
+    <item>
+      <title>赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”</title>
+      <link>https://www.qbitai.com/2026/08/478996.html</link>
+      <description>下一代Agent天然会走向云端和更大规模的计算资源</description>
+      <pubDate>Tue, 25 Aug 2026 05:20:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478996.html</guid>
+      <source url="https://www.qbitai.com/2026/08/478996.html">量子位</source>
+    </item>
+    <item>
+      <title>王虹合作者获奖！科学探索奖2026年度获奖名单公布</title>
+      <link>https://www.qbitai.com/2026/08/478912.html</link>
+      <description>今年50位获奖人来自13个城市的30家高校、医院和科研机构</description>
+      <pubDate>Tue, 25 Aug 2026 05:15:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478912.html</guid>
+      <source url="https://www.qbitai.com/2026/08/478912.html">量子位</source>
     </item>
     <item>
       <title>人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机</title>
@@ -163,24 +179,6 @@ Abstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has
       <pubDate>Tue, 25 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.21366</guid>
       <source url="https://arxiv.org/abs/2608.21366">ArXiv AI</source>
-    </item>
-    <item>
-      <title>AI Learning and Conceptual Transfer in the Game of Hidden Rules</title>
-      <link>https://arxiv.org/abs/2608.21372</link>
-      <description>arXiv:2608.21372v1 Announce Type: new 
-Abstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules from trial-and-error feedback, representation design, rule difficulty analysis, transfer learning, ge</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.21372</guid>
-      <source url="https://arxiv.org/abs/2608.21372">ArXiv AI</source>
-    </item>
-    <item>
-      <title>LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform</title>
-      <link>https://arxiv.org/abs/2608.21374</link>
-      <description>arXiv:2608.21374v1 Announce Type: new 
-Abstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utility depend on expert judgment rather than reference-overlap metrics. We introduce</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.21374</guid>
-      <source url="https://arxiv.org/abs/2608.21374">ArXiv AI</source>
     </item>
   </channel>
 </rss>
