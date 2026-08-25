@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 19:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:45:10 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>从被找到、被用好到被修好，HarmonyOS 7 给出开发者一套新解法</title>
@@ -38,6 +38,22 @@
       <pubDate>Tue, 25 Aug 2026 22:46:38 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369354</guid>
       <source url="http://www.geekpark.net/news/369354">极客公园</source>
+    </item>
+    <item>
+      <title>How to Manage Your Workspace With ChatGPT Work</title>
+      <link>https://www.youtube.com/watch?v=29SyCndnMZs</link>
+      <description>See how the ChatGPT admin plugin brings workspace administration into ChatGPT Work. Aarti Bagul, Member of GTM Staff at OpenAI, demonstrates how admins can analyze adoption and credit usage, update and share an AI rollout deck, and review and approve usage limit requests without switching between to</description>
+      <pubDate>Tue, 25 Aug 2026 20:17:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=29SyCndnMZs</guid>
+      <source url="https://www.youtube.com/watch?v=29SyCndnMZs">OpenAI</source>
+    </item>
+    <item>
+      <title>Build agent-ready sites with WebMCP</title>
+      <link>https://www.youtube.com/watch?v=Is2NHa7awWY</link>
+      <description>Eric Provencher from OpenAI Developer Experience demonstrates WebMCP support in Codex with Codex Modeling Studio, a 3D modeling site designed for people and agents to use together. See how adding tools directly to a website lets Codex discover capabilities, iterate on visuals, capture feedback, and </description>
+      <pubDate>Tue, 25 Aug 2026 20:15:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Is2NHa7awWY</guid>
+      <source url="https://www.youtube.com/watch?v=Is2NHa7awWY">OpenAI</source>
     </item>
     <item>
       <title>Codex, but make it weird. Hahahacks.</title>
@@ -186,26 +202,6 @@
       <pubDate>Tue, 25 Aug 2026 07:31:45 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1676650?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1676650?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>首发 | 影石做了十年全景相机，想让你忘记「全景相机」</title>
-      <link>https://www.ifanr.com/1676648?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>简而言之，这是一台更适合普通人的 Vlog 相机。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 25 Aug 2026 07:29:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676648?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676648?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>在工位玩了一下午「GBA」，我才发现复古不是回到过去</title>
-      <link>https://www.ifanr.com/1676646?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>对于亲历过像素时代的玩家而言，这是情怀怀旧；而对于没有时代记忆的年轻人来说，GBA、CCD 相机、CD 播放器，都是值得全新探索的新鲜事物。
-
-我们没有忘记这些旧玩具。过去只是缺少一个继续留下它们的理由。
-
-现在，它们已经升级了，怀旧也不再需要妥协。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 25 Aug 2026 07:25:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676646?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676646?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
