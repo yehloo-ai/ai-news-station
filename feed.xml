@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:16:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 15:01:08 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱</title>
@@ -55,6 +55,21 @@
       <pubDate>Wed, 26 Aug 2026 15:10:12 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369395</guid>
       <source url="http://www.geekpark.net/news/369395">极客公园</source>
+    </item>
+    <item>
+      <title>DeepSeek’s New AI System Shouldn’t Be Possible</title>
+      <link>https://www.youtube.com/watch?v=L9mMfAFwbl4</link>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
+
+📝 DeepSeek Harness + paper are available here:
+https://deepseek.com/harness/en/
+https://github.com/cordiverse/paper
+
+🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:
+Adam </description>
+      <pubDate>Wed, 26 Aug 2026 13:10:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=L9mMfAFwbl4</guid>
+      <source url="https://www.youtube.com/watch?v=L9mMfAFwbl4">Two Minute Papers</source>
     </item>
     <item>
       <title>AI 开始给自己造芯了，OpenAI 只用了九个月</title>
@@ -169,14 +184,6 @@
       <pubDate>Wed, 26 Aug 2026 05:52:06 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/479634.html</guid>
       <source url="https://www.qbitai.com/2026/08/479634.html">量子位</source>
-    </item>
-    <item>
-      <title>Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用</title>
-      <link>https://www.qbitai.com/2026/08/479631.html</link>
-      <description>蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。</description>
-      <pubDate>Wed, 26 Aug 2026 03:25:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479631.html</guid>
-      <source url="https://www.qbitai.com/2026/08/479631.html">量子位</source>
     </item>
   </channel>
 </rss>
