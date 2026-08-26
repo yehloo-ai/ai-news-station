@@ -5,8 +5,28 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:59:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:02:00 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？</title>
+      <link>http://www.geekpark.net/news/369401</link>
+      <description>AI to B，要真的能「救火」。
+去年年底的一个深夜，古茗科技集团运维负责人刘星光再次被手机震动惊醒&amp;mdash;&amp;mdash;屏幕上跳动着上百条数据库告警短信。
+「这不是什么意外。」刘星光说，「古茗全国上万家门店，每一杯奶茶的下单、库存调度、会员积分、联名营销，都跑在 100 多个数据库实例上&amp;mdash;&amp;mdash;RDS、Redis、MongoDB、PolarDB，什么都有。门店在扩，订单在涨，联名活动的频率比以往翻了一倍，尖刺流量来得快去得也快。」
+而支撑这一切的 DBA 团队，一共就那么几个人。
+「每天 70% 的时间耗在『接警&amp;mdash;登跳板机&amp;mdash;看 Proces</description>
+      <pubDate>Wed, 26 Aug 2026 16:02:33 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369401</guid>
+      <source url="http://www.geekpark.net/news/369401">极客公园</source>
+    </item>
+    <item>
+      <title>《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总</title>
+      <link>https://sspai.com/post/113851</link>
+      <description>编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...查看全文</description>
+      <pubDate>Wed, 26 Aug 2026 15:11:40 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113851</guid>
+      <source url="https://sspai.com/post/113851">少数派</source>
+    </item>
     <item>
       <title>离开剪映后创业，她想把一支设计团队装进 AI 工作台</title>
       <link>http://www.geekpark.net/news/369395</link>
@@ -166,24 +186,6 @@ Abstract: A trained transformer's weight magnitudes can be summarized by a two-p
       <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.23573</guid>
       <source url="https://arxiv.org/abs/2608.23573">ArXiv ML</source>
-    </item>
-    <item>
-      <title>From Causal Plausibility to Causal Reliability: Evaluating LLMs as Calibrated Direct Causal-Edge Classifiers</title>
-      <link>https://arxiv.org/abs/2608.23660</link>
-      <description>arXiv:2608.23660v1 Announce Type: new 
-Abstract: Large language models (LLMs) are increasingly used to provide prior causal knowledge for structural causal discovery, yet whether their direct-edge judgments and confidence can be trusted remains unclear. We systematically evaluate 12 instruction-tune</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23660</guid>
-      <source url="https://arxiv.org/abs/2608.23660">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Renormalization Group Flow Matching for Scalable Local Generative Modeling</title>
-      <link>https://arxiv.org/abs/2608.23696</link>
-      <description>arXiv:2608.23696v1 Announce Type: new 
-Abstract: Despite their remarkable success in modeling complex data, generative models face a fundamental tradeoff. Global approaches can capture full structural coherence but suffer from high computational costs, while local models are efficient but often fail</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23696</guid>
-      <source url="https://arxiv.org/abs/2608.23696">ArXiv ML</source>
     </item>
   </channel>
 </rss>
