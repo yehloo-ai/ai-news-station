@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 15:01:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:35:28 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱</title>
@@ -34,6 +34,14 @@
       <pubDate>Wed, 26 Aug 2026 15:59:03 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/prime/story/zhuanglesha-260826</guid>
       <source url="https://sspai.com/prime/story/zhuanglesha-260826">少数派</source>
+    </item>
+    <item>
+      <title>The mathematics of AI uncertainty</title>
+      <link>https://www.youtube.com/watch?v=tBjgCj_dGZM</link>
+      <description>Long before the current wave of large language models, one academic researcher was trying to give machines a sense of their own limitations. Zoubin Ghahramani has spent the last 30 years pioneering a type of intelligence built on the mathematics of uncertainty. Today, as a professor at Cambridge and</description>
+      <pubDate>Wed, 26 Aug 2026 15:45:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=tBjgCj_dGZM</guid>
+      <source url="https://www.youtube.com/watch?v=tBjgCj_dGZM">DeepMind</source>
     </item>
     <item>
       <title>《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总</title>
@@ -176,14 +184,6 @@ Adam </description>
       <pubDate>Wed, 26 Aug 2026 05:56:25 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/479670.html</guid>
       <source url="https://www.qbitai.com/2026/08/479670.html">量子位</source>
-    </item>
-    <item>
-      <title>宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底</title>
-      <link>https://www.qbitai.com/2026/08/479634.html</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 05:52:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479634.html</guid>
-      <source url="https://www.qbitai.com/2026/08/479634.html">量子位</source>
     </item>
   </channel>
 </rss>
