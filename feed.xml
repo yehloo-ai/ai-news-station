@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:58:33 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱</title>
+      <link>https://sspai.com/post/68227</link>
+      <description>学生党到底有哪些专享福利？看这一篇就对了。查看全文</description>
+      <pubDate>Wed, 26 Aug 2026 16:25:44 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/68227</guid>
+      <source url="https://sspai.com/post/68227">少数派</source>
+    </item>
     <item>
       <title>从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？</title>
       <link>http://www.geekpark.net/news/369401</link>
@@ -18,6 +26,14 @@
       <pubDate>Wed, 26 Aug 2026 16:02:33 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369401</guid>
       <source url="http://www.geekpark.net/news/369401">极客公园</source>
+    </item>
+    <item>
+      <title>装了啥特别篇：少数派编辑部最近都 vibe 了啥？</title>
+      <link>https://sspai.com/prime/story/zhuanglesha-260826</link>
+      <description>如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。</description>
+      <pubDate>Wed, 26 Aug 2026 15:59:03 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/prime/story/zhuanglesha-260826</guid>
+      <source url="https://sspai.com/prime/story/zhuanglesha-260826">少数派</source>
     </item>
     <item>
       <title>《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总</title>
@@ -47,6 +63,30 @@
       <pubDate>Wed, 26 Aug 2026 10:39:24 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113714</guid>
       <source url="https://sspai.com/post/113714">少数派</source>
+    </item>
+    <item>
+      <title>OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？</title>
+      <link>https://www.ifanr.com/1676738?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>会让英伟达不开心#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 26 Aug 2026 09:46:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676738?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676738?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子</title>
+      <link>https://www.qbitai.com/2026/08/479808.html</link>
+      <description>长乐机场综保区智算中心全栈算电协同服务</description>
+      <pubDate>Wed, 26 Aug 2026 09:17:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479808.html</guid>
+      <source url="https://www.qbitai.com/2026/08/479808.html">量子位</source>
+    </item>
+    <item>
+      <title>What Codex Unlocks for loveholidays</title>
+      <link>https://www.youtube.com/watch?v=o38xYi2mtgc</link>
+      <description>At loveholidays, AI-assisted code changes grew from 7% to 79% in a year, while deployments increased 73% without growing the engineering team. 🚀 With Codex, product managers, designers and commercial teams can now build alongside engineers—with 10+ new search experiences already developed through Se</description>
+      <pubDate>Wed, 26 Aug 2026 09:06:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=o38xYi2mtgc</guid>
+      <source url="https://www.youtube.com/watch?v=o38xYi2mtgc">OpenAI</source>
     </item>
     <item>
       <title>苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道</title>
@@ -141,51 +181,6 @@ Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execut
       <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.23569</guid>
       <source url="https://arxiv.org/abs/2608.23569">ArXiv AI</source>
-    </item>
-    <item>
-      <title>LLM Agents Perform Controlled Experiments Using Simulation Models</title>
-      <link>https://arxiv.org/abs/2608.23622</link>
-      <description>arXiv:2608.23622v1 Announce Type: new 
-Abstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They require understanding how a system responds to inter</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23622</guid>
-      <source url="https://arxiv.org/abs/2608.23622">ArXiv AI</source>
-    </item>
-    <item>
-      <title>A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts</title>
-      <link>https://arxiv.org/abs/2608.23626</link>
-      <description>arXiv:2608.23626v1 Announce Type: new 
-Abstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable rate, and a model trained on both inherits that incompleteness as a systematic</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23626</guid>
-      <source url="https://arxiv.org/abs/2608.23626">ArXiv AI</source>
-    </item>
-    <item>
-      <title>TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery</title>
-      <link>https://arxiv.org/abs/2608.23631</link>
-      <description>arXiv:2608.23631v1 Announce Type: new 
-Abstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly store evaluated candidate</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23631</guid>
-      <source url="https://arxiv.org/abs/2608.23631">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Equivariant Cellular Sheaves for Molecular Electronic Structure: Bridging Sheaf Cohomology and E(3)-Equivariant Hamiltonian Learning</title>
-      <link>https://arxiv.org/abs/2608.23571</link>
-      <description>arXiv:2608.23571v1 Announce Type: new 
-Abstract: Equivariant message-passing networks are the standard model for molecular property and interatomic-potential prediction, and recent work predicts the electronic Hamiltonian itself in an E(3)-equivariant way. Separately, topological deep learning has e</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23571</guid>
-      <source url="https://arxiv.org/abs/2608.23571">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Data Predictability Shapes Weibull Weight-Scale Growth in Transformer Training</title>
-      <link>https://arxiv.org/abs/2608.23573</link>
-      <description>arXiv:2608.23573v1 Announce Type: new 
-Abstract: A trained transformer's weight magnitudes can be summarized by a two-parameter Weibull distribution whose shape $k \approx 1.2$ is stable across layers and models, so the scale $\lambda$ carries most training-induced movement. What corpus property set</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23573</guid>
-      <source url="https://arxiv.org/abs/2608.23573">ArXiv ML</source>
     </item>
   </channel>
 </rss>
