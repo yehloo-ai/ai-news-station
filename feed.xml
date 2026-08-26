@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:52:40 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱</title>
@@ -63,6 +63,22 @@
       <pubDate>Wed, 26 Aug 2026 10:39:24 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113714</guid>
       <source url="https://sspai.com/post/113714">少数派</source>
+    </item>
+    <item>
+      <title>小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势</title>
+      <link>https://www.qbitai.com/2026/08/479811.html</link>
+      <description>AI内容创作者增长187%，相关节目数量增长239%</description>
+      <pubDate>Wed, 26 Aug 2026 10:17:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479811.html</guid>
+      <source url="https://www.qbitai.com/2026/08/479811.html">量子位</source>
+    </item>
+    <item>
+      <title>硅谷今日最热具身模型！不用后训练，看一遍就学会</title>
+      <link>https://www.qbitai.com/2026/08/479834.html</link>
+      <description>具身智能迈向GPT时刻</description>
+      <pubDate>Wed, 26 Aug 2026 10:07:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479834.html</guid>
+      <source url="https://www.qbitai.com/2026/08/479834.html">量子位</source>
     </item>
     <item>
       <title>OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？</title>
@@ -163,24 +179,6 @@
       <pubDate>Wed, 26 Aug 2026 00:13:57 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1676731?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1676731?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation</title>
-      <link>https://arxiv.org/abs/2608.23568</link>
-      <description>arXiv:2608.23568v1 Announce Type: new 
-Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benchmark control that fix</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23568</guid>
-      <source url="https://arxiv.org/abs/2608.23568">ArXiv AI</source>
-    </item>
-    <item>
-      <title>ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence</title>
-      <link>https://arxiv.org/abs/2608.23569</link>
-      <description>arXiv:2608.23569v1 Announce Type: new 
-Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified academic schemas and open-source SQL dialects that </description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23569</guid>
-      <source url="https://arxiv.org/abs/2608.23569">ArXiv AI</source>
     </item>
   </channel>
 </rss>
