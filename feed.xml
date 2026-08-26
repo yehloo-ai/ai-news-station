@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 01:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:19:42 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道</title>
@@ -24,6 +24,14 @@
       <pubDate>Wed, 26 Aug 2026 08:09:01 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113847</guid>
       <source url="https://sspai.com/post/113847">少数派</source>
+    </item>
+    <item>
+      <title>OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨</title>
+      <link>https://www.qbitai.com/2026/08/479320.html</link>
+      <description>不和老黄商量</description>
+      <pubDate>Wed, 26 Aug 2026 01:24:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479320.html</guid>
+      <source url="https://www.qbitai.com/2026/08/479320.html">量子位</source>
     </item>
     <item>
       <title>早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文</title>
@@ -66,40 +74,6 @@
       <pubDate>Tue, 25 Aug 2026 22:46:38 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369354</guid>
       <source url="http://www.geekpark.net/news/369354">极客公园</source>
-    </item>
-    <item>
-      <title>How to Manage Your Workspace With ChatGPT Work</title>
-      <link>https://www.youtube.com/watch?v=29SyCndnMZs</link>
-      <description>See how the ChatGPT admin plugin brings workspace administration into ChatGPT Work. Aarti Bagul, Member of GTM Staff at OpenAI, demonstrates how admins can analyze adoption and credit usage, update and share an AI rollout deck, and review and approve usage limit requests without switching between to</description>
-      <pubDate>Tue, 25 Aug 2026 20:17:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=29SyCndnMZs</guid>
-      <source url="https://www.youtube.com/watch?v=29SyCndnMZs">OpenAI</source>
-    </item>
-    <item>
-      <title>Build agent-ready sites with WebMCP</title>
-      <link>https://www.youtube.com/watch?v=Is2NHa7awWY</link>
-      <description>Eric Provencher from OpenAI Developer Experience demonstrates WebMCP support in Codex with Codex Modeling Studio, a 3D modeling site designed for people and agents to use together. See how adding tools directly to a website lets Codex discover capabilities, iterate on visuals, capture feedback, and </description>
-      <pubDate>Tue, 25 Aug 2026 20:15:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Is2NHa7awWY</guid>
-      <source url="https://www.youtube.com/watch?v=Is2NHa7awWY">OpenAI</source>
-    </item>
-    <item>
-      <title>Codex, but make it weird. Hahahacks.</title>
-      <link>https://www.youtube.com/watch?v=2f9bBlGOuX4</link>
-      <description>Thanks for having us, @tiatplace</description>
-      <pubDate>Tue, 25 Aug 2026 18:26:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=2f9bBlGOuX4</guid>
-      <source url="https://www.youtube.com/watch?v=2f9bBlGOuX4">OpenAI</source>
-    </item>
-    <item>
-      <title>No Limits on Text Chats with ChatGPT</title>
-      <link>https://www.youtube.com/watch?v=9MIkJHcMtVA</link>
-      <description>All users now have unlimited access to text chats in ChatGPT with our latest model GPT-5.6 Luna.
-
-🎥: @2UnlimitedOfficial</description>
-      <pubDate>Tue, 25 Aug 2026 17:21:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=9MIkJHcMtVA</guid>
-      <source url="https://www.youtube.com/watch?v=9MIkJHcMtVA">OpenAI</source>
     </item>
     <item>
       <title>社区速递 155 | 适马千元人像神头与七月派友剁手清单</title>
@@ -204,6 +178,32 @@
       <pubDate>Tue, 25 Aug 2026 08:25:52 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369303</guid>
       <source url="http://www.geekpark.net/news/369303">极客公园</source>
+    </item>
+    <item>
+      <title>《道路交通安全法》拟大改：「电鸡」限速上调至 20km/h，将严管「暴走团」占道</title>
+      <link>https://www.ifanr.com/1676652?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>车进步了，法规也要跟着进步。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 25 Aug 2026 08:06:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676652?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676652?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>QQ 宠物靠 AI 在手机复活，可我更想要一只桌宠企鹅</title>
+      <link>https://www.ifanr.com/1676656?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>下线 8 年的 QQ 宠物，这几天居然在手机 QQ 上官宣回归了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 25 Aug 2026 07:35:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676656?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676656?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Google AI 把「地球」玩坏了，这是对 10 亿人的不负责</title>
+      <link>https://www.ifanr.com/1676650?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>我想无论是 Google 地球或是 Google 相册，必然也能在入口处、在产品层，做好引导与防护，做好 AI 内容与真实数据的隔离，让娱乐归于娱乐，让真实归于真实。
+
+对 Google 来说这绝非难事，但却依然一次次选择拿公信力去冒险——我想这不应该是一个先进的 AI 公司应有的担当。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 25 Aug 2026 07:31:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1676650?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1676650?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
