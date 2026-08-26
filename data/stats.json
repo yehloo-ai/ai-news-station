@@ -1,22 +1,17 @@
 {
-  "generatedAt": "2026-08-25T14:12:44.573Z",
+  "generatedAt": "2026-08-26T02:45:57.780Z",
   "umami": {
     "error": null,
     "today": {
-      "visitors": 0,
-      "pageviews": 0
+      "visitors": 1,
+      "pageviews": 1
     },
     "last30d": {
-      "visitors": 41,
-      "pageviews": 245,
-      "visits": 73
+      "visitors": 38,
+      "pageviews": 134,
+      "visits": 60
     },
     "series": [
-      {
-        "date": "2026-07-27",
-        "pageviews": 46,
-        "visitors": 7
-      },
       {
         "date": "2026-07-28",
         "pageviews": 0,
@@ -159,6 +154,11 @@
       },
       {
         "date": "2026-08-25",
+        "pageviews": 1,
+        "visitors": 1
+      },
+      {
+        "date": "2026-08-26",
         "pageviews": 0,
         "visitors": 0
       }
@@ -166,14 +166,18 @@
     "countries": [
       {
         "code": "US",
-        "visitors": 26
+        "visitors": 23
       },
       {
         "code": "CN",
-        "visitors": 12
+        "visitors": 11
       },
       {
-        "code": "DE",
+        "code": "KR",
+        "visitors": 1
+      },
+      {
+        "code": "NL",
         "visitors": 1
       },
       {
@@ -181,21 +185,17 @@
         "visitors": 1
       },
       {
-        "code": "NL",
+        "code": "DE",
         "visitors": 1
       }
     ],
     "referrers": [
       {
-        "domain": "lmqinsydney-lab.github.io",
-        "visitors": 1
-      },
-      {
         "domain": "github.com",
         "visitors": 1
       },
       {
-        "domain": "weixin110.qq.com",
+        "domain": "lmqinsydney-lab.github.io",
         "visitors": 1
       }
     ]
