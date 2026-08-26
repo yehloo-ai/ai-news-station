@@ -5,8 +5,21 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:08:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:59:56 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>离开剪映后创业，她想把一支设计团队装进 AI 工作台</title>
+      <link>http://www.geekpark.net/news/369395</link>
+      <description>&amp;nbsp;
+头图来源：OJO 官网
+&amp;nbsp;
+极客公园获悉，前剪映中国负责人张琪智已离职创业，创办 AI 产品原型设计工作台 OJO，并于近日完成近亿元首轮融资，由顺为资本、联想创投联合投资，高鹄资本担任独家财务顾问。
+这是张琪智离开字节跳动后的第一个创业项目。她于 2017 年加入脸萌担任产品经理，2018 年随团队进入字节，此后长期参与剪映相关产品与业务。
+在外界看来，她在剪映的经历是理解这次创业的重要背景：经历了一款工具产品从 0 到 1、再到大规模增长后寻找新曲线的完整过程。而当 Claude Code、Codex、Cursor 等 coding agent 让「做出一个产品」越</description>
+      <pubDate>Wed, 26 Aug 2026 15:10:12 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369395</guid>
+      <source url="http://www.geekpark.net/news/369395">极客公园</source>
+    </item>
     <item>
       <title>在正镶白旗，用五天共同生活理解现代牧场</title>
       <link>https://sspai.com/post/113714</link>
@@ -171,15 +184,6 @@ Abstract: Despite their remarkable success in modeling complex data, generative 
       <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.23696</guid>
       <source url="https://arxiv.org/abs/2608.23696">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Response Renormalization for Critical Deep Equilibrium Models</title>
-      <link>https://arxiv.org/abs/2608.23725</link>
-      <description>arXiv:2608.23725v1 Announce Type: new 
-Abstract: Deep Equilibrium Models (DEQs) compute predictions from a hidden representation unchanged by the model update. Training through this equilibrium uses implicit differentiation and requires solving an adjoint system built from the residual Jacobian. If </description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23725</guid>
-      <source url="https://arxiv.org/abs/2608.23725">ArXiv ML</source>
     </item>
   </channel>
 </rss>
