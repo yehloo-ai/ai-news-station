@@ -138,5 +138,12 @@
     "summary": "面壁智能 OpenBMB 推出 MathForm，一个面向 Lean 4 数学自动形式化的开源框架、数据集与模型。其 FormalVerse 数据集含 367K+ 已验证示例；在匹配 100K 预算下，基于其训练的模型 Consistency Check 达 60.32%，优于 FineLeanCorpus（46.53%）与 NuminaMath-LEAN（41.49%）。",
     "sourceUrl": "https://x.com/OpenBMB/status/2090786300194590816",
     "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "GlucoFM：面向连续血糖监测的基础模型",
+    "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109,066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
+    "sourceUrl": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
+    "sourceName": "Google Research：Blog（网页）"
   }
 ]

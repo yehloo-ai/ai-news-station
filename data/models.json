@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-08-22",
+  "updatedAt": "2026-08-27",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-08-27",
+      "company": "腾讯",
+      "model": "Hy-MT2-1.8B",
+      "type": "语言",
+      "specs": [
+        "实时",
+        "端侧"
+      ],
+      "highlight": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 通过 2-bit 与 1.25-bit 量化",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
+      "sourceName": "公众号：腾讯混元",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-08-22",
       "company": "深度求索",
