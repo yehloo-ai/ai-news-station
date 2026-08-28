@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-27",
+  "updatedAt": "2026-08-28",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-08-28",
+      "company": "Midjourney",
+      "model": "V8.2",
+      "type": "图像",
+      "specs": [],
+      "highlight": "Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试",
+      "sourceUrl": "https://updates.midjourney.com/edit-model-for-v8",
+      "sourceName": "Midjourney：Updates（RSS）",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-08-27",
       "company": "腾讯",
