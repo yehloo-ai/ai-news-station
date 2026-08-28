@@ -5,191 +5,187 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 05:23:33 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>一年卖出 3 万台后，极壳将在 IFA 发布下一代外骨骼</title>
-      <link>http://www.geekpark.net/news/369478</link>
-      <description>作者 | siqi
-编辑 | 郑玄
-&amp;nbsp;
-据 Hardwire 了解，消费级外骨骼领域头部企业极壳（Hypershell）近期已完成对多关节下肢外骨骼产品的研发。这款名为「Halo」的新一代旗舰产品将于 9 月 3 日在 IFA（柏林消费电子展）上正式发布。
-极壳（qi&amp;agrave;o，四声）成立于 2021 年底，是全球最早把外骨骼带入消费市场的公司之一。2024 年 12 月，极壳第一代产品 Hypershell X 系列正式量产交付。2025 年，极壳在第一个量产年份交出了全球累计交付 3 万台的答卷，北美（美国）、欧洲（法德意英等）和中国是公司的三大核心市场。极壳的产品在户外</description>
-      <pubDate>Thu, 27 Aug 2026 19:57:55 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369478</guid>
-      <source url="http://www.geekpark.net/news/369478">极客公园</source>
-    </item>
-    <item>
-      <title>我们正在构建一种让人工智能模型连接到任何设备并运行真实实验的方法。</title>
-      <link>https://www.youtube.com/shorts/djVUCj5i4sw</link>
-      <description>Scientists spend a significant amount of their time just getting their devices to communicate with one another. Each device tends to have its own programming interface, and so far there has been no standardized way to integrate them, or to allow them to connect to AI. 
+      <title>世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」</title>
+      <link>http://www.geekpark.net/news/369508</link>
+      <description>机器人世界模型的下一场竞争，可能不是画质，是架构。
 
-The Model Hardware Standard (</description>
-      <pubDate>Thu, 27 Aug 2026 19:42:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/djVUCj5i4sw</guid>
-      <source url="https://www.youtube.com/shorts/djVUCj5i4sw">Anthropic</source>
-    </item>
-    <item>
-      <title>新玩意 250｜少数派的编辑们最近买了啥？</title>
-      <link>https://sspai.com/post/113905</link>
-      <description>关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ...查看全文</description>
-      <pubDate>Thu, 27 Aug 2026 18:00:05 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113905</guid>
-      <source url="https://sspai.com/post/113905">少数派</source>
-    </item>
-    <item>
-      <title>人工智能模型现在可以帮助进行物理科学实验</title>
-      <link>https://www.youtube.com/watch?v=P1zBiAQU1IA</link>
-      <description>The Model Hardware Standard (MHS) is a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. 
+作者｜Li Yuan
+编辑｜郑玄
 
-MHS began as a collaboration between Anthropic’s Beneficial Deployments team and HHMI Janelia Research Campus. This video tells the story of how</description>
-      <pubDate>Thu, 27 Aug 2026 17:54:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=P1zBiAQU1IA</guid>
-      <source url="https://www.youtube.com/watch?v=P1zBiAQU1IA">Anthropic</source>
+一只机械臂的夹爪明明没有夹住杯子，杯子却像被磁铁吸住一样，跟着夹爪升了起来。这个看似荒诞的问题，正在困扰机器人世界模型，业内甚至将其称为「磁铁式抓取」。
+视频生成模型只要让画面看起来合理，就算完成任务；但世界模型不能只追求「像真的」。机器人训练数据大多来自成功演示，模型容易形成捷径：与其理解动作的细微差别，不如按照画面，直接生成最可能的结果。
+可在真实世界里，夹爪位置偏移几毫米，就可能让结果从抓起变成碰倒杯子甚至抓空。世界模型真正需要理解的，是动作与结果之间的因果关系。
+8 月 27 日，自变量机器人发布</description>
+      <pubDate>Fri, 28 Aug 2026 13:10:32 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369508</guid>
+      <source url="http://www.geekpark.net/news/369508">极客公园</source>
     </item>
     <item>
-      <title>如何使用 ChatGPT Work 构建个性化膳食计划</title>
-      <link>https://www.youtube.com/watch?v=t64oZKCdG8Q</link>
-      <description>Follow a working mom as she turns a simple note about her daughter’s food preferences and allergies into a personalized weekly meal planner. See how she creates a shareable site, prepares an Instacart cart for approval, captures meal feedback from her phone, and sets up a weekly task to start the ne</description>
-      <pubDate>Thu, 27 Aug 2026 16:16:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=t64oZKCdG8Q</guid>
-      <source url="https://www.youtube.com/watch?v=t64oZKCdG8Q">OpenAI</source>
+      <title>全球首款阔直板探索计划：华为 Pura X View 新品有奖体验</title>
+      <link>https://sspai.com/post/113883</link>
+      <description>继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...查看全文</description>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113883</guid>
+      <source url="https://sspai.com/post/113883">少数派</source>
     </item>
     <item>
-      <title>退休</title>
-      <link>https://www.youtube.com/watch?v=rh4BtN2NxmE</link>
-      <description>Bring your ideas to life with text in multiple languages</description>
-      <pubDate>Thu, 27 Aug 2026 15:43:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=rh4BtN2NxmE</guid>
-      <source url="https://www.youtube.com/watch?v=rh4BtN2NxmE">OpenAI</source>
+      <title>桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验</title>
+      <link>https://sspai.com/post/113909</link>
+      <description>2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文</description>
+      <pubDate>Fri, 28 Aug 2026 09:56:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113909</guid>
+      <source url="https://sspai.com/post/113909">少数派</source>
     </item>
     <item>
-      <title>迷失的猫</title>
-      <link>https://www.youtube.com/watch?v=piNZDb8XLZo</link>
-      <description>Bring any idea to life in any image size with ChatGPT Images.</description>
-      <pubDate>Thu, 27 Aug 2026 15:43:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=piNZDb8XLZo</guid>
-      <source url="https://www.youtube.com/watch?v=piNZDb8XLZo">OpenAI</source>
+      <title>特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/369481</link>
+      <description>特努斯首秀开启 iPhone 18 Pro / Ultra 系列新篇章，苹果发布会官宣定档 9 月 10 日
+8 月 27 日消息，苹果官方宣布将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为「惊喜闪耀」（Surprise and shine）。
+这将是约翰 &amp;middot; 特努斯（John Ternus）于 9 月 1 日正式接任苹果 CEO 后的首场发布会，预计将推出全新一代 iPhone 18 Pro / Max 以及 Ultra 系列折叠屏新机。后续，苹果还将于明年春季推出 iPhone 18 基础版及 iPhone 18e 等新品。
+</description>
+      <pubDate>Fri, 28 Aug 2026 08:33:17 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369481</guid>
+      <source url="http://www.geekpark.net/news/369481">极客公园</source>
     </item>
     <item>
-      <title>Soccer</title>
-      <link>https://www.youtube.com/watch?v=w1dcfvUCZYw</link>
-      <description>Turn any idea into a finished design with layouts and text using ChatGPT Images.</description>
-      <pubDate>Thu, 27 Aug 2026 15:43:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=w1dcfvUCZYw</guid>
-      <source url="https://www.youtube.com/watch?v=w1dcfvUCZYw">OpenAI</source>
+      <title>派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等</title>
+      <link>https://sspai.com/post/113922</link>
+      <description>Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。查看全文</description>
+      <pubDate>Fri, 28 Aug 2026 08:29:37 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113922</guid>
+      <source url="https://sspai.com/post/113922">少数派</source>
     </item>
     <item>
-      <title>影响了两代人后，Meta 被判赔 180 亿美元</title>
-      <link>http://www.geekpark.net/news/369463</link>
-      <description>作者｜桦林舞王
-编辑｜靖宇
-
-1998 年，美国 46 个州的检察长联手起诉四大烟草巨头，最终以 2060 亿美元的天价和解收场。
-那场诉讼不仅让烟草公司付出了巨额赔偿，更从根本上改变了一个行业的运行规则&amp;mdash;&amp;mdash;禁止向未成年人投放广告、禁止用卡通形象推销香烟、在产品包装上强制印刷健康警告。此后，美国的吸烟率几乎减半。
-28 年后，同样的剧本，换了主角。
-当地时间 8 月 26 日，Meta 与美国 52 个州和领地的检察长达成和解，同意支付最高约 180 亿美元，并对 Instagram 和 Facebook 实施一系列强制性的产品变更。
-这是针对科技公司有史以来最大的民事</description>
-      <pubDate>Thu, 27 Aug 2026 15:33:48 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369463</guid>
-      <source url="http://www.geekpark.net/news/369463">极客公园</source>
+      <title>商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移</title>
+      <link>https://www.qbitai.com/2026/08/480227.html</link>
+      <description>国产算力跑通视频生成规模化应用</description>
+      <pubDate>Fri, 28 Aug 2026 04:09:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480227.html</guid>
+      <source url="https://www.qbitai.com/2026/08/480227.html">量子位</source>
     </item>
     <item>
-      <title>日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑</title>
-      <link>https://sspai.com/post/89194</link>
-      <description>不知不觉，我日常使用 Linux 已经有第 6 个年头了。一个词概括，「舒适」。查看全文</description>
-      <pubDate>Thu, 27 Aug 2026 15:28:44 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/89194</guid>
-      <source url="https://sspai.com/post/89194">少数派</source>
+      <title>智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持</title>
+      <link>https://www.qbitai.com/2026/08/480223.html</link>
+      <description>国产异构助力前沿智能进入普惠时代</description>
+      <pubDate>Fri, 28 Aug 2026 04:06:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480223.html</guid>
+      <source url="https://www.qbitai.com/2026/08/480223.html">量子位</source>
     </item>
     <item>
-      <title>129 亿美元，英伟达拿下 Hugging Face</title>
-      <link>http://www.geekpark.net/news/369458</link>
-      <description>作者｜Wildcard
-编辑｜靖宇
-
-
-129 亿美元，英伟达要把 Hugging Face 买下来了。
-当地时间 8 月 26 日外媒率先爆出消息， 两天前还只是 Hugging Face「正在探索出售」的新闻，转眼就变成了「双方已达成协议」。速度快得让人来不及消化。
-这不是一笔普通的 AI 公司并购，而是芯片之王第一次伸手去抓开源 AI 世界的「分发权」。
-Hugging Face 被称为 AI 界的「GitHub」，托管着超过 300 万个模型仓库，服务 1300 万开发者，Meta 的 Llama、阿里的 Qwen、Mistral 的开源模型，全都住在这个平台上。它是整个开源 AI 生</description>
-      <pubDate>Thu, 27 Aug 2026 15:09:02 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369458</guid>
-      <source url="http://www.geekpark.net/news/369458">极客公园</source>
+      <title>高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景</title>
+      <link>https://www.qbitai.com/2026/08/480208.html</link>
+      <description>8月28日，阿里巴巴集团旗下高德正式发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon。</description>
+      <pubDate>Fri, 28 Aug 2026 03:45:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480208.html</guid>
+      <source url="https://www.qbitai.com/2026/08/480208.html">量子位</source>
     </item>
     <item>
-      <title>风云 T7 上市：9.49 万元起、全系 600km，电池出事赔新车</title>
-      <link>https://www.ifanr.com/1677135?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>打出一张真·安全牌。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 27 Aug 2026 13:42:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1677135?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1677135?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>34克、全天候AI，1996元起，雷鸟iO热卖加速智能眼镜全民普及</title>
+      <link>https://www.qbitai.com/2026/08/480202.html</link>
+      <description>8 月 27 日，全球领先消费级 AR 品牌雷鸟创新（RayNeo）公布雷鸟 iO 首销战报</description>
+      <pubDate>Fri, 28 Aug 2026 03:03:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480202.html</guid>
+      <source url="https://www.qbitai.com/2026/08/480202.html">量子位</source>
     </item>
     <item>
-      <title>小鹏新版 VLA 9 月实装：记住过去 30 秒，预判未来 6 秒，开始在「时间里」开车</title>
-      <link>https://www.ifanr.com/1677118?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>小鹏 VLA 获得了奇异博士的超能力。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 27 Aug 2026 13:36:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1677118?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1677118?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力</title>
+      <link>https://www.qbitai.com/2026/08/480083.html</link>
+      <description>8月27日，网易有道正式发布OpenPods有道AI耳机。</description>
+      <pubDate>Fri, 28 Aug 2026 02:48:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480083.html</guid>
+      <source url="https://www.qbitai.com/2026/08/480083.html">量子位</source>
     </item>
     <item>
-      <title>MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧</title>
-      <link>https://www.qbitai.com/2026/08/480092.html</link>
-      <description>好能增长，好能商业化啊！</description>
-      <pubDate>Thu, 27 Aug 2026 12:16:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480092.html</guid>
-      <source url="https://www.qbitai.com/2026/08/480092.html">量子位</source>
+      <title>HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄</title>
+      <link>https://www.qbitai.com/2026/08/480186.html</link>
+      <description>Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o</description>
+      <pubDate>Fri, 28 Aug 2026 01:40:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480186.html</guid>
+      <source url="https://www.qbitai.com/2026/08/480186.html">量子位</source>
     </item>
     <item>
-      <title>来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记</title>
-      <link>https://sspai.com/post/113222</link>
-      <description>Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文</description>
-      <pubDate>Thu, 27 Aug 2026 11:01:42 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113222</guid>
-      <source url="https://sspai.com/post/113222">少数派</source>
+      <title>用了阔直板华为，忘了回忆里的黑莓｜华为 Pura X View 评测</title>
+      <link>https://www.ifanr.com/1677161?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>华为 Passport#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 28 Aug 2026 01:00:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1677161?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1677161?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」</title>
-      <link>https://www.ifanr.com/1677048?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>具身智能的「ChatGPT 时刻」，看谁能更快走进现实#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 27 Aug 2026 10:34:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1677048?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1677048?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭店</title>
+      <link>https://www.ifanr.com/1677210?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 小鹏 Robotaxi 获广州全无人道路测试资质
+· Anthropic 与 Nscale 签下 450 亿美元算力合同
+· B 站第二季度营收 79.4 亿元，净利润同比增长 55%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 28 Aug 2026 00:09:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1677210?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1677210?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>为什么苹果、小米的 AI 电脑，都在死磕「内存墙」｜AI 器物志</title>
-      <link>https://www.ifanr.com/1676852?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>算力飞奔，内存掉队#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 27 Aug 2026 10:15:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676852?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676852?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>EduRiskX：用于早期学术风险预测的具有 F 逻辑推理的神经符号框架</title>
+      <link>https://arxiv.org/abs/2608.26107</link>
+      <description>arXiv:2608.26107v1 Announce Type: new 
+Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interp</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26107</guid>
+      <source url="https://arxiv.org/abs/2608.26107">ArXiv AI</source>
     </item>
     <item>
-      <title>理想换了一种活法！理想 i9、新 MEGA 即将发布，李想：纯电销量已经追平增程</title>
-      <link>https://www.ifanr.com/1677019?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>苹果和华为最难学的不是「自研」，而是让技术最终回归到商业。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 27 Aug 2026 09:33:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1677019?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1677019?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>用于解释 ICU 死亡率预测的独立法学硕士和预先指定的代理管道：eICU 演示数据集的可行性研究</title>
+      <link>https://arxiv.org/abs/2608.26109</link>
+      <description>arXiv:2608.26109v1 Announce Type: new 
+Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a </description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26109</guid>
+      <source url="https://arxiv.org/abs/2608.26109">ArXiv AI</source>
     </item>
     <item>
-      <title>智元机器人「奥运」首秀封神，戴着工牌狂揽 18 枚金牌</title>
-      <link>https://www.ifanr.com/1676970?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>刚下工厂，就上赛场，金牌榜奖牌榜双领跑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 27 Aug 2026 08:48:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676970?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676970?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>电池预测和健康管理的大型模型：回顾和未来路线图</title>
+      <link>https://arxiv.org/abs/2608.26111</link>
+      <description>arXiv:2608.26111v1 Announce Type: new 
+Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-b</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26111</guid>
+      <source url="https://arxiv.org/abs/2608.26111">ArXiv AI</source>
     </item>
     <item>
-      <title>Ox Alpha「牛来」 身份揭晓；黄仁勋：AI 已迈过商业化拐点；世界人形机器人运动会闭幕：天工 Ultra 百米跑出 8 秒 64｜极客早知道</title>
-      <link>http://www.geekpark.net/news/369414</link>
-      <description>智谱正式发布并开源 GLM-5.3-Flash，Ox Alpha「牛来」 身份揭晓
-8 月 26 日，智谱正式上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列的首个原生多模态模型，也正是上周以来匿名登顶 OpenRouter、被社区称为 "牛来" 的 Ox Alpha 的正式身份。
-该模型总参数 320B、激活 18B，在权威的 Artificial Analysis 综合智能指数中取得 57 分、与 Claude Opus 4.8 持平，编程表现亦与 Opus 4.8 相当；定价仅为 GLM-5.3 的 1/10（限时折扣内约为 Opus 4.8 的 1/</description>
-      <pubDate>Thu, 27 Aug 2026 08:27:05 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369414</guid>
-      <source url="http://www.geekpark.net/news/369414">极客公园</source>
+      <title>PICasso：用于硅光子器件自主优化的人工智能设计框架</title>
+      <link>https://arxiv.org/abs/2608.26113</link>
+      <description>arXiv:2608.26113v1 Announce Type: new 
+Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -&gt; YAML -&gt; GDS generation pipeline with P</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26113</guid>
+      <source url="https://arxiv.org/abs/2608.26113">ArXiv AI</source>
+    </item>
+    <item>
+      <title>CIFQA：基于确定性工具的多代理 LLM 框架，用于财务查询应答</title>
+      <link>https://arxiv.org/abs/2608.26114</link>
+      <description>arXiv:2608.26114v1 Announce Type: new 
+Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, t</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26114</guid>
+      <source url="https://arxiv.org/abs/2608.26114">ArXiv AI</source>
+    </item>
+    <item>
+      <title>用于标记属性图学习的 SLM 条件分层关系路由</title>
+      <link>https://arxiv.org/abs/2608.26132</link>
+      <description>arXiv:2608.26132v1 Announce Type: new 
+Abstract: Labeled property graphs combine relational structure with heterogeneous textual and categorical properties attached to both nodes and relationships. Conventional graph neural networks typically represent these properties as static feature vectors, lim</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26132</guid>
+      <source url="https://arxiv.org/abs/2608.26132">ArXiv ML</source>
+    </item>
+    <item>
+      <title>NeuronFuzz：用于法学硕士安全评估的安全神经元引导模糊测试</title>
+      <link>https://arxiv.org/abs/2608.26222</link>
+      <description>arXiv:2608.26222v1 Announce Type: new 
+Abstract: Safety evaluation is critical for assessing whether aligned Large Language Models (LLMs) remain robust against jailbreak attacks. Existing automated testing methods, however, largely rely on response-level feedback: each candidate prompt typically req</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26222</guid>
+      <source url="https://arxiv.org/abs/2608.26222">ArXiv ML</source>
     </item>
   </channel>
 </rss>
