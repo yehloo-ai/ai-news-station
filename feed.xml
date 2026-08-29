@@ -5,8 +5,28 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 02:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:02:37 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷</title>
+      <link>http://www.geekpark.net/news/369550</link>
+      <description>&amp;nbsp;
+8 月 28 日，腾讯发布并开源混元 Hy4 preview。
+这是继 Hy3 正式版之后，腾讯推出的新一代大模型：总参数从 295B 增加到 770B，激活参数从 21B 增加到 49B，上下文长度也从 256K 扩展至 1M。模型已经同步进入 WorkBuddy、CodeBuddy、元宝和 ima，并可通过腾讯云 TokenHub 及 OpenRouter 调用。
+此外，Hy4 preview 继续走普惠的高性价比路线。根据公布的价格信息，Hy4 preview 输入 6 元/百万 tokens，输出 18 元/百万 tokens，缓存命中 0.3 元/百万 tokens。
+</description>
+      <pubDate>Sat, 29 Aug 2026 13:58:53 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369550</guid>
+      <source url="http://www.geekpark.net/news/369550">极客公园</source>
+    </item>
+    <item>
+      <title>2026 烟灶选购指南</title>
+      <link>https://sspai.com/post/112775</link>
+      <description>如何在新老国标换代这一年买到合适自己的烟机灶具呢？查看全文</description>
+      <pubDate>Sat, 29 Aug 2026 09:20:06 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112775</guid>
+      <source url="https://sspai.com/post/112775">少数派</source>
+    </item>
     <item>
       <title>Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃</title>
       <link>http://www.geekpark.net/news/369549</link>
@@ -23,6 +43,22 @@
       <source url="http://www.geekpark.net/news/369549">极客公园</source>
     </item>
     <item>
+      <title>Magic Manga Girl (:30)</title>
+      <link>https://www.youtube.com/watch?v=S6TIVzqTmu8</link>
+      <description>Turn any idea into a finished design with layouts and text using ChatGPT Images.</description>
+      <pubDate>Sat, 29 Aug 2026 05:22:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=S6TIVzqTmu8</guid>
+      <source url="https://www.youtube.com/watch?v=S6TIVzqTmu8">OpenAI</source>
+    </item>
+    <item>
+      <title>Tennis (:30)</title>
+      <link>https://www.youtube.com/watch?v=IEpTT48oW5Y</link>
+      <description>Turn your image into any art style you can imagine with ChatGPT Images.</description>
+      <pubDate>Sat, 29 Aug 2026 05:22:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=IEpTT48oW5Y</guid>
+      <source url="https://www.youtube.com/watch?v=IEpTT48oW5Y">OpenAI</source>
+    </item>
+    <item>
       <title>早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万</title>
       <link>https://www.ifanr.com/1676877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>· 意大利拟对过马路看手机的行人罚款 75 欧元
@@ -31,6 +67,51 @@
       <pubDate>Sat, 29 Aug 2026 00:21:15 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1676877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1676877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction</title>
+      <link>https://arxiv.org/abs/2608.26107</link>
+      <description>arXiv:2608.26107v1 Announce Type: new 
+Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interp</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26107</guid>
+      <source url="https://arxiv.org/abs/2608.26107">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset</title>
+      <link>https://arxiv.org/abs/2608.26109</link>
+      <description>arXiv:2608.26109v1 Announce Type: new 
+Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a </description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26109</guid>
+      <source url="https://arxiv.org/abs/2608.26109">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap</title>
+      <link>https://arxiv.org/abs/2608.26111</link>
+      <description>arXiv:2608.26111v1 Announce Type: new 
+Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-b</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26111</guid>
+      <source url="https://arxiv.org/abs/2608.26111">ArXiv AI</source>
+    </item>
+    <item>
+      <title>PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices</title>
+      <link>https://arxiv.org/abs/2608.26113</link>
+      <description>arXiv:2608.26113v1 Announce Type: new 
+Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -&gt; YAML -&gt; GDS generation pipeline with P</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26113</guid>
+      <source url="https://arxiv.org/abs/2608.26113">ArXiv AI</source>
+    </item>
+    <item>
+      <title>CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering</title>
+      <link>https://arxiv.org/abs/2608.26114</link>
+      <description>arXiv:2608.26114v1 Announce Type: new 
+Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, t</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26114</guid>
+      <source url="https://arxiv.org/abs/2608.26114">ArXiv AI</source>
     </item>
     <item>
       <title>Coding 自由之后，人开始成为最大的瓶颈</title>
@@ -60,22 +141,6 @@
       <pubDate>Fri, 28 Aug 2026 20:51:46 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=DLcQSp_CIIc</guid>
       <source url="https://www.youtube.com/watch?v=DLcQSp_CIIc">OpenAI</source>
-    </item>
-    <item>
-      <title>Create Slides, Docs, and Templates</title>
-      <link>https://www.youtube.com/watch?v=syML5KT-HzI</link>
-      <description>Turn a meeting transcript into a structured Google Doc and a leadership deck with ChatGPT Work. Connect Google Drive, ask for the sections you need, and check the document against the original transcript. Then create a Google Slides presentation from the document and save both formats with Template </description>
-      <pubDate>Fri, 28 Aug 2026 20:51:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=syML5KT-HzI</guid>
-      <source url="https://www.youtube.com/watch?v=syML5KT-HzI">OpenAI</source>
-    </item>
-    <item>
-      <title>Use ChatGPT Work on Your Phone</title>
-      <link>https://www.youtube.com/watch?v=yfnh8SuMbNw</link>
-      <description>Use ChatGPT Work on your phone to catch up on work and handle personal tasks before you reach your desk. Follow a Slack and Gmail catch-up, then review recent spending with the read-only Finances plugin. You’ll also see how to pair your phone with Remote to check progress and guide tasks running on </description>
-      <pubDate>Fri, 28 Aug 2026 20:51:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=yfnh8SuMbNw</guid>
-      <source url="https://www.youtube.com/watch?v=yfnh8SuMbNw">OpenAI</source>
     </item>
     <item>
       <title>本周看什么 | 最近值得一看的 10 部作品</title>
@@ -132,72 +197,6 @@
       <pubDate>Fri, 28 Aug 2026 11:13:35 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/08/480666.html</guid>
       <source url="https://www.qbitai.com/2026/08/480666.html">量子位</source>
-    </item>
-    <item>
-      <title>桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验</title>
-      <link>https://sspai.com/post/113909</link>
-      <description>2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文</description>
-      <pubDate>Fri, 28 Aug 2026 09:56:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113909</guid>
-      <source url="https://sspai.com/post/113909">少数派</source>
-    </item>
-    <item>
-      <title>刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%</title>
-      <link>https://www.qbitai.com/2026/08/480600.html</link>
-      <description>企业智能化服务撑起基本盘，第二增长曲线冒头</description>
-      <pubDate>Fri, 28 Aug 2026 09:45:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480600.html</guid>
-      <source url="https://www.qbitai.com/2026/08/480600.html">量子位</source>
-    </item>
-    <item>
-      <title>This Free AI Just Caught The Billion Dollar Giants</title>
-      <link>https://www.youtube.com/watch?v=LBiNcdGNgrg</link>
-      <description>❤️ Check out Weights &amp; Biases and sign up for a free demo here: https://wandb.me/papers
-
-📝 The paper and Qwen3.8-Flash-Next are available here:
-https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf
-https://qwen.ai/blog?id=qwen3.8-flash-next
-
-Sources:
-https://x.com/analogalok/status/</description>
-      <pubDate>Fri, 28 Aug 2026 09:44:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=LBiNcdGNgrg</guid>
-      <source url="https://www.youtube.com/watch?v=LBiNcdGNgrg">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道</title>
-      <link>http://www.geekpark.net/news/369481</link>
-      <description>特努斯首秀开启 iPhone 18 Pro / Ultra 系列新篇章，苹果发布会官宣定档 9 月 10 日
-8 月 27 日消息，苹果官方宣布将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为「惊喜闪耀」（Surprise and shine）。
-这将是约翰 &amp;middot; 特努斯（John Ternus）于 9 月 1 日正式接任苹果 CEO 后的首场发布会，预计将推出全新一代 iPhone 18 Pro / Max 以及 Ultra 系列折叠屏新机。后续，苹果还将于明年春季推出 iPhone 18 基础版及 iPhone 18e 等新品。
-</description>
-      <pubDate>Fri, 28 Aug 2026 08:33:17 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369481</guid>
-      <source url="http://www.geekpark.net/news/369481">极客公园</source>
-    </item>
-    <item>
-      <title>派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等</title>
-      <link>https://sspai.com/post/113922</link>
-      <description>Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。查看全文</description>
-      <pubDate>Fri, 28 Aug 2026 08:29:37 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113922</guid>
-      <source url="https://sspai.com/post/113922">少数派</source>
-    </item>
-    <item>
-      <title>e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛</title>
-      <link>https://www.qbitai.com/2026/08/480591.html</link>
-      <description>8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。</description>
-      <pubDate>Fri, 28 Aug 2026 07:20:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480591.html</guid>
-      <source url="https://www.qbitai.com/2026/08/480591.html">量子位</source>
-    </item>
-    <item>
-      <title>首款癌症疫苗，一针300万？？？</title>
-      <link>https://www.qbitai.com/2026/08/480557.html</link>
-      <description>别让顶级治疗方法称为富人专属</description>
-      <pubDate>Fri, 28 Aug 2026 06:22:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480557.html</guid>
-      <source url="https://www.qbitai.com/2026/08/480557.html">量子位</source>
     </item>
   </channel>
 </rss>
