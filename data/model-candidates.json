@@ -145,5 +145,12 @@
     "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109,066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
     "sourceUrl": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
     "sourceName": "Google Research：Blog（网页）"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+    "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
+    "sourceName": "公众号：腾讯混元"
   }
 ]
