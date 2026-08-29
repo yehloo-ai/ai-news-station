@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:30:36 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷</title>
@@ -18,6 +18,62 @@
       <pubDate>Sat, 29 Aug 2026 13:58:53 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369550</guid>
       <source url="http://www.geekpark.net/news/369550">极客公园</source>
+    </item>
+    <item>
+      <title>AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑</title>
+      <link>https://www.qbitai.com/2026/08/481372.html</link>
+      <description>推理软件栈的微小差异，就能改变输出token</description>
+      <pubDate>Sat, 29 Aug 2026 13:11:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481372.html</guid>
+      <source url="https://www.qbitai.com/2026/08/481372.html">量子位</source>
+    </item>
+    <item>
+      <title>去年归国的徐梦迪，成了清华姚班班主任</title>
+      <link>https://www.qbitai.com/2026/08/481318.html</link>
+      <description>本科读车辆工程，如今教AI第一班</description>
+      <pubDate>Sat, 29 Aug 2026 13:01:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481318.html</guid>
+      <source url="https://www.qbitai.com/2026/08/481318.html">量子位</source>
+    </item>
+    <item>
+      <title>Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员</title>
+      <link>https://www.qbitai.com/2026/08/481223.html</link>
+      <description>AI「自进化」，越来越近了</description>
+      <pubDate>Sat, 29 Aug 2026 12:50:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481223.html</guid>
+      <source url="https://www.qbitai.com/2026/08/481223.html">量子位</source>
+    </item>
+    <item>
+      <title>20ms把PDF变成Markdown！开源OCR神器快了近300倍</title>
+      <link>https://www.qbitai.com/2026/08/481075.html</link>
+      <description>3秒可处理200份PDF</description>
+      <pubDate>Sat, 29 Aug 2026 12:26:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481075.html</guid>
+      <source url="https://www.qbitai.com/2026/08/481075.html">量子位</source>
+    </item>
+    <item>
+      <title>Coding不再是程序员专属！阿里Qoder这波有点绝</title>
+      <link>https://www.qbitai.com/2026/08/480940.html</link>
+      <description>Coding正在变成Al世界的数字执行力</description>
+      <pubDate>Sat, 29 Aug 2026 12:11:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480940.html</guid>
+      <source url="https://www.qbitai.com/2026/08/480940.html">量子位</source>
+    </item>
+    <item>
+      <title>OpenClaw：红过，爱过，散了</title>
+      <link>https://www.qbitai.com/2026/08/480855.html</link>
+      <description>龙虾退潮，Harness上位</description>
+      <pubDate>Sat, 29 Aug 2026 12:00:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480855.html</guid>
+      <source url="https://www.qbitai.com/2026/08/480855.html">量子位</source>
+    </item>
+    <item>
+      <title>32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作</title>
+      <link>https://www.qbitai.com/2026/08/480787.html</link>
+      <description>从剧本到成片</description>
+      <pubDate>Sat, 29 Aug 2026 11:35:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480787.html</guid>
+      <source url="https://www.qbitai.com/2026/08/480787.html">量子位</source>
     </item>
     <item>
       <title>2026 烟灶选购指南</title>
@@ -133,70 +189,6 @@ Abstract: Calculation-intensive financial question answering requires exact reas
       <pubDate>Fri, 28 Aug 2026 20:51:46 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=981SivztzOc</guid>
       <source url="https://www.youtube.com/watch?v=981SivztzOc">OpenAI</source>
-    </item>
-    <item>
-      <title>Talk to ChatGPT Work</title>
-      <link>https://www.youtube.com/watch?v=DLcQSp_CIIc</link>
-      <description>Brainstorm out loud and turn your ideas into a presentation with Voice in ChatGPT Work. In the desktop app, talk through ideas for a team event, ask ChatGPT to build a visual pitch deck, and review the result. You’ll also see how to continue the same task from your phone by connecting to your comput</description>
-      <pubDate>Fri, 28 Aug 2026 20:51:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=DLcQSp_CIIc</guid>
-      <source url="https://www.youtube.com/watch?v=DLcQSp_CIIc">OpenAI</source>
-    </item>
-    <item>
-      <title>本周看什么 | 最近值得一看的 10 部作品</title>
-      <link>https://sspai.com/post/113944</link>
-      <description>📅本周新预告《社交清算》新预告8月27日，电影《社交清算》发布了新预告，将于10月9日在北美上映。凭借《社交网络》斩获奥斯卡金像奖的艾伦・索金带来全新姐妹篇，当科技巨头以「言论自由」为名逃避责任，当算 ...查看全文</description>
-      <pubDate>Fri, 28 Aug 2026 17:44:32 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113944</guid>
-      <source url="https://sspai.com/post/113944">少数派</source>
-    </item>
-    <item>
-      <title>我的自媒体搭子太能卷，一顿饭功夫17份成品</title>
-      <link>https://www.qbitai.com/2026/08/480700.html</link>
-      <description></description>
-      <pubDate>Fri, 28 Aug 2026 15:36:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480700.html</guid>
-      <source url="https://www.qbitai.com/2026/08/480700.html">量子位</source>
-    </item>
-    <item>
-      <title>开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理</title>
-      <link>https://sspai.com/post/68623</link>
-      <description>这些内容，即使毕了业也能有所帮助。查看全文</description>
-      <pubDate>Fri, 28 Aug 2026 15:04:57 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/68623</guid>
-      <source url="https://sspai.com/post/68623">少数派</source>
-    </item>
-    <item>
-      <title>世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」</title>
-      <link>http://www.geekpark.net/news/369508</link>
-      <description>机器人世界模型的下一场竞争，可能不是画质，是架构。
-
-作者｜Li Yuan
-编辑｜郑玄
-
-一只机械臂的夹爪明明没有夹住杯子，杯子却像被磁铁吸住一样，跟着夹爪升了起来。这个看似荒诞的问题，正在困扰机器人世界模型，业内甚至将其称为「磁铁式抓取」。
-视频生成模型只要让画面看起来合理，就算完成任务；但世界模型不能只追求「像真的」。机器人训练数据大多来自成功演示，模型容易形成捷径：与其理解动作的细微差别，不如按照画面，直接生成最可能的结果。
-可在真实世界里，夹爪位置偏移几毫米，就可能让结果从抓起变成碰倒杯子甚至抓空。世界模型真正需要理解的，是动作与结果之间的因果关系。
-8 月 27 日，自变量机器人发布</description>
-      <pubDate>Fri, 28 Aug 2026 13:10:32 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369508</guid>
-      <source url="http://www.geekpark.net/news/369508">极客公园</source>
-    </item>
-    <item>
-      <title>全球首款阔直板探索计划：华为 Pura X View 新品有奖体验</title>
-      <link>https://sspai.com/post/113883</link>
-      <description>继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...查看全文</description>
-      <pubDate>Fri, 28 Aug 2026 12:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113883</guid>
-      <source url="https://sspai.com/post/113883">少数派</source>
-    </item>
-    <item>
-      <title>《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板</title>
-      <link>https://www.qbitai.com/2026/08/480666.html</link>
-      <description>久久不愿来到台前的智元掌舵人</description>
-      <pubDate>Fri, 28 Aug 2026 11:13:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480666.html</guid>
-      <source url="https://www.qbitai.com/2026/08/480666.html">量子位</source>
     </item>
   </channel>
 </rss>
