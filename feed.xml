@@ -5,8 +5,22 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:16:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 06:38:13 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元</title>
+      <link>http://www.geekpark.net/news/369551</link>
+      <description>OpenAI 终止与 Cursor 合作
+8 月 29 日消息，OpenAI 以「无法信任 SpaceX 遵守服务条款」为由，终止向已被 SpaceX 收购的 AI 编程工具 Cursor 提供模型支持。Cursor 对 OpenAI 模型的直接访问权限将于 11 月 12 日终止。
+
+OpenAI 在其官方网站发布的公告中明确表示，终止合作的决定「归根结底在于信任问题」。
+OpenAI 列举了两起具体事件作为依据：
+第一，Twitter（现已成为 SpaceX 的一部分）在马斯克收购后违反了与 OpenAI 的合同条款。相关诉讼至今仍是双方纠纷的背景。
+第二，xAI（同样已并入 SpaceX</description>
+      <pubDate>Sun, 30 Aug 2026 08:28:43 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369551</guid>
+      <source url="http://www.geekpark.net/news/369551">极客公园</source>
+    </item>
     <item>
       <title>腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷</title>
       <link>http://www.geekpark.net/news/369550</link>
@@ -99,22 +113,6 @@
       <source url="http://www.geekpark.net/news/369549">极客公园</source>
     </item>
     <item>
-      <title>Magic Manga Girl (:30)</title>
-      <link>https://www.youtube.com/watch?v=S6TIVzqTmu8</link>
-      <description>Turn any idea into a finished design with layouts and text using ChatGPT Images.</description>
-      <pubDate>Sat, 29 Aug 2026 05:22:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=S6TIVzqTmu8</guid>
-      <source url="https://www.youtube.com/watch?v=S6TIVzqTmu8">OpenAI</source>
-    </item>
-    <item>
-      <title>Tennis (:30)</title>
-      <link>https://www.youtube.com/watch?v=IEpTT48oW5Y</link>
-      <description>Turn your image into any art style you can imagine with ChatGPT Images.</description>
-      <pubDate>Sat, 29 Aug 2026 05:22:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=IEpTT48oW5Y</guid>
-      <source url="https://www.youtube.com/watch?v=IEpTT48oW5Y">OpenAI</source>
-    </item>
-    <item>
       <title>早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万</title>
       <link>https://www.ifanr.com/1676877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>· 意大利拟对过马路看手机的行人罚款 75 欧元
@@ -123,51 +121,6 @@
       <pubDate>Sat, 29 Aug 2026 00:21:15 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1676877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1676877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction</title>
-      <link>https://arxiv.org/abs/2608.26107</link>
-      <description>arXiv:2608.26107v1 Announce Type: new 
-Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interp</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.26107</guid>
-      <source url="https://arxiv.org/abs/2608.26107">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset</title>
-      <link>https://arxiv.org/abs/2608.26109</link>
-      <description>arXiv:2608.26109v1 Announce Type: new 
-Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a </description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.26109</guid>
-      <source url="https://arxiv.org/abs/2608.26109">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap</title>
-      <link>https://arxiv.org/abs/2608.26111</link>
-      <description>arXiv:2608.26111v1 Announce Type: new 
-Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-b</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.26111</guid>
-      <source url="https://arxiv.org/abs/2608.26111">ArXiv AI</source>
-    </item>
-    <item>
-      <title>PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices</title>
-      <link>https://arxiv.org/abs/2608.26113</link>
-      <description>arXiv:2608.26113v1 Announce Type: new 
-Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -&gt; YAML -&gt; GDS generation pipeline with P</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.26113</guid>
-      <source url="https://arxiv.org/abs/2608.26113">ArXiv AI</source>
-    </item>
-    <item>
-      <title>CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering</title>
-      <link>https://arxiv.org/abs/2608.26114</link>
-      <description>arXiv:2608.26114v1 Announce Type: new 
-Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, t</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.26114</guid>
-      <source url="https://arxiv.org/abs/2608.26114">ArXiv AI</source>
     </item>
     <item>
       <title>Coding 自由之后，人开始成为最大的瓶颈</title>
@@ -183,12 +136,68 @@ Abstract: Calculation-intensive financial question answering requires exact reas
       <source url="http://www.geekpark.net/news/369547">极客公园</source>
     </item>
     <item>
-      <title>Use Your Computer and Browser</title>
-      <link>https://www.youtube.com/watch?v=981SivztzOc</link>
-      <description>See how ChatGPT Work can help with tasks in your desktop apps and browser. Use Computer to start music in Spotify, then combine Chrome and Google Calendar to prepare a time-off request and an out-of-office event. Learn how to share screen context with Appshots, grant access, and review the drafts be</description>
-      <pubDate>Fri, 28 Aug 2026 20:51:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=981SivztzOc</guid>
-      <source url="https://www.youtube.com/watch?v=981SivztzOc">OpenAI</source>
+      <title>本周看什么 | 最近值得一看的 10 部作品</title>
+      <link>https://sspai.com/post/113944</link>
+      <description>📅本周新预告《社交清算》新预告8月27日，电影《社交清算》发布了新预告，将于10月9日在北美上映。凭借《社交网络》斩获奥斯卡金像奖的艾伦・索金带来全新姐妹篇，当科技巨头以「言论自由」为名逃避责任，当算 ...查看全文</description>
+      <pubDate>Fri, 28 Aug 2026 17:44:32 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113944</guid>
+      <source url="https://sspai.com/post/113944">少数派</source>
+    </item>
+    <item>
+      <title>我的自媒体搭子太能卷，一顿饭功夫17份成品</title>
+      <link>https://www.qbitai.com/2026/08/480700.html</link>
+      <description></description>
+      <pubDate>Fri, 28 Aug 2026 15:36:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480700.html</guid>
+      <source url="https://www.qbitai.com/2026/08/480700.html">量子位</source>
+    </item>
+    <item>
+      <title>开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理</title>
+      <link>https://sspai.com/post/68623</link>
+      <description>这些内容，即使毕了业也能有所帮助。查看全文</description>
+      <pubDate>Fri, 28 Aug 2026 15:04:57 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/68623</guid>
+      <source url="https://sspai.com/post/68623">少数派</source>
+    </item>
+    <item>
+      <title>世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」</title>
+      <link>http://www.geekpark.net/news/369508</link>
+      <description>机器人世界模型的下一场竞争，可能不是画质，是架构。
+
+作者｜Li Yuan
+编辑｜郑玄
+
+一只机械臂的夹爪明明没有夹住杯子，杯子却像被磁铁吸住一样，跟着夹爪升了起来。这个看似荒诞的问题，正在困扰机器人世界模型，业内甚至将其称为「磁铁式抓取」。
+视频生成模型只要让画面看起来合理，就算完成任务；但世界模型不能只追求「像真的」。机器人训练数据大多来自成功演示，模型容易形成捷径：与其理解动作的细微差别，不如按照画面，直接生成最可能的结果。
+可在真实世界里，夹爪位置偏移几毫米，就可能让结果从抓起变成碰倒杯子甚至抓空。世界模型真正需要理解的，是动作与结果之间的因果关系。
+8 月 27 日，自变量机器人发布</description>
+      <pubDate>Fri, 28 Aug 2026 13:10:32 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369508</guid>
+      <source url="http://www.geekpark.net/news/369508">极客公园</source>
+    </item>
+    <item>
+      <title>全球首款阔直板探索计划：华为 Pura X View 新品有奖体验</title>
+      <link>https://sspai.com/post/113883</link>
+      <description>继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...查看全文</description>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113883</guid>
+      <source url="https://sspai.com/post/113883">少数派</source>
+    </item>
+    <item>
+      <title>《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板</title>
+      <link>https://www.qbitai.com/2026/08/480666.html</link>
+      <description>久久不愿来到台前的智元掌舵人</description>
+      <pubDate>Fri, 28 Aug 2026 11:13:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480666.html</guid>
+      <source url="https://www.qbitai.com/2026/08/480666.html">量子位</source>
+    </item>
+    <item>
+      <title>桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验</title>
+      <link>https://sspai.com/post/113909</link>
+      <description>2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文</description>
+      <pubDate>Fri, 28 Aug 2026 09:56:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113909</guid>
+      <source url="https://sspai.com/post/113909">少数派</source>
     </item>
   </channel>
 </rss>
