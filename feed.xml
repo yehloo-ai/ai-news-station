@@ -5,8 +5,41 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 17:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:03:17 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>折叠屏的尽头，是不折叠：华为 Pura X View 体验</title>
+      <link>http://www.geekpark.net/news/369558</link>
+      <description>阔直板不是「发明」，是用户投出来的票
+
+作者｜张勇毅
+编辑｜靖宇
+
+Pura X View 到办公室的第一天，来围观的同事，好几个人的第一反应是同一句话「这个尺寸有点像曾经的黑莓手机」。
+
+华为 Pura X View 实机，是一个直屏手机前所未见的尺寸｜图片来源：极客公园
+我理解这个联想：方方正正一块宽屏，确实像那个年代的东西。但用了一周之后，我觉得「像黑莓」是个无心插柳的结果。它没打算致敬谁，只是一台顺着用户真实需求长出来的手机，恰好长成了这个样子。复古感是结果，不是目的。
+真正有意思的，是它的来历。
+
+
+
+
+
+01
+
+
+
+
+
+
+
+先有用法后有机
+
+阔直板这个形态是怎么来的，江湖上流传很广</description>
+      <pubDate>Mon, 31 Aug 2026 04:25:08 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369558</guid>
+      <source url="http://www.geekpark.net/news/369558">极客公园</source>
+    </item>
     <item>
       <title>造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌</title>
       <link>http://www.geekpark.net/news/369556</link>
@@ -189,14 +222,6 @@ OpenAI 列举了两起具体事件作为依据：
       <pubDate>Fri, 28 Aug 2026 20:51:46 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=981SivztzOc</guid>
       <source url="https://www.youtube.com/watch?v=981SivztzOc">OpenAI</source>
-    </item>
-    <item>
-      <title>Talk to ChatGPT Work</title>
-      <link>https://www.youtube.com/watch?v=DLcQSp_CIIc</link>
-      <description>Brainstorm out loud and turn your ideas into a presentation with Voice in ChatGPT Work. In the desktop app, talk through ideas for a team event, ask ChatGPT to build a visual pitch deck, and review the result. You’ll also see how to continue the same task from your phone by connecting to your comput</description>
-      <pubDate>Fri, 28 Aug 2026 20:51:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=DLcQSp_CIIc</guid>
-      <source url="https://www.youtube.com/watch?v=DLcQSp_CIIc">OpenAI</source>
     </item>
   </channel>
 </rss>
