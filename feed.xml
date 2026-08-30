@@ -5,8 +5,39 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 06:38:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:53:16 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌</title>
+      <link>http://www.geekpark.net/news/369556</link>
+      <description>如果给模型安装个身体？你会选择什么。
+这道题过去只属于硬件创业者，这个八月，它摆到了所有软件公司桌上。Hugging Face 交卷一只走路摇摇晃晃的鸭子，OpenAI 正在造自己的智能音箱，字节跳动旗下 TRAE 联名 FoloToy 开始改造自己挂在胸口的工牌。
+很明显，软件公司造硬件的思路完全不同，他们想要的不是好用，而是主动以及可见。我可以看到我的 AI 走出电脑手机屏幕之外，更主动地参与用户生活的其他部分。
+同时，硬件开始越来越便宜了，价格从过去的 799 美元，降低了 40 美元。很多硬件公司不再追求一个高利润的售价，而是选择用更便宜、更易上手、可玩度更高的硬件交给用户，让他们尽快</description>
+      <pubDate>Sun, 30 Aug 2026 18:58:17 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369556</guid>
+      <source url="http://www.geekpark.net/news/369556">极客公园</source>
+    </item>
+    <item>
+      <title>OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了</title>
+      <link>http://www.geekpark.net/news/369555</link>
+      <description>9 个月之后，OpenAI 的首款芯片成绩单终于揭晓了。
+8 月 25 日，在 Hot Chips 大会上，OpenAI 硬件负责人 Richard Ho 站上讲台，公布了 Jalape&amp;ntilde;o 芯片的第一份公开跑分。
+
+在 SemiAnalysis 的 InferenceX 基准测试中，这颗 OpenAI 与博通联合打造的推理芯片，在「每用户 token 数」和「每千瓦吞吐量」两项关键指标上，双双超过了当下市面上最先进的推理处理器英伟达 Blackwell 系统。
+具体而言，OpenAI 用 SemiAnalysis 的公开基准工具 InferenceX，在 GPT-OSS 120</description>
+      <pubDate>Sun, 30 Aug 2026 18:53:09 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369555</guid>
+      <source url="http://www.geekpark.net/news/369555">极客公园</source>
+    </item>
+    <item>
+      <title>城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营</title>
+      <link>https://sspai.com/post/113974</link>
+      <description>我种草佛罗伦萨的理由绝对是世所罕见：因为SEVENTEEN的NanaTour有很大一部分是在佛罗伦萨及其周边拍摄的。从去年夏天看了这个综艺开始，我就一直对这个地方念念不忘，心想夏日的意大利到底是有何种 ...查看全文</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113974</guid>
+      <source url="https://sspai.com/post/113974">少数派</source>
+    </item>
     <item>
       <title>OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元</title>
       <link>http://www.geekpark.net/news/369551</link>
@@ -113,6 +144,22 @@ OpenAI 列举了两起具体事件作为依据：
       <source url="http://www.geekpark.net/news/369549">极客公园</source>
     </item>
     <item>
+      <title>Magic Manga Girl (:30)</title>
+      <link>https://www.youtube.com/watch?v=S6TIVzqTmu8</link>
+      <description>Turn any idea into a finished design with layouts and text using ChatGPT Images.</description>
+      <pubDate>Sat, 29 Aug 2026 05:22:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=S6TIVzqTmu8</guid>
+      <source url="https://www.youtube.com/watch?v=S6TIVzqTmu8">OpenAI</source>
+    </item>
+    <item>
+      <title>Tennis (:30)</title>
+      <link>https://www.youtube.com/watch?v=IEpTT48oW5Y</link>
+      <description>Turn your image into any art style you can imagine with ChatGPT Images.</description>
+      <pubDate>Sat, 29 Aug 2026 05:22:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=IEpTT48oW5Y</guid>
+      <source url="https://www.youtube.com/watch?v=IEpTT48oW5Y">OpenAI</source>
+    </item>
+    <item>
       <title>早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万</title>
       <link>https://www.ifanr.com/1676877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>· 意大利拟对过马路看手机的行人罚款 75 欧元
@@ -136,68 +183,20 @@ OpenAI 列举了两起具体事件作为依据：
       <source url="http://www.geekpark.net/news/369547">极客公园</source>
     </item>
     <item>
-      <title>本周看什么 | 最近值得一看的 10 部作品</title>
-      <link>https://sspai.com/post/113944</link>
-      <description>📅本周新预告《社交清算》新预告8月27日，电影《社交清算》发布了新预告，将于10月9日在北美上映。凭借《社交网络》斩获奥斯卡金像奖的艾伦・索金带来全新姐妹篇，当科技巨头以「言论自由」为名逃避责任，当算 ...查看全文</description>
-      <pubDate>Fri, 28 Aug 2026 17:44:32 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113944</guid>
-      <source url="https://sspai.com/post/113944">少数派</source>
+      <title>Use Your Computer and Browser</title>
+      <link>https://www.youtube.com/watch?v=981SivztzOc</link>
+      <description>See how ChatGPT Work can help with tasks in your desktop apps and browser. Use Computer to start music in Spotify, then combine Chrome and Google Calendar to prepare a time-off request and an out-of-office event. Learn how to share screen context with Appshots, grant access, and review the drafts be</description>
+      <pubDate>Fri, 28 Aug 2026 20:51:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=981SivztzOc</guid>
+      <source url="https://www.youtube.com/watch?v=981SivztzOc">OpenAI</source>
     </item>
     <item>
-      <title>我的自媒体搭子太能卷，一顿饭功夫17份成品</title>
-      <link>https://www.qbitai.com/2026/08/480700.html</link>
-      <description></description>
-      <pubDate>Fri, 28 Aug 2026 15:36:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480700.html</guid>
-      <source url="https://www.qbitai.com/2026/08/480700.html">量子位</source>
-    </item>
-    <item>
-      <title>开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理</title>
-      <link>https://sspai.com/post/68623</link>
-      <description>这些内容，即使毕了业也能有所帮助。查看全文</description>
-      <pubDate>Fri, 28 Aug 2026 15:04:57 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/68623</guid>
-      <source url="https://sspai.com/post/68623">少数派</source>
-    </item>
-    <item>
-      <title>世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」</title>
-      <link>http://www.geekpark.net/news/369508</link>
-      <description>机器人世界模型的下一场竞争，可能不是画质，是架构。
-
-作者｜Li Yuan
-编辑｜郑玄
-
-一只机械臂的夹爪明明没有夹住杯子，杯子却像被磁铁吸住一样，跟着夹爪升了起来。这个看似荒诞的问题，正在困扰机器人世界模型，业内甚至将其称为「磁铁式抓取」。
-视频生成模型只要让画面看起来合理，就算完成任务；但世界模型不能只追求「像真的」。机器人训练数据大多来自成功演示，模型容易形成捷径：与其理解动作的细微差别，不如按照画面，直接生成最可能的结果。
-可在真实世界里，夹爪位置偏移几毫米，就可能让结果从抓起变成碰倒杯子甚至抓空。世界模型真正需要理解的，是动作与结果之间的因果关系。
-8 月 27 日，自变量机器人发布</description>
-      <pubDate>Fri, 28 Aug 2026 13:10:32 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369508</guid>
-      <source url="http://www.geekpark.net/news/369508">极客公园</source>
-    </item>
-    <item>
-      <title>全球首款阔直板探索计划：华为 Pura X View 新品有奖体验</title>
-      <link>https://sspai.com/post/113883</link>
-      <description>继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...查看全文</description>
-      <pubDate>Fri, 28 Aug 2026 12:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113883</guid>
-      <source url="https://sspai.com/post/113883">少数派</source>
-    </item>
-    <item>
-      <title>《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板</title>
-      <link>https://www.qbitai.com/2026/08/480666.html</link>
-      <description>久久不愿来到台前的智元掌舵人</description>
-      <pubDate>Fri, 28 Aug 2026 11:13:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480666.html</guid>
-      <source url="https://www.qbitai.com/2026/08/480666.html">量子位</source>
-    </item>
-    <item>
-      <title>桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验</title>
-      <link>https://sspai.com/post/113909</link>
-      <description>2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文</description>
-      <pubDate>Fri, 28 Aug 2026 09:56:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113909</guid>
-      <source url="https://sspai.com/post/113909">少数派</source>
+      <title>Talk to ChatGPT Work</title>
+      <link>https://www.youtube.com/watch?v=DLcQSp_CIIc</link>
+      <description>Brainstorm out loud and turn your ideas into a presentation with Voice in ChatGPT Work. In the desktop app, talk through ideas for a team event, ask ChatGPT to build a visual pitch deck, and review the result. You’ll also see how to continue the same task from your phone by connecting to your comput</description>
+      <pubDate>Fri, 28 Aug 2026 20:51:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DLcQSp_CIIc</guid>
+      <source url="https://www.youtube.com/watch?v=DLcQSp_CIIc">OpenAI</source>
     </item>
   </channel>
 </rss>
