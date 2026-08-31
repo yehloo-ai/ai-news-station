@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-31",
+  "attribution": {
+    "source": "AIHOT",
+    "canonical": "https://aihot.virxact.com/daily/2026-08-31"
+  },
+  "generatedAt": "2026-08-31T00:00:01.083Z",
+  "windowStart": "2026-08-30T00:00:00.000Z",
+  "windowEnd": "2026-08-31T00:00:00.000Z",
+  "lead": null,
+  "sections": [
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+          "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。",
+          "sourceUrl": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "permalink": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1"
+          }
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+          "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
+          "sourceUrl": "https://x.com/AYi_AInotes/status/2093864816079208512",
+          "sourceName": "X：阿易 AI Notes (@AYi_AInotes)",
+          "permalink": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed"
+          }
+        }
+      ]
+    }
+  ],
+  "flashes": []
+}
