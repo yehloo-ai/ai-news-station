@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:39:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:03:43 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>流量红利退潮，快手想用 AI 和老友们破局</title>
@@ -110,6 +110,14 @@ Microduck 足球赛｜图片来源：Hugging Face
       <source url="https://sspai.com/post/114027">少数派</source>
     </item>
     <item>
+      <title>VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」</title>
+      <link>https://www.qbitai.com/2026/08/481928.html</link>
+      <description>划重点：这次不是你挨家敲门，是VC排队来看你。</description>
+      <pubDate>Mon, 31 Aug 2026 13:20:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481928.html</guid>
+      <source url="https://www.qbitai.com/2026/08/481928.html">量子位</source>
+    </item>
+    <item>
       <title>全球仅剩三位数的物种，科学家却连一个准数都数不出来</title>
       <link>https://sspai.com/post/113827</link>
       <description>门前大桥下游过勺嘴鹬，快来快来数一数……这究竟怎么数呀？
@@ -199,14 +207,6 @@ Microduck 足球赛｜图片来源：Hugging Face
       <pubDate>Mon, 31 Aug 2026 05:58:57 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1677366?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1677366?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>「GPT-6」灰测demo刷屏！周四发布在即</title>
-      <link>https://www.qbitai.com/2026/08/481893.html</link>
-      <description>核弹爆炸</description>
-      <pubDate>Mon, 31 Aug 2026 04:47:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481893.html</guid>
-      <source url="https://www.qbitai.com/2026/08/481893.html">量子位</source>
     </item>
   </channel>
 </rss>
