@@ -5,8 +5,51 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 23:30:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:28:29 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>全球仅剩三位数的物种，科学家却连一个准数都数不出来</title>
+      <link>https://sspai.com/post/113827</link>
+      <description>门前大桥下游过勺嘴鹬，快来快来数一数……这究竟怎么数呀？
+查看全文</description>
+      <pubDate>Mon, 31 Aug 2026 10:53:32 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113827</guid>
+      <source url="https://sspai.com/post/113827">少数派</source>
+    </item>
+    <item>
+      <title>编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结</title>
+      <link>http://www.geekpark.net/news/369517</link>
+      <description>作者｜Moonshot
+
+编辑｜郑玄
+
+8 月 20 日晚，MoonshotAI 在 GitHub 上更新了 kimi-code 0.38.0。没有发布会，也没有新闻稿。但这条信息，被我通过千问部署的一个定时任务「捕获」了。
+很快，千问把一篇 3100 字的稿件推到了我的飞书上，题目是《月之暗面把 500 亿美元估值，押在了一个代码模型上》。
+
+图源：千问
+如果我在值班，可能这时才点开 GitHub，正在判断这个模型是正式版还是测试版。但千问已经找完资料，做完核查，完成了一篇新闻初稿。
+我是如何实现这些的？
+这要回到 8 月 7 日，千问 APP 完成了一次功能更新，包括上线针对复杂任务的「工</description>
+      <pubDate>Mon, 31 Aug 2026 09:14:19 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369517</guid>
+      <source url="http://www.geekpark.net/news/369517">极客公园</source>
+    </item>
+    <item>
+      <title>派早报：GTA 6 引发请假玩游戏热潮</title>
+      <link>https://sspai.com/post/114022</link>
+      <description>GTA 6 引发请假玩游戏热潮Sam Altman 为 OpenAI 高管定制豪华表海信发布 A10 系列墨水屏手机Pixel 11 削减内存安全特性，GrapheneOS 考虑放弃支持「承重」等 Claude 滥用词在 GitHub 蔓延工信部曝光车企监督检查典型案例看看就行的简讯少数派的近期动态你可能错过的好文章查看全文</description>
+      <pubDate>Mon, 31 Aug 2026 06:59:06 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114022</guid>
+      <source url="https://sspai.com/post/114022">少数派</source>
+    </item>
+    <item>
+      <title>「GPT-6」灰测demo刷屏！周四发布在即</title>
+      <link>https://www.qbitai.com/2026/08/481893.html</link>
+      <description>核弹爆炸</description>
+      <pubDate>Mon, 31 Aug 2026 04:47:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481893.html</guid>
+      <source url="https://www.qbitai.com/2026/08/481893.html">量子位</source>
+    </item>
     <item>
       <title>折叠屏的尽头，是不折叠：华为 Pura X View 体验</title>
       <link>http://www.geekpark.net/news/369558</link>
@@ -41,6 +84,130 @@ Pura X View 到办公室的第一天，来围观的同事，好几个人的第�
       <source url="http://www.geekpark.net/news/369558">极客公园</source>
     </item>
     <item>
+      <title>OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了</title>
+      <link>https://www.qbitai.com/2026/08/481759.html</link>
+      <description>什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac</description>
+      <pubDate>Mon, 31 Aug 2026 03:24:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481759.html</guid>
+      <source url="https://www.qbitai.com/2026/08/481759.html">量子位</source>
+    </item>
+    <item>
+      <title>全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队</title>
+      <link>https://www.qbitai.com/2026/08/481750.html</link>
+      <description>灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。</description>
+      <pubDate>Mon, 31 Aug 2026 03:11:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481750.html</guid>
+      <source url="https://www.qbitai.com/2026/08/481750.html">量子位</source>
+    </item>
+    <item>
+      <title>AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验</title>
+      <link>https://www.qbitai.com/2026/08/481475.html</link>
+      <description>自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。</description>
+      <pubDate>Mon, 31 Aug 2026 03:01:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481475.html</guid>
+      <source url="https://www.qbitai.com/2026/08/481475.html">量子位</source>
+    </item>
+    <item>
+      <title>早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备</title>
+      <link>https://www.ifanr.com/1677344?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· Codex 修复 8 类额度异常，最高可多用 50%
+· 乔布斯八年级科学展项目以 34375 美元成交
+· 曝小米测试智能防窥屏，可按应用和敏感页面自动启用#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 31 Aug 2026 00:02:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1677344?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1677344?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization</title>
+      <link>https://arxiv.org/abs/2608.27507</link>
+      <description>arXiv:2608.27507v1 Announce Type: new 
+Abstract: Policy Gradient for Parallel State Entropy maximization (PGPSE) expands state-space coverage by training independently parameterized policies in replicated copies of the same environment. However, its pooled team-entropy score measures only collective</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27507</guid>
+      <source url="https://arxiv.org/abs/2608.27507">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap</title>
+      <link>https://arxiv.org/abs/2608.27512</link>
+      <description>arXiv:2608.27512v1 Announce Type: new 
+Abstract: Post-training quantization is often treated as a semantically neutral optimization for edge deployment of Large Language Models. When a full-precision source checkpoint is evaluated and quantization is applied downstream without equivalent re-evaluati</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27512</guid>
+      <source url="https://arxiv.org/abs/2608.27512">ArXiv ML</source>
+    </item>
+    <item>
+      <title>DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization</title>
+      <link>https://arxiv.org/abs/2608.27513</link>
+      <description>arXiv:2608.27513v1 Announce Type: new 
+Abstract: Softmax attention stores key and value vectors for every preceding token, causing inference memory to grow with sequence length. Recent language models incorporating Gated DeltaNet (GDN) or Kimi Delta Attention (KDA) reduce this cost by replacing the </description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27513</guid>
+      <source url="https://arxiv.org/abs/2608.27513">ArXiv ML</source>
+    </item>
+    <item>
+      <title>A Deeper Analysis of Block-Sparse Featurizers</title>
+      <link>https://arxiv.org/abs/2608.27515</link>
+      <description>arXiv:2608.27515v1 Announce Type: new 
+Abstract: The recently introduced block-sparse featurizer (BSF; Fel et al., 2026) is similar to a sparse autoencoder (SAE), but its atomic unit is a small subspace (a block of directions) rather than a single direction. It is designed for features that live on </description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27515</guid>
+      <source url="https://arxiv.org/abs/2608.27515">ArXiv ML</source>
+    </item>
+    <item>
+      <title>When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging</title>
+      <link>https://arxiv.org/abs/2608.27518</link>
+      <description>arXiv:2608.27518v1 Announce Type: new 
+Abstract: Continual learning (CL) and model merging (MM) both aim to obtain a single model that performs well across multiple tasks, challenged respectively by catastrophic forgetting and weight-disentanglement error. In the literature, these difficulties are m</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27518</guid>
+      <source url="https://arxiv.org/abs/2608.27518">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Accelerating LLM Inference via Vector Index Based Output Embeddings</title>
+      <link>https://arxiv.org/abs/2608.27460</link>
+      <description>arXiv:2608.27460v1 Announce Type: new 
+Abstract: Large output embedding matrices create a significant memory bandwidth bottleneck during autoregressive decoding, especially for compact LLMs with large multilingual vocabularies. We reformulate the output projection followed by top-k token selection a</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27460</guid>
+      <source url="https://arxiv.org/abs/2608.27460">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>SciReC: Diagnostic Evaluation of Multimodal, Multi-Turn Relational Reasoning with Adaptive Interaction</title>
+      <link>https://arxiv.org/abs/2608.27461</link>
+      <description>arXiv:2608.27461v1 Announce Type: new 
+Abstract: Relational reasoning requires the process of perceptual understanding, comparing, and integrating the underlying relationships between concepts. This ability consists of multiple categories, such as analogical, structural, and cause-effect, each captu</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27461</guid>
+      <source url="https://arxiv.org/abs/2608.27461">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>Sledgehammer or Scalpel? A Fine-grained Adaptive Framework for Implicit Hate Speech</title>
+      <link>https://arxiv.org/abs/2608.27462</link>
+      <description>arXiv:2608.27462v1 Announce Type: new 
+Abstract: Unlike explicit attacks with obvious profanity, implicit hate speech hides malice within seemingly compliant expressions through metaphors and contextual hints, making its detection in online content review challenging. While existing PLM- or LLM-base</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27462</guid>
+      <source url="https://arxiv.org/abs/2608.27462">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>The Effect of Emotional Context on Large Language Models' Endorsement of Premature Decisions: Comparing Emotional Vulnerability Across Six Commercial Models</title>
+      <link>https://arxiv.org/abs/2608.27465</link>
+      <description>arXiv:2608.27465v1 Announce Type: new 
+Abstract: As large language models (LLMs) are increasingly used for everyday decision-making advice, whether a model shifts the direction of its advice according to the user's emotional state has become an important safety problem. We test whether emotional exp</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27465</guid>
+      <source url="https://arxiv.org/abs/2608.27465">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>PACE: Publisher-Adaptive Content Extraction via Agentic Automation</title>
+      <link>https://arxiv.org/abs/2608.27466</link>
+      <description>arXiv:2608.27466v1 Announce Type: new 
+Abstract: Web content extraction is essential for reliable LLM data pipelines, yet existing methods often struggle to jointly satisfy accuracy, scalability, and adaptability. General-purpose extractors can be applied broadly, but they are often brittle on publi</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.27466</guid>
+      <source url="https://arxiv.org/abs/2608.27466">ArXiv NLP</source>
+    </item>
+    <item>
       <title>造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌</title>
       <link>http://www.geekpark.net/news/369556</link>
       <description>如果给模型安装个身体？你会选择什么。
@@ -50,178 +217,6 @@ Pura X View 到办公室的第一天，来围观的同事，好几个人的第�
       <pubDate>Sun, 30 Aug 2026 18:58:17 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369556</guid>
       <source url="http://www.geekpark.net/news/369556">极客公园</source>
-    </item>
-    <item>
-      <title>OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了</title>
-      <link>http://www.geekpark.net/news/369555</link>
-      <description>9 个月之后，OpenAI 的首款芯片成绩单终于揭晓了。
-8 月 25 日，在 Hot Chips 大会上，OpenAI 硬件负责人 Richard Ho 站上讲台，公布了 Jalape&amp;ntilde;o 芯片的第一份公开跑分。
-
-在 SemiAnalysis 的 InferenceX 基准测试中，这颗 OpenAI 与博通联合打造的推理芯片，在「每用户 token 数」和「每千瓦吞吐量」两项关键指标上，双双超过了当下市面上最先进的推理处理器英伟达 Blackwell 系统。
-具体而言，OpenAI 用 SemiAnalysis 的公开基准工具 InferenceX，在 GPT-OSS 120</description>
-      <pubDate>Sun, 30 Aug 2026 18:53:09 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369555</guid>
-      <source url="http://www.geekpark.net/news/369555">极客公园</source>
-    </item>
-    <item>
-      <title>城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营</title>
-      <link>https://sspai.com/post/113974</link>
-      <description>我种草佛罗伦萨的理由绝对是世所罕见：因为SEVENTEEN的NanaTour有很大一部分是在佛罗伦萨及其周边拍摄的。从去年夏天看了这个综艺开始，我就一直对这个地方念念不忘，心想夏日的意大利到底是有何种 ...查看全文</description>
-      <pubDate>Sun, 30 Aug 2026 15:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113974</guid>
-      <source url="https://sspai.com/post/113974">少数派</source>
-    </item>
-    <item>
-      <title>OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元</title>
-      <link>http://www.geekpark.net/news/369551</link>
-      <description>OpenAI 终止与 Cursor 合作
-8 月 29 日消息，OpenAI 以「无法信任 SpaceX 遵守服务条款」为由，终止向已被 SpaceX 收购的 AI 编程工具 Cursor 提供模型支持。Cursor 对 OpenAI 模型的直接访问权限将于 11 月 12 日终止。
-
-OpenAI 在其官方网站发布的公告中明确表示，终止合作的决定「归根结底在于信任问题」。
-OpenAI 列举了两起具体事件作为依据：
-第一，Twitter（现已成为 SpaceX 的一部分）在马斯克收购后违反了与 OpenAI 的合同条款。相关诉讼至今仍是双方纠纷的背景。
-第二，xAI（同样已并入 SpaceX</description>
-      <pubDate>Sun, 30 Aug 2026 08:28:43 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369551</guid>
-      <source url="http://www.geekpark.net/news/369551">极客公园</source>
-    </item>
-    <item>
-      <title>腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷</title>
-      <link>http://www.geekpark.net/news/369550</link>
-      <description>&amp;nbsp;
-8 月 28 日，腾讯发布并开源混元 Hy4 preview。
-这是继 Hy3 正式版之后，腾讯推出的新一代大模型：总参数从 295B 增加到 770B，激活参数从 21B 增加到 49B，上下文长度也从 256K 扩展至 1M。模型已经同步进入 WorkBuddy、CodeBuddy、元宝和 ima，并可通过腾讯云 TokenHub 及 OpenRouter 调用。
-此外，Hy4 preview 继续走普惠的高性价比路线。根据公布的价格信息，Hy4 preview 输入 6 元/百万 tokens，输出 18 元/百万 tokens，缓存命中 0.3 元/百万 tokens。
-</description>
-      <pubDate>Sat, 29 Aug 2026 13:58:53 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369550</guid>
-      <source url="http://www.geekpark.net/news/369550">极客公园</source>
-    </item>
-    <item>
-      <title>AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑</title>
-      <link>https://www.qbitai.com/2026/08/481372.html</link>
-      <description>推理软件栈的微小差异，就能改变输出token</description>
-      <pubDate>Sat, 29 Aug 2026 13:11:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481372.html</guid>
-      <source url="https://www.qbitai.com/2026/08/481372.html">量子位</source>
-    </item>
-    <item>
-      <title>去年归国的徐梦迪，成了清华姚班班主任</title>
-      <link>https://www.qbitai.com/2026/08/481318.html</link>
-      <description>本科读车辆工程，如今教AI第一班</description>
-      <pubDate>Sat, 29 Aug 2026 13:01:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481318.html</guid>
-      <source url="https://www.qbitai.com/2026/08/481318.html">量子位</source>
-    </item>
-    <item>
-      <title>Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员</title>
-      <link>https://www.qbitai.com/2026/08/481223.html</link>
-      <description>AI「自进化」，越来越近了</description>
-      <pubDate>Sat, 29 Aug 2026 12:50:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481223.html</guid>
-      <source url="https://www.qbitai.com/2026/08/481223.html">量子位</source>
-    </item>
-    <item>
-      <title>20ms把PDF变成Markdown！开源OCR神器快了近300倍</title>
-      <link>https://www.qbitai.com/2026/08/481075.html</link>
-      <description>3秒可处理200份PDF</description>
-      <pubDate>Sat, 29 Aug 2026 12:26:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/481075.html</guid>
-      <source url="https://www.qbitai.com/2026/08/481075.html">量子位</source>
-    </item>
-    <item>
-      <title>Coding不再是程序员专属！阿里Qoder这波有点绝</title>
-      <link>https://www.qbitai.com/2026/08/480940.html</link>
-      <description>Coding正在变成Al世界的数字执行力</description>
-      <pubDate>Sat, 29 Aug 2026 12:11:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480940.html</guid>
-      <source url="https://www.qbitai.com/2026/08/480940.html">量子位</source>
-    </item>
-    <item>
-      <title>OpenClaw：红过，爱过，散了</title>
-      <link>https://www.qbitai.com/2026/08/480855.html</link>
-      <description>龙虾退潮，Harness上位</description>
-      <pubDate>Sat, 29 Aug 2026 12:00:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480855.html</guid>
-      <source url="https://www.qbitai.com/2026/08/480855.html">量子位</source>
-    </item>
-    <item>
-      <title>32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作</title>
-      <link>https://www.qbitai.com/2026/08/480787.html</link>
-      <description>从剧本到成片</description>
-      <pubDate>Sat, 29 Aug 2026 11:35:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/480787.html</guid>
-      <source url="https://www.qbitai.com/2026/08/480787.html">量子位</source>
-    </item>
-    <item>
-      <title>2026 烟灶选购指南</title>
-      <link>https://sspai.com/post/112775</link>
-      <description>如何在新老国标换代这一年买到合适自己的烟机灶具呢？查看全文</description>
-      <pubDate>Sat, 29 Aug 2026 09:20:06 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112775</guid>
-      <source url="https://sspai.com/post/112775">少数派</source>
-    </item>
-    <item>
-      <title>Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃</title>
-      <link>http://www.geekpark.net/news/369549</link>
-      <description>消息称 Anthropic 最早 10 天后公布招股书
-据知情人士称，Anthropic 计划在美国劳动节（9 月 7 日）后公布其 IPO 招股说明书，并可能在 9 月下旬或 10 月初在美上市。
-该公司拟允许现有股东在 IPO 中出售股份，部分股东的禁售期可能超过 180 天，这将降低 IPO 后的抛售压力。
-报道称，Anthropic 希望在 IPO 中筹集至少 1300 亿美元以扩张算力，这将超过 6 月上市的 SpaceX，当时其筹集了 860 亿美元。（来源：财联社）
-
-腾讯发布混元 Hy4 preview 模型
-8 月 28 日，腾讯发布并开源混元 Hy4 preview。
-这是</description>
-      <pubDate>Sat, 29 Aug 2026 08:32:32 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369549</guid>
-      <source url="http://www.geekpark.net/news/369549">极客公园</source>
-    </item>
-    <item>
-      <title>Magic Manga Girl (:30)</title>
-      <link>https://www.youtube.com/watch?v=S6TIVzqTmu8</link>
-      <description>Turn any idea into a finished design with layouts and text using ChatGPT Images.</description>
-      <pubDate>Sat, 29 Aug 2026 05:22:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=S6TIVzqTmu8</guid>
-      <source url="https://www.youtube.com/watch?v=S6TIVzqTmu8">OpenAI</source>
-    </item>
-    <item>
-      <title>Tennis (:30)</title>
-      <link>https://www.youtube.com/watch?v=IEpTT48oW5Y</link>
-      <description>Turn your image into any art style you can imagine with ChatGPT Images.</description>
-      <pubDate>Sat, 29 Aug 2026 05:22:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=IEpTT48oW5Y</guid>
-      <source url="https://www.youtube.com/watch?v=IEpTT48oW5Y">OpenAI</source>
-    </item>
-    <item>
-      <title>早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万</title>
-      <link>https://www.ifanr.com/1676877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 意大利拟对过马路看手机的行人罚款 75 欧元
-· 电动重卡销量上升，商业险却成了上路难题
-· 国家发改委：机器人产业要防止盲目跟风、一哄而上#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 29 Aug 2026 00:21:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Coding 自由之后，人开始成为最大的瓶颈</title>
-      <link>http://www.geekpark.net/news/369547</link>
-      <description>过去，一个人有了一个产品想法，首先遇到的问题可能是：我会不会编程？我要不要组一个团队？甚至，要不要先去融一笔钱？
-但 AI Coding 正在改变这条路径。
-在 TRAE AI 创造力大赛现场，极客公园创始人张鹏和科技创作者小狮日记、参赛选手不憨，以及 TRAE 核心开发者天猪坐到了一起。
-小狮日记用一周时间做出了帮助老人记录一生的「人生之书」；不憨用两天做出了可以挥舞双手、在空气中创作音乐的「空气指挥家」。过去可能因为成本、技术或者需求过于小众而止步于想法的东西，现在正在迅速成为可以运行的产品。
-于是，一个新的问题出现了：
-当「做出来」越来越容易之后，什么才真正决定一个产品的价值？当 Cod</description>
-      <pubDate>Fri, 28 Aug 2026 21:02:58 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369547</guid>
-      <source url="http://www.geekpark.net/news/369547">极客公园</source>
-    </item>
-    <item>
-      <title>Use Your Computer and Browser</title>
-      <link>https://www.youtube.com/watch?v=981SivztzOc</link>
-      <description>See how ChatGPT Work can help with tasks in your desktop apps and browser. Use Computer to start music in Spotify, then combine Chrome and Google Calendar to prepare a time-off request and an out-of-office event. Learn how to share screen context with Appshots, grant access, and review the drafts be</description>
-      <pubDate>Fri, 28 Aug 2026 20:51:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=981SivztzOc</guid>
-      <source url="https://www.youtube.com/watch?v=981SivztzOc">OpenAI</source>
     </item>
   </channel>
 </rss>
