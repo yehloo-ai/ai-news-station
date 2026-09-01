@@ -1,22 +1,17 @@
 {
-  "generatedAt": "2026-09-01T06:32:36.732Z",
+  "generatedAt": "2026-09-01T17:22:22.850Z",
   "umami": {
     "error": null,
     "today": {
-      "visitors": 1,
-      "pageviews": 1
+      "visitors": 0,
+      "pageviews": 0
     },
     "last30d": {
       "visitors": 33,
-      "pageviews": 91,
-      "visits": 52
+      "pageviews": 89,
+      "visits": 51
     },
     "series": [
-      {
-        "date": "2026-08-03",
-        "pageviews": 1,
-        "visitors": 1
-      },
       {
         "date": "2026-08-04",
         "pageviews": 2,
@@ -154,11 +149,16 @@
       },
       {
         "date": "2026-08-31",
-        "pageviews": 1,
-        "visitors": 1
+        "pageviews": 3,
+        "visitors": 3
       },
       {
         "date": "2026-09-01",
+        "pageviews": 0,
+        "visitors": 0
+      },
+      {
+        "date": "2026-09-02",
         "pageviews": 0,
         "visitors": 0
       }
@@ -181,7 +181,7 @@
         "visitors": 1
       },
       {
-        "code": "NL",
+        "code": "CA",
         "visitors": 1
       },
       {
@@ -189,14 +189,14 @@
         "visitors": 1
       },
       {
-        "code": "CA",
+        "code": "NL",
         "visitors": 1
       }
     ],
     "referrers": [
       {
         "domain": "github.com",
-        "visitors": 1
+        "visitors": 2
       }
     ]
   },
