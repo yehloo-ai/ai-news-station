@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-29",
+  "updatedAt": "2026-09-01",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-09-01",
+      "company": "Runway",
+      "model": "Solaris",
+      "type": "图像",
+      "specs": [
+        "实时"
+      ],
+      "highlight": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World ",
+      "sourceUrl": "https://runwayml.com/news/research/introducing-solaris",
+      "sourceName": "Runway：News（网页）",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-08-29",
       "company": "腾讯",
