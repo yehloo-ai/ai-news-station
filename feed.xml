@@ -5,8 +5,18 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 14:51:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:29:39 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Introducing Claude Fable 5.1</title>
+      <link>https://www.youtube.com/watch?v=ROF2Nv_KjOM</link>
+      <description>Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its research capabilities offer an early glimpse of how AI will contribute to scientific progress.
+
+It excels at complex, multi-step work, like a long mathematical proof or a con</description>
+      <pubDate>Tue, 01 Sep 2026 18:02:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ROF2Nv_KjOM</guid>
+      <source url="https://www.youtube.com/watch?v=ROF2Nv_KjOM">Anthropic</source>
+    </item>
     <item>
       <title>社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验</title>
       <link>https://sspai.com/post/114078</link>
@@ -14,6 +24,14 @@
       <pubDate>Tue, 01 Sep 2026 17:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114078</guid>
       <source url="https://sspai.com/post/114078">少数派</source>
+    </item>
+    <item>
+      <title>3899 元！戴森发布 AI 牙刷：有水牙线不够，还要塞个摄像头</title>
+      <link>https://www.ifanr.com/1678053?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>电动牙刷，还能有什么新花样？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 01 Sep 2026 15:44:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678053?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678053?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会</title>
@@ -165,24 +183,6 @@ Sending lots o</description>
       <pubDate>Tue, 01 Sep 2026 04:12:49 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/482300.html</guid>
       <source url="https://www.qbitai.com/2026/09/482300.html">量子位</source>
-    </item>
-    <item>
-      <title>像素级抄袭小米？13 万的极狐阿尔法 T7 边翻车边庆功</title>
-      <link>https://www.ifanr.com/1677538?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>骗骗大伙儿可以，别把自己骗了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 01 Sep 2026 00:45:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1677538?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1677538?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>早报｜库克卸任苹果CEO,内部告别信曝光/《牛来》密钥延期,冲刺国庆档/网易云音乐鸿蒙版开放测试</title>
-      <link>https://www.ifanr.com/1677753?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· Codex 活跃用户增至 2500 万，OpenAI 再次重置付费用户额度
-· 小米澎程 N90 Max 京沪实测 1230 公里，到达后表显还剩 54 公里
-· 小红书小范围内测「发日常」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 01 Sep 2026 00:16:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1677753?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1677753?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
