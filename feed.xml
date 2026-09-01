@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 05:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:04:07 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会</title>
+      <link>https://sspai.com/post/114071</link>
+      <description>北京时间9月10日凌晨，Apple一年一度的秋季特别活动即将拉开帷幕，我们会在Keynote讲演环节中见到新一年度的iPhone、AppleWatch等多个新品。除了备受期待的iPhone18Pro系 ...查看全文</description>
+      <pubDate>Tue, 01 Sep 2026 15:18:43 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114071</guid>
+      <source url="https://sspai.com/post/114071">少数派</source>
+    </item>
+    <item>
+      <title>开学季｜值得关注的官翻渠道汇总（2026）</title>
+      <link>https://sspai.com/post/114062</link>
+      <description>不管你是大学新生想要购置数码产品，还是即将踏入职场的毕业生租房想要添置小家电，在处于身份和环境转换的新阶段里，都可以试着把钱用在刀刃上、选择性价比更高的产品和销售渠道。查看全文</description>
+      <pubDate>Tue, 01 Sep 2026 15:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114062</guid>
+      <source url="https://sspai.com/post/114062">少数派</source>
+    </item>
     <item>
       <title>线索若隐若现：深入 Tim Cook 和 Nike 的商业连接</title>
       <link>https://sspai.com/post/111081</link>
@@ -14,6 +30,23 @@
       <pubDate>Tue, 01 Sep 2026 11:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/111081</guid>
       <source url="https://sspai.com/post/111081">少数派</source>
+    </item>
+    <item>
+      <title>This AI Has 320 Billion Parameters. It Barely Uses Them.</title>
+      <link>https://www.youtube.com/watch?v=w9RDunJACkc</link>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
+
+📝 GLM 5.3 Flash:
+https://z.ai/blog/glm-5.3-flash
+
+Sources:
+https://x.com/louszbd/status/2092694163104113016
+https://x.com/semianalysis_/status/2092623833630998556
+https://x.com/skalskip92/status/2092748209802154201
+h</description>
+      <pubDate>Tue, 01 Sep 2026 09:04:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=w9RDunJACkc</guid>
+      <source url="https://www.youtube.com/watch?v=w9RDunJACkc">Two Minute Papers</source>
     </item>
     <item>
       <title>库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道</title>
@@ -36,6 +69,22 @@ Sending lots o</description>
       <pubDate>Tue, 01 Sep 2026 08:17:20 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114055</guid>
       <source url="https://sspai.com/post/114055">少数派</source>
+    </item>
+    <item>
+      <title>自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning</title>
+      <link>https://www.qbitai.com/2026/09/482337.html</link>
+      <description>参数冻结，能力暴涨</description>
+      <pubDate>Tue, 01 Sep 2026 05:12:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482337.html</guid>
+      <source url="https://www.qbitai.com/2026/09/482337.html">量子位</source>
+    </item>
+    <item>
+      <title>AIVC只是前菜！复旦提出生命算子，统一生命建模</title>
+      <link>https://www.qbitai.com/2026/09/482300.html</link>
+      <description>连发六篇Nature期刊，复旦Neolab打通全尺度生命推演</description>
+      <pubDate>Tue, 01 Sep 2026 04:12:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482300.html</guid>
+      <source url="https://www.qbitai.com/2026/09/482300.html">量子位</source>
     </item>
     <item>
       <title>像素级抄袭小米？13 万的极狐阿尔法 T7 边翻车边庆功</title>
@@ -144,51 +193,6 @@ Abstract: Reasoning models do not stop when they know the answer. On DeepSeek-R1
       <pubDate>Tue, 01 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2608.28859</guid>
       <source url="https://arxiv.org/abs/2608.28859">ArXiv ML</source>
-    </item>
-    <item>
-      <title>NLP-Driven Knowledge Extraction and Thematic Classification of Translated Ancient Indian Medical Texts</title>
-      <link>https://arxiv.org/abs/2608.28608</link>
-      <description>arXiv:2608.28608v1 Announce Type: new 
-Abstract: Ancient Indian medical texts like Sushruta Samhita have extensive information on diseases, treatments, and surgical techniques. Yet, their ancient format and use of intricate vocabulary pose difficulties in accessibility and systematic ordering. The r</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.28608</guid>
-      <source url="https://arxiv.org/abs/2608.28608">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Parametric Multimodal User Memory: Storing What Captions Cannot Carry</title>
-      <link>https://arxiv.org/abs/2608.28609</link>
-      <description>arXiv:2608.28609v1 Announce Type: new 
-Abstract: A personalized agent needs a user memory: a persistent model of who its user is. Today it is almost always text -- transcripts and captions retrieved by similarity. This serves the captionable half of a person ("my cat is named Bibi"), but discards th</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.28609</guid>
-      <source url="https://arxiv.org/abs/2608.28609">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Gurukul AI: An Interactive AI-Driven Educational Platform for Indian Education System</title>
-      <link>https://arxiv.org/abs/2608.28611</link>
-      <description>arXiv:2608.28611v1 Announce Type: new 
-Abstract: Recent advances in large language models (LLMs) like ChatGPT and LLaMA have transformed AI-driven education, but these systems are predominantly trained on Western-centric data, making them ill-suited for regional curricula like India's. The Indian ed</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.28611</guid>
-      <source url="https://arxiv.org/abs/2608.28611">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>STAGEET: Stage-wise Typed Edit Tagging for Grammatical Error Correction with Arabic as a Case Study</title>
-      <link>https://arxiv.org/abs/2608.28614</link>
-      <description>arXiv:2608.28614v1 Announce Type: new 
-Abstract: Sequence-to-edit approaches make grammatical error correction (GEC) efficient and locally interpretable by predicting edit labels over the input rather than generating a full corrected sentence. Their interpretability, however, is primarily operationa</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.28614</guid>
-      <source url="https://arxiv.org/abs/2608.28614">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>From GenAI Virtual Patient Dialogue Logs to Teacher-Interpretable Process Evidence: A Learning Analytics Study in Higher Education</title>
-      <link>https://arxiv.org/abs/2608.28619</link>
-      <description>arXiv:2608.28619v1 Announce Type: new 
-Abstract: Medical history taking is a dialogue-based clinical reasoning task in which learners must gather, organise, and integrate patient information while the consultation unfolds. Generative AI-powered virtual patients (GenAI VPs) make repeated history taki</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.28619</guid>
-      <source url="https://arxiv.org/abs/2608.28619">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
