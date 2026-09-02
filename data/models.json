@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-02",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-09-02",
+      "company": "OpenAI",
+      "model": "Critical",
+      "type": "语言",
+      "specs": [],
+      "highlight": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 ",
+      "sourceUrl": "https://openai.com/index/path-to-astra",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-09-02",
+      "company": "Anthropic",
+      "model": "Claude Mythos 5.1",
+      "type": "语言",
+      "specs": [],
+      "highlight": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1",
+      "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#september-1-2026",
+      "sourceName": "Claude Platform：开发者版本说明（RSS）",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-09-01",
       "company": "Runway",
