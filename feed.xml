@@ -5,8 +5,26 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 02 Sep 2026 21:50:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 00:12:02 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/369745</link>
+      <description>谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景
+9 月 2 日消息，谷歌在 Google DeepMind 网站低调上线了 Gemini 3.8 Flash 模型。其基于 Gemini 3.7 Flash，拥有在软件工程和智能体知识工作流方面的性能提升，并持续支持可定制的努力水平，以控制质量、成本和延迟的组合。
+Gemini 3.8 Flash 基于 Gemini 3.7 Flash，具有最高 1M 的 token 上下文窗口，文本支持 64K token 输出。官方还公布了多项基准测试评估结果，涵盖编程、知识处理、多模态处理能力、长上下文处理、计算机使用能力</description>
+      <pubDate>Thu, 03 Sep 2026 08:03:32 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369745</guid>
+      <source url="http://www.geekpark.net/news/369745">极客公园</source>
+    </item>
+    <item>
+      <title>Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍</title>
+      <link>https://www.ifanr.com/1678197?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>Gemini 圣质如初#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 02 Sep 2026 22:52:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678197?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678197?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？</title>
       <link>https://sspai.com/post/114084</link>
@@ -186,22 +204,6 @@ Violoop 是一款巴掌大小的硬件，即插即用，V4 版本通过一根 Ty
       <pubDate>Wed, 02 Sep 2026 02:48:06 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/482967.html</guid>
       <source url="https://www.qbitai.com/2026/09/482967.html">量子位</source>
-    </item>
-    <item>
-      <title>Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线</title>
-      <link>https://www.qbitai.com/2026/09/482652.html</link>
-      <description>无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色</description>
-      <pubDate>Wed, 02 Sep 2026 02:18:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482652.html</guid>
-      <source url="https://www.qbitai.com/2026/09/482652.html">量子位</source>
-    </item>
-    <item>
-      <title>香港首个真实开放场景服务机器人落地兰桂坊</title>
-      <link>https://www.qbitai.com/2026/09/482855.html</link>
-      <description>在香港兰桂坊，一位特殊的“酒保”正式上岗</description>
-      <pubDate>Wed, 02 Sep 2026 02:06:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482855.html</guid>
-      <source url="https://www.qbitai.com/2026/09/482855.html">量子位</source>
     </item>
   </channel>
 </rss>
