@@ -5,8 +5,18 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:32:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:44:06 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>逛完 WRC，我们发现机器人行业最该回答的 5 个问题</title>
+      <link>http://www.geekpark.net/news/369388</link>
+      <description>8 月 19 日，北京亦庄的空气里飘着一种奇怪的兴奋，这是 2026 世界机器人大会开幕的日子。300 多家企业、2000 多件展品，几乎把具身智能行业能拿出的东西都搬到了这里：大模型、本体、关键零部件、数据，应有尽有。
+开幕当天，宇树科技敲钟上市，盘中市值一度冲破 4000 亿元，这可能是过去十年，中国机器人行业最接近「资本狂欢」的一天。过去，机器人公司更多活在实验室、融资新闻和 Demo 视频里；而宇树的上市，第一次给这个仍处在早期的赛道钉下了一个资本锚点。
+除此之外，云深处科技进入交易所受理或审核环节；智元机器人则于 2026 年 7 月确认启动赴港上市流程。一级市场的热，正在向二级市场</description>
+      <pubDate>Thu, 03 Sep 2026 23:25:38 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369388</guid>
+      <source url="http://www.geekpark.net/news/369388">极客公园</source>
+    </item>
     <item>
       <title>新玩意 251｜少数派的编辑们最近买了啥？</title>
       <link>https://sspai.com/post/114154</link>
@@ -22,6 +32,16 @@
       <pubDate>Thu, 03 Sep 2026 15:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113998</guid>
       <source url="https://sspai.com/post/113998">少数派</source>
+    </item>
+    <item>
+      <title>WeatherNext 3: More accurate, timely, and local weather forecasts</title>
+      <link>https://www.youtube.com/watch?v=_6jZlnRsXXQ</link>
+      <description>WeatherNext 3: More accurate, timely, and local weather forecasts 
+
+Predicting the weather is one of the oldest, most complex challenges we face. Traditional numerical weather prediction models are powerful, but they can be slow to run and costly at a global scale. WeatherNext 3 takes a different ap</description>
+      <pubDate>Thu, 03 Sep 2026 14:58:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=_6jZlnRsXXQ</guid>
+      <source url="https://www.youtube.com/watch?v=_6jZlnRsXXQ">DeepMind</source>
     </item>
     <item>
       <title>成立不到一年连融三轮，这个睡眠 AI 产品「火」了</title>
@@ -86,44 +106,12 @@ MiniMax 先出：上半年收入 1.17 亿美元，同比增长 283%；8 月 ARR 
       <source url="https://sspai.com/post/113159">少数派</source>
     </item>
     <item>
-      <title>“没有Token的CS学生，应立即退学”</title>
-      <link>https://www.qbitai.com/2026/09/483839.html</link>
-      <description>禁止古法编程、Token自费</description>
-      <pubDate>Thu, 03 Sep 2026 11:32:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483839.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483839.html">量子位</source>
-    </item>
-    <item>
-      <title>腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场</title>
-      <link>https://www.qbitai.com/2026/09/483786.html</link>
-      <description>眼镜、耳机、麦克风都来了</description>
-      <pubDate>Thu, 03 Sep 2026 11:25:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483786.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483786.html">量子位</source>
-    </item>
-    <item>
       <title>730 马力+三把锁！传祺越 7 预售 17.18 万元起</title>
       <link>https://www.ifanr.com/1678320?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>越 7 并不只是长了一副方盒子的样子。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
       <pubDate>Thu, 03 Sep 2026 11:20:38 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1678320?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1678320?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！</title>
-      <link>https://www.qbitai.com/2026/09/483189.html</link>
-      <description>单图直出场景，顶会最佳论文落地</description>
-      <pubDate>Thu, 03 Sep 2026 10:18:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483189.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483189.html">量子位</source>
-    </item>
-    <item>
-      <title>陈大年复出，入局大模型</title>
-      <link>https://www.qbitai.com/2026/09/483600.html</link>
-      <description>首秀逼近DeepSeek万亿旗舰</description>
-      <pubDate>Thu, 03 Sep 2026 10:13:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483600.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483600.html">量子位</source>
     </item>
     <item>
       <title>派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等</title>
@@ -134,7 +122,7 @@ MiniMax 先出：上半年收入 1.17 亿美元，同比增长 283%；8 月 ARR 
       <source url="https://sspai.com/post/114113">少数派</source>
     </item>
     <item>
-      <title>克劳德寓言人工智能比头条新闻所暗示的要奇怪得多</title>
+      <title>Claude Fable AI Is Much Stranger Than The Headlines Suggest</title>
       <link>https://www.youtube.com/watch?v=B3LXEW4Pc-w</link>
       <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
 
@@ -156,38 +144,6 @@ Gemini 3.8 Flash 基于 Gemini 3.7 Flash，具有最高 1M 的 token 上下文�
       <source url="http://www.geekpark.net/news/369745">极客公园</source>
     </item>
     <item>
-      <title>一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠</title>
-      <link>https://www.qbitai.com/2026/09/483565.html</link>
-      <description>从工厂一路干到家庭</description>
-      <pubDate>Thu, 03 Sep 2026 03:16:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483565.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483565.html">量子位</source>
-    </item>
-    <item>
-      <title>神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光</title>
-      <link>https://www.qbitai.com/2026/09/483552.html</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:31:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483552.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483552.html">量子位</source>
-    </item>
-    <item>
-      <title>50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满</title>
-      <link>https://www.qbitai.com/2026/09/483462.html</link>
-      <description>4激光雷达+双M100上车</description>
-      <pubDate>Thu, 03 Sep 2026 01:27:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483462.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483462.html">量子位</source>
-    </item>
-    <item>
-      <title>今年最难的机器人Demo，“机器人含量”为0</title>
-      <link>https://www.qbitai.com/2026/09/483351.html</link>
-      <description>遥操，可能真的危险了</description>
-      <pubDate>Thu, 03 Sep 2026 00:51:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483351.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483351.html">量子位</source>
-    </item>
-    <item>
       <title>早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市</title>
       <link>https://www.ifanr.com/1678222?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>· 李飞飞发布世界模型 Atlas，用统一模型生成、重建与模拟三维世界
@@ -196,6 +152,60 @@ Gemini 3.8 Flash 基于 Gemini 3.7 Flash，具有最高 1M 的 token 上下文�
       <pubDate>Thu, 03 Sep 2026 00:22:35 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1678222?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1678222?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models</title>
+      <link>https://arxiv.org/abs/2609.01611</link>
+      <description>arXiv:2609.01611v1 Announce Type: new 
+Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01611</guid>
+      <source url="https://arxiv.org/abs/2609.01611">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI</title>
+      <link>https://arxiv.org/abs/2609.01685</link>
+      <description>arXiv:2609.01685v1 Announce Type: new 
+Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibit sufficiently inte</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01685</guid>
+      <source url="https://arxiv.org/abs/2609.01685">ArXiv AI</source>
+    </item>
+    <item>
+      <title>When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic</title>
+      <link>https://arxiv.org/abs/2609.01741</link>
+      <description>arXiv:2609.01741v1 Announce Type: new 
+Abstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extractors diverge on numeric-threshold presence at a false-negative rate of 0.43. We ask what formal log</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01741</guid>
+      <source url="https://arxiv.org/abs/2609.01741">ArXiv AI</source>
+    </item>
+    <item>
+      <title>When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection</title>
+      <link>https://arxiv.org/abs/2609.01814</link>
+      <description>arXiv:2609.01814v1 Announce Type: new 
+Abstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite discovery models. A centralized action-budget profile shows that equal one-person accuracy can coexist w</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01814</guid>
+      <source url="https://arxiv.org/abs/2609.01814">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Induction and Inquiry via Probabilistic Reasoning over Language and Code</title>
+      <link>https://arxiv.org/abs/2609.01815</link>
+      <description>arXiv:2609.01815v1 Announce Type: new 
+Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) data-efficient and c</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01815</guid>
+      <source url="https://arxiv.org/abs/2609.01815">ArXiv AI</source>
+    </item>
+    <item>
+      <title>WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling</title>
+      <link>https://arxiv.org/abs/2609.01608</link>
+      <description>arXiv:2609.01608v1 Announce Type: new 
+Abstract: Black-box optimization problems remain challenging because of large, weakly structured, and high-dimensional search spaces. Existing methods often suffer from poor sample efficiency because they rely on direct candidate generation or trial-and-error r</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01608</guid>
+      <source url="https://arxiv.org/abs/2609.01608">ArXiv ML</source>
     </item>
   </channel>
 </rss>
