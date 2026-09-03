@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 00:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:21:54 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等</title>
+      <link>https://sspai.com/post/114113</link>
+      <description>World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文</description>
+      <pubDate>Thu, 03 Sep 2026 08:31:14 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114113</guid>
+      <source url="https://sspai.com/post/114113">少数派</source>
+    </item>
     <item>
       <title>马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道</title>
       <link>http://www.geekpark.net/news/369745</link>
@@ -18,192 +26,163 @@ Gemini 3.8 Flash 基于 Gemini 3.7 Flash，具有最高 1M 的 token 上下文�
       <source url="http://www.geekpark.net/news/369745">极客公园</source>
     </item>
     <item>
-      <title>Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍</title>
-      <link>https://www.ifanr.com/1678197?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>Gemini 圣质如初#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 02 Sep 2026 22:52:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678197?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678197?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠</title>
+      <link>https://www.qbitai.com/2026/09/483565.html</link>
+      <description>从工厂一路干到家庭</description>
+      <pubDate>Thu, 03 Sep 2026 03:16:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483565.html</guid>
+      <source url="https://www.qbitai.com/2026/09/483565.html">量子位</source>
     </item>
     <item>
-      <title>折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？</title>
-      <link>https://sspai.com/post/114084</link>
-      <description>上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...查看全文</description>
-      <pubDate>Wed, 02 Sep 2026 17:40:56 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114084</guid>
-      <source url="https://sspai.com/post/114084">少数派</source>
-    </item>
-    <item>
-      <title>一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间</title>
-      <link>https://sspai.com/post/80562</link>
-      <description>Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35 天，35 天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。查看全文</description>
-      <pubDate>Wed, 02 Sep 2026 15:22:27 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/80562</guid>
-      <source url="https://sspai.com/post/80562">少数派</source>
-    </item>
-    <item>
-      <title>对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型</title>
-      <link>http://www.geekpark.net/news/369724</link>
-      <description>作者｜苏子华
-编辑｜靖宇
-
-机器人行业现在最关心的一个问题：它能干完一整件事吗？
-几十秒的抓取物品的视频已经撑不起估值了。把一件事从头干到尾，成了最新的考题，行业里叫它「长程任务」。
-8 月 19 日，世界机器人大会，一台机器人首次亮相，用 15 分钟回答了这道题：收拾客厅，检查冰箱，把烘干机里的衣服拿出来，放进新的一批，按下启动键，最后把衣服叠好。
-里面大概有七八十个动作，自主完成，全程没掉链子。
-
-正在忙活衣物烘洗家务的 MORPHI KINO 机器人｜图片来源：MORPHI
-&amp;nbsp;
-造它的公司叫墨奇（MORPHI），成立刚 8 个月。联合创始人黄青虬出生于 1994 年，清华自动化</description>
-      <pubDate>Wed, 02 Sep 2026 14:59:00 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369724</guid>
-      <source url="http://www.geekpark.net/news/369724">极客公园</source>
-    </item>
-    <item>
-      <title>从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价</title>
-      <link>http://www.geekpark.net/news/369719</link>
-      <description>作者｜苏子华
-编辑｜靖宇
-&amp;nbsp;
-
-
-极客公园最近发现，婴儿床这个品类正在被 AI，或者说被「具身智能」重新定价。从一张几百元的价格，直接抬升到一万元。
-婴儿床是少有的被技术「忽略」的家居品类。100 年来，它的形态几乎没有变过。四根立柱、一圈围栏、一张床垫。
-关键变化发生在过去五年。
-传感器、算法、电机第一次被装进一张床，价格随之跳升：美国智能婴儿床 SNOO 售价 1695 美元（约 1.2 万元人民币），Cradlewise 售价 1999 美元；而在今年年初的 CES 上，中国公司亲宝宝展示的 AI 睡眠舱，官方定价 8999 元人民币。
-目前只要打上「智能」的旗号，仅仅做到温度</description>
-      <pubDate>Wed, 02 Sep 2026 14:54:16 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369719</guid>
-      <source url="http://www.geekpark.net/news/369719">极客公园</source>
-    </item>
-    <item>
-      <title>硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文</title>
-      <link>http://www.geekpark.net/news/369718</link>
-      <description>作者｜苏子华
-编辑｜靖宇
-
-
-
-现场体验过 Violoop 之后，很多关于未来的「AI 助手」该长什么样、能做些什么、能力的极限究竟在哪的困惑，可能都会迎刃而解。
-因为 Violoop 已经把它们变成了现实。
-
-
-&amp;nbsp;
-Violoop 实物图｜图片来源：Violoop
-
-&amp;nbsp;
-Violoop 是一款巴掌大小的硬件，即插即用，V4 版本通过一根 Type-C 线连在电脑上，不挤占电脑的 CPU/GPU 资源。它可以通过实时读取电脑屏幕上的全局信息，获得用户全部的上下文，实现主动式的 AI 助手。
-极客公园获悉，Violoop 半年内完成了亿元级天使轮及 Pre-A 轮融资。联想创</description>
-      <pubDate>Wed, 02 Sep 2026 14:49:04 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369718</guid>
-      <source url="http://www.geekpark.net/news/369718">极客公园</source>
-    </item>
-    <item>
-      <title>50.98 万元！新理想 MEGA 发布：前两排零重力座椅，加入后轮转向，还要推出右舵版</title>
-      <link>https://www.ifanr.com/1678181?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>与 L9 Livis 同价。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 02 Sep 2026 14:28:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678181?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678181?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>比亚迪六座新旗舰！海狮 08 正式上市，22.99 万元起</title>
-      <link>https://www.ifanr.com/1678169?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>海洋网终于把大六座 SUV 补上了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 02 Sep 2026 11:48:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678169?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678169?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响</title>
-      <link>https://sspai.com/post/113581</link>
-      <description>近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...查看全文</description>
-      <pubDate>Wed, 02 Sep 2026 11:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113581</guid>
-      <source url="https://sspai.com/post/113581">少数派</source>
-    </item>
-    <item>
-      <title>李飞飞的 World Labs，把赛博朋克的「超梦」做出来了</title>
-      <link>https://www.ifanr.com/1678150?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>世界模型的「ChatGPT 时刻」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 02 Sep 2026 10:30:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678150?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678150?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来</title>
-      <link>https://www.qbitai.com/2026/09/483274.html</link>
-      <description>SkyProduction（天工工作台）全新版本于8月31日正式上线</description>
-      <pubDate>Wed, 02 Sep 2026 09:22:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483274.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483274.html">量子位</source>
-    </item>
-    <item>
-      <title>苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线</title>
-      <link>http://www.geekpark.net/news/369690</link>
-      <description>​
-苹果新任 CEO 约翰&amp;middot;特努斯在 X 平台发布首条动态向关注者问好
-苹果首席执行官约翰&amp;middot;特努斯正式加入社交平台 X，并发布了个人账号的首条动态。正如外界预料的那样，这条仅有「hello」五个字母的简短消息迅速获得大量关注。苹果历任首席执行官通常都具备一定的社交属性，而在当代，这往往也意味着拥有社交媒体账号。因此，随着特努斯正式接任苹果掌舵人，他也开设了自己的 X 账号。
-目前，账号 @johnternus 已经上线，并在特努斯担任苹果首席执行官的首个正式工作日公开亮相。根据账号资料显示，该账号早在 2026 年 6 月便已私下创建，但目前只发布过一条动态，内容是</description>
-      <pubDate>Wed, 02 Sep 2026 08:13:21 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369690</guid>
-      <source url="http://www.geekpark.net/news/369690">极客公园</source>
-    </item>
-    <item>
-      <title>派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等</title>
-      <link>https://sspai.com/post/114093</link>
-      <description>索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。查看全文</description>
-      <pubDate>Wed, 02 Sep 2026 07:58:40 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114093</guid>
-      <source url="https://sspai.com/post/114093">少数派</source>
-    </item>
-    <item>
-      <title>刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位</title>
-      <link>https://www.ifanr.com/1678079?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>大模型理解文字，李飞飞想让 Atlas 理解空间#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 02 Sep 2026 07:31:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678079?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678079?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍</title>
-      <link>https://www.qbitai.com/2026/09/483104.html</link>
-      <description>蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文</description>
-      <pubDate>Wed, 02 Sep 2026 06:20:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483104.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483104.html">量子位</source>
-    </item>
-    <item>
-      <title>阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一</title>
-      <link>https://www.qbitai.com/2026/09/483101.html</link>
+      <title>神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光</title>
+      <link>https://www.qbitai.com/2026/09/483552.html</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 06:10:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483101.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483101.html">量子位</source>
+      <pubDate>Thu, 03 Sep 2026 01:31:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483552.html</guid>
+      <source url="https://www.qbitai.com/2026/09/483552.html">量子位</source>
     </item>
     <item>
-      <title>前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局</title>
-      <link>https://www.qbitai.com/2026/09/483097.html</link>
-      <description>9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能</description>
-      <pubDate>Wed, 02 Sep 2026 06:06:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483097.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483097.html">量子位</source>
+      <title>50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满</title>
+      <link>https://www.qbitai.com/2026/09/483462.html</link>
+      <description>4激光雷达+双M100上车</description>
+      <pubDate>Thu, 03 Sep 2026 01:27:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483462.html</guid>
+      <source url="https://www.qbitai.com/2026/09/483462.html">量子位</source>
     </item>
     <item>
-      <title>13 年前被喷爆的 XBOX 功能，怎么成了游戏光盘最后的救命稻草？</title>
-      <link>https://www.ifanr.com/1677973?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>微软终于想通了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 02 Sep 2026 04:15:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1677973?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1677973?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>今年最难的机器人Demo，“机器人含量”为0</title>
+      <link>https://www.qbitai.com/2026/09/483351.html</link>
+      <description>遥操，可能真的危险了</description>
+      <pubDate>Thu, 03 Sep 2026 00:51:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483351.html</guid>
+      <source url="https://www.qbitai.com/2026/09/483351.html">量子位</source>
     </item>
     <item>
-      <title>企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资</title>
-      <link>https://www.qbitai.com/2026/09/482967.html</link>
-      <description>AI客服日扛1.5万通电话</description>
-      <pubDate>Wed, 02 Sep 2026 02:48:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482967.html</guid>
-      <source url="https://www.qbitai.com/2026/09/482967.html">量子位</source>
+      <title>早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市</title>
+      <link>https://www.ifanr.com/1678222?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 李飞飞发布世界模型 Atlas，用统一模型生成、重建与模拟三维世界
+· 豆包工作支持多 Agents 并行，Mac 版新增操作电脑
+· 加州通过律师使用生成式 AI 法案，禁止将法律执业委托给 AI#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 03 Sep 2026 00:22:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678222?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678222?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models</title>
+      <link>https://arxiv.org/abs/2609.01611</link>
+      <description>arXiv:2609.01611v1 Announce Type: new 
+Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01611</guid>
+      <source url="https://arxiv.org/abs/2609.01611">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI</title>
+      <link>https://arxiv.org/abs/2609.01685</link>
+      <description>arXiv:2609.01685v1 Announce Type: new 
+Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibit sufficiently inte</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01685</guid>
+      <source url="https://arxiv.org/abs/2609.01685">ArXiv AI</source>
+    </item>
+    <item>
+      <title>When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic</title>
+      <link>https://arxiv.org/abs/2609.01741</link>
+      <description>arXiv:2609.01741v1 Announce Type: new 
+Abstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extractors diverge on numeric-threshold presence at a false-negative rate of 0.43. We ask what formal log</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01741</guid>
+      <source url="https://arxiv.org/abs/2609.01741">ArXiv AI</source>
+    </item>
+    <item>
+      <title>When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection</title>
+      <link>https://arxiv.org/abs/2609.01814</link>
+      <description>arXiv:2609.01814v1 Announce Type: new 
+Abstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite discovery models. A centralized action-budget profile shows that equal one-person accuracy can coexist w</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01814</guid>
+      <source url="https://arxiv.org/abs/2609.01814">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Induction and Inquiry via Probabilistic Reasoning over Language and Code</title>
+      <link>https://arxiv.org/abs/2609.01815</link>
+      <description>arXiv:2609.01815v1 Announce Type: new 
+Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) data-efficient and c</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01815</guid>
+      <source url="https://arxiv.org/abs/2609.01815">ArXiv AI</source>
+    </item>
+    <item>
+      <title>WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling</title>
+      <link>https://arxiv.org/abs/2609.01608</link>
+      <description>arXiv:2609.01608v1 Announce Type: new 
+Abstract: Black-box optimization problems remain challenging because of large, weakly structured, and high-dimensional search spaces. Existing methods often suffer from poor sample efficiency because they rely on direct candidate generation or trial-and-error r</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01608</guid>
+      <source url="https://arxiv.org/abs/2609.01608">ArXiv ML</source>
+    </item>
+    <item>
+      <title>DiDrive: A Risk-Aware Hierarchical Diffusion Framework for Safe Offline Reinforcement Learning in Autonomous Driving</title>
+      <link>https://arxiv.org/abs/2609.01609</link>
+      <description>arXiv:2609.01609v1 Announce Type: new 
+Abstract: While diffusion models effectively capture multimodal behavioral priors for autonomous driving, offline reinforcement learning (RL) policies remain susceptible to distribution shift, heavy-tailed risk signals, out-of-distribution (OOD) action generati</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01609</guid>
+      <source url="https://arxiv.org/abs/2609.01609">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Prompt-Space Meta-Learning Does Not Transfer Across Users: A Frozen-LLM Negative Result</title>
+      <link>https://arxiv.org/abs/2609.01615</link>
+      <description>arXiv:2609.01615v1 Announce Type: new 
+Abstract: Personalizing a frozen large language model (LLM) to individual users is often framed as a meta-learning problem in prompt space: each user is a task, and one seeks a shared natural-language adaptation policy that, given a handful of the user's labele</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01615</guid>
+      <source url="https://arxiv.org/abs/2609.01615">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Efficient Context-Limited Telescope Bibliography Classification for the WASP-2025 Shared Task Using SciBERT</title>
+      <link>https://arxiv.org/abs/2609.01647</link>
+      <description>arXiv:2609.01647v1 Announce Type: new 
+Abstract: The creation of telescope bibliographies is a crucial part of assessing the scientific impact of observatories and ensuring reproducibility in astronomy. This task involves identifying, categorizing, and linking scientific publications that reference </description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01647</guid>
+      <source url="https://arxiv.org/abs/2609.01647">ArXiv ML</source>
+    </item>
+    <item>
+      <title>CliffRank: A Dual-Branch Framework for Activity-Cliff Ranking Prediction</title>
+      <link>https://arxiv.org/abs/2609.01673</link>
+      <description>arXiv:2609.01673v1 Announce Type: new 
+Abstract: Activity-cliff ranking remains difficult because local structural changes can cause large activity differences, while high-quality data that resolve the underlying mechanisms remain limited. To use available activity labels more effectively, we combin</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01673</guid>
+      <source url="https://arxiv.org/abs/2609.01673">ArXiv ML</source>
+    </item>
+    <item>
+      <title>PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation</title>
+      <link>https://arxiv.org/abs/2609.01658</link>
+      <description>arXiv:2609.01658v1 Announce Type: new 
+Abstract: Retrieval-Augmented Generation enhances Large Language Models by grounding responses in external knowledge, but multi-hop reasoning remains vulnerable to error propagation, where early retrieval failures confound subsequent steps. Standard outcome-bas</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01658</guid>
+      <source url="https://arxiv.org/abs/2609.01658">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>Learning Evidence Sufficiency Boundaries for Selective Answering in Grounded Multi-Hop QA</title>
+      <link>https://arxiv.org/abs/2609.01687</link>
+      <description>arXiv:2609.01687v1 Announce Type: new 
+Abstract: Grounded question answering systems should answer only when the supplied evidence supports the answer. In multi-hop QA, this requirement is difficult because partial evidence can make an unsupported answer appear plausible. We study selective answerin</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01687</guid>
+      <source url="https://arxiv.org/abs/2609.01687">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>SpeakPay: Domain-Adaptive LoRA Fine-Tuning of Whisper for Low-Resource Nepali Financial Speech Recognition</title>
+      <link>https://arxiv.org/abs/2609.01737</link>
+      <description>arXiv:2609.01737v1 Announce Type: new 
+Abstract: Mobile payment applications in Nepal are graphically mediated and largely inaccessible to visually impaired users. This paper presents SpeakPay, a voice-first digital wallet, and documents the central technical contribution: a controlled study of doma</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01737</guid>
+      <source url="https://arxiv.org/abs/2609.01737">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
