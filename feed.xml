@@ -5,8 +5,78 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 04:21:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:45:24 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验</title>
+      <link>https://sspai.com/post/113998</link>
+      <description>这篇文章是TDSStudio在少数派上的第30篇文章，依然是全平台首发。为什么想到突然写无印良品的耳机？其实一直以来我们都忽视了这些「生活方式品牌」或者杂货店品牌的耳机产品，但是往往对于一些「应急场景 ...查看全文</description>
+      <pubDate>Thu, 03 Sep 2026 15:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113998</guid>
+      <source url="https://sspai.com/post/113998">少数派</source>
+    </item>
+    <item>
+      <title>成立不到一年连融三轮，专治失眠的 AI 床头灯「火」了</title>
+      <link>http://www.geekpark.net/news/369768</link>
+      <description>&amp;nbsp;
+头图来源：Fullive.ai
+一家成立几个月、第一款产品即将量产的 AI 硬件公司，已经连续融了三轮：高瓴连续三轮加注，智元机器人等机构先后进入股东名单；到了今年 7 月，招商局创投又领投了它的新一轮融资。
+这家公司叫 Fullive.ai，创始人郑昊本科就读于清华数学系，此后一路跨过生物统计、因果推断、AI、医学和硬科技投资；联合创始人韦骁龙来自北大计算机，此前曾在华为、荣耀负责消费电子产品。团队里还有参与过华为手环、WHOOP 等穿戴设备的硬件人员，以及来自百度、大疆等公司的算法和商业化老兵。
+Fullive.ai 把第一款产品放在了床头。
+它叫 Somni，是一款面向高压</description>
+      <pubDate>Thu, 03 Sep 2026 14:05:37 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369768</guid>
+      <source url="http://www.geekpark.net/news/369768">极客公园</source>
+    </item>
+    <item>
+      <title>智谱和 MiniMax，把大模型做成了两种生意</title>
+      <link>http://www.geekpark.net/news/369775</link>
+      <description>&amp;nbsp;
+头图来源：视觉中国
+两家中国大模型公司，在五天里先后交出了上市后的首份中报。
+MiniMax 先出：上半年收入 1.17 亿美元，同比增长 283%；8 月 ARR 超过 8 亿美元。智谱随后公布：上半年收入 9.54 亿元人民币，同比增长近 400%；8 月 ARR 达到 16 亿美元。
+如果只看 ARR，结论似乎很简单：智谱更高，MiniMax 紧随其后；两家公司都在讲 Token 调用量暴涨、企业客户增加、模型能力开始换来收入。
+把数字放回财报，事情会变得复杂一些。
+智谱上半年确认收入约 1.42 亿美元，MiniMax 为 1.17 亿美元，两者实际收入规模相差不远；两家</description>
+      <pubDate>Thu, 03 Sep 2026 13:54:42 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369775</guid>
+      <source url="http://www.geekpark.net/news/369775">极客公园</source>
+    </item>
+    <item>
+      <title>当 AI 开始理解「人不是标签」：阿里妈妈如何重构广告定向</title>
+      <link>http://www.geekpark.net/news/369777</link>
+      <description>作者｜Cynthia
+编辑｜郑玄
+&amp;nbsp;
+2026 年夏天，林氏家居想卖一张布艺床。
+然后，阿里妈妈万相点睛给它找到了一群电竞玩家。并建议他们投放那些搜索过「电竞房布置」「游戏房改造」「RGB 灯带」「二次元痛房」的用户。
+对于林氏家居这样一家诞生于互联网、长期依赖数据经营的头部品牌来说，这是个让人匪夷所思的抉择。
+过去，林氏家居品牌已经积累了超过 5500 万全平台粉丝、上万款在售 SKU 以及一千余家线下门店，是行业里公认的爆款制造机。
+而在传统的匹配逻辑下，一张床最自然的消费者应该来自装修、新婚、换房，以及近期购买过家电家居的人。因此， 广告系统用预设的标签匹配受众，商家投流选择装</description>
+      <pubDate>Thu, 03 Sep 2026 13:30:32 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369777</guid>
+      <source url="http://www.geekpark.net/news/369777">极客公园</source>
+    </item>
+    <item>
+      <title>AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」</title>
+      <link>http://www.geekpark.net/news/369767</link>
+      <description>头图来源：视觉中国
+&amp;nbsp;
+前段时间，Anthropic 发布了 Model Hardware Standard，尝试给 AI Agent 建立一套与硬件沟通的通用语言。接入这套标准后，显微镜、机械臂等不同厂商、不同接口的设备，可以被 Agent 发现、理解和调用。
+这件事指向了 AI 行业正在发生的一次变化。过去一年，竞争主要围绕模型的推理、生成和多模态能力展开；如今，Agent 开始走出聊天窗口，进入实验室、工厂和企业现场。行业的问题随之向下移动：模型已经足够聪明之后，谁来连接工具、硬件、数据和任务？
+9 月 2 日，腾讯 WorkBuddy 宣布面向更多伙伴开放合作。通达信、广发证</description>
+      <pubDate>Thu, 03 Sep 2026 12:52:10 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369767</guid>
+      <source url="http://www.geekpark.net/news/369767">极客公园</source>
+    </item>
+    <item>
+      <title>当说起「Hi-Fi」时，我们到底在追求什么？</title>
+      <link>https://sspai.com/post/113159</link>
+      <description>聊聊 Hi-Fi 这件事。查看全文</description>
+      <pubDate>Thu, 03 Sep 2026 11:32:28 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113159</guid>
+      <source url="https://sspai.com/post/113159">少数派</source>
+    </item>
     <item>
       <title>派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等</title>
       <link>https://sspai.com/post/114113</link>
@@ -14,6 +84,18 @@
       <pubDate>Thu, 03 Sep 2026 08:31:14 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114113</guid>
       <source url="https://sspai.com/post/114113">少数派</source>
+    </item>
+    <item>
+      <title>Claude Fable AI Is Much Stranger Than The Headlines Suggest</title>
+      <link>https://www.youtube.com/watch?v=B3LXEW4Pc-w</link>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
+
+📝 The Claude Fable 5.1 paper is available here:
+https://www.anthropic.com/claude-fable-and-mythos-5-1
+https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mytho</description>
+      <pubDate>Thu, 03 Sep 2026 08:23:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=B3LXEW4Pc-w</guid>
+      <source url="https://www.youtube.com/watch?v=B3LXEW4Pc-w">Two Minute Papers</source>
     </item>
     <item>
       <title>马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道</title>
@@ -120,69 +202,6 @@ Abstract: Black-box optimization problems remain challenging because of large, w
       <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.01608</guid>
       <source url="https://arxiv.org/abs/2609.01608">ArXiv ML</source>
-    </item>
-    <item>
-      <title>DiDrive: A Risk-Aware Hierarchical Diffusion Framework for Safe Offline Reinforcement Learning in Autonomous Driving</title>
-      <link>https://arxiv.org/abs/2609.01609</link>
-      <description>arXiv:2609.01609v1 Announce Type: new 
-Abstract: While diffusion models effectively capture multimodal behavioral priors for autonomous driving, offline reinforcement learning (RL) policies remain susceptible to distribution shift, heavy-tailed risk signals, out-of-distribution (OOD) action generati</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.01609</guid>
-      <source url="https://arxiv.org/abs/2609.01609">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Prompt-Space Meta-Learning Does Not Transfer Across Users: A Frozen-LLM Negative Result</title>
-      <link>https://arxiv.org/abs/2609.01615</link>
-      <description>arXiv:2609.01615v1 Announce Type: new 
-Abstract: Personalizing a frozen large language model (LLM) to individual users is often framed as a meta-learning problem in prompt space: each user is a task, and one seeks a shared natural-language adaptation policy that, given a handful of the user's labele</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.01615</guid>
-      <source url="https://arxiv.org/abs/2609.01615">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Efficient Context-Limited Telescope Bibliography Classification for the WASP-2025 Shared Task Using SciBERT</title>
-      <link>https://arxiv.org/abs/2609.01647</link>
-      <description>arXiv:2609.01647v1 Announce Type: new 
-Abstract: The creation of telescope bibliographies is a crucial part of assessing the scientific impact of observatories and ensuring reproducibility in astronomy. This task involves identifying, categorizing, and linking scientific publications that reference </description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.01647</guid>
-      <source url="https://arxiv.org/abs/2609.01647">ArXiv ML</source>
-    </item>
-    <item>
-      <title>CliffRank: A Dual-Branch Framework for Activity-Cliff Ranking Prediction</title>
-      <link>https://arxiv.org/abs/2609.01673</link>
-      <description>arXiv:2609.01673v1 Announce Type: new 
-Abstract: Activity-cliff ranking remains difficult because local structural changes can cause large activity differences, while high-quality data that resolve the underlying mechanisms remain limited. To use available activity labels more effectively, we combin</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.01673</guid>
-      <source url="https://arxiv.org/abs/2609.01673">ArXiv ML</source>
-    </item>
-    <item>
-      <title>PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation</title>
-      <link>https://arxiv.org/abs/2609.01658</link>
-      <description>arXiv:2609.01658v1 Announce Type: new 
-Abstract: Retrieval-Augmented Generation enhances Large Language Models by grounding responses in external knowledge, but multi-hop reasoning remains vulnerable to error propagation, where early retrieval failures confound subsequent steps. Standard outcome-bas</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.01658</guid>
-      <source url="https://arxiv.org/abs/2609.01658">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Learning Evidence Sufficiency Boundaries for Selective Answering in Grounded Multi-Hop QA</title>
-      <link>https://arxiv.org/abs/2609.01687</link>
-      <description>arXiv:2609.01687v1 Announce Type: new 
-Abstract: Grounded question answering systems should answer only when the supplied evidence supports the answer. In multi-hop QA, this requirement is difficult because partial evidence can make an unsupported answer appear plausible. We study selective answerin</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.01687</guid>
-      <source url="https://arxiv.org/abs/2609.01687">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>SpeakPay: Domain-Adaptive LoRA Fine-Tuning of Whisper for Low-Resource Nepali Financial Speech Recognition</title>
-      <link>https://arxiv.org/abs/2609.01737</link>
-      <description>arXiv:2609.01737v1 Announce Type: new 
-Abstract: Mobile payment applications in Nepal are graphically mediated and largely inaccessible to visually impaired users. This paper presents SpeakPay, a voice-first digital wallet, and documents the central technical contribution: a controlled study of doma</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.01737</guid>
-      <source url="https://arxiv.org/abs/2609.01737">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
