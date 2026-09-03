@@ -159,5 +159,12 @@
     "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
     "sourceUrl": "https://x.com/thsottiaux/status/2093515916076343774",
     "sourceName": "X：Tibo (@thsottiaux)"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
+    "summary": "Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。",
+    "sourceUrl": "https://x.com/rohanpaul_ai/status/2094975190468010368",
+    "sourceName": "X：Rohan Paul (@rohanpaul_ai)"
   }
 ]

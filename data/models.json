@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-02",
+  "updatedAt": "2026-09-03",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-09-03",
+      "company": "Meta",
+      "model": "Muse Spark 1.3",
+      "type": "语言",
+      "specs": [],
+      "highlight": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本",
+      "sourceUrl": "https://x.com/alexandr_wang/status/2095249704888197175",
+      "sourceName": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-09-02",
       "company": "OpenAI",
