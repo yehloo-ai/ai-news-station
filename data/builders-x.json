@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-09-02T06:45:11.562Z",
+  "generatedAt": "2026-09-03T06:41:29.179Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2095178970912461279",
+          "text": "3.8 Flash = great quality @ great price https://t.co/teErwoGZon",
+          "createdAt": "2026-09-02T15:56:07.000Z",
+          "url": "https://x.com/joshwoodward/status/2095178970912461279",
+          "likes": 537,
+          "retweets": 25,
+          "replies": 28,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095177483129917849",
+          "text": "3.8 Flash rolling out to @GeminiApp https://t.co/FItHefpEdv",
+          "createdAt": "2026-09-02T15:50:13.000Z",
+          "url": "https://x.com/joshwoodward/status/2095177483129917849",
+          "likes": 848,
+          "retweets": 42,
+          "replies": 62,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Boris Cherny",
@@ -9,35 +39,24 @@
       "bio": "Claude Code @anthropicai",
       "tweets": [
         {
-          "id": "2094864064648536068",
-          "text": "Last but not least, Fable 5.1 writes better and has better tone. We heard your feedback, and are actively working on reducing Claude-speak. Solid progress with 5.1, more to come.",
-          "createdAt": "2026-09-01T19:04:48.000Z",
-          "url": "https://x.com/bcherny/status/2094864064648536068",
-          "likes": 286,
-          "retweets": 6,
-          "replies": 32,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2095378890370019683",
+          "text": "Background computer use is underrated https://t.co/jGOvHMj8sM",
+          "createdAt": "2026-09-03T05:10:32.000Z",
+          "url": "https://x.com/bcherny/status/2095378890370019683",
+          "likes": 467,
+          "retweets": 14,
+          "replies": 70,
+          "isQuote": true,
+          "quotedTweetId": "2095226833293685100"
         },
         {
-          "id": "2094864063478276288",
-          "text": "We have been working on how often safeguards intervene. Our latest biology safeguards intervene on benign requests 85% less often than the ones we shipped with Fable 5, and Claude Code users should see around 60% fewer cyber interventions per session. Expect more improvements soon.",
-          "createdAt": "2026-09-01T19:04:48.000Z",
-          "url": "https://x.com/bcherny/status/2094864063478276288",
-          "likes": 317,
-          "retweets": 3,
-          "replies": 20,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2094864062186426373",
-          "text": "We have also reduced prices for Enterprise, API, and SDK customers. Cache reads on Fable 5.1 are now $0.25 per million tokens (previously: $1). Up to 38% cheaper for a typical Claude Code session.",
-          "createdAt": "2026-09-01T19:04:47.000Z",
-          "url": "https://x.com/bcherny/status/2094864062186426373",
-          "likes": 372,
-          "retweets": 8,
-          "replies": 23,
+          "id": "2095276133214491086",
+          "text": "Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it before moving on.\n\nClaude Tag is available in Slack on Team and Enterprise plans.",
+          "createdAt": "2026-09-02T22:22:13.000Z",
+          "url": "https://x.com/bcherny/status/2095276133214491086",
+          "likes": 723,
+          "retweets": 28,
+          "replies": 93,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -50,35 +69,24 @@
       "bio": "Codex & ChatGPT @OpenAI",
       "tweets": [
         {
-          "id": "2094939684015317363",
-          "text": "Bullish",
-          "createdAt": "2026-09-02T00:05:17.000Z",
-          "url": "https://x.com/thsottiaux/status/2094939684015317363",
-          "likes": 5162,
-          "retweets": 120,
-          "replies": 880,
+          "id": "2095369901137654271",
+          "text": "I think the best way to describe OpenAI's culture is as a mega startup. It's hard to believe unless you see it from the inside. Extreme ownership, care and pace.",
+          "createdAt": "2026-09-03T04:34:49.000Z",
+          "url": "https://x.com/thsottiaux/status/2095369901137654271",
+          "likes": 3065,
+          "retweets": 81,
+          "replies": 520,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2094826841622348106",
-          "text": "https://t.co/DxRAhWI0y8",
-          "createdAt": "2026-09-01T16:36:53.000Z",
-          "url": "https://x.com/thsottiaux/status/2094826841622348106",
-          "likes": 1412,
-          "retweets": 12,
-          "replies": 180,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2094826808114057246",
-          "text": "Should we do a merch line? https://t.co/IgyRywd8yH",
-          "createdAt": "2026-09-01T16:36:45.000Z",
-          "url": "https://x.com/thsottiaux/status/2094826808114057246",
-          "likes": 8384,
-          "retweets": 142,
-          "replies": 1141,
+          "id": "2095288416292487289",
+          "text": "The ChatGPT desktop app is now my main browser and my productivity has never been higher",
+          "createdAt": "2026-09-02T23:11:01.000Z",
+          "url": "https://x.com/thsottiaux/status/2095288416292487289",
+          "likes": 5589,
+          "retweets": 106,
+          "replies": 1148,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -91,76 +99,35 @@
       "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
       "tweets": [
         {
-          "id": "2094999358525821099",
-          "text": "fwiw I dislike having alot of random skills installed. \n\nI'm at a point where I only have about a dozen or so (mostly my own) and I regularly delete skills that I don't use anymore.\n\nAlso I try to keep all my skills as short as possible.\n\nI encourage you to do the same.",
-          "createdAt": "2026-09-02T04:02:24.000Z",
-          "url": "https://x.com/petergyang/status/2094999358525821099",
-          "likes": 28,
-          "retweets": 0,
-          "replies": 9,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2094995775952740795",
-          "text": "While I'm cleaning up my AI skills I have a question for the experts here. Sometimes I end up in this pattern:\n\n1. I run my skill and it doesn't get it perfect in one shot\n2. I do manual iteration with AI to get it right\n3. I then ask AI something like: \"How would you update the skill so we can one-shot this?\" before reviewing and approving its edits.\n\nThe problem is AI often overfits on this one thread and over time the skill drifts. Any good solutions here?",
-          "createdAt": "2026-09-02T03:48:10.000Z",
-          "url": "https://x.com/petergyang/status/2094995775952740795",
-          "likes": 102,
+          "id": "2095286096481665322",
+          "text": "GG https://t.co/F1wjmFI5uO",
+          "createdAt": "2026-09-02T23:01:48.000Z",
+          "url": "https://x.com/petergyang/status/2095286096481665322",
+          "likes": 29,
           "retweets": 2,
-          "replies": 33,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2094987791566622971",
-          "text": "If you're trying out Fable 5.1 I highly recommend running:\n\n/claude-api prompt-audit\n\non your skills. It finds a bunch of redundancies and rules to remove for the latest models.\n\nRunning it for all my skills now.",
-          "createdAt": "2026-09-02T03:16:27.000Z",
-          "url": "https://x.com/petergyang/status/2094987791566622971",
-          "likes": 1514,
-          "retweets": 71,
-          "replies": 38,
+          "id": "2095275295511281918",
+          "text": "Damn I'm running out of Fable limit already, anyone in the same boat?",
+          "createdAt": "2026-09-02T22:18:53.000Z",
+          "url": "https://x.com/petergyang/status/2095275295511281918",
+          "likes": 320,
+          "retweets": 7,
+          "replies": 179,
           "isQuote": false,
           "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Nan Yu",
-      "handle": "thenanyu",
-      "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
-      "tweets": [
-        {
-          "id": "2094928209095872530",
-          "text": "A new Claude release where one of the headline features is less annoying writing \n\nhttps://t.co/xHS4TdxaX4",
-          "createdAt": "2026-09-01T23:19:41.000Z",
-          "url": "https://x.com/thenanyu/status/2094928209095872530",
-          "likes": 7,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2094851229734277228"
         },
         {
-          "id": "2094928207179067682",
-          "text": "Like this kind of thing may seem small but makes a big difference\n\nhttps://t.co/JrAjOa8pMS",
-          "createdAt": "2026-09-01T23:19:41.000Z",
-          "url": "https://x.com/thenanyu/status/2094928207179067682",
-          "likes": 13,
+          "id": "2095255545594941910",
+          "text": "Product manager = Member of product staff\nDesigner = Member of design staff\nEngineer = Member of technical staff\n\nIs this AI making job functions more verbose? 😅\n\nIf this flattens levels and titles, I'm all for it though.\n\nIt also shows that maybe the single AI builder title that combines all functions isn't really happening, even at the best labs. People still have specialties based on what they're good at.",
+          "createdAt": "2026-09-02T21:00:24.000Z",
+          "url": "https://x.com/petergyang/status/2095255545594941910",
+          "likes": 23,
           "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2094877577097986469"
-        },
-        {
-          "id": "2094928205753040999",
-          "text": "There’s a lot of alpha in making your agents *less annoying*. If you want users to get to value they need to stop rage-quitting. \n\nI think an untapped opportunity for UX designers is to become conversation/rhetoric designers.",
-          "createdAt": "2026-09-01T23:19:40.000Z",
-          "url": "https://x.com/thenanyu/status/2094928205753040999",
-          "likes": 113,
-          "retweets": 3,
-          "replies": 9,
+          "replies": 18,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -173,45 +140,15 @@
       "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
       "tweets": [
         {
-          "id": "2094973690576576675",
-          "text": "Great example of the immense opportunity enterprises have if they build their own post training systems, great evals and a data flywheel.\n\nI’ve worked with the Shopify ML team and they are world class. \n\nMore enterprises should be doing this. https://t.co/IzlWkndA6u",
-          "createdAt": "2026-09-02T02:20:25.000Z",
-          "url": "https://x.com/realmadhuguru/status/2094973690576576675",
-          "likes": 53,
-          "retweets": 1,
-          "replies": 0,
+          "id": "2095174463696589223",
+          "text": "Every AI product should be working towards abstracting model choice away from users. \n\nIn any product, the intelligence is the underlying engine - all the user cares about is that the job gets done. \n\nModel picking is too much cognitive load for the user.\n\nThere have been multiple attempts to abstract model choice away from users. I think we’re finally at the point where this can work well.\n\nIt takes three things:\n\n1/ Deep understanding of the model frontier across different weight classes for your particular use cases.\n\n2/ Great evals for your workflows, so you know which models work best where.\n\n3/ A team with the talent and AI-native operating model to continuously adapt as the frontier moves.\n\nHaving worked with the Lovable team, I can say they have all three.",
+          "createdAt": "2026-09-02T15:38:13.000Z",
+          "url": "https://x.com/realmadhuguru/status/2095174463696589223",
+          "likes": 62,
+          "retweets": 3,
+          "replies": 15,
           "isQuote": true,
-          "quotedTweetId": "2094808564355191249"
-        },
-        {
-          "id": "2094817857821704659",
-          "text": "Self-improving products is a meta idea every company should be implementing.  \n\nSome of the core pieces you will need:\n\n1/ a crisp definition of the various metrics you care about : primary, secondary, guardrail\n\n2/ an articulation of your strategy, roadmap and metrics you care about moving the most\n\n3/ knowledge base of past product decisions and principles so the agent knows how decisions get made \n\n4/ connections to your to your internal product systems: dashboards, APIs, MCPs, and tools your agent  needs to observe and act on your product. \n\n5/ a harness built with knowledge of  your end to end product development flow. \n\nDepending on the complexity of your product, you might be able to prototype with fairly simple versions of each of the above and reuse existing swe agents.",
-          "createdAt": "2026-09-01T16:01:11.000Z",
-          "url": "https://x.com/realmadhuguru/status/2094817857821704659",
-          "likes": 236,
-          "retweets": 17,
-          "replies": 9,
-          "isQuote": true,
-          "quotedTweetId": "2094473272796836097"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cat Wu",
-      "handle": "_catwu",
-      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-      "tweets": [
-        {
-          "id": "2094933602228416603",
-          "text": "With Fable 5.1, our team has taken on more ambitious projects that would have previously taken months. What big bets do you want to take? \n\nAsk Fable 5.1 in Claude Code, Claude Cowork, Claude Tag to take on the task and let us know what you think! https://t.co/LCloUBWKeO",
-          "createdAt": "2026-09-01T23:41:07.000Z",
-          "url": "https://x.com/_catwu/status/2094933602228416603",
-          "likes": 325,
-          "retweets": 13,
-          "replies": 46,
-          "isQuote": true,
-          "quotedTweetId": "2094848572143407483"
+          "quotedTweetId": "2094790579469287450"
         }
       ]
     },
@@ -222,15 +159,34 @@
       "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
       "tweets": [
         {
-          "id": "2094945951865520458",
-          "text": "it’s a very good model, I spent a lot of time diving into it- longer write up coming \n\nbut try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt cache as well https://t.co/MCGYQTnR0X",
-          "createdAt": "2026-09-02T00:30:11.000Z",
-          "url": "https://x.com/trq212/status/2094945951865520458",
-          "likes": 1414,
-          "retweets": 50,
-          "replies": 128,
-          "isQuote": true,
-          "quotedTweetId": "2094848572143407483"
+          "id": "2095367584489038044",
+          "text": "Ah apologies, effort levels not breaking the prompt cache is live on API but not yet on Claude Code. Should be live within a day or so, will QT when it’s ready. \n\nWas OOO and did not realize this didn’t go out with the model launch.",
+          "createdAt": "2026-09-03T04:25:36.000Z",
+          "url": "https://x.com/trq212/status/2095367584489038044",
+          "likes": 44,
+          "retweets": 3,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2095291912706220410",
+          "text": "Replit is coming to London 🇬🇧\n\nTo celebrate Replit’s first international office in London, together with our friends @OpenAI, we're hosting a night of drinks, music, and a fireside chat with Paul Graham (@paulg).\n\nThursday, September 10th, RSVP: https://t.co/KvsS1OScca https://t.co/LQb7aSrvdj",
+          "createdAt": "2026-09-02T23:24:55.000Z",
+          "url": "https://x.com/amasad/status/2095291912706220410",
+          "likes": 487,
+          "retweets": 28,
+          "replies": 40,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -241,78 +197,37 @@
       "bio": "@vercel CEO",
       "tweets": [
         {
-          "id": "2094901483414372716",
-          "text": "Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web\n\nWhat this means for our customers: whether you choose @nextjs or @tan_stack, we are committed to the highest quality service and support. https://t.co/9lnHQIqHxZ",
-          "createdAt": "2026-09-01T21:33:29.000Z",
-          "url": "https://x.com/rauchg/status/2094901483414372716",
-          "likes": 595,
-          "retweets": 17,
-          "replies": 32,
-          "isQuote": true,
-          "quotedTweetId": "2094894774113419772"
-        },
-        {
-          "id": "2094867652573528074",
-          "text": "Fable 5.1 now on @vercel AI Gateway\nTry it with https://t.co/OL0LzGtvAw. Every model at your fingertips 🥹",
-          "createdAt": "2026-09-01T19:19:03.000Z",
-          "url": "https://x.com/rauchg/status/2094867652573528074",
-          "likes": 326,
-          "retweets": 14,
-          "replies": 35,
+          "id": "2095260872537227585",
+          "text": "It took blood, sweat, and tokens",
+          "createdAt": "2026-09-02T21:21:34.000Z",
+          "url": "https://x.com/rauchg/status/2095260872537227585",
+          "likes": 1101,
+          "retweets": 69,
+          "replies": 76,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2094831747037085978",
-          "text": "Fluid is the thing that has enabled Vercel's:\n◾ Industry-leading Build performance\n◾ Sandbox reliability & massive concurrency\n◾ 30min Function durations (& soon longer)\n\nThis unification makes the best DX possible. Shared 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎, security perimeters, networking, file systems, across all compute products. \n\nYou already see this in some pretty unique Vercel capabilities, like our Builds and Functions being able to participate in the same Secure Compute boundary and config.\n\nImagine the same egress Firewall features for Sandbox that prevent agent escapes, applying to your Builds, Functions and Servers.\n\nThe future is one global and unified compute platform, with only known physics as the limiting factor 😊",
-          "createdAt": "2026-09-01T16:56:23.000Z",
-          "url": "https://x.com/rauchg/status/2094831747037085978",
-          "likes": 136,
-          "retweets": 5,
-          "replies": 21,
-          "isQuote": true,
-          "quotedTweetId": "2094823251528855686"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Alex Albert",
-      "handle": "alexalbert__",
-      "bio": "Research @AnthropicAI. Opinions are my own!",
-      "tweets": [
-        {
-          "id": "2094889286990446769",
-          "text": "One non-model thing I'm very excited we announced today with Fable 5.1 is Enterprise Frontier Safeguards (EFS).\n\nEven if you're not a CEO/CISO, this blog post is a look into how big companies are thinking about AI adoption which is important to understand if you're interested in how AI might diffuse across industry.\n\nCompanies are giving agents more and more access to internal systems. With traditional zero data retention, there's been no way to spot patterns in what agents might be doing across sessions on these systems.\n\nEFS is ZDR++. It's ZDR built for a world with agents. A company's data stays in its own cloud, and an automated monitoring layer we built flags risky patterns to its team.\n\nI think of this as an observability and risk mitigation layer for agents. My guess is it will become a standard requirement from enterprises for running increasingly powerful AI on their systems.",
-          "createdAt": "2026-09-01T20:45:01.000Z",
-          "url": "https://x.com/alexalbert__/status/2094889286990446769",
-          "likes": 234,
-          "retweets": 14,
-          "replies": 22,
-          "isQuote": true,
-          "quotedTweetId": "2094848590245965931"
-        },
-        {
-          "id": "2094860189316899083",
-          "text": "using blender headless btw",
-          "createdAt": "2026-09-01T18:49:24.000Z",
-          "url": "https://x.com/alexalbert__/status/2094860189316899083",
-          "likes": 695,
-          "retweets": 10,
-          "replies": 24,
+          "id": "2095235886611050985",
+          "text": "Follow @eve",
+          "createdAt": "2026-09-02T19:42:17.000Z",
+          "url": "https://x.com/rauchg/status/2095235886611050985",
+          "likes": 632,
+          "retweets": 21,
+          "replies": 109,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2094860187743986169",
-          "text": "Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code. \n\nFor this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough. https://t.co/eBIaCmaav8",
-          "createdAt": "2026-09-01T18:49:24.000Z",
-          "url": "https://x.com/alexalbert__/status/2094860187743986169",
-          "likes": 5997,
-          "retweets": 279,
-          "replies": 259,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2095234831013814611",
+          "text": "Everything is code https://t.co/TJwbjGA2RL",
+          "createdAt": "2026-09-02T19:38:05.000Z",
+          "url": "https://x.com/rauchg/status/2095234831013814611",
+          "likes": 282,
+          "retweets": 13,
+          "replies": 30,
+          "isQuote": true,
+          "quotedTweetId": "2095231331349176593"
         }
       ]
     },
@@ -323,45 +238,56 @@
       "bio": "ceo @box - your business lives in content. unleash it with AI",
       "tweets": [
         {
-          "id": "2095024699441119612",
-          "text": "AI for cyber is about to go vertical. The models increasingly becoming insanely good at finding and exploiting vulnerabilities. Frontier models are ahead, but we’re already seeing that open weights is not far behind.\n\nMost enterprises are already inundated with cyber discoveries, so now that’s only going to multiply. Triaging and automating the fixes with more AI -along with human oversight- is essentially the only way forward. \n\nIn case you were wondering what jobs AI was going to create, it’s definitely going to great time to be in security.",
-          "createdAt": "2026-09-02T05:43:06.000Z",
-          "url": "https://x.com/levie/status/2095024699441119612",
-          "likes": 47,
-          "retweets": 5,
-          "replies": 14,
+          "id": "2095234253613359200",
+          "text": "This week is absolutely nuts for AI releases, and now a major new model update from Muse. We appear to be reaching escape velocity in capability progress. \n\nIf this thing gets released as open weights it completely changes the dynamic of US open weights competitiveness. https://t.co/hOG17UMECG",
+          "createdAt": "2026-09-02T19:35:48.000Z",
+          "url": "https://x.com/levie/status/2095234253613359200",
+          "likes": 494,
+          "retweets": 42,
+          "replies": 28,
           "isQuote": true,
-          "quotedTweetId": "2094885578173260259"
-        },
-        {
-          "id": "2094851976769257770",
-          "text": "At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fable 5.1 delivers a huge 7 percentage point jump over Fable 5 for unstructured data tasks in the enterprise.\n\nOn this updated test, we use the Box Agent with Fable 5.1 to work through a wide range of real world enterprise scenarios with documents in financial services, life sciences, the public sector, and more industries. All of these tasks require a high degree of analytical, math, logic, and domain knowledge to perform successfully.\n\nHere are a few examples of wins:\n\n* Financial Services (+17% improvement): on a tax-adjusted profit projection, Fable 5.1 correctly applies capital allowances before computing tax liability; this is a subtle ordering that Fable 5 misses, producing wrong figures all the way through retained earnings.\n\n* Technology (+37% improvement): on a cost-optimization analysis where a key metric's normalization is ambiguous, Fable 5.1 recognized the ambiguity, computed both forms, and presented the correct one, where Fable 5 committed to the wrong normalization.\n\n* Public Sector (+16% improvement): on an educational data analysis task, Fable 5.1 works through the full weighted-mean methodology and produces correct rankings, while Fable 5 miscategorizes one item and cascades errors through the whole sheet.\n\nThese are just a few of the wins we saw. Overall major jump in capability for long running agentic workflows in the enterprise. \n\nFable 5.1 will be available shortly in the Box AI Studio for building custom AI agents with enterprise content.",
-          "createdAt": "2026-09-01T18:16:46.000Z",
-          "url": "https://x.com/levie/status/2094851976769257770",
-          "likes": 249,
-          "retweets": 23,
-          "replies": 39,
-          "isQuote": true,
-          "quotedTweetId": "2094848572143407483"
+          "quotedTweetId": "2095232032896946311"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Matt Turck",
-      "handle": "mattturck",
-      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
       "tweets": [
         {
-          "id": "2094829606855462940",
-          "text": "Do you want to grow massively on X? \n\nHere are the top hacks, a 🧵\n\n1) Become CEO of Apple https://t.co/WO9aMocWUY",
-          "createdAt": "2026-09-01T16:47:52.000Z",
-          "url": "https://x.com/mattturck/status/2094829606855462940",
-          "likes": 97,
-          "retweets": 2,
-          "replies": 11,
+          "id": "2095292377749733697",
+          "text": "Building housing supply needs to be a top issue for how you vote this November https://t.co/n4Su98uJYf",
+          "createdAt": "2026-09-02T23:26:46.000Z",
+          "url": "https://x.com/garrytan/status/2095292377749733697",
+          "likes": 99,
+          "retweets": 5,
+          "replies": 24,
           "isQuote": true,
-          "quotedTweetId": "2094814214787633367"
+          "quotedTweetId": "2095171324746641639"
+        },
+        {
+          "id": "2095202701646995965",
+          "text": "What's your California Dream?\n\nhttps://t.co/cBmqMDDHLn https://t.co/9H6eflyDT2",
+          "createdAt": "2026-09-02T17:30:25.000Z",
+          "url": "https://x.com/garrytan/status/2095202701646995965",
+          "likes": 111,
+          "retweets": 13,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2094914114678034899"
+        },
+        {
+          "id": "2095177204712017920",
+          "text": "It's ridiculous man\n\nOpening a public bank in SF is just asking for mass fraud, especially by Jackie Fielder's incompetent DSA friends and cronies https://t.co/r1xphmRSss",
+          "createdAt": "2026-09-02T15:49:06.000Z",
+          "url": "https://x.com/garrytan/status/2095177204712017920",
+          "likes": 461,
+          "retweets": 22,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2094944957979115554"
         }
       ]
     },
@@ -372,35 +298,13 @@
       "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
       "tweets": [
         {
-          "id": "2094999513627025757",
-          "text": "I wish every city was in Tokyo https://t.co/j1ppDGCx7p",
-          "createdAt": "2026-09-02T04:03:01.000Z",
-          "url": "https://x.com/zarazhangrui/status/2094999513627025757",
-          "likes": 37,
-          "retweets": 2,
-          "replies": 7,
-          "isQuote": true,
-          "quotedTweetId": "2094893514291032106"
-        },
-        {
-          "id": "2094943457769099520",
-          "text": "Since when did this type of website design become in vogue? https://t.co/Cwnz0MhMhz",
-          "createdAt": "2026-09-02T00:20:17.000Z",
-          "url": "https://x.com/zarazhangrui/status/2094943457769099520",
-          "likes": 109,
+          "id": "2095375073381318656",
+          "text": "We are not recording meetings for humans anymore. Nobody reads the AI summary notes or listens back. We are capturing transcripts to feed agents.",
+          "createdAt": "2026-09-03T04:55:22.000Z",
+          "url": "https://x.com/zarazhangrui/status/2095375073381318656",
+          "likes": 128,
           "retweets": 1,
-          "replies": 47,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2094812574395371857",
-          "text": "Be a person, not a persona",
-          "createdAt": "2026-09-01T15:40:12.000Z",
-          "url": "https://x.com/zarazhangrui/status/2094812574395371857",
-          "likes": 142,
-          "retweets": 16,
-          "replies": 21,
+          "replies": 33,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -413,37 +317,15 @@
       "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
       "tweets": [
         {
-          "id": "2095002897859912044",
-          "text": "Terrifying.. also just the start of how leaks like this are going to get way worse 😭 https://t.co/gN8PiNCUXJ",
-          "createdAt": "2026-09-02T04:16:28.000Z",
-          "url": "https://x.com/nikunj/status/2095002897859912044",
-          "likes": 3,
+          "id": "2095158216409911381",
+          "text": "PSA: that irrational fear of opening the microwave one second before it beeps loudly so that your infant doesn’t wake up.. doesn’t leave you even when your kids grow up 😅 https://t.co/VUILoORIUC",
+          "createdAt": "2026-09-02T14:33:39.000Z",
+          "url": "https://x.com/nikunj/status/2095158216409911381",
+          "likes": 28,
           "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2094961551807545493"
-        },
-        {
-          "id": "2094922789128196314",
-          "text": "People are still sleeping on WebMCP.. \n\nYou can now give agents tool calls to interact with your website natively. Including full UI/UX support and interactive elements to build their own views.\n\nSharing a demo below that I submitted for the WebMCP challenge - see how agents can interact with the El Nino situation tracker. It creates it's own views, preserves human edits, and creates a shareable link to share with other agents (or humans). \n\nVideo and code by Codex @ChatGPT & @Railway\n\nLive at elneenyo dot com to try out today!",
-          "createdAt": "2026-09-01T22:58:09.000Z",
-          "url": "https://x.com/nikunj/status/2094922789128196314",
-          "likes": 68,
-          "retweets": 2,
-          "replies": 15,
+          "replies": 11,
           "isQuote": false,
           "quotedTweetId": null
-        },
-        {
-          "id": "2094784484625531065",
-          "text": "Casual MG banger that started as a comment to my recent essay via *checks notes* iMessage 😂 https://t.co/t0YSIB4Ui9",
-          "createdAt": "2026-09-01T13:48:35.000Z",
-          "url": "https://x.com/nikunj/status/2094784484625531065",
-          "likes": 18,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2094575508642275517"
         }
       ]
     },
@@ -454,35 +336,35 @@
       "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
       "tweets": [
         {
-          "id": "2094942644497457527",
-          "text": "remember when we used to have to type out low level code like this? https://t.co/h30xZEfRle",
-          "createdAt": "2026-09-02T00:17:03.000Z",
-          "url": "https://x.com/danshipper/status/2094942644497457527",
-          "likes": 56,
+          "id": "2095327032141889675",
+          "text": "it me https://t.co/0NgNFmgV37",
+          "createdAt": "2026-09-03T01:44:28.000Z",
+          "url": "https://x.com/danshipper/status/2095327032141889675",
+          "likes": 28,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095320346261848169",
+          "text": "many such cases https://t.co/dEwsrGSnPH",
+          "createdAt": "2026-09-03T01:17:54.000Z",
+          "url": "https://x.com/danshipper/status/2095320346261848169",
+          "likes": 43,
           "retweets": 0,
-          "replies": 15,
-          "isQuote": false,
-          "quotedTweetId": null
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2095288416292487289"
         },
         {
-          "id": "2094855479167996036",
-          "text": "READ THE FABLE 5.1 VIBE CHECK ON @every \nhttps://t.co/VxEDSTgqVL https://t.co/6UqJw8Z70N",
-          "createdAt": "2026-09-01T18:30:41.000Z",
-          "url": "https://x.com/danshipper/status/2094855479167996036",
-          "likes": 49,
-          "retweets": 5,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2094854526574424203",
-          "text": "READ THE FULL VIBE CHECK: https://t.co/z7axZ7Sr1j",
-          "createdAt": "2026-09-01T18:26:54.000Z",
-          "url": "https://x.com/danshipper/status/2094854526574424203",
-          "likes": 6,
+          "id": "2095269303029244364",
+          "text": "pro tip: \n\nuse your alien superintelligence to plan your next order of chocolate bars https://t.co/DvcNrTpGEc",
+          "createdAt": "2026-09-02T21:55:04.000Z",
+          "url": "https://x.com/danshipper/status/2095269303029244364",
+          "likes": 8,
           "retweets": 2,
-          "replies": 2,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -490,18 +372,29 @@
     },
     {
       "source": "x",
-      "name": "Sam Altman",
-      "handle": "sama",
-      "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
       "tweets": [
         {
-          "id": "2094934592062959832",
-          "text": "Over the summer, we have been sprinting on safety priorities; it's more important than ever for capabilities and safeguards to advance together. We have more to do but have made a lot of progress. We are also going to be launching our next model soon.\n\nThere is an obvious tension here: on one hand, Astra is very good and we are excited to see what people will build with it. We are proud of our work.\n\nOn the other hand, we are clearly in a phase of development where we believe caution is warranted, and we are pacing our progress to ensure that we can meet the safety standards required by new capability levels.\n\nAstra has been done training for a while now and is a significant step forward in both capabilities and alignment. For the models after that, we have been slowing things as needed to ensure that we can do sufficient work on safety and alignment.\n\nAI is getting extremely capable; no one fully understands the consequences of this. Managing the transition to a world with abundant and powerful AI to optimize for safety and benefits to people should be one of the highest priorities in the world. It is our highest priority at OpenAI.\n\nWe have been living with the tension between being excited and anxious about progress for some time, and it is still discordant for us. We know it is much more discordant for other people. And yet, we believe strongly that the world needs to understand where AI is going and how models perform in the real world. More importantly, we believe the world will need aligned AI to manage the future phases of this transition.\n\nAn iterative loop where society and this technology evolve together is what will lead to the highest chance of getting this right.\n\nSo we hope you enjoy our new model, and we hope the world continues to take what’s happening in AI extremely seriously.",
-          "createdAt": "2026-09-01T23:45:03.000Z",
-          "url": "https://x.com/sama/status/2094934592062959832",
-          "likes": 8686,
-          "retweets": 559,
-          "replies": 837,
+          "id": "2095227334534041714",
+          "text": "It's actually really hard to trust these frontier labs when they say \"don't worry, we won't use your data for training\".\n\nThis is a huge reason to use OSS models.\n\nWhat a weird world. Use the 🇨🇳 models to make sure your stuff is private. \n\nAlso why it is critical to have 🇺🇸 OSS.",
+          "createdAt": "2026-09-02T19:08:18.000Z",
+          "url": "https://x.com/adityaag/status/2095227334534041714",
+          "likes": 66,
+          "retweets": 1,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095192873973301601",
+          "text": "Too many startups are focused on solving model issues (or leveraging model capabilities) as they exist today.\n\nMuch more interesting to hav a strong POV on capabilities/issues as they will exist 1 year from today (understandably hard).",
+          "createdAt": "2026-09-02T16:51:22.000Z",
+          "url": "https://x.com/adityaag/status/2095192873973301601",
+          "likes": 64,
+          "retweets": 3,
+          "replies": 10,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -514,35 +407,35 @@
       "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
       "tweets": [
         {
-          "id": "2094848592812917122",
-          "text": "Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and life scientists, is available through trusted access programs.\n\nRead more: https://t.co/nfkH5hyDyO",
-          "createdAt": "2026-09-01T18:03:19.000Z",
-          "url": "https://x.com/claudeai/status/2094848592812917122",
-          "likes": 2135,
-          "retweets": 101,
-          "replies": 67,
+          "id": "2095226835743158320",
+          "text": "Available in beta on Pro and Max plans, in the desktop app on macOS.\n\nIf you're new to computer use, turn it on in Settings → General → Computer use.\n\nHow it works, and how to use it safely: https://t.co/WTNqd5F0BG",
+          "createdAt": "2026-09-02T19:06:19.000Z",
+          "url": "https://x.com/claudeai/status/2095226835743158320",
+          "likes": 440,
+          "retweets": 21,
+          "replies": 20,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2094848591617483020",
-          "text": "Finally, we’ve improved our safeguards. Our cybersecurity safeguards now flag benign requests about 60% less often.\n\nOn basic biology and medical questions, we’ve recently reduced the fallback rate by around 85%.",
-          "createdAt": "2026-09-01T18:03:19.000Z",
-          "url": "https://x.com/claudeai/status/2094848591617483020",
-          "likes": 2251,
-          "retweets": 83,
-          "replies": 52,
+          "id": "2095226833293685100",
+          "text": "Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else. https://t.co/AOiup03pQK",
+          "createdAt": "2026-09-02T19:06:19.000Z",
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "likes": 8865,
+          "retweets": 492,
+          "replies": 360,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2094848590245965931",
-          "text": "We’re also introducing Enterprise Frontier Safeguards (EFS), which give enterprise customers complete privacy (the same as zero data retention), while still being state-of-the-art at preventing adversarial use. EFS rolls out in phases, starting this fall. https://t.co/EMbLgL5KVo",
-          "createdAt": "2026-09-01T18:03:18.000Z",
-          "url": "https://x.com/claudeai/status/2094848590245965931",
-          "likes": 1448,
-          "retweets": 33,
-          "replies": 10,
+          "id": "2095168559873773970",
+          "text": "Applications are open for the Claude Campus Ambassadors program. This year, we’re expanding opportunities to more students, with three tracks for undergrads, graduate students, and PhDs/postdocs. \n\nApply here: https://t.co/h8X1D0TZv7 https://t.co/bPa8giOBXP",
+          "createdAt": "2026-09-02T15:14:45.000Z",
+          "url": "https://x.com/claudeai/status/2095168559873773970",
+          "likes": 6308,
+          "retweets": 557,
+          "replies": 245,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -550,7 +443,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 16,
-    "totalTweets": 38
+    "xBuilders": 15,
+    "totalTweets": 29
   }
 }
