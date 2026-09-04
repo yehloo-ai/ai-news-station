@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T06:16:15.506Z",
+  "generatedAt": "2026-09-04T16:56:22.971Z",
   "umami": {
     "error": null,
     "today": {
@@ -12,11 +12,6 @@
       "visits": 51
     },
     "series": [
-      {
-        "date": "2026-08-06",
-        "pageviews": 0,
-        "visitors": 0
-      },
       {
         "date": "2026-08-07",
         "pageviews": 0,
@@ -161,6 +156,11 @@
         "date": "2026-09-04",
         "pageviews": 0,
         "visitors": 0
+      },
+      {
+        "date": "2026-09-05",
+        "pageviews": 0,
+        "visitors": 0
       }
     ],
     "countries": [
@@ -181,7 +181,7 @@
         "visitors": 1
       },
       {
-        "code": "NL",
+        "code": "CA",
         "visitors": 1
       },
       {
@@ -193,7 +193,7 @@
         "visitors": 1
       },
       {
-        "code": "CA",
+        "code": "NL",
         "visitors": 1
       }
     ],
