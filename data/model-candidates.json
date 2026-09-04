@@ -152,5 +152,19 @@
     "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
     "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
     "sourceName": "公众号：腾讯混元"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
+    "summary": "OpenAI 于 9 月 3 日发布新一代大语言模型 GPT-6 Astra，是其首个达到准备框架中关键级网络安全能力门槛的模型，可在无逐步指导下发现防护严密系统的未知漏洞。",
+    "sourceUrl": "https://www.ithome.com/0/998/208.htm",
+    "sourceName": "IT之家（RSS）"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9%",
+    "summary": "",
+    "sourceUrl": "https://x.com/kimmonismus/status/2095585966102614182",
+    "sourceName": "X：Kim (@kimmonismus)"
   }
 ]

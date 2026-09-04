@@ -1,7 +1,57 @@
 {
-  "updatedAt": "2026-09-03",
+  "updatedAt": "2026-09-04",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-09-04",
+      "company": "OpenAI",
+      "model": "Astra",
+      "type": "语言",
+      "specs": [],
+      "highlight": "OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-09-04",
+      "company": "OpenAI",
+      "model": "GPT-6 Astra",
+      "type": "语言",
+      "specs": [],
+      "highlight": "OpenAI 宣布开始发布 GPT-6 Astra，称正以尽可能谨慎和快速的方式推进，重点让",
+      "sourceUrl": "https://x.com/thsottiaux/status/2095597168816226335",
+      "sourceName": "X：Tibo (@thsottiaux)",
+      "tier": "milestone",
+      "auto": true
+    },
+    {
+      "date": "2026-09-04",
+      "company": "IFM",
+      "model": "K2 Horizon",
+      "type": "语言",
+      "specs": [
+        "开源"
+      ],
+      "highlight": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B",
+      "sourceUrl": "https://ifm.ai/blog/k2",
+      "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-09-04",
+      "company": "OpenAI",
+      "model": "Claude Fable 5.1",
+      "type": "语言",
+      "specs": [],
+      "highlight": "作者引用 OpenAI 官方基准称 GPT-6 Astra 以 99.9% 饱和 ARC-A",
+      "sourceUrl": "https://x.com/kimmonismus/status/2095589174686400914",
+      "sourceName": "X：Kim (@kimmonismus)",
+      "tier": "normal",
+      "auto": true
+    },
     {
       "date": "2026-09-03",
       "company": "Meta",
