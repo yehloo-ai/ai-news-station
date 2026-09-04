@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 21:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:04:43 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GPT-6 曝光， OpenAI 总裁说：AGI 来了</title>
+      <link>http://www.geekpark.net/news/369800</link>
+      <description>&amp;nbsp;
+
+头图来源：OpenAI
+作者｜桦林舞王
+编辑｜靖宇
+2026 年 9 月 3 日，OpenAI 总裁 Greg Brockman 在发布会结束后，说了一句在 AI 行业极为罕见的话：「我个人认为，我们可能已经到达 AGI 了，我觉得就是这个模型。」
+他措辞很谨慎，用的是第一人称，加了「可能」，还专门留了后路说「如果你想说这是第一个，我认为这是合理的」。
+这不是 OpenAI 官方宣布 AGI 到来，而是一位公司总裁在镜头前说出了自己的判断。
+当地时间 9 月 3 日，GPT-6 Astra正式发布。极客公园拆解了目前能获取到的所有技术细节和演示材料，试图回答一个最核心的问题，这</description>
+      <pubDate>Fri, 04 Sep 2026 06:48:29 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369800</guid>
+      <source url="http://www.geekpark.net/news/369800">极客公园</source>
+    </item>
     <item>
       <title>逛完 WRC，我们发现机器人行业最该回答的 5 个问题</title>
       <link>http://www.geekpark.net/news/369388</link>
@@ -16,6 +32,30 @@
       <pubDate>Thu, 03 Sep 2026 23:25:38 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369388</guid>
       <source url="http://www.geekpark.net/news/369388">极客公园</source>
+    </item>
+    <item>
+      <title>刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代</title>
+      <link>https://www.ifanr.com/1678196?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>OpenAI：欢迎来到 AGI 时代#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 03 Sep 2026 23:03:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678196?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678196?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>新版GPT Image 2.5已经能伪造GPT-6发布会了</title>
+      <link>https://www.qbitai.com/2026/09/483948.html</link>
+      <description>改进GPT Image 2的噪点问题</description>
+      <pubDate>Thu, 03 Sep 2026 21:57:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483948.html</guid>
+      <source url="https://www.qbitai.com/2026/09/483948.html">量子位</source>
+    </item>
+    <item>
+      <title>刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代</title>
+      <link>https://www.qbitai.com/2026/09/483898.html</link>
+      <description>全球最强C</description>
+      <pubDate>Thu, 03 Sep 2026 21:50:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483898.html</guid>
+      <source url="https://www.qbitai.com/2026/09/483898.html">量子位</source>
     </item>
     <item>
       <title>First impressions of GPT-6 Astra from developers</title>
@@ -164,44 +204,6 @@ MiniMax 先出：上半年收入 1.17 亿美元，同比增长 283%；8 月 ARR 
       <pubDate>Thu, 03 Sep 2026 10:13:24 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/483600.html</guid>
       <source url="https://www.qbitai.com/2026/09/483600.html">量子位</source>
-    </item>
-    <item>
-      <title>派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等</title>
-      <link>https://sspai.com/post/114113</link>
-      <description>World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文</description>
-      <pubDate>Thu, 03 Sep 2026 08:31:14 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114113</guid>
-      <source url="https://sspai.com/post/114113">少数派</source>
-    </item>
-    <item>
-      <title>Claude Fable AI Is Much Stranger Than The Headlines Suggest</title>
-      <link>https://www.youtube.com/watch?v=B3LXEW4Pc-w</link>
-      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
-
-📝 The Claude Fable 5.1 paper is available here:
-https://www.anthropic.com/claude-fable-and-mythos-5-1
-https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mytho</description>
-      <pubDate>Thu, 03 Sep 2026 08:23:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=B3LXEW4Pc-w</guid>
-      <source url="https://www.youtube.com/watch?v=B3LXEW4Pc-w">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道</title>
-      <link>http://www.geekpark.net/news/369745</link>
-      <description>谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景
-9 月 2 日消息，谷歌在 Google DeepMind 网站低调上线了 Gemini 3.8 Flash 模型。其基于 Gemini 3.7 Flash，拥有在软件工程和智能体知识工作流方面的性能提升，并持续支持可定制的努力水平，以控制质量、成本和延迟的组合。
-Gemini 3.8 Flash 基于 Gemini 3.7 Flash，具有最高 1M 的 token 上下文窗口，文本支持 64K token 输出。官方还公布了多项基准测试评估结果，涵盖编程、知识处理、多模态处理能力、长上下文处理、计算机使用能力</description>
-      <pubDate>Thu, 03 Sep 2026 08:03:32 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369745</guid>
-      <source url="http://www.geekpark.net/news/369745">极客公园</source>
-    </item>
-    <item>
-      <title>一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠</title>
-      <link>https://www.qbitai.com/2026/09/483565.html</link>
-      <description>从工厂一路干到家庭</description>
-      <pubDate>Thu, 03 Sep 2026 03:16:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/483565.html</guid>
-      <source url="https://www.qbitai.com/2026/09/483565.html">量子位</source>
     </item>
   </channel>
 </rss>
