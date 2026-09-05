@@ -5,8 +5,22 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Sep 2026 04:21:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:03:06 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>互联网最古老的恐惧，被 AI 复活了</title>
+      <link>http://www.geekpark.net/news/369873</link>
+      <description>作者｜Techno 之王
+编辑｜靖宇
+2006 年底，一只熊猫毁了数百万人的电脑。
+那只熊猫手捧三支香，面带微笑，出现在每一个被感染文件的图标上。「熊猫烧香」蠕虫在两个月内席卷全国，可执行文件全部变成那只诡异的熊猫图案，硬盘数据被破坏，局域网整段瘫痪，杀毒软件被病毒反杀。
+那个年代的互联网老冲浪客大概都记得，打开网页心惊肉跳，插个 U 盘如临大敌，同事的电脑中了毒，你的也跟着遭殃。
+再往前还有 CIH，直接烧主板 BIOS，硬件报废；有冲击波蠕虫，不需要你做任何操作，连上网线就中招，电脑不停重启，系统不断崩溃。那是一个「裸奔上网」近乎自杀的时代。
+后来这种恐惧慢慢消退了。Windows 有了自</description>
+      <pubDate>Sat, 05 Sep 2026 12:59:17 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369873</guid>
+      <source url="http://www.geekpark.net/news/369873">极客公园</source>
+    </item>
     <item>
       <title>传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元</title>
       <link>http://www.geekpark.net/news/369871</link>
@@ -18,6 +32,38 @@
       <pubDate>Sat, 05 Sep 2026 08:24:15 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369871</guid>
       <source url="http://www.geekpark.net/news/369871">极客公园</source>
+    </item>
+    <item>
+      <title>一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学</title>
+      <link>https://www.ifanr.com/1678515?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>简化过程，直抵结果#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 05 Sep 2026 07:08:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678515?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678515?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了</title>
+      <link>https://www.ifanr.com/1678295?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>祖宗之法也得变#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 05 Sep 2026 05:37:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678295?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678295?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕</title>
+      <link>https://www.qbitai.com/2026/09/484649.html</link>
+      <description>AI直接吐出正确答案，但最关键的可能不是答案</description>
+      <pubDate>Sat, 05 Sep 2026 04:24:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/484649.html</guid>
+      <source url="https://www.qbitai.com/2026/09/484649.html">量子位</source>
+    </item>
+    <item>
+      <title>这个世界模型训练完就“退场”，机器人反而更能干了</title>
+      <link>https://www.qbitai.com/2026/09/484611.html</link>
+      <description>如此“反骨”的方法，具体又是怎么实现的？</description>
+      <pubDate>Sat, 05 Sep 2026 04:18:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/484611.html</guid>
+      <source url="https://www.qbitai.com/2026/09/484611.html">量子位</source>
     </item>
     <item>
       <title>姚班校友主导，Claude攻克费马大定理首个完整形式化证明</title>
@@ -38,19 +84,22 @@
       <source url="https://www.ifanr.com/1677342?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>GPT-6 曝光， OpenAI 总裁说：AGI 来了</title>
-      <link>http://www.geekpark.net/news/369867</link>
-      <description>作者｜桦林舞王
-编辑｜靖宇
-他措辞很谨慎，用的是第一人称，加了「可能」，还专门留了后路说「如果你想说这是第一个，我认为这是合理的」。
-这不是 OpenAI 官方宣布 AGI 到来，而是一位公司总裁在镜头前说出了自己的判断。
-当地时间 9 月 3 日，GPT-6 Astra 正式发布。极客公园拆解了目前能获取到的所有技术细节和演示材料，试图回答一个最核心的问题，这个模型，到底能干什么，能干到什么程度？它真的能代表 AGI 的到来吗？
-01
-「操控电脑」趋于神话
-在发布材料里，OpenAI 给 Astra 起了个简洁的 slogan：「Anything you can do on a comput</description>
-      <pubDate>Fri, 04 Sep 2026 17:47:40 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369867</guid>
-      <source url="http://www.geekpark.net/news/369867">极客公园</source>
+      <title>GPT-6 Astra with Ben Davis</title>
+      <link>https://www.youtube.com/watch?v=B-jjnydci50</link>
+      <description>Ben Davis shares his first impressions of GPT-6 Astra after testing it on some of DEF CON's hardest puzzle challenges. He explains how parallel research branches help the model test theories, stay on track, and solve complex problems, including one no one else had solved.</description>
+      <pubDate>Sat, 05 Sep 2026 00:11:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=B-jjnydci50</guid>
+      <source url="https://www.youtube.com/watch?v=B-jjnydci50">OpenAI</source>
+    </item>
+    <item>
+      <title>Introducing GPT-6 Astra for developers</title>
+      <link>https://www.youtube.com/watch?v=bOC3DisEOfg</link>
+      <description>Meet GPT-6 Astra, our latest frontier model for tasks where raw intelligence matters. Charlie Guo, Developer Experience Engineer at OpenAI, demonstrates improved Computer Use, stronger creative and knowledge-work outputs, and new asynchronous tool calling and steering in the Responses API.
+
+Read mor</description>
+      <pubDate>Fri, 04 Sep 2026 20:22:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=bOC3DisEOfg</guid>
+      <source url="https://www.youtube.com/watch?v=bOC3DisEOfg">OpenAI</source>
     </item>
     <item>
       <title>本周看什么 | 最近值得一看的 8 部作品</title>
@@ -129,6 +178,30 @@
       <source url="https://www.ifanr.com/1678459?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
+      <title>Use ChatGPT Work to analyze ad performance and refine creative</title>
+      <link>https://www.youtube.com/watch?v=5iu0nY9lIy8</link>
+      <description>Turn ad insights into your next creative idea.
+
+This demo follows a shopper from product discovery to a clearly labeled ad, then shows how our marketing team uses ChatGPT Work to compare the fictional NOVA campaign’s performance and explore what creative to try next.
+
+Watch the full webinar: https:/</description>
+      <pubDate>Fri, 04 Sep 2026 12:29:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=5iu0nY9lIy8</guid>
+      <source url="https://www.youtube.com/watch?v=5iu0nY9lIy8">OpenAI</source>
+    </item>
+    <item>
+      <title>Use ChatGPT Work to build custom creative tools</title>
+      <link>https://www.youtube.com/watch?v=D-QteDHdHes</link>
+      <description>Build the creative tools your team needs.
+
+This is how our marketing team uses ChatGPT Work to turn a brief, brand book and wireframe into a custom design tool for fictional brand NOVA, then build campaign imagery and a product website.
+
+Watch the full webinar: https://goldcast.registration.public-p</description>
+      <pubDate>Fri, 04 Sep 2026 12:27:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=D-QteDHdHes</guid>
+      <source url="https://www.youtube.com/watch?v=D-QteDHdHes">OpenAI</source>
+    </item>
+    <item>
       <title>在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p</title>
       <link>https://sspai.com/post/113990</link>
       <description>在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文</description>
@@ -143,82 +216,6 @@
       <pubDate>Fri, 04 Sep 2026 09:23:24 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/484547.html</guid>
       <source url="https://www.qbitai.com/2026/09/484547.html">量子位</source>
-    </item>
-    <item>
-      <title>机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理</title>
-      <link>https://www.qbitai.com/2026/09/484437.html</link>
-      <description>星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL</description>
-      <pubDate>Fri, 04 Sep 2026 09:19:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/484437.html</guid>
-      <source url="https://www.qbitai.com/2026/09/484437.html">量子位</source>
-    </item>
-    <item>
-      <title>九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律</title>
-      <link>https://www.qbitai.com/2026/09/484293.html</link>
-      <description>不训练模型、不调参数</description>
-      <pubDate>Fri, 04 Sep 2026 08:57:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/484293.html</guid>
-      <source url="https://www.qbitai.com/2026/09/484293.html">量子位</source>
-    </item>
-    <item>
-      <title>派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等</title>
-      <link>https://sspai.com/post/114164</link>
-      <description>Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。查看全文</description>
-      <pubDate>Fri, 04 Sep 2026 08:47:49 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114164</guid>
-      <source url="https://sspai.com/post/114164">少数派</source>
-    </item>
-    <item>
-      <title>OpenAI 曝光 GPT-6，能力超群；微信公关总监回应「好友超 1 万可查看单删好友」；联合国：超强而厄尔尼诺将冲击全球经济 ｜ 极客早知道</title>
-      <link>http://www.geekpark.net/news/369801</link>
-      <description>GPT-6 曝光，OpenAI 总裁说：AGI 来了
-当地时间 9 月 3 日，GPT-6 Astra 正式发布。OpenAI 总裁 Greg Brockman 在发布会结束后，说了一句在 AI 行业极为罕见的话：「我个人认为，我们可能已经到达 AGI 了，我觉得就是这个模型。」
-OpenAI 给 Astra 起了个简洁的 slogan：「Anything you can do on a computer, Astra can do for you.（你在电脑上能做的任何事，Astra 都能替你做。）」
-新模型可以像人一样，直接「看」屏幕上的像素，然后移动鼠标、敲击键盘，完成操作。
-给 Ast</description>
-      <pubDate>Fri, 04 Sep 2026 08:25:05 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369801</guid>
-      <source url="http://www.geekpark.net/news/369801">极客公园</source>
-    </item>
-    <item>
-      <title>金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源</title>
-      <link>https://www.qbitai.com/2026/09/484203.html</link>
-      <description>5000支队伍同台做题，写尽行业四年变化</description>
-      <pubDate>Fri, 04 Sep 2026 07:09:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/484203.html</guid>
-      <source url="https://www.qbitai.com/2026/09/484203.html">量子位</source>
-    </item>
-    <item>
-      <title>李飞飞刚发Atlas，中国开源“同款”已抢跑半年？</title>
-      <link>https://www.qbitai.com/2026/09/484163.html</link>
-      <description>智能不只是模式识别，更是对世界的建模</description>
-      <pubDate>Fri, 04 Sep 2026 06:54:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/484163.html</guid>
-      <source url="https://www.qbitai.com/2026/09/484163.html">量子位</source>
-    </item>
-    <item>
-      <title>GPT-6 曝光， OpenAI 总裁说：AGI 来了</title>
-      <link>http://www.geekpark.net/news/369800</link>
-      <description>&amp;nbsp;
-
-头图来源：OpenAI
-作者｜桦林舞王
-编辑｜靖宇
-2026 年 9 月 3 日，OpenAI 总裁 Greg Brockman 在发布会结束后，说了一句在 AI 行业极为罕见的话：「我个人认为，我们可能已经到达 AGI 了，我觉得就是这个模型。」
-他措辞很谨慎，用的是第一人称，加了「可能」，还专门留了后路说「如果你想说这是第一个，我认为这是合理的」。
-这不是 OpenAI 官方宣布 AGI 到来，而是一位公司总裁在镜头前说出了自己的判断。
-当地时间 9 月 3 日，GPT-6 Astra正式发布。极客公园拆解了目前能获取到的所有技术细节和演示材料，试图回答一个最核心的问题，这</description>
-      <pubDate>Fri, 04 Sep 2026 06:48:29 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369800</guid>
-      <source url="http://www.geekpark.net/news/369800">极客公园</source>
-    </item>
-    <item>
-      <title>2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先</title>
-      <link>https://www.qbitai.com/2026/09/484159.html</link>
-      <description>雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。</description>
-      <pubDate>Fri, 04 Sep 2026 05:53:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/484159.html</guid>
-      <source url="https://www.qbitai.com/2026/09/484159.html">量子位</source>
     </item>
   </channel>
 </rss>
