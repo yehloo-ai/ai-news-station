@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 00:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 05:54:27 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站</title>
@@ -17,6 +17,14 @@
       <pubDate>Sun, 06 Sep 2026 08:06:12 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369875</guid>
       <source url="http://www.geekpark.net/news/369875">极客公园</source>
+    </item>
+    <item>
+      <title>B站首届AI创造公开赛收官，超八成参赛者为一人团队</title>
+      <link>https://www.qbitai.com/2026/09/484890.html</link>
+      <description></description>
+      <pubDate>Sun, 06 Sep 2026 04:40:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/484890.html</guid>
+      <source url="https://www.qbitai.com/2026/09/484890.html">量子位</source>
     </item>
     <item>
       <title>最值得买的顶级公路车？TREK 八代 Madone 评测</title>
@@ -127,24 +135,6 @@
       <source url="https://www.ifanr.com/1677342?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>GPT-6 Astra with Ben Davis</title>
-      <link>https://www.youtube.com/watch?v=B-jjnydci50</link>
-      <description>Ben Davis shares his first impressions of GPT-6 Astra after testing it on some of DEF CON's hardest puzzle challenges. He explains how parallel research branches help the model test theories, stay on track, and solve complex problems, including one no one else had solved.</description>
-      <pubDate>Sat, 05 Sep 2026 00:11:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=B-jjnydci50</guid>
-      <source url="https://www.youtube.com/watch?v=B-jjnydci50">OpenAI</source>
-    </item>
-    <item>
-      <title>Introducing GPT-6 Astra for developers</title>
-      <link>https://www.youtube.com/watch?v=bOC3DisEOfg</link>
-      <description>Meet GPT-6 Astra, our latest frontier model for tasks where raw intelligence matters. Charlie Guo, Developer Experience Engineer at OpenAI, demonstrates improved Computer Use, stronger creative and knowledge-work outputs, and new asynchronous tool calling and steering in the Responses API.
-
-Read mor</description>
-      <pubDate>Fri, 04 Sep 2026 20:22:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=bOC3DisEOfg</guid>
-      <source url="https://www.youtube.com/watch?v=bOC3DisEOfg">OpenAI</source>
-    </item>
-    <item>
       <title>本周看什么 | 最近值得一看的 8 部作品</title>
       <link>https://sspai.com/post/114175</link>
       <description>📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文</description>
@@ -211,6 +201,14 @@ Read mor</description>
       <pubDate>Fri, 04 Sep 2026 15:01:57 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114117</guid>
       <source url="https://sspai.com/post/114117">少数派</source>
+    </item>
+    <item>
+      <title>24.99 万元起、全系四激光雷达，启境 GX7 还准备了一件「午休神器」</title>
+      <link>https://www.ifanr.com/1678459?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>20 秒开启极速午休。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 04 Sep 2026 13:09:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678459?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678459?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
