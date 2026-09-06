@@ -5,8 +5,19 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Sep 2026 22:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:56:00 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站</title>
+      <link>http://www.geekpark.net/news/369875</link>
+      <description>大模型厂商纷纷「卖 Token」，消息称 Kimi、MiniMax 等即将在天猫开店
+上海证券报 9 月 5 日独家获悉，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售 Token 订阅套餐产品。
+本月 2 日，国产 AI 大模型厂商智谱正式入驻天猫，开设「智谱旗舰店」。用户可在淘宝 App 搜索「智谱旗舰店」进店下单。店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。
+此前大模型厂商主要通过官网等自有渠道销售</description>
+      <pubDate>Sun, 06 Sep 2026 08:06:12 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369875</guid>
+      <source url="http://www.geekpark.net/news/369875">极客公园</source>
+    </item>
     <item>
       <title>最值得买的顶级公路车？TREK 八代 Madone 评测</title>
       <link>https://sspai.com/post/114040</link>
@@ -200,14 +211,6 @@ Read mor</description>
       <pubDate>Fri, 04 Sep 2026 15:01:57 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114117</guid>
       <source url="https://sspai.com/post/114117">少数派</source>
-    </item>
-    <item>
-      <title>24.99 万元起、全系四激光雷达，启境 GX7 还准备了一件「午休神器」</title>
-      <link>https://www.ifanr.com/1678459?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>20 秒开启极速午休。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 04 Sep 2026 13:09:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678459?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678459?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
