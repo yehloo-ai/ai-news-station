@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 05:54:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:54:49 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游</title>
+      <link>https://sspai.com/post/114076</link>
+      <description>对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...查看全文</description>
+      <pubDate>Sun, 06 Sep 2026 15:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114076</guid>
+      <source url="https://sspai.com/post/114076">少数派</source>
+    </item>
+    <item>
+      <title>专访康宁 CCO 李汉超：175 年以来，康宁始终是一家创新材料公司</title>
+      <link>https://www.ifanr.com/1678257?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>「扎根中国、投资中国、回馈中国」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sun, 06 Sep 2026 10:30:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678257?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678257?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站</title>
       <link>http://www.geekpark.net/news/369875</link>
@@ -17,6 +33,14 @@
       <pubDate>Sun, 06 Sep 2026 08:06:12 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369875</guid>
       <source url="http://www.geekpark.net/news/369875">极客公园</source>
+    </item>
+    <item>
+      <title>AI 降低了创造的门槛，B 站则想放大创造的回声</title>
+      <link>https://www.ifanr.com/1678567?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>震撼其他人的 AI 创造，必须先震撼自己#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sun, 06 Sep 2026 06:00:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678567?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678567?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>B站首届AI创造公开赛收官，超八成参赛者为一人团队</title>
@@ -135,80 +159,30 @@
       <source url="https://www.ifanr.com/1677342?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
+      <title>GPT-6 Astra with Ben Davis</title>
+      <link>https://www.youtube.com/watch?v=B-jjnydci50</link>
+      <description>Ben Davis shares his first impressions of GPT-6 Astra after testing it on some of DEF CON's hardest puzzle challenges. He explains how parallel research branches help the model test theories, stay on track, and solve complex problems, including one no one else had solved.</description>
+      <pubDate>Sat, 05 Sep 2026 00:11:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=B-jjnydci50</guid>
+      <source url="https://www.youtube.com/watch?v=B-jjnydci50">OpenAI</source>
+    </item>
+    <item>
+      <title>Introducing GPT-6 Astra for developers</title>
+      <link>https://www.youtube.com/watch?v=bOC3DisEOfg</link>
+      <description>Meet GPT-6 Astra, our latest frontier model for tasks where raw intelligence matters. Charlie Guo, Developer Experience Engineer at OpenAI, demonstrates improved Computer Use, stronger creative and knowledge-work outputs, and new asynchronous tool calling and steering in the Responses API.
+
+Read mor</description>
+      <pubDate>Fri, 04 Sep 2026 20:22:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=bOC3DisEOfg</guid>
+      <source url="https://www.youtube.com/watch?v=bOC3DisEOfg">OpenAI</source>
+    </item>
+    <item>
       <title>本周看什么 | 最近值得一看的 8 部作品</title>
       <link>https://sspai.com/post/114175</link>
       <description>📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文</description>
       <pubDate>Fri, 04 Sep 2026 17:32:48 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114175</guid>
       <source url="https://sspai.com/post/114175">少数派</source>
-    </item>
-    <item>
-      <title>对话 Sharpa 李一帆：通用机器人要么全能，要么无能</title>
-      <link>http://www.geekpark.net/news/369851</link>
-      <description>具身智能现在太吵了。
-行业里的人各自笃定，声音大的先被听见。最响的那些声音，往往离真实的进展最远。
-真正在往前推的人，看的是谁在践行非共识，什么在真的往前走，以及谁心里有一张完整的图，而不是走一步看一步。
-这些东西不会上热搜，但它们决定这个行业的下一步。
-我们一直探寻这些。如果你也是&amp;mdash;&amp;mdash;
-欢迎来到极客公园 In The Loop。👇
-
-
-
-
-
-
-&amp;nbsp;
-
-&amp;nbsp;
-&amp;nbsp;
-作者｜Li Yuan
-&amp;nbsp;
-&amp;nbsp;
-
-过去一年，上海静安区最醒目的队伍之一，在兴业太古汇北广场上。114.5 米长的路易威登「路易号」，像是一艘巨轮驶入南京西路，引起游人</description>
-      <pubDate>Fri, 04 Sep 2026 16:37:04 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369851</guid>
-      <source url="http://www.geekpark.net/news/369851">极客公园</source>
-    </item>
-    <item>
-      <title>梅卡曼德上市，具身智能又跑出一家百亿公司</title>
-      <link>http://www.geekpark.net/news/369850</link>
-      <description>作者｜Li Yuan
-编辑｜郑玄
-&amp;nbsp;
-
-
-2026 年 9 月 1 日，梅卡曼德登陆港交所。一个过去很少被大众看见的机器人公司，终于被公开市场标出了价格，首日收盘总市值约 124 亿港元。
-上市之前，一级市场和基石投资者已经先给出了自己的判断。梅卡曼德此次引入包括苏格兰百年资管巨头 Baillie Gifford 在内的 9 家基石投资者，合计认购 1.86 亿美元。
-成立于 2016 年，梅卡曼德和宇树一样，都是上一轮机器人创业潮里走出来的公司。
-但从第一天起，梅卡曼德就没有把重点放在造一台机器人上。公司名 Mech-Mind 里的「Mind」，指向的是另一件事：给机器人做感知、识</description>
-      <pubDate>Fri, 04 Sep 2026 16:33:41 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369850</guid>
-      <source url="http://www.geekpark.net/news/369850">极客公园</source>
-    </item>
-    <item>
-      <title>新学期，新气象：正版软件 &amp; 付费栏目限时优惠</title>
-      <link>https://sspai.com/post/114110</link>
-      <description>多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文</description>
-      <pubDate>Fri, 04 Sep 2026 15:11:46 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114110</guid>
-      <source url="https://sspai.com/post/114110">少数派</source>
-    </item>
-    <item>
-      <title>开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点</title>
-      <link>https://sspai.com/post/114117</link>
-      <description>研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文</description>
-      <pubDate>Fri, 04 Sep 2026 15:01:57 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114117</guid>
-      <source url="https://sspai.com/post/114117">少数派</source>
-    </item>
-    <item>
-      <title>24.99 万元起、全系四激光雷达，启境 GX7 还准备了一件「午休神器」</title>
-      <link>https://www.ifanr.com/1678459?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>20 秒开启极速午休。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 04 Sep 2026 13:09:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678459?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678459?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
