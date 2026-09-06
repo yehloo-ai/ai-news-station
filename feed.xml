@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:12:33 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游</title>
@@ -14,6 +14,14 @@
       <pubDate>Sun, 06 Sep 2026 15:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114076</guid>
       <source url="https://sspai.com/post/114076">少数派</source>
+    </item>
+    <item>
+      <title>具身ICL来了创业玩家！上下文成Scaling新赛道</title>
+      <link>https://www.qbitai.com/2026/09/484897.html</link>
+      <description>让机器人学会利用更长的多模态Context</description>
+      <pubDate>Sun, 06 Sep 2026 11:44:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/484897.html</guid>
+      <source url="https://www.qbitai.com/2026/09/484897.html">量子位</source>
     </item>
     <item>
       <title>专访康宁 CCO 李汉超：175 年以来，康宁始终是一家创新材料公司</title>
@@ -175,14 +183,6 @@ Read mor</description>
       <pubDate>Fri, 04 Sep 2026 20:22:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=bOC3DisEOfg</guid>
       <source url="https://www.youtube.com/watch?v=bOC3DisEOfg">OpenAI</source>
-    </item>
-    <item>
-      <title>本周看什么 | 最近值得一看的 8 部作品</title>
-      <link>https://sspai.com/post/114175</link>
-      <description>📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文</description>
-      <pubDate>Fri, 04 Sep 2026 17:32:48 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114175</guid>
-      <source url="https://sspai.com/post/114175">少数派</source>
     </item>
   </channel>
 </rss>
