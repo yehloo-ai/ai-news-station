@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 17:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 19:09:45 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GPT-6 Astra with Peter Gostev</title>
+      <link>https://www.youtube.com/watch?v=A4BUbpKdenc</link>
+      <description>Peter Gostev shares his first impressions of GPT-6 Astra, from building a 3D London that moves through different historical eras to improving an app with around 150,000 lines of code. He discusses more natural feedback, greater reliability, and taking on complex tasks with less supervision.</description>
+      <pubDate>Sun, 06 Sep 2026 17:53:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=A4BUbpKdenc</guid>
+      <source url="https://www.youtube.com/watch?v=A4BUbpKdenc">OpenAI</source>
+    </item>
     <item>
       <title>让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游</title>
       <link>https://sspai.com/post/114076</link>
@@ -173,16 +181,6 @@
       <pubDate>Sat, 05 Sep 2026 00:11:56 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=B-jjnydci50</guid>
       <source url="https://www.youtube.com/watch?v=B-jjnydci50">OpenAI</source>
-    </item>
-    <item>
-      <title>Introducing GPT-6 Astra for developers</title>
-      <link>https://www.youtube.com/watch?v=bOC3DisEOfg</link>
-      <description>Meet GPT-6 Astra, our latest frontier model for tasks where raw intelligence matters. Charlie Guo, Developer Experience Engineer at OpenAI, demonstrates improved Computer Use, stronger creative and knowledge-work outputs, and new asynchronous tool calling and steering in the Responses API.
-
-Read mor</description>
-      <pubDate>Fri, 04 Sep 2026 20:22:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=bOC3DisEOfg</guid>
-      <source url="https://www.youtube.com/watch?v=bOC3DisEOfg">OpenAI</source>
     </item>
   </channel>
 </rss>
