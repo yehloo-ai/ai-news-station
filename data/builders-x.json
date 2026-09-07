@@ -1,26 +1,7 @@
 {
-  "generatedAt": "2026-09-05T06:35:59.594Z",
+  "generatedAt": "2026-09-06T22:54:40.471Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Swyx",
-      "handle": "swyx",
-      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
-      "tweets": [
-        {
-          "id": "2096095862732755342",
-          "text": "i am working on a massive Astra/Fable frontier model AEO report and it looks like Claude loves @latentspacepod when asked for best ai newsletter/podcast!! was so surprised that @ricmac made me doublecheck for memory leaks lol https://t.co/fpiS98Tzu8",
-          "createdAt": "2026-09-05T04:39:31.000Z",
-          "url": "https://x.com/swyx/status/2096095862732755342",
-          "likes": 7,
-          "retweets": 1,
-          "replies": 13,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Thibault Sottiaux",
@@ -28,35 +9,13 @@
       "bio": "Codex & ChatGPT @OpenAI",
       "tweets": [
         {
-          "id": "2096101429832552872",
-          "text": "Astra was probably our biggest competitive advantage while it wasn’t generally available.\n\nSince we’ve had it our productivity jumped so much that we shifted some of our plans 6 months ahead and will ship them at DevDay instead of mid next year.",
-          "createdAt": "2026-09-05T05:01:39.000Z",
-          "url": "https://x.com/thsottiaux/status/2096101429832552872",
-          "likes": 7364,
-          "retweets": 296,
-          "replies": 537,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2096035748130795560",
-          "text": "And the team will have some nice sleep now. See you next week for some more ships.",
-          "createdAt": "2026-09-05T00:40:39.000Z",
-          "url": "https://x.com/thsottiaux/status/2096035748130795560",
-          "likes": 3232,
-          "retweets": 50,
-          "replies": 199,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2096035437299237298",
-          "text": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day.\n\nHappy Astra day and enjoy a phenomenal weekend. \n\nPS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
-          "createdAt": "2026-09-05T00:39:25.000Z",
-          "url": "https://x.com/thsottiaux/status/2096035437299237298",
-          "likes": 17706,
-          "retweets": 848,
-          "replies": 1675,
+          "id": "2096688770523467947",
+          "text": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.\n\nIf you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra.",
+          "createdAt": "2026-09-06T19:55:32.000Z",
+          "url": "https://x.com/thsottiaux/status/2096688770523467947",
+          "likes": 10989,
+          "retweets": 480,
+          "replies": 1212,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -69,35 +28,24 @@
       "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
       "tweets": [
         {
-          "id": "2096086845159563476",
-          "text": "OpenAI should ship an app for Apple Watch where I can just voice dictate to my Codex threads and it'll reply back with voice too. \n\nThen I won't have to carry my phone around and have screen addiction.\n\nOr maybe this is what the rumored OpenAI device does.",
-          "createdAt": "2026-09-05T04:03:41.000Z",
-          "url": "https://x.com/petergyang/status/2096086845159563476",
-          "likes": 58,
+          "id": "2096612718098911590",
+          "text": "“Cheating and explaining the answer [to your child] are closer than you’d think.”\n\nHere’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked about:\n\n→ Why better grades don’t always mean more learning\n\n→ How to help kids enjoy doing hard things vs. only trying to please adults\n\n→ Why her #1 product principle is “Never tell the learner the answer”\n\nSome quotes from Sue:\n\n“Using AI to skip learning is like bringing a robotic arm to the gym to lift weights for you.”\n\n“Learning isn’t about the answer. It is about strengthening that part of you that can concentrate and struggle, that’s unafraid of trying new problems.”\n\n“When building AI products, try to find areas where you have unique data that makes your product better over time.”\n\n📌 Watch the full episode: https://t.co/jzogacrhiK\n\nThanks to our sponsors:\n\n@linear: The AI agent platform for modern teams https://t.co/tgWf9oL4bs\n\n@RiversidedotFM: All-in-one AI studio for podcasts and video https://t.co/uWnS6aiMPE",
+          "createdAt": "2026-09-06T14:53:19.000Z",
+          "url": "https://x.com/petergyang/status/2096612718098911590",
+          "likes": 36,
+          "retweets": 7,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2096466888935276719",
+          "text": "I’ve been sleeping on Widow’s Bay and in general Apple’s shows are so much better any other streamer",
+          "createdAt": "2026-09-06T05:13:51.000Z",
+          "url": "https://x.com/petergyang/status/2096466888935276719",
+          "likes": 59,
           "retweets": 1,
-          "replies": 12,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2096036429159973348",
-          "text": "Astra generated the most stereotypical image of a PM I've ever seen for my game https://t.co/kTHOWcVSWP",
-          "createdAt": "2026-09-05T00:43:21.000Z",
-          "url": "https://x.com/petergyang/status/2096036429159973348",
-          "likes": 42,
-          "retweets": 0,
-          "replies": 12,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2096020213775118765",
-          "text": "Would you all want to play my roguelike deckbuilder https://t.co/5XUsQU7S83",
-          "createdAt": "2026-09-04T23:38:55.000Z",
-          "url": "https://x.com/petergyang/status/2096020213775118765",
-          "likes": 19,
-          "retweets": 0,
-          "replies": 2,
+          "replies": 22,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -105,296 +53,56 @@
     },
     {
       "source": "x",
-      "name": "Madhu Guru",
-      "handle": "realmadhuguru",
-      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
       "tweets": [
         {
-          "id": "2095907570540335174",
-          "text": "Here’s one practical thing you can do this weekend to get better at building AI products.\n\nPick a workflow you know well - from your personal life or your work.\n\nAutomate the whole thing with AI.\n\nUse the AI product you’re comfortable with - you’ll probably have to experiment with a few.\n\nThis exercise will force you to think about\n\n1/ What does a great end-to-end experience look like?\n2/ How should you use MCPs and tools?\n3/ Where should humans stay in the loop?\n4/ How do you evaluate it?\n\nThen keep expanding the ambition.\n\nYou’ll learn more by doing this once than by reading about AI product building for a month.\n\nThe only way to learn is to build.",
-          "createdAt": "2026-09-04T16:11:19.000Z",
-          "url": "https://x.com/realmadhuguru/status/2095907570540335174",
-          "likes": 129,
-          "retweets": 9,
+          "id": "2096438571838370096",
+          "text": "Every tech startup logo https://t.co/52Prjggey0",
+          "createdAt": "2026-09-06T03:21:20.000Z",
+          "url": "https://x.com/thenanyu/status/2096438571838370096",
+          "likes": 101,
+          "retweets": 1,
           "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
+          "isQuote": true,
+          "quotedTweetId": "2096317440720293961"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Amjad Masad",
-      "handle": "amasad",
-      "bio": "ceo @replit. civilizationist",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
       "tweets": [
         {
-          "id": "2096022087035195647",
-          "text": "The singularity is here, it’s just not evenly distributed https://t.co/8osY33GqLS",
-          "createdAt": "2026-09-04T23:46:22.000Z",
-          "url": "https://x.com/amasad/status/2096022087035195647",
-          "likes": 512,
-          "retweets": 17,
-          "replies": 25,
+          "id": "2096403459579015374",
+          "text": "Can’t remember last time we had such a large jump in capabilities. https://t.co/iGxVUYmGHj",
+          "createdAt": "2026-09-06T01:01:48.000Z",
+          "url": "https://x.com/steipete/status/2096403459579015374",
+          "likes": 1756,
+          "retweets": 59,
+          "replies": 66,
           "isQuote": true,
-          "quotedTweetId": "2095986080214569152"
+          "quotedTweetId": "2096123591993512092"
         },
         {
-          "id": "2095986658185453928",
-          "text": "Astra on Replit ✨ https://t.co/ONm0dLAwoD",
-          "createdAt": "2026-09-04T21:25:35.000Z",
-          "url": "https://x.com/amasad/status/2095986658185453928",
-          "likes": 233,
-          "retweets": 17,
-          "replies": 17,
+          "id": "2096400749869830325",
+          "text": "One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast enough.)\n\nWill have that next week. https://t.co/lpiszOtVGP",
+          "createdAt": "2026-09-06T00:51:02.000Z",
+          "url": "https://x.com/steipete/status/2096400749869830325",
+          "likes": 755,
+          "retweets": 35,
+          "replies": 54,
           "isQuote": true,
-          "quotedTweetId": "2095976844701184385"
-        },
-        {
-          "id": "2095792059647234204",
-          "text": "It’s coming 🤗 https://t.co/FUYGCMIFmV https://t.co/K9SJQxdAj6",
-          "createdAt": "2026-09-04T08:32:19.000Z",
-          "url": "https://x.com/amasad/status/2095792059647234204",
-          "likes": 285,
-          "retweets": 15,
-          "replies": 31,
-          "isQuote": true,
-          "quotedTweetId": "2095541502827233325"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Guillermo Rauch",
-      "handle": "rauchg",
-      "bio": "@vercel CEO",
-      "tweets": [
-        {
-          "id": "2096092393569501263",
-          "text": "これ https://t.co/ZDbjqCl3M6",
-          "createdAt": "2026-09-05T04:25:44.000Z",
-          "url": "https://x.com/rauchg/status/2096092393569501263",
-          "likes": 95,
-          "retweets": 9,
-          "replies": 6,
-          "isQuote": true,
-          "quotedTweetId": "2095870720815616417"
-        },
-        {
-          "id": "2096065378598441431",
-          "text": "Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrastructure… WebMCP makes it more efficient.\n\nSome pretty unique wins too. e.g: Next.js dev pages could expose debugging tools directly to agents in the specific tab they’re testing, with page-specific context, instead of sifting through server logs. No separate MCP server to find and configure because the page directly exposes its own 'agent tools'.\n\ne.g: in this world 𝚏𝚡 + 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 is a complete web dev stack with zero loss in debugging depth",
-          "createdAt": "2026-09-05T02:38:23.000Z",
-          "url": "https://x.com/rauchg/status/2096065378598441431",
-          "likes": 550,
-          "retweets": 23,
-          "replies": 46,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2095926173293572467",
-          "text": "AI software factories will yield bug-free, self-improving software https://t.co/m8J9LT2wbR",
-          "createdAt": "2026-09-04T17:25:14.000Z",
-          "url": "https://x.com/rauchg/status/2095926173293572467",
-          "likes": 780,
-          "retweets": 29,
-          "replies": 49,
-          "isQuote": true,
-          "quotedTweetId": "2095925628679884833"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Garry Tan",
-      "handle": "garrytan",
-      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "tweets": [
-        {
-          "id": "2095971990645755941",
-          "text": "Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour experience. \n\nAside's harness with full integrations AND browser integration did it in less than 3 minutes, and it's fully featured with smart access control defaults https://t.co/ja81EcaMUh",
-          "createdAt": "2026-09-04T20:27:18.000Z",
-          "url": "https://x.com/garrytan/status/2095971990645755941",
-          "likes": 296,
-          "retweets": 17,
-          "replies": 38,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2095948689823121872",
-          "text": "GStack now uses @AsideAI browser as it's preferred remote session browser\n\nDoes your AI agent need access to web and credentials as you? Aside is now the #1 absolute best way to do it I've found out of all AI agent tools. \n\nAside is a/ an amazing browser, b/ great at credentials, c/ has all the integrations you need and c/ actually an amazing harness and memory system in its own right\n\nIt's my new favorite AI browser",
-          "createdAt": "2026-09-04T18:54:43.000Z",
-          "url": "https://x.com/garrytan/status/2095948689823121872",
-          "likes": 271,
-          "retweets": 13,
-          "replies": 42,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Matt Turck",
-      "handle": "mattturck",
-      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-      "tweets": [
-        {
-          "id": "2095885287960264962",
-          "text": "From our recent pod: \n\nhttps://t.co/ZOvmqrsNSx",
-          "createdAt": "2026-09-04T14:42:46.000Z",
-          "url": "https://x.com/mattturck/status/2095885287960264962",
-          "likes": 3,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2095885284801982779",
-          "text": "Hugging Face and @Thom_Wolf cannot stop winning, first the acquisition and now this comment lol https://t.co/Mj4Iy4ssT4",
-          "createdAt": "2026-09-04T14:42:46.000Z",
-          "url": "https://x.com/mattturck/status/2095885284801982779",
-          "likes": 58,
-          "retweets": 1,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Zara Zhang",
-      "handle": "zarazhangrui",
-      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
-      "tweets": [
-        {
-          "id": "2096082116828406233",
-          "text": "Most people perceive AI to be a better writer than it actually is https://t.co/3OotzOgCkW",
-          "createdAt": "2026-09-05T03:44:54.000Z",
-          "url": "https://x.com/zarazhangrui/status/2096082116828406233",
-          "likes": 15,
-          "retweets": 1,
-          "replies": 6,
-          "isQuote": true,
-          "quotedTweetId": "2095339004757745892"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Nikunj Kothari",
-      "handle": "nikunj",
-      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
-      "tweets": [
-        {
-          "id": "2095890365723406590",
-          "text": "Adding “sovereign” to this list based on the last few weeks https://t.co/Qyu5uXanZA",
-          "createdAt": "2026-09-04T15:02:57.000Z",
-          "url": "https://x.com/nikunj/status/2095890365723406590",
-          "likes": 11,
-          "retweets": 0,
-          "replies": 4,
-          "isQuote": true,
-          "quotedTweetId": "2085209022115029132"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Dan Shipper",
-      "handle": "danshipper",
-      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-      "tweets": [
-        {
-          "id": "2095925615467659637",
-          "text": "can’t help myself https://t.co/ZEZh9OlqvI",
-          "createdAt": "2026-09-04T17:23:01.000Z",
-          "url": "https://x.com/danshipper/status/2095925615467659637",
-          "likes": 27,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2095925525424259308"
-        },
-        {
-          "id": "2095885899871449385",
-          "text": "can you tell Astra is running my @every office fantasy team\n\nthis is my team name: https://t.co/2t1fY52eFh",
-          "createdAt": "2026-09-04T14:45:12.000Z",
-          "url": "https://x.com/danshipper/status/2095885899871449385",
-          "likes": 11,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2095882683729490108",
-          "text": "i've got Astra doing film study for our @every fantasy football draft \n\nwe going to take over this league 😤 https://t.co/kMKz5XscV8",
-          "createdAt": "2026-09-04T14:32:26.000Z",
-          "url": "https://x.com/danshipper/status/2095882683729490108",
-          "likes": 62,
-          "retweets": 1,
-          "replies": 9,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Aditya Agarwal",
-      "handle": "adityaag",
-      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
-      "tweets": [
-        {
-          "id": "2095910036652577028",
-          "text": "Me: I totally understand how RL, inference time scaling, modern data-verification loops work.\n\nAlso Me: These models are total sorcery. There is no way that they should be able to do what they do.",
-          "createdAt": "2026-09-04T16:21:07.000Z",
-          "url": "https://x.com/adityaag/status/2095910036652577028",
-          "likes": 88,
-          "retweets": 3,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Sam Altman",
-      "handle": "sama",
-      "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-      "tweets": [
-        {
-          "id": "2096008528834244741",
-          "text": "Now out to all Plus and Business users.\n\nHappy building! https://t.co/66tabg3Yid",
-          "createdAt": "2026-09-04T22:52:29.000Z",
-          "url": "https://x.com/sama/status/2096008528834244741",
-          "likes": 12851,
-          "retweets": 549,
-          "replies": 805,
-          "isQuote": true,
-          "quotedTweetId": "2095973658867171733"
-        },
-        {
-          "id": "2095973658867171733",
-          "text": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API.\n\nWe will start rollout to Plus and Business users next.\n\nThank you for the patience.",
-          "createdAt": "2026-09-04T20:33:56.000Z",
-          "url": "https://x.com/sama/status/2095973658867171733",
-          "likes": 15960,
-          "retweets": 711,
-          "replies": 722,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2096367438443262091"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 13,
-    "totalTweets": 26
+    "xBuilders": 4,
+    "totalTweets": 6
   }
 }
