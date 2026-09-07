@@ -1,162 +1,48 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "attribution": {
     "source": "AIHOT",
-    "canonical": "https://aihot.virxact.com/daily/2026-09-06"
+    "canonical": "https://aihot.virxact.com/daily/2026-09-07"
   },
-  "generatedAt": "2026-09-06T00:01:35.239Z",
-  "windowStart": "2026-09-05T00:00:00.000Z",
-  "windowEnd": "2026-09-06T00:00:00.000Z",
+  "generatedAt": "2026-09-07T00:00:08.061Z",
+  "windowStart": "2026-09-06T00:00:00.000Z",
+  "windowEnd": "2026-09-07T00:00:00.000Z",
   "lead": null,
   "sections": [
-    {
-      "label": "模型发布/更新",
-      "items": [
-        {
-          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-          "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
-          "sourceUrl": "https://www.ithome.com/0/998/661.htm",
-          "sourceName": "IT之家（RSS）",
-          "permalink": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn"
-          }
-        },
-        {
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-          "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
-          "sourceUrl": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "permalink": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3"
-          }
-        }
-      ]
-    },
-    {
-      "label": "产品发布/更新",
-      "items": [
-        {
-          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-          "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
-          "sourceUrl": "https://github.com/anthropics/fermats-last-theorem",
-          "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "permalink": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun"
-          }
-        },
-        {
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "summary": "GPT-6 Astra (Max) 以 1797 分登顶 Code Arena: WebDev，领先第 2 名 Claude Fable 5.1 (Max) 35 分、第 3 名 Claude Opus 5 (Max) 1688 分。",
-          "sourceUrl": "https://x.com/testingcatalog/status/2096350628054176240",
-          "sourceName": "X：Testing Catalog (@testingcatalog)",
-          "permalink": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii"
-          }
-        }
-      ]
-    },
-    {
-      "label": "行业动态",
-      "items": [
-        {
-          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-          "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
-          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-          "sourceName": "The Verge：AI（RSS）",
-          "permalink": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s"
-          }
-        },
-        {
-          "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-          "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
-          "sourceUrl": "https://www.ithome.com/0/998/758.htm",
-          "sourceName": "IT之家（RSS）",
-          "permalink": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511"
-          }
-        },
-        {
-          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
-          "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
-          "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-          "sourceName": "TechCrunch：AI（RSS）",
-          "permalink": "https://aihot.virxact.com/items/cmtoq071c01tjro4mqmxcuu03",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmtoq071c01tjro4mqmxcuu03"
-          }
-        }
-      ]
-    },
     {
       "label": "技巧与观点",
       "items": [
         {
-          "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
-          "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2096303922378088854",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "permalink": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8",
+          "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
+          "summary": "OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。",
+          "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8"
+            "canonical": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v"
           }
         },
         {
-          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
-          "sourceUrl": "https://www.ithome.com/0/998/814.htm",
+          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "summary": "据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。",
+          "sourceUrl": "https://www.ithome.com/0/998/927.htm",
           "sourceName": "IT之家（RSS）",
-          "permalink": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
+          "permalink": "https://aihot.virxact.com/items/cmtphtttc01pkroxxh8pinzq2",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2"
+            "canonical": "https://aihot.virxact.com/items/cmtphtttc01pkroxxh8pinzq2"
           }
         },
         {
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-          "sourceUrl": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "sourceName": "The Decoder：AI News（RSS）",
-          "permalink": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
+          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+          "summary": "OpenAI 发布长文《An Alien Mind》，回溯 2023 年 RLSlow 项目中确认推理模型可扩展训练的起点，并系统阐述目标对齐与价值对齐的区分。文章指出链式思维监控的效果正随着模型能力提升而逐步减弱，GPT‑6 Astra 在对齐上显著优于 GPT‑5.6 Sol；作者预期进展可能持续走向机器递归自我改进（RSI），呼吁自愿放缓扩展、建立第三方安全门槛并加强国际协调。",
+          "sourceUrl": "https://openai.com/index/an-alien-mind",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.virxact.com/items/cmtq23v6k01aorotwh8xip8r1",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw"
-          }
-        },
-        {
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
-          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "sourceName": "公众号：数字生命卡兹克",
-          "permalink": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9"
-          }
-        },
-        {
-          "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
-          "summary": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
-          "sourceUrl": "https://x.com/OpenAI/status/2096133504417616165",
-          "sourceName": "X：OpenAI (@OpenAI)",
-          "permalink": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka"
+            "canonical": "https://aihot.virxact.com/items/cmtq23v6k01aorotwh8xip8r1"
           }
         }
       ]
