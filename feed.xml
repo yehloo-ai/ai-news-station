@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Sep 2026 15:54:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 19:57:58 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>AI 时代，「种草」这件事会变成什么样？</title>
@@ -73,6 +73,14 @@
       <pubDate>Mon, 07 Sep 2026 17:29:26 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/369955</guid>
       <source url="http://www.geekpark.net/news/369955">极客公园</source>
+    </item>
+    <item>
+      <title>GPT-6 Astra with Tom Krcha</title>
+      <link>https://www.youtube.com/watch?v=QDLlQ5IL2Bk</link>
+      <description>Tom Krcha shares his first impressions of GPT-6 Astra through a customizable logo tool, website designs with coordinated visual details, and adjustable photo shaders. He explores how the model helps designers develop ideas, build interactive prototypes, and bring a clearer creative direction to thei</description>
+      <pubDate>Mon, 07 Sep 2026 17:15:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=QDLlQ5IL2Bk</guid>
+      <source url="https://www.youtube.com/watch?v=QDLlQ5IL2Bk">OpenAI</source>
     </item>
     <item>
       <title>麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了</title>
@@ -200,14 +208,6 @@
       <pubDate>Mon, 07 Sep 2026 07:54:48 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1678637?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1678637?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%</title>
-      <link>https://www.qbitai.com/2026/09/485064.html</link>
-      <description>9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。</description>
-      <pubDate>Mon, 07 Sep 2026 06:53:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485064.html</guid>
-      <source url="https://www.qbitai.com/2026/09/485064.html">量子位</source>
     </item>
   </channel>
 </rss>
