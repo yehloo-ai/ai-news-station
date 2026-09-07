@@ -5,8 +5,63 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:15:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 15:54:07 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 时代，「种草」这件事会变成什么样？</title>
+      <link>http://www.geekpark.net/news/369962</link>
+      <description>&amp;nbsp;
+
+&amp;nbsp;
+作者｜靖宇 
+互联网时代，鲜有一个网站或者应用，能像小红书一样在不停的转换身份和功能的进化中，穿越周期。
+对于现在的网民来说，你几乎能在小红书上面搜索到各种小妙招。它还是攻略集宝鉴，哪里旅游不踩坑全部奉献给小伙伴。
+当然，没人能忘了，这是国内公认的「种草」平台，甚至，「种草」这两个字的本源，就来自小红书本身。
+在 AI 时代，信息和内容以指数级的增速被生产出来，一方面确实拉低了「种草内容」的创作门槛，但另一方面，AIGC 内容的泛滥，也让用户对平台内容产生了「过敏」，降低了对于内容的信任。
+对于营销从业者来说，这可能是一个新时代的挑战。
+如何在 AI 时代，让品牌</description>
+      <pubDate>Mon, 07 Sep 2026 21:01:05 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369962</guid>
+      <source url="http://www.geekpark.net/news/369962">极客公园</source>
+    </item>
+    <item>
+      <title>判断用不用你的软件，Agent 只需 500 个 Token</title>
+      <link>http://www.geekpark.net/news/369960</link>
+      <description>作者｜宇航猿
+编辑｜靖宇
+&amp;nbsp;
+现在几乎每个开发者都在用 AI Agent 干活。Cursor、Claude Code、Windsurf、Gemini CLI，各种 Coding Agent 已经深度嵌入了日常工作流。一个普遍的体验是，让 Agent 去调某些 API 或者集成某个服务，有些丝滑得像开了挂，有些则反复报错，甚至直接编造出一个根本不存在的接口。
+大多数人把这归结为：
+「 模型还不够聪明 」。
+但如果反过来想， 不是 Agent 不够聪明，而是有些产品天然对 Agent 友好，有些则天然对 Agent 充满敌意 。
+这像极了十几年前的 SEO。你觉得自己的网站内容很好，但 </description>
+      <pubDate>Mon, 07 Sep 2026 18:32:48 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369960</guid>
+      <source url="http://www.geekpark.net/news/369960">极客公园</source>
+    </item>
+    <item>
+      <title>童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」</title>
+      <link>http://www.geekpark.net/news/369959</link>
+      <description>作者｜Cynthia
+
+编辑｜ 郑玄
+&amp;nbsp;
+
+2016 年， 后来被反复宣布了无数次元年的 VR 产业，正式迎来了第一次爆发浪潮。
+这一年 3 月 28 日，Oculus Rift 首批发货，售价 599 美元的产品很快被销售一空；两天后，曾在微软 Windows 10 发布会上被重点推介的 3000 美元 HoloLens 开发者版也迎来正式发售，此前围绕 HoloLens 举办的 11 城开发者巡展，名额开放 90 分钟便全部订满。同一时间还未正式发售 PlayStation VR 的索尼，则直接宣布已经有 230 多家开发商和发行商正在为它制作内容。
+资本比硬件更为激进。高盛在当</description>
+      <pubDate>Mon, 07 Sep 2026 18:26:42 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369959</guid>
+      <source url="http://www.geekpark.net/news/369959">极客公园</source>
+    </item>
+    <item>
+      <title>派评｜近期值得关注的 App</title>
+      <link>https://sspai.com/post/114288</link>
+      <description>&gt;下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰&gt;实用、好用的正版软件，少数派为你呈现🚀查看全文</description>
+      <pubDate>Mon, 07 Sep 2026 18:08:44 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114288</guid>
+      <source url="https://sspai.com/post/114288">少数派</source>
+    </item>
     <item>
       <title>「AI Native 」不是魔法，「创业者」这三个字依旧厚重</title>
       <link>http://www.geekpark.net/news/369955</link>
@@ -49,6 +104,38 @@
       <pubDate>Mon, 07 Sep 2026 11:10:02 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114103</guid>
       <source url="https://sspai.com/post/114103">少数派</source>
+    </item>
+    <item>
+      <title>DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药</title>
+      <link>https://www.ifanr.com/1678938?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AMD 想用电脑把昂贵的 AI Token 账单降下来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 07 Sep 2026 10:40:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678938?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678938?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>华为鸿蒙 7 发布会最全汇总：三折叠、阔直板全来了，信息密度大到让人眼花</title>
+      <link>https://www.ifanr.com/1678896?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>Super fast, Super intelligent#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 07 Sep 2026 10:39:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678896?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678896?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>把千亿模型装进笔记本，Windows 终于要反击 Mac 了</title>
+      <link>https://www.ifanr.com/1678877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>都想让 PC 成为 AI 的运行环境#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 07 Sep 2026 10:36:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>3秒变身！会合体的机器人，卖到全球50国</title>
+      <link>https://www.qbitai.com/2026/09/485525.html</link>
+      <description>谁说现在机器人都长得差不多的！</description>
+      <pubDate>Mon, 07 Sep 2026 09:34:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485525.html</guid>
+      <source url="https://www.qbitai.com/2026/09/485525.html">量子位</source>
     </item>
     <item>
       <title>华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常</title>
@@ -121,75 +208,6 @@
       <pubDate>Mon, 07 Sep 2026 06:53:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/485064.html</guid>
       <source url="https://www.qbitai.com/2026/09/485064.html">量子位</source>
-    </item>
-    <item>
-      <title>原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied</title>
-      <link>https://www.qbitai.com/2026/09/485056.html</link>
-      <description></description>
-      <pubDate>Mon, 07 Sep 2026 06:03:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485056.html</guid>
-      <source url="https://www.qbitai.com/2026/09/485056.html">量子位</source>
-    </item>
-    <item>
-      <title>在零跑的工厂里，我们找到了它能月销 10 万辆的秘密</title>
-      <link>https://www.ifanr.com/1678617?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>汽车是一个轻不下来的行业。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 07 Sep 2026 06:01:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678617?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678617?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>业内首个！“千问办公”推出“多人工作台”</title>
-      <link>https://www.qbitai.com/2026/09/485046.html</link>
-      <description>近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。</description>
-      <pubDate>Mon, 07 Sep 2026 05:04:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485046.html</guid>
-      <source url="https://www.qbitai.com/2026/09/485046.html">量子位</source>
-    </item>
-    <item>
-      <title>产业龙头领投！中科类脑完成数亿元B+轮战略融资</title>
-      <link>https://www.qbitai.com/2026/09/485039.html</link>
-      <description></description>
-      <pubDate>Mon, 07 Sep 2026 04:01:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485039.html</guid>
-      <source url="https://www.qbitai.com/2026/09/485039.html">量子位</source>
-    </item>
-    <item>
-      <title>早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色</title>
-      <link>https://www.ifanr.com/1678581?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 曝 Anthropic 接近确定 IPO 核心承销商
-· 康宁 CCO：AI 让玻璃基封装与光互连走到台前
-· 《西雅图时报》和《新闻日报》起诉 OpenAI 与微软#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 07 Sep 2026 00:10:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678581?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678581?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>EXAONE Forecast for Finance</title>
-      <link>https://arxiv.org/abs/2609.04239</link>
-      <description>arXiv:2609.04239v1 Announce Type: new 
-Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent TSFMs achieve strong zero-shot performance through large-scale pretraining. How</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.04239</guid>
-      <source url="https://arxiv.org/abs/2609.04239">ArXiv AI</source>
-    </item>
-    <item>
-      <title>From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance</title>
-      <link>https://arxiv.org/abs/2609.04286</link>
-      <description>arXiv:2609.04286v1 Announce Type: new 
-Abstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review t</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.04286</guid>
-      <source url="https://arxiv.org/abs/2609.04286">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation</title>
-      <link>https://arxiv.org/abs/2609.04298</link>
-      <description>arXiv:2609.04298v1 Announce Type: new 
-Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work mak</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.04298</guid>
-      <source url="https://arxiv.org/abs/2609.04298">ArXiv AI</source>
     </item>
   </channel>
 </rss>
