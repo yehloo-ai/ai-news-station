@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:09:35 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple「随航」的无感体验里，藏着多少流畅的秘密？</title>
+      <link>https://sspai.com/prime/story/sidecar-optimizations</link>
+      <description>相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。</description>
+      <pubDate>Tue, 08 Sep 2026 18:14:30 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/prime/story/sidecar-optimizations</guid>
+      <source url="https://sspai.com/prime/story/sidecar-optimizations">少数派</source>
+    </item>
     <item>
       <title>社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源</title>
       <link>https://sspai.com/post/114327</link>
@@ -67,6 +75,36 @@ Luna Band 从 IFA 开幕这天起全球发货，149 美元</description>
       <pubDate>Tue, 08 Sep 2026 15:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114312</guid>
       <source url="https://sspai.com/post/114312">少数派</source>
+    </item>
+    <item>
+      <title>AlphaGenome Atlas: Using AI to find disease causing variants 🧬</title>
+      <link>https://www.youtube.com/shorts/ya04CpsRJH0</link>
+      <description>How do you find a single typo in a person's DNA that causes a rare disease? It is like finding a needle in a 9-billion-piece haystack.
+
+Enter AlphaGenome Atlas: a new AI-powered database charting the molecular impact of every possible genetic variant.
+
+Scientists are already using it to look into un</description>
+      <pubDate>Tue, 08 Sep 2026 14:02:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/ya04CpsRJH0</guid>
+      <source url="https://www.youtube.com/shorts/ya04CpsRJH0">DeepMind</source>
+    </item>
+    <item>
+      <title>AlphaGenome Atlas: Understanding the human genome</title>
+      <link>https://www.youtube.com/watch?v=U0aToL5C-bQ</link>
+      <description>We’ve used AlphaGenome to predict the molecular impact of every possible single-letter change in the human genome. All nine billion of them.
+
+AlphaGenome Atlas is a 1PB dataset containing every single possible nucleotide variant alongside an AlphaGenome Variant Impact (AVI) score. This score helps r</description>
+      <pubDate>Tue, 08 Sep 2026 13:58:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=U0aToL5C-bQ</guid>
+      <source url="https://www.youtube.com/watch?v=U0aToL5C-bQ">DeepMind</source>
+    </item>
+    <item>
+      <title>实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片</title>
+      <link>https://www.ifanr.com/1678636?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>真正属于普通人的 AI 视频时代，才刚刚开始#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 08 Sep 2026 13:40:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1678636?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1678636?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>日本浮生录 11｜越过九州，走进奄美大岛的山海夏日</title>
@@ -171,49 +209,6 @@ https://x.com/mindblown_ai/status/2095661874037813</description>
       <pubDate>Tue, 08 Sep 2026 02:14:47 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/485555.html</guid>
       <source url="https://www.qbitai.com/2026/09/485555.html">量子位</source>
-    </item>
-    <item>
-      <title>手机影像的下半场，是成就作品</title>
-      <link>https://www.ifanr.com/1679038?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>即将在 9 月 21 日 亮相的 vivo X500 系列，核心便是试图打破这一桎梏。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 08 Sep 2026 02:00:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679038?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679038?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测</title>
-      <link>https://www.ifanr.com/1678982?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>玄戒很好，但不能全靠玄戒#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 08 Sep 2026 02:00:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678982?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678982?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三</title>
-      <link>https://www.ifanr.com/1676969?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 苹果换帅后重整 App Store 与发布会，Schiller 退居特别项目
-· 字节跳动锁定 296 亿美元贷款，近 30 家银行参与
-· 机构：全球折叠屏手机累计出货量年内将突破 1 亿部#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 08 Sep 2026 00:14:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1676969?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1676969?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>AI 时代，「种草」这件事会变成什么样？</title>
-      <link>http://www.geekpark.net/news/369962</link>
-      <description>&amp;nbsp;
-
-&amp;nbsp;
-作者｜靖宇 
-互联网时代，鲜有一个网站或者应用，能像小红书一样在不停的转换身份和功能的进化中，穿越周期。
-对于现在的网民来说，你几乎能在小红书上面搜索到各种小妙招。它还是攻略集宝鉴，哪里旅游不踩坑全部奉献给小伙伴。
-当然，没人能忘了，这是国内公认的「种草」平台，甚至，「种草」这两个字的本源，就来自小红书本身。
-在 AI 时代，信息和内容以指数级的增速被生产出来，一方面确实拉低了「种草内容」的创作门槛，但另一方面，AIGC 内容的泛滥，也让用户对平台内容产生了「过敏」，降低了对于内容的信任。
-对于营销从业者来说，这可能是一个新时代的挑战。
-如何在 AI 时代，让品牌</description>
-      <pubDate>Mon, 07 Sep 2026 21:01:05 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369962</guid>
-      <source url="http://www.geekpark.net/news/369962">极客公园</source>
     </item>
   </channel>
 </rss>
