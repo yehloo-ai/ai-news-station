@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-08",
+  "attribution": {
+    "source": "AIHOT",
+    "canonical": "https://aihot.news/daily/2026-09-08"
+  },
+  "generatedAt": "2026-09-08T00:00:00.984Z",
+  "windowStart": "2026-09-07T00:00:00.000Z",
+  "windowEnd": "2026-09-08T00:00:00.000Z",
+  "lead": null,
+  "sections": [
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+          "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
+          "sourceUrl": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "permalink": "https://aihot.news/items/cmtrkorpo07jdrotnozlrlyx2",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtrkorpo07jdrotnozlrlyx2"
+          }
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+          "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+          "sourceName": "公众号：数字生命卡兹克",
+          "permalink": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp"
+          }
+        }
+      ]
+    }
+  ],
+  "flashes": []
+}
