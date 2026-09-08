@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T18:19:21.170Z",
+  "generatedAt": "2026-09-08T06:15:13.702Z",
   "umami": {
     "error": null,
     "today": {
@@ -177,10 +177,6 @@
         "visitors": 1
       },
       {
-        "code": "NL",
-        "visitors": 1
-      },
-      {
         "code": "RU",
         "visitors": 1
       },
@@ -194,6 +190,10 @@
       },
       {
         "code": "SG",
+        "visitors": 1
+      },
+      {
+        "code": "NL",
         "visitors": 1
       }
     ],
