@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:35:48 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年</title>
@@ -14,6 +14,14 @@
       <pubDate>Wed, 09 Sep 2026 17:30:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114366</guid>
       <source url="https://sspai.com/post/114366">少数派</source>
+    </item>
+    <item>
+      <title>Can AI help us better predict the weather?</title>
+      <link>https://www.youtube.com/watch?v=O_EWbnkjXdk</link>
+      <description>Can artificial intelligence solve one of science’s most chaotic physics puzzles? In this episode, Professor Hannah Fry sits down with Peter Battaglia, Senior Director of Research at Google DeepMind, to explore how machine learning is transforming global weather forecasting. From providing critical e</description>
+      <pubDate>Wed, 09 Sep 2026 16:10:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=O_EWbnkjXdk</guid>
+      <source url="https://www.youtube.com/watch?v=O_EWbnkjXdk">DeepMind</source>
     </item>
     <item>
       <title>千问办公发布多人工作台，重写企业软件的最后一公里</title>
@@ -170,17 +178,6 @@ Available now </description>
       <pubDate>Tue, 08 Sep 2026 19:11:55 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=A7MSwdXj86k</guid>
       <source url="https://www.youtube.com/watch?v=A7MSwdXj86k">OpenAI</source>
-    </item>
-    <item>
-      <title>Templates with ChatGPT Images 2.5</title>
-      <link>https://www.youtube.com/watch?v=-VukmrOT1eE</link>
-      <description>Have an idea but need help getting started? 
-
-Use templates for popular image formats like posters or merch, then add your message, design elements, or style to make it your own.
-ChatGPT Images 2.5 is rolling out today to all ChatGPT, ChatGPT Work, and Codex users across desktop, mobile, and web.</description>
-      <pubDate>Tue, 08 Sep 2026 18:48:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=-VukmrOT1eE</guid>
-      <source url="https://www.youtube.com/watch?v=-VukmrOT1eE">OpenAI</source>
     </item>
   </channel>
 </rss>
