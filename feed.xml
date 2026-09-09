@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:42:39 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>苹果第一台折叠 iPhone，15999 元起</title>
+      <link>http://www.geekpark.net/news/370088</link>
+      <description>iPhone Duo，国行 15999 元起
+
+作者｜张勇毅
+编辑｜靖宇
+
+北京时间今天凌晨，苹果发布了第一台折叠屏手机，名字叫 iPhone Duo。国行 15999 元起，10 月 16 日晚 8 点预购，10 月 23 日发售。同场发布的 iPhone 18 Pro 系列 9999 元起，9 月 12 日晚 8 点预购，18 日发售。
+
+三天前，小米发布了 18 Fold：外屏 5.38 英寸，内屏 7.58 英寸，10999 元起。iPhone Duo 按苹果规格页的标准矩形口径，外屏 5.36 英寸，内屏 7.58 英寸。
+两块屏幕的尺寸，差别在小数点后第二位。价格差了 5000 元</description>
+      <pubDate>Thu, 10 Sep 2026 03:43:09 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370088</guid>
+      <source url="http://www.geekpark.net/news/370088">极客公园</source>
+    </item>
+    <item>
+      <title>刚刚，苹果首款折叠屏发布！15999元起，AI参与设计</title>
+      <link>https://www.qbitai.com/2026/09/486450.html</link>
+      <description>一比根号二的小胖折叠</description>
+      <pubDate>Wed, 09 Sep 2026 19:24:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486450.html</guid>
+      <source url="https://www.qbitai.com/2026/09/486450.html">量子位</source>
+    </item>
+    <item>
+      <title>GPT-6 Astra First Impressions From Businesses</title>
+      <link>https://www.youtube.com/watch?v=n-dqdVMwoas</link>
+      <description>See how Box, Ramp, Figma, Cognition, Balsyny Asset Management, and CXO.dev are already using GPT-6 Astra in core business and coding workflows.</description>
+      <pubDate>Wed, 09 Sep 2026 19:00:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=n-dqdVMwoas</guid>
+      <source url="https://www.youtube.com/watch?v=n-dqdVMwoas">OpenAI</source>
+    </item>
     <item>
       <title>我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年</title>
       <link>https://sspai.com/post/114366</link>
@@ -150,34 +182,6 @@
       <pubDate>Wed, 09 Sep 2026 02:15:54 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/486038.html</guid>
       <source url="https://www.qbitai.com/2026/09/486038.html">量子位</source>
-    </item>
-    <item>
-      <title>OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代</title>
-      <link>https://www.ifanr.com/1679218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>1 万个 AI Agent，挑战百年数学难题#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 09 Sep 2026 02:14:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运</title>
-      <link>https://www.ifanr.com/1678959?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· DeepSeek 内测 V4.1 Flash
-· 两部门要求车企定期报告供应商账期，重点企业每年接受评估
-· 曝微信 PC 版接入 AI 助手「小微」，可操作聊天与小程序#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 09 Sep 2026 00:19:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678959?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678959?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Introducing GPT-Image-2.5 in the API</title>
-      <link>https://www.youtube.com/watch?v=A7MSwdXj86k</link>
-      <description>Meet Sunburst and Flare, our two new GPT-Image-2.5 models. Sunburst brings sharper details, more natural lighting, and greater control across edits. Flare delivers high quality images over 50% faster. Both support transparent backgrounds for assets ranging from infographics to games.
-
-Available now </description>
-      <pubDate>Tue, 08 Sep 2026 19:11:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=A7MSwdXj86k</guid>
-      <source url="https://www.youtube.com/watch?v=A7MSwdXj86k">OpenAI</source>
     </item>
   </channel>
 </rss>
