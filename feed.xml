@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:33:39 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年</title>
+      <link>https://sspai.com/post/114366</link>
+      <description>为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？查看全文</description>
+      <pubDate>Wed, 09 Sep 2026 17:30:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114366</guid>
+      <source url="https://sspai.com/post/114366">少数派</source>
+    </item>
     <item>
       <title>千问办公发布多人工作台，重写企业软件的最后一公里</title>
       <link>http://www.geekpark.net/news/370061</link>
@@ -35,6 +43,30 @@
       <pubDate>Wed, 09 Sep 2026 11:00:48 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113668</guid>
       <source url="https://sspai.com/post/113668">少数派</source>
+    </item>
+    <item>
+      <title>GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱</title>
+      <link>https://www.ifanr.com/1679329?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>过于抽象#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 09 Sep 2026 10:37:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1679329?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1679329?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug</title>
+      <link>https://www.qbitai.com/2026/09/486374.html</link>
+      <description></description>
+      <pubDate>Wed, 09 Sep 2026 10:02:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486374.html</guid>
+      <source url="https://www.qbitai.com/2026/09/486374.html">量子位</source>
+    </item>
+    <item>
+      <title>国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力</title>
+      <link>https://www.qbitai.com/2026/09/486370.html</link>
+      <description></description>
+      <pubDate>Wed, 09 Sep 2026 09:57:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486370.html</guid>
+      <source url="https://www.qbitai.com/2026/09/486370.html">量子位</source>
     </item>
     <item>
       <title>首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口</title>
@@ -112,6 +144,14 @@
       <source url="https://www.qbitai.com/2026/09/486038.html">量子位</source>
     </item>
     <item>
+      <title>OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代</title>
+      <link>https://www.ifanr.com/1679218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>1 万个 AI Agent，挑战百年数学难题#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 09 Sep 2026 02:14:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1679218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1679218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
       <title>早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运</title>
       <link>https://www.ifanr.com/1678959?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>· DeepSeek 内测 V4.1 Flash
@@ -122,7 +162,7 @@
       <source url="https://www.ifanr.com/1678959?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>在 API 中引入 GPT-Image-2.5</title>
+      <title>Introducing GPT-Image-2.5 in the API</title>
       <link>https://www.youtube.com/watch?v=A7MSwdXj86k</link>
       <description>Meet Sunburst and Flare, our two new GPT-Image-2.5 models. Sunburst brings sharper details, more natural lighting, and greater control across edits. Flare delivers high quality images over 50% faster. Both support transparent backgrounds for assets ranging from infographics to games.
 
@@ -132,7 +172,7 @@ Available now </description>
       <source url="https://www.youtube.com/watch?v=A7MSwdXj86k">OpenAI</source>
     </item>
     <item>
-      <title>带有 ChatGPT 图像 2.5 的模板</title>
+      <title>Templates with ChatGPT Images 2.5</title>
       <link>https://www.youtube.com/watch?v=-VukmrOT1eE</link>
       <description>Have an idea but need help getting started? 
 
@@ -141,74 +181,6 @@ ChatGPT Images 2.5 is rolling out today to all ChatGPT, ChatGPT Work, and Codex 
       <pubDate>Tue, 08 Sep 2026 18:48:03 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=-VukmrOT1eE</guid>
       <source url="https://www.youtube.com/watch?v=-VukmrOT1eE">OpenAI</source>
-    </item>
-    <item>
-      <title>使用 ChatGPT 图像 2.5 绘制草图</title>
-      <link>https://www.youtube.com/watch?v=imPtIEAEHSU</link>
-      <description>Some ideas are easier to draw than describe. 
-
-Use Sketch to draw right in ChatGPT and show it exactly what you have in mind.
-
-Just type “@ Sketch” in ChatGPT.</description>
-      <pubDate>Tue, 08 Sep 2026 18:46:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=imPtIEAEHSU</guid>
-      <source url="https://www.youtube.com/watch?v=imPtIEAEHSU">OpenAI</source>
-    </item>
-    <item>
-      <title>ChatGPT 图像 2.5 简介</title>
-      <link>https://www.youtube.com/watch?v=6l7ble9P74o</link>
-      <description>Say hello to ChatGPT Images 2.5—faster, sharper, smarter, with better tools for creating whatever you can dream of. 
-
-- Faster image generation to keep your ideas flowing
-- Improved fidelity for more natural, recognizable images
-- Consistent details across multiple edits
-- Comment-based edits to cha</description>
-      <pubDate>Tue, 08 Sep 2026 18:44:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=6l7ble9P74o</guid>
-      <source url="https://www.youtube.com/watch?v=6l7ble9P74o">OpenAI</source>
-    </item>
-    <item>
-      <title>Apple「随航」的无感体验里，藏着多少流畅的秘密？</title>
-      <link>https://sspai.com/prime/story/sidecar-optimizations</link>
-      <description>相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。</description>
-      <pubDate>Tue, 08 Sep 2026 18:14:30 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/prime/story/sidecar-optimizations</guid>
-      <source url="https://sspai.com/prime/story/sidecar-optimizations">少数派</source>
-    </item>
-    <item>
-      <title>社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源</title>
-      <link>https://sspai.com/post/114327</link>
-      <description>除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文</description>
-      <pubDate>Tue, 08 Sep 2026 17:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114327</guid>
-      <source url="https://sspai.com/post/114327">少数派</source>
-    </item>
-    <item>
-      <title>IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上</title>
-      <link>http://www.geekpark.net/news/370007</link>
-      <description>本文转载自 Hardwire，欢迎关注，共同看见硬件行业新风向 👇
-
-
-
-
-
-
-&amp;nbsp;
-
-屏幕消失不是做减法，是把「显示」换成了「采集」。
-作者｜张勇毅
-编辑｜靖宇
-&amp;nbsp;
-
-
-IFA 开幕前一天，小米在柏林把手环 11 端了出来。还是 1.72 英寸的屏幕，亮度从上一代的 1500 尼特提到 2000 尼特，国内 289 元起，9 月 7 日首售。官方通稿的第一个卖点，就是这块屏幕在太阳底下有多清楚。
-同一周的同一个展馆里，另一批穿戴设备正在把屏幕拆掉。
-
-会场对面地铁站附近，Plaud 的广告｜图片来源：极客公园
-Luna Band 从 IFA 开幕这天起全球发货，149 美元</description>
-      <pubDate>Tue, 08 Sep 2026 15:29:19 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370007</guid>
-      <source url="http://www.geekpark.net/news/370007">极客公园</source>
     </item>
   </channel>
 </rss>
