@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-09",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-09-09",
+      "company": "OpenAI",
+      "model": "ChatGPT Images 2.5",
+      "type": "图像",
+      "specs": [],
+      "highlight": "OpenAI 发布 ChatGPT Images 2.5 图像模型，生成延迟比 Images",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "tier": "milestone",
+      "auto": true
+    },
     {
       "date": "2026-09-04",
       "company": "OpenAI",
