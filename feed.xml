@@ -5,8 +5,47 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:24:09 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>走出聊天框，Agent 开始进入现实世界</title>
+      <link>http://www.geekpark.net/news/370064</link>
+      <description>&amp;nbsp;
+头图来源：小度
+Agent 正在寻找自己的「身体」。
+过去一年，智能体的主要工作对象是文件、网页和软件。它们可以搜索资料、分析数据、制作 PPT，也可以打开浏览器、调用工具，把一句需求推进成一份可供交付的结果。衡量一个 Agent 能力的方式，也集中在任务能不能做完、执行路径是否稳定、生成结果是否可用。
+但屏幕里的 Agent 仍然与现实世界隔着一层。
+它可以替人整理一周的工作记录，却不知道会议室里刚刚讨论了什么；能够生成一套家庭计划，却看不到孩子有没有开始写作业；可以给出老人用药的注意事项，却无法确认提醒是否被听见。文件、网页和软件提供的是结构化信息，现实世界则充满持续变化的人</description>
+      <pubDate>Thu, 10 Sep 2026 21:39:07 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370064</guid>
+      <source url="http://www.geekpark.net/news/370064">极客公园</source>
+    </item>
+    <item>
+      <title>微信，悄悄迈出 AI 社交的第一步</title>
+      <link>http://www.geekpark.net/news/370155</link>
+      <description>&amp;nbsp;
+头图来源：视觉中国、ChatGPT 生成
+&amp;nbsp;
+最近，微信开始小范围测试一项新的「小微 AI 社交」功能。
+用户如果想联系一位朋友，可以先把诉求告诉自己的「小微」。小微找到对方的小微后，会说明此次沟通的话题，并向对方本人请求授权。获得同意后，两个小微先行交流；遇到需要用户作出选择或者确认的地方，再分别回来提醒各自的主人。
+这和「帮我给某某发一条微信」并不相同。
+代发消息仍然由用户决定说什么，AI 只是代替用户点击发送。小微 AI 社交中，用户交给 AI 的是一个目的。如何发起询问、交换哪些信息、怎样归纳分歧，部分沟通过程已经交给两个 AI 完成。
+据极客公园实测，两个小微</description>
+      <pubDate>Thu, 10 Sep 2026 21:36:57 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370155</guid>
+      <source url="http://www.geekpark.net/news/370155">极客公园</source>
+    </item>
+    <item>
+      <title>对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑</title>
+      <link>http://www.geekpark.net/news/370150</link>
+      <description>在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。
+2025 年被认为是「消费级外骨骼元年」。今年，这个行业迅速涌入了上百个新玩家。
+极壳 Hypershell 去年的全球出货量超过了 3 万台，是这个细分领域里公认的头号玩家。创始人孙宽认为，这仍然是一个相对早期和小众的品类，现有的产品体验还有大量提升的空间。
+在孙宽看来，竞争并不是当下驱动行业创新的核心动力。他希望跨越鸿沟，把外骨骼产品的目标用户从户外、老年等几</description>
+      <pubDate>Thu, 10 Sep 2026 19:41:33 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370150</guid>
+      <source url="http://www.geekpark.net/news/370150">极客公园</source>
+    </item>
     <item>
       <title>App+1｜下一节：教学工作紧张忙碌，下一节课从从容容</title>
       <link>https://sspai.com/post/114384</link>
@@ -14,6 +53,38 @@
       <pubDate>Thu, 10 Sep 2026 14:51:52 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114384</guid>
       <source url="https://sspai.com/post/114384">少数派</source>
+    </item>
+    <item>
+      <title>20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配</title>
+      <link>https://www.ifanr.com/1679681?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>「全线控」已成智己的招牌。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 10 Sep 2026 13:52:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1679681?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1679681?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池</title>
+      <link>https://www.ifanr.com/1679668?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>银河 TT 想通吃性能党和家庭用户。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 10 Sep 2026 13:46:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1679668?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1679668?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级</title>
+      <link>https://www.ifanr.com/1679651?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>更贵了，也更强了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 10 Sep 2026 13:11:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1679651?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1679651?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>ECCV上，顶尖学者们开始研究如何让AI做生意了</title>
+      <link>https://www.qbitai.com/2026/09/486934.html</link>
+      <description>多模态AI大牛轮番登台，全球64支团队组团解题</description>
+      <pubDate>Thu, 10 Sep 2026 10:17:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486934.html</guid>
+      <source url="https://www.qbitai.com/2026/09/486934.html">量子位</source>
     </item>
     <item>
       <title>苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道</title>
@@ -27,7 +98,7 @@
       <source url="http://www.geekpark.net/news/370089">极客公园</source>
     </item>
     <item>
-      <title>The Equation That Might Destroy Itself</title>
+      <title>I Never Thought I’d See This Happen</title>
       <link>https://www.youtube.com/watch?v=mOvtumfyjCs</link>
       <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
 
@@ -128,65 +199,6 @@ https://use</description>
       <pubDate>Thu, 10 Sep 2026 03:43:09 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/370088</guid>
       <source url="http://www.geekpark.net/news/370088">极客公园</source>
-    </item>
-    <item>
-      <title>理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看</title>
-      <link>https://www.ifanr.com/1679445?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>长城也许该思考一下命名的延续性了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 10 Sep 2026 02:36:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679445?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679445?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果</title>
-      <link>https://www.qbitai.com/2026/09/486436.html</link>
-      <description>9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行</description>
-      <pubDate>Thu, 10 Sep 2026 01:39:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486436.html</guid>
-      <source url="https://www.qbitai.com/2026/09/486436.html">量子位</source>
-    </item>
-    <item>
-      <title>实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug</title>
-      <link>https://www.qbitai.com/2026/09/486350.html</link>
-      <description>赶上了API限时五折</description>
-      <pubDate>Thu, 10 Sep 2026 00:42:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486350.html</guid>
-      <source url="https://www.qbitai.com/2026/09/486350.html">量子位</source>
-    </item>
-    <item>
-      <title>iPhone Duo 首发上手：唯一值两万元的折叠屏</title>
-      <link>https://www.ifanr.com/1679531?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>宛若透明，全方位超预期#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679531?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679531?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models</title>
-      <link>https://arxiv.org/abs/2609.05437</link>
-      <description>arXiv:2609.05437v1 Announce Type: new 
-Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anti</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.05437</guid>
-      <source url="https://arxiv.org/abs/2609.05437">ArXiv AI</source>
-    </item>
-    <item>
-      <title>CriticGen: Generation-Aware Evaluation as Actionable Feedback</title>
-      <link>https://arxiv.org/abs/2609.05439</link>
-      <description>arXiv:2609.05439v1 Announce Type: new 
-Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedback for model improvement. We propose CriticGen, a fine-grained, generation-awar</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.05439</guid>
-      <source url="https://arxiv.org/abs/2609.05439">ArXiv AI</source>
-    </item>
-    <item>
-      <title>When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents</title>
-      <link>https://arxiv.org/abs/2609.05441</link>
-      <description>arXiv:2609.05441v1 Announce Type: new 
-Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (M</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.05441</guid>
-      <source url="https://arxiv.org/abs/2609.05441">ArXiv AI</source>
     </item>
   </channel>
 </rss>
