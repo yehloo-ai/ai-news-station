@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:26:10 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>走出聊天框，Agent 开始进入现实世界</title>
@@ -45,6 +45,44 @@ Agent 正在寻找自己的「身体」。
       <pubDate>Thu, 10 Sep 2026 19:41:33 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/370150</guid>
       <source url="http://www.geekpark.net/news/370150">极客公园</source>
+    </item>
+    <item>
+      <title>In Harmony</title>
+      <link>https://www.youtube.com/watch?v=PbfXbDbCthA</link>
+      <description>Work directed by you. Move projects forward and turn ideas into action with ChatGPT Work.</description>
+      <pubDate>Thu, 10 Sep 2026 17:29:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PbfXbDbCthA</guid>
+      <source url="https://www.youtube.com/watch?v=PbfXbDbCthA">OpenAI</source>
+    </item>
+    <item>
+      <title>Two blind brothers using ChatGPT to navigate life and run their nonprofit</title>
+      <link>https://www.youtube.com/watch?v=qg_54P-oPgI</link>
+      <description>Bradford and Bryan Manning have spent their lives adapting to a world built for sight. Both brothers live with Stargardt disease, which has taken much of their central vision and made everyday tasks like navigating a crowded street far more difficult.
+
+Today, they use ChatGPT to turn visual informat</description>
+      <pubDate>Thu, 10 Sep 2026 16:00:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=qg_54P-oPgI</guid>
+      <source url="https://www.youtube.com/watch?v=qg_54P-oPgI">OpenAI</source>
+    </item>
+    <item>
+      <title>Helping a small business go big with ChatGPT</title>
+      <link>https://www.youtube.com/watch?v=mPAmXQnhv2E</link>
+      <description>Derek and Larissa Guetter own ATV Big Air Tour – a small business that brings high-octane ATV and motocross shows to events across the country. They’ve been growing their business for 11 years, and now they’re competing with some of the biggest entertainment companies in the US. 
+
+As a team of two, </description>
+      <pubDate>Thu, 10 Sep 2026 16:00:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=mPAmXQnhv2E</guid>
+      <source url="https://www.youtube.com/watch?v=mPAmXQnhv2E">OpenAI</source>
+    </item>
+    <item>
+      <title>Discovering new antibiotics with ChatGPT</title>
+      <link>https://www.youtube.com/watch?v=0XLGisanEAs</link>
+      <description>The de la Fuente Lab is using ChatGPT and Codex in the search for new molecules that could help fight antibiotic-resistant bacteria.
+
+Modern medicine relies on effective antibiotics, which help us recover from routine illnesses, surgeries, childbirth, and more. However, antimicrobial resistance (AMR</description>
+      <pubDate>Thu, 10 Sep 2026 15:59:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=0XLGisanEAs</guid>
+      <source url="https://www.youtube.com/watch?v=0XLGisanEAs">OpenAI</source>
     </item>
     <item>
       <title>App+1｜下一节：教学工作紧张忙碌，下一节课从从容容</title>
@@ -159,46 +197,6 @@ https://use</description>
       <pubDate>Thu, 10 Sep 2026 06:25:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/486651.html</guid>
       <source url="https://www.qbitai.com/2026/09/486651.html">量子位</source>
-    </item>
-    <item>
-      <title>一图流 | 一张图带你看完 2026 Apple 秋季发布会</title>
-      <link>https://sspai.com/post/114393</link>
-      <description>9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文</description>
-      <pubDate>Thu, 10 Sep 2026 05:30:34 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114393</guid>
-      <source url="https://sspai.com/post/114393">少数派</source>
-    </item>
-    <item>
-      <title>可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾</title>
-      <link>https://sspai.com/post/114392</link>
-      <description>9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文</description>
-      <pubDate>Thu, 10 Sep 2026 05:21:18 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114392</guid>
-      <source url="https://sspai.com/post/114392">少数派</source>
-    </item>
-    <item>
-      <title>一周连发6个模型！这家公司把具身智能的闭环跑通了</title>
-      <link>https://www.qbitai.com/2026/09/486625.html</link>
-      <description>模型可以开源，部署经验不能</description>
-      <pubDate>Thu, 10 Sep 2026 04:55:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486625.html</guid>
-      <source url="https://www.qbitai.com/2026/09/486625.html">量子位</source>
-    </item>
-    <item>
-      <title>苹果第一台折叠 iPhone，15999 元起</title>
-      <link>http://www.geekpark.net/news/370088</link>
-      <description>iPhone Duo，国行 15999 元起
-
-作者｜张勇毅
-编辑｜靖宇
-
-北京时间今天凌晨，苹果发布了第一台折叠屏手机，名字叫 iPhone Duo。国行 15999 元起，10 月 16 日晚 8 点预购，10 月 23 日发售。同场发布的 iPhone 18 Pro 系列 9999 元起，9 月 12 日晚 8 点预购，18 日发售。
-
-三天前，小米发布了 18 Fold：外屏 5.38 英寸，内屏 7.58 英寸，10999 元起。iPhone Duo 按苹果规格页的标准矩形口径，外屏 5.36 英寸，内屏 7.58 英寸。
-两块屏幕的尺寸，差别在小数点后第二位。价格差了 5000 元</description>
-      <pubDate>Thu, 10 Sep 2026 03:43:09 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370088</guid>
-      <source url="http://www.geekpark.net/news/370088">极客公园</source>
     </item>
   </channel>
 </rss>
