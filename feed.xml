@@ -5,8 +5,19 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:37:50 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/370089</link>
+      <description>苹果首款折叠 iPhone Duo 亮相，国行 15999 元起
+北京时间 9 月 10 日凌晨，苹果发布首款折叠手机 iPhone Duo，国行 15999 元起，10 月 16 日开启预售，23 日正式发售。同场推出 iPhone 18 Pro 系列，9999 元起；标准版 iPhone 18 推迟至明年春季发布。
+
+该机采用书本式内折设计，内外屏尺寸与小米 18 Fold 接近，价格高出 5000 元。机身重 254 克，厚度在同类折叠机型中偏厚重，但支持 IP68 防水。机型取消长焦镜头与面容 ID，改用侧边 Touch ID，搭载 A20 Pro 芯片。iOS 27 首次加入手机分屏</description>
+      <pubDate>Thu, 10 Sep 2026 08:58:59 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370089</guid>
+      <source url="http://www.geekpark.net/news/370089">极客公园</source>
+    </item>
     <item>
       <title>派早报：Apple 发布 iPhone Duo 折叠屏等</title>
       <link>https://sspai.com/post/114394</link>
@@ -48,6 +59,30 @@
       <source url="http://www.geekpark.net/news/370088">极客公园</source>
     </item>
     <item>
+      <title>理想 i6 换上中创新航电芯，极氪 9X 光辉、Model Y 性能版现身，9 月新车提前看</title>
+      <link>https://www.ifanr.com/1679445?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>长城也许该思考一下命名的延续性了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 10 Sep 2026 02:36:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1679445?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1679445?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果</title>
+      <link>https://www.qbitai.com/2026/09/486436.html</link>
+      <description>9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行</description>
+      <pubDate>Thu, 10 Sep 2026 01:39:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486436.html</guid>
+      <source url="https://www.qbitai.com/2026/09/486436.html">量子位</source>
+    </item>
+    <item>
+      <title>实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug</title>
+      <link>https://www.qbitai.com/2026/09/486350.html</link>
+      <description>赶上了API限时五折</description>
+      <pubDate>Thu, 10 Sep 2026 00:42:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486350.html</guid>
+      <source url="https://www.qbitai.com/2026/09/486350.html">量子位</source>
+    </item>
+    <item>
       <title>iPhone Duo 首发上手：唯一值两万元的折叠屏</title>
       <link>https://www.ifanr.com/1679531?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <description>宛若透明，全方位超预期#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
@@ -56,134 +91,103 @@
       <source url="https://www.ifanr.com/1679531?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>ChatGPT Work, now powered by GPT-6 Astra</title>
-      <link>https://www.youtube.com/watch?v=kuGjypoJKwk</link>
-      <description>ChatGPT Work is now powered by GPT-6 Astra—our best model for professional work.
-
-Bring it your next big project. With Astra, ChatGPT Work better understands what you’re trying to do and pulls together the information you need from your connected apps and computer. It helps you create polished repor</description>
-      <pubDate>Wed, 09 Sep 2026 21:54:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=kuGjypoJKwk</guid>
-      <source url="https://www.youtube.com/watch?v=kuGjypoJKwk">OpenAI</source>
+      <title>Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models</title>
+      <link>https://arxiv.org/abs/2609.05437</link>
+      <description>arXiv:2609.05437v1 Announce Type: new 
+Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anti</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05437</guid>
+      <source url="https://arxiv.org/abs/2609.05437">ArXiv AI</source>
     </item>
     <item>
-      <title>GPT-6 Astra turned London into a game</title>
-      <link>https://www.youtube.com/shorts/cmN6XVuLEd4</link>
-      <description></description>
-      <pubDate>Wed, 09 Sep 2026 21:39:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/cmN6XVuLEd4</guid>
-      <source url="https://www.youtube.com/shorts/cmN6XVuLEd4">OpenAI</source>
+      <title>CriticGen: Generation-Aware Evaluation as Actionable Feedback</title>
+      <link>https://arxiv.org/abs/2609.05439</link>
+      <description>arXiv:2609.05439v1 Announce Type: new 
+Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedback for model improvement. We propose CriticGen, a fine-grained, generation-awar</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05439</guid>
+      <source url="https://arxiv.org/abs/2609.05439">ArXiv AI</source>
     </item>
     <item>
-      <title>刚刚，苹果首款折叠屏发布！15999元起，AI参与设计</title>
-      <link>https://www.qbitai.com/2026/09/486450.html</link>
-      <description>一比根号二的小胖折叠</description>
-      <pubDate>Wed, 09 Sep 2026 19:24:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486450.html</guid>
-      <source url="https://www.qbitai.com/2026/09/486450.html">量子位</source>
+      <title>When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents</title>
+      <link>https://arxiv.org/abs/2609.05441</link>
+      <description>arXiv:2609.05441v1 Announce Type: new 
+Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (M</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05441</guid>
+      <source url="https://arxiv.org/abs/2609.05441">ArXiv AI</source>
     </item>
     <item>
-      <title>GPT-6 Astra First Impressions From Businesses</title>
-      <link>https://www.youtube.com/watch?v=n-dqdVMwoas</link>
-      <description>See how Box, Ramp, Figma, Cognition, Balsyny Asset Management, and CXO.dev are already using GPT-6 Astra in core business and coding workflows.</description>
-      <pubDate>Wed, 09 Sep 2026 19:00:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=n-dqdVMwoas</guid>
-      <source url="https://www.youtube.com/watch?v=n-dqdVMwoas">OpenAI</source>
+      <title>AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents</title>
+      <link>https://arxiv.org/abs/2609.05446</link>
+      <description>arXiv:2609.05446v1 Announce Type: new 
+Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model ses</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05446</guid>
+      <source url="https://arxiv.org/abs/2609.05446">ArXiv AI</source>
     </item>
     <item>
-      <title>我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年</title>
-      <link>https://sspai.com/post/114366</link>
-      <description>为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？查看全文</description>
-      <pubDate>Wed, 09 Sep 2026 17:30:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114366</guid>
-      <source url="https://sspai.com/post/114366">少数派</source>
+      <title>Damage-Aware Bandit Pruning for Vision and Language Transformers</title>
+      <link>https://arxiv.org/abs/2609.05448</link>
+      <description>arXiv:2609.05448v1 Announce Type: new 
+Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandi</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05448</guid>
+      <source url="https://arxiv.org/abs/2609.05448">ArXiv AI</source>
     </item>
     <item>
-      <title>Can AI help us better predict the weather?</title>
-      <link>https://www.youtube.com/watch?v=O_EWbnkjXdk</link>
-      <description>Can artificial intelligence solve one of science’s most chaotic physics puzzles? In this episode, Professor Hannah Fry sits down with Peter Battaglia, Senior Director of Research at Google DeepMind, to explore how machine learning is transforming global weather forecasting. From providing critical e</description>
-      <pubDate>Wed, 09 Sep 2026 16:10:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=O_EWbnkjXdk</guid>
-      <source url="https://www.youtube.com/watch?v=O_EWbnkjXdk">DeepMind</source>
+      <title>AhaBench: Do Agents Learn from Prior Experience? A Benchmark for Long-Horizon Continual Learning</title>
+      <link>https://arxiv.org/abs/2609.05435</link>
+      <description>arXiv:2609.05435v1 Announce Type: new 
+Abstract: Modern language agents are expected to operate over long horizons: they ask follow-up questions, reuse worked examples, handle tool feedback, and adapt to delayed consequences. Most evaluations still reset the agent after a prompt or score only the fi</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05435</guid>
+      <source url="https://arxiv.org/abs/2609.05435">ArXiv ML</source>
     </item>
     <item>
-      <title>千问办公发布多人工作台，重写企业软件的最后一公里</title>
-      <link>http://www.geekpark.net/news/370061</link>
-      <description>作者｜Cynthia
-编辑｜郑玄
-
-2026 年 2 月 3 日，由 Anthropic 带头，华尔街替 SaaS 写好了讣告。
-几天前，Anthropic 正式官宣把 Claude Cowork 的插件能力扩展到法律、销售、金融等知识工作。与普通聊天机器人不同，这些插件可以携带部门工作流、调用外部工具和数据，并按照预设规则完成一段具体工作。
-市场很快把这种能力翻译成了另一个词：替代。2 月 3 日，高盛一篮子美国软件股单日下跌 6%；彭博统计，当天软件、金融服务和资产管理相关股票合计蒸发约 2850 亿美元。一天之后，Wind 香港 SaaS 指数又下跌 6.39%，板块总市值缩水近 150</description>
-      <pubDate>Wed, 09 Sep 2026 15:07:04 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370061</guid>
-      <source url="http://www.geekpark.net/news/370061">极客公园</source>
+      <title>When Do Options Help? Policy Necrosis and Redundant Coverage in Option-Critic</title>
+      <link>https://arxiv.org/abs/2609.05508</link>
+      <description>arXiv:2609.05508v1 Announce Type: new 
+Abstract: Option-critic learns options: sub-policies together with a learned rule for when each one hands control back. Its headline result is that performance improves as options are added. We explain that result, with theory and experiment. First, the termina</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05508</guid>
+      <source url="https://arxiv.org/abs/2609.05508">ArXiv ML</source>
     </item>
     <item>
-      <title>华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线</title>
-      <link>https://sspai.com/post/113842</link>
-      <description>Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文</description>
-      <pubDate>Wed, 09 Sep 2026 15:03:35 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113842</guid>
-      <source url="https://sspai.com/post/113842">少数派</source>
+      <title>Multi-granularity Adaptive Hypergraph Representation Learning via Granular-ball</title>
+      <link>https://arxiv.org/abs/2609.05574</link>
+      <description>arXiv:2609.05574v1 Announce Type: new 
+Abstract: Hypergraph representation learning aims to capture high-order information in graphs by constructing hyperedges that simultaneously connect multiple nodes. These hyperedges adapt to the graph's topological features, facilitating the extraction of high-</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05574</guid>
+      <source url="https://arxiv.org/abs/2609.05574">ArXiv ML</source>
     </item>
     <item>
-      <title>Velastar：喜欢仰望星空的你，有了一个探索异星的新选择</title>
-      <link>https://sspai.com/post/113668</link>
-      <description>Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文</description>
-      <pubDate>Wed, 09 Sep 2026 11:00:48 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113668</guid>
-      <source url="https://sspai.com/post/113668">少数派</source>
+      <title>Capsule Lens: Locating and Tracking Concept Geometry in Model Representations</title>
+      <link>https://arxiv.org/abs/2609.05575</link>
+      <description>arXiv:2609.05575v1 Announce Type: new 
+Abstract: Understanding how concepts are encoded in the internal representations of machine learning models is a central problem in mechanistic interpretability, essential both for the science of deep learning and for the trustworthy deployment of increasingly </description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05575</guid>
+      <source url="https://arxiv.org/abs/2609.05575">ArXiv ML</source>
     </item>
     <item>
-      <title>GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱</title>
-      <link>https://www.ifanr.com/1679329?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>过于抽象#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 09 Sep 2026 10:37:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679329?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679329?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>HB-PVI: A Hierarchical Bayesian Personalization and Value-of-Information Framework for Complex Activity Recognition</title>
+      <link>https://arxiv.org/abs/2609.05582</link>
+      <description>arXiv:2609.05582v1 Announce Type: new 
+Abstract: Personalization can improve activity-recognition performance, but participant-specific gains are heterogeneous, and every additional calibration label has an acquisition cost. This study presents HB-PVI, a hierarchical Bayesian personalization and val</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.05582</guid>
+      <source url="https://arxiv.org/abs/2609.05582">ArXiv ML</source>
     </item>
     <item>
-      <title>实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug</title>
-      <link>https://www.qbitai.com/2026/09/486374.html</link>
-      <description></description>
-      <pubDate>Wed, 09 Sep 2026 10:02:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486374.html</guid>
-      <source url="https://www.qbitai.com/2026/09/486374.html">量子位</source>
-    </item>
-    <item>
-      <title>国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力</title>
-      <link>https://www.qbitai.com/2026/09/486370.html</link>
-      <description></description>
-      <pubDate>Wed, 09 Sep 2026 09:57:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486370.html</guid>
-      <source url="https://www.qbitai.com/2026/09/486370.html">量子位</source>
-    </item>
-    <item>
-      <title>首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口</title>
-      <link>https://www.ifanr.com/1678673?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>Coding 之后，教育 Agent 正在成为下一场 Token 战争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 09 Sep 2026 09:15:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1678673?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1678673?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了</title>
-      <link>https://www.ifanr.com/1679435?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>一台「不怎么阿维塔」的新车。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 09 Sep 2026 08:45:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679435?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679435?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道</title>
-      <link>http://www.geekpark.net/news/370026</link>
-      <description>消息称苹果折叠屏 iPhone 初期产量受限，每日仅数百部
-9 月 8 日，据日经中文网报道，根据多位知情人士指出，市场期待已久的首部苹果折叠 iPhone，由于苹果极为严格的质量管控标准，初期生产量每天仅有「数百部」，而苹果及其供货商正全力加快产量爬坡。
-熟悉情况的供应链主管向《日经亚洲》透露：「苹果设定了极高的质量标准，在正式量产之前，8 月又追加了一轮试产」。该人员表示：「截至 8 月下旬日产量仅数百部。按这样的初期产能计算，有可能难以满足市场需求」。
-《日经亚洲》先前报导，苹果计划今年内生产 800 万~1000 万部折叠屏 iPhone，并希望凭借这款全新外型设计的机型激发市场需求，</description>
-      <pubDate>Wed, 09 Sep 2026 08:37:42 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370026</guid>
-      <source url="http://www.geekpark.net/news/370026">极客公园</source>
+      <title>X-CoSD: Communication-Efficient Cross-Vocabulary Collaborative Speculative Decoding</title>
+      <link>https://arxiv.org/abs/2609.09166</link>
+      <description>arXiv:2609.09166v1 Announce Type: new 
+Abstract: This paper investigates collaborative speculative decoding (CoSD), a distributed large language model (LLM) inference framework in which an on-device small language model (SLM) drafts candidate tokens and a server LLM verifies them. Existing CoSD meth</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.09166</guid>
+      <source url="https://arxiv.org/abs/2609.09166">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
