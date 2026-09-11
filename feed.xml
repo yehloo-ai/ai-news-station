@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 14:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:29:50 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>本周看什么 | 最近值得一看的 7 部作品</title>
@@ -16,6 +16,26 @@
       <source url="https://sspai.com/post/114458">少数派</source>
     </item>
     <item>
+      <title>银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭</title>
+      <link>https://www.qbitai.com/2026/09/487631.html</link>
+      <description>看清「一个真正的人」</description>
+      <pubDate>Fri, 11 Sep 2026 18:02:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487631.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487631.html">量子位</source>
+    </item>
+    <item>
+      <title>GPT-Live-1 is now in the API</title>
+      <link>https://www.youtube.com/watch?v=OSaP6bJoU44</link>
+      <description>GPT-Live-1 is now available in the API.
+
+Bring ChatGPT’s natural back-and-forth to your app, with voice agents that listen while they speak and work with the models and harness you choose.
+
+Learn more here: https://openai.com/index/introducing-gpt-live-1-in-the-api/</description>
+      <pubDate>Fri, 11 Sep 2026 17:06:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=OSaP6bJoU44</guid>
+      <source url="https://www.youtube.com/watch?v=OSaP6bJoU44">OpenAI</source>
+    </item>
+    <item>
       <title>iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事</title>
       <link>https://sspai.com/post/114449</link>
       <description>新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。查看全文</description>
@@ -24,12 +44,36 @@
       <source url="https://sspai.com/post/114449">少数派</source>
     </item>
     <item>
+      <title>GPT-6 Astra handles the editing busywork</title>
+      <link>https://www.youtube.com/shorts/4bGb2OjU5tA</link>
+      <description></description>
+      <pubDate>Fri, 11 Sep 2026 15:00:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/4bGb2OjU5tA</guid>
+      <source url="https://www.youtube.com/shorts/4bGb2OjU5tA">OpenAI</source>
+    </item>
+    <item>
       <title>「正常」已是不易：聊聊不那么标新立异的理想 i6</title>
       <link>https://sspai.com/post/113605</link>
       <description>如果你想买一辆能够长期持有、同时又足够「正常」的新能源车，我还是非常推荐去试试理想 i6。查看全文</description>
       <pubDate>Fri, 11 Sep 2026 14:50:20 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/113605</guid>
       <source url="https://sspai.com/post/113605">少数派</source>
+    </item>
+    <item>
+      <title>啊？Anthropic最高320万招销售，只为服务Meta</title>
+      <link>https://www.qbitai.com/2026/09/487573.html</link>
+      <description>原来你俩互相下单呢</description>
+      <pubDate>Fri, 11 Sep 2026 14:05:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487573.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487573.html">量子位</source>
+    </item>
+    <item>
+      <title>百度秒哒再升级！让最懂业务的人，亲手造自己的系统</title>
+      <link>https://www.qbitai.com/2026/09/487415.html</link>
+      <description>把开发、交付和接单全打通了</description>
+      <pubDate>Fri, 11 Sep 2026 13:59:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487415.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487415.html">量子位</source>
     </item>
     <item>
       <title>制糖工厂发布「硬糖小魔头 Max60」：60W AVS 动态快充，15 分钟让 iPhone 18 Pro 充至 50%</title>
@@ -129,50 +173,6 @@ DeepSeek V4.1 Flash 为 552B 参数的 MoE 模型，采用了全新的 Causal-En
       <pubDate>Fri, 11 Sep 2026 02:50:47 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/487163.html</guid>
       <source url="https://www.qbitai.com/2026/09/487163.html">量子位</source>
-    </item>
-    <item>
-      <title>OpenAI这是拿千禧年难题当Benchmark刷啊。。。</title>
-      <link>https://www.qbitai.com/2026/09/487092.html</link>
-      <description>爆料直指霍奇猜想</description>
-      <pubDate>Fri, 11 Sep 2026 01:46:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487092.html</guid>
-      <source url="https://www.qbitai.com/2026/09/487092.html">量子位</source>
-    </item>
-    <item>
-      <title>吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞</title>
-      <link>https://www.qbitai.com/2026/09/487055.html</link>
-      <description>15秒视频，50秒出片</description>
-      <pubDate>Fri, 11 Sep 2026 00:55:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487055.html</guid>
-      <source url="https://www.qbitai.com/2026/09/487055.html">量子位</source>
-    </item>
-    <item>
-      <title>早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」</title>
-      <link>https://www.ifanr.com/1679695?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 三星借 iPhone Duo 发布调侃苹果「热剩饭」
-· OpenAI 限制图像和音频生成竞品在 ChatGPT 投放广告
-· 曝奥迪在华重划双品牌：一汽负责四环、上汽主攻 AUDI#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 11 Sep 2026 00:41:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679695?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679695?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows</title>
-      <link>https://arxiv.org/abs/2609.09203</link>
-      <description>arXiv:2609.09203v1 Announce Type: new 
-Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, di</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.09203</guid>
-      <source url="https://arxiv.org/abs/2609.09203">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Adaptive Entangled Game Modules in Artificial General Intelligence</title>
-      <link>https://arxiv.org/abs/2609.09226</link>
-      <description>arXiv:2609.09226v1 Announce Type: new 
-Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.09226</guid>
-      <source url="https://arxiv.org/abs/2609.09226">ArXiv AI</source>
     </item>
   </channel>
 </rss>
