@@ -1,26 +1,59 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "attribution": {
     "source": "AIHOT",
-    "canonical": "https://aihot.news/daily/2026-09-10"
+    "canonical": "https://aihot.news/daily/2026-09-11"
   },
-  "generatedAt": "2026-09-10T00:01:34.953Z",
-  "windowStart": "2026-09-09T00:00:00.000Z",
-  "windowEnd": "2026-09-10T00:00:00.000Z",
+  "generatedAt": "2026-09-11T00:00:30.984Z",
+  "windowStart": "2026-09-10T00:00:00.000Z",
+  "windowEnd": "2026-09-11T00:00:00.000Z",
   "lead": null,
   "sections": [
     {
       "label": "模型发布/更新",
       "items": [
         {
-          "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
-          "summary": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供，定价为每百万输入 token $10、输出 token $50。",
-          "sourceUrl": "https://openai.com/index/gpt-6-astra-next-generation-work",
-          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "permalink": "https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h",
+          "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+          "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
+          "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10",
+          "sourceName": "DeepSeek：API 更新日志",
+          "permalink": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h"
+            "canonical": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549"
+          }
+        },
+        {
+          "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+          "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
+          "sourceUrl": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+          "sourceName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+          "permalink": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n"
+          }
+        },
+        {
+          "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+          "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+          "sourceUrl": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+          "sourceName": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "permalink": "https://aihot.news/items/cmtvmrh9v0emuronbigbkvant",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtvmrh9v0emuronbigbkvant"
+          }
+        },
+        {
+          "title": "Suno v6 发布，支持图片、视频和语音备忘录生成音乐",
+          "summary": "Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐，并对已创建的歌曲进行精确修改。同时提供 v6-wild 版本供探索更多可能性，官方附有 2 分钟以内的功能演示视频。",
+          "sourceUrl": "https://x.com/suno/status/2097846245540888664",
+          "sourceName": "X：Suno (@suno)",
+          "permalink": "https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k"
           }
         }
       ]
@@ -29,47 +62,69 @@
       "label": "产品发布/更新",
       "items": [
         {
-          "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1,999",
-          "summary": "Apple 发布首款折叠屏 iPhone Duo，展开为 7.6 英寸内屏，合盖后为 5.4 英寸外屏，提供 iPhone 上最大显示面积。搭载 A20 Pro 芯片和蒸汽室散热，iPhone 17 Pro 续航最高 44 小时视频播放，10 月 16 日开启预购、10 月 23 日发售，起售价 $1,999。",
-          "sourceUrl": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
-          "sourceName": "Apple：Newsroom（RSS）",
-          "permalink": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
+          "title": "OpenAI 发布 Agents API 公测版",
+          "summary": "OpenAI 推出 Agents API 公开测试版，将驱动 Codex 的 harness 与基础设施通过单次 API 调用开放给开发者，托管在云端。",
+          "sourceUrl": "https://openai.com/index/introducing-the-agents-api",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.news/items/cmtvywm6902omrojit3fo7bjv",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j"
+            "canonical": "https://aihot.news/items/cmtvywm6902omrojit3fo7bjv"
           }
         },
         {
-          "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
-          "summary": "Apple 发布 iPhone 18 Pro 和 iPhone 18 Pro Max，配备带可变光圈的 48MP Fusion 主摄、A20 Pro 芯片和新一代 vapor chamber，eSIM 版 iPhone 18 Pro Max 视频播放最长可达 45 小时。",
-          "sourceUrl": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
-          "sourceName": "Apple：Newsroom（RSS）",
-          "permalink": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr",
+          "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+          "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+          "sourceUrl": "https://cursor.com/blog/projects",
+          "sourceName": "Cursor Blog",
+          "permalink": "https://aihot.news/items/cmtw4o8qc03iwrolkwc03elil",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr"
+            "canonical": "https://aihot.news/items/cmtw4o8qc03iwrolkwc03elil"
           }
         },
         {
-          "title": "OpenRouter 推出美国区域路由，与去年上线的 EU 路由配套保障数据驻留",
-          "summary": "OpenRouter 推出 US In-Region Routing，请求经 us.openrouter.ai 在美国境内解密并只路由到美国 provider 端点，eu.openrouter.ai 同理服务欧盟。",
-          "sourceUrl": "https://openrouter.ai/blog/announcements/us-in-region-routing",
-          "sourceName": "OpenRouter：Announcements（RSS）",
-          "permalink": "https://aihot.news/items/cmtu70vhj11u4rofpg46vvloh",
+          "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
+          "summary": "OpenAI 在 API 中发布语音模型 GPT-Live-1，可同时听和说，支持将推理和工具调用委派给 GPT-6 Astra 等后端模型，前端语音层定价为每分钟 $0.05。",
+          "sourceUrl": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtu70vhj11u4rofpg46vvloh"
+            "canonical": "https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa"
           }
         },
         {
-          "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
-          "summary": "Apple 发布 Apple Watch Series 12，称其具备可穿戴设备中最准确的心率监测，心率每 5 秒测量一次，HRV 测量频率提升至 24 倍，并新增 0-10 分 readiness 评分。",
-          "sourceUrl": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
-          "sourceName": "Apple：Newsroom（RSS）",
-          "permalink": "https://aihot.news/items/cmtuejpai193wrofprivr8awm",
+          "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+          "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
+          "sourceUrl": "https://x.com/GoogleAI/status/2098072879480947085",
+          "sourceName": "X：Google AI (@GoogleAI)",
+          "permalink": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtuejpai193wrofprivr8awm"
+            "canonical": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx"
+          }
+        },
+        {
+          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+          "summary": "Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。",
+          "sourceUrl": "https://huggingface.co/blog/gradio-workflow-1111",
+          "sourceName": "Hugging Face：Blog（RSS）",
+          "permalink": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic"
+          }
+        },
+        {
+          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+          "summary": "OpenAI 在 ChatGPT Work 中推出新的 Data agent，用户用自然语言即可连接公司数据、分析变化并生成可分享的交互式仪表盘。",
+          "sourceUrl": "https://openai.com/index/put-data-to-work",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077"
           }
         }
       ]
@@ -78,58 +133,25 @@
       "label": "行业动态",
       "items": [
         {
-          "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-          "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
-          "sourceUrl": "https://www.ithome.com/1/000/353.htm",
-          "sourceName": "IT之家（RSS）",
-          "permalink": "https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+          "sourceUrl": "https://shopify.engineering/back-to-native",
+          "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "permalink": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g"
+            "canonical": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t"
           }
         },
         {
-          "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
-          "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
-          "sourceUrl": "https://x.com/thexpin/status/2097615997616406833",
-          "sourceName": "X：X.PIN (@thexpin)",
-          "permalink": "https://aihot.news/items/cmttwa2j30pktrofpw67b9pby",
+          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+          "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
+          "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "permalink": "https://aihot.news/items/cmtw0ejbx03jdro8s0ve1llhi",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmttwa2j30pktrofpw67b9pby"
-          }
-        },
-        {
-          "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
-          "sourceUrl": "https://www.ithome.com/1/000/188.htm",
-          "sourceName": "IT之家（RSS）",
-          "permalink": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg"
-          }
-        },
-        {
-          "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
-          "summary": "《The Intercept》通过 FOIA 诉讼获得的文件显示，美国国防部曾在 P00003 合同中要求 OpenAI 提供对军事指令具有最低拒绝率的特别版模型，双方对此均否认，称该文件只是草案。五角大楼律师一度确认其为正式版本后多次改口，OpenAI 已于 2 月 27 日签署允许部署到美军机密网络的最新版协议。",
-          "sourceUrl": "https://www.ithome.com/1/000/277.htm",
-          "sourceName": "IT之家（RSS）",
-          "permalink": "https://aihot.news/items/cmttva2tg0oezrofpagfj7986",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmttva2tg0oezrofpagfj7986"
-          }
-        },
-        {
-          "title": "Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会",
-          "summary": "OpenAI 宣布 Alignment Research Center 创始人 Paul Christiano 加入 OpenAI Foundation Board 及其 Safety and Security Committee，该委员会负责 OpenAI 安全与安保实践的治理。",
-          "sourceUrl": "https://x.com/gdb/status/2097769891013280241",
-          "sourceName": "X：Greg Brockman (@gdb)",
-          "permalink": "https://aihot.news/items/cmtui33fr1dyvrofphqq514ej",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtui33fr1dyvrofphqq514ej"
+            "canonical": "https://aihot.news/items/cmtw0ejbx03jdro8s0ve1llhi"
           }
         }
       ]
@@ -138,14 +160,14 @@
       "label": "论文研究",
       "items": [
         {
-          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-          "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
-          "sourceUrl": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+          "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+          "sourceUrl": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
           "sourceName": "Anthropic：Research（发表成果 · 网页）",
-          "permalink": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
+          "permalink": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u"
+            "canonical": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3"
           }
         }
       ]
@@ -154,69 +176,36 @@
       "label": "技巧与观点",
       "items": [
         {
-          "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-          "summary": "OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出，ARC-AGI-3 达 99.9%，前代 GPT-5.6 Sol 仅 7.8%。",
-          "sourceUrl": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "sourceName": "Hacker News：AI 热帖",
-          "permalink": "https://aihot.news/items/cmtud99z117yurofph84r3cio",
+          "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+          "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
+          "sourceUrl": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "permalink": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtud99z117yurofph84r3cio"
+            "canonical": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae"
           }
         },
         {
-          "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明",
-          "summary": "Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。",
-          "sourceUrl": "https://x.com/Thom_Wolf/status/2097615465698713666",
-          "sourceName": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-          "permalink": "https://aihot.news/items/cmttwq6oy0pybrofphae4ykhb",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmttwq6oy0pybrofphae4ykhb"
-          }
-        },
-        {
-          "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-          "summary": "Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。",
-          "sourceUrl": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+          "sourceUrl": "https://cognition.com/blog/factoring-rsa-260",
           "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "permalink": "https://aihot.news/items/cmtts0bi50l1frofpe39el7a1",
+          "permalink": "https://aihot.news/items/cmtveyrm2000mronbnrnl0gez",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtts0bi50l1frofpe39el7a1"
+            "canonical": "https://aihot.news/items/cmtveyrm2000mronbnrnl0gez"
           }
         },
         {
-          "title": "GPT-6 Astra推理等级怎么选才最省Token",
-          "summary": "卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。",
-          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
+          "title": "27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局",
+          "summary": "27岁研究员Jacob Coxon辞职并称OpenAI与Anthropic正押上所有人生命奔向自我改进的超级智能，Anthropic对齐负责人公开支持。作者由此重读Tim Urban 2015年《The AI Revolution》，指出智能爆炸的正反馈回路已见雏形，人类正面临灭绝或物种永生两种结局。",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb",
           "sourceName": "公众号：数字生命卡兹克",
-          "permalink": "https://aihot.news/items/cmttcqkx404pprofp0jwc34zu",
+          "permalink": "https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmttcqkx404pprofp0jwc34zu"
-          }
-        },
-        {
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
-          "sourceUrl": "https://www.anthropic.com/institute/econ-scenarios",
-          "sourceName": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-          "permalink": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo"
-          }
-        },
-        {
-          "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
-          "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
-          "sourceUrl": "https://mistral.ai/news/legacy-code-modernization",
-          "sourceName": "Mistral AI：News（网页）",
-          "permalink": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv"
+            "canonical": "https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t"
           }
         }
       ]

@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-11",
   "reviewNote": "2026年1-6月中旬存在空档（日报存档从6月下旬开始），待人工补录；参数未公布的闭源模型不填参数量；分级字段：tier 可设 \"milestone\"（里程碑，配 impact 影响判断句）或 \"minor\"（次要，压成一行），缺省为普通级",
   "entries": [
+    {
+      "date": "2026-09-11",
+      "company": "深度求索",
+      "model": "V4.1-Flash",
+      "type": "多模态",
+      "specs": [],
+      "highlight": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸",
+      "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10",
+      "sourceName": "DeepSeek：API 更新日志",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-09-11",
+      "company": "深度求索",
+      "model": "DeepSeek V4.1-Flash",
+      "type": "多模态",
+      "specs": [],
+      "highlight": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两",
+      "sourceUrl": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+      "sourceName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "tier": "milestone",
+      "auto": true
+    },
+    {
+      "date": "2026-09-11",
+      "company": "深度求索",
+      "model": "SiliconFlow",
+      "type": "语言",
+      "specs": [],
+      "highlight": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台",
+      "sourceUrl": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+      "sourceName": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "tier": "normal",
+      "auto": true
+    },
+    {
+      "date": "2026-09-11",
+      "company": "Suno",
+      "model": "Suno v6",
+      "type": "视频",
+      "specs": [],
+      "highlight": "Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐，并对已创建的歌曲进行精确修",
+      "sourceUrl": "https://x.com/suno/status/2097846245540888664",
+      "sourceName": "X：Suno (@suno)",
+      "tier": "minor",
+      "auto": true
+    },
     {
       "date": "2026-09-09",
       "company": "OpenAI",
