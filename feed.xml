@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:39:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:26:12 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>本周看什么 | 最近值得一看的 7 部作品</title>
+      <link>https://sspai.com/post/114458</link>
+      <description>📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演， ...查看全文</description>
+      <pubDate>Fri, 11 Sep 2026 18:02:49 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114458</guid>
+      <source url="https://sspai.com/post/114458">少数派</source>
+    </item>
     <item>
       <title>iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事</title>
       <link>https://sspai.com/post/114449</link>
@@ -24,12 +32,36 @@
       <source url="https://sspai.com/post/113605">少数派</source>
     </item>
     <item>
+      <title>制糖工厂发布「硬糖小魔头 Max60」：60W AVS 动态快充，15 分钟让 iPhone 18 Pro 充至 50%</title>
+      <link>https://www.ifanr.com/1679798?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>制糖工厂 CANDYSIGN 宣布推出—— 60W 动态电源「硬糖小魔头 Max60」，支持 iPhone 18 Pro AVS 动态快充15 分钟可充至 50%。随着 iPhone 18 Pro / Pro Max 正式支持 AVS，这项技术开始走向更多用户，Max60 小魔头也为这一新一代快充体验而来。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 11 Sep 2026 13:02:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1679798?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1679798?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
       <title>新 iPhone 配件精选：多种组合一次配齐</title>
       <link>https://sspai.com/post/114414</link>
       <description>iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠29元，防护充电组合优 ...查看全文</description>
       <pubDate>Fri, 11 Sep 2026 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114414</guid>
       <source url="https://sspai.com/post/114414">少数派</source>
+    </item>
+    <item>
+      <title>在外滩大会上，我看到健康 AI+ 硬件的新可能</title>
+      <link>https://www.ifanr.com/1679765?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>如何把让硬件+AI，变成用户能够长期使用的健康服务#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 11 Sep 2026 10:01:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1679765?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1679765?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>不简单，“吃货快乐榜”也全面AI化了</title>
+      <link>https://www.qbitai.com/2026/09/487282.html</link>
+      <description></description>
+      <pubDate>Fri, 11 Sep 2026 08:59:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487282.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487282.html">量子位</source>
     </item>
     <item>
       <title>GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个</title>
@@ -141,42 +173,6 @@ Abstract: We introduce a probability-wave framework for modeling the collective 
       <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.09226</guid>
       <source url="https://arxiv.org/abs/2609.09226">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks</title>
-      <link>https://arxiv.org/abs/2609.09233</link>
-      <description>arXiv:2609.09233v1 Announce Type: new 
-Abstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles contain</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.09233</guid>
-      <source url="https://arxiv.org/abs/2609.09233">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions</title>
-      <link>https://arxiv.org/abs/2609.09306</link>
-      <description>arXiv:2609.09306v1 Announce Type: new 
-Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks, Gradland,</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.09306</guid>
-      <source url="https://arxiv.org/abs/2609.09306">ArXiv AI</source>
-    </item>
-    <item>
-      <title>An Autonomous GeoAI Agent for Arctic Eco-Navigation</title>
-      <link>https://arxiv.org/abs/2609.09374</link>
-      <description>arXiv:2609.09374v1 Announce Type: new 
-Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial operational, environmental, and community risks. Arctic route planning is inherentl</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.09374</guid>
-      <source url="https://arxiv.org/abs/2609.09374">ArXiv AI</source>
-    </item>
-    <item>
-      <title>M3-Former: Multimodal Transformer with Mixture-of-Experts for Long-Term Vessel Trajectory Prediction</title>
-      <link>https://arxiv.org/abs/2609.10559</link>
-      <description>arXiv:2609.10559v1 Announce Type: new 
-Abstract: To address the challenges of behavioral multimodality, limited semantic utilization, and long-term error accumulation in vessel trajectory prediction, this paper proposes M3-Former, a multimodal trajectory prediction framework enhanced by large langua</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.10559</guid>
-      <source url="https://arxiv.org/abs/2609.10559">ArXiv ML</source>
     </item>
   </channel>
 </rss>
