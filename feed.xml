@@ -5,8 +5,19 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 00:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:36:32 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道</title>
+      <link>http://www.geekpark.net/news/370157</link>
+      <description>DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，最高降价 60%
+9 月 10 日消息，深度求索今日正式发布DeepSeek V4.1 Flash 模型。这是其全新模型结构系列中的最小尺寸的模型，具备原生多模态视觉理解能力。
+新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。
+DeepSeek V4.1 Flash 为 552B 参数的 MoE 模型，采用了全新的 Causal-Encoder-Decoder 结构，输入和输出不对称，输入激活只有 8B，输出激活 16B，成本显著低于已知的同尺寸模型。同时，V4</description>
+      <pubDate>Fri, 11 Sep 2026 08:31:05 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370157</guid>
+      <source url="http://www.geekpark.net/news/370157">极客公园</source>
+    </item>
     <item>
       <title>派早报：商务部回应美国 AI 蒸馏指控</title>
       <link>https://sspai.com/post/114439</link>
@@ -16,187 +27,163 @@
       <source url="https://sspai.com/post/114439">少数派</source>
     </item>
     <item>
-      <title>走出聊天框，Agent 开始进入现实世界</title>
-      <link>http://www.geekpark.net/news/370064</link>
-      <description>&amp;nbsp;
-头图来源：小度
-Agent 正在寻找自己的「身体」。
-过去一年，智能体的主要工作对象是文件、网页和软件。它们可以搜索资料、分析数据、制作 PPT，也可以打开浏览器、调用工具，把一句需求推进成一份可供交付的结果。衡量一个 Agent 能力的方式，也集中在任务能不能做完、执行路径是否稳定、生成结果是否可用。
-但屏幕里的 Agent 仍然与现实世界隔着一层。
-它可以替人整理一周的工作记录，却不知道会议室里刚刚讨论了什么；能够生成一套家庭计划，却看不到孩子有没有开始写作业；可以给出老人用药的注意事项，却无法确认提醒是否被听见。文件、网页和软件提供的是结构化信息，现实世界则充满持续变化的人</description>
-      <pubDate>Thu, 10 Sep 2026 21:39:07 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370064</guid>
-      <source url="http://www.geekpark.net/news/370064">极客公园</source>
+      <title>量子位「MEET2027智能未来大会」启动！年度榜单征集进行中</title>
+      <link>https://www.qbitai.com/2026/09/487176.html</link>
+      <description>今年12月，北京，MEET2027智能未来大会！</description>
+      <pubDate>Fri, 11 Sep 2026 03:57:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487176.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487176.html">量子位</source>
     </item>
     <item>
-      <title>微信，悄悄迈出 AI 社交的第一步</title>
-      <link>http://www.geekpark.net/news/370155</link>
-      <description>&amp;nbsp;
-头图来源：视觉中国、ChatGPT 生成
-&amp;nbsp;
-最近，微信开始小范围测试一项新的「小微 AI 社交」功能。
-用户如果想联系一位朋友，可以先把诉求告诉自己的「小微」。小微找到对方的小微后，会说明此次沟通的话题，并向对方本人请求授权。获得同意后，两个小微先行交流；遇到需要用户作出选择或者确认的地方，再分别回来提醒各自的主人。
-这和「帮我给某某发一条微信」并不相同。
-代发消息仍然由用户决定说什么，AI 只是代替用户点击发送。小微 AI 社交中，用户交给 AI 的是一个目的。如何发起询问、交换哪些信息、怎样归纳分歧，部分沟通过程已经交给两个 AI 完成。
-据极客公园实测，两个小微</description>
-      <pubDate>Thu, 10 Sep 2026 21:36:57 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370155</guid>
-      <source url="http://www.geekpark.net/news/370155">极客公园</source>
+      <title>3万台无人车之后，这家公司盯上了城市级物理AI</title>
+      <link>https://www.qbitai.com/2026/09/487163.html</link>
+      <description></description>
+      <pubDate>Fri, 11 Sep 2026 02:50:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487163.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487163.html">量子位</source>
     </item>
     <item>
-      <title>对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑</title>
-      <link>http://www.geekpark.net/news/370150</link>
-      <description>在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。
-2025 年被认为是「消费级外骨骼元年」。今年，这个行业迅速涌入了上百个新玩家。
-极壳 Hypershell 去年的全球出货量超过了 3 万台，是这个细分领域里公认的头号玩家。创始人孙宽认为，这仍然是一个相对早期和小众的品类，现有的产品体验还有大量提升的空间。
-在孙宽看来，竞争并不是当下驱动行业创新的核心动力。他希望跨越鸿沟，把外骨骼产品的目标用户从户外、老年等几</description>
-      <pubDate>Thu, 10 Sep 2026 19:41:33 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370150</guid>
-      <source url="http://www.geekpark.net/news/370150">极客公园</source>
+      <title>OpenAI这是拿千禧年难题当Benchmark刷啊。。。</title>
+      <link>https://www.qbitai.com/2026/09/487092.html</link>
+      <description>爆料直指霍奇猜想</description>
+      <pubDate>Fri, 11 Sep 2026 01:46:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487092.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487092.html">量子位</source>
     </item>
     <item>
-      <title>Introducing the Agents API</title>
-      <link>https://www.youtube.com/watch?v=2YHa1vhnmK0</link>
-      <description>The Agents API brings a hosted version of the Codex harness to your applications. See how to build an agent that investigates production incidents, connects to tools through MCP, follows a runbook, and delivers a shareable report with evidence and suggested next steps.
-
-Learn more: https://developer</description>
-      <pubDate>Thu, 10 Sep 2026 19:26:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=2YHa1vhnmK0</guid>
-      <source url="https://www.youtube.com/watch?v=2YHa1vhnmK0">OpenAI</source>
+      <title>吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞</title>
+      <link>https://www.qbitai.com/2026/09/487055.html</link>
+      <description>15秒视频，50秒出片</description>
+      <pubDate>Fri, 11 Sep 2026 00:55:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487055.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487055.html">量子位</source>
     </item>
     <item>
-      <title>In Harmony</title>
-      <link>https://www.youtube.com/watch?v=PbfXbDbCthA</link>
-      <description>Work directed by you. Move projects forward and turn ideas into action with ChatGPT Work.</description>
-      <pubDate>Thu, 10 Sep 2026 17:29:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=PbfXbDbCthA</guid>
-      <source url="https://www.youtube.com/watch?v=PbfXbDbCthA">OpenAI</source>
+      <title>早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」</title>
+      <link>https://www.ifanr.com/1679695?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 三星借 iPhone Duo 发布调侃苹果「热剩饭」
+· OpenAI 限制图像和音频生成竞品在 ChatGPT 投放广告
+· 曝奥迪在华重划双品牌：一汽负责四环、上汽主攻 AUDI#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 11 Sep 2026 00:41:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1679695?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1679695?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>Two blind brothers using ChatGPT to navigate life and run their nonprofit</title>
-      <link>https://www.youtube.com/watch?v=qg_54P-oPgI</link>
-      <description>Bradford and Bryan Manning have spent their lives adapting to a world built for sight. Both brothers live with Stargardt disease, which has taken much of their central vision and made everyday tasks like navigating a crowded street far more difficult.
-
-Today, they use ChatGPT to turn visual informat</description>
-      <pubDate>Thu, 10 Sep 2026 16:00:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=qg_54P-oPgI</guid>
-      <source url="https://www.youtube.com/watch?v=qg_54P-oPgI">OpenAI</source>
+      <title>OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows</title>
+      <link>https://arxiv.org/abs/2609.09203</link>
+      <description>arXiv:2609.09203v1 Announce Type: new 
+Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, di</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.09203</guid>
+      <source url="https://arxiv.org/abs/2609.09203">ArXiv AI</source>
     </item>
     <item>
-      <title>Helping a small business go big with ChatGPT</title>
-      <link>https://www.youtube.com/watch?v=mPAmXQnhv2E</link>
-      <description>Derek and Larissa Guetter own ATV Big Air Tour – a small business that brings high-octane ATV and motocross shows to events across the country. They’ve been growing their business for 11 years, and now they’re competing with some of the biggest entertainment companies in the US. 
-
-As a team of two, </description>
-      <pubDate>Thu, 10 Sep 2026 16:00:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=mPAmXQnhv2E</guid>
-      <source url="https://www.youtube.com/watch?v=mPAmXQnhv2E">OpenAI</source>
+      <title>Adaptive Entangled Game Modules in Artificial General Intelligence</title>
+      <link>https://arxiv.org/abs/2609.09226</link>
+      <description>arXiv:2609.09226v1 Announce Type: new 
+Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.09226</guid>
+      <source url="https://arxiv.org/abs/2609.09226">ArXiv AI</source>
     </item>
     <item>
-      <title>App+1｜下一节：教学工作紧张忙碌，下一节课从从容容</title>
-      <link>https://sspai.com/post/114384</link>
-      <description>祝每一位老师教师节快乐！查看全文</description>
-      <pubDate>Thu, 10 Sep 2026 14:51:52 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114384</guid>
-      <source url="https://sspai.com/post/114384">少数派</source>
+      <title>Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks</title>
+      <link>https://arxiv.org/abs/2609.09233</link>
+      <description>arXiv:2609.09233v1 Announce Type: new 
+Abstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles contain</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.09233</guid>
+      <source url="https://arxiv.org/abs/2609.09233">ArXiv AI</source>
     </item>
     <item>
-      <title>20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配</title>
-      <link>https://www.ifanr.com/1679681?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>「全线控」已成智己的招牌。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 10 Sep 2026 13:52:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679681?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679681?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions</title>
+      <link>https://arxiv.org/abs/2609.09306</link>
+      <description>arXiv:2609.09306v1 Announce Type: new 
+Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks, Gradland,</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.09306</guid>
+      <source url="https://arxiv.org/abs/2609.09306">ArXiv AI</source>
     </item>
     <item>
-      <title>补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池</title>
-      <link>https://www.ifanr.com/1679668?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>银河 TT 想通吃性能党和家庭用户。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 10 Sep 2026 13:46:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679668?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679668?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>An Autonomous GeoAI Agent for Arctic Eco-Navigation</title>
+      <link>https://arxiv.org/abs/2609.09374</link>
+      <description>arXiv:2609.09374v1 Announce Type: new 
+Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial operational, environmental, and community risks. Arctic route planning is inherentl</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.09374</guid>
+      <source url="https://arxiv.org/abs/2609.09374">ArXiv AI</source>
     </item>
     <item>
-      <title>iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级</title>
-      <link>https://www.ifanr.com/1679651?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>更贵了，也更强了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 10 Sep 2026 13:11:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679651?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679651?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>M3-Former: Multimodal Transformer with Mixture-of-Experts for Long-Term Vessel Trajectory Prediction</title>
+      <link>https://arxiv.org/abs/2609.10559</link>
+      <description>arXiv:2609.10559v1 Announce Type: new 
+Abstract: To address the challenges of behavioral multimodality, limited semantic utilization, and long-term error accumulation in vessel trajectory prediction, this paper proposes M3-Former, a multimodal trajectory prediction framework enhanced by large langua</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10559</guid>
+      <source url="https://arxiv.org/abs/2609.10559">ArXiv ML</source>
     </item>
     <item>
-      <title>ECCV上，顶尖学者们开始研究如何让AI做生意了</title>
-      <link>https://www.qbitai.com/2026/09/486934.html</link>
-      <description>多模态AI大牛轮番登台，全球64支团队组团解题</description>
-      <pubDate>Thu, 10 Sep 2026 10:17:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486934.html</guid>
-      <source url="https://www.qbitai.com/2026/09/486934.html">量子位</source>
+      <title>Halo: Improving forecast accuracy through heteroscedastic estimation</title>
+      <link>https://arxiv.org/abs/2609.10589</link>
+      <description>arXiv:2609.10589v1 Announce Type: new 
+Abstract: Heteroscedastic forecasting, where a network estimates a scale parameter alongside a location parameter, is normally motivated by uncertainty quantification. This paper shows it also improves the point estimate, in contrast to reported negative result</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10589</guid>
+      <source url="https://arxiv.org/abs/2609.10589">ArXiv ML</source>
     </item>
     <item>
-      <title>苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道</title>
-      <link>http://www.geekpark.net/news/370089</link>
-      <description>苹果首款折叠 iPhone Duo 亮相，国行 15999 元起
-北京时间 9 月 10 日凌晨，苹果发布首款折叠手机 iPhone Duo，国行 15999 元起，10 月 16 日开启预售，23 日正式发售。同场推出 iPhone 18 Pro 系列，9999 元起；标准版 iPhone 18 推迟至明年春季发布。
-
-该机采用书本式内折设计，内外屏尺寸与小米 18 Fold 接近，价格高出 5000 元。机身重 254 克，厚度在同类折叠机型中偏厚重，但支持 IP68 防水。机型取消长焦镜头与面容 ID，改用侧边 Touch ID，搭载 A20 Pro 芯片。iOS 27 首次加入手机分屏</description>
-      <pubDate>Thu, 10 Sep 2026 08:58:59 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370089</guid>
-      <source url="http://www.geekpark.net/news/370089">极客公园</source>
+      <title>Zero-shot rib design: merging training-free generative prior with topology optimization</title>
+      <link>https://arxiv.org/abs/2609.10643</link>
+      <description>arXiv:2609.10643v1 Announce Type: new 
+Abstract: Natural load-bearing patterns such as leaf venation, trabecular bone, and spider webs achieve high stiffness per unit mass, yet classical topology optimizers rarely reach such geometries, and few let engineers express structural design intent through </description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10643</guid>
+      <source url="https://arxiv.org/abs/2609.10643">ArXiv ML</source>
     </item>
     <item>
-      <title>I Never Thought I’d See This Happen</title>
-      <link>https://www.youtube.com/watch?v=mOvtumfyjCs</link>
-      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers
-
-📝 The Navier-Stokes solution paper is available here:
-https://openai.com/index/navier-stokes-solution/
-
-My fluid simulations and papers:
-https://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/
-https://use</description>
-      <pubDate>Thu, 10 Sep 2026 08:47:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=mOvtumfyjCs</guid>
-      <source url="https://www.youtube.com/watch?v=mOvtumfyjCs">Two Minute Papers</source>
+      <title>Byzantine-Robust Federated Fire Detection with a Rotating Coordinator</title>
+      <link>https://arxiv.org/abs/2609.10647</link>
+      <description>arXiv:2609.10647v1 Announce Type: new 
+Abstract: We study the application of federated learning (FL) to indoor fire detection. Such fire-detection systems use edge cameras that record sensitive footage which cannot easily be collected at a central server. Existing federated solutions leave three pra</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10647</guid>
+      <source url="https://arxiv.org/abs/2609.10647">ArXiv ML</source>
     </item>
     <item>
-      <title>全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口</title>
-      <link>https://www.qbitai.com/2026/09/486900.html</link>
-      <description>9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。</description>
-      <pubDate>Thu, 10 Sep 2026 08:17:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486900.html</guid>
-      <source url="https://www.qbitai.com/2026/09/486900.html">量子位</source>
+      <title>Artificial Intelligence Algorithms for the Detection of Pathologies Related to Lung Cancer through Image Analysis using Convolutional Neural Networks and Data Augmentation: a systematic mapping of the literature</title>
+      <link>https://arxiv.org/abs/2609.10652</link>
+      <description>arXiv:2609.10652v1 Announce Type: new 
+Abstract: Lung cancer is one of the leading causes of death worldwide, and its early diagnosis is crucial to improving patients prognosis and quality of life. However, the process of interpreting medical images for the detection of lung cancer is complex and re</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10652</guid>
+      <source url="https://arxiv.org/abs/2609.10652">ArXiv ML</source>
     </item>
     <item>
-      <title>全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源</title>
-      <link>https://www.qbitai.com/2026/09/486747.html</link>
-      <description>大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R</description>
-      <pubDate>Thu, 10 Sep 2026 07:57:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486747.html</guid>
-      <source url="https://www.qbitai.com/2026/09/486747.html">量子位</source>
+      <title>Data-Efficient Language Modeling: From Frontier Advancement to Principle-Guided Model Improvement</title>
+      <link>https://arxiv.org/abs/2609.10702</link>
+      <description>arXiv:2609.10702v1 Announce Type: new 
+Abstract: Learning from limited text requires models to use context, generalize to new inputs, and retain useful capabilities. Qiushi Engine conducted a long-horizon, end-to-end autonomous research program on BabyLM 2026 Strict-Small, within 10 million corpus w</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10702</guid>
+      <source url="https://arxiv.org/abs/2609.10702">ArXiv NLP</source>
     </item>
     <item>
-      <title>这个新开源的世界模型只有1.3B，单卡就能实时跑！</title>
-      <link>https://www.qbitai.com/2026/09/486716.html</link>
-      <description>轻量版LingBot-World 2.0</description>
-      <pubDate>Thu, 10 Sep 2026 07:44:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486716.html</guid>
-      <source url="https://www.qbitai.com/2026/09/486716.html">量子位</source>
+      <title>NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction</title>
+      <link>https://arxiv.org/abs/2609.10715</link>
+      <description>arXiv:2609.10715v1 Announce Type: new 
+Abstract: We introduce NCP-ArchPreview, a latent-space language model that pushes autoregressive pretraining beyond standard next-token prediction (NTP). Alongside NTP, the model learns through Next Concept Prediction (NCP) to predict discrete concepts that spa</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10715</guid>
+      <source url="https://arxiv.org/abs/2609.10715">ArXiv NLP</source>
     </item>
     <item>
-      <title>AGI时代的第一个生图模型，ChatGPT Images 2.5上线</title>
-      <link>https://www.qbitai.com/2026/09/486684.html</link>
-      <description>主打生成更快，细节更好，改图也终于越来越像“真·修图”了。</description>
-      <pubDate>Thu, 10 Sep 2026 07:25:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486684.html</guid>
-      <source url="https://www.qbitai.com/2026/09/486684.html">量子位</source>
-    </item>
-    <item>
-      <title>派早报：Apple 发布 iPhone Duo 折叠屏等</title>
-      <link>https://sspai.com/post/114394</link>
-      <description>奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。查看全文</description>
-      <pubDate>Thu, 10 Sep 2026 06:38:42 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114394</guid>
-      <source url="https://sspai.com/post/114394">少数派</source>
+      <title>CMNIE: An Information Extraction Benchmark for Chinese Military News</title>
+      <link>https://arxiv.org/abs/2609.10722</link>
+      <description>arXiv:2609.10722v1 Announce Type: new 
+Abstract: Structured extraction from Chinese military news supports intelligence analysis, decision-making, and knowledge base construction. However, existing resources provide limited support for joint informa?tion extraction in this domain, especially when ev</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10722</guid>
+      <source url="https://arxiv.org/abs/2609.10722">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
