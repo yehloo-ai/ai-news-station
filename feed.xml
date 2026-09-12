@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 17:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:17:46 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>AI 时代的「4399」，可把我玩嗨了｜AI 上新</title>
@@ -20,7 +20,7 @@
       <source url="http://www.geekpark.net/news/370227">极客公园</source>
     </item>
     <item>
-      <title>GPT-6 Astra needs less babysitting</title>
+      <title>GPT-6 Astra 需要更少的保姆</title>
       <link>https://www.youtube.com/shorts/SiJGdlmdUms</link>
       <description></description>
       <pubDate>Sat, 12 Sep 2026 15:00:30 +0000</pubDate>
@@ -118,7 +118,7 @@
       <source url="https://www.ifanr.com/1679729?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement</title>
+      <title>概率焦点搜索：通过下界推进加速有界次优搜索</title>
       <link>https://arxiv.org/abs/2609.10584</link>
       <description>arXiv:2609.10584v1 Announce Type: new 
 Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\min}$, but its deterministic policy </description>
@@ -127,7 +127,7 @@ Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of opti
       <source url="https://arxiv.org/abs/2609.10584">ArXiv AI</source>
     </item>
     <item>
-      <title>Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language</title>
+      <title>从自然语言自动生成二次无约束二元优化 (QUBO) 公式</title>
       <link>https://arxiv.org/abs/2609.10629</link>
       <description>arXiv:2609.10629v1 Announce Type: new 
 Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, tran</description>
@@ -136,7 +136,7 @@ Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formul
       <source url="https://arxiv.org/abs/2609.10629">ArXiv AI</source>
     </item>
     <item>
-      <title>A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning</title>
+      <title>用于组合和可解释认知推理的多阶段规则链框架</title>
       <link>https://arxiv.org/abs/2609.10654</link>
       <description>arXiv:2609.10654v1 Announce Type: new 
 Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across</description>
@@ -145,7 +145,7 @@ Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive genera
       <source url="https://arxiv.org/abs/2609.10654">ArXiv AI</source>
     </item>
     <item>
-      <title>Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning</title>
+      <title>了解扩散模型微调中的 LoRA Rank 权衡</title>
       <link>https://arxiv.org/abs/2609.10656</link>
       <description>arXiv:2609.10656v1 Announce Type: new 
 Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid </description>
@@ -154,7 +154,7 @@ Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quali
       <source url="https://arxiv.org/abs/2609.10656">ArXiv AI</source>
     </item>
     <item>
-      <title>Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking</title>
+      <title>量化记忆到泛化的转变：Grokking 中的尺​​度法则和阶段结构</title>
       <link>https://arxiv.org/abs/2609.10657</link>
       <description>arXiv:2609.10657v1 Announce Type: new 
 Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \emph{why} this transition occurs, the quantitative structure of \emph{when} it occurs</description>
@@ -163,7 +163,7 @@ Abstract: Neural networks trained past memorization frequently undergo a delayed
       <source url="https://arxiv.org/abs/2609.10657">ArXiv AI</source>
     </item>
     <item>
-      <title>GPT-6 Astra added unexpected details</title>
+      <title>GPT-6 Astra 添加了意想不到的细节</title>
       <link>https://www.youtube.com/shorts/ZlvkQYZo3ZE</link>
       <description></description>
       <pubDate>Fri, 11 Sep 2026 21:00:04 +0000</pubDate>
