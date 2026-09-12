@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-12",
+  "attribution": {
+    "source": "AIHOT",
+    "canonical": "https://aihot.news/daily/2026-09-12"
+  },
+  "generatedAt": "2026-09-12T00:01:36.597Z",
+  "windowStart": "2026-09-11T00:00:00.000Z",
+  "windowEnd": "2026-09-12T00:00:00.000Z",
+  "lead": null,
+  "sections": [
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+          "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
+          "sourceUrl": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "permalink": "https://aihot.news/items/cmtx0v3dg030mroedwvkdfyvw",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtx0v3dg030mroedwvkdfyvw"
+          }
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+          "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+          "sourceName": "公众号：卡尔的AI沃茨",
+          "permalink": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3"
+          }
+        },
+        {
+          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
+          "sourceUrl": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "sourceName": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "permalink": "https://aihot.news/items/cmtx7e9sn09mmroedph6hkyx4",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtx7e9sn09mmroedph6hkyx4"
+          }
+        },
+        {
+          "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+          "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+          "sourceUrl": "https://x.com/elonmusk/status/2098217236771295567",
+          "sourceName": "X：Elon Musk (@elonmusk, xAI)",
+          "permalink": "https://aihot.news/items/cmtw9fws408trrolkp9glkz9j",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtw9fws408trrolkp9glkz9j"
+          }
+        },
+        {
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+          "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
+          "sourceUrl": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "sourceName": "GitHub Blog",
+          "permalink": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr"
+          }
+        },
+        {
+          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
+          "summary": "OpenAI 发文（系列上篇）讲述其在线存储平台 Habitat 的演进：现每秒处理超 7000 万请求、服务每周超 10 亿用户、管理超 500PB 数据，覆盖近 40 个地区。",
+          "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv",
+          "attribution": {
+            "source": "AIHOT",
+            "canonical": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv"
+          }
+        }
+      ]
+    }
+  ],
+  "flashes": []
+}
