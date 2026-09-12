@@ -5,8 +5,20 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:07:59 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 时代的「4399」，可把我玩嗨了｜AI 上新</title>
+      <link>http://www.geekpark.net/news/370227</link>
+      <description>打开 Pocket 的前十分钟，我以为自己打开了一个 Instagram 版的 4399。
+不久前，Meta 在美国正式推出了 Pocket。Pocket 的玩法很好理解，用户不用写代码，只要告诉 AI「我想做一个什么东西」，几十秒后就能得到一个可以直接操作的小游戏、小工具或者互动页面。
+做完以后，它就像发帖一样，发到了 Pocket 的信息流里，其他人刷到后，可以直接玩、评论、转发，或者拿去修改成自己的版本。
+打开 Pocket 后刷到的小游戏｜图片来源：Pocket
+如果按照一个游戏玩家的标准去看，Pocket 上绝大多数的内容，很难称得上是「游戏」。它们画面普遍简单，玩法也没有多少深度，</description>
+      <pubDate>Sat, 12 Sep 2026 21:03:04 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370227</guid>
+      <source url="http://www.geekpark.net/news/370227">极客公园</source>
+    </item>
     <item>
       <title>与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南</title>
       <link>https://sspai.com/post/114461</link>
@@ -14,6 +26,14 @@
       <pubDate>Sat, 12 Sep 2026 15:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114461</guid>
       <source url="https://sspai.com/post/114461">少数派</source>
+    </item>
+    <item>
+      <title>“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选</title>
+      <link>https://www.qbitai.com/2026/09/487860.html</link>
+      <description>太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。</description>
+      <pubDate>Sat, 12 Sep 2026 11:38:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487860.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487860.html">量子位</source>
     </item>
     <item>
       <title>A社承认Claude安全对齐存在缺陷，但“尚无解决方案”</title>
@@ -157,26 +177,6 @@ Abstract: Neural networks trained past memorization frequently undergo a delayed
       <pubDate>Fri, 11 Sep 2026 18:02:36 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/487631.html</guid>
       <source url="https://www.qbitai.com/2026/09/487631.html">量子位</source>
-    </item>
-    <item>
-      <title>GPT-Live-1 is now in the API</title>
-      <link>https://www.youtube.com/watch?v=OSaP6bJoU44</link>
-      <description>GPT-Live-1 is now available in the API.
-
-Bring ChatGPT’s natural back-and-forth to your app, with voice agents that listen while they speak and work with the models and harness you choose.
-
-Learn more here: https://openai.com/index/introducing-gpt-live-1-in-the-api/</description>
-      <pubDate>Fri, 11 Sep 2026 17:06:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=OSaP6bJoU44</guid>
-      <source url="https://www.youtube.com/watch?v=OSaP6bJoU44">OpenAI</source>
-    </item>
-    <item>
-      <title>iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事</title>
-      <link>https://sspai.com/post/114449</link>
-      <description>新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。查看全文</description>
-      <pubDate>Fri, 11 Sep 2026 16:30:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114449</guid>
-      <source url="https://sspai.com/post/114449">少数派</source>
     </item>
   </channel>
 </rss>
