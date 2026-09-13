@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Sep 2026 00:58:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 06:04:15 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话</title>
@@ -21,6 +21,14 @@ Altman 表示，今年进行首次公开募股「时机不合适」，公司要�
       <source url="http://www.geekpark.net/news/370228">极客公园</source>
     </item>
     <item>
+      <title>OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了</title>
+      <link>https://www.qbitai.com/2026/09/488380.html</link>
+      <description>RSI太危险，得管！</description>
+      <pubDate>Sun, 13 Sep 2026 03:13:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/488380.html</guid>
+      <source url="https://www.qbitai.com/2026/09/488380.html">量子位</source>
+    </item>
+    <item>
       <title>AI 时代的「4399」，可把我玩嗨了｜AI 上新</title>
       <link>http://www.geekpark.net/news/370227</link>
       <description>打开 Pocket 的前十分钟，我以为自己打开了一个 Instagram 版的 4399。
@@ -31,14 +39,6 @@ Altman 表示，今年进行首次公开募股「时机不合适」，公司要�
       <pubDate>Sat, 12 Sep 2026 21:03:04 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/370227</guid>
       <source url="http://www.geekpark.net/news/370227">极客公园</source>
-    </item>
-    <item>
-      <title>GPT-6 Astra needs less babysitting</title>
-      <link>https://www.youtube.com/shorts/SiJGdlmdUms</link>
-      <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:00:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/SiJGdlmdUms</guid>
-      <source url="https://www.youtube.com/shorts/SiJGdlmdUms">OpenAI</source>
     </item>
     <item>
       <title>与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南</title>
@@ -131,57 +131,52 @@ Altman 表示，今年进行首次公开募股「时机不合适」，公司要�
       <source url="https://www.ifanr.com/1679729?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement</title>
-      <link>https://arxiv.org/abs/2609.10584</link>
-      <description>arXiv:2609.10584v1 Announce Type: new 
-Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\min}$, but its deterministic policy </description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.10584</guid>
-      <source url="https://arxiv.org/abs/2609.10584">ArXiv AI</source>
+      <title>本周看什么 | 最近值得一看的 7 部作品</title>
+      <link>https://sspai.com/post/114458</link>
+      <description>📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演， ...查看全文</description>
+      <pubDate>Fri, 11 Sep 2026 18:02:49 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114458</guid>
+      <source url="https://sspai.com/post/114458">少数派</source>
     </item>
     <item>
-      <title>Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language</title>
-      <link>https://arxiv.org/abs/2609.10629</link>
-      <description>arXiv:2609.10629v1 Announce Type: new 
-Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, tran</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.10629</guid>
-      <source url="https://arxiv.org/abs/2609.10629">ArXiv AI</source>
+      <title>银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭</title>
+      <link>https://www.qbitai.com/2026/09/487631.html</link>
+      <description>看清「一个真正的人」</description>
+      <pubDate>Fri, 11 Sep 2026 18:02:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487631.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487631.html">量子位</source>
     </item>
     <item>
-      <title>A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning</title>
-      <link>https://arxiv.org/abs/2609.10654</link>
-      <description>arXiv:2609.10654v1 Announce Type: new 
-Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.10654</guid>
-      <source url="https://arxiv.org/abs/2609.10654">ArXiv AI</source>
+      <title>iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事</title>
+      <link>https://sspai.com/post/114449</link>
+      <description>新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。查看全文</description>
+      <pubDate>Fri, 11 Sep 2026 16:30:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114449</guid>
+      <source url="https://sspai.com/post/114449">少数派</source>
     </item>
     <item>
-      <title>Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning</title>
-      <link>https://arxiv.org/abs/2609.10656</link>
-      <description>arXiv:2609.10656v1 Announce Type: new 
-Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid </description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.10656</guid>
-      <source url="https://arxiv.org/abs/2609.10656">ArXiv AI</source>
+      <title>「正常」已是不易：聊聊不那么标新立异的理想 i6</title>
+      <link>https://sspai.com/post/113605</link>
+      <description>如果你想买一辆能够长期持有、同时又足够「正常」的新能源车，我还是非常推荐去试试理想 i6。查看全文</description>
+      <pubDate>Fri, 11 Sep 2026 14:50:20 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/113605</guid>
+      <source url="https://sspai.com/post/113605">少数派</source>
     </item>
     <item>
-      <title>Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking</title>
-      <link>https://arxiv.org/abs/2609.10657</link>
-      <description>arXiv:2609.10657v1 Announce Type: new 
-Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \emph{why} this transition occurs, the quantitative structure of \emph{when} it occurs</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.10657</guid>
-      <source url="https://arxiv.org/abs/2609.10657">ArXiv AI</source>
+      <title>啊？Anthropic最高320万招销售，只为服务Meta</title>
+      <link>https://www.qbitai.com/2026/09/487573.html</link>
+      <description>原来你俩互相下单呢</description>
+      <pubDate>Fri, 11 Sep 2026 14:05:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487573.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487573.html">量子位</source>
     </item>
     <item>
-      <title>GPT-6 Astra added unexpected details</title>
-      <link>https://www.youtube.com/shorts/ZlvkQYZo3ZE</link>
-      <description></description>
-      <pubDate>Fri, 11 Sep 2026 21:00:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/ZlvkQYZo3ZE</guid>
-      <source url="https://www.youtube.com/shorts/ZlvkQYZo3ZE">OpenAI</source>
+      <title>百度秒哒再升级！让最懂业务的人，亲手造自己的系统</title>
+      <link>https://www.qbitai.com/2026/09/487415.html</link>
+      <description>把开发、交付和接单全打通了</description>
+      <pubDate>Fri, 11 Sep 2026 13:59:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/487415.html</guid>
+      <source url="https://www.qbitai.com/2026/09/487415.html">量子位</source>
     </item>
   </channel>
 </rss>
