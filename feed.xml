@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:01:31 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>派评｜近期值得关注的 App</title>
@@ -22,6 +22,16 @@
       <pubDate>Mon, 14 Sep 2026 16:35:27 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey</guid>
       <source url="https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey">少数派</source>
+    </item>
+    <item>
+      <title>Detecting wildfires with ChatGPT</title>
+      <link>https://www.youtube.com/watch?v=PSnJBfa183Y</link>
+      <description>Most fifth-grade science projects end up in a closet. Ryan Honary’s became SensoRy AI—a wildfire detection system that identifies fires at ignition and alerts firefighters before a spark becomes catastrophic.
+
+Ryan’s sensors monitor remote terrain for heat, smoke, flame, and plume activity. When a p</description>
+      <pubDate>Mon, 14 Sep 2026 15:57:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PSnJBfa183Y</guid>
+      <source url="https://www.youtube.com/watch?v=PSnJBfa183Y">OpenAI</source>
     </item>
     <item>
       <title>新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试</title>
@@ -49,6 +59,14 @@
       <pubDate>Mon, 14 Sep 2026 13:14:43 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/370269</guid>
       <source url="http://www.geekpark.net/news/370269">极客公园</source>
+    </item>
+    <item>
+      <title>在学会数学之前，AI 先学会了大厂的虚荣心</title>
+      <link>https://www.ifanr.com/1680046?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>大厂的数学名题争夺赛#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 14 Sep 2026 13:05:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1680046?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1680046?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」</title>
@@ -161,22 +179,6 @@
       <pubDate>Mon, 14 Sep 2026 03:18:42 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/488725.html</guid>
       <source url="https://www.qbitai.com/2026/09/488725.html">量子位</source>
-    </item>
-    <item>
-      <title>奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX</title>
-      <link>https://www.qbitai.com/2026/09/488699.html</link>
-      <description>还是太嫩了啊Dario</description>
-      <pubDate>Mon, 14 Sep 2026 02:56:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/488699.html</guid>
-      <source url="https://www.qbitai.com/2026/09/488699.html">量子位</source>
-    </item>
-    <item>
-      <title>怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner</title>
-      <link>https://www.ifanr.com/1679952?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>最近，爱范儿在上海见到了应用材料公司副总裁兼光子平台事业部总经理Paul Meissner，并体验了现场展示的多款智能眼镜技术样品#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 14 Sep 2026 01:53:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679952?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679952?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
