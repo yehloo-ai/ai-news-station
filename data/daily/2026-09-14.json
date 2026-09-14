@@ -1,74 +1,26 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "attribution": {
     "source": "AIHOT",
-    "canonical": "https://aihot.news/daily/2026-09-13"
+    "canonical": "https://aihot.news/daily/2026-09-14"
   },
-  "generatedAt": "2026-09-13T00:01:17.449Z",
-  "windowStart": "2026-09-12T00:00:00.000Z",
-  "windowEnd": "2026-09-13T00:00:00.000Z",
+  "generatedAt": "2026-09-14T00:01:17.539Z",
+  "windowStart": "2026-09-13T00:00:00.000Z",
+  "windowEnd": "2026-09-14T00:00:00.000Z",
   "lead": null,
   "sections": [
-    {
-      "label": "模型发布/更新",
-      "items": [
-        {
-          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-          "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
-          "sourceUrl": "https://suno.com/blog/introducing-v6",
-          "sourceName": "Suno：Blog（网页）",
-          "permalink": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8"
-          }
-        }
-      ]
-    },
-    {
-      "label": "产品发布/更新",
-      "items": [
-        {
-          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
-          "sourceUrl": "https://x.com/OpenAIDevs/status/2098827327832822014",
-          "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
-          "permalink": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu"
-          }
-        }
-      ]
-    },
     {
       "label": "行业动态",
       "items": [
         {
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-          "sourceUrl": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2,000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+          "sourceUrl": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
           "sourceName": "Hacker News：AI 热帖",
-          "permalink": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
+          "permalink": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7"
-          }
-        }
-      ]
-    },
-    {
-      "label": "论文研究",
-      "items": [
-        {
-          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2,000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-          "sourceUrl": "https://www.rubyhack.ai/",
-          "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "permalink": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
-          "attribution": {
-            "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6"
+            "canonical": "https://aihot.news/items/cmu01iavi08reroymepsxnar2"
           }
         }
       ]
@@ -77,25 +29,25 @@
       "label": "技巧与观点",
       "items": [
         {
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
-          "sourceUrl": "https://x.com/sama/status/2098811563415150910",
-          "sourceName": "X：Sam Altman (@sama)",
-          "permalink": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
+          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+          "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
+          "sourceUrl": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+          "sourceName": "MarkTechPost（RSS）",
+          "permalink": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb"
+            "canonical": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v"
           }
         },
         {
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-          "sourceUrl": "https://x.com/trq212/status/2098860941391872132",
-          "sourceName": "X：Thariq (@trq212)",
-          "permalink": "https://aihot.news/items/cmtyth87f098broupl3k186iw",
+          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+          "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+          "sourceUrl": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+          "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "permalink": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
           "attribution": {
             "source": "AIHOT",
-            "canonical": "https://aihot.news/items/cmtyth87f098broupl3k186iw"
+            "canonical": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1"
           }
         }
       ]
