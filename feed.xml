@@ -5,8 +5,33 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Sep 2026 21:28:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:09:58 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>派早报：美国 AI 高管呼吁放缓研发，特朗普反对</title>
+      <link>https://sspai.com/post/114539</link>
+      <description>美国 AI 高管呼吁放缓研发，特朗普反对苹果解释 Apple Watch 不会持续录音LG 否认智能电视监控用户暴雪公布《魔兽世界》怀旧服儿童贴身使用笔记本电脑导致皮肤灼伤Android 开始支持密码管理器迁移看看就行的简讯少数派的近期动态你可能错过的好文章查看全文</description>
+      <pubDate>Mon, 14 Sep 2026 06:55:34 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114539</guid>
+      <source url="https://sspai.com/post/114539">少数派</source>
+    </item>
+    <item>
+      <title>苹果的折叠屏等了十五年，体验还差临门一脚</title>
+      <link>http://www.geekpark.net/news/370231</link>
+      <description>折叠屏七年没解决的问题，从来不在铰链上。
+
+作者｜张勇毅
+编辑｜靖宇
+
+2011 年 9 月 30 日，苹果递交了一份名叫「Flexible electronic devices」的专利申请。它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开着还是合着。
+这份专利 2015 年 1 月获授，发明人一共六位，其中一位叫特努斯（John P. Ternus）。
+
+十五年之后的 2026 年 9 月 9 日，当年署名的那位工程师，第一次以苹果 CEO 的身份站上发布会，发布了 iPhone Duo。
+虽然对这位新任 CEO 来讲，这是首次发布会上最重磅的产品，但中间这十五年，苹</description>
+      <pubDate>Mon, 14 Sep 2026 01:24:02 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370231</guid>
+      <source url="http://www.geekpark.net/news/370231">极客公园</source>
+    </item>
     <item>
       <title>搭建自己的 HomeLab（一）：聊聊我的硬件清单</title>
       <link>https://sspai.com/post/113880</link>
@@ -159,24 +184,6 @@ Altman 表示，今年进行首次公开募股「时机不合适」，公司要�
       <pubDate>Sat, 12 Sep 2026 04:53:58 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/487653.html</guid>
       <source url="https://www.qbitai.com/2026/09/487653.html">量子位</source>
-    </item>
-    <item>
-      <title>早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市</title>
-      <link>https://www.ifanr.com/1679729?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 马斯克怒斥吉布尼纪录片《马斯克》是「抹黑之作」
-· 特斯拉 Model Y 高性能版上市，售价 36.9 万元
-· 微软计划到 2032 年把数据中心容量扩至 38 GW 以上#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 12 Sep 2026 00:35:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679729?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679729?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>GPT-6 Astra added unexpected details</title>
-      <link>https://www.youtube.com/shorts/ZlvkQYZo3ZE</link>
-      <description></description>
-      <pubDate>Fri, 11 Sep 2026 21:00:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/ZlvkQYZo3ZE</guid>
-      <source url="https://www.youtube.com/shorts/ZlvkQYZo3ZE">OpenAI</source>
     </item>
   </channel>
 </rss>
