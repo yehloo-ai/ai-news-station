@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:58:42 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备</title>
@@ -58,6 +58,14 @@ B 站拿出 10 亿元流量扶持视频播客，罗永浩、鲁豫等名人带�
       <pubDate>Tue, 15 Sep 2026 13:54:51 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/370325</guid>
       <source url="http://www.geekpark.net/news/370325">极客公园</source>
+    </item>
+    <item>
+      <title>梁文锋CFO到位！投过智谱MiniMax</title>
+      <link>https://www.qbitai.com/2026/09/489707.html</link>
+      <description>严文韬，1991年生，高瓴创投合伙人</description>
+      <pubDate>Tue, 15 Sep 2026 13:53:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489707.html</guid>
+      <source url="https://www.qbitai.com/2026/09/489707.html">量子位</source>
     </item>
     <item>
       <title>地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出</title>
@@ -181,14 +189,6 @@ https://www.anthropic.com/news/claude-text-watermark
       <pubDate>Tue, 15 Sep 2026 06:37:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/489337.html</guid>
       <source url="https://www.qbitai.com/2026/09/489337.html">量子位</source>
-    </item>
-    <item>
-      <title>前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了</title>
-      <link>https://www.qbitai.com/2026/09/489288.html</link>
-      <description>未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。</description>
-      <pubDate>Tue, 15 Sep 2026 05:39:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489288.html</guid>
-      <source url="https://www.qbitai.com/2026/09/489288.html">量子位</source>
     </item>
   </channel>
 </rss>
