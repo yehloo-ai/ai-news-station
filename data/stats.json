@@ -1,22 +1,17 @@
 {
-  "generatedAt": "2026-09-15T06:25:52.369Z",
+  "generatedAt": "2026-09-15T17:43:35.120Z",
   "umami": {
     "error": null,
     "today": {
-      "visitors": 3,
-      "pageviews": 20
+      "visitors": 0,
+      "pageviews": 0
     },
     "last30d": {
-      "visitors": 29,
-      "pageviews": 96,
-      "visits": 46
+      "visitors": 27,
+      "pageviews": 90,
+      "visits": 44
     },
     "series": [
-      {
-        "date": "2026-08-17",
-        "pageviews": 0,
-        "visitors": 0
-      },
       {
         "date": "2026-08-18",
         "pageviews": 40,
@@ -154,11 +149,16 @@
       },
       {
         "date": "2026-09-14",
-        "pageviews": 20,
+        "pageviews": 21,
         "visitors": 3
       },
       {
         "date": "2026-09-15",
+        "pageviews": 0,
+        "visitors": 0
+      },
+      {
+        "date": "2026-09-16",
         "pageviews": 0,
         "visitors": 0
       }
@@ -166,7 +166,7 @@
     "countries": [
       {
         "code": "US",
-        "visitors": 14
+        "visitors": 12
       },
       {
         "code": "CN",
@@ -177,15 +177,11 @@
         "visitors": 1
       },
       {
-        "code": "NL",
-        "visitors": 1
-      },
-      {
         "code": "RU",
         "visitors": 1
       },
       {
-        "code": "SG",
+        "code": "CA",
         "visitors": 1
       },
       {
@@ -193,7 +189,11 @@
         "visitors": 1
       },
       {
-        "code": "CA",
+        "code": "NL",
+        "visitors": 1
+      },
+      {
+        "code": "SG",
         "visitors": 1
       }
     ],
