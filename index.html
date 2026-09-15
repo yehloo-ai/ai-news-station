@@ -15,10 +15,6 @@
   <meta name="twitter:title" content="飞翔的AI资讯站 — AI 行业资讯聚合">
   <meta name="twitter:description" content="聚合国内外 20+ 主流媒体的 AI 资讯，7 大频道实时更新，外文自动翻译">
   <link rel="preload" href="data/featured.json" as="fetch" crossorigin="anonymous">
-  <link rel="preconnect" href="https://api.rss2json.com">
-  <link rel="preconnect" href="https://api.allorigins.win">
-  <link rel="preconnect" href="https://corsproxy.io">
-  <link rel="preconnect" href="https://api.codetabs.com">
   <link rel="preconnect" href="https://translate.googleapis.com">
   <link rel="preconnect" href="https://aihot.virxact.com">
   <style>
@@ -1952,22 +1948,22 @@
 const API = 'https://api.rss2json.com/v1/api.json';
 const AIHOT = 'https://aihot.virxact.com/api/public';
 
-// 静态数据层：优先读取 GitHub Actions 预生成的 JSON（本仓库同源，无 CORS、无代理），
-// 失败则降级到 CORS 代理
+// 静态数据层：资讯频道只读取 GitHub Actions 预生成的同源 JSON。
+// 公共 CORS 代理经常限流或失效，不再作为浏览器端数据链路。
 const STATIC_BASE = 'data';
-const STATIC_TTL  = 2 * 60 * 60 * 1000; // 2 小时内视为新鲜，与更新频率匹配
-const STATIC_TABS = new Set(['featured', 'all']);
+const STATIC_TABS = new Set(['daily', 'featured', 'all']);
 
 async function fetchStaticData(tabId) {
   if (!STATIC_TABS.has(tabId)) return null;
   try {
-    const r = await fetch(`${STATIC_BASE}/${tabId}.json`, { signal: timeoutSignal(5000) });
+    const version = Math.floor(Date.now() / 300000);
+    const r = await fetch(`${STATIC_BASE}/${tabId}.json?v=${version}`, {
+      cache: 'no-store',
+      signal: timeoutSignal(5000)
+    });
     if (!r.ok) return null;
     const data = await r.json();
     if (!data.updated || !Array.isArray(data.items) || !data.items.length) return null;
-    const age = Date.now() - new Date(data.updated).getTime();
-    // 过期数据不丢弃：标记 _stale，调用方先渲染旧内容再后台刷新（stale-while-revalidate）
-    data._stale = age > STATIC_TTL;
     data.items.forEach(item => { item._fromStatic = true; });
     return data;
   } catch { return null; }
@@ -2426,7 +2422,9 @@ async function prefetchDailyDates() {
   dates.forEach((date, i) => {
     setTimeout(async () => {
       if (dailyCache[date]) return;
-      const data = await fetchAiHot(`/daily/${date}`);
+      const version = Math.floor(Date.now() / 300000);
+      const data = await fetch(`data/daily/${date}.json?v=${version}`, { cache: 'no-store' })
+        .then(r => r.ok ? r.json() : null).catch(() => null);
       if (data?.sections) dailyCache[date] = data;
     }, i * 300);
   });
@@ -2492,11 +2490,8 @@ async function loadDailyDate(date) {
   const apiPath = date ? `/daily/${date}` : '/daily';
   const fetchLocal = () => fetch(`data/daily/${cacheKey}.json`)
     .then(r => r.ok ? r.json() : null).catch(() => null);
-  const isToday = cacheKey === new Date().toISOString().slice(0, 10);
-  // 今天优先 API（当日内容持续增长）；历史日期优先站内永久存档（秒开、不受 API 只留 10 天限制）
-  const aiHotData = isToday
-    ? (await fetchAiHot(apiPath) || await fetchLocal())
-    : (await fetchLocal() || await fetchAiHot(apiPath));
+  // 所有日期都优先站内永久存档；仅在存档缺失时请求上游 API。
+  const aiHotData = await fetchLocal() || await fetchAiHot(apiPath);
   if (aiHotData?.sections) {
     dailyCache[cacheKey] = aiHotData;
     if (body) body.innerHTML = renderAiHotDaily(aiHotData);
@@ -2630,18 +2625,10 @@ function init() {
       prefetchDailyDates();
     });
   } else {
-    // 移动端：轻量预取——只拉同源静态 JSON（prefetchTab 内有移动端守卫，静态未命中不走代理）
-    // + 今日日报一次请求，切频道即秒开，流量成本每频道一个小 JSON
+    // 移动端：只预取同源静态 JSON，切频道即秒开。
     firstLanded.finally(() => {
       [...STATIC_TABS].filter(id => id !== DEFAULT_TAB)
         .forEach((id, i) => setTimeout(() => prefetchTab(id), 1500 + i * 800));
-      setTimeout(async () => {
-        const todayKey = new Date().toISOString().slice(0, 10);
-        if (!dailyCache[todayKey]) {
-          const d = await fetchAiHot('/daily');
-          if (d?.sections) dailyCache[todayKey] = d;
-        }
-      }, 6000);
     });
   }
 }
@@ -2815,10 +2802,10 @@ function prefetchTab(id) {
   if (cache[cacheKey] && Date.now() - cache[cacheKey].ts < REFRESH_INTERVAL) return;
   // 静默预加载：不改变 UI，只填充缓存
   (async () => {
-    // 静态数据命中（同源 JSON，一次请求）就不再走多路代理，预取成本降到接近零
+    // 资讯频道只预取同源静态 JSON，不在浏览器里请求 RSS 代理。
     if (STATIC_TABS.has(id)) {
       const s = await fetchStaticData(id);
-      if (s && !s._stale) {
+      if (s) {
         if (activeTab === id) return;
         cache[cacheKey] = { items: s.items, feedErrors: [], aiHotData: null, ts: Date.now() };
         saveFeedCache(cacheKey, cache[cacheKey]);
@@ -2831,6 +2818,7 @@ function prefetchTab(id) {
         }
         return;
       }
+      return;
     }
     if (IS_MOBILE) return; // 移动端只做零成本静态预取，静态未命中不走多路代理
     const activeFeedList = tab.layout === 'jobs'
@@ -3332,7 +3320,7 @@ async function switchTab(id) {
     ? (jobsRegion === 'global' ? (tab.feedsGlobal || []) : (tab.feedsDomestic || []))
     : tab.feeds;
   const cached = cache[cacheKey];
-  if (cached && Date.now() - cached.ts < REFRESH_INTERVAL) {
+  if (!STATIC_TABS.has(id) && cached && Date.now() - cached.ts < REFRESH_INTERVAL) {
     renderTab(tab, cached.items, cached.feedErrors, cached.aiHotData);
     if (id === 'featured') _featuredPaintResolve?.();
     // 若上次是快速预览（10条），后台补足完整数据
@@ -3340,8 +3328,7 @@ async function switchTab(id) {
     return;
   }
 
-  // ── 静态数据优先路径（GitHub Actions 预生成 JSON，无 CORS 代理依赖）──
-  let stalePainted = false; // 过期静态数据已上屏：跳过 RSS 首包渐进渲染，避免整屏被局部数据覆盖
+  // ── 资讯频道稳定路径：只读取 GitHub Actions 预生成的同源 JSON ──
   if (STATIC_TABS.has(id)) {
     const staticData = await fetchStaticData(id);
     if (staticData && activeTab === id) {
@@ -3350,21 +3337,27 @@ async function switchTab(id) {
       renderNav();
       renderTab(tab, items, []);
       if (id === 'featured') _featuredPaintResolve?.();
-      if (!staticData._stale) {
-        cache[cacheKey] = { items, feedErrors: [], aiHotData: null, ts: Date.now() };
-        saveFeedCache(cacheKey, cache[cacheKey]);
-        if (tab.translate) {
-          translateItems(items).then(() => {
-            if (activeTab === id) renderTab(tab, items, []);
-            cache[cacheKey].ts = Date.now();
-            saveFeedCache(cacheKey, cache[cacheKey]);
-          });
-        }
-        return; // 新鲜静态数据命中，跳过 CORS 代理
+      cache[cacheKey] = { items, feedErrors: [], aiHotData: null, ts: Date.now() };
+      saveFeedCache(cacheKey, cache[cacheKey]);
+      if (tab.translate) {
+        translateItems(items).then(() => {
+          if (activeTab === id) renderTab(tab, items, []);
+          cache[cacheKey].ts = Date.now();
+          saveFeedCache(cacheKey, cache[cacheKey]);
+        });
       }
-      // 数据过期：旧内容已先上屏（避免白屏等待），继续走下方 RSS 路径静默刷新
-      stalePainted = true;
+      return;
     }
+    if (cached?.items?.length && activeTab === id) {
+      renderTab(tab, cached.items, []);
+      if (id === 'featured') _featuredPaintResolve?.();
+      return;
+    }
+    if (activeTab === id) {
+      document.getElementById('main').innerHTML = '<div class="empty-state"><div class="empty-icon">📭</div><p>资讯数据暂时无法加载，请稍后刷新</p></div>';
+      if (id === 'featured') _featuredPaintResolve?.();
+    }
+    return;
   }
 
   // AI HOT 和 RSS 同时发起，谁快用谁
@@ -3373,7 +3366,7 @@ async function switchTab(id) {
   // RSS 渐进渲染：第一个 feed 回来就显示，后续静默合并
   let rssItems = [];
   const feedErrors = [];
-  let firstRssPainted = stalePainted;
+  let firstRssPainted = false;
 
   const rssPromises = activeFeedList.map((f, i) =>
     fetchFeed(f, 10).then(async feedItems => {
