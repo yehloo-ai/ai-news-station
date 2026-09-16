@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:24:38 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>在飞书的上下文底座上，豆包开工了</title>
+      <link>http://www.geekpark.net/news/370460</link>
+      <description>今年，不少公司的工作群里，将会多一些「新同事」。 它们是 AI，但可以像普通员工一样被拉进群聊，阅读此前的讨论和文档，参与会议、承接任务，并调用不同的业务工具完成工作。你甚至可以看到 Agent 在群里 @ 另一个 Agent，共同推进一项复杂工作。 当 Agent 从个人助手变成组织中的「数字同事」，企业需要的不只是更聪明的模型，还需要一套能够承载人与 Agent 共同工作的协作平台：让 Agent 获得必要的业务上下文和工具，同时遵守企业的权限与管理规则。 飞书 CEO 谢欣｜来自：2026 飞书未来无限大会暨豆包工作开工大会 今年的飞书未来无限大会，因此多了一个有趣的新名字&amp;mdash;</description>
+      <pubDate>Wed, 16 Sep 2026 17:36:24 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370460</guid>
+      <source url="http://www.geekpark.net/news/370460">极客公园</source>
+    </item>
+    <item>
+      <title>AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生</title>
+      <link>https://www.qbitai.com/2026/09/490760.html</link>
+      <description>9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。</description>
+      <pubDate>Wed, 16 Sep 2026 08:51:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490760.html</guid>
+      <source url="https://www.qbitai.com/2026/09/490760.html">量子位</source>
+    </item>
     <item>
       <title>Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案</title>
       <link>http://www.geekpark.net/news/370453</link>
@@ -14,6 +30,22 @@
       <pubDate>Wed, 16 Sep 2026 16:34:03 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/370453</guid>
       <source url="http://www.geekpark.net/news/370453">极客公园</source>
+    </item>
+    <item>
+      <title>高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代</title>
+      <link>https://www.qbitai.com/2026/09/490756.html</link>
+      <description>第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地</description>
+      <pubDate>Wed, 16 Sep 2026 08:18:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490756.html</guid>
+      <source url="https://www.qbitai.com/2026/09/490756.html">量子位</source>
+    </item>
+    <item>
+      <title>基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用</title>
+      <link>https://www.qbitai.com/2026/09/490750.html</link>
+      <description>2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。</description>
+      <pubDate>Wed, 16 Sep 2026 08:09:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490750.html</guid>
+      <source url="https://www.qbitai.com/2026/09/490750.html">量子位</source>
     </item>
     <item>
       <title>助听器躺赚三十年暴利，被 AI 打破了</title>
@@ -134,38 +166,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16206</guid>
       <source url="https://arxiv.org/abs/2609.16206">ArXiv AI</source>
-    </item>
-    <item>
-      <title>用于在线多目标跟踪的因果神经集合滤波</title>
-      <link>https://arxiv.org/abs/2609.16054</link>
-      <description>基于 Transformer 的多目标跟踪联合学习数据关联与状态估计，但 MT3、Track-MT3 一类方法会重复编码测量窗口，产生冗余计算。研究提出因果神经集合滤波（CNSF）……</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.16054</guid>
-      <source url="https://arxiv.org/abs/2609.16054">ArXiv ML</source>
-    </item>
-    <item>
-      <title>神经符号强化学习中的动作前置条件管理：面向具身智能体的三种部署策略</title>
-      <link>https://arxiv.org/abs/2609.16056</link>
-      <description>人类在新任务中会运用已有的行为知识，而不是每次都从头学习。作者认为，强化学习智能体也应如此：已知的行为模式不必重新学习。</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.16056</guid>
-      <source url="https://arxiv.org/abs/2609.16056">ArXiv ML</source>
-    </item>
-    <item>
-      <title>OmniHarness：通过符号策略学习提升视觉生成的泛化能力</title>
-      <link>https://arxiv.org/abs/2609.16057</link>
-      <description>统一的多模态大语言模型与多智能体系统推动了视觉生成，但仍存在三项局限。其中，现有方法常提炼特定任务的经验，泛化能力有限……</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.16057</guid>
-      <source url="https://arxiv.org/abs/2609.16057">ArXiv ML</source>
-    </item>
-    <item>
-      <title>利用物理约束与决策条件自回归 Transformer 估计信号交叉口的驾驶行为</title>
-      <link>https://arxiv.org/abs/2609.16058</link>
-      <description>闯红灯和急刹车是信号交叉口交通事故的重要诱因。论文分析并预测交通信号灯切换期间，人类驾驶员的决策与纵向行驶轨迹。</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.16058</guid>
-      <source url="https://arxiv.org/abs/2609.16058">ArXiv ML</source>
     </item>
   </channel>
 </rss>
