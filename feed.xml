@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 08:48:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:54:46 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案</title>
+      <link>http://www.geekpark.net/news/370453</link>
+      <description>&amp;nbsp; 如果说今年 3 月，Arm 推出首款自研 CPU 芯片，是这家公司向市场释放的一个信号，它开始尝试突破过去「只提供底层架构授权」的角色边界。那么在上海举办的 Arm Everywhere China 活动上，Arm 想传递的信息更加明确，不要再用过去「CPU IP 供应商」的方式理解今天的 Arm。 在这场活动中，Arm 没有只围绕某一个产品展开叙事，而是第一次更加完整地将自己的未来方向拆成三条线，云 AI、边缘 AI 和物理 AI。 和往年不太一样，去年 Arm 的主题演讲几乎全部围绕一件事展开 SME2，也就是让 AI 在 CPU 上跑起来。那是一个典型的「架构升级」叙事。但</description>
+      <pubDate>Wed, 16 Sep 2026 16:34:03 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370453</guid>
+      <source url="http://www.geekpark.net/news/370453">极客公园</source>
+    </item>
+    <item>
+      <title>助听器躺赚三十年暴利，被 AI 打破了</title>
+      <link>http://www.geekpark.net/news/370445</link>
+      <description>一个塞在耳朵里的小东西，卖到十万一副，丢失甚至需要动用全城搜索？ 助听器，是一门奇特的生意。 整个全球市场，近九成的助听器市场份额被五家外资公司把持：索诺瓦（峰力）、Demant（奥迪康）、WS 听力、瑞声达、斯达克。他们的旗舰产品在中国线下，一对要卖到七到十万块。即便是在美国本土，一副售价也要卖到三四万。而且过去二十年，助听器市场的格局几乎少有波动。 让他们垄断助听器市场的，最早其实是一道技术难题：音频分离。 想要模拟人耳在嘈杂餐厅里锁定一个声音，其实并不容易。在嘈杂的声音之下，究竟什么声音应该被放大？需要放大的应该是一个声音还是多个声音？在当时，谁能能把这道题解得好，谁就有资格定高价。五家</description>
+      <pubDate>Wed, 16 Sep 2026 16:06:55 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370445</guid>
+      <source url="http://www.geekpark.net/news/370445">极客公园</source>
+    </item>
+    <item>
+      <title>协同办公进入Agent时代，飞书+豆包工作跑在了最前面</title>
+      <link>https://www.qbitai.com/2026/09/490686.html</link>
+      <description>AI协同办公的新官配，我先磕了</description>
+      <pubDate>Wed, 16 Sep 2026 07:46:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490686.html</guid>
+      <source url="https://www.qbitai.com/2026/09/490686.html">量子位</source>
+    </item>
+    <item>
+      <title>当智能体开始替人花钱，如何证明「它是谁」？</title>
+      <link>http://www.geekpark.net/news/370440</link>
+      <description>在蚂蚁集团，负责 AI 支付安全的陈树鹏是个深度的智能体使用者。日常写代码、梳理汇报、提炼会议纪要，AI 几乎接管了他工作流里的大部分环节。 这种高度依赖背后，却存在着一个清晰的分水岭。一旦任务涉及真金白银，比如调用付费数据接口、购买素材或预订服务，绝大多数人都会本能地把权限卡死不愿交出钱包。哪怕是陈树鹏自己，手头测试过大量任务型框架，真正被他允许支付权限的智能体也仅仅只有两三个。 但在产业一线，这种放权又势在必行。 在 2026 外滩大会上，蚂蚁集团 CEO 韩歆毅表示，智能体商业的「ChatGPT 时刻」正在到来，其核心标志正是从单纯的对话能力展示，加速走向真实的商业交易闭环。商业世界的交</description>
+      <pubDate>Wed, 16 Sep 2026 15:45:18 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370440</guid>
+      <source url="http://www.geekpark.net/news/370440">极客公园</source>
+    </item>
+    <item>
+      <title>腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变</title>
+      <link>http://www.geekpark.net/news/370431</link>
+      <description>「这仗打错了，最多是白烧几十亿；但如果不打，可能是生死问题。」 这是创新工场联合首席执行官、管理合伙人汪华对大厂重金押注 AI 办公的判断。 2026 年的这个夏天，中国科技巨头发起了 Agent 时代第一场「战役」：豆包工作正式发布，TRAE、扣子团队整体并入豆包体系。更早的 7 月底，飞书产品团队并入豆包；另一边，腾讯的 WorkBuddy 已经跑出了千万月活，阿里也在整合自己的桌面 Agent、云端 Agent 和钉钉能力。 巨头为何会集体兴奋？AI 办公的背后他们在思考什么？在争夺什么？最近，极客公园邀请了汪华、Floatboat.ai 创始人兼 CEO 谭少卿一起来聊一聊。 今年初那</description>
+      <pubDate>Wed, 16 Sep 2026 14:39:11 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370431</guid>
+      <source url="http://www.geekpark.net/news/370431">极客公园</source>
+    </item>
+    <item>
+      <title>清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单</title>
+      <link>https://www.qbitai.com/2026/09/490400.html</link>
+      <description>9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。</description>
+      <pubDate>Wed, 16 Sep 2026 06:32:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490400.html</guid>
+      <source url="https://www.qbitai.com/2026/09/490400.html">量子位</source>
+    </item>
+    <item>
+      <title>B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首</title>
+      <link>https://www.qbitai.com/2026/09/490396.html</link>
+      <description>9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。</description>
+      <pubDate>Wed, 16 Sep 2026 06:23:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490396.html</guid>
+      <source url="https://www.qbitai.com/2026/09/490396.html">量子位</source>
+    </item>
+    <item>
+      <title>特斯拉、Figure 还在攻克量产，小鹏机器人已经走下产线</title>
+      <link>http://www.geekpark.net/news/370421</link>
+      <description>9 月 8 日，一台高阶通用人形机器人小鹏 IRON 完成自动化总装，从产线上走了下来。 如果只看画面，这好像是又一段科技公司放出来的机器人视频。在这个被大模型和具身智能席卷的时代，科技圈每天都在被各种炫酷的机器人 Demo 刷屏：有人形机器人打拳击，有灵巧手叠衣服，也有机器人在舞台上完成复杂动作&amp;hellip;&amp;hellip; 这次更值得关注的，并不是机器人行走本身，而是它身后那条刚启用的自动化产线。这次的机器人并不是工程师手工拼装出来的，而是像汽车一样经过一整条工业化产线，自动化总装然后下线。 一、会表演不够了，能量产才算数 小鹏押注机器人这件事，其实比外界想象的要早得多。早在 2020</description>
+      <pubDate>Wed, 16 Sep 2026 14:16:06 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370421</guid>
+      <source url="http://www.geekpark.net/news/370421">极客公园</source>
+    </item>
     <item>
       <title>量子位2026人工智能年度榜单，正式启动！</title>
       <link>https://www.qbitai.com/2026/09/490329.html</link>
@@ -102,70 +166,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16058</guid>
       <source url="https://arxiv.org/abs/2609.16058">ArXiv ML</source>
-    </item>
-    <item>
-      <title>HintMiner：通过自监督语言模型从问答帖子中自动挖掘问题提示</title>
-      <link>https://arxiv.org/abs/2609.16060</link>
-      <description>用户经常在网上提问并寻找答案，但 Stack Overflow 等问答社区并不总能及时、准确地回应。论文提出 HintMiner，一种自动挖掘问题提示的方法……</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.16060</guid>
-      <source url="https://arxiv.org/abs/2609.16060">ArXiv ML</source>
-    </item>
-    <item>
-      <title>少样本性能下降并非表面所见：跨 12 个模型、2 项任务和 2 类架构的实证分析</title>
-      <link>https://arxiv.org/abs/2609.15990</link>
-      <description>少样本提示有时会降低语言模型的表现，而非带来提升，其原因尚不明确。研究在乌克兰语新闻分类与法律案件结果预测两项任务上评估了 12 个开放权重模型……</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.15990</guid>
-      <source url="https://arxiv.org/abs/2609.15990">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>The Functionalizer：面向子词分词的无损功能分解</title>
-      <link>https://arxiv.org/abs/2609.15991</link>
-      <description>标准子词分词器通常把同一词语的不同拼写形式（如 hello、Hello、HELLO）视为互不相关的词表项，导致嵌入空间分散；另一种做法则通过有损归一化舍弃这些差异……</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.15991</guid>
-      <source url="https://arxiv.org/abs/2609.15991">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>大语言模型推理网络的最优模型激活策略</title>
-      <link>https://arxiv.org/abs/2609.15992</link>
-      <description>大语言模型已成为自然语言处理任务的重要工具，但较高的推理成本促使研究者探索成本与性能之间的权衡。实践中，多个专家模型会协同使用……</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.15992</guid>
-      <source url="https://arxiv.org/abs/2609.15992">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>利用超图支配关系实现单文档抽取式摘要</title>
-      <link>https://arxiv.org/abs/2609.15993</link>
-      <description>自动文本摘要是信息检索中的重要任务：压缩文档，同时保留其中相关且重要的信息。本文研究单文档抽取式摘要……</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.15993</guid>
-      <source url="https://arxiv.org/abs/2609.15993">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Latent Undertow：普通拼写错误如何使探针失效</title>
-      <link>https://arxiv.org/abs/2609.15994</link>
-      <description>大语言模型通常能够理解拼写错误或缺失标点，用户意图与模型回答大体不变。但通过读取模型隐藏状态来检测恶意提示的探针，可能表现出不同的鲁棒性。</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.15994</guid>
-      <source url="https://arxiv.org/abs/2609.15994">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>把记忆交给CPU，大模型会变快</title>
-      <link>https://www.qbitai.com/2026/09/489724.html</link>
-      <description>让GPU去忙生成Token</description>
-      <pubDate>Wed, 16 Sep 2026 03:07:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489724.html</guid>
-      <source url="https://www.qbitai.com/2026/09/489724.html">量子位</source>
-    </item>
-    <item>
-      <title>早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导</title>
-      <link>https://www.ifanr.com/1680293?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· Google 向全体工程师开放 Claude，Gemini 仍是默认模型 · 鸿蒙智行确认问界合作模式调整，赛力斯主导五项业务 · Waymo 计划 2027 年在东京推出全无人出租车#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 16 Sep 2026 00:45:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1680293?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1680293?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
