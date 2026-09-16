@@ -39,3 +39,5 @@
 }
 .kw-btn { font:inherit; color:inherit; background:none; text-align:left; }
 .tool-price.unknown { color:#6b7280; background:#f3f4f6; }
+.content-col { position:relative; z-index:0; }
+.back-to-top { z-index:210; transform:translateZ(0); }
