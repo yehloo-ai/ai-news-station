@@ -7,7 +7,7 @@ from pathlib import Path
 import urllib.request
 import zipfile
 
-URL = 'https://argos-net.com/v1/translate-en_zh-1_9.argosmodel'
+URL = 'https://github.com/yehloo-ai/ai-news-station/releases/download/translation-model-en-zh-1.9/translate-en_zh-1_9.argosmodel'
 SHA256 = '433e7c4f034d87fbe2353161e05f18646d7999452f801a4e1f0378522b9850ab'
 PREFIX = 'translate-en_zh-1_9/'
 

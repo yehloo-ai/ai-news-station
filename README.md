@@ -44,7 +44,7 @@ python -m http.server 8765
 
 ## 文件结构
 
-频道工作流安装 `requirements-translation.txt`，下载并校验固定版本 Argos en-zh 1.9 模型，再用 CTranslate2 在 CPU 上生成中文。约 68 MB 的模型仅存在于 Actions 缓存，不提交仓库、不增加网页下载体积。依赖或模型不可用时，现有译文仍从 `data/translations.json` 复用。
+频道工作流安装 `requirements-translation.txt`，下载并校验固定版本 Argos en-zh 1.9 模型，再用 CTranslate2 在 CPU 上生成中文。约 68 MB 的模型保存在专用 GitHub Release 与 Actions 缓存，不进入源码历史、不增加网页下载体积。依赖或模型不可用时，现有译文仍从 `data/translations.json` 复用；模型准备失败会让任务明确报错，不把缓存回退冒充翻译服务正常。
 
 本地回填已有频道（保留原 `updated` 时间）：
 
@@ -55,7 +55,7 @@ python scripts/setup_translation.py
 python scripts/translate_channels.py
 ```
 
-模型来源：[Argos Translate](https://github.com/argosopentech/argos-translate)；推理方式：[CTranslate2](https://opennmt.net/CTranslate2/quickstart.html)。机器翻译可能误译术语，不等同于内容事实审核；纠正译文时同时更新原文哈希对应的缓存。
+模型来源：[Argos Translate](https://github.com/argosopentech/argos-translate)；推理方式：[CTranslate2](https://opennmt.net/CTranslate2/quickstart.html)。模型原样再分发，原始 OPUS 模型采用 CC-BY 4.0；保留包内署名以及 Release 中对 Jorg Tiedemann 和 Santhosh Thottingal、EAMT 2020 论文的归属说明。机器翻译可能误译术语，不等同于内容事实审核；纠正译文时同时更新原文哈希对应的缓存。
 
 - `index.html`：静态壳、预渲染日报、元信息。
 - `assets/station-core.js`：前后端共享的 schema、安全输出、日期和缓存工具。

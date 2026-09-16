@@ -34,6 +34,7 @@ jobs:
           key: translation-argos-en-zh-1.9-433e7c4f
 
       - name: 准备离线中文翻译
+        id: translation-model
         continue-on-error: true
         run: python scripts/setup_translation.py
 
@@ -52,3 +53,9 @@ jobs:
           node scripts/validate.mjs
           git add feed.xml data/featured.json data/all.json data/official.json data/videos.json data/products.json data/design.json data/daily.json data/source-health.json data/source-cache.json data/translations.json
           bash scripts/commit-data.sh "更新频道数据与采集状态"
+
+      - name: 检查翻译服务状态
+        if: always() && steps.translation-model.outcome == 'failure'
+        run: |
+          echo "::error::翻译模型不可用，本轮仅复用已有译文；请检查模型准备步骤。"
+          exit 1
