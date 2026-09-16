@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:03:01 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>评估ChatGPT工作的使用和价值</title>
+      <link>https://www.youtube.com/watch?v=iZE2r-Vx5b8</link>
+      <description>查看 ChatGPT 管理控制台的洞察力如何帮助您理解人工智能的采用、使用和整个组织的开支。 探索团队使用案例,审查 Codex 贡献, 并确定将培训重点放到何处, 并扩大访问范围。 然后使用 ChatGPT 管理控制台插件将这些分析器变成线索</description>
+      <pubDate>Wed, 16 Sep 2026 19:03:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=iZE2r-Vx5b8</guid>
+      <source url="https://www.youtube.com/watch?v=iZE2r-Vx5b8">OpenAI</source>
+    </item>
+    <item>
+      <title>苹果可能会再次制造服务器 以兑现人工智能的热潮</title>
+      <link>https://www.theverge.com/tech/996321/apple-servers-ai-nvidia</link>
+      <description>根据The Information,苹果公司正计划重返服务器游戏,并可能只是和Nvidia配对以完成. Apple于2011年将Xserve线退役并基本将企业机器留给了其他厂商,但作为人工智能Indus对计算功率的不断增长的需求.</description>
+      <pubDate>Wed, 16 Sep 2026 13:20:29 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/996321/apple-servers-ai-nvidia</guid>
+      <source url="https://www.theverge.com/tech/996321/apple-servers-ai-nvidia">The Verge AI</source>
+    </item>
+    <item>
+      <title>Google现在让任何人工智能特工 管理你的聪明家</title>
+      <link>https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date</link>
+      <description>Google正在向人工智能特工开放其智能家园,让克洛德和Open Claw等工具访问并控制您连接的设备,并使用标准化的"模型背景协议"来分析您家的数据. Google Home MCP是一个让第三方人工智能特工控制并监控您的新整合.</description>
+      <pubDate>Wed, 16 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date</guid>
+      <source url="https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能</title>
+      <link>https://claude.com/blog/cowork-is-now-claude</link>
+      <description>Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。</description>
+      <pubDate>Wed, 16 Sep 2026 16:51:45 +0000</pubDate>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-is-now-claude</guid>
+      <source url="https://claude.com/blog/cowork-is-now-claude">Claude：Blog（网页）</source>
+    </item>
     <item>
       <title>Claude来找双子座 带着自己拿的Docs和幻灯片</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides</link>
@@ -134,38 +166,6 @@
       <pubDate>Wed, 16 Sep 2026 06:32:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/490400.html</guid>
       <source url="https://www.qbitai.com/2026/09/490400.html">量子位</source>
-    </item>
-    <item>
-      <title>B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首</title>
-      <link>https://www.qbitai.com/2026/09/490396.html</link>
-      <description>9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。</description>
-      <pubDate>Wed, 16 Sep 2026 06:23:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490396.html</guid>
-      <source url="https://www.qbitai.com/2026/09/490396.html">量子位</source>
-    </item>
-    <item>
-      <title>特斯拉、Figure 还在攻克量产，小鹏机器人已经走下产线</title>
-      <link>http://www.geekpark.net/news/370421</link>
-      <description>9 月 8 日，一台高阶通用人形机器人小鹏 IRON 完成自动化总装，从产线上走了下来。 如果只看画面，这好像是又一段科技公司放出来的机器人视频。在这个被大模型和具身智能席卷的时代，科技圈每天都在被各种炫酷的机器人 Demo 刷屏：有人形机器人打拳击，有灵巧手叠衣服，也有机器人在舞台上完成复杂动作&amp;hellip;&amp;hellip; 这次更值得关注的，并不是机器人行走本身，而是它身后那条刚启用的自动化产线。这次的机器人并不是工程师手工拼装出来的，而是像汽车一样经过一整条工业化产线，自动化总装然后下线。 一、会表演不够了，能量产才算数 小鹏押注机器人这件事，其实比外界想象的要早得多。早在 2020</description>
-      <pubDate>Wed, 16 Sep 2026 14:16:06 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370421</guid>
-      <source url="http://www.geekpark.net/news/370421">极客公园</source>
-    </item>
-    <item>
-      <title>量子位2026人工智能年度榜单，正式启动！</title>
-      <link>https://www.qbitai.com/2026/09/490329.html</link>
-      <description>报名通道已开启，欢迎参与！</description>
-      <pubDate>Wed, 16 Sep 2026 04:16:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490329.html</guid>
-      <source url="https://www.qbitai.com/2026/09/490329.html">量子位</source>
-    </item>
-    <item>
-      <title>对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」</title>
-      <link>https://www.ifanr.com/1680322?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>具身智能会有自己的「ChatGPT 时刻」吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 16 Sep 2026 04:04:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1680322?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1680322?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
