@@ -89,7 +89,7 @@ async function run(browserType,name,options,base) {
       await page.locator('#allListWrap').waitFor();
       await page.waitForTimeout(150);
       await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
-      await page.waitForTimeout(200);
+      await page.waitForFunction(()=>document.getElementById('backToTop').classList.contains('visible'),null,{timeout:5000});
       const scrollInfo=await page.evaluate(()=>({y:scrollY,body:document.body.scrollHeight,doc:document.documentElement.scrollHeight,main:document.querySelector('#main').scrollTop,daily:document.querySelector('#dailyContentCol')?.scrollTop}));
       assert(await page.locator('#backToTop').evaluate(e=>e.classList.contains('visible')),JSON.stringify(scrollInfo));
       const hit=await page.locator('#backToTop').evaluate(e=>{const r=e.getBoundingClientRect();const target=document.elementFromPoint(r.x+r.width/2,r.y+r.height/2);return {rect:r.toJSON(),hit:target?.outerHTML.slice(0,400),viewport:{width:innerWidth,height:innerHeight,visualWidth:visualViewport?.width,visualHeight:visualViewport?.height},top:scrollY};});

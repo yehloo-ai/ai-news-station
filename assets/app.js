@@ -1289,6 +1289,7 @@ async function switchTab(id, options = {}) {
       const top = tabScroll[id] || 0;
       if (window.innerWidth <= 768) window.scrollTo(0, top);
       else main.scrollTop = top;
+      updateBackToTop();
       applyReadState();
     });
   } catch {
@@ -2371,17 +2372,17 @@ renderBuilders = function(...args) {
   requestAnimationFrame(applyReadState);
 };
 
-// 回到顶部按钮滚动监听（在 init 前注册）
-document.addEventListener('DOMContentLoaded', () => {
+function updateBackToTop() {
   const btt = document.getElementById('backToTop');
-  function checkScroll() {
-    const mainEl = document.getElementById('dailyContentCol') || document.getElementById('main');
-    const scrollY = window.innerWidth <= 768 ? window.scrollY : (mainEl?.scrollTop || 0);
-    btt?.classList.toggle('visible', scrollY > 400);
-  }
-  document.getElementById('main')?.addEventListener('scroll', checkScroll, { passive: true, capture: true });
-  window.addEventListener('scroll', checkScroll, { passive: true });
-});
+  const mainEl = document.getElementById('dailyContentCol') || document.getElementById('main');
+  const top = window.innerWidth <= 768 ? window.scrollY : (mainEl?.scrollTop || 0);
+  btt?.classList.toggle('visible', top > 400);
+}
+// Capture both document scrolling and nested desktop scrolling, including restores.
+document.addEventListener('scroll', updateBackToTop, { passive: true, capture: true });
+window.addEventListener('scroll', updateBackToTop, { passive: true });
+window.addEventListener('resize', updateBackToTop, { passive: true });
+window.addEventListener('pageshow', updateBackToTop);
 
 new MutationObserver(() => {
   const main = document.getElementById('main');

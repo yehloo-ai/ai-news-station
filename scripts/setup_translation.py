@@ -40,4 +40,9 @@ if __name__ == '__main__':
     parser.add_argument('--archive')
     args = parser.parse_args()
     install(os.environ['TRANSLATE_MODEL_DIR'], args.archive)
-    print('Pinned English-Chinese model is ready')
+    from generate_feed import translate_offline, translation_terms, valid_translation
+    sample = 'Researchers introduce a new language model.'
+    result = translation_terms(translate_offline(sample), sample)
+    if not valid_translation(result, sample):
+        raise RuntimeError('Offline translation smoke test failed')
+    print('Pinned English-Chinese model is ready; inference smoke test passed')
