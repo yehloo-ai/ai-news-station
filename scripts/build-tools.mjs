@@ -2,6 +2,7 @@
 // 站内「AI 工具库」频道读取同一份 JSON，双端内容一致
 
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import core from '../assets/station-core.js';
 
 const SITE = 'https://yehloo-ai.github.io/ai-news-station';
 const SUGGEST = 'https://github.com/yehloo-ai/ai-news-station/issues/new?title=' +
@@ -29,22 +30,22 @@ function toolCard(t, catId, catName) {
   const price = t.pricing ? `<span class="price ${priceCls}">${esc(t.pricing)}</span>` : '';
   const isNew = NEW_MONTH && t.added === NEW_MONTH ? '<span class="new">NEW</span>' : '';
   const meta = [t.platform, t.zh ? '中文' : '', t.region].filter(Boolean).map((x) => `<span>${esc(x)}</span>`).join('');
-  const initial = esc(((t.name || '?').trim()[0] || '?').toUpperCase());
-  const logo = `<span class="logo" style="background:${avColor(t.name || '')}"><img src="https://${esc(h)}/favicon.ico" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">${initial}</span>`;
-  const free = t.pricing !== '付费';
+  const initial = esc(((t.name || '?').trim().slice(0,2) || '?').toUpperCase());
+  const logo = `<span class="logo" style="background:${avColor(t.name || '')}">${initial}</span>`;
+  const free = t.pricing === '免费';
   const search = esc(`${t.name} ${t.by || ''} ${t.desc || ''} ${(t.tags || []).join(' ')} ${catName || ''}`.toLowerCase());
   return `<article class="tool" id="tool-${esc(slug(t))}" data-cat="${esc(catId)}" data-region="${esc(t.region || '')}" data-free="${free ? 1 : 0}" data-search="${search}">
-<div class="thead">${logo}<div class="thead-main"><div class="tname-row"><a class="tname" href="${esc(t.url)}" rel="noopener" target="_blank">${esc(t.name)}</a>${isNew}</div>${t.by ? `<div class="by">${esc(t.by)}</div>` : ''}</div>${price}</div>
+<div class="thead">${logo}<div class="thead-main"><div class="tname-row"><a class="tname" href="${esc(core.safeURL(t.url) || '#')}" rel="noopener" target="_blank">${esc(t.name)}</a>${isNew}</div>${t.by ? `<div class="by">${esc(t.by)}</div>` : ''}</div>${price}</div>
 <p>${esc(t.desc || '')}</p>
 ${meta ? `<div class="meta">${meta}</div>` : ''}
-<div class="tfoot"><span class="tags">${tags}</span><a class="host" href="${esc(t.url)}" rel="noopener" target="_blank">${esc(h)} →</a></div>
+<div class="tfoot"><span class="tags">${tags}</span><a class="host" href="${esc(core.safeURL(t.url) || '#')}" rel="noopener" target="_blank">${esc(h)} →</a></div>
 </article>`;
 }
 
 const catNav = `<button class="fil on" data-cat="all">全部</button>` +
   categories.map((c) => `<button class="fil" data-cat="${esc(c.id)}">${esc(c.name)}</button>`).join('');
 const sections = categories.map((c) => `<section class="cat" id="cat-${esc(c.id)}" data-cat="${esc(c.id)}">
-<h2>${c.icon || ''} ${esc(c.name)}<span class="cn">${c.tools?.length || 0}</span></h2>
+<h2>${esc(c.name)}<span class="cn">${c.tools?.length || 0}</span></h2>
 <div class="grid">${(c.tools || []).map((t) => toolCard(t, c.id, c.name)).join('\n')}</div>
 </section>`).join('\n');
 
@@ -76,7 +77,7 @@ writeFileSync('tools/index.html', `<!DOCTYPE html>
 <meta property="og:title" content="AI 工具库 · AI 工具导航 | 飞翔的AI资讯站">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:type" content="website">
-<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>
 <style>
   * { margin:0; padding:0; box-sizing:border-box; }
   body { font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;
@@ -134,6 +135,7 @@ writeFileSync('tools/index.html', `<!DOCTYPE html>
     .grid { grid-template-columns:1fr; }
     .search input { font-size:16px; } /* 规避 iOS Safari 输入框自动放大 */
   }
+  :focus-visible {outline:2px solid #d01922;outline-offset:3px;} .logo {font-size:13px;} .tool {overflow-wrap:anywhere;min-width:0;}
 </style>
 </head>
 <body>
@@ -141,7 +143,7 @@ writeFileSync('tools/index.html', `<!DOCTYPE html>
 <div class="top"><a href="${SITE}/">← 飞翔的AI资讯站</a> · <a href="${SITE}/daily/">日报速览存档</a> · <a href="${SITE}/timeline/">模型发布时间线</a></div>
 <h1>AI 工具库 · AI 工具导航</h1>
 <div class="sub">精选 ${total} 款好用的 AI 工具，按场景分类，点击直达官网${newCount ? ` · 本月新增 ${newCount}` : ''} · 更新于 ${updatedAt} · <a href="${SUGGEST}" rel="noopener" target="_blank">推荐收录 →</a></div>
-<div class="search"><input type="search" id="q" placeholder="搜索工具名称、厂商、用途…"></div>
+<div class="search"><input aria-label="搜索工具" type="search" id="q" placeholder="搜索工具名称、厂商、用途…"></div>
 <nav class="catnav"><span class="sub-label">类型</span>${catNav}</nav>
 <div class="subfilter">
 <span class="sub-label">地区</span>

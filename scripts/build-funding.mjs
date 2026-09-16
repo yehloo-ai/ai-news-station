@@ -2,6 +2,7 @@
 // 站内「大事记 · 资本动态」频道读取同一份 JSON，双端内容一致
 
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import core from '../assets/station-core.js';
 
 const SITE = 'https://yehloo-ai.github.io/ai-news-station';
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -22,13 +23,13 @@ const SECTOR = {
 };
 
 function amountHtml(e) {
-  return `<span class="amt">${esc(e.amount || '')}</span>${e.valuation ? `<span class="val"> · ${esc(e.valuation)}</span>` : ''}`;
+  return `<span class="amt">${esc(e.amount || '')}${e.currency ? ' ' + esc(e.currency) : ''}</span>${e.valuation ? `<span class="val"> · ${esc(e.valuation)}</span>` : ''}`;
 }
 function renderArticle(e) {
   const c = SECTOR[e.sector] || SECTOR['其他'];
   const catPill = e.sector ? `<span class="cat" style="color:${c.m};background:${c.mb};border:1px solid ${c.mbd}">${esc(e.sector)}</span>` : '';
   const roundPill = e.round ? `<span class="attr">${esc(e.round)}</span>` : '';
-  const src = e.sourceName ? `<div class="src">信源：${e.sourceUrl ? `<a href="${esc(e.sourceUrl)}" rel="noopener" target="_blank">${esc(e.sourceName)}</a>` : esc(e.sourceName)} · ${e.date}</div>` : '';
+  const src = e.sourceName ? `<div class="src">信源：${e.sourceUrl ? `<a href="${esc(core.safeURL(e.sourceUrl) || '#')}" rel="noopener" target="_blank">${esc(e.sourceName)}</a>` : esc(e.sourceName)} · ${e.date}</div>` : '';
   if (e.tier === 'minor') {
     return `<article class="minor" id="${esc(slug(e))}">
 <div class="minor-row"><span class="company">${esc(e.company)}</span>${catPill}<span class="mtitle">${amountHtml(e)}</span><span class="minor-desc">${esc(e.highlight || '')}</span></div>
@@ -95,7 +96,7 @@ writeFileSync('funding/index.html', `<!DOCTYPE html>
 <meta property="og:title" content="AI 资本动态 / 融资时间线 | 飞翔的AI资讯站">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:type" content="article">
-<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>
 <style>
   * { margin:0; padding:0; box-sizing:border-box; }
   body { font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;

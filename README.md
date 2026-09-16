@@ -1,141 +1,61 @@
-# AI News Station
+# 飞翔的 AI 资讯站
 
-**Live →** [yehloo-ai.github.io/ai-news-station/](https://yehloo-ai.github.io/ai-news-station/)
+[线上网站](https://yehloo-ai.github.io/ai-news-station/) · [日报归档](https://yehloo-ai.github.io/ai-news-station/daily/) · [来源与纠错](https://yehloo-ai.github.io/ai-news-station/about/) · [RSS](https://yehloo-ai.github.io/ai-news-station/feed.xml)
 
-**📊 Dashboard →** [admin.html](https://yehloo-ai.github.io/ai-news-station/admin.html) (owner-only, passcode protected)
+静态资讯站，保留 PC 侧栏与移动端五个入口：日报、精选、动态、大事记、工具库。不需要数据库或浏览器端跨域代理。
 
-**📰 AI Daily archive →** [daily/](https://yehloo-ai.github.io/ai-news-station/daily/) (static pages crawlable by search & AI engines, rebuilt 3×/day via Actions)
+## 数据与更新
 
-**🕐 AI model release timeline →** [timeline/](https://yehloo-ai.github.io/ai-news-station/timeline/) (who, which model, when, key specs — auto-merged from the daily digest and weight-tiered)
+- 日报的唯一来源是 `data/daily/YYYY-MM-DD.json`。首页的 `daily-latest.json`、HTML 归档和分享图都由同一份快照生成。上游返回的日期必须与请求一致。
+- 日报每天计划抓取三次；资讯频道每小时计划抓取。GitHub Actions 排程与上游发布均可能延迟，不承诺实时或准点。
+- 精选是自动汇总，不代表逐条人工推荐。英文可保留原文；仅配置 `TRANSLATE_ENDPOINT` 后在构建端翻译并按原文哈希缓存。浏览器不发翻译请求。
+- 抓取使用明确超时与 HTTP 检查，RSS/API 结构不符会记录失败；每个源保留上次有效结果。状态保存在 `data/source-health.json`，原始缓存保存在 `data/source-cache.json`。
+- 数据源返回错误、HTML 或空结果不会被当成有效新资讯覆盖旧频道；故障可能影响覆盖范围，不代表网站已获得所有来源的最新内容。
+- 工具价格和地区信息不是实时计费查询，以官网为准。未核验的字段不要填写虚假的核验时间。
 
-**💰 AI funding timeline →** [funding/](https://yehloo-ai.github.io/ai-news-station/funding/) (who raised, which round, how much, valuation — from 2023 onward)
+## 审核流程
 
-**🧰 AI tools directory →** [tools/](https://yehloo-ai.github.io/ai-news-station/tools/) (curated AI tools by scenario, filterable, CN + overseas, crawlable SEO page)
+模型、融资的自动抽取只进入 `data/model-candidates.json`、`data/funding-candidates.json`，不会自动发布。
 
-**📡 RSS →** [feed.xml](https://yehloo-ai.github.io/ai-news-station/feed.xml)
+审核候选时需要提供 `status: "approved"`、`reviewedBy`、`reviewedAt`（YYYY-MM-DD）、原文证据 `evidence`，以及规范化的 `entry`。模型需要公司、型号、日期、类型、事件类型（release/update）、信源名称与 URL；融资需要公司、日期、轮次、金额、币种、信源名称与 URL。估值与融资金额不得混用。
 
-An AI news aggregator built for design teams. Pulls from 20+ Chinese and English sources, auto-translates, and updates every hour via GitHub Actions. Content is organized into three sidebar groups — **Daily Brief**, **Milestones** (model + funding timelines), and **Tools** — with priority-weighted timeline cards.
+`node scripts/merge-candidates.mjs` 只接受上述字段齐全的记录。按事件而不是只按公司去重；同公司的后续轮次可以新增。没有被接收的记录保留原因，不自动丢弃旧候选。
 
----
+历史明显错配记录保存在 `data/review/`；其他历史自动记录显示待复核，不再自动标成里程碑。修正记录时应回到原文核对，不能仅凭标题猜测。
 
-## Structure
+## 开发与检查
 
-The sidebar is organized into three groups:
+Node 22、Python 3.11。依赖版本在 lockfile / requirements.txt 中固定。
 
-| Group | Channel | What you get |
-|---|---|---|
-| **Daily Brief** | Daily Brief (日报速览) | Today's digest — 2-minute read |
-| | Featured | Curated highlights worth your attention |
-| | All Updates (全部动态) | Every article, cross-filterable by source × topic |
-| **Milestones** | Model Releases | AI model release timeline — who, which model, when, key specs |
-| | Funding | AI funding timeline — who raised, which round, how much, valuation |
-| **Tools** | AI Tools Directory | Curated AI tools by scenario, filterable, CN + overseas |
-
-**Priority-weighted cards** — timeline and funding entries render at one of three visual weights (milestone / normal / minor) based on the lab's prominence, whether it's a flagship release, and how much structured detail (params, context window, open-source, deal size) is available, so headline events stand out and minor ones stay compact.
-
-**Static, crawlable pages** — `daily/`, `timeline/`, `funding/`, and `tools/` are pre-generated as standalone HTML with JSON-LD and are listed in `sitemap.xml`, so search and AI engines can index the content directly.
-
----
-
-## Sources
-
-**Chinese media (auto-translated):** Quantum Bit · Aifaner · Geek Park · Sspai · Synced · Huxiu · 36Kr
-
-**English media:** The Verge · TechCrunch · Wired · VentureBeat · OpenAI Blog · Anthropic · Google DeepMind · MIT Technology Review
-
----
-
-## How it works
-
-- GitHub Actions fetches and processes articles every hour
-- Single HTML file reads the generated JSON data — no server needed
-- Chinese articles are auto-translated via language detection
-
-```
-GitHub Actions (hourly) → fetch RSS/APIs → process + translate → write JSON → static site serves it
+```sh
+npm ci
+python -m pip install -r requirements.txt
+npm test
+python -m unittest discover -s tests -p '*_test.py'
+npx playwright install chromium webkit
+TEST_WEBKIT=1 npm run test:browser
+npm run build
+python -m http.server 8765
 ```
 
-### Data pipelines (all run as Actions in this repo)
+打开 http://localhost:8765/。请通过 HTTP 服务预览；直接双击 `index.html` 的 file URL 不适用于 JSON fetch。
 
-| Workflow | Frequency | Output |
-|---|---|---|
-| Update channel data | Hourly | `data/{featured,all,official,products,design,videos}.json` + `feed.xml` (same-origin fast data layer for first paint) |
-| Build daily static pages | 3×/day | Permanent `daily/*.html` archive + `sitemap.xml` (GEO/SEO crawl layer, reused by the in-app Daily channel). Also extracts model-release / funding candidates from the daily digest, **auto-merges** them into `data/models.json` & `data/funding.json` (`scripts/merge-candidates.mjs` — heuristic company/model/spec parsing + weight tiering; models merged liberally, funding gated on round + amount), then rebuilds the `timeline/`, `funding/`, and `tools/` static pages |
-| Update analytics | 2×/day | `data/stats.json` (dashboard) |
+测试覆盖日期一致性、同源请求缓存、失败刷新、候选审核、跨时区排序、内部链接、PC/窄屏布局、快速日期切换、筛选恢复、返回导航、PNG 导出。浏览器测试默认屏蔽第三方请求，不能代替真实网络、微信或邮件送达测试。
 
-### Loading strategy
+## 文件结构
 
-- First paint uses `<link rel="preload">` for the Featured data — one same-origin JSON request, no CORS proxy dependency
-- Stale-while-revalidate when static data is expired: show cached content first, refresh in the background via the RSS proxy path
-- Desktop prefetches all channels in the background; mobile does a light prefetch (same-origin static JSON + today's daily only, no proxy, saves bandwidth)
-- The Daily channel reads historical dates straight from the in-repo permanent archive, unaffected by the upstream API's 10-day retention limit
+- `index.html`：静态壳、预渲染日报、元信息。
+- `assets/station-core.js`：前后端共享的 schema、安全输出、日期和缓存工具。
+- `assets/app.js`：现有导航、视图与交互。历史隐藏频道尚未删除，避免破坏旧依赖。
+- `assets/station-base.css`、`station.css`：原有样式及修复层，可分别缓存。
+- `daily-share/`：按日期读取快照，导出 PNG，按浏览器能力提供系统分享。
+- `scripts/`：采集、构建、审核合并、验证与受控提交。
+- `tests/`：Node/Python 单元测试和 Playwright 回归。
 
-### Mobile
+## 发布与统计
 
-- Bottom tab navigation (Daily · Featured · Updates · Model Releases · More) + a "More" sheet (AI Tools Directory + entries for Daily archive / newsletter / dashboard)
-- Translation is deferred so it never blocks first paint; Phase 2 payload is halved
+写回数据的工作流使用同一并发组、明确的文件范围、发布前验证和非强制 rebase/push。人工代码提交触发回归检查；GitHub Pages 的实际部署结果以 Actions 为准。
 
----
+`admin.html` 仅链接到 Umami/百度统计的真实登录页。前端口令不构成权限保护，`data/stats.json` 不再包含统计数据，定时公开导出已停止。手动统计脚本要求输出到仓库外，切勿提交到公开站点。此前已公开的历史提交不会因这次修改自动消失；需要单独评估历史清理和服务商分享权限。
 
-## Stack
-
-- Single HTML file — no framework, no backend
-- GitHub Actions for scheduled data updates
-- Deployed on GitHub Pages
-
-`Claude Code` · `Vanilla HTML / CSS / JS` · `GitHub Actions` · `GitHub Pages`
-
----
-
-## Analytics & dashboard
-
-The site wires in two analytics providers and ships a self-hosted aggregated dashboard.
-
-### Dashboard
-
-- URL: [yehloo-ai.github.io/ai-news-station/admin.html](https://yehloo-ai.github.io/ai-news-station/admin.html) (a small "📊 Site data" entry sits at the bottom of the sidebar; the page is set to `noindex`)
-- Requires a passcode. The passcode itself is **not** committed — only its SHA-256 hash lives in `PASS_HASH` inside `admin.html`, and it only keeps casual visitors out.
-- One screen: today / last-30-day visitors and pageviews, 30-day trend chart, domestic vs. overseas split, referrers, and domestic referrer types (Baidu Tongji, pending).
-
-**Change the passcode** — run this in the browser console:
-`crypto.subtle.digest('SHA-256', new TextEncoder().encode('new-passcode')).then(b=>console.log([...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join('')))`
-Replace `PASS_HASH` in `admin.html` with the output.
-
-### Pipeline
-
-```
-GitHub Actions (daily, 09:30 / 21:30 Beijing time)
-  → scripts/fetch-stats.mjs pulls from Umami / Baidu Tongji
-  → writes data/stats.json and commits
-  → admin.html reads and renders
-```
-
-- Manual refresh: repo Actions tab → "Update analytics" → Run workflow
-- Umami uses the read-only share-link endpoint (the free plan has no API key); the share ID is stored in the repo secret `UMAMI_SHARE_ID`
-- ⚠️ If the site's Share link is deleted in the Umami dashboard, the pull will fail. Recreate the Share and update the secret with `gh secret set UMAMI_SHARE_ID` (the new share ID is the segment after `/share/` in the link).
-
-### The two analytics backends
-
-| Backend | Purpose | Entry |
-|---|---|---|
-| Umami | All visitors worldwide: trend, country distribution, referrers | https://cloud.umami.is |
-| Baidu Tongji | Domestic channel detail: Baidu Search, WeChat, Zhihu, etc. | https://tongji.baidu.com |
-
-Both tracking scripts sit just before `</head>` in `index.html`.
-
-### Wiring up the Baidu Tongji API (TODO)
-
-The dashboard's "domestic referrer types" panel shows "not configured" because Baidu's Data Export Service has a gate: **the site's previous-day PV must exceed 100**. Once traffic clears that bar:
-
-1. Baidu Tongji → Settings → Other Settings → **Data Export Service** → enable, and get an API Key + Secret Key
-2. Open the authorization URL in a browser to obtain a code:
-   `http://openapi.baidu.com/oauth/2.0/authorize?response_type=code&client_id={API_KEY}&redirect_uri=oob&scope=basic&display=popup`
-3. Exchange the code for a refresh token:
-   `http://openapi.baidu.com/oauth/2.0/token?grant_type=authorization_code&code={CODE}&client_id={API_KEY}&client_secret={SECRET_KEY}&redirect_uri=oob`
-4. Set three repo secrets: `BAIDU_API_KEY`, `BAIDU_SECRET_KEY`, `BAIDU_REFRESH_TOKEN` (the refresh token is valid for ten years)
-
-`scripts/fetch-stats.mjs` already contains the Baidu fetch logic — once the secrets are set it takes effect on the next run, no code change needed.
-
----
-
-Star this if it is useful to you.
+[本次修复记录与边界](docs/REPAIR-2026-09-16.md)

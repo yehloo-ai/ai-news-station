@@ -4,174 +4,231 @@
     "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
     "summary": "通义实验室发布Fun-ASR-Realtime实时语音识别模型。单模型覆盖30种语言及16种方言，针对东亚、东南亚地区重点优化。在工业级方言测评inhouse上取得87.8%的语义准确率，大幅领先，多地方言接近人工水平。引入上下文理解与动态热词注入，实现同音词、品牌名等语义消歧。流式识别首字延迟控制在百毫秒级，准确率接近离线水平，支持多语言无缝切换。API已上线阿里云百炼平台。",
     "sourceUrl": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
-    "sourceName": "公众号：通义实验室（千问）"
+    "sourceName": "公众号：通义实验室（千问）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-09",
     "title": "Pulpie：用于清理网络的Pareto最优模型",
     "summary": "Pulpie是一族Pareto最优模型，用于从HTML页面提取主要内容。其最小模型pulpie-orange-small（210M参数）在WebMainBench上取得0.862的ROUGE-5 F1分数，接近600M参数的Dripper（0.864），但成本仅1/20。在NVIDIA L4 GPU上，Pulpie处理速度13.7页/秒，Dripper仅0.68页/秒。清理10亿页HTML，Pul",
     "sourceUrl": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web",
-    "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）"
+    "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-10",
     "title": "OpenAI 发布最强模型与最佳博文",
     "summary": "显然是我们有史以来最好的模型，也是我们写得最好的博文之一： https://openai.com/index/gpt-5-6/",
     "sourceUrl": "https://x.com/sama/status/2075266471316615436",
-    "sourceName": "X：Sam Altman (@sama)"
+    "sourceName": "X：Sam Altman (@sama)",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-15",
     "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
     "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线",
     "sourceUrl": "https://prismml.com/news/bonsai-27b",
-    "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）"
+    "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-15",
     "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
     "summary": "腾讯混元团队为旗舰模型 Hy3（295B 参数）推出量化版本。1bit 版本（IQ1_M）将权重从 598 GB 压缩至 85.5 GiB，缩小 6.7 倍，单张 96GB 推理显卡即可部署；4bit 版本（Q4_K_M）体积 169.9 GiB，两张显卡可承载。量化版在 Agent、多语言代码、工具调用、长文理解等任务上表现接近满血模型。团队还提供 GPTQ Int4 版本，支持 vLLM 部署",
     "sourceUrl": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
-    "sourceName": "公众号：腾讯混元"
+    "sourceName": "公众号：腾讯混元",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-15",
     "title": "Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来",
     "summary": "在 Google I/O Connect India 上，Google 展示了由定制 Tensor SoC 和 TPU 驱动的 Pixel 10 系列所支持的 100% 私有端侧 AI 未来。活动首次推出轻量级 Gemma 4 E2B 模型，该模型原生运行于设备端，可实现完全离线的多模态功能，包括 AI 聊天、实时图像识别和个人智能体任务。开发者即日起可通过新发布的 Tensor SDK beta",
     "sourceUrl": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel",
-    "sourceName": "Google Developers Blog（RSS）"
+    "sourceName": "Google Developers Blog（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-18",
     "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
     "summary": "Kimi K3 在 Frontend Code Arena 以 1679 分登顶，力压 Claude Fable 5 与 GPT-5.6 Sol，7 个前端细分赛道拿下 6 个第一。该模型为 2.8 万亿参数 MoE 架构，百万上下文窗口，7 月 27 日开放权重。K3 的 API 定价为输入每百万 tokens 15 美元，对标前沿闭源模型，放弃低价路线，转向长上下文智能体编码场景的定价策略。",
     "sourceUrl": "https://x.com/AYi_AInotes/status/2077981025905316253",
-    "sourceName": "X：阿易 AI Notes (@AYi_AInotes)"
+    "sourceName": "X：阿易 AI Notes (@AYi_AInotes)",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-20",
     "title": "昆仑万维宣布2026为“世界模型元年”，发布Matrix-Game 3.5等模型",
     "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为“世界模型元年”，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
     "sourceUrl": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-    "sourceName": "公众号：昆仑万维（天工）"
+    "sourceName": "公众号：昆仑万维（天工）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-20",
     "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
     "summary": "面壁智能联合OpenBMB发布端侧模型MiniCPM5-2B，以2B参数量在AA-Index榜单取得4B以下模型最高分17分，平均分54.26，超越Qwen3.5-2B等竞品。模型原生支持混合思考与512K上下文，已完成华为昇腾、英伟达等9款芯片的Day0适配，即将开源。",
     "sourceUrl": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
-    "sourceName": "公众号：面壁智能（MiniCPM）"
+    "sourceName": "公众号：面壁智能（MiniCPM）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-21",
     "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
     "summary": "面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。",
     "sourceUrl": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-    "sourceName": "公众号：面壁智能（MiniCPM）"
+    "sourceName": "公众号：面壁智能（MiniCPM）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-21",
     "title": "上海科学智能研究院开放科学多模态基础模型“神珍”",
     "summary": "上海科学智能研究院开放科学多模态基础模型“神珍”，总参数约110亿，可处理DNA、RNA、蛋白质、小分子、地球系统和医学影像六类数据。在生物序列20项任务中，该模型9项取得最优结果；医学影像分割平均Dice得分91.20，在7种参评方法中最优。模型权重及代码已在星河启智、Hugging Face和GitHub开放。",
     "sourceUrl": "https://www.ithome.com/0/979/017.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-22",
     "title": "小红书 dots 模型获 IMO 2026 满分金牌",
     "summary": "小红书 dots 团队携内部版本 dots-note 3.0 参加第 67 届 IMO 2026，六道题均获满分，以 42/42 分取得满分金牌，全球仅 7 位人类选手获此成绩。模型不依赖形式化语言，直接读取原始 LaTeX 题目，通过递归自我批判能力端到端完成解题。dots-note 3.0 是 dots3 系列最轻量级模型，预期将开源。",
     "sourceUrl": "https://mp.weixin.qq.com/s/EITf-SrP5o62Ljp7UGzPVw",
-    "sourceName": "公众号：小红书技术（dots.llm）"
+    "sourceName": "公众号：小红书技术（dots.llm）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-25",
     "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
     "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
     "sourceUrl": "https://www.ithome.com/0/981/137.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-29",
     "title": "OpenAI 推出两款新转录模型 API",
     "summary": "我们在 API 中引入了两种新的转录模型： • GPT-Live-Transcribe：专为低延迟实时转录而构建。 • GPT-Transcribe：针对已完成音频文件和批量工作负载的异步转录进行了优化。 两种模型都能更好地理解上下文，并在跨口音和语言的实际音频上提供更准确的转录，包括短句、数字、专业术语以及背景噪音较大的语音。",
     "sourceUrl": "https://x.com/OpenAIDevs/status/2082201169443905798",
-    "sourceName": "X：OpenAI Developers (@OpenAIDevs)"
+    "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-11",
     "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
     "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
     "sourceUrl": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
-    "sourceName": "LMSYS：Blog（Chatbot Arena 团队）"
+    "sourceName": "LMSYS：Blog（Chatbot Arena 团队）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-13",
     "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
     "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1,000 万美元的组织可免费使用。",
     "sourceUrl": "https://www.ithome.com/0/988/766.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-15",
     "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
     "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
     "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-    "sourceName": "公众号：小红书技术（dots.llm）"
+    "sourceName": "公众号：小红书技术（dots.llm）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-20",
     "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
     "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
     "sourceUrl": "https://huggingface.co/blog/LiquidAI/qad",
-    "sourceName": "Hugging Face：Blog（RSS）"
+    "sourceName": "Hugging Face：Blog（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-21",
     "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
     "summary": "Hugging Face 发布 LFM2.5 系列三款模型的 DSpark 草稿模型检查点，通过投机解码在不改变输出质量的前提下，GPU 吞吐最高提升 3.18 倍，端侧最高 2.87 倍。草稿模型约 300M 参数，LFM2.5-2.6B 函数调用延迟平均降低 57%，已开源支持 llama.cpp 和 SGLang。",
     "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "sourceName": "Hugging Face：Blog（RSS）"
+    "sourceName": "Hugging Face：Blog（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-22",
     "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
     "summary": "面壁智能 OpenBMB 推出 MathForm，一个面向 Lean 4 数学自动形式化的开源框架、数据集与模型。其 FormalVerse 数据集含 367K+ 已验证示例；在匹配 100K 预算下，基于其训练的模型 Consistency Check 达 60.32%，优于 FineLeanCorpus（46.53%）与 NuminaMath-LEAN（41.49%）。",
     "sourceUrl": "https://x.com/OpenBMB/status/2090786300194590816",
-    "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)"
+    "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-27",
     "title": "GlucoFM：面向连续血糖监测的基础模型",
     "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109,066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
     "sourceUrl": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
-    "sourceName": "Google Research：Blog（网页）"
+    "sourceName": "Google Research：Blog（网页）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-29",
     "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
     "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
     "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-    "sourceName": "公众号：腾讯混元"
+    "sourceName": "公众号：腾讯混元",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-09-04",
     "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
     "summary": "OpenAI 于 9 月 3 日发布新一代大语言模型 GPT-6 Astra，是其首个达到准备框架中关键级网络安全能力门槛的模型，可在无逐步指导下发现防护严密系统的未知漏洞。",
     "sourceUrl": "https://www.ithome.com/0/998/208.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-09-04",
     "title": "OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9%",
     "summary": "",
     "sourceUrl": "https://x.com/kimmonismus/status/2095585966102614182",
-    "sourceName": "X：Kim (@kimmonismus)"
+    "sourceName": "X：Kim (@kimmonismus)",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-09-15",
     "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
     "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.04",
     "sourceUrl": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-    "sourceName": "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+    "sourceName": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+    "summary": "小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
+    "sourceName": "公众号：小红书技术（dots.llm）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+    "summary": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
+    "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+    "sourceName": "Google DeepMind：Blog（RSS）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+    "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+    "sourceName": "公众号：生数科技（Vidu·视频）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+    "summary": "阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS、Gen 和 Music 五款模型，已在阶跃星辰开放平台上线。",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+    "sourceName": "公众号：阶跃星辰（Step）",
+    "reviewReason": "awaiting-review"
   }
 ]

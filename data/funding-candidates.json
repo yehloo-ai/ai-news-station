@@ -4,216 +4,247 @@
     "title": "Theory Ventures 三周年：AI 如何重塑软件栈与风投定义",
     "summary": "Theory Ventures 合伙人 Tomer Tunguz 发文总结 AI 带来的市场巨变。新模型每 41 天发布一次，公司达 1 亿美元收入速度创纪录。AI 压缩时间导致风投阶段定义失效，种子轮规模从 100 万到 5 亿美元不等。推理正取代模型成为 AI 主导市场，基础设施按视频、批处理、本地、智能体等负载类型专业化细分。推理的高成本催生了 AI 广告补贴模式，Koah 的 AI 对话原",
     "sourceUrl": "https://www.tomtunguz.com/three-years-in",
-    "sourceName": "Tomer Tunguz 博客（VC 分析）"
+    "sourceName": "Tomer Tunguz 博客（VC 分析）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-12",
     "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
     "summary": "开发者Jarred Sumner借助Claude Fable 5模型，11天内将Bun从Zig重写为Rust，64个实例并行编写超100万行代码，API费用约16.5万美元。重构主因是Zig频繁内存错误，Rust可在编译时捕获。Bun v1.4.0以Canary版本发布，修复128个错误，速度提高约2%到5%。Bun团队已于2025年12月被Anthropic收购。",
     "sourceUrl": "https://www.ithome.com/0/975/469.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-21",
     "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
     "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
     "sourceUrl": "https://ollama.com/blog/all-aboard-open-models",
-    "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）"
+    "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-21",
     "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
     "summary": "中国公司月之暗面（Moonshot.AI）发布Kimi K3模型，性能与最佳美国模型相当，且为开源权重模型，用户可免费下载本地运行。受此消息影响，美国股市上周五下跌，OpenAI和Anthropic的商业模式及IPO前景受到严重质疑。美国在AI软件领域的护城河已不如预期，AI竞赛正演变为工业系统竞争。",
     "sourceUrl": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us",
-    "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+    "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-22",
     "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
     "summary": "日经研究显示，Meta、Oracle等五家美国科技巨头的隐性债务在约四年内膨胀八倍，达到约1.65万亿美元，超过其实际债务。这些债务主要来自数据中心租赁和GPU供应合同，其中Meta的表外债务约4200亿美元，是其透明债务的近三倍。隐性债务的激增使投资者更难评估风险。",
     "sourceUrl": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-    "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）"
+    "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-28",
     "title": "甲骨文与OpenAI的3000亿美元交易后股价暴跌，市场对循环融资模式失去信心",
     "summary": "2025年9月10日甲骨文宣布与OpenAI达成3000亿美元交易后股价一度飙升43%，但如今已从307美元跌至约120美元。市场对循环融资模式日益警惕，昨日英伟达考虑为OpenAI主导的数据中心提供2500亿美元支持的消息传出后，其股价开盘下跌超4.5%。苹果因未过度投资AI反而市值超越英伟达，SpaceX则从6月高点225美元下跌超50%。",
     "sourceUrl": "https://garymarcus.substack.com/p/circular-financing-aint-what-it-used",
-    "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+    "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-29",
     "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
     "summary": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从“一对多”转变为“一对一”。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人——研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
     "sourceUrl": "https://x.com/AndrewYNg/status/2082199333920027009",
-    "sourceName": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)"
+    "sourceName": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-07-31",
     "title": "FCC 禁止进口中国新型机器人与联网逆变器",
     "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型“先进机器人设备”和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
     "sourceUrl": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
-    "sourceName": "The Decoder：AI News（RSS）"
+    "sourceName": "The Decoder：AI News（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-04",
     "title": "Databricks 完成对 Panther 的收购，加速安全湖仓时代",
     "summary": "Databricks 宣布正式完成对安全数据平台 Panther 的收购，旨在加速安全湖仓（Security Lakehouse）时代。此次收购将 Panther 的安全分析能力整合进 Databricks 平台，帮助企业在统一的数据架构上运行安全运营与威胁检测工作负载。具体交易条款未披露。",
     "sourceUrl": "https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era",
-    "sourceName": "Databricks：Blog（RSS）"
+    "sourceName": "Databricks：Blog（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-05",
     "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
     "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
     "sourceUrl": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-    "sourceName": "X：Rohan Paul (@rohanpaul_ai)"
+    "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-06",
     "title": "SpaceXAI 单季资本开支 183.7 亿美元，AI 投入接近微软总资本开支四成",
     "summary": "SpaceXAI 上季度资本开支 183.7 亿美元，其中 158.3 亿美元投向 AI，接近微软同期总资本开支的 40%。其运营现金流仅覆盖资本开支的 12%，主要靠举债和股权融资，而微软覆盖率达 155%。公司股价较 6 月峰值腰斩，6 月发行的 250 亿美元债券各期限均跌破面值。",
     "sourceUrl": "https://www.tomtunguz.com/the-newest-hyperscaler",
-    "sourceName": "Tomer Tunguz 博客（VC 分析）"
+    "sourceName": "Tomer Tunguz 博客（VC 分析）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-07",
     "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
     "summary": "宇树科技公告科创板首次公开发行定价 150.80 元/股，发行 4044.6434 万股，对应上市市值约 609.93 亿元。发行市盈率 219.23 倍，高于行业平均的 38.56 倍，预计募资总额约 60.99 亿元。战略配售获配 808.9286 万股，包括社保基金、深度求索、中国石油集团等，网上申购日为 8 月 10 日。",
     "sourceUrl": "https://www.ithome.com/0/986/699.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-11",
     "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
     "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
     "sourceUrl": "https://x.com/JensenHuang/status/2086934705207959965",
-    "sourceName": "X：Jensen Huang (@JensenHuang)"
+    "sourceName": "X：Jensen Huang (@JensenHuang)",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-12",
     "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
     "summary": "Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。公司估值高达 9,650 亿美元，年化收入已超 470 亿美元，并淡化来自中国 AI 企业的竞争影响。Anthropic 还计划拓展 AI 在医疗和生物学领域的应用，但尚未公布具体 IPO 定价方案。",
     "sourceUrl": "https://www.ithome.com/0/988/239.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-12",
     "title": "英伟达循环融资达到新高度，黄仁勋是否过度出牌？",
     "summary": "英伟达股价在相关消息公布后小幅下滑，收盘报217.55美元，盘前略有回升。金融记者Holger Zschaepitz和曾预测安然倒闭的Jim Chanos均对英伟达的循环融资做法表示担忧。此外，英伟达将发布真正开源（非仅开放权重）的Nemotron模型新版本，这可能最终削弱其合作伙伴OpenAI和Anthropic的地位。",
     "sourceUrl": "https://garymarcus.substack.com/p/breaking-circular-financing-reaches",
-    "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+    "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-12",
     "title": "每个类别都有赢家：AI 时代 SaaS 龙头的估值溢价",
     "summary": "SaaS 估值整体承压，但每个细分赛道都跑出了 AI 龙头：CrowdStrike 以 34.4x 前瞻收入领跑安全（中位数 3.9x），Cloudflare 32.6x 对 17.5x，Shopify 11.3x 对 1.4x。",
     "sourceUrl": "https://www.tomtunguz.com/a-winner-in-every-category",
-    "sourceName": "Tomer Tunguz 博客（VC 分析）"
+    "sourceName": "Tomer Tunguz 博客（VC 分析）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-15",
     "title": "Cursor 正式被 SpaceX 收购",
     "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
     "sourceUrl": "https://cursor.com/blog/joining-spacex",
-    "sourceName": "Cursor Blog"
+    "sourceName": "Cursor Blog",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-17",
     "title": "The hyping of Anthropic’s IPO",
     "summary": "对 Anthropic IPO 静默期流传的 2028 年 1900 亿美元级营收预测，文章提示其多基于匿名信源和未披露算法，可帮助在追踪上市进展时区分已核实数据与传闻。",
     "sourceUrl": "https://garymarcus.substack.com/p/the-hyping-of-anthropics-ipo",
-    "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+    "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-18",
     "title": "A 股迎来“人形机器人第一股”，宇树科技官宣 8 月 19 日科创板上市",
     "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
     "sourceUrl": "https://www.ithome.com/0/990/812.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-21",
     "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
     "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
     "sourceUrl": "https://www.ithome.com/0/991/886.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-21",
     "title": "Leopold 的愚蠢：一个年轻人如何象征一个时代",
     "summary": "作者以“空头支票”式骗局为类比，指出生成式 AI 行业存在类似循环融资的投机成分，如以 OpenAI 股份为抵押贷款再购入更多股份。文章认为这些债务能否偿付高度不确定，可能最终带来数万亿美元利润，也可能落空，并呼吁需要不同的分析框架。",
     "sourceUrl": "https://garymarcus.substack.com/p/leopolds-folly",
-    "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+    "sourceName": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-27",
     "title": "Linear 完成 9900 万美元要约收购，估值达 25 亿美元",
     "summary": "Linear 完成 9900 万美元要约收购，公司估值达 25 亿美元，现有投资者 Accel 和 01A 及新投资者 Salesforce Ventures 和 S32 参与。公司年经常性收入已突破 1 亿美元，超 4 万家企业付费使用，净收入留存率达 177%。其智能体平台已覆盖 95% 的付费工作区，智能体创建的工作占比从一年前的 3% 升至 50%。",
     "sourceUrl": "https://linear.app/now/sharing-growth-with-the-people-building-linear",
-    "sourceName": "Linear：Now（RSS）"
+    "sourceName": "Linear：Now（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-08-30",
     "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
     "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
     "sourceUrl": "https://x.com/thsottiaux/status/2093515916076343774",
-    "sourceName": "X：Tibo (@thsottiaux)"
+    "sourceName": "X：Tibo (@thsottiaux)",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-09-03",
     "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
     "summary": "Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。",
     "sourceUrl": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-    "sourceName": "X：Rohan Paul (@rohanpaul_ai)"
+    "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-09-04",
     "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
     "summary": "NVIDIA 宣布已同意以 12,930,300,000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
     "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-    "sourceName": "NVIDIA Blog（RSS）"
+    "sourceName": "NVIDIA Blog（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-09-05",
     "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
     "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1,000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
     "sourceUrl": "https://www.ithome.com/0/998/630.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-09-05",
     "title": "英伟达两年从零建起近千亿美元股权投资组合",
     "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
     "sourceUrl": "https://www.ithome.com/0/998/620.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-09-05",
     "title": "Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮",
     "summary": "Tom Tunguz 分析称，未来五年美国数据中心容量将从 25 吉瓦增至 70 吉瓦，全球建设成本约 5 万亿美元，其中约 4 万亿美元需靠债务融资，相当于美国公司债市场扩容 34%，并超过全球私募信贷市场。",
     "sourceUrl": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
-    "sourceName": "Tomer Tunguz 博客（VC 分析）"
+    "sourceName": "Tomer Tunguz 博客（VC 分析）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-09-09",
     "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
     "summary": "Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。",
     "sourceUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-    "sourceName": "Mistral AI：News（网页）"
+    "sourceName": "Mistral AI：News（网页）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-09-10",
     "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
     "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
     "sourceUrl": "https://www.ithome.com/1/000/188.htm",
-    "sourceName": "IT之家（RSS）"
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
   },
   {
     "date": "2026-09-15",
     "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
     "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
     "sourceUrl": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-    "sourceName": "The Decoder：AI News（RSS）"
+    "sourceName": "The Decoder：AI News（RSS）",
+    "reviewReason": "awaiting-review"
   }
 ]

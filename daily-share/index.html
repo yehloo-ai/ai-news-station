@@ -48,7 +48,7 @@
       width: min(720px, 100%);
       margin: 0 auto;
       background: var(--paper);
-      border-radius: 10px;
+      border-radius: 8px;
       box-shadow: var(--shadow);
       overflow: hidden;
     }
@@ -323,6 +323,11 @@
       .section-title { font-size: 14px; }
       .story { font-size: 15px; }
     }
+    button:disabled { opacity:.5; cursor:wait; }
+    :focus-visible { outline:2px solid #d01922; outline-offset:3px; }
+    .section-title { margin:0; }
+    .story a { overflow-wrap:anywhere; }
+    .red-line { background:#d01922; height:2px; }
   </style>
 </head>
 <body>
@@ -338,7 +343,7 @@
           <div class="date-pill" id="datePill">加载中</div>
           <div class="count-pill"><span class="dot"></span><span id="countText">今日重点</span></div>
         </div>
-        <div class="timeline" id="timeline"></div>
+        <div class="timeline" id="timeline" aria-live="polite"></div>
         <footer class="footer">
           <div>
             <p class="footer-title">2 分钟读懂今天的 AI</p>
@@ -349,103 +354,19 @@
     </main>
 
     <aside class="panel">
-      <h2>今日分享长图</h2>
-      <p>这是日报的移动分享版，适合保存后发朋友圈、小红书或群聊。当前版本先提供稳定预览，后续可以接入一键生成 PNG。</p>
+      <h2>日报分享</h2>
+      <p id="editionInfo">正在读取日报存档</p>
       <div class="actions">
-        <a class="btn primary" href="../">回到资讯站</a>
-        <button class="btn" type="button" id="copyBtn">复制分享文案</button>
+        <button class="btn primary" type="button" id="downloadBtn" disabled>下载长图 PNG</button>
+        <button class="btn" type="button" id="shareBtn" disabled>系统分享</button>
+        <a class="btn" href="../" id="editionLink">阅读完整日报</a>
+        <button class="btn" type="button" id="copyBtn" disabled>复制分享文案</button>
       </div>
-      <div class="hint" id="hint">数据来自今日日报静态 JSON。</div>
+      <div class="hint" id="hint" role="status"></div>
     </aside>
   </div>
 
-  <script>
-    const WEEKS = ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"];
-    const GROUPS = [
-      { title: "产品发布 / 更新", test: text => /产品|工具|应用|上线|发布|更新|功能|app|tool|work|api|插件/i.test(text) },
-      { title: "模型与研究", test: text => /模型|研究|论文|arxiv|benchmark|gpt|claude|gemini|deepmind|anthropic|openai|llm/i.test(text) },
-      { title: "资本与行业", test: text => /融资|投资|资本|行业|估值|收购|上市|太空|眼镜|公司|市场/i.test(text) }
-    ];
-
-    function getDateParam() {
-      const p = new URLSearchParams(location.search).get("date");
-      return p && /^\d{4}-\d{2}-\d{2}$/.test(p) ? p : null;
-    }
-
-    function formatDate(date) {
-      const d = new Date(date + "T12:00:00+08:00");
-      return `${date.replace(/-/g, ".")}  ${WEEKS[d.getDay()]}`;
-    }
-
-    function esc(value) {
-      return String(value || "")
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/"/g, "&quot;");
-    }
-
-    function pickStories(items, date) {
-      const todayItems = items.filter(item => String(item.pubDate || "").slice(0, 10) === date);
-      const source = todayItems.length ? todayItems : items.slice(0, 24);
-      const used = new Set();
-      return GROUPS.map(group => {
-        const matches = source.filter(item => {
-          const text = `${item.title || ""} ${item.description || ""} ${item.source || ""}`;
-          return group.test(text) && !used.has(item.link || item.title);
-        }).slice(0, 3);
-        matches.forEach(item => used.add(item.link || item.title));
-        const fallback = source.filter(item => !used.has(item.link || item.title)).slice(0, 3 - matches.length);
-        fallback.forEach(item => used.add(item.link || item.title));
-        const reserve = items.filter(item => !used.has(item.link || item.title)).slice(0, 3 - matches.length - fallback.length);
-        reserve.forEach(item => used.add(item.link || item.title));
-        return { ...group, items: matches.concat(fallback, reserve) };
-      });
-    }
-
-    async function init() {
-      const index = await fetch("../data/daily-index.json").then(r => r.json());
-      const date = getDateParam() || index[0]?.date || new Date().toISOString().slice(0, 10);
-      const dailyPayload = await fetch("../data/daily.json?v=" + Math.floor(Date.now() / 3600000)).then(r => r.json());
-      const items = Array.isArray(dailyPayload) ? dailyPayload : dailyPayload.items || [];
-      const dailyCount = index.find(item => item.date === date)?.count || items.filter(item => String(item.pubDate || "").slice(0, 10) === date).length || items.length;
-      const sections = pickStories(items, date);
-
-      document.getElementById("datePill").textContent = formatDate(date);
-      document.getElementById("countText").textContent = `今日 ${dailyCount} 条重点`;
-      document.getElementById("timeline").innerHTML = sections.map((section, idx) => `
-        <section class="section">
-          <div class="section-head">
-            <div class="section-num">${String(idx + 1).padStart(2, "0")}</div>
-            <div class="section-title">${esc(section.title)}</div>
-          </div>
-          <ul class="story-list">
-            ${section.items.map(item => `
-              <li class="story">
-                <span>
-                  ${esc(item.title)}
-                  <span class="story-source">${esc(item.source || "AI News")}</span>
-                </span>
-              </li>
-            `).join("")}
-          </ul>
-        </section>
-      `).join("");
-      const shareText = `飞翔的AI资讯站｜${date} AI 日报速览：今日 ${dailyCount} 条重点\\nhttps://yehloo-ai.github.io/ai-news-station/daily-share/?date=${date}`;
-      document.getElementById("copyBtn").addEventListener("click", async () => {
-        try {
-          await navigator.clipboard.writeText(shareText);
-          document.getElementById("hint").textContent = "分享文案已复制。";
-        } catch {
-          document.getElementById("hint").textContent = shareText;
-        }
-      });
-    }
-
-    init().catch(() => {
-      document.getElementById("datePill").textContent = "加载失败";
-      document.getElementById("timeline").innerHTML = '<section class="section"><div class="section-title">数据暂时不可用</div></section>';
-    });
-  </script>
+  <script src="../assets/station-core.js"></script>
+  <script src="share.js"></script>
 </body>
 </html>

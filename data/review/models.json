@@ -1,0 +1,113 @@
+[
+  {
+    "entry": {
+      "date": "2026-09-11",
+      "company": "深度求索",
+      "model": "DeepSeek V4.1-Flash",
+      "type": "多模态",
+      "specs": [],
+      "highlight": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两",
+      "sourceUrl": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+      "sourceName": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "tier": "milestone",
+      "auto": true
+    },
+    "reasons": [
+      "platform-availability-not-model-release"
+    ],
+    "status": "pending"
+  },
+  {
+    "entry": {
+      "date": "2026-09-11",
+      "company": "深度求索",
+      "model": "SiliconFlow",
+      "type": "语言",
+      "specs": [],
+      "highlight": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台",
+      "sourceUrl": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+      "sourceName": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "tier": "normal",
+      "auto": true
+    },
+    "reasons": [
+      "unverified-model-identity",
+      "platform-availability-not-model-release"
+    ],
+    "status": "pending"
+  },
+  {
+    "entry": {
+      "date": "2026-09-04",
+      "company": "OpenAI",
+      "model": "Claude Fable 5.1",
+      "type": "语言",
+      "specs": [],
+      "highlight": "作者引用 OpenAI 官方基准称 GPT-6 Astra 以 99.9% 饱和 ARC-A",
+      "sourceUrl": "https://x.com/kimmonismus/status/2095589174686400914",
+      "sourceName": "X：Kim (@kimmonismus)",
+      "tier": "normal",
+      "auto": true
+    },
+    "reasons": [
+      "company-model-mismatch"
+    ],
+    "status": "pending"
+  },
+  {
+    "entry": {
+      "date": "2026-08-15",
+      "company": "深度求索",
+      "model": "DeepSeek V4 Pro",
+      "type": "语言",
+      "specs": [
+        "开源"
+      ],
+      "highlight": "DeepSeek-V4-Pro-0813 正式上线硅基流动 SiliconFlow，提供 D",
+      "sourceUrl": "https://x.com/SiliconFlowAI/status/2088127458558271885",
+      "sourceName": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "tier": "milestone",
+      "auto": true
+    },
+    "reasons": [
+      "platform-availability-not-model-release"
+    ],
+    "status": "pending"
+  },
+  {
+    "entry": {
+      "date": "2026-08-01",
+      "company": "深度求索",
+      "model": "Agent",
+      "type": "语言",
+      "specs": [],
+      "highlight": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！ 🔷 我们大幅升级了",
+      "sourceUrl": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "sourceName": "X：DeepSeek (@deepseek_ai)",
+      "tier": "normal",
+      "auto": true
+    },
+    "reasons": [
+      "unverified-model-identity"
+    ],
+    "status": "pending"
+  },
+  {
+    "entry": {
+      "date": "2026-07-16",
+      "company": "快手",
+      "model": "Inkling",
+      "type": "多模态",
+      "specs": [],
+      "highlight": "今天，我们推出 Inkling",
+      "sourceUrl": "https://x.com/thinkymachines/status/2077454609551921208",
+      "sourceName": "X：Thinking Machines (@thinkymachines)",
+      "tier": "normal",
+      "auto": true
+    },
+    "reasons": [
+      "unverified-model-identity"
+    ],
+    "status": "pending"
+  }
+]

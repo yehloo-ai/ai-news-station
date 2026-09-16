@@ -1,0 +1,39 @@
+name: Site regression checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: checks-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: npm ci --ignore-scripts
+      - run: pip install -r requirements.txt
+      - run: npm test
+      - run: python -m unittest discover -s tests -p '*_test.py'
+      - run: npx playwright install --with-deps chromium webkit
+      - run: npm run test:browser
+        env:
+          TEST_WEBKIT: '1'
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: browser-results
+          path: test-results/
+          retention-days: 7

@@ -1,0 +1,41 @@
+:focus-visible { outline: 2px solid #185fa5; outline-offset: 3px; }
+[hidden] { display: none !important; }
+.data-status { flex: none; padding: 8px 16px; color: #4b5563; background: #fff; border-bottom: 1px solid #e5e7eb; font-size: 12px; line-height: 1.5; }
+.refresh-row a { color: inherit; }
+.archive-day-row { font-family: inherit; font-size: inherit; border: 0; background: none; color: inherit; }
+.dnp-cat-zh { font-size: inherit; margin: 0; }
+.section-title { font-size: 18px; }
+.tl-source-line { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; }
+.tl-source-main { min-width: 0; overflow-wrap: anywhere; }
+.tl-source-date { white-space: nowrap; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+.review-label { color: #6b7280; font-size: 11px; }
+.tool-logo { overflow: hidden; }
+.tool-logo img { object-fit: contain; }
+.card-source { flex-wrap: wrap; }
+.card-desc, .feat-tl-desc, .tool-desc { overflow-wrap: anywhere; }
+.empty-state a { color: #b71924; }
+@media (max-width: 768px) {
+  .content-col { overflow: visible; flex: none; width: 100%; }
+  .main.daily-mode { display: block; overflow: visible; flex: none; }
+  .daily-content-col { flex: none; height: auto; overflow: visible; }
+  .data-status { position: relative; font-size: 11px; padding: 6px 16px; }
+  .dnp-num { font-size: 26px; }
+  .dnp-cat-en { display: none; }
+  .dnp-cat-zh { font-size: 16px; }
+  .dnp-section-head { padding-bottom: 10px; }
+  .mobile-header-title { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .tool-search input { min-height: 32px; font-size:16px; }
+  .archive-day-row { min-height: 32px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; animation: none !important; transition: none !important; }
+}
+.tool-cat-title { font-size: 14px; }
+.tool-logo { font-size: 12px; }
+@media (min-width: 769px) {
+  .dnp-title { font-size: 36px; }
+  .dnp-hero { padding-top: 16px; padding-bottom: 16px; }
+}
+.kw-btn { font:inherit; color:inherit; background:none; text-align:left; }
+.tool-price.unknown { color:#6b7280; background:#f3f4f6; }

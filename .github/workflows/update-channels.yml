@@ -8,9 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: site-data-writers
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -19,14 +24,20 @@ jobs:
           python-version: '3.11'
 
       - name: 安装依赖
-        run: pip install requests feedparser python-dateutil
+        run: pip install -r requirements.txt
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 测试采集器
+        run: python -m unittest discover -s tests -p '*_test.py'
 
       - name: 生成频道数据
         run: python scripts/generate_feed.py
 
       - name: 提交
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.xml data/*.json
-          git diff --cached --quiet || (git commit -m "更新频道数据" && git pull --rebase && git push)
+          node scripts/validate.mjs
+          git add feed.xml data/featured.json data/all.json data/official.json data/videos.json data/products.json data/design.json data/daily.json data/source-health.json data/source-cache.json data/translations.json
+          bash scripts/commit-data.sh "更新频道数据与采集状态"

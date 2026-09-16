@@ -10,6 +10,8 @@ import feedparser
 import json
 import os
 import re
+import hashlib
+from urllib.parse import urlparse
 from datetime import datetime, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 from xml.sax.saxutils import escape
@@ -18,6 +20,18 @@ from xml.sax.saxutils import escape
 ROOT = os.path.dirname(os.path.dirname(__file__))
 DATA_DIR = os.path.join(ROOT, 'data')
 os.makedirs(DATA_DIR, exist_ok=True)
+
+def read_json(filename, fallback):
+    try:
+        with open(os.path.join(DATA_DIR, filename), encoding='utf-8') as handle:
+            return json.load(handle)
+    except (OSError, ValueError):
+        return fallback
+
+SOURCE_CACHE = read_json('source-cache.json', {})
+TRANSLATIONS = read_json('translations.json', {})
+SOURCE_HEALTH = {}
+RUN_CACHE = {}
 
 # ── 翻译（Google Translate 免费接口，GitHub Actions 服务器可用）──
 import urllib.parse
@@ -33,17 +47,20 @@ def is_english(text):
     return latin / alpha > 0.7
 
 def translate_one(text):
-    """用 Google Translate 免费接口翻译单条文本"""
-    url = (
-        'https://translate.googleapis.com/translate_a/single'
-        f'?client=gtx&sl=en&tl=zh-CN&dt=t&q={urllib.parse.quote(text)}'
-    )
+    """Only use an explicitly configured endpoint; never delay the browser."""
+    key = hashlib.sha256(text.encode('utf-8')).hexdigest()
+    if key in TRANSLATIONS:
+        return TRANSLATIONS[key]
+    endpoint = os.environ.get('TRANSLATE_ENDPOINT')
+    if not endpoint:
+        return ''
     try:
-        r = requests.get(url, timeout=8, headers=HEADERS)
+        r = requests.get(endpoint, params={'client': 'gtx', 'sl': 'en', 'tl': 'zh-CN', 'dt': 't', 'q': text}, timeout=8, headers=HEADERS)
         if r.ok:
             data = r.json()
             result = ''.join(p[0] for p in data[0] if p and p[0])
             if result and result != text:
+                TRANSLATIONS[key] = result
                 return result
     except Exception:
         pass
@@ -62,7 +79,6 @@ def translate_items_en(items):
             it['title'] = zh
             it['_translated'] = True
             translated += 1
-        time.sleep(0.1)  # 避免触发频率限制
     print(f'  ✓ 翻译 {translated}/{len(targets)} 条')
 
 # ── 常量 ──────────────────────────────────────────────
@@ -75,10 +91,10 @@ HEADERS   = {'User-Agent': 'Mozilla/5.0 (compatible; FeixiangBot/1.0)'}
 OFFICIAL_SOURCES = [
     ('OpenAI',       'https://openai.com/blog/rss.xml',          '#10a37f'),
     ('Anthropic',    'https://www.anthropic.com/rss',            '#d97706'),
-    ('DeepMind',     'https://deepmind.google/blog/rss/',         '#4285f4'),
+    ('DeepMind',     'https://deepmind.google/blog/rss.xml',      '#4285f4'),
     ('HuggingFace',  'https://huggingface.co/blog/feed.xml',     '#ff9d00'),
     ('Meta AI',      'https://ai.meta.com/blog/rss/',            '#1877f2'),
-    ('Microsoft AI', 'https://blogs.microsoft.com/ai/feed/',     '#00a1f1'),
+    ('Microsoft Cloud', 'https://www.microsoft.com/en-us/microsoft-cloud/blog/feed/', '#00a1f1'),
     ('Google AI',    'https://blog.google/technology/ai/rss/',   '#ea4335'),
 ]
 
@@ -103,7 +119,7 @@ ARXIV_SOURCES = [
 ]
 
 CHINESE_SOURCES = [
-    ('The Verge AI', 'https://www.theverge.com/ai-artificial-intelligence/rss', '#e40045'),
+    ('The Verge AI', 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', '#e40045'),
     ('量子位',       'https://www.qbitai.com/feed',             '#bc8cff'),
     ('爱范儿',       'https://www.ifanr.com/feed',              '#3fb950'),
     ('机器之心',     'https://www.jiqizhixin.com/rss',          '#58a6ff'),
@@ -127,13 +143,38 @@ def now_iso():
 
 def parse_date(raw):
     if not raw:
-        return datetime.now(timezone.utc)
+        return None
     try:
         from dateutil import parser as dp
         dt = dp.parse(str(raw))
         return dt.replace(tzinfo=timezone.utc) if dt.tzinfo is None else dt
     except Exception:
-        return datetime.now(timezone.utc)
+        return None
+
+def safe_url(value):
+    try:
+        parsed = urlparse(str(value))
+        return str(value) if parsed.scheme in ('https', 'http') and parsed.netloc and not parsed.username else ''
+    except ValueError:
+        return ''
+
+def source_result(name, url, items, error=None):
+    previous = SOURCE_CACHE.get(url, {})
+    checked = now_iso()
+    if items:
+        SOURCE_CACHE[url] = {'name': name, 'checkedAt': checked, 'items': items}
+    result = items or previous.get('items', [])
+    SOURCE_HEALTH[url] = {
+        'name': name, 'url': url, 'checkedAt': checked,
+        'status': 'ok' if items else ('stale' if result else 'unavailable'),
+        'count': len(items), 'cachedCount': len(result) if not items else 0,
+        'lastSuccessAt': checked if items else previous.get('checkedAt'),
+        'error': str(error or ('No usable entries' if not items else ''))[:240],
+    }
+    if not items:
+        print(f'::warning::{name}: {SOURCE_HEALTH[url]["status"]}; {SOURCE_HEALTH[url]["error"]}')
+    RUN_CACHE[url] = result
+    return result
 
 def extract_thumbnail(entry):
     """从 YouTube RSS entry 提取缩略图 URL"""
@@ -147,17 +188,23 @@ def extract_thumbnail(entry):
     return m.group(1) if m else ''
 
 def strip_html(text):
-    return re.sub(r'<[^>]+>', '', text or '').strip()[:300]
+    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', text or '')).strip()[:300]
 
 def fetch_rss(name, url, color, limit=15):
     """拉取单个 RSS 源，返回 item 列表"""
-    items = []
+    if url in RUN_CACHE:
+        return [dict(item) for item in RUN_CACHE[url][:limit]]
+    items, error = [], None
     try:
-        feed = feedparser.parse(url, request_headers=HEADERS)
+        response = requests.get(url, timeout=TIMEOUT, headers=HEADERS)
+        response.raise_for_status()
+        feed = feedparser.parse(response.content)
+        if not feed.entries:
+            raise ValueError('Invalid or empty RSS/Atom feed')
         is_yt = 'youtube.com' in url
-        for e in feed.entries[:limit]:
+        for e in feed.entries[:30]:
             title = e.get('title', '').strip()
-            link  = e.get('link', '').strip()
+            link  = safe_url(e.get('link', '').strip())
             if not title or not link:
                 continue
             desc  = strip_html(e.get('summary', ''))
@@ -166,7 +213,7 @@ def fetch_rss(name, url, color, limit=15):
                 'title': title,
                 'link': link,
                 'description': desc,
-                'pubDate': pub.isoformat(),
+                'pubDate': pub.isoformat() if pub else None,
                 'source': name,
                 'color': color,
             }
@@ -175,23 +222,27 @@ def fetch_rss(name, url, color, limit=15):
                 item['category'] = 'video'
             items.append(item)
     except Exception as ex:
-        print(f'  ✗ {name}: {ex}')
+        error = f'{type(ex).__name__}: {ex}'
     else:
         print(f'  ✓ {name}: {len(items)} 条')
-    return items
+    return [dict(item) for item in source_result(name, url, items, error)[:limit]]
 
 def fetch_aihot(path='/items?mode=selected&take=30'):
     """从 AI HOT API 拉取精选内容"""
-    items = []
+    items, error = [], None
+    url = f'https://aihot.virxact.com/api/public{path}'
     try:
-        r = requests.get(f'https://aihot.virxact.com/api/public{path}',
+        r = requests.get(url,
                          timeout=TIMEOUT, headers=HEADERS)
+        r.raise_for_status()
         data = r.json()
         entries = data.get('data', data) if isinstance(data, dict) else data
+        if isinstance(entries, dict):
+            entries = entries.get('items')
         if isinstance(entries, list):
             for e in entries:
                 title = e.get('title') or e.get('name', '')
-                link  = e.get('url') or e.get('link', '')
+                link  = safe_url(e.get('url') or e.get('link', ''))
                 desc  = e.get('description') or e.get('summary', '')
                 pub   = parse_date(e.get('publishedAt') or e.get('created_at', ''))
                 if title and link:
@@ -199,14 +250,16 @@ def fetch_aihot(path='/items?mode=selected&take=30'):
                         'title': title,
                         'link': link,
                         'description': str(desc)[:300],
-                        'pubDate': pub.isoformat(),
-                        'source': 'AI HOT',
+                        'pubDate': pub.isoformat() if pub else None,
+                        'source': str(e.get('source') or 'AI HOT'),
+                        'aggregator': 'AI HOT',
+                        '_aiCat': e.get('category') if e.get('category') in ('industry', 'ai-products', 'tip', 'paper', 'funding', 'opensource', 'ai-models', 'design', 'video') else None,
                         'color': '#d01922',
                     })
         print(f'  ✓ AI HOT{path}: {len(items)} 条')
     except Exception as ex:
-        print(f'  ✗ AI HOT: {ex}')
-    return items
+        error = f'{type(ex).__name__}: {ex}'
+    return source_result('AI HOT', url, items, error)
 
 def dedupe(items):
     seen, out = set(), []
@@ -218,7 +271,7 @@ def dedupe(items):
     return out
 
 def sort_items(items):
-    return sorted(items, key=lambda x: x.get('pubDate', ''), reverse=True)
+    return sorted(items, key=lambda x: (parse_date(x.get('pubDate')) or datetime.min.replace(tzinfo=timezone.utc)).timestamp(), reverse=True)
 
 def keyword_filter(items, keywords):
     """保留标题或描述包含关键词的条目"""
@@ -230,12 +283,25 @@ def keyword_filter(items, keywords):
     return result
 
 def save_json(filename, items):
+    previous = read_json(filename, {})
+    failed_names = {source['name'] for source in SOURCE_HEALTH.values() if source['status'] != 'ok'}
+    preserved = [item for item in previous.get('items', []) if item.get('source') in failed_names]
+    limit = max(len(items), len(previous.get('items', [])))
+    if items and preserved:
+        items = sort_items(dedupe(items + preserved))[:limit]
+    # A failed run must not replace the last readable edition with an empty list.
+    if not items:
+        print(f'::warning::{filename}: no items; preserving previous snapshot')
+        return previous.get('items', [])
     translate_items_en(items)
     path = os.path.join(DATA_DIR, filename)
-    payload = {'updated': now_iso(), 'items': items}
+    previous_items = previous.get('items', [])
+    payload = {'updated': previous.get('updated') if previous_items == items else now_iso(), 'items': items,
+               'degradedSources': sorted(failed_names)}
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(payload, f, ensure_ascii=False, separators=(',', ':'))
     print(f'→ {filename}: {len(items)} 条')
+    return items
 
 
 # ── 各频道生成 ────────────────────────────────────────
@@ -262,7 +328,8 @@ def gen_chinese_base():
     items = []
     for name, url, color in CHINESE_SOURCES:
         items.extend(fetch_rss(name, url, color, 10))
-    return dedupe(items)
+    relevant = re.compile(r'\bAI\b|人工智能|大模型|机器学习|深度学习|生成式|智能体|OpenAI|ChatGPT|Claude|Gemini|DeepSeek|Grok|Qwen|通义|豆包|文心|Kimi|Midjourney|Copilot|Sora|Runway|提示词|生图|文生视频', re.I)
+    return dedupe([item for item in items if relevant.search(item.get('title','') + ' ' + item.get('description',''))])
 
 def gen_featured(chinese_base, aihot_items):
     print('\n[精选]')
@@ -273,8 +340,7 @@ def gen_featured(chinese_base, aihot_items):
     for name, url, color in VIDEO_SOURCES:
         yt.extend(fetch_rss(name, url, color, 4))
     items = sort_items(dedupe(aihot_items + arxiv + yt + chinese_base))[:50]
-    save_json('featured.json', items)
-    return items
+    return save_json('featured.json', items)
 
 def gen_all(chinese_base, aihot_items):
     print('\n[全部动态]')
@@ -319,16 +385,18 @@ def gen_daily(chinese_base):
 
 def gen_rss_xml(featured_items):
     """生成 feed.xml（向后兼容）"""
+    if not featured_items:
+        return
     now_rfc = format_datetime(datetime.now(timezone.utc))
     rows = []
     for item in featured_items[:20]:
         rows.append(f"""    <item>
       <title>{escape(item['title'])}</title>
       <link>{escape(item['link'])}</link>
-      <description>{escape(item.get('description',''))}</description>
-      <pubDate>{format_datetime(parse_date(item['pubDate']))}</pubDate>
+      <description>{escape(strip_html(item.get('description','')))}</description>
+      {('<pubDate>' + format_datetime(parse_date(item.get('pubDate'))) + '</pubDate>') if parse_date(item.get('pubDate')) else ''}
       <guid isPermaLink="true">{escape(item['link'])}</guid>
-      <source url="{escape(item['link'])}">{escape(item['source'])}</source>
+      <source url="{escape(item['link'], {chr(34): '&quot;'})}">{escape(item['source'])}</source>
     </item>""")
     xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -368,6 +436,10 @@ def main():
     gen_design(chinese_base)
     gen_daily(chinese_base)
     gen_rss_xml(featured)
+
+    for filename, payload in [('source-health.json', {'checkedAt': now_iso(), 'sources': list(SOURCE_HEALTH.values())}), ('source-cache.json', SOURCE_CACHE), ('translations.json', TRANSLATIONS)]:
+        with open(os.path.join(DATA_DIR, filename), 'w', encoding='utf-8') as handle:
+            json.dump(payload, handle, ensure_ascii=False, separators=(',', ':'))
 
     print('\n=== 完成 ===')
 

@@ -1,0 +1,15 @@
+* { box-sizing:border-box; }
+body { margin:0; font:15px/1.7 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif; color:#111827; background:#f4f6f8; }
+main { max-width:840px; margin:auto; padding:28px 20px 60px; }
+h1 { font-size:26px; margin:18px 0 12px; }
+h2 { font-size:18px; margin:28px 0 10px; }
+p { margin:10px 0; }
+a { color:#b81720; overflow-wrap:anywhere; }
+button { border:1px solid #d01922; background:white; color:#b81720; min-height:44px; padding:8px 14px; font:inherit; border-radius:6px; cursor:pointer; }
+:focus-visible { outline:2px solid #d01922; outline-offset:3px; }
+.muted { color:#4b5563; font-size:13px; }
+.sources { padding:0; list-style:none; }
+.sources li { padding:12px 0; border-bottom:1px solid #d1d5db; overflow-wrap:anywhere; }
+.sources strong { display:block; }
+.actions { display:flex; flex-wrap:wrap; gap:16px; align-items:center; }
+code { overflow-wrap:anywhere; }

@@ -4,6 +4,13 @@
 // x-umami-share-token + x-umami-share-context 两个头访问数据接口
 
 import { writeFileSync, mkdirSync } from 'node:fs';
+import { resolve, dirname, relative, isAbsolute, sep } from 'node:path';
+
+const output = process.env.STATS_OUTPUT;
+const rel = output && relative(process.cwd(), resolve(output));
+if (!output || (!(rel === '..' || rel.startsWith('..' + sep)) && !isAbsolute(rel))) {
+  throw new Error('STATS_OUTPUT must point outside the public repository. Public stats export is disabled.');
+}
 
 const UMAMI_GATEWAY = 'https://gateway-us.umami.is/api';
 const SITE_DOMAIN = 'yehloo-ai.github.io';
@@ -21,8 +28,8 @@ function ymd(ms) {
 }
 
 async function getJson(url, headers = {}) {
-  const res = await fetch(url, { headers });
-  if (!res.ok) throw new Error(`HTTP ${res.status} ${url.split('?')[0]}: ${(await res.text()).slice(0, 200)}`);
+  const res = await fetch(url, { headers, signal: AbortSignal.timeout(15000) });
+  if (!res.ok) throw new Error(`Statistics provider returned HTTP ${res.status}`);
   return res.json();
 }
 
@@ -147,6 +154,6 @@ const stats = {
   baidu: await safe(fetchBaidu),
 };
 
-mkdirSync('data', { recursive: true });
-writeFileSync('data/stats.json', JSON.stringify(stats, null, 2) + '\n');
-console.log('umami:', stats.umami.error ?? 'ok', '| baidu:', stats.baidu.error ?? 'ok');
+mkdirSync(dirname(resolve(output)), { recursive: true });
+writeFileSync(output, JSON.stringify(stats, null, 2) + '\n', {mode:0o600});
+console.log('Private statistics export completed outside the repository');

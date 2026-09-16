@@ -1,0 +1,11 @@
+{
+  "name": "ai-news-station",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.* && node scripts/validate.mjs",
+    "test:browser": "node tests/browser.cjs",
+    "build": "node scripts/build-daily.mjs --offline && node scripts/build-timeline.mjs && node scripts/build-funding.mjs && node scripts/build-tools.mjs"
+  },
+  "devDependencies": { "playwright": "1.62.1" }
+}

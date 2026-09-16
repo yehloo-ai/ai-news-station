@@ -2,7 +2,8 @@
 // 数据源：AI HOT API（与站内日报频道同源）；历史数据缓存在 data/daily/*.json，
 // 即使 API 只保留近 10 天，已生成的日报页也会永久存档。
 
-import { writeFileSync, mkdirSync, readdirSync, readFileSync, existsSync } from 'node:fs';
+import { writeFileSync, mkdirSync, readdirSync, readFileSync, existsSync, renameSync } from 'node:fs';
+import core from '../assets/station-core.js';
 
 const SITE = 'https://yehloo-ai.github.io/ai-news-station';
 const AIHOT = 'https://aihot.virxact.com/api/public';
@@ -25,7 +26,11 @@ async function fetchDaily(date) {
     const res = await fetch(`${AIHOT}${path}`, { headers: HEADERS, signal: AbortSignal.timeout(15000) });
     if (!res.ok) return null;
     const data = await res.json();
-    return data?.sections?.length ? data : null;
+    if (!core.validSnapshot(data, date)) {
+      console.warn(`::warning::Daily ${date} rejected: returned date ${data?.date || 'missing'} or invalid schema`);
+      return null;
+    }
+    return data;
   } catch {
     return null;
   }
@@ -34,7 +39,18 @@ async function fetchDaily(date) {
 // ── 1. 拉取近 N 天数据，缓存到 data/daily/ ──
 mkdirSync('data/daily', { recursive: true });
 const today = bjDate(0);
-for (let i = 0; i < FETCH_DAYS; i++) {
+const corrections = [];
+for (const file of readdirSync('data/daily').filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))) {
+  const data = JSON.parse(readFileSync(`data/daily/${file}`, 'utf8'));
+  if (core.validSnapshot(data, file.slice(0, 10))) continue;
+  mkdirSync('data/review/daily', { recursive: true });
+  const backup = `data/review/daily/${file}`;
+  if (existsSync(backup)) throw new Error(`Review backup already exists: ${backup}`);
+  renameSync(`data/daily/${file}`, backup);
+  corrections.push({requested: file.slice(0, 10), actual: core.validSnapshot(data) ? data.date : null});
+  console.warn(`::warning::Quarantined invalid archive ${file}`);
+}
+for (let i = 0; i < (process.argv.includes('--offline') ? 0 : FETCH_DAYS); i++) {
   const date = bjDate(-i);
   const cachePath = `data/daily/${date}.json`;
   // 历史日期已有缓存就不重拉；今天的每次都刷新（当日内容会增长）
@@ -68,7 +84,7 @@ const PAGE_CSS = `
   article h3 a { color:#111827; text-decoration:none; }
   article h3 a:hover { color:#d92b2b; }
   article p { font-size:13.5px; color:#4b5563; }
-  .src { font-size:12px; color:#9ca3af; margin-top:6px; }
+  .src { font-size:12px; color:#6b7280; margin-top:6px; }
   .nav { display:flex; justify-content:space-between; margin-top:32px; font-size:13px; }
   .nav a { color:#d92b2b; text-decoration:none; }
   ul.archive { list-style:none; }
@@ -92,14 +108,16 @@ function pageShell({ title, description, canonical, body, jsonLd }) {
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:type" content="article">
-${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>` : ''}
+<meta property="og:image" content="${SITE}/assets/share-cover.png">
+<link rel="icon" href="${SITE}/assets/favicon.svg" type="image/svg+xml">
+${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>` : ''}
 <style>${PAGE_CSS}</style>
 </head>
 <body>
 <div class="wrap">
 <div class="top"><a href="${SITE}/">← 飞翔的AI资讯站</a> · <a href="${SITE}/daily/">日报存档</a></div>
 ${body}
-<footer>由 <a href="${SITE}/">飞翔的AI资讯站</a> 自动生成 · 聚合国内外主流 AI 媒体 · 内容版权归原出处所有</footer>
+<footer>由 <a href="${SITE}/">飞翔的AI资讯站</a> 自动整理 · <a href="${SITE}/about/">来源与纠错</a></footer>
 </div>
 </body>
 </html>
@@ -112,7 +130,7 @@ function renderDay(date, data, prev, next) {
     items.slice(0, 3).map((i) => i.title).join('；').slice(0, 130);
 
   let body = `<h1>AI 日报速览 · ${date}</h1>
-<div class="sub">共 ${items.length} 条 · 覆盖产品发布、行业动态、论文研究等 · 每日自动汇总</div>`;
+<div class="sub">共 ${items.length} 条 · 自动整理 · <a href="../daily-share/?date=${date}">分享长图</a></div>`;
 
   if (data.lead) body += `<p style="font-size:14px;background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;margin-bottom:8px;">${esc(data.lead)}</p>`;
 
@@ -121,7 +139,7 @@ function renderDay(date, data, prev, next) {
     body += `<h2>${esc(sec.label)}</h2>`;
     for (const it of sec.items) {
       body += `<article>
-<h3>${it.sourceUrl ? `<a href="${esc(it.sourceUrl)}" rel="noopener" target="_blank">${esc(it.title)}</a>` : esc(it.title)}</h3>
+<h3>${core.safeURL(it.sourceUrl) ? `<a href="${esc(core.safeURL(it.sourceUrl))}" rel="noopener" target="_blank">${esc(it.title)}</a>` : esc(it.title)}</h3>
 <p>${esc(it.summary)}</p>
 <div class="src">来源：${esc(it.sourceName || '未知')}</div>
 </article>`;
@@ -165,6 +183,15 @@ dates.forEach((date, i) => {
   const next = dates[i - 1] || null; // 更晚一天
   writeFileSync(`daily/${date}.html`, renderDay(date, data, prev, next));
 });
+for (const correction of corrections) {
+  if (dates.includes(correction.requested)) continue;
+  const actual = dates.includes(correction.actual) ? correction.actual : null;
+  writeFileSync(`daily/${correction.requested}.html`, pageShell({
+    title: `日报日期更正 · ${correction.requested}`, description: '本期原有归档日期错误，现已更正。',
+    canonical: `${SITE}/daily/${actual ? actual + '.html' : ''}`,
+    body: `<h1>日报日期已更正</h1><p>${esc(correction.requested)} 的原归档日期与内容不一致，已停止展示错日内容。</p>${actual ? `<p><a href="${actual}.html">查看正确期号：${actual}</a></p>` : '<p><a href="./">查看有效归档</a></p>'}`
+  }));
+}
 
 // ── 3. 存档索引页 ──
 const archiveItems = dates.map((date) => {
@@ -192,6 +219,17 @@ ${archiveItems}
 }));
 
 // ── 3.5 日期索引：站内日报频道用它发现永久存档 ──
+if (!dates.length) throw new Error('No valid daily snapshots; refusing to publish an empty archive');
+writeFileSync('data/daily-latest.json', readFileSync(`data/daily/${dates[0]}.json`, 'utf8'));
+const latest = JSON.parse(readFileSync('data/daily-latest.json','utf8'));
+const prerender = '<!-- prerender:start -->\n<h1>AI 日报速览</h1><p>' + esc(latest.date) +
+  ' · <a href="daily/' + latest.date + '.html">完整日报</a> · <a href="daily/">历史存档</a></p>' +
+  latest.sections.map(section => '<section><h2>' + esc(section.label) + '</h2><ul>' +
+    section.items.map(item => '<li><a href="' + esc(core.safeURL(item.sourceUrl)) + '" rel="noopener">' +
+      esc(item.title) + '</a></li>').join('') + '</ul></section>').join('') + '\n<!-- prerender:end -->';
+const home = readFileSync('index.html','utf8');
+if (!home.includes('<!-- prerender:start -->')) throw new Error('Missing homepage prerender marker');
+writeFileSync('index.html',home.replace(/<!-- prerender:start -->[\s\S]*?<!-- prerender:end -->/,prerender));
 writeFileSync('data/daily-index.json', JSON.stringify(
   dates.map((date) => {
     const data = JSON.parse(readFileSync(`data/daily/${date}.json`, 'utf8'));

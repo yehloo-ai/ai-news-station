@@ -8,9 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: site-data-writers
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -40,9 +45,5 @@ jobs:
 
       - name: Commit if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/builders-x.json data/builders-podcasts.json
-          git diff --cached --quiet || git commit -m "chore: update builders data $(date -u +%Y-%m-%d)"
-          git push
-
+          bash scripts/commit-data.sh "Update builders data"

@@ -2,6 +2,7 @@
 // 站内「AI 大事记」频道读取同一份 JSON，双端内容一致
 
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import core from '../assets/station-core.js';
 
 const SITE = 'https://yehloo-ai.github.io/ai-news-station';
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -26,24 +27,24 @@ function renderArticle(e) {
   const { mod, attrs } = parseType(e.type);
   const c = MOD[mod] || MOD['专用'];
   const catPill = mod ? `<span class="cat" style="color:${c.m};background:${c.mb};border:1px solid ${c.mbd}">${esc(mod)}</span>` : '';
-  const modelLink = e.sourceUrl ? `<a href="${esc(e.sourceUrl)}" rel="noopener" target="_blank">${esc(e.model)}</a>` : esc(e.model);
+  const modelLink = e.sourceUrl ? `<a href="${esc(core.safeURL(e.sourceUrl) || '#')}" rel="noopener" target="_blank">${esc(e.model)}</a>` : esc(e.model);
   if (e.tier === 'minor') {
     return `<article class="minor" id="${esc(slug(e))}">
 <div class="minor-row"><span class="company">${esc(e.company)}</span>${catPill}<span class="mtitle">${modelLink}</span><span class="minor-desc">${esc(e.highlight)}</span></div>
 </article>`;
   }
   const attrPills = attrs.map((a) => `<span class="attr">${esc(a)}</span>`).join('');
-  const isMile = e.tier === 'milestone';
+  const isMile = e.tier === 'milestone' && !e.auto;
   const mileTag = isMile ? `<span class="mile-tag" style="color:${c.m};background:${c.mb}">★ 里程碑</span>` : '';
   const impact = (isMile && e.impact) ? `<div class="impact" style="color:${c.m};border-color:${c.mbd}"><b>意味着 </b>${esc(e.impact)}</div>` : '';
-  const src = e.sourceName ? `<div class="src">信源：${e.sourceUrl ? `<a href="${esc(e.sourceUrl)}" rel="noopener" target="_blank">${esc(e.sourceName)}</a>` : esc(e.sourceName)} · ${e.date}</div>` : '';
+  const src = e.sourceName ? `<div class="src">信源：${e.sourceUrl ? `<a href="${esc(core.safeURL(e.sourceUrl) || '#')}" rel="noopener" target="_blank">${esc(e.sourceName)}</a>` : esc(e.sourceName)} · ${e.date}</div>` : '';
   return `<article${isMile ? ` class="milestone" style="box-shadow:inset 3px 0 0 ${c.m}"` : ''} id="${esc(slug(e))}">
 <div class="meta"><span class="company">${esc(e.company)}</span>${catPill}${attrPills}${mileTag}</div>
 <h3>${modelLink}</h3>
 <p>${esc(e.highlight)}</p>
 ${e.specs?.length ? `<ul class="specs">${e.specs.map((s) => `<li>${esc(s)}</li>`).join('')}</ul>` : ''}
 ${impact}
-${src}
+${src}${e.auto ? '<p class="src">历史自动整理 · 待复核</p>' : ''}
 </article>`;
 }
 
@@ -66,7 +67,7 @@ ${rows}
 </div>`;
 }).join('\n')}`;
 
-const description = `AI 模型发布时间线：${sorted.length} 条主流大模型发布档案（${sorted[sorted.length - 1].date.slice(0, 7)} 至 ${sorted[0].date.slice(0, 7)}），含发布日期、厂商、关键规格与官方信源，持续更新。`;
+const description = `AI 模型发布时间线：${sorted.length} 条主流大模型发布档案（${sorted[sorted.length - 1].date.slice(0, 7)} 至 ${sorted[0].date.slice(0, 7)}），含发布日期、厂商、关键规格与原始信源，持续更新。`;
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -95,7 +96,7 @@ writeFileSync('timeline/index.html', `<!DOCTYPE html>
 <meta property="og:title" content="AI 模型发布时间线 | 飞翔的AI资讯站">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:type" content="article">
-<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>
 <style>
   * { margin:0; padding:0; box-sizing:border-box; }
   body { font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;
@@ -148,7 +149,7 @@ writeFileSync('timeline/index.html', `<!DOCTYPE html>
 <div class="wrap">
 <div class="top"><a href="${SITE}/">← 飞翔的AI资讯站</a> · <a href="${SITE}/daily/">日报存档</a></div>
 ${body}
-<footer>由 <a href="${SITE}/">飞翔的AI资讯站</a> 维护 · 条目均附官方信源链接 · 发现错漏欢迎指正</footer>
+<footer>由 <a href="${SITE}/">飞翔的AI资讯站</a> 维护 · 条目附原始信源 · 历史条目仍需复核 · 发现错漏欢迎指正</footer>
 </div>
 </body>
 </html>
