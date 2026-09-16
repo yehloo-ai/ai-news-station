@@ -8,7 +8,7 @@
 
 - 日报的唯一来源是 `data/daily/YYYY-MM-DD.json`。首页的 `daily-latest.json`、HTML 归档和分享图都由同一份快照生成。上游返回的日期必须与请求一致。
 - 日报每天计划抓取三次；资讯频道每小时计划抓取。GitHub Actions 排程与上游发布均可能延迟，不承诺实时或准点。
-- 精选是自动汇总，不代表逐条人工推荐。英文可保留原文；仅配置 `TRANSLATE_ENDPOINT` 后在构建端翻译并按原文哈希缓存。浏览器不发翻译请求。
+- 精选是自动汇总，不代表逐条人工推荐。英文标题与摘要在构建端离线翻译成中文，按原文哈希缓存；卡片标注“机译”，保留原文字段与来源链接。翻译失败保留内容并标注“待翻译”，不把错误响应当译文。浏览器不发翻译请求。
 - 抓取使用明确超时与 HTTP 检查，RSS/API 结构不符会记录失败；每个源保留上次有效结果。状态保存在 `data/source-health.json`，原始缓存保存在 `data/source-cache.json`。
 - 数据源返回错误、HTML 或空结果不会被当成有效新资讯覆盖旧频道；故障可能影响覆盖范围，不代表网站已获得所有来源的最新内容。
 - 工具价格和地区信息不是实时计费查询，以官网为准。未核验的字段不要填写虚假的核验时间。
@@ -43,6 +43,19 @@ python -m http.server 8765
 测试覆盖日期一致性、同源请求缓存、失败刷新、候选审核、跨时区排序、内部链接、PC/窄屏布局、快速日期切换、筛选恢复、返回导航、PNG 导出。浏览器测试默认屏蔽第三方请求，不能代替真实网络、微信或邮件送达测试。
 
 ## 文件结构
+
+频道工作流安装 `requirements-translation.txt`，下载并校验固定版本 Argos en-zh 1.9 模型，再用 CTranslate2 在 CPU 上生成中文。约 68 MB 的模型仅存在于 Actions 缓存，不提交仓库、不增加网页下载体积。依赖或模型不可用时，现有译文仍从 `data/translations.json` 复用。
+
+本地回填已有频道（保留原 `updated` 时间）：
+
+```sh
+python -m pip install -r requirements-translation.txt
+export TRANSLATE_MODEL_DIR=/tmp/ai-station-en-zh
+python scripts/setup_translation.py
+python scripts/translate_channels.py
+```
+
+模型来源：[Argos Translate](https://github.com/argosopentech/argos-translate)；推理方式：[CTranslate2](https://opennmt.net/CTranslate2/quickstart.html)。机器翻译可能误译术语，不等同于内容事实审核；纠正译文时同时更新原文哈希对应的缓存。
 
 - `index.html`：静态壳、预渲染日报、元信息。
 - `assets/station-core.js`：前后端共享的 schema、安全输出、日期和缓存工具。

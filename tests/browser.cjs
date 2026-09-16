@@ -42,8 +42,20 @@ async function run(browserType,name,options,base) {
       await page.waitForFunction(id=>activeTab===id&&!document.querySelector('#main .loading'),id);
       await checkLayout(page,name+'-'+id);
       if (['featured','all'].includes(id)) {
-        const expected=JSON.parse(fs.readFileSync(path.join(root,'data/'+id+'.json'))).items.length;
-        assert.equal(await page.locator('#main a.card').count(),expected,name+': truncated '+id);
+        const expected=JSON.parse(fs.readFileSync(path.join(root,'data/'+id+'.json'))).items;
+        assert.equal(await page.locator('#main a.card').count(),expected.length,name+': truncated '+id);
+        const translated=expected.filter(item=>item._translated);
+        assert(translated.length>0,name+': missing translated data in '+id);
+        const visible=await page.locator('#main a.card').allTextContents();
+        for(const item of translated){
+          assert(/[\u3400-\u9fff]/.test(item.title),name+': translated title is not Chinese');
+          assert(visible.some(text=>text.includes(item.title)&&text.includes('机译')),name+': missing Chinese title');
+          assert(await page.locator('#main a.card [title]').evaluateAll((els,title)=>els.some(e=>e.title===title),item.titleOriginal),name+': missing original title');
+        }
+        if(id==='featured'){
+          await page.locator('.feat-tl-card').filter({has:page.locator('.translation-label')}).first().scrollIntoViewIfNeeded();
+          await page.screenshot({path:path.join(output,name+'-featured-translated.png')});
+        }
       }
     }
     await page.locator('#toolSearch').fill('Claude');

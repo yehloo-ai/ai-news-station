@@ -16,6 +16,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    env:
+      TRANSLATE_MODEL_DIR: /home/runner/.cache/ai-station/en-zh-1.9
     steps:
       - uses: actions/checkout@v4
 
@@ -24,7 +26,16 @@ jobs:
           python-version: '3.11'
 
       - name: 安装依赖
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt -r requirements-translation.txt
+
+      - uses: actions/cache@v4
+        with:
+          path: /home/runner/.cache/ai-station/en-zh-1.9
+          key: translation-argos-en-zh-1.9-433e7c4f
+
+      - name: 准备离线中文翻译
+        continue-on-error: true
+        run: python scripts/setup_translation.py
 
       - uses: actions/setup-node@v4
         with:

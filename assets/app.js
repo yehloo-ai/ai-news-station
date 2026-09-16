@@ -1300,8 +1300,9 @@ async function switchTab(id, options = {}) {
 function renderTitle(item, cls = '') {
   const title = esc(item.title || '');
   const orig = item.titleOriginal ? ` title="${esc(item.titleOriginal)}"` : '';
-  const badge = item._translated ? `<span style="font-size:9px;font-weight:600;color:var(--muted);margin-left:4px;vertical-align:middle;opacity:0.6">译</span>` : '';
-  return `<span class="${cls}"${orig}>${title}${badge}</span>`;
+  const badge = item._translated || item._descTranslated ? `<span class="translation-label" title="机器翻译，内容以来源原文为准">机译</span>` : '';
+  const pending = item.translationPending?.length ? `<span class="translation-label" title="翻译暂不可用，保留原文">待翻译</span>` : '';
+  return `<span class="${cls}"${orig}>${title}${badge}${pending}</span>`;
 }
 
 // 提取关键词标签（来自分类、标题、原文）

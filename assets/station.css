@@ -41,3 +41,4 @@
 .tool-price.unknown { color:#6b7280; background:#f3f4f6; }
 .content-col { position:relative; z-index:0; }
 .back-to-top { z-index:210; transform:translateZ(0); }
+.translation-label { display:inline-block; margin-left:6px; color:var(--muted); font-size:10px; font-weight:500; line-height:1.5; vertical-align:middle; white-space:nowrap; }

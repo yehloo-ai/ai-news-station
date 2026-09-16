@@ -11,6 +11,8 @@ import json
 import os
 import re
 import hashlib
+from pathlib import Path
+from html import unescape
 from urllib.parse import urlparse
 from datetime import datetime, timezone
 from email.utils import format_datetime, parsedate_to_datetime
@@ -33,53 +35,106 @@ TRANSLATIONS = read_json('translations.json', {})
 SOURCE_HEALTH = {}
 RUN_CACHE = {}
 
-# ── 翻译（Google Translate 免费接口，GitHub Actions 服务器可用）──
-import urllib.parse
-import time
+# Translation runs on the data writer, never on a visitor's device.
+TRANSLATOR = None
+TRANSLATION_UNAVAILABLE = False
 
 def is_english(text):
-    if not text or len(text) < 8:
+    if not text or re.search(r'[\u3400-\u9fff]', text):
         return False
     alpha = sum(1 for c in text if c.isalpha())
     if alpha == 0:
         return False
     latin = sum(1 for c in text if c.isascii() and c.isalpha())
-    return latin / alpha > 0.7
+    return latin >= 3 and latin / alpha > 0.7
+
+def translation_text(text):
+    text = unescape(re.sub(r'<[^>]+>', ' ', text or ''))
+    text = re.sub(r'^arXiv:\S+\s+Announce Type:.*?Abstract:\s*', '', text, flags=re.S)
+    return re.sub(r'\s+', ' ', text).strip()
+
+def valid_translation(result, original):
+    return isinstance(result, str) and result != original and bool(re.search(r'[\u3400-\u9fff]', result)) and not re.search(r'<[^>]+>|[\u2581\u2047]', result)
+
+def translation_terms(result, original):
+    result = result.replace('\u2581', ' ').strip()
+    # Disambiguate recurring AI terms; keep corrections conditional on the source.
+    terms = [
+        (r'\bAI\b', '大赦国际', '人工智能'),
+        (r'causal', '致病', '因果'),
+        (r'multimodal', '多式联运', '多模态'),
+        (r'\bagents?\b', '代理商', '智能体'),
+        (r'\btransformers?\b', '变形器', 'Transformer'),
+        (r'reinforcement learning', '加强学习', '强化学习'),
+        (r'\bpolic(?:y|ies)\b', '政策', '策略'),
+        (r'few-shot', '极少的热降解', '少样本性能下降'),
+        (r'embodied agents', '健康人员', '具身智能体'),
+    ]
+    for pattern, wrong, correct in terms:
+        if re.search(pattern, original, re.I):
+            result = result.replace(wrong, correct)
+    return result
+
+def translate_offline(text):
+    global TRANSLATOR
+    if TRANSLATOR is None:
+        import ctranslate2
+        import sentencepiece
+        directory = Path(os.environ['TRANSLATE_MODEL_DIR'])
+        engine = ctranslate2.Translator(str(directory / 'model'), device='cpu', compute_type='int8', intra_threads=2)
+        tokenizer = sentencepiece.SentencePieceProcessor(model_file=str(directory / 'sentencepiece.model'))
+        TRANSLATOR = (engine, tokenizer)
+    engine, tokenizer = TRANSLATOR
+    # Bound input chunks without silently truncating longer source summaries.
+    text = re.sub(r'\bAI\b', 'artificial intelligence', text)
+    tokens = tokenizer.encode(text, out_type=str)
+    chunks = [tokens[i:i + 160] for i in range(0, len(tokens), 160)]
+    results = engine.translate_batch(chunks, beam_size=4, max_decoding_length=512)
+    return ''.join(tokenizer.decode(result.hypotheses[0]) for result in results).strip()
 
 def translate_one(text):
-    """Only use an explicitly configured endpoint; never delay the browser."""
+    global TRANSLATION_UNAVAILABLE
     key = hashlib.sha256(text.encode('utf-8')).hexdigest()
-    if key in TRANSLATIONS:
+    if valid_translation(TRANSLATIONS.get(key), text):
         return TRANSLATIONS[key]
-    endpoint = os.environ.get('TRANSLATE_ENDPOINT')
-    if not endpoint:
+    if TRANSLATION_UNAVAILABLE:
         return ''
     try:
-        r = requests.get(endpoint, params={'client': 'gtx', 'sl': 'en', 'tl': 'zh-CN', 'dt': 't', 'q': text}, timeout=8, headers=HEADERS)
-        if r.ok:
-            data = r.json()
-            result = ''.join(p[0] for p in data[0] if p and p[0])
-            if result and result != text:
-                TRANSLATIONS[key] = result
-                return result
-    except Exception:
-        pass
+        result = translate_offline(translation_text(text))
+        if isinstance(result, str):
+            result = translation_terms(result, text)
+        if valid_translation(result, text):
+            TRANSLATIONS[key] = result
+            return result
+    except Exception as error:
+        TRANSLATION_UNAVAILABLE = True
+        print(f'::warning::Offline translation unavailable ({type(error).__name__}); keeping cached translations and original text')
     return ''
 
 def translate_items_en(items):
-    """翻译 items 中的英文标题（原地修改）"""
-    targets = [it for it in items if is_english(it.get('title', '')) and not it.get('_translated')]
-    if not targets:
-        return
-    translated = 0
-    for it in targets:
-        zh = translate_one(it['title'])
-        if zh:
-            it['titleOriginal'] = it['title']
-            it['title'] = zh
-            it['_translated'] = True
-            translated += 1
-    print(f'  ✓ 翻译 {translated}/{len(targets)} 条')
+    translated = pending = 0
+    for item in items:
+        remaining = []
+        for field, flag in [('title', '_translated'), ('description', '_descTranslated')]:
+            original = item.get(field, '')
+            if not is_english(translation_text(original)):
+                continue
+            zh = translate_one(original)
+            if zh:
+                item[field + 'Original'] = original
+                item[field] = zh
+                item[flag] = True
+                translated += 1
+            else:
+                remaining.append(field)
+                pending += 1
+        if remaining:
+            item['translationPending'] = remaining
+        else:
+            item.pop('translationPending', None)
+    if translated or pending:
+        print(f'  翻译字段：{translated} 完成，{pending} 待处理')
+    return {'translated': translated, 'pending': pending}
 
 # ── 常量 ──────────────────────────────────────────────
 SITE_URL  = 'https://yehloo-ai.github.io/ai-news-station/'

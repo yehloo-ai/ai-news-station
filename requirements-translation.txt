@@ -1,0 +1,5 @@
+# Build-only CPU translation; these packages and model never reach the browser.
+ctranslate2==4.6.0
+sentencepiece==0.2.1
+numpy==2.0.2
+PyYAML==6.0.3

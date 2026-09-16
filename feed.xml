@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:48:50 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>量子位2026人工智能年度榜单，正式启动！</title>
@@ -32,121 +32,121 @@
       <source url="https://www.ifanr.com/1679951?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>Optimal Pruning for Neural Architectures using Fisher Information Distances</title>
+      <title>利用 Fisher 信息距离实现神经网络架构的最优剪枝</title>
       <link>https://arxiv.org/abs/2609.16129</link>
-      <description>arXiv:2609.16129v1 Announce Type: new Abstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space. Pruning a parameter sets its value to zero, representing a displacement of the model to the hypersurface on which that parameter vanishes</description>
+      <description>研究提出一种参数剪枝方法，依据模型空间中的微分几何距离进行推导。将某个参数置零，相当于把模型移动到该参数为零的超平面上。</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16129</guid>
       <source url="https://arxiv.org/abs/2609.16129">ArXiv AI</source>
     </item>
     <item>
-      <title>Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation</title>
+      <title>语言模型的安全纠错：冻结基座，在保留能力的同时进行调整</title>
       <link>https://arxiv.org/abs/2609.16145</link>
-      <description>arXiv:2609.16145v1 Announce Type: new Abstract: We study a practical question: can a small correction module fix errors in a frozen language model's outputs without degrading its base capabilities? We propose CRN v2, a lightweight logit-level correction module (~34M trainable parameters, 0.73% of th</description>
+      <description>研究探讨：一个小型纠错模块能否修正冻结语言模型的输出错误，同时不损害其基础能力？作者提出 CRN v2，一个轻量级 logit 层纠错模块，约含 3400 万个可训练参数……</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16145</guid>
       <source url="https://arxiv.org/abs/2609.16145">ArXiv AI</source>
     </item>
     <item>
-      <title>GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events</title>
+      <title>GPEvac：基于 GNN 和 PPO 的枪击事件自适应疏散路径规划</title>
       <link>https://arxiv.org/abs/2609.16163</link>
-      <description>arXiv:2609.16163v1 Announce Type: new Abstract: The sharp increase in mass shootings underscores an urgent need for systems that guide victims to safety in real time. An effective evacuation system must minimize threat exposure while also accounting for adversarial uncertainty and crowding dynamics.</description>
+      <description>大规模枪击事件增多，凸显了实时引导受困者安全撤离的需求。有效的疏散系统既要尽量降低威胁暴露，也要考虑对抗性不确定因素和人群拥堵的变化。</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16163</guid>
       <source url="https://arxiv.org/abs/2609.16163">ArXiv AI</source>
     </item>
     <item>
-      <title>Position: AI Is Not Ready for Strategic Conflicts</title>
+      <title>观点：AI 尚未准备好应对战略冲突</title>
       <link>https://arxiv.org/abs/2609.16189</link>
-      <description>arXiv:2609.16189v1 Announce Type: new Abstract: Open-ended strategic wargames are high-stakes LM-based social simulations: they model adversaries, institutions, escalation, plan brittleness, doctrine, and crisis response. Language models (LMs) are attractive because they can play agents, generate sc</description>
+      <description>开放式战略兵棋推演是一类基于语言模型的高风险社会模拟，涉及对手、机构、冲突升级、计划脆弱性、战略原则和危机应对。语言模型可以扮演不同参与者，因此受到关注……</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16189</guid>
       <source url="https://arxiv.org/abs/2609.16189">ArXiv AI</source>
     </item>
     <item>
-      <title>Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving</title>
+      <title>先校准，再路由：分离式大模型推理服务中学习式请求路由的实证研究</title>
       <link>https://arxiv.org/abs/2609.16206</link>
-      <description>arXiv:2609.16206v1 Announce Type: new Abstract: Disaggregated LLM serving places compute heavy prefill and memory heavy decode on separate GPU pools. Systems such as DistServe, Splitwise, and Mooncake make this separation fast, but routing still determines which instances handle each request. We stu</description>
+      <description>分离式大模型推理服务将计算密集的预填充阶段和内存密集的解码阶段部署在不同 GPU 池中。DistServe、Splitwise 和 Mooncake 等系统加速了这一分离过程，但请求路由仍决定由哪些实例处理请求……</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16206</guid>
       <source url="https://arxiv.org/abs/2609.16206">ArXiv AI</source>
     </item>
     <item>
-      <title>Causal neural set filtering for online multi-target tracking</title>
+      <title>用于在线多目标跟踪的因果神经集合滤波</title>
       <link>https://arxiv.org/abs/2609.16054</link>
-      <description>arXiv:2609.16054v1 Announce Type: new Abstract: Transformer-based multi-target tracking (MTT) jointly learns data association and state estimation, but MT3/Track-MT3-style trackers repeatedly re-encode measurement windows, incurring redundant computation. We propose Causal Neural Set Filtering (CNSF</description>
+      <description>基于 Transformer 的多目标跟踪联合学习数据关联与状态估计，但 MT3、Track-MT3 一类方法会重复编码测量窗口，产生冗余计算。研究提出因果神经集合滤波（CNSF）……</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16054</guid>
       <source url="https://arxiv.org/abs/2609.16054">ArXiv ML</source>
     </item>
     <item>
-      <title>Managing Action Preconditions in Neuro-Symbolic RL: Three Placement Strategies for Embodied Agents</title>
+      <title>神经符号强化学习中的动作前置条件管理：面向具身智能体的三种部署策略</title>
       <link>https://arxiv.org/abs/2609.16056</link>
-      <description>arXiv:2609.16056v1 Announce Type: new Abstract: Humans carry behaviour knowledge of how to act in familiar situations into every new task rather than relearning it from scratch. There is no reason a Reinforcement Learning (RL) agent shouldn't do the same: known behaviour patterns need not be learned</description>
+      <description>人类在新任务中会运用已有的行为知识，而不是每次都从头学习。作者认为，强化学习智能体也应如此：已知的行为模式不必重新学习。</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16056</guid>
       <source url="https://arxiv.org/abs/2609.16056">ArXiv ML</source>
     </item>
     <item>
-      <title>OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning</title>
+      <title>OmniHarness：通过符号策略学习提升视觉生成的泛化能力</title>
       <link>https://arxiv.org/abs/2609.16057</link>
-      <description>arXiv:2609.16057v1 Announce Type: new Abstract: Unified multimodal large language models (MLLMs) and multi-agent systems have advanced visual generation. However, three limitations remain. (1) Existing methods often distill task-specific experience with limited generalizability. (2) Reflection is of</description>
+      <description>统一的多模态大语言模型与多智能体系统推动了视觉生成，但仍存在三项局限。其中，现有方法常提炼特定任务的经验，泛化能力有限……</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16057</guid>
       <source url="https://arxiv.org/abs/2609.16057">ArXiv ML</source>
     </item>
     <item>
-      <title>Driver Behavior Estimation at Signalized Intersections Using a Physics-Constrained Decision-Conditioned Autoregressive Transformer</title>
+      <title>利用物理约束与决策条件自回归 Transformer 估计信号交叉口的驾驶行为</title>
       <link>https://arxiv.org/abs/2609.16058</link>
-      <description>arXiv:2609.16058v1 Announce Type: new Abstract: Red-light violations and harsh braking at signalized intersections are major contributors to traffic accidents. This paper analyzes and predicts human driver decision-making and longitudinal trajectory behavior during traffic light signal transitions.</description>
+      <description>闯红灯和急刹车是信号交叉口交通事故的重要诱因。论文分析并预测交通信号灯切换期间，人类驾驶员的决策与纵向行驶轨迹。</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16058</guid>
       <source url="https://arxiv.org/abs/2609.16058">ArXiv ML</source>
     </item>
     <item>
-      <title>HintMiner: Automatic Question Hints Mining From Q&amp;A Web Posts with Language Model via Self-Supervised Learning</title>
+      <title>HintMiner：通过自监督语言模型从问答帖子中自动挖掘问题提示</title>
       <link>https://arxiv.org/abs/2609.16060</link>
-      <description>arXiv:2609.16060v1 Announce Type: new Abstract: Users often need ask questions and seek answers online. The Question - Answering (QA) forums such as Stack Overflow cannot always respond to the questions timely and properly. In this paper, we propose HintMiner, a novel automatic question hints mining</description>
+      <description>用户经常在网上提问并寻找答案，但 Stack Overflow 等问答社区并不总能及时、准确地回应。论文提出 HintMiner，一种自动挖掘问题提示的方法……</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.16060</guid>
       <source url="https://arxiv.org/abs/2609.16060">ArXiv ML</source>
     </item>
     <item>
-      <title>Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures</title>
+      <title>少样本性能下降并非表面所见：跨 12 个模型、2 项任务和 2 类架构的实证分析</title>
       <link>https://arxiv.org/abs/2609.15990</link>
-      <description>arXiv:2609.15990v1 Announce Type: new Abstract: Few-shot prompting sometimes degrades language models instead of helping them, but why this happens is unknown. We evaluate 12 open-weight models on two Ukrainian tasks news classification and legal case outcome prediction and find that the effect is s</description>
+      <description>少样本提示有时会降低语言模型的表现，而非带来提升，其原因尚不明确。研究在乌克兰语新闻分类与法律案件结果预测两项任务上评估了 12 个开放权重模型……</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.15990</guid>
       <source url="https://arxiv.org/abs/2609.15990">ArXiv NLP</source>
     </item>
     <item>
-      <title>The Functionalizer: Lossless Functional Decomposition for Subword Tokenization</title>
+      <title>The Functionalizer：面向子词分词的无损功能分解</title>
       <link>https://arxiv.org/abs/2609.15991</link>
-      <description>arXiv:2609.15991v1 Announce Type: new Abstract: Standard subword tokenizers either treat every orthographic variation of a word (such as hello, Hello, HELLO, and H\'ello) as unrelated vocabulary entries, which fragments the embedding space, or discard this variation through lossy normalization. We p</description>
+      <description>标准子词分词器通常把同一词语的不同拼写形式（如 hello、Hello、HELLO）视为互不相关的词表项，导致嵌入空间分散；另一种做法则通过有损归一化舍弃这些差异……</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.15991</guid>
       <source url="https://arxiv.org/abs/2609.15991">ArXiv NLP</source>
     </item>
     <item>
-      <title>Optimal Model Activation Policies for Inference Networks of Large Language Models</title>
+      <title>大语言模型推理网络的最优模型激活策略</title>
       <link>https://arxiv.org/abs/2609.15992</link>
-      <description>arXiv:2609.15992v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) have rendered them necessary for Natural Language Processing (NLP) tasks, and their high inference cost motivates the study of cost-performance trade-offs. In practice, several expert LLMs are used in syn</description>
+      <description>大语言模型已成为自然语言处理任务的重要工具，但较高的推理成本促使研究者探索成本与性能之间的权衡。实践中，多个专家模型会协同使用……</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.15992</guid>
       <source url="https://arxiv.org/abs/2609.15992">ArXiv NLP</source>
     </item>
     <item>
-      <title>Single Document Extractive Summarization using Domination in Hypergraph</title>
+      <title>利用超图支配关系实现单文档抽取式摘要</title>
       <link>https://arxiv.org/abs/2609.15993</link>
-      <description>arXiv:2609.15993v1 Announce Type: new Abstract: Automatic Text Summarization (ATS) in Natural Language Processing has been an important task in Information Retrieval. It compresses a document to create a summary that captures all the relevant and important information conveyed in the document. This</description>
+      <description>自动文本摘要是信息检索中的重要任务：压缩文档，同时保留其中相关且重要的信息。本文研究单文档抽取式摘要……</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.15993</guid>
       <source url="https://arxiv.org/abs/2609.15993">ArXiv NLP</source>
     </item>
     <item>
-      <title>Latent Undertow: How Ordinary Typos Break Probes</title>
+      <title>Latent Undertow：普通拼写错误如何使探针失效</title>
       <link>https://arxiv.org/abs/2609.15994</link>
-      <description>arXiv:2609.15994v1 Announce Type: new Abstract: LLMs handle ordinary typing variation fluently: a typo or missing punctuation leaves both user intent and the model's response substantively unchanged. Yet probes that detect malicious prompts by reading the model's hidden states tell a different story</description>
+      <description>大语言模型通常能够理解拼写错误或缺失标点，用户意图与模型回答大体不变。但通过读取模型隐藏状态来检测恶意提示的探针，可能表现出不同的鲁棒性。</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.15994</guid>
       <source url="https://arxiv.org/abs/2609.15994">ArXiv NLP</source>
