@@ -5,8 +5,56 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:46:20 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude来找双子座 带着自己拿的Docs和幻灯片</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides</link>
+      <description>Claude今天正在获得一对新工具: Docs and Slips。它们会让您通过 Claude 聊天来创建文档和演示文稿,您可以导出,编辑,并与其他用户共享。作为公告的一部分,Anthropic 也在简化 Claude 聊天方式,将常规聊天和 C 合并</description>
+      <pubDate>Wed, 16 Sep 2026 12:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides">The Verge AI</source>
+    </item>
+    <item>
+      <title>Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF</title>
+      <link>https://x.com/bcherny/status/2100260544087535639</link>
+      <description>Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。</description>
+      <pubDate>Wed, 16 Sep 2026 16:28:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bcherny/status/2100260544087535639</guid>
+      <source url="https://x.com/bcherny/status/2100260544087535639">X：Boris Cherny (@bcherny)</source>
+    </item>
+    <item>
+      <title>性感的人工智能驱动 约会应用骗局在这里</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams</link>
+      <description>安全研究员马修·"齐古拉"·戈尔-科尔曼克(Matthew "Zigula" Gore-Kormanik)在分析一个叫多拉的欺诈性约会应用,当时他收到一个弹出口信,说他接到了珍妮弗的电话,根据她的生平,她是一个41岁的萨吉塔里乌斯,头发红发,眼睛蓝,穿孔. 她喜欢音乐,恐怖电影.</description>
+      <pubDate>Wed, 16 Sep 2026 10:45:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams">The Verge AI</source>
+    </item>
+    <item>
+      <title>微软 AI CEO 警告"模型福利"论调</title>
+      <link>https://x.com/mustafasuleyman/status/2100223594534150428</link>
+      <description>微软 AI CEO Mustafa Suleyman 发文反对"模型福利"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。</description>
+      <pubDate>Wed, 16 Sep 2026 14:01:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mustafasuleyman/status/2100223594534150428</guid>
+      <source url="https://x.com/mustafasuleyman/status/2100223594534150428">X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)</source>
+    </item>
+    <item>
+      <title>OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify</title>
+      <link>https://openai.com/index/reimagining-advertising-with-ai</link>
+      <description>OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允许用户在点击广告后与明确标识的商业赞助智能体对话，目前在美国部分广告主中测试。</description>
+      <pubDate>Wed, 16 Sep 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai</guid>
+      <source url="https://openai.com/index/reimagining-advertising-with-ai">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
+    <item>
+      <title>人工智能主管要求监管的简史</title>
+      <link>https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation</link>
+      <description>在过去的几天里,许多站在人工智能上赚出一大笔钱的人都公开同意,现在应该让每个人都在失去控制前慢下来——包括OpenAI CEO萨姆·阿尔特曼,Anthropic CEO达里奥·阿莫代,Google DeepMind联合创始人德米斯·哈萨比斯,微软 CEO萨特雅·纳德拉,</description>
+      <pubDate>Wed, 16 Sep 2026 08:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation</guid>
+      <source url="https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation">The Verge AI</source>
+    </item>
     <item>
       <title>在飞书的上下文底座上，豆包开工了</title>
       <link>http://www.geekpark.net/news/370460</link>
@@ -118,54 +166,6 @@
       <pubDate>Wed, 16 Sep 2026 04:04:59 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1680322?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1680322?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>我和我的 AI 手机吃了 3 顿饭</title>
-      <link>https://www.ifanr.com/1679951?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>把 AI 计算放在最适合计算 AI 的地方去。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 16 Sep 2026 04:04:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1679951?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1679951?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>利用 Fisher 信息距离实现神经网络架构的最优剪枝</title>
-      <link>https://arxiv.org/abs/2609.16129</link>
-      <description>研究提出一种参数剪枝方法，依据模型空间中的微分几何距离进行推导。将某个参数置零，相当于把模型移动到该参数为零的超平面上。</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.16129</guid>
-      <source url="https://arxiv.org/abs/2609.16129">ArXiv AI</source>
-    </item>
-    <item>
-      <title>语言模型的安全纠错：冻结基座，在保留能力的同时进行调整</title>
-      <link>https://arxiv.org/abs/2609.16145</link>
-      <description>研究探讨：一个小型纠错模块能否修正冻结语言模型的输出错误，同时不损害其基础能力？作者提出 CRN v2，一个轻量级 logit 层纠错模块，约含 3400 万个可训练参数……</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.16145</guid>
-      <source url="https://arxiv.org/abs/2609.16145">ArXiv AI</source>
-    </item>
-    <item>
-      <title>GPEvac：基于 GNN 和 PPO 的枪击事件自适应疏散路径规划</title>
-      <link>https://arxiv.org/abs/2609.16163</link>
-      <description>大规模枪击事件增多，凸显了实时引导受困者安全撤离的需求。有效的疏散系统既要尽量降低威胁暴露，也要考虑对抗性不确定因素和人群拥堵的变化。</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.16163</guid>
-      <source url="https://arxiv.org/abs/2609.16163">ArXiv AI</source>
-    </item>
-    <item>
-      <title>观点：AI 尚未准备好应对战略冲突</title>
-      <link>https://arxiv.org/abs/2609.16189</link>
-      <description>开放式战略兵棋推演是一类基于语言模型的高风险社会模拟，涉及对手、机构、冲突升级、计划脆弱性、战略原则和危机应对。语言模型可以扮演不同参与者，因此受到关注……</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.16189</guid>
-      <source url="https://arxiv.org/abs/2609.16189">ArXiv AI</source>
-    </item>
-    <item>
-      <title>先校准，再路由：分离式大模型推理服务中学习式请求路由的实证研究</title>
-      <link>https://arxiv.org/abs/2609.16206</link>
-      <description>分离式大模型推理服务将计算密集的预填充阶段和内存密集的解码阶段部署在不同 GPU 池中。DistServe、Splitwise 和 Mooncake 等系统加速了这一分离过程，但请求路由仍决定由哪些实例处理请求……</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.16206</guid>
-      <source url="https://arxiv.org/abs/2609.16206">ArXiv AI</source>
     </item>
   </channel>
 </rss>
