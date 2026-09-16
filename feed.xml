@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:19:36 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stay on top of the pack with ChatGPT Work.</title>
+      <link>https://www.youtube.com/shorts/DhAsqpjliYw</link>
+      <description>Included in ChatGPT Plus and Pro.</description>
+      <pubDate>Tue, 15 Sep 2026 23:31:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/DhAsqpjliYw</guid>
+      <source url="https://www.youtube.com/shorts/DhAsqpjliYw">OpenAI</source>
+    </item>
     <item>
       <title>社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备</title>
       <link>https://sspai.com/post/114613</link>
@@ -181,14 +189,6 @@ https://www.anthropic.com/news/claude-text-watermark
       <pubDate>Tue, 15 Sep 2026 06:39:55 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1680138?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1680138?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Meta新研究：字节模型蒸馏后，天花板破了</title>
-      <link>https://www.qbitai.com/2026/09/489337.html</link>
-      <description></description>
-      <pubDate>Tue, 15 Sep 2026 06:37:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489337.html</guid>
-      <source url="https://www.qbitai.com/2026/09/489337.html">量子位</source>
     </item>
   </channel>
 </rss>
