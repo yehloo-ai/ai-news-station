@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:09:50 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>跳出交易点 GBT-6 Astra 来完成最模糊、最困难的任务</title>
+      <link>https://www.youtube.com/watch?v=s495saGYWFg</link>
+      <description>在Jump Trading(Jump Trading),LLM研发负责人卢卡斯·贝克(Lucas Baker)看到智能体承担了范围更广、定义更小的工作 — — 从建立整个服务到跨越多个数据源数日来的分析。 他描述的转变:人工智能成为团队日常工作的一部分。</description>
+      <pubDate>Thu, 17 Sep 2026 18:03:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=s495saGYWFg</guid>
+      <source url="https://www.youtube.com/watch?v=s495saGYWFg">OpenAI</source>
+    </item>
+    <item>
+      <title>Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目</title>
+      <link>https://claude.com/blog/projects-redesigned</link>
+      <description>Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。</description>
+      <pubDate>Thu, 17 Sep 2026 17:52:08 +0000</pubDate>
+      <guid isPermaLink="true">https://claude.com/blog/projects-redesigned</guid>
+      <source url="https://claude.com/blog/projects-redesigned">Claude：Blog（网页）</source>
+    </item>
+    <item>
+      <title>Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付</title>
+      <link>https://qwen.ai/blog?id=qwen3.8-omni-flash</link>
+      <description>Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。</description>
+      <pubDate>Thu, 17 Sep 2026 17:18:08 +0000</pubDate>
+      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.8-omni-flash</guid>
+      <source url="https://qwen.ai/blog?id=qwen3.8-omni-flash">Qwen：Blog Retrieval（API）</source>
+    </item>
+    <item>
+      <title>Goodfire Research 发现模型内部信号可规模化检测奖励作弊</title>
+      <link>https://www.goodfire.com/research/reward-hacking-activation-monitors</link>
+      <description>Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。</description>
+      <pubDate>Thu, 17 Sep 2026 16:38:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.goodfire.com/research/reward-hacking-activation-monitors</guid>
+      <source url="https://www.goodfire.com/research/reward-hacking-activation-monitors">Goodfire Research（网页）</source>
+    </item>
+    <item>
+      <title>Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进</title>
+      <link>https://www.dwarkesh.com/p/noam-brown</link>
+      <description>Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。</description>
+      <pubDate>Thu, 17 Sep 2026 15:38:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/noam-brown</guid>
+      <source url="https://www.dwarkesh.com/p/noam-brown">Dwarkesh Patel：Podcast &amp; Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型</title>
+      <link>https://x.com/UnslothAI/status/2100601458458804381</link>
+      <description>Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。</description>
+      <pubDate>Thu, 17 Sep 2026 15:03:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/UnslothAI/status/2100601458458804381</guid>
+      <source url="https://x.com/UnslothAI/status/2100601458458804381">X：Unsloth (@UnslothAI)</source>
+    </item>
+    <item>
+      <title>微软人工智能CEO说人工智能威胁是真实存在的,而Anthropic却让情况更加糟糕.</title>
+      <link>https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude</link>
+      <description>今天,我和微软人工智能首席执行官穆斯塔法·苏莱曼(Mustafa Suleyman)交谈。 正如你毫不怀疑地知道的那样,目前技术领域最大的故事是关于人工智能安全和监管的螺旋式辩论。 毫不奇怪,穆斯塔法对人工智能的构建和监管方式有强烈的看法。</description>
+      <pubDate>Thu, 17 Sep 2026 10:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude</guid>
+      <source url="https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude">The Verge AI</source>
+    </item>
+    <item>
+      <title>人工智能被全球人所畏惧 作为工作的毁灭者</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs</link>
+      <description>皮尤研究发表了新的全球调查,揭示了人们如何看待人工智能,包括对就业、一般生活和收入不平等的影响。 2月8日至5月13日,该调查对37个国家的42 151人提出了质疑,远远早于最近的启示性警告。 大部分人认为人工智能对工作、一般生活和收入不平等有影响。</description>
+      <pubDate>Thu, 17 Sep 2026 10:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs">The Verge AI</source>
+    </item>
     <item>
       <title>Claude Code团队讲究啊，这都往外说</title>
       <link>https://www.qbitai.com/2026/09/491596.html</link>
@@ -14,6 +78,14 @@
       <pubDate>Thu, 17 Sep 2026 11:56:13 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/491596.html</guid>
       <source url="https://www.qbitai.com/2026/09/491596.html">量子位</source>
+    </item>
+    <item>
+      <title>在人工智能安全突然爆炸的世界里</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic</link>
+      <description>在加利福尼亚州伯克利的7月一日阳光灿烂的一天,全国顶尖的人工智能安全研究者聚集在一座没有标志的建筑物的一地上,他们聚集在一起寻找一个"战争室"来解析几小时前震撼了人工智能行业的引人注目的网络安全事件. Unreled OpenAI m.</description>
+      <pubDate>Thu, 17 Sep 2026 07:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic">The Verge AI</source>
     </item>
     <item>
       <title>图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家</title>
@@ -94,78 +166,6 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.17635</guid>
       <source url="https://arxiv.org/abs/2609.17635">ArXiv AI</source>
-    </item>
-    <item>
-      <title>你看不到的仍然是你所学的: 预先注册的60个社团的确认 证据蒙面会驱使组成概论</title>
-      <link>https://arxiv.org/abs/2609.17637</link>
-      <description>限制模块的读取可能改善系统所学会的计算。 我们在预先注册的确认中测试, 共有六十六个四细胞系统共享一个被冻结的语言模型主干线, 并通过学习的连续包进行交流。 Fiv</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.17637</guid>
-      <source url="https://arxiv.org/abs/2609.17637">ArXiv AI</source>
-    </item>
-    <item>
-      <title>只为分歧支付报酬: 与标签- 复杂边界匹配的模型更新认证的无退缩判断</title>
-      <link>https://arxiv.org/abs/2609.17560</link>
-      <description>通过再培训、微调、量化或无声销售商互换,每个生产模式都得到更新,每个更新都有可能比它所取代的更糟糕。 我们正式将更新升级作为经认证的对等风险差异审计。</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.17560</guid>
-      <source url="https://arxiv.org/abs/2609.17560">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Beyond Statistic RAG:关于商品GPU的高效长文推论的可适应的三重计量程序框架</title>
-      <link>https://arxiv.org/abs/2609.17564</link>
-      <description>在NVIDIA T4 (16 GB VRAM)等商品GPU上部署取回-增强生成(RAG),暴露出一种实用的失败模式,我们称之为压缩Paradox:神经即时压缩可以添加密钥值(KV)缓存相通和预处理 la</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.17564</guid>
-      <source url="https://arxiv.org/abs/2609.17564">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Grokking Happens: 分布式用户和没有模块开关的 Fourier 重编码</title>
-      <link>https://arxiv.org/abs/2609.17571</link>
-      <description>在Transformer中,从记忆到通俗化的转变在功能上表现在哪里? 我们引入了过渡游戏-行为相通的精确激活游戏,配对的非通俗控制- 并找到分布式工具增益, 并配以正则</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.17571</guid>
-      <source url="https://arxiv.org/abs/2609.17571">ArXiv ML</source>
-    </item>
-    <item>
-      <title>将算术比喻从档案艺术中剔除:在大都会博物馆档案馆对视野-语言模型的受控审计</title>
-      <link>https://arxiv.org/abs/2609.17572</link>
-      <description>对社会偏见的审计视觉语言模型(VLMs)需要区分直接算法估值差异与嵌入于档案元数据中的混杂者。</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.17572</guid>
-      <source url="https://arxiv.org/abs/2609.17572">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Temperon:第三小墙钟的全时SAM质量</title>
-      <link>https://arxiv.org/abs/2609.17575</link>
-      <description>尖锐感知最小化(SAM)使每个培训步骤的成本翻了一番,但其好处集中在培训结束的地方。 我们研究应当使用哪些昂贵的培训模式,并提出Teperon:前43%的普通SGD探险家。</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.17575</guid>
-      <source url="https://arxiv.org/abs/2609.17575">ArXiv ML</source>
-    </item>
-    <item>
-      <title>增强呼吸道治疗临床说明中LLM-Derived特征的检测功能</title>
-      <link>https://arxiv.org/abs/2609.17532</link>
-      <description>侵入式机械通风是一种救生疗法,但及时、安全中止对于防止抽出故障和相关的健康风险至关重要。</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.17532</guid>
-      <source url="https://arxiv.org/abs/2609.17532">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>在 LLMs 中假冒好和假冒坏: 跨越暗黑三合会人格特质的反应扭曲</title>
-      <link>https://arxiv.org/abs/2609.17534</link>
-      <description>社会可取性和印象管理是人类个性评估中反应失真的普遍来源,然而它们对大语言模型(LLMS)的影响仍然没有得到充分利用。</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.17534</guid>
-      <source url="https://arxiv.org/abs/2609.17534">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>DANTINOX:多PARADIGM语言建模统一框架</title>
-      <link>https://arxiv.org/abs/2609.17535</link>
-      <description>语言生成研究越来越多地跨越了三个范式:自递解码、离散的遮盖扩散和连续的相容。 比较这些范式很困难,因为每个范式都生活在一个单独的代码库中,因此测量的差别经常被重置。</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.17535</guid>
-      <source url="https://arxiv.org/abs/2609.17535">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
