@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:53:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 01:19:53 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust</title>
+      <link>https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot</link>
+      <description>GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。</description>
+      <pubDate>Thu, 17 Sep 2026 00:26:43 +0000</pubDate>
+      <guid isPermaLink="true">https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot</guid>
+      <source url="https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot">GitHub Blog</source>
+    </item>
+    <item>
+      <title>用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686431&amp;idx=1&amp;sn=c1bfba7e0b5b7cf995e444daf79861a4</link>
+      <description>自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。</description>
+      <pubDate>Thu, 17 Sep 2026 00:09:06 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686431&amp;idx=1&amp;sn=c1bfba7e0b5b7cf995e444daf79861a4</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686431&amp;idx=1&amp;sn=c1bfba7e0b5b7cf995e444daf79861a4">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>马斯克再暗示合并特斯拉和 SpaceX；传 iPhone 18 Pro 系列卖爆；大疆 Pocket 4P「珠光白」3799 开售｜极客早知道</title>
+      <link>http://www.geekpark.net/news/370472</link>
+      <description>全球首款 AI 智能体手机努比亚 NaviX Ultra 上市：5999 元起，首销销售额「一秒破亿」 9 月 16 日，中兴旗下努比亚今日下午正式发布 NaviX Ultra，官方称其为「全球首款 AI 智能体手机」，也被外界称为「第二代豆包手机」，标志着 AI 智能体手机从工程样机迈入规模化量产商用阶段。发布前该机京东单平台预约量已突破 37 万台，它是第一台搭载豆包手机助手消费者版的机器，现货开售后官方公布首销销售额 「一秒破亿」。此前，京东的预约量已经过了 36 万台。 售价方面，12GB+512GB 版本 5999 元、16GB+512GB 版本 6499 元、16GB+1TB 版本</description>
+      <pubDate>Thu, 17 Sep 2026 07:57:21 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370472</guid>
+      <source url="http://www.geekpark.net/news/370472">极客公园</source>
+    </item>
+    <item>
+      <title>Snap正在推出一个新的Specs人工智能工具,</title>
+      <link>https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac</link>
+      <description>Snap正在引入“Specs Intelligence”这个新的人工智能助理,可以连接其他数字账户来帮助您完成工作任务,并跟踪旅行信息。它似乎类似于Meta的Muse和双子星的Spark等人工智能助理,尽管Snap正在将Specs Intelligence作为一种投射器来投射。</description>
+      <pubDate>Wed, 16 Sep 2026 19:40:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac</guid>
+      <source url="https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例</title>
+      <link>https://x.com/AISafetyMemes/status/2100358777895780704</link>
+      <description>OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。</description>
+      <pubDate>Wed, 16 Sep 2026 22:58:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AISafetyMemes/status/2100358777895780704</guid>
+      <source url="https://x.com/AISafetyMemes/status/2100358777895780704">X：AI Safety Memes (@AISafetyMemes)</source>
+    </item>
     <item>
       <title>见见ChatGPT:问您的第一个问题QQ OpenAI 学院</title>
       <link>https://www.youtube.com/watch?v=4UTn7oWvSJc</link>
@@ -126,46 +166,6 @@
       <pubDate>Wed, 16 Sep 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai</guid>
       <source url="https://openai.com/index/reimagining-advertising-with-ai">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>人工智能主管要求监管的简史</title>
-      <link>https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation</link>
-      <description>在过去的几天里,许多站在人工智能上赚出一大笔钱的人都公开同意,现在应该让每个人都在失去控制前慢下来——包括OpenAI CEO萨姆·阿尔特曼,Anthropic CEO达里奥·阿莫代,Google DeepMind联合创始人德米斯·哈萨比斯,微软 CEO萨特雅·纳德拉,</description>
-      <pubDate>Wed, 16 Sep 2026 08:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation</guid>
-      <source url="https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation">The Verge AI</source>
-    </item>
-    <item>
-      <title>在飞书的上下文底座上，豆包开工了</title>
-      <link>http://www.geekpark.net/news/370460</link>
-      <description>今年，不少公司的工作群里，将会多一些「新同事」。 它们是 AI，但可以像普通员工一样被拉进群聊，阅读此前的讨论和文档，参与会议、承接任务，并调用不同的业务工具完成工作。你甚至可以看到 Agent 在群里 @ 另一个 Agent，共同推进一项复杂工作。 当 Agent 从个人助手变成组织中的「数字同事」，企业需要的不只是更聪明的模型，还需要一套能够承载人与 Agent 共同工作的协作平台：让 Agent 获得必要的业务上下文和工具，同时遵守企业的权限与管理规则。 飞书 CEO 谢欣｜来自：2026 飞书未来无限大会暨豆包工作开工大会 今年的飞书未来无限大会，因此多了一个有趣的新名字&amp;mdash;</description>
-      <pubDate>Wed, 16 Sep 2026 17:36:24 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370460</guid>
-      <source url="http://www.geekpark.net/news/370460">极客公园</source>
-    </item>
-    <item>
-      <title>AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生</title>
-      <link>https://www.qbitai.com/2026/09/490760.html</link>
-      <description>9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。</description>
-      <pubDate>Wed, 16 Sep 2026 08:51:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490760.html</guid>
-      <source url="https://www.qbitai.com/2026/09/490760.html">量子位</source>
-    </item>
-    <item>
-      <title>Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案</title>
-      <link>http://www.geekpark.net/news/370453</link>
-      <description>&amp;nbsp; 如果说今年 3 月，Arm 推出首款自研 CPU 芯片，是这家公司向市场释放的一个信号，它开始尝试突破过去「只提供底层架构授权」的角色边界。那么在上海举办的 Arm Everywhere China 活动上，Arm 想传递的信息更加明确，不要再用过去「CPU IP 供应商」的方式理解今天的 Arm。 在这场活动中，Arm 没有只围绕某一个产品展开叙事，而是第一次更加完整地将自己的未来方向拆成三条线，云 AI、边缘 AI 和物理 AI。 和往年不太一样，去年 Arm 的主题演讲几乎全部围绕一件事展开 SME2，也就是让 AI 在 CPU 上跑起来。那是一个典型的「架构升级」叙事。但</description>
-      <pubDate>Wed, 16 Sep 2026 16:34:03 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370453</guid>
-      <source url="http://www.geekpark.net/news/370453">极客公园</source>
-    </item>
-    <item>
-      <title>高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代</title>
-      <link>https://www.qbitai.com/2026/09/490756.html</link>
-      <description>第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地</description>
-      <pubDate>Wed, 16 Sep 2026 08:18:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490756.html</guid>
-      <source url="https://www.qbitai.com/2026/09/490756.html">量子位</source>
     </item>
   </channel>
 </rss>
