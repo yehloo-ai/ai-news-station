@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:37:04 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 和 微软知道他们正在为网络启动一个“圈子 ”</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</link>
+      <description>最近纽约时报对OpenAI和微软的起诉中未封存的法院文件相当令人发指。 公司自己的文件警告说,它正在开始一个会破坏网络的"死环",并说它为了训练模型而刮去的数据是“最大的窃取劳工一号”</description>
+      <pubDate>Fri, 18 Sep 2026 17:07:24 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元</title>
+      <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
+      <description>Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。</description>
+      <pubDate>Fri, 18 Sep 2026 20:21:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
+      <source url="https://www.anthropic.com/news/accenture-embedded-evaluation">Anthropic：Newsroom（网页）</source>
+    </item>
+    <item>
+      <title>Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争</title>
+      <link>https://garymarcus.substack.com/p/the-real-reason-trump-is-standing</link>
+      <description>Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称"几乎引发战争"。</description>
+      <pubDate>Fri, 18 Sep 2026 19:52:12 +0000</pubDate>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/the-real-reason-trump-is-standing</guid>
+      <source url="https://garymarcus.substack.com/p/the-real-reason-trump-is-standing">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
+    </item>
+    <item>
+      <title>弗吉尼亚州长建立了一个人工智能工作组 并采取行动限制数据中心</title>
+      <link>https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force</link>
+      <description>弗吉尼亚州政府(Virginia Gov. Abigail Spanberger)命令州政府采取措施,赋予当地社区在数据中心开发中拥有更大发言权的权力,并减缓已经是世界数据中心首都的州批准的速度。</description>
+      <pubDate>Fri, 18 Sep 2026 14:29:17 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force</guid>
+      <source url="https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force">The Verge AI</source>
+    </item>
     <item>
       <title>Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽</title>
       <link>https://www.oneusefulthing.org/p/the-overhang</link>
@@ -14,6 +46,30 @@
       <pubDate>Fri, 18 Sep 2026 17:54:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.oneusefulthing.org/p/the-overhang</guid>
       <source url="https://www.oneusefulthing.org/p/the-overhang">Ethan Mollick：One Useful Thing（RSS）</source>
+    </item>
+    <item>
+      <title>美军因 AI 幻觉情报报告险些拦截中国船只</title>
+      <link>https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</link>
+      <description>据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船只运输核武器部件，美军一度准备武装登船拦截，行动前才发现报告内容完全不实。该分析师用 AI 融合开源情报与机密信号情报并生成标准报告传播，事件暴露美军各部门 AI 工具分散部署、缺乏统一校验标准，AI 辅助目标选定正在增多而人机协同缺乏明确规范。</description>
+      <pubDate>Fri, 18 Sep 2026 17:28:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</guid>
+      <source url="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship">Hacker News：AI 热帖</source>
+    </item>
+    <item>
+      <title>Gavin Newsom在推动人工智能杀人开关</title>
+      <link>https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch</link>
+      <description>加利福尼亚州政府(Gavin Newsom (D))正在定位该州率先进行人工智能监督,包括授权边境模型"杀开关"的可能性,周五发布新的行政命令. Newsom的命令指示该州召集一个专家小组,以提供建议.</description>
+      <pubDate>Fri, 18 Sep 2026 13:04:51 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch</guid>
+      <source url="https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch">The Verge AI</source>
+    </item>
+    <item>
+      <title>好莱坞对存在人工智能警告的看法</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings</link>
+      <description>随着科技部门发出对人工智能破坏人类潜力的警报,娱乐劳工团体正在敦促公众继续关注已经发生的事情。 Verge向迪士尼、Netflix、亚马逊、狮子门和其他已经开始使用人工智能的摄影棚以及电影初创公司伸出援手。</description>
+      <pubDate>Fri, 18 Sep 2026 12:35:19 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings">The Verge AI</source>
     </item>
     <item>
       <title>Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击</title>
@@ -110,62 +166,6 @@
       <pubDate>Fri, 18 Sep 2026 09:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.8-livetranslate</guid>
       <source url="https://qwen.ai/blog?id=qwen3.8-livetranslate">Qwen：Blog Retrieval（API）</source>
-    </item>
-    <item>
-      <title>3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户</title>
-      <link>https://x.com/haider1/status/2100848578340220987</link>
-      <description>一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。</description>
-      <pubDate>Fri, 18 Sep 2026 07:25:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haider1/status/2100848578340220987</guid>
-      <source url="https://x.com/haider1/status/2100848578340220987">X：Haider (@haider1)</source>
-    </item>
-    <item>
-      <title>DeepSeek 的疯狂新建筑</title>
-      <link>https://www.youtube.com/watch?v=vIHw_2VjSUw</link>
-      <description>https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5. 1 标签 at 3:23应该是 Opus 5. 道歉! 资料来源:https://x.com/flowith/status/209944</description>
-      <pubDate>Fri, 18 Sep 2026 07:03:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=vIHw_2VjSUw</guid>
-      <source url="https://www.youtube.com/watch?v=vIHw_2VjSUw">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>iPhone 18 Pro 系列正式开售，新 AI 功能「自相矛盾」</title>
-      <link>https://www.ifanr.com/1680844?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>未来，摄像头要抢在任何算法介入之前，证明「以上像素来自我」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 18 Sep 2026 04:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1680844?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1680844?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>常规的振动时间差-偏差学习:常态化下的稳定</title>
-      <link>https://arxiv.org/abs/2609.19170</link>
-      <description>刻度时间偏差学习(ETD)稳定了预期的不策略时间偏差更新并改变其投影几何,但两者都不决定恒序大小的抽样动态。我们构建了一个ergoditional two-state反例,其中</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19170</guid>
-      <source url="https://arxiv.org/abs/2609.19170">ArXiv AI</source>
-    </item>
-    <item>
-      <title>BioPhys-Bridge:物理学全方位生物研究跨学科科学理由基准</title>
-      <link>https://arxiv.org/abs/2609.19180</link>
-      <description>语言模型在分析跨学科科学研究文献方面面临独特的挑战。 在生物物理学研究中,忠实的答案需要在源证据中将观测到的数据定位,通过定量物理模型对其进行解释。</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19180</guid>
-      <source url="https://arxiv.org/abs/2609.19180">ArXiv AI</source>
-    </item>
-    <item>
-      <title>我们期望LLMs做什么? 绘制 LLM 基准的设计图</title>
-      <link>https://arxiv.org/abs/2609.19182</link>
-      <description>基准对于如何评估和传播大语言模型(LLMs)的进展至关重要,但单靠模型排名就看不出评价要求本身如何变化。</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19182</guid>
-      <source url="https://arxiv.org/abs/2609.19182">ArXiv AI</source>
-    </item>
-    <item>
-      <title>位置: 是使用自演操作系统层虚拟化基础模型的时候了</title>
-      <link>https://arxiv.org/abs/2609.19203</link>
-      <description>人工智能应用已经从单一的单一基础模型(FM)转移到复合代理系统。 然而,今天的堆积仍然支离破碎:即使协议(如MCP,A2A)简化工具/代理连接,每个框架都嵌入一个隐含的运行时段fo</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19203</guid>
-      <source url="https://arxiv.org/abs/2609.19203">ArXiv AI</source>
     </item>
   </channel>
 </rss>
