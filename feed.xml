@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:24:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:21:05 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽</title>
+      <link>https://www.oneusefulthing.org/p/the-overhang</link>
+      <description>Ethan Mollick 撰文指出 GPT-6 Astra 和 Fable 5.1 已能可靠完成数周量级的人类工作，但大多数人远未用尽其能力，形成能力悬差。</description>
+      <pubDate>Fri, 18 Sep 2026 17:54:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.oneusefulthing.org/p/the-overhang</guid>
+      <source url="https://www.oneusefulthing.org/p/the-overhang">Ethan Mollick：One Useful Thing（RSS）</source>
+    </item>
+    <item>
+      <title>Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击</title>
+      <link>https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually</link>
+      <description>Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。</description>
+      <pubDate>Fri, 18 Sep 2026 16:29:57 +0000</pubDate>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually</guid>
+      <source url="https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
+    </item>
+    <item>
+      <title>安全研究者利用克劳德帮助他们入侵OpenAI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist</link>
+      <description>由哈克特隆的三名独立安全研究人员组成的一个小组说,他们用Anthropic的Claude Opus 4.8和5入侵OpenAI的雇员账户需要不到72小时,他们能够访问OpenAI的GitHub仓库,名为"Monorepo",该仓库报告了</description>
+      <pubDate>Fri, 18 Sep 2026 11:30:16 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist">The Verge AI</source>
+    </item>
+    <item>
+      <title>《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩</title>
+      <link>https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft</link>
+      <description>《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。</description>
+      <pubDate>Fri, 18 Sep 2026 15:27:29 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft</guid>
+      <source url="https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft">The Decoder：AI News（RSS）</source>
+    </item>
     <item>
       <title>AI 硬件创业者，疯狂涌入手机的背面</title>
       <link>http://www.geekpark.net/news/370610</link>
@@ -14,22 +46,6 @@
       <pubDate>Fri, 18 Sep 2026 22:07:09 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/370610</guid>
       <source url="http://www.geekpark.net/news/370610">极客公园</source>
-    </item>
-    <item>
-      <title>研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金</title>
-      <link>https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai</link>
-      <description>Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。</description>
-      <pubDate>Fri, 18 Sep 2026 14:00:14 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai</guid>
-      <source url="https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始</title>
-      <link>https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence</link>
-      <description>Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。</description>
-      <pubDate>Fri, 18 Sep 2026 13:38:06 +0000</pubDate>
-      <guid isPermaLink="true">https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence</guid>
-      <source url="https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence">Tessl：产品与工程博客</source>
     </item>
     <item>
       <title>使用 ChatGPT 工作进行语义层的地面分析</title>
@@ -88,6 +104,14 @@
       <source url="http://www.geekpark.net/news/370603">极客公园</source>
     </item>
     <item>
+      <title>Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒</title>
+      <link>https://qwen.ai/blog?id=qwen3.8-livetranslate</link>
+      <description>Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。</description>
+      <pubDate>Fri, 18 Sep 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.8-livetranslate</guid>
+      <source url="https://qwen.ai/blog?id=qwen3.8-livetranslate">Qwen：Blog Retrieval（API）</source>
+    </item>
+    <item>
       <title>3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户</title>
       <link>https://x.com/haider1/status/2100848578340220987</link>
       <description>一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。</description>
@@ -98,7 +122,7 @@
     <item>
       <title>DeepSeek 的疯狂新建筑</title>
       <link>https://www.youtube.com/watch?v=vIHw_2VjSUw</link>
-      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies! Sources: https://x.com/flowith/status/209944</description>
+      <description>https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5. 1 标签 at 3:23应该是 Opus 5. 道歉! 资料来源:https://x.com/flowith/status/209944</description>
       <pubDate>Fri, 18 Sep 2026 07:03:46 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=vIHw_2VjSUw</guid>
       <source url="https://www.youtube.com/watch?v=vIHw_2VjSUw">Two Minute Papers</source>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.19203</guid>
       <source url="https://arxiv.org/abs/2609.19203">ArXiv AI</source>
-    </item>
-    <item>
-      <title>当前系统归纳任务失败吗? 以理性为中心的分析</title>
-      <link>https://arxiv.org/abs/2609.19212</link>
-      <description>系统概括,即通过重新组合已知原子元素来解决新问题的能力,是人类智能的核心,但在受控环境下难以严格研究。</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19212</guid>
-      <source url="https://arxiv.org/abs/2609.19212">ArXiv AI</source>
-    </item>
-    <item>
-      <title>通过意向覆盖和查询级信用分配进行基因查询建议</title>
-      <link>https://arxiv.org/abs/2609.19209</link>
-      <description>基因查询建议旨在通过预测用户意图和推荐相关后续查询来增强用户参与,一个中心挑战是生成其个别查询有用的单项,而单项涵盖不同意图。</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19209</guid>
-      <source url="https://arxiv.org/abs/2609.19209">ArXiv ML</source>
-    </item>
-    <item>
-      <title>为高效 LLM 压缩而逐层学习课程</title>
-      <link>https://arxiv.org/abs/2609.19213</link>
-      <description>在本文中,我们引入了分层课程学习,以高效的LLM压缩. 拟采用的方法促进从教师模式到学生模式的知识转移,使用从easi开始的课程学习方法.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19213</guid>
-      <source url="https://arxiv.org/abs/2609.19213">ArXiv ML</source>
     </item>
   </channel>
 </rss>
