@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 04:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:38:38 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>那个教 ChatGPT 说话的人，做了一个「哑巴」模型</title>
+      <link>http://www.geekpark.net/news/370603</link>
+      <description>作者｜桦林舞王 编辑｜靖宇 &amp;nbsp; AI 圈子里最懂怎么让模型「开口聊天」的人，现在决定剥夺大模型的语言能力。 这位前 OpenAI 研究员、ChatGPT 的共同发明者 Diogo Almeida，在潜行两年后带着他的新公司 TypeSafe AI 和 4000 万美元融资回到牌桌。他们发布的全新模型 Jev， 既不能写打工人的周报，也不能陪用户深夜长聊。它甚至连一个标点符号都吐不出来 。 TypeSafe 创始人 Diogo Almeida｜图片来源：X 这是一个反常识的时刻。过去三年，全行业都在教大模型怎么学会像人类一样「慢思考」，各家实验室拼命拉长推理链条，让模型在给出答案前默默</description>
+      <pubDate>Fri, 18 Sep 2026 17:36:47 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370603</guid>
+      <source url="http://www.geekpark.net/news/370603">极客公园</source>
+    </item>
+    <item>
+      <title>3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户</title>
+      <link>https://x.com/haider1/status/2100848578340220987</link>
+      <description>一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。</description>
+      <pubDate>Fri, 18 Sep 2026 07:25:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haider1/status/2100848578340220987</guid>
+      <source url="https://x.com/haider1/status/2100848578340220987">X：Haider (@haider1)</source>
+    </item>
+    <item>
+      <title>新的深渊是巨大的 不知怎么的微小</title>
+      <link>https://www.youtube.com/watch?v=vIHw_2VjSUw</link>
+      <description>https://www.deepseek.com/en/news/deepseek-v4-1-flash/ 资料来源:https://x.com/flowit/status/2099446892174406055/video/1 https://x.com/loktar00/status/2097761803291726</description>
+      <pubDate>Fri, 18 Sep 2026 07:03:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vIHw_2VjSUw</guid>
+      <source url="https://www.youtube.com/watch?v=vIHw_2VjSUw">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号</title>
+      <link>https://www.hacktron.ai/blog/hacking-openai</link>
+      <description>Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。</description>
+      <pubDate>Fri, 18 Sep 2026 04:45:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.hacktron.ai/blog/hacking-openai</guid>
+      <source url="https://www.hacktron.ai/blog/hacking-openai">Hacker News 热门（buzzing.cc 中文翻译）</source>
+    </item>
     <item>
       <title>iPhone 18 Pro 系列正式开售，新 AI 功能「自相矛盾」</title>
       <link>https://www.ifanr.com/1680844?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -134,38 +166,6 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.19152</guid>
       <source url="https://arxiv.org/abs/2609.19152">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>刚刚，Claude Code大重构！内部3万Agent管理技术免费开放</title>
-      <link>https://www.qbitai.com/2026/09/491711.html</link>
-      <description>Git白学了？？？</description>
-      <pubDate>Fri, 18 Sep 2026 00:34:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/491711.html</guid>
-      <source url="https://www.qbitai.com/2026/09/491711.html">量子位</source>
-    </item>
-    <item>
-      <title>影视飓风 Tim 称 iPhone Duo「烫到握不住」；赛力斯否认「问界撤出华为门店」；黄仁勋：英伟达 2027 年芯片销量将翻倍</title>
-      <link>http://www.geekpark.net/news/370539</link>
-      <description>传 Manus 即将完成 5 亿美元融资，估值 40 亿美元 据彭博社 9 月 17 日报道，AI 智能体公司 Manus 即将完成 5 亿美元融资。这是该公司撤销 Meta 收购交易后的首轮融资。 报道表示：在新一轮融资中，Manus 的估值将提高一倍，至 40 亿美元。这家 AI 智能体公司也将成为该领域中国估值最高的创业公司。 知情人士称，谈判仍在进行中，交易条款仍可能变化。 Manus 的现有投资方包括腾讯控股、红杉中国和真格基金。截至发稿，Manus、腾讯、红杉中国和真格基金均未回应置评请求。（来源：凤凰网科技） 地瓜机器人宣布完成 4 亿美元 C 轮融资 9 月 17 日，地瓜机器</description>
-      <pubDate>Fri, 18 Sep 2026 08:17:15 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370539</guid>
-      <source url="http://www.geekpark.net/news/370539">极客公园</source>
-    </item>
-    <item>
-      <title>TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686475&amp;idx=1&amp;sn=1d9d43036b6d72fd83b9d5658b351215</link>
-      <description>TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。</description>
-      <pubDate>Fri, 18 Sep 2026 00:08:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686475&amp;idx=1&amp;sn=1d9d43036b6d72fd83b9d5658b351215</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686475&amp;idx=1&amp;sn=1d9d43036b6d72fd83b9d5658b351215">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势</title>
-      <link>https://www.ifanr.com/1680525?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· OpenAI 将定期披露模型异常行为，首批公开 6 份报告 · 华为昇腾 960 提前至明年一季度推出，超节点扩至 4096 卡 · 恒大汽车退出汽车制造，上半年转向电池贸易#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 18 Sep 2026 00:04:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1680525?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1680525?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
