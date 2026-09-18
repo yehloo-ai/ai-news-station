@@ -238,5 +238,13 @@
     "sourceUrl": "https://x.com/mustafasuleyman/status/2100223594534150428",
     "sourceName": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+    "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+    "sourceUrl": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+    "sourceName": "Qwen：Blog Retrieval（API）",
+    "reviewReason": "awaiting-review"
   }
 ]
