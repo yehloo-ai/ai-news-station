@@ -5,8 +5,80 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:38:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 14:24:41 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 硬件创业者，疯狂涌入手机的背面</title>
+      <link>http://www.geekpark.net/news/370610</link>
+      <description>头图来源：产品小红书账号、官网 &amp;nbsp; 过去一年，AI 硬件创业者开始扎堆手机背面。 Plaud 的 AI 录音卡累计出货突破百万台。2026 年 6 月，Plaud 宣布 ARR 达到 1 亿美元、服务超过 200 万专业用户；截至 9 月，公司最新披露的全球用户数已超过 250 万。另一边，做磁吸电子纸屏的阅星曈完成近 5000 万元 A 轮追加融资，顺为、经纬、博裕和小红书等老股东继续跟投；极稚科技则称，其无源墨水屏手机壳已经卖出超过 14 万只，其中八成销往海外。 销量和融资之外，新的产品还在不断冒出来。Flowtica 在 IFA 展出集录音、电子纸和会议待办于一体的 Vers</description>
+      <pubDate>Fri, 18 Sep 2026 22:07:09 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370610</guid>
+      <source url="http://www.geekpark.net/news/370610">极客公园</source>
+    </item>
+    <item>
+      <title>研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金</title>
+      <link>https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai</link>
+      <description>Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。</description>
+      <pubDate>Fri, 18 Sep 2026 14:00:14 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai</guid>
+      <source url="https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始</title>
+      <link>https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence</link>
+      <description>Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。</description>
+      <pubDate>Fri, 18 Sep 2026 13:38:06 +0000</pubDate>
+      <guid isPermaLink="true">https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence</guid>
+      <source url="https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence">Tessl：产品与工程博客</source>
+    </item>
+    <item>
+      <title>使用 ChatGPT 工作进行语义层的地面分析</title>
+      <link>https://www.youtube.com/watch?v=bbNTY8O0GTY</link>
+      <description>您的数据智能体需要了解您的业务如何定义其度量。 OpenAI 的数据团队在此剪辑中解释了语义层如何将关键实体、度量定义、过滤器和已知的陷阱结合在一起。 看看为什么专家审查很重要,如何重新使用现有的语义工作,以及为什么</description>
+      <pubDate>Fri, 18 Sep 2026 13:28:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=bbNTY8O0GTY</guid>
+      <source url="https://www.youtube.com/watch?v=bbNTY8O0GTY">OpenAI</source>
+    </item>
+    <item>
+      <title>使用 ChatGPT 工作从商业问题中构建仪表板</title>
+      <link>https://www.youtube.com/watch?v=GzCsKuDgr6Q</link>
+      <description>从您团队需要回答的问题开始: 产品采纳如何改变 ? 此 ChatGPT 工作演示显示一个采纳仪表板的提示和准备的结果 : 交互式漏斗、 客户部分视图, 以及对重复数据更新的控制 。 它使用合成数据并经过编辑</description>
+      <pubDate>Fri, 18 Sep 2026 13:27:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=GzCsKuDgr6Q</guid>
+      <source url="https://www.youtube.com/watch?v=GzCsKuDgr6Q">OpenAI</source>
+    </item>
+    <item>
+      <title>使用 ChatGPT 工作为每个利害关系方定制仪表板</title>
+      <link>https://www.youtube.com/watch?v=Wb8MhkpQpX8</link>
+      <description>给利益相关方一个符合他们需要做出的决定的业务视图。 注意这个 ChatGPT 工作演示 适应仪表板标签和图表类型, 探索 KPI , 钻入计算需求 。 它用合成数据来显示如何裁剪仪表板, 并探索商业 perfo 背后的细节 。</description>
+      <pubDate>Fri, 18 Sep 2026 13:27:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Wb8MhkpQpX8</guid>
+      <source url="https://www.youtube.com/watch?v=Wb8MhkpQpX8">OpenAI</source>
+    </item>
+    <item>
+      <title>使用 ChatGPT 工作帮助团队回答自己的数据问题</title>
+      <link>https://www.youtube.com/watch?v=euED8JRunBA</link>
+      <description>帮助更多的人调查商业问题,而不通过数据小组处理每个问题。在这段短片中,OpenAI的数据小组解释了为数据代理建立可靠基础如何帮助同事探索他们自己的问题。听一听自助分析背后的方法。</description>
+      <pubDate>Fri, 18 Sep 2026 13:25:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=euED8JRunBA</guid>
+      <source url="https://www.youtube.com/watch?v=euED8JRunBA">OpenAI</source>
+    </item>
+    <item>
+      <title>Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明</title>
+      <link>https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai</link>
+      <description>Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。</description>
+      <pubDate>Fri, 18 Sep 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai</guid>
+      <source url="https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai">Trail of Bits：AI安全研究</source>
+    </item>
+    <item>
+      <title>逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS</title>
+      <link>https://tokenstead.ai/guides/zcode-silent-git-history-upload</link>
+      <description>开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。</description>
+      <pubDate>Fri, 18 Sep 2026 10:35:28 +0000</pubDate>
+      <guid isPermaLink="true">https://tokenstead.ai/guides/zcode-silent-git-history-upload</guid>
+      <source url="https://tokenstead.ai/guides/zcode-silent-git-history-upload">Hacker News：AI 热帖</source>
+    </item>
     <item>
       <title>那个教 ChatGPT 说话的人，做了一个「哑巴」模型</title>
       <link>http://www.geekpark.net/news/370603</link>
@@ -24,20 +96,12 @@
       <source url="https://x.com/haider1/status/2100848578340220987">X：Haider (@haider1)</source>
     </item>
     <item>
-      <title>新的深渊是巨大的 不知怎么的微小</title>
+      <title>DeepSeek 的疯狂新建筑</title>
       <link>https://www.youtube.com/watch?v=vIHw_2VjSUw</link>
-      <description>https://www.deepseek.com/en/news/deepseek-v4-1-flash/ 资料来源:https://x.com/flowit/status/2099446892174406055/video/1 https://x.com/loktar00/status/2097761803291726</description>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies! Sources: https://x.com/flowith/status/209944</description>
       <pubDate>Fri, 18 Sep 2026 07:03:46 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=vIHw_2VjSUw</guid>
       <source url="https://www.youtube.com/watch?v=vIHw_2VjSUw">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号</title>
-      <link>https://www.hacktron.ai/blog/hacking-openai</link>
-      <description>Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。</description>
-      <pubDate>Fri, 18 Sep 2026 04:45:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hacktron.ai/blog/hacking-openai</guid>
-      <source url="https://www.hacktron.ai/blog/hacking-openai">Hacker News 热门（buzzing.cc 中文翻译）</source>
     </item>
     <item>
       <title>iPhone 18 Pro 系列正式开售，新 AI 功能「自相矛盾」</title>
@@ -102,70 +166,6 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.19213</guid>
       <source url="https://arxiv.org/abs/2609.19213">ArXiv ML</source>
-    </item>
-    <item>
-      <title>高效分发长文本传播语言模式培训的块平行性</title>
-      <link>https://arxiv.org/abs/2609.19242</link>
-      <description>块传播语言模型(BDLMs)将跨块的自递性依赖性与块内的平行去诺性结合起来,但长编文字训练受到分布式关注交流和激活内存的限制. 常规背景</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19242</guid>
-      <source url="https://arxiv.org/abs/2609.19242">ArXiv ML</source>
-    </item>
-    <item>
-      <title>随机 SVD 语言文档矩阵的光谱共聚</title>
-      <link>https://arxiv.org/abs/2609.19243</link>
-      <description>光谱共聚是发现文字文件矩阵中潜在结构的有用工具,但其依赖单值分解(SVD)可以使标准配体在高维数据上变得昂贵.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19243</guid>
-      <source url="https://arxiv.org/abs/2609.19243">ArXiv ML</source>
-    </item>
-    <item>
-      <title>无线电-频率革命神经网络</title>
-      <link>https://arxiv.org/abs/2609.19279</link>
-      <description>人工智能(人工智能)模型直接运行在智能手机,可穿戴器,无人机等边缘设备上,提供低潜度,普遍可伸缩性和数据隐私,但这些设备很少具有现代神经网W的计算能力.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19279</guid>
-      <source url="https://arxiv.org/abs/2609.19279">ArXiv ML</source>
-    </item>
-    <item>
-      <title>机动性和犹豫性识别模式差异变换器</title>
-      <link>https://arxiv.org/abs/2609.19148</link>
-      <description>异常和犹豫状态(A/H)是个人通过面部、声部和语言渠道表达自相矛盾信号的具有情感的状态。 在临床视频中自动识别A/H需要检测跨模式的分歧 — — s。</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19148</guid>
-      <source url="https://arxiv.org/abs/2609.19148">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>潜意识催化超越静态几何:因子深度和多孔裂缝</title>
-      <link>https://arxiv.org/abs/2609.19149</link>
-      <description>潜心学习显示,语言模型可以通过与其无关的输出来传递隐藏的特性。一个拟议解释、符号缠绕、通过模型输出词汇将动物和数字符号连接起来。然而,已有的 mea</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19149</guid>
-      <source url="https://arxiv.org/abs/2609.19149">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>采样启示录样式:无监督,无培训发现 LLM 激活中的快速条件定型轴</title>
-      <link>https://arxiv.org/abs/2609.19150</link>
-      <description>大型语言模型(LLMS)在其隐藏的激活中编码了丰富的样式结构,但发现哪些样式维度对于给定的提示是显著的,通常需要有监督的对比数据。我们呈现一个无训练的,即时的condi。</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19150</guid>
-      <source url="https://arxiv.org/abs/2609.19150">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>用户对基因人工智能的看法:App Store Reviews中的跨Platform NLP对信任和Friction的分析</title>
-      <link>https://arxiv.org/abs/2609.19151</link>
-      <description>基因人工智能(GenAI)应用已经实现了快速的消费者应用,然而,几乎没有大规模研究来审查用户所了解的质量、信任和收养障碍。 我们为6个应用商店审查提供了首批交叉应用分析。</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19151</guid>
-      <source url="https://arxiv.org/abs/2609.19151">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>假的Spotter: 内容和战略不可知的Viral 错误信息检测工具</title>
-      <link>https://arxiv.org/abs/2609.19152</link>
-      <description>错误信息检测工具往往依赖于二进制真实和虚假的分类或对历史实例进行培训的模型,在新颖的误导性叙事出现时限制其用途。 在这里,我们介绍一个内容和战略不可知的假数据(FakeSpotter)</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19152</guid>
-      <source url="https://arxiv.org/abs/2609.19152">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
