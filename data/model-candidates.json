@@ -246,5 +246,13 @@
     "sourceUrl": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
     "sourceName": "Qwen：Blog Retrieval（API）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
+    "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker–Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
+    "sourceUrl": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
+    "sourceName": "Qwen：Blog Retrieval（API）",
+    "reviewReason": "awaiting-review"
   }
 ]
