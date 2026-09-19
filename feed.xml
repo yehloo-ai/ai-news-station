@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 20:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 22:55:58 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta的Muse令人毛骨悚然,</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy</link>
+      <description>Meta的"Muse"显然是一个有效的人工智能助手,但有点令人毛骨悚然,部分是因为它的新Mac应用可以访问Messages, Calendar, and Notes. 但对于它的聪明人来说,Muse实际上不知道如何描述自己. Jason Aten, Inc Magazin的撰稿编辑.</description>
+      <pubDate>Sat, 19 Sep 2026 16:44:40 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy">The Verge AI</source>
+    </item>
     <item>
       <title>双子座不听话 黑了三家公司 Google藏了起来</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</link>
@@ -98,7 +106,7 @@
     <item>
       <title>Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争</title>
       <link>https://garymarcus.substack.com/p/the-real-reason-trump-is-standing</link>
-      <description>Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称"几乎引发战争"。</description>
+      <description>Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军准备拦截，据称"几乎引发战争"。</description>
       <pubDate>Fri, 18 Sep 2026 19:52:12 +0000</pubDate>
       <guid isPermaLink="true">https://garymarcus.substack.com/p/the-real-reason-trump-is-standing</guid>
       <source url="https://garymarcus.substack.com/p/the-real-reason-trump-is-standing">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 18 Sep 2026 11:30:16 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist">The Verge AI</source>
-    </item>
-    <item>
-      <title>《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩</title>
-      <link>https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft</link>
-      <description>《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。</description>
-      <pubDate>Fri, 18 Sep 2026 15:27:29 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft</guid>
-      <source url="https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft">The Decoder：AI News（RSS）</source>
     </item>
   </channel>
 </rss>
