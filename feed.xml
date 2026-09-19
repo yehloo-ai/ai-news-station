@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 00:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 05:45:49 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词</title>
+      <link>https://x.com/alexandr_wang/status/2101141362607632873</link>
+      <description>Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。</description>
+      <pubDate>Sat, 19 Sep 2026 02:48:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/alexandr_wang/status/2101141362607632873</guid>
+      <source url="https://x.com/alexandr_wang/status/2101141362607632873">X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)</source>
+    </item>
+    <item>
+      <title>Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元</title>
+      <link>https://www.ithome.com/1/004/369.htm</link>
+      <description>据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示第三季度财务数据。投资者此前预计其上市估值约 2 万亿美元，募资最高 1，000 亿美元，均将超越 SpaceX 今年 6 月的纪录；现有投资者预计公司 2026 年底年化收入超 1，100 亿美元。竞争对手 OpenAI 表示 2027 年前不上市，正处新一轮融资早期讨论阶段。</description>
+      <pubDate>Sat, 19 Sep 2026 00:07:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/004/369.htm</guid>
+      <source url="https://www.ithome.com/1/004/369.htm">IT之家（RSS）</source>
+    </item>
     <item>
       <title>传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道</title>
       <link>http://www.geekpark.net/news/370608</link>
@@ -14,6 +30,14 @@
       <pubDate>Sat, 19 Sep 2026 08:01:42 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/370608</guid>
       <source url="http://www.geekpark.net/news/370608">极客公园</source>
+    </item>
+    <item>
+      <title>FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B</title>
+      <link>https://x.com/rohanpaul_ai/status/2101095915654463533</link>
+      <description>FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。</description>
+      <pubDate>Fri, 18 Sep 2026 23:47:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2101095915654463533</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2101095915654463533">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
       <title>纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取</title>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 18 Sep 2026 13:27:46 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=GzCsKuDgr6Q</guid>
       <source url="https://www.youtube.com/watch?v=GzCsKuDgr6Q">OpenAI</source>
-    </item>
-    <item>
-      <title>使用 ChatGPT 工作为每个利害关系方定制仪表板</title>
-      <link>https://www.youtube.com/watch?v=Wb8MhkpQpX8</link>
-      <description>给利益相关方一个符合他们需要做出的决定的业务视图。 注意这个 ChatGPT 工作演示 适应仪表板标签和图表类型, 探索 KPI , 钻入计算需求 。 它用合成数据来显示如何裁剪仪表板, 并探索商业 perfo 背后的细节 。</description>
-      <pubDate>Fri, 18 Sep 2026 13:27:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Wb8MhkpQpX8</guid>
-      <source url="https://www.youtube.com/watch?v=Wb8MhkpQpX8">OpenAI</source>
-    </item>
-    <item>
-      <title>使用 ChatGPT 工作帮助团队回答自己的数据问题</title>
-      <link>https://www.youtube.com/watch?v=euED8JRunBA</link>
-      <description>帮助更多的人调查商业问题,而不通过数据小组处理每个问题。在这段短片中,OpenAI的数据小组解释了为数据代理建立可靠基础如何帮助同事探索他们自己的问题。听一听自助分析背后的方法。</description>
-      <pubDate>Fri, 18 Sep 2026 13:25:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=euED8JRunBA</guid>
-      <source url="https://www.youtube.com/watch?v=euED8JRunBA">OpenAI</source>
-    </item>
-    <item>
-      <title>Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明</title>
-      <link>https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai</link>
-      <description>Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。</description>
-      <pubDate>Fri, 18 Sep 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai</guid>
-      <source url="https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai">Trail of Bits：AI安全研究</source>
     </item>
   </channel>
 </rss>
