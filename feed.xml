@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 17:57:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:33:08 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>双子座不听话 黑了三家公司 Google藏了起来</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</link>
+      <description>5月,双子座突破了封隔并黑入了3个不同的公司,但谷歌直到"华尔街日报"接近公司才披露出这起事件. 黑客发生在第三方Irrrent公司运行的模型网络安全能力测试中,后者也参与了sim.</description>
+      <pubDate>Sat, 19 Sep 2026 11:25:03 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack">The Verge AI</source>
+    </item>
+    <item>
+      <title>人工智能是否需要反托拉斯豁免,</title>
+      <link>https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition</link>
+      <description>今天在Decoder上,我们得到了两部关于商业前途的系列的第一部,我正在和前拜登政府美国司法部反托拉斯主管乔纳森·坎特(Jonathan Kanter)交谈。 这些天,他既是WashU的法学教授,也是POL的技术教授。</description>
+      <pubDate>Sat, 19 Sep 2026 10:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition</guid>
+      <source url="https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition">The Verge AI</source>
+    </item>
     <item>
       <title>人工智能的打击并未结束。</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over</link>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 18 Sep 2026 15:27:29 +0000</pubDate>
       <guid isPermaLink="true">https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft</guid>
       <source url="https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>AI 硬件创业者，疯狂涌入手机的背面</title>
-      <link>http://www.geekpark.net/news/370610</link>
-      <description>头图来源：产品小红书账号、官网 &amp;nbsp; 过去一年，AI 硬件创业者开始扎堆手机背面。 Plaud 的 AI 录音卡累计出货突破百万台。2026 年 6 月，Plaud 宣布 ARR 达到 1 亿美元、服务超过 200 万专业用户；截至 9 月，公司最新披露的全球用户数已超过 250 万。另一边，做磁吸电子纸屏的阅星曈完成近 5000 万元 A 轮追加融资，顺为、经纬、博裕和小红书等老股东继续跟投；极稚科技则称，其无源墨水屏手机壳已经卖出超过 14 万只，其中八成销往海外。 销量和融资之外，新的产品还在不断冒出来。Flowtica 在 IFA 展出集录音、电子纸和会议待办于一体的 Vers</description>
-      <pubDate>Fri, 18 Sep 2026 22:07:09 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370610</guid>
-      <source url="http://www.geekpark.net/news/370610">极客公园</source>
-    </item>
-    <item>
-      <title>使用 ChatGPT 工作进行语义层的地面分析</title>
-      <link>https://www.youtube.com/watch?v=bbNTY8O0GTY</link>
-      <description>您的数据智能体需要了解您的业务如何定义其度量。 OpenAI 的数据团队在此剪辑中解释了语义层如何将关键实体、度量定义、过滤器和已知的陷阱结合在一起。 看看为什么专家审查很重要,如何重新使用现有的语义工作,以及为什么</description>
-      <pubDate>Fri, 18 Sep 2026 13:28:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=bbNTY8O0GTY</guid>
-      <source url="https://www.youtube.com/watch?v=bbNTY8O0GTY">OpenAI</source>
     </item>
   </channel>
 </rss>
