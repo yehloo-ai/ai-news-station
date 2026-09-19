@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 21:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:12:52 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道</title>
+      <link>http://www.geekpark.net/news/370608</link>
+      <description>谷歌最新旗舰模型 Gemini 4 Pro 疑似「偷跑」，多项指标领先 Astra 和 Fable 5.1 9 月 18 日，Google 下一代旗舰模型 Gemini 4 Pro 疑似正以「gemini-3.8-flash」名称「偷跑」上线。据反馈，谷歌在 Arena 等基准平台上测试了其最强 Gemini 4 Pro 模型，内部开发代号为 Argon。 网上流传的一张测试图显示，该模型在智能体编程测试 DeepSWE v1.1 中得分超过 88%，在 Terminal-bench 2.1 和 OSWorld 2.0 中分别获得 95.3%和 86.8%的成绩，高于 GPT-6 Astra</description>
+      <pubDate>Sat, 19 Sep 2026 08:01:42 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370608</guid>
+      <source url="http://www.geekpark.net/news/370608">极客公园</source>
+    </item>
+    <item>
+      <title>纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取</title>
+      <link>https://www.ithome.com/1/004/356.htm</link>
+      <description>《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。</description>
+      <pubDate>Fri, 18 Sep 2026 23:13:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/004/356.htm</guid>
+      <source url="https://www.ithome.com/1/004/356.htm">IT之家（RSS）</source>
+    </item>
+    <item>
+      <title>谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止</title>
+      <link>https://www.ithome.com/1/004/355.htm</link>
+      <description>谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的"捕获旗帜"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。</description>
+      <pubDate>Fri, 18 Sep 2026 23:11:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/004/355.htm</guid>
+      <source url="https://www.ithome.com/1/004/355.htm">IT之家（RSS）</source>
+    </item>
     <item>
       <title>OpenAI 和 微软知道他们正在为网络启动一个“圈子 ”</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</link>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 18 Sep 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai</guid>
       <source url="https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai">Trail of Bits：AI安全研究</source>
-    </item>
-    <item>
-      <title>逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS</title>
-      <link>https://tokenstead.ai/guides/zcode-silent-git-history-upload</link>
-      <description>开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。</description>
-      <pubDate>Fri, 18 Sep 2026 10:35:28 +0000</pubDate>
-      <guid isPermaLink="true">https://tokenstead.ai/guides/zcode-silent-git-history-upload</guid>
-      <source url="https://tokenstead.ai/guides/zcode-silent-git-history-upload">Hacker News：AI 热帖</source>
-    </item>
-    <item>
-      <title>那个教 ChatGPT 说话的人，做了一个「哑巴」模型</title>
-      <link>http://www.geekpark.net/news/370603</link>
-      <description>作者｜桦林舞王 编辑｜靖宇 &amp;nbsp; AI 圈子里最懂怎么让模型「开口聊天」的人，现在决定剥夺大模型的语言能力。 这位前 OpenAI 研究员、ChatGPT 的共同发明者 Diogo Almeida，在潜行两年后带着他的新公司 TypeSafe AI 和 4000 万美元融资回到牌桌。他们发布的全新模型 Jev， 既不能写打工人的周报，也不能陪用户深夜长聊。它甚至连一个标点符号都吐不出来 。 TypeSafe 创始人 Diogo Almeida｜图片来源：X 这是一个反常识的时刻。过去三年，全行业都在教大模型怎么学会像人类一样「慢思考」，各家实验室拼命拉长推理链条，让模型在给出答案前默默</description>
-      <pubDate>Fri, 18 Sep 2026 17:36:47 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370603</guid>
-      <source url="http://www.geekpark.net/news/370603">极客公园</source>
-    </item>
-    <item>
-      <title>Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒</title>
-      <link>https://qwen.ai/blog?id=qwen3.8-livetranslate</link>
-      <description>Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。</description>
-      <pubDate>Fri, 18 Sep 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.8-livetranslate</guid>
-      <source url="https://qwen.ai/blog?id=qwen3.8-livetranslate">Qwen：Blog Retrieval（API）</source>
     </item>
   </channel>
 </rss>
