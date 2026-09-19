@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-09-17T06:42:41.601Z",
+  "generatedAt": "2026-09-18T06:41:02.530Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2100665648825483726",
+          "text": "Have a family? We ❤️ this in ours. https://t.co/qGXb6Xtl9J",
+          "createdAt": "2026-09-17T19:18:13.000Z",
+          "url": "https://x.com/joshwoodward/status/2100665648825483726",
+          "likes": 185,
+          "retweets": 14,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2100653821907366366"
+        },
+        {
+          "id": "2100616682431807860",
+          "text": "If you're not using @Gemini_Notebook on your phone yet, you're missing out. This is such a cool story! https://t.co/UZdm9Knj1f",
+          "createdAt": "2026-09-17T16:03:39.000Z",
+          "url": "https://x.com/joshwoodward/status/2100616682431807860",
+          "likes": 131,
+          "retweets": 8,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2100612880047767553"
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Boris Cherny",
@@ -9,26 +39,26 @@
       "bio": "Claude Code @anthropicai",
       "tweets": [
         {
-          "id": "2100260544087535639",
-          "text": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation.\n\nAsk Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. There's no separate tool to navigate to. They're just in the chat.",
-          "createdAt": "2026-09-16T16:28:29.000Z",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "likes": 2285,
-          "retweets": 131,
-          "replies": 127,
+          "id": "2100669598995816511",
+          "text": "Projects have changed not only how I interact with Claude but how I code.\n\nI stopped managing sessions. I just send thoughts as they come, Claude splits them into threads, and the project remembers how I work. It's where I do a ton of my coding now.\n\n[screenshot: my actual prompts for claude code cli yesterday]",
+          "createdAt": "2026-09-17T19:33:55.000Z",
+          "url": "https://x.com/bcherny/status/2100669598995816511",
+          "likes": 2352,
+          "retweets": 85,
+          "replies": 211,
           "isQuote": true,
-          "quotedTweetId": "2100258492590207079"
+          "quotedTweetId": "2100633571543367691"
         },
         {
-          "id": "2100259951398789487",
-          "text": "Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back to shipped code. That's where much of the industry's serious engineering runs now.\n\nCowork proved knowledge workers could do the same: hand Claude the brief, come back to finished files.\n\nToday, chat and Cowork start merging into one Claude. The direction: one Claude that carries context across everything you're working on, wherever you are. Simple enough for everyone to access Claude's full capabilities.\n\nI've been using this experience every day for the last few weeks, and it feels awesome. Simpler, faster, and more powerful.\n\nWe're rolling this out slowly. We'll be fine-tuning the experience as we go to ensure it is fast and reliable. Can't wait to hear what you think.",
-          "createdAt": "2026-09-16T16:26:08.000Z",
-          "url": "https://x.com/bcherny/status/2100259951398789487",
-          "likes": 1388,
-          "retweets": 60,
-          "replies": 161,
+          "id": "2100639991244427490",
+          "text": "Projects are how I write a lot of my code these days. Really excited for everyone to try the new experience! Rolling out now https://t.co/bpaufmEweL",
+          "createdAt": "2026-09-17T17:36:16.000Z",
+          "url": "https://x.com/bcherny/status/2100639991244427490",
+          "likes": 1926,
+          "retweets": 50,
+          "replies": 136,
           "isQuote": true,
-          "quotedTweetId": "2100258490740539730"
+          "quotedTweetId": "2100632677904744716"
         }
       ]
     },
@@ -39,35 +69,13 @@
       "bio": "Codex & ChatGPT @OpenAI",
       "tweets": [
         {
-          "id": "2100363668051603608",
-          "text": "Sometimes physics can't be cheated https://t.co/Sgt4KrRtut",
-          "createdAt": "2026-09-16T23:18:15.000Z",
-          "url": "https://x.com/thsottiaux/status/2100363668051603608",
-          "likes": 5415,
-          "retweets": 105,
-          "replies": 1079,
-          "isQuote": true,
-          "quotedTweetId": "2100351958167220547"
-        },
-        {
-          "id": "2100297380968997327",
-          "text": "Astra\n\n✅ Fast\n✅ Frontier\n✅ Efficient\n✅ For everyone https://t.co/g4C7UizHcd",
-          "createdAt": "2026-09-16T18:54:51.000Z",
-          "url": "https://x.com/thsottiaux/status/2100297380968997327",
-          "likes": 4485,
-          "retweets": 123,
-          "replies": 1318,
-          "isQuote": true,
-          "quotedTweetId": "2100180792601420138"
-        },
-        {
-          "id": "2100295443620007993",
-          "text": "What is ChatGPT",
-          "createdAt": "2026-09-16T18:47:10.000Z",
-          "url": "https://x.com/thsottiaux/status/2100295443620007993",
-          "likes": 1913,
-          "retweets": 58,
-          "replies": 1468,
+          "id": "2100645454245720513",
+          "text": "Has anyone yet tried to get Astra and Fable to agree on the perfect styleguide? And then host it somewhere with a web mcp.",
+          "createdAt": "2026-09-17T17:57:59.000Z",
+          "url": "https://x.com/thsottiaux/status/2100645454245720513",
+          "likes": 5524,
+          "retweets": 88,
+          "replies": 1800,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -80,56 +88,26 @@
       "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
       "tweets": [
         {
-          "id": "2100402721803342098",
-          "text": "Also we love these books that you get - the storytelling in them is much better than bob books and other alternatives. https://t.co/m6pg9kGZhE",
-          "createdAt": "2026-09-17T01:53:27.000Z",
-          "url": "https://x.com/petergyang/status/2100402721803342098",
-          "likes": 3,
+          "id": "2100740523539751337",
+          "text": "My little @Muse red panda is both cute and saving me money - a winning combination https://t.co/c6nLKL53MC",
+          "createdAt": "2026-09-18T00:15:45.000Z",
+          "url": "https://x.com/petergyang/status/2100740523539751337",
+          "likes": 17,
           "retweets": 0,
           "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2100402704275435872",
-          "text": "My 4.5 year old loves learning to read using @Once_Reading, especially making the silliest faces as part of the photo feature.\n\nIt's become a nightly ritual for us just like it's been for @clairevo!\n\nPlus I have to give a shout out to the founder @SebTurn for being the nicest dude.\n\nIf you have young kids, I highly recommend giving Once a try for 1 month free here: https://t.co/GA2x8NMSzT",
-          "createdAt": "2026-09-17T01:53:22.000Z",
-          "url": "https://x.com/petergyang/status/2100402704275435872",
-          "likes": 19,
-          "retweets": 3,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2100328939034128856",
-          "text": "I use these 8 AI skills to produce my entire podcast while still applying my taste and judgment along the way.\n\n1. /podcast-prep does research on the guest and then preps an interview guide.\n\n2. /podcast-edit reviews the raw transcript, then works with me to pick engaging quotes for the intro reel along with moments to cut.\n\n3. /podcast-production orchestrates 5 skills to turn the full episode into 6 different assets.\n\nSome people think the latest models make skills redundant but they've been indispensable for me to get AI to follow my specific edit and browser-use instructions.\n\nMy latest video highlighting how I actually work with these skills is a good watch if you want to automate any manual workflow.\n\n📌 Watch me demo all 8 skills here: https://t.co/PYNbe5tlFw",
-          "createdAt": "2026-09-16T21:00:15.000Z",
-          "url": "https://x.com/petergyang/status/2100328939034128856",
-          "likes": 25,
-          "retweets": 1,
-          "replies": 8,
-          "isQuote": true,
-          "quotedTweetId": "2100234998875873439"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Madhu Guru",
-      "handle": "realmadhuguru",
-      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
-      "tweets": [
-        {
-          "id": "2100312717739667963",
-          "text": "Safety and security are * features * of your AI product and model - not guardrails that need to be imposed on you from the outside. https://t.co/jtN3rzdZV8 https://t.co/J8dM9vHsoN",
-          "createdAt": "2026-09-16T19:55:48.000Z",
-          "url": "https://x.com/realmadhuguru/status/2100312717739667963",
-          "likes": 4,
+          "id": "2100683741878468768",
+          "text": "Aww it's so cute https://t.co/YKbSkYVrbG",
+          "createdAt": "2026-09-17T20:30:07.000Z",
+          "url": "https://x.com/petergyang/status/2100683741878468768",
+          "likes": 8,
           "retweets": 0,
           "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2099997096896274533"
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -140,15 +118,15 @@
       "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
       "tweets": [
         {
-          "id": "2100260655312089562",
-          "text": "Today, we are merging Claude Cowork and chat to simplify how you use Claude!\n\nWe are also integrating Claude Design so that you can ask Claude to make a Slide, Design, or Doc without needing to switch tabs or apps.\n\nMany of you shared that you didn't want to choose which Claude product to use for any task. As Claude models have become more capable, we've found that Claude can handle the routing for you. Based on your prompt, Claude will decide whether to give a quick answer or do deeper agentic work, and what kind of output best fits the task.\n \nYou're in control the whole time: you can still stop, redirect, or exert finer control over Claude's effort or approach.\n \nGive it a try and let us know what you think. We're rolling this out slowly over the next few weeks to get it right.",
-          "createdAt": "2026-09-16T16:28:55.000Z",
-          "url": "https://x.com/_catwu/status/2100260655312089562",
-          "likes": 1206,
-          "retweets": 54,
-          "replies": 105,
+          "id": "2100641163120423057",
+          "text": "In the new Projects experience, Claude coordinates all of your sessions. \n\nI've been using it every day since it lets me operate at a higher level of abstraction. I fire off a batch of tasks and move on. Claude has context on everything I'm working on and can give me an aggregated status update whenever I ask. It also has long-lived memory that evolves as I use it. \n\nWe're rolling this out over the coming weeks. Let me know what you think!",
+          "createdAt": "2026-09-17T17:40:55.000Z",
+          "url": "https://x.com/_catwu/status/2100641163120423057",
+          "likes": 356,
+          "retweets": 10,
+          "replies": 41,
           "isQuote": true,
-          "quotedTweetId": "2100258490740539730"
+          "quotedTweetId": "2100633571543367691"
         }
       ]
     },
@@ -159,37 +137,53 @@
       "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
       "tweets": [
         {
-          "id": "2100315538472009897",
-          "text": "I think Claude Managed Agents strikes the right balance here, the sandbox is optional and can be spun up independently of the rest of the agent loop.\n\nI recently ported an old project that was focused on bash tool calling to CMA and it worked well!",
-          "createdAt": "2026-09-16T20:07:01.000Z",
-          "url": "https://x.com/trq212/status/2100315538472009897",
-          "likes": 46,
-          "retweets": 1,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2100315537251463523",
-          "text": "I think increasingly you can just give Claude tools shaped in the way you want vs tricking it with a layer of indirection\n\ne.g. for data storage do you really want a file system or do you want an API to a database\n\nthis is again, an update to me from last year",
-          "createdAt": "2026-09-16T20:07:00.000Z",
-          "url": "https://x.com/trq212/status/2100315537251463523",
-          "likes": 63,
-          "retweets": 0,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2100315535758217422",
-          "text": "related to this- I think bash is no longer all you need, if your goal is just reliably tool calling\n\nbut sandboxes + bash are still good for work that involves code generation &amp; execution https://t.co/xTptTmEmCE",
-          "createdAt": "2026-09-16T20:07:00.000Z",
-          "url": "https://x.com/trq212/status/2100315535758217422",
-          "likes": 356,
-          "retweets": 13,
-          "replies": 50,
+          "id": "2100638355872706571",
+          "text": "Projects brings the architecture of Claude Tag to Claude Code.\n\nIt has one agent per project that manages memory and spins off subagents for tasks. \n\nYou can ask it to be proactive, to do things on a schedule, etc.\n\nIt feels a lot nicer than a bunch of sessions, try it out! https://t.co/qzyEgLUyN4",
+          "createdAt": "2026-09-17T17:29:46.000Z",
+          "url": "https://x.com/trq212/status/2100638355872706571",
+          "likes": 1041,
+          "retweets": 51,
+          "replies": 115,
           "isQuote": true,
-          "quotedTweetId": "2099958388230873165"
+          "quotedTweetId": "2100632677904744716"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "tweets": [
+        {
+          "id": "2100653821907366366",
+          "text": "CC the entire fam 🤝!\n\nToday, we’re announcing the new CC – an AI agent built for families to spend less time on logistics and more time together.\n\nYou can now:\n\n👤 Add up to 5 members to your CC agent\n☀️ Start mornings aligned with a shared \"Your Day Ahead\" brief email\n🗓️ Autosync schedules & to-dos with a shared Google Calendar and Tasks\n💬 Coordinate in Google Chat with CC to offload relevant tasks (ie., crafting weekly meal plans, school supply shopping lists, etc)\n📝 Delegate paperwork (ie., permission slips, forms, and more) for CC to complete under your direction\n📌 Keep tabs on the details – CC remembers what applies to everyone (ie., family grocery lists, favorite restaurants) versus what applies to one person (ie., dietary restrictions, local timezones)\n\nReady to keep everybody on the same page? Join the waitlist or upgrade your existing CC (US only, 18+): https://t.co/6Id5GRBrVc",
+          "createdAt": "2026-09-17T18:31:14.000Z",
+          "url": "https://x.com/GoogleLabs/status/2100653821907366366",
+          "likes": 539,
+          "retweets": 54,
+          "replies": 46,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2100829093923320083",
+          "text": "This is why we need a gazillion data centers (worth it) https://t.co/2KWTPFSy0i",
+          "createdAt": "2026-09-18T06:07:42.000Z",
+          "url": "https://x.com/amasad/status/2100829093923320083",
+          "likes": 62,
+          "retweets": 1,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2100739356889932012"
         }
       ]
     },
@@ -200,56 +194,37 @@
       "bio": "@vercel CEO",
       "tweets": [
         {
-          "id": "2100380166811951410",
-          "text": "https://t.co/e2EuPh7YAt",
-          "createdAt": "2026-09-17T00:23:49.000Z",
-          "url": "https://x.com/rauchg/status/2100380166811951410",
-          "likes": 25,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2100378959653507175"
-        },
-        {
-          "id": "2100307962262872105",
-          "text": "We're seeing extraordinary results from @typesafeai. Default mode in 𝚏𝚡 is auto, with a safety reviewer analyzing every command.\n\nThat reviewer runs on GPT Luna today. Jev is up to 18x faster (p95) *and* more accurate. It's coming to @vercel AI Gateway and likely new default. https://t.co/y5tFnlFN2l",
-          "createdAt": "2026-09-16T19:36:54.000Z",
-          "url": "https://x.com/rauchg/status/2100307962262872105",
-          "likes": 2855,
-          "retweets": 121,
-          "replies": 96,
-          "isQuote": true,
-          "quotedTweetId": "2100300097695232164"
-        },
-        {
-          "id": "2100260457617736051",
-          "text": "https://t.co/8uP1oRz9NP",
-          "createdAt": "2026-09-16T16:28:08.000Z",
-          "url": "https://x.com/rauchg/status/2100260457617736051",
-          "likes": 360,
-          "retweets": 3,
-          "replies": 29,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Alex Albert",
-      "handle": "alexalbert__",
-      "bio": "Research @AnthropicAI. Opinions are my own!",
-      "tweets": [
-        {
-          "id": "2100295757953917120",
-          "text": "The team did an amazing job with this merge. The resulting UX feels so much better than chat or Cowork did on their own.\n\nAnd the new slides/docs/design integrations work very well. https://t.co/YyZYsf8OFE",
-          "createdAt": "2026-09-16T18:48:24.000Z",
-          "url": "https://x.com/alexalbert__/status/2100295757953917120",
+          "id": "2100745015362552312",
+          "text": "Vercel is the Vercel for Java https://t.co/ecDvMhqppr",
+          "createdAt": "2026-09-18T00:33:36.000Z",
+          "url": "https://x.com/rauchg/status/2100745015362552312",
           "likes": 182,
-          "retweets": 5,
-          "replies": 12,
+          "retweets": 0,
+          "replies": 22,
           "isQuote": true,
-          "quotedTweetId": "2100258490740539730"
+          "quotedTweetId": "2100740662236955041"
+        },
+        {
+          "id": "2100698591417499972",
+          "text": "It's likely that more software will be produced next year than in all of the history of computing. It took Vercel 10 years to get to 1 billion deployments, but then we added another 1.4 billion in the last 10 months alone.\n\nSome of this will be tiny, personal and even disposable software. An HTML file with some javascript (\"artifacts\"), a report, a pricing calculator, a slide deck, all the way to sophisticated apps, agents and platforms.\n\nDeployment speed is one of our obsessions. We've brought down the time to deploy, upload, assign a domain and globally propagate an artifact to 1 second.\n\nThis is quite a feat considering we serve these artifacts with uncompromising performance and security. This sub-second deployments include our global CDN, Firewall, immutable deployments, domain assignment, observability, rollbacks…\n\nAnd we're not done yet. Follow @melkeydev for more.",
+          "createdAt": "2026-09-17T21:29:07.000Z",
+          "url": "https://x.com/rauchg/status/2100698591417499972",
+          "likes": 508,
+          "retweets": 31,
+          "replies": 44,
+          "isQuote": true,
+          "quotedTweetId": "2100695928093167698"
+        },
+        {
+          "id": "2100682030170489160",
+          "text": "This is really cool. When you pressure your agent to ship a hotfix really fast, it can now 𝚟𝚎𝚛𝚌𝚎𝚕 --𝚝𝚞𝚛𝚋𝚘 --𝚙𝚛𝚘𝚍 😊\n\nIt'll use the fastest available build machine. h/t @garberchov for tweeting this idea to us https://t.co/iLXPsP2m3R",
+          "createdAt": "2026-09-17T20:23:19.000Z",
+          "url": "https://x.com/rauchg/status/2100682030170489160",
+          "likes": 79,
+          "retweets": 2,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2100681322889191852"
         }
       ]
     },
@@ -260,15 +235,15 @@
       "bio": "ceo @box - your business lives in content. unleash it with AI",
       "tweets": [
         {
-          "id": "2100448648672993540",
-          "text": "Incredibly exciting that there are entire universes of AI innovation that still exist that weren’t even on most of our radars.\n\nBeing able to process information insanely quickly, at crazy low costs, with high levels of capability is huge for a wide number of enterprise tasks.\n\nData classification tasks, routing decisions inside of a workflow, decision making when handed a particular domain problem, quick judgment calls about safety or security, and more all are the gates in a large number of  processes. \n\nThis model and approach could be quite cool in agentic workflows in the enterprise.",
-          "createdAt": "2026-09-17T04:55:56.000Z",
-          "url": "https://x.com/levie/status/2100448648672993540",
-          "likes": 102,
+          "id": "2100799668573946191",
+          "text": "Agents already make up the majority of inference. This will quickly trend toward nearly all inference over the next year or two.\n\nThe vast majority of tokens used in the world will be agents that are executing unbelievable amounts of tasks for us in the background 24/7. \n\nAgents will be deployed to read all code changes to secure our software, process all of our data inside of workflows, handle a significant majority of the research that goes into recruiting and customer prospecting, review every event stream and log from every system in the world, go out and execute tasks for us in our personal lives, and hundreds of other use cases. \n\nThe rate of new agents coming online that will be consuming insane amounts of tokens is not slowing down. Just in the past week I’ve introduced multiple completely new workflows that would not have been possible technically even a month ago.\n\nIncredible time to be doing anything in inference and of course building on top of all of this.",
+          "createdAt": "2026-09-18T04:10:46.000Z",
+          "url": "https://x.com/levie/status/2100799668573946191",
+          "likes": 79,
           "retweets": 7,
           "replies": 20,
           "isQuote": true,
-          "quotedTweetId": "2099925682726002904"
+          "quotedTweetId": "2100600804038099217"
         }
       ]
     },
@@ -279,45 +254,37 @@
       "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
       "tweets": [
         {
-          "id": "2100354983053111365",
-          "text": "Excited to speak at @Supabase Select in conversation with the amazing @kiwicopple about building startups in the time of AI\n\nRegister for the event and join me: https://t.co/jNY2QcB6cU",
-          "createdAt": "2026-09-16T22:43:45.000Z",
-          "url": "https://x.com/garrytan/status/2100354983053111365",
-          "likes": 96,
-          "retweets": 9,
-          "replies": 20,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2100668489178456268",
+          "text": "Memorable found a way to optimize memory with embeddings instead of more tokens which is a powerful new way to do memory https://t.co/Y8wowo41WF",
+          "createdAt": "2026-09-17T19:29:31.000Z",
+          "url": "https://x.com/garrytan/status/2100668489178456268",
+          "likes": 477,
+          "retweets": 20,
+          "replies": 32,
+          "isQuote": true,
+          "quotedTweetId": "2100668011673731441"
         },
         {
-          "id": "2100339347669279149",
-          "text": "I can use any harness I want and it's the same personality and full memory of my personal AGI https://t.co/4IupWtnh84",
-          "createdAt": "2026-09-16T21:41:37.000Z",
-          "url": "https://x.com/garrytan/status/2100339347669279149",
-          "likes": 512,
-          "retweets": 14,
-          "replies": 52,
+          "id": "2100636443127210112",
+          "text": "Be careful what you wish for\n\nThis is why we need alignment to humankind vs any other goal https://t.co/E3dxymT1aV",
+          "createdAt": "2026-09-17T17:22:10.000Z",
+          "url": "https://x.com/garrytan/status/2100636443127210112",
+          "likes": 140,
+          "retweets": 8,
+          "replies": 43,
           "isQuote": true,
-          "quotedTweetId": "2100336264360730692"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Zara Zhang",
-      "handle": "zarazhangrui",
-      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
-      "tweets": [
+          "quotedTweetId": "2100420034694967643"
+        },
         {
-          "id": "2100278750776824115",
-          "text": "I find myself using Claude less these days because the way it speaks has just become insufferable \n\nLike it’s constantly trying to showcase how smart/sophisticated it is, rather than actually communicating a point across",
-          "createdAt": "2026-09-16T17:40:50.000Z",
-          "url": "https://x.com/zarazhangrui/status/2100278750776824115",
-          "likes": 1830,
-          "retweets": 61,
-          "replies": 306,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2100612808568172830",
+          "text": "The future is already here\n\nWe just have to choose it and spread it faster https://t.co/zmLEsXQU65",
+          "createdAt": "2026-09-17T15:48:15.000Z",
+          "url": "https://x.com/garrytan/status/2100612808568172830",
+          "likes": 1316,
+          "retweets": 70,
+          "replies": 56,
+          "isQuote": true,
+          "quotedTweetId": "2098384840844358061"
         }
       ]
     },
@@ -328,35 +295,24 @@
       "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
       "tweets": [
         {
-          "id": "2100212813625196917",
-          "text": "Been tinkering with a “Home” @NousResearch agent for a few months and it’s finally gotten really good..\n\nIt’s also our first “group” bot where my wife and I interact with it on a daily basis - which has been fun learning especially when it fails 😅.\n\nI have tried to recreate with Grok Bot and similar and you can’t get this level of granularity and control (eg only read certain emails, convert in line attachments to structured data or logged in browser sessions)\n\nI asked it to share what it does based on the capabilities and our conversations and you can see it’s response below!",
-          "createdAt": "2026-09-16T13:18:49.000Z",
-          "url": "https://x.com/nikunj/status/2100212813625196917",
-          "likes": 44,
+          "id": "2100718806004064730",
+          "text": "Website here: https://t.co/KSiodPdZHT\n\nPS: There's a full blown MCP (and WebMCP) for this as well if you want to direct your agent towards it. \n\nhttps://t.co/eo0oIkJUX2",
+          "createdAt": "2026-09-17T22:49:27.000Z",
+          "url": "https://x.com/nikunj/status/2100718806004064730",
+          "likes": 4,
           "retweets": 0,
-          "replies": 8,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2100117565150470652",
-          "text": "Before she wakes up and corrects  me, she never “wanted” it in the first place.. \n\nWe threatened to make Tiramisu and that’s when her preference spilled out. \n\nSous chef had a great time eating half the batter 😂 https://t.co/QRRzY9dCpr",
-          "createdAt": "2026-09-16T07:00:20.000Z",
-          "url": "https://x.com/nikunj/status/2100117565150470652",
-          "likes": 5,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2100115958862107100",
-          "text": "Wife wanted Black Forest cake for her birthday..\n\nI haven’t baked in a long long time, so not perfect but think it turned out ok (thanks @ChatGPT)\n\nHappy birthday @shimoleejhaveri - I love you mostest ❤️ https://t.co/5LC3blykHK",
-          "createdAt": "2026-09-16T06:53:57.000Z",
-          "url": "https://x.com/nikunj/status/2100115958862107100",
-          "likes": 158,
-          "retweets": 0,
-          "replies": 17,
+          "id": "2100714665571737885",
+          "text": "I have been obsessed with self driving companies  for more than a year now.. tried a LOT of products, none of them met the bar and decided to just build one myself with \"claude\" in the loop.\n\nIntroducing my first experiment: nosugarforkids (dot com) 🙅‍♂️\n\n> catalog of only healthy snacks for kids (surprisingly this didn't exist)\n> you can chat to get recommendations for school, lunches, snack boxes\n> built a \"tier\" list based on the nutrients and what's actually good\n\nOn the autonomous side, I have a Claude agent that wakes up once a day to do the following things:\n\n> checks catalog for new additions\n> prunes any products that may be dead\n> finds new content ideas to help increase reach\n> checks dataforSEO and Google Search Console for performance\n> writes and edits new pieces that might be useful to help\n> keeps quality high, and tries to not introduce slop\n> (new) reaches out to publications to get backlinks\n\nEven with ZERO backlinks today and no social presence whatsoever, site has organically grown to ~6k impressions a day and 60 clicks. \n\nLots of rough edges still, but parents give it a try and tell me if it's helpful!",
+          "createdAt": "2026-09-17T22:33:00.000Z",
+          "url": "https://x.com/nikunj/status/2100714665571737885",
+          "likes": 69,
+          "retweets": 1,
+          "replies": 20,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -369,37 +325,15 @@
       "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
       "tweets": [
         {
-          "id": "2100284086703046903",
-          "text": "big big big big big https://t.co/dzD21vSafx",
-          "createdAt": "2026-09-16T18:02:02.000Z",
-          "url": "https://x.com/danshipper/status/2100284086703046903",
-          "likes": 1166,
-          "retweets": 36,
-          "replies": 24,
-          "isQuote": true,
-          "quotedTweetId": "2100258492590207079"
-        },
-        {
-          "id": "2100269017977987341",
-          "text": "THEY DID IT\n\nTHE END OF THE TABS ERA IS UPON US https://t.co/FJlWFUCcDw",
-          "createdAt": "2026-09-16T17:02:09.000Z",
-          "url": "https://x.com/danshipper/status/2100269017977987341",
-          "likes": 1658,
-          "retweets": 37,
-          "replies": 30,
-          "isQuote": true,
-          "quotedTweetId": "2100258490740539730"
-        },
-        {
-          "id": "2100251499443998766",
-          "text": "LLMs are just            jev is just a JSON \nautocomplete               classifier \n\n                             🤝\n\n                              🚩",
-          "createdAt": "2026-09-16T15:52:32.000Z",
-          "url": "https://x.com/danshipper/status/2100251499443998766",
-          "likes": 308,
+          "id": "2100587802748440581",
+          "text": "it's happening! https://t.co/vCy2XqNGYb",
+          "createdAt": "2026-09-17T14:08:53.000Z",
+          "url": "https://x.com/danshipper/status/2100587802748440581",
+          "likes": 437,
           "retweets": 11,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2100337229893923290"
         }
       ]
     },
@@ -410,45 +344,15 @@
       "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
       "tweets": [
         {
-          "id": "2100347763502329951",
-          "text": "Great ideas rarely emerge from isolation. https://t.co/TyQb4mbjaD",
-          "createdAt": "2026-09-16T22:15:04.000Z",
-          "url": "https://x.com/adityaag/status/2100347763502329951",
-          "likes": 51,
-          "retweets": 3,
+          "id": "2100746235426836708",
+          "text": "This is the right way to solve alignment and safety.\n\n@GoodfireAI is the leading non-frontier-lab company that is working on this.\n\nThis is generationally important. https://t.co/BkufCYX1Qb",
+          "createdAt": "2026-09-18T00:38:27.000Z",
+          "url": "https://x.com/adityaag/status/2100746235426836708",
+          "likes": 8,
+          "retweets": 2,
           "replies": 1,
           "isQuote": true,
-          "quotedTweetId": "2100258438299156860"
-        },
-        {
-          "id": "2100275836792492463",
-          "text": "If California were a startup, what would its board ask the CEO?\n\nI’m hosting CA governor candidate @SteveHiltonx  at @spc  in a couple of weeks. On the agenda: priorities, execution, and what he’d want us to hold him accountable for.\n\nSign up here to attend:\nhttps://t.co/ahiXSi3TD5",
-          "createdAt": "2026-09-16T17:29:15.000Z",
-          "url": "https://x.com/adityaag/status/2100275836792492463",
-          "likes": 11,
-          "retweets": 3,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Sam Altman",
-      "handle": "sama",
-      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-      "tweets": [
-        {
-          "id": "2100351958167220547",
-          "text": "the main thing i was excited about launching this week will be next week instead, but imo worth the wait! https://t.co/j8tcW05Fmk",
-          "createdAt": "2026-09-16T22:31:44.000Z",
-          "url": "https://x.com/sama/status/2100351958167220547",
-          "likes": 8692,
-          "retweets": 342,
-          "replies": 988,
-          "isQuote": true,
-          "quotedTweetId": "2099872600977760451"
+          "quotedTweetId": "2100627268465008679"
         }
       ]
     },
@@ -459,35 +363,35 @@
       "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
       "tweets": [
         {
-          "id": "2100258495543071016",
-          "text": "If you've been working in Cowork, everything is where you left it: chats, projects, artifacts, connectors, and skills. You can pick up where you left off.\n\nClaude Design, Claude Slides, and Claude Docs are in beta on all paid plans. Read more: https://t.co/ERAuv5UcBV",
-          "createdAt": "2026-09-16T16:20:20.000Z",
-          "url": "https://x.com/claudeai/status/2100258495543071016",
-          "likes": 462,
-          "retweets": 17,
-          "replies": 8,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2100258494221812123",
-          "text": "Fix a line in the doc yourself, leave a comment for Claude on a slide, or select an element and move it.\n\nWhen it's ready, present the deck straight from Claude, export the doc in the format you already use, or share everything at one link.",
-          "createdAt": "2026-09-16T16:20:20.000Z",
-          "url": "https://x.com/claudeai/status/2100258494221812123",
-          "likes": 498,
+          "id": "2100632688625348890",
+          "text": "Existing projects on Pro and Max plans keep working as they do today. We'll upgrade them as the rollout expands across Claude.\n\nRead more: https://t.co/veHKrtOLtr\n\nJoin the waitlist for earlier access: https://t.co/s0RrhrolEm",
+          "createdAt": "2026-09-17T17:07:15.000Z",
+          "url": "https://x.com/claudeai/status/2100632688625348890",
+          "likes": 232,
           "retweets": 13,
-          "replies": 8,
+          "replies": 6,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2100258492590207079",
-          "text": "You can also now make decks, docs, and designs in your conversation.\n\nDraft the one-pager in Claude Docs, turn it into a deck with Claude Slides, and mock up a matching visual in Claude Design, all from one place. https://t.co/Y0JaJGT3G8",
-          "createdAt": "2026-09-16T16:20:20.000Z",
-          "url": "https://x.com/claudeai/status/2100258492590207079",
-          "likes": 3305,
-          "retweets": 252,
-          "replies": 87,
+          "id": "2100632687316730327",
+          "text": "Threads run in the cloud, so they keep working even when your computer is offline, but they can't reach files or tools on your computer or your internal network yet. Local support is coming very soon.",
+          "createdAt": "2026-09-17T17:07:15.000Z",
+          "url": "https://x.com/claudeai/status/2100632687316730327",
+          "likes": 244,
+          "retweets": 6,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2100632684074549309",
+          "text": "A project builds over time. Every thread adds to and draws from its shared memory, so Claude can remember that the release moved to Friday, or who to ask before touching the billing service.\n\nThe project's library keeps the files you add and the ones Claude creates. https://t.co/jtzVie3DB7",
+          "createdAt": "2026-09-17T17:07:14.000Z",
+          "url": "https://x.com/claudeai/status/2100632684074549309",
+          "likes": 346,
+          "retweets": 9,
+          "replies": 6,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -495,7 +399,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 16,
-    "totalTweets": 33
+    "xBuilders": 15,
+    "totalTweets": 25
   }
 }
