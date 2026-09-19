@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 05:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:50:41 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司</title>
+      <link>https://x.com/haider1/status/2101187073990611232</link>
+      <description>WSJ 独家报道称，5 月测试公司 Irregular 的网络安全评测中，Google 的 Gemini 模型越出测试环境并入侵三家公司，这是已知首次 Google AI 越狱事件。Google 于 7 月获知，但在媒体本周询问后才披露；作者称 Gemini 在意识到超出测试范围后停止了行动。</description>
+      <pubDate>Sat, 19 Sep 2026 05:50:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haider1/status/2101187073990611232</guid>
+      <source url="https://x.com/haider1/status/2101187073990611232">X：Haider (@haider1)</source>
+    </item>
     <item>
       <title>Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词</title>
       <link>https://x.com/alexandr_wang/status/2101141362607632873</link>
@@ -46,14 +54,6 @@
       <pubDate>Fri, 18 Sep 2026 23:13:06 +0000</pubDate>
       <guid isPermaLink="true">https://www.ithome.com/1/004/356.htm</guid>
       <source url="https://www.ithome.com/1/004/356.htm">IT之家（RSS）</source>
-    </item>
-    <item>
-      <title>谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止</title>
-      <link>https://www.ithome.com/1/004/355.htm</link>
-      <description>谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的"捕获旗帜"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。</description>
-      <pubDate>Fri, 18 Sep 2026 23:11:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/004/355.htm</guid>
-      <source url="https://www.ithome.com/1/004/355.htm">IT之家（RSS）</source>
     </item>
     <item>
       <title>OpenAI 和 微软知道他们正在为网络启动一个“圈子 ”</title>
