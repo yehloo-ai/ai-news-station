@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:06:39 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>体验完 Step 5 Preview，我发现阶跃重新坐上国产大模型主桌</title>
+      <link>https://www.ifanr.com/1680881?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>模型入海，阶跃走向人群#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sun, 20 Sep 2026 04:00:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1680881?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1680881?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488120&amp;idx=1&amp;sn=8ba9ac7f0b36682d6262290677c665da</link>
+      <description>阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。</description>
+      <pubDate>Sun, 20 Sep 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488120&amp;idx=1&amp;sn=8ba9ac7f0b36682d6262290677c665da</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488120&amp;idx=1&amp;sn=8ba9ac7f0b36682d6262290677c665da">公众号：阶跃星辰（Step）</source>
+    </item>
+    <item>
+      <title>Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与</title>
+      <link>http://www.geekpark.net/news/370615</link>
+      <description>传 Anthropic 计划在 IPO 前夕推出新一代 AI 模型助力资本市场信心 据路透社援引多名知情人士消息透露，全球顶尖人工智能初创企业 Anthropic 正考虑在公开首次募股（IPO）之前，正式发布其最新的旗舰级人工智能模型。这一战略举措旨在进一步巩固其在生成式 AI 领域的市场领先地位，同时在关键的资本市场亮相节点前，向潜在投资者展示其强劲的技术迭代能力与商业化前景。 知情人士指出，作为 OpenAI 的强劲对手以及 Claude 系列大模型的开发商，Anthropic 目前正在对这款新模型进行最后的内部测试与性能调优。尽管具体的发布时间表与模型技术细节仍存在根据市场反馈调整的可能</description>
+      <pubDate>Sun, 20 Sep 2026 08:36:42 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370615</guid>
+      <source url="http://www.geekpark.net/news/370615">极客公园</source>
+    </item>
     <item>
       <title>纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit</link>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 18 Sep 2026 17:28:01 +0000</pubDate>
       <guid isPermaLink="true">https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</guid>
       <source url="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship">Hacker News：AI 热帖</source>
-    </item>
-    <item>
-      <title>Gavin Newsom在推动人工智能杀人开关</title>
-      <link>https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch</link>
-      <description>加利福尼亚州政府(Gavin Newsom (D))正在定位该州率先进行人工智能监督,包括授权边境模型"杀开关"的可能性,周五发布新的行政命令. Newsom的命令指示该州召集一个专家小组,以提供建议.</description>
-      <pubDate>Fri, 18 Sep 2026 13:04:51 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch</guid>
-      <source url="https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch">The Verge AI</source>
-    </item>
-    <item>
-      <title>好莱坞对存在人工智能警告的看法</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings</link>
-      <description>随着科技部门发出对人工智能破坏人类潜力的警报,娱乐劳工团体正在敦促公众继续关注已经发生的事情。 Verge向迪士尼、Netflix、亚马逊、狮子门和其他已经开始使用人工智能的摄影棚以及电影初创公司伸出援手。</description>
-      <pubDate>Fri, 18 Sep 2026 12:35:19 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings">The Verge AI</source>
-    </item>
-    <item>
-      <title>Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击</title>
-      <link>https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually</link>
-      <description>Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。</description>
-      <pubDate>Fri, 18 Sep 2026 16:29:57 +0000</pubDate>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually</guid>
-      <source url="https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
     </item>
   </channel>
 </rss>
