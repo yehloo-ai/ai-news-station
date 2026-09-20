@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 22:55:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:01:31 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit</link>
+      <description>纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是"人类历史上最大规模的劳动力盗用"，OpenAI ChatGPT 负责人称其对出版商是"生存威胁"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。</description>
+      <pubDate>Sat, 19 Sep 2026 23:58:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit</guid>
+      <source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit">Hacker News 热门（buzzing.cc 中文翻译）</source>
+    </item>
     <item>
       <title>Meta的Muse令人毛骨悚然,</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 18 Sep 2026 16:29:57 +0000</pubDate>
       <guid isPermaLink="true">https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually</guid>
       <source url="https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
-    </item>
-    <item>
-      <title>安全研究者利用克劳德帮助他们入侵OpenAI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist</link>
-      <description>由哈克特隆的三名独立安全研究人员组成的一个小组说,他们用Anthropic的Claude Opus 4.8和5入侵OpenAI的雇员账户需要不到72小时,他们能够访问OpenAI的GitHub仓库,名为"Monorepo",该仓库报告了</description>
-      <pubDate>Fri, 18 Sep 2026 11:30:16 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist">The Verge AI</source>
     </item>
   </channel>
 </rss>
