@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 18:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 21:29:28 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故</title>
+      <link>https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests</link>
+      <description>Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。</description>
+      <pubDate>Sun, 20 Sep 2026 20:20:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests</guid>
+      <source url="https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests">MarkTechPost（RSS）</source>
+    </item>
+    <item>
+      <title>Nvidia的Jensen Huang认为人工智能恐惧过度,</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown</link>
+      <description>可能从人工智能繁荣中挣得最多钱的人似乎认为他比任何人都了解,包括研究并工作了几十年的人工智能的研究人员. 他在接受CBS Sunday Morning的采访时声称,人工智能有"0%的机率"是"[...]的终结".</description>
+      <pubDate>Sun, 20 Sep 2026 14:50:18 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown">The Verge AI</source>
+    </item>
     <item>
       <title>独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号</title>
       <link>https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector</link>
@@ -150,22 +166,6 @@
       <pubDate>Sat, 19 Sep 2026 05:50:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/haider1/status/2101187073990611232</guid>
       <source url="https://x.com/haider1/status/2101187073990611232">X：Haider (@haider1)</source>
-    </item>
-    <item>
-      <title>Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词</title>
-      <link>https://x.com/alexandr_wang/status/2101141362607632873</link>
-      <description>Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。</description>
-      <pubDate>Sat, 19 Sep 2026 02:48:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/alexandr_wang/status/2101141362607632873</guid>
-      <source url="https://x.com/alexandr_wang/status/2101141362607632873">X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)</source>
-    </item>
-    <item>
-      <title>Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元</title>
-      <link>https://www.ithome.com/1/004/369.htm</link>
-      <description>据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示第三季度财务数据。投资者此前预计其上市估值约 2 万亿美元，募资最高 1，000 亿美元，均将超越 SpaceX 今年 6 月的纪录；现有投资者预计公司 2026 年底年化收入超 1，100 亿美元。竞争对手 OpenAI 表示 2027 年前不上市，正处新一轮融资早期讨论阶段。</description>
-      <pubDate>Sat, 19 Sep 2026 00:07:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/004/369.htm</guid>
-      <source url="https://www.ithome.com/1/004/369.htm">IT之家（RSS）</source>
     </item>
   </channel>
 </rss>
