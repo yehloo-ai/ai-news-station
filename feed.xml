@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 15:59:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:43:04 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号</title>
+      <link>https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector</link>
+      <description>作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。</description>
+      <pubDate>Sun, 20 Sep 2026 18:05:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector</guid>
+      <source url="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector">Hacker News 热门（buzzing.cc 中文翻译）</source>
+    </item>
     <item>
       <title>特朗普现在说,他想要组建一支“人工情报部队”。</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 19 Sep 2026 00:07:04 +0000</pubDate>
       <guid isPermaLink="true">https://www.ithome.com/1/004/369.htm</guid>
       <source url="https://www.ithome.com/1/004/369.htm">IT之家（RSS）</source>
-    </item>
-    <item>
-      <title>传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道</title>
-      <link>http://www.geekpark.net/news/370608</link>
-      <description>谷歌最新旗舰模型 Gemini 4 Pro 疑似「偷跑」，多项指标领先 Astra 和 Fable 5.1 9 月 18 日，Google 下一代旗舰模型 Gemini 4 Pro 疑似正以「gemini-3.8-flash」名称「偷跑」上线。据反馈，谷歌在 Arena 等基准平台上测试了其最强 Gemini 4 Pro 模型，内部开发代号为 Argon。 网上流传的一张测试图显示，该模型在智能体编程测试 DeepSWE v1.1 中得分超过 88%，在 Terminal-bench 2.1 和 OSWorld 2.0 中分别获得 95.3%和 86.8%的成绩，高于 GPT-6 Astra</description>
-      <pubDate>Sat, 19 Sep 2026 08:01:42 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370608</guid>
-      <source url="http://www.geekpark.net/news/370608">极客公园</source>
     </item>
   </channel>
 </rss>
