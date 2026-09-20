@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 11:14:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 15:59:10 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>特朗普现在说,他想要组建一支“人工情报部队”。</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar</link>
+      <description>总统在《真理社会》上发文说,他希望任命一个“人工情报沙皇”领导一个新的“人工情报部队 ” 。 他宣布,在政治界甚至行业内部越来越多的呼声中,要为人工情报的发展注入阻力。 他还发文说,他的政府“不会在任何W中出现。 ”</description>
+      <pubDate>Sun, 20 Sep 2026 11:39:22 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar">The Verge AI</source>
+    </item>
+    <item>
+      <title>Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载</title>
+      <link>https://x.com/Alibaba_Qwen/status/2101670814953455780</link>
+      <description>Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。</description>
+      <pubDate>Sun, 20 Sep 2026 13:52:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2101670814953455780</guid>
+      <source url="https://x.com/Alibaba_Qwen/status/2101670814953455780">X：通义千问 / Qwen (@Alibaba_Qwen)</source>
+    </item>
+    <item>
+      <title>Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像</title>
+      <link>https://qwen.ai/blog?id=qwen-image-2.1</link>
+      <description>Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。</description>
+      <pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen-image-2.1</guid>
+      <source url="https://qwen.ai/blog?id=qwen-image-2.1">Qwen：Blog Retrieval（API）</source>
+    </item>
+    <item>
+      <title>人类,而不是无赖的人工智能,仍然是能源系统最大的网络安全风险.</title>
+      <link>https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure</link>
+      <description>在最近高调的黑客入侵之前,人工智能的光谱可能"杀死所有人类",我们的能源系统已经令人不安地容易受到网络攻击——而风险也在增加,"我们一直是猎物,我们只是因为捕食者的食欲而幸存,"Joshua Corman,执行官.</description>
+      <pubDate>Sun, 20 Sep 2026 08:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure</guid>
+      <source url="https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure">The Verge AI</source>
+    </item>
     <item>
       <title>APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策</title>
       <link>https://www.qbitai.com/2026/09/492939.html</link>
@@ -134,38 +166,6 @@
       <pubDate>Sat, 19 Sep 2026 08:01:42 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/370608</guid>
       <source url="http://www.geekpark.net/news/370608">极客公园</source>
-    </item>
-    <item>
-      <title>FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B</title>
-      <link>https://x.com/rohanpaul_ai/status/2101095915654463533</link>
-      <description>FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。</description>
-      <pubDate>Fri, 18 Sep 2026 23:47:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2101095915654463533</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2101095915654463533">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取</title>
-      <link>https://www.ithome.com/1/004/356.htm</link>
-      <description>《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。</description>
-      <pubDate>Fri, 18 Sep 2026 23:13:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/004/356.htm</guid>
-      <source url="https://www.ithome.com/1/004/356.htm">IT之家（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI 和 微软知道他们正在为网络启动一个“圈子 ”</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</link>
-      <description>最近纽约时报对OpenAI和微软的起诉中未封存的法院文件相当令人发指。 公司自己的文件警告说,它正在开始一个会破坏网络的"死环",并说它为了训练模型而刮去的数据是“最大的窃取劳工一号”</description>
-      <pubDate>Fri, 18 Sep 2026 17:07:24 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero">The Verge AI</source>
-    </item>
-    <item>
-      <title>Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争</title>
-      <link>https://garymarcus.substack.com/p/the-real-reason-trump-is-standing</link>
-      <description>Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军准备拦截，据称"几乎引发战争"。</description>
-      <pubDate>Fri, 18 Sep 2026 19:52:12 +0000</pubDate>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/the-real-reason-trump-is-standing</guid>
-      <source url="https://garymarcus.substack.com/p/the-real-reason-trump-is-standing">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
     </item>
   </channel>
 </rss>
