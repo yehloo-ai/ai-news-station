@@ -254,5 +254,21 @@
     "sourceUrl": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
     "sourceName": "Qwen：Blog Retrieval（API）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+    "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+    "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+    "sourceName": "Qwen：Blog Retrieval（API）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+    "summary": "阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+    "sourceName": "公众号：阶跃星辰（Step）",
+    "reviewReason": "awaiting-review"
   }
 ]
