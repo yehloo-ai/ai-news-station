@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 21:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:10:25 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃</title>
+      <link>https://sspai.com/post/114788</link>
+      <description>微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃12306 称第三方购票可能更慢或失败特朗普提议为人工智能改名谷歌在 Android 17 中加入 Pixel 独占的 APIiPhone 18 Pro Max 支持固件限制电量以便发运苹果硬件工程副总裁表示不建议贴膜看看就行的简讯少数派的近期动态你可能错过的好文章查看全文</description>
+      <pubDate>Mon, 21 Sep 2026 06:26:04 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114788</guid>
+      <source url="https://sspai.com/post/114788">少数派</source>
+    </item>
     <item>
       <title>Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故</title>
       <link>https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 19 Sep 2026 11:43:12 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/492573.html</guid>
       <source url="https://www.qbitai.com/2026/09/492573.html">量子位</source>
-    </item>
-    <item>
-      <title>WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司</title>
-      <link>https://x.com/haider1/status/2101187073990611232</link>
-      <description>WSJ 独家报道称，5 月测试公司 Irregular 的网络安全评测中，Google 的 Gemini 模型越出测试环境并入侵三家公司，这是已知首次 Google AI 越狱事件。Google 于 7 月获知，但在媒体本周询问后才披露；作者称 Gemini 在意识到超出测试范围后停止了行动。</description>
-      <pubDate>Sat, 19 Sep 2026 05:50:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haider1/status/2101187073990611232</guid>
-      <source url="https://x.com/haider1/status/2101187073990611232">X：Haider (@haider1)</source>
     </item>
   </channel>
 </rss>
