@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 21 Sep 2026 00:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 04:50:37 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃</title>
-      <link>https://sspai.com/post/114788</link>
-      <description>微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃12306 称第三方购票可能更慢或失败特朗普提议为人工智能改名谷歌在 Android 17 中加入 Pixel 独占的 APIiPhone 18 Pro Max 支持固件限制电量以便发运苹果硬件工程副总裁表示不建议贴膜看看就行的简讯少数派的近期动态你可能错过的好文章查看全文</description>
-      <pubDate>Mon, 21 Sep 2026 06:26:04 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114788</guid>
-      <source url="https://sspai.com/post/114788">少数派</source>
+      <title>RBS- 注意: 长文本大语言模型的半径- 边框预置</title>
+      <link>https://arxiv.org/abs/2609.20971</link>
+      <description>长文大语言模型推论越来越受预填的限制,在预填中,密集自留会处理整个启动前的快取. Sparse块选择可以降低这一成本,但块心机器人可能隐藏一个高度回放.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20971</guid>
+      <source url="https://arxiv.org/abs/2609.20971">ArXiv AI</source>
     </item>
     <item>
-      <title>Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故</title>
-      <link>https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests</link>
-      <description>Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。</description>
-      <pubDate>Sun, 20 Sep 2026 20:20:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests</guid>
-      <source url="https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests">MarkTechPost（RSS）</source>
+      <title>注意- 注意跑道: 教育部的连接跑道和注意</title>
+      <link>https://arxiv.org/abs/2609.20974</link>
+      <description>在 Mixture-of-Experts 语言模型中,路由器通常根据符号的隐藏状态选择和加权专家,使用有限的上下文信息。我们提议注意-Aware Routing(AAR),它用时间和s来增强路由器。</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20974</guid>
+      <source url="https://arxiv.org/abs/2609.20974">ArXiv AI</source>
     </item>
     <item>
-      <title>Nvidia的Jensen Huang认为人工智能恐惧过度,</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown</link>
-      <description>可能从人工智能繁荣中挣得最多钱的人似乎认为他比任何人都了解,包括研究并工作了几十年的人工智能的研究人员. 他在接受CBS Sunday Morning的采访时声称,人工智能有"0%的机率"是"[...]的终结".</description>
-      <pubDate>Sun, 20 Sep 2026 14:50:18 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown">The Verge AI</source>
+      <title>CALR: 强力扩散诱导因子修订</title>
+      <link>https://arxiv.org/abs/2609.20981</link>
+      <description>自动递减(AR)模型受到局部贪婪的困扰,而扩散语言模型(DLMs)则往往缺乏推理所需的严格的因果结构. 为了结合双元的优点并克服缺点,我们提议 Causal Latent Re</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20981</guid>
+      <source url="https://arxiv.org/abs/2609.20981">ArXiv AI</source>
     </item>
     <item>
-      <title>独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号</title>
-      <link>https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector</link>
-      <description>作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。</description>
-      <pubDate>Sun, 20 Sep 2026 18:05:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector</guid>
-      <source url="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector">Hacker News 热门（buzzing.cc 中文翻译）</source>
+      <title>LoRA 与 SAS 愿景变换器增强对比学习</title>
+      <link>https://arxiv.org/abs/2609.21061</link>
+      <description>拥有合成孔径声纳(SAS)的自动目标识别(ATR)支持先进的海军能力,但深度学习受到稀缺的目标图像、背景杂乱和人入室评估的限制。 我们适应了DINOv3 Vision Transfo。</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.21061</guid>
+      <source url="https://arxiv.org/abs/2609.21061">ArXiv AI</source>
     </item>
     <item>
-      <title>特朗普现在说,他想要组建一支“人工情报部队”。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar</link>
-      <description>总统在《真理社会》上发文说,他希望任命一个“人工情报沙皇”领导一个新的“人工情报部队 ” 。 他宣布,在政治界甚至行业内部越来越多的呼声中,要为人工情报的发展注入阻力。 他还发文说,他的政府“不会在任何W中出现。 ”</description>
-      <pubDate>Sun, 20 Sep 2026 11:39:22 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar">The Verge AI</source>
+      <title>在 LLMS 中检测幻觉:追踪存在障碍的地形特征</title>
+      <link>https://arxiv.org/abs/2609.21096</link>
+      <description>在这项工作中,我们研究了关注图中信息流动模式的地貌,以便有效地区分幻觉和非卤化反应。</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.21096</guid>
+      <source url="https://arxiv.org/abs/2609.21096">ArXiv AI</source>
     </item>
     <item>
-      <title>Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载</title>
-      <link>https://x.com/Alibaba_Qwen/status/2101670814953455780</link>
-      <description>Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。</description>
-      <pubDate>Sun, 20 Sep 2026 13:52:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2101670814953455780</guid>
-      <source url="https://x.com/Alibaba_Qwen/status/2101670814953455780">X：通义千问 / Qwen (@Alibaba_Qwen)</source>
+      <title>高效分发学习的 Sparse 前科</title>
+      <link>https://arxiv.org/abs/2609.20883</link>
+      <description>arXiv:2609.20883v1 Announce Type: new Abstract: Despite the widespread use and success of generative AI techniques today, theoretical guarantees on learning a distribution supported in $d$ dimensions from $n$ samples degrade as $O(n^{-1/\Theta(d)})$, though shown to be minimax optimal. We hypothesiz</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20883</guid>
+      <source url="https://arxiv.org/abs/2609.20883">ArXiv ML</source>
     </item>
     <item>
-      <title>Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像</title>
-      <link>https://qwen.ai/blog?id=qwen-image-2.1</link>
-      <description>Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。</description>
-      <pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen-image-2.1</guid>
-      <source url="https://qwen.ai/blog?id=qwen-image-2.1">Qwen：Blog Retrieval（API）</source>
+      <title>BI - Agent and BI - Bench:走向自动化端到端的商业情报</title>
+      <link>https://arxiv.org/abs/2609.20886</link>
+      <description>商业智能(BI)是企业决策的基石,被企业用户广泛用于"Power BI"和"Tableau"等软件. 在传统的BI工作流程中,用户需要通过 (1) 识别相关表格来准备数据, (2) p.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20886</guid>
+      <source url="https://arxiv.org/abs/2609.20886">ArXiv ML</source>
     </item>
     <item>
-      <title>人类,而不是无赖的人工智能,仍然是能源系统最大的网络安全风险.</title>
-      <link>https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure</link>
-      <description>在最近高调的黑客入侵之前,人工智能的光谱可能"杀死所有人类",我们的能源系统已经令人不安地容易受到网络攻击——而风险也在增加,"我们一直是猎物,我们只是因为捕食者的食欲而幸存,"Joshua Corman,执行官.</description>
-      <pubDate>Sun, 20 Sep 2026 08:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure</guid>
-      <source url="https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure">The Verge AI</source>
+      <title>弹性阈值 注意: 长文本解码的学习背景</title>
+      <link>https://arxiv.org/abs/2609.20888</link>
+      <description>大量 KV 缓存在长文本解码过程中会引发严重的内存带宽瓶颈. Sparse 注意方法通过选择性加载来缓解这一点,但这需要付出代价:僵硬的heuristics降下必要的上下文,导致质量的去格勒达蒂奥</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20888</guid>
+      <source url="https://arxiv.org/abs/2609.20888">ArXiv ML</source>
     </item>
     <item>
-      <title>APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策</title>
-      <link>https://www.qbitai.com/2026/09/492939.html</link>
-      <description>9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果</description>
-      <pubDate>Sun, 20 Sep 2026 08:30:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492939.html</guid>
-      <source url="https://www.qbitai.com/2026/09/492939.html">量子位</source>
+      <title>生物-MF:低密度和高纯度 EEG-至fNIRS 混合机电磁脑-计算机接口的跨模组生成</title>
+      <link>https://arxiv.org/abs/2609.20904</link>
+      <description>结合EEG和FNIRS的混合运动成像脑-计算机接口(MI-BCI)可以通过利用互补的电生学和血动力学信息来超越EEG的系统。</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20904</guid>
+      <source url="https://arxiv.org/abs/2609.20904">ArXiv ML</source>
     </item>
     <item>
-      <title>机器人如何自进化，乐享科技走了一条新路</title>
-      <link>http://www.geekpark.net/news/370665</link>
-      <description>作者｜Li Yuan 编辑｜郑玄 最近，乐享科技因为一个颇大胆的 claim，引发了不少关注：它提出，其具身智能模型以太大模型能够在部署和执行过程中持续更新，并将这种能力概括为「自进化」，是全球首个能自进化的具身智能模型。 自进化是一个容易引起争议的说法。「进化」究竟是模型参数发生了变化，还是进行了任务的临时调整？在多大程度上这样的调整能够变成可迁移的新能力？一个模型能够适配不同场景和不同身体，又应该被理解为工程层面的泛化，还是更强意义上的持续成长？在机器人行业仍然需要解决稳定执行问题的阶段，「自进化」显然是一个需要被谨慎对待的判断。 近日，乐享科技又进行了一场户外直播。按照直播前公布的目标，</description>
-      <pubDate>Sun, 20 Sep 2026 15:15:14 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370665</guid>
-      <source url="http://www.geekpark.net/news/370665">极客公园</source>
+      <title>从天体物理时间系列研究的历史中不断学习延后记忆、渐变和持续时间强化</title>
+      <link>https://arxiv.org/abs/2609.20906</link>
+      <description>Quasars是宇宙中亮度变化的物体, 显示超大质量黑洞的亮度变化编码信息, 从地面调查数据时间序列中模拟这些变化, 被称为光克</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20906</guid>
+      <source url="https://arxiv.org/abs/2609.20906">ArXiv ML</source>
     </item>
     <item>
-      <title>不可逆的人类衰老，快被 AI 破解了</title>
-      <link>http://www.geekpark.net/news/370664</link>
-      <description>作者｜Li Yuan 编辑｜郑玄 &amp;nbsp; 2026 年 9 月，42 个平均 67 岁的人，在六只不同的时钟上同时变年轻了。 这些时钟不在墙上，而在他们的血液里。 服用一种名叫 rentosertib 的药物四周后，患者体内近 3000 种蛋白被检测，其中 326 种发生显著变化。六套由不同团队开发的模型都认为，他们的身体正在朝更年轻的方向移动。 多数时钟倒退了 3 到 4 年。其中一只，倒退了接近 6 年。 更不可思议的是，这款药是 AI 做出来的。 它来自英矽智能，一家已经登陆港交所、也是目前全球临床进展最快的 AI 制药公司之一。AI 帮助它从海量生物数据中找到靶点，再设计出能够作</description>
-      <pubDate>Sun, 20 Sep 2026 15:08:22 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370664</guid>
-      <source url="http://www.geekpark.net/news/370664">极客公园</source>
+      <title>小语言模型知道自己不知道的吗?</title>
+      <link>https://arxiv.org/abs/2609.20824</link>
+      <description>arXiv:2609.20824v1 Announce Type: new Abstract: We explore whether entropy-based confidence signals can be leveraged to improve the accuracy of Small Language Models (SLMs) with fewer than 3 billion parameters, running entirely on consumer hardware. We evaluate seven distinct approaches, including t</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20824</guid>
+      <source url="https://arxiv.org/abs/2609.20824">ArXiv NLP</source>
     </item>
     <item>
-      <title>体验完 Step 5 Preview，我发现阶跃重新坐上国产大模型主桌</title>
-      <link>https://www.ifanr.com/1680881?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>模型入海，阶跃走向人群#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sun, 20 Sep 2026 04:00:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1680881?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1680881?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>从临床说明中得出对病人结果的预测的矛盾性知识图</title>
+      <link>https://arxiv.org/abs/2609.20825</link>
+      <description>临床预测模型往往依赖于结构化的电子健康记录数据,如时间序列和程序代码。 虽然最近的方法已经开始利用非结构化的临床说明,但它们通常将它们编码为平分序列(m)</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20825</guid>
+      <source url="https://arxiv.org/abs/2609.20825">ArXiv NLP</source>
     </item>
     <item>
-      <title>阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488120&amp;idx=1&amp;sn=8ba9ac7f0b36682d6262290677c665da</link>
-      <description>阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。</description>
-      <pubDate>Sun, 20 Sep 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488120&amp;idx=1&amp;sn=8ba9ac7f0b36682d6262290677c665da</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&amp;mid=2247488120&amp;idx=1&amp;sn=8ba9ac7f0b36682d6262290677c665da">公众号：阶跃星辰（Step）</source>
+      <title>TALON:放射学报告编制临时认识的纵向框架</title>
+      <link>https://arxiv.org/abs/2609.20826</link>
+      <description>目前的放射学报告生成模型通常根据一次检查或仅根据最近的前一次检查产生描述性报告,限制其进行准确和有意义的纵向比较和检测的能力</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20826</guid>
+      <source url="https://arxiv.org/abs/2609.20826">ArXiv NLP</source>
     </item>
     <item>
-      <title>Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与</title>
-      <link>http://www.geekpark.net/news/370615</link>
-      <description>传 Anthropic 计划在 IPO 前夕推出新一代 AI 模型助力资本市场信心 据路透社援引多名知情人士消息透露，全球顶尖人工智能初创企业 Anthropic 正考虑在公开首次募股（IPO）之前，正式发布其最新的旗舰级人工智能模型。这一战略举措旨在进一步巩固其在生成式 AI 领域的市场领先地位，同时在关键的资本市场亮相节点前，向潜在投资者展示其强劲的技术迭代能力与商业化前景。 知情人士指出，作为 OpenAI 的强劲对手以及 Claude 系列大模型的开发商，Anthropic 目前正在对这款新模型进行最后的内部测试与性能调优。尽管具体的发布时间表与模型技术细节仍存在根据市场反馈调整的可能</description>
-      <pubDate>Sun, 20 Sep 2026 08:36:42 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370615</guid>
-      <source url="http://www.geekpark.net/news/370615">极客公园</source>
+      <title>从放电说明到患者理解:作为放电教育者的LLMs的无端模拟</title>
+      <link>https://arxiv.org/abs/2609.20827</link>
+      <description>医院出院教育是一项交互式教学任务:临床医生根据病人的识字、记忆和个性调整出院计划。 现有的LLM评价针对静态或人工生成任务,而不是测量病人的静态。</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20827</guid>
+      <source url="https://arxiv.org/abs/2609.20827">ArXiv NLP</source>
     </item>
     <item>
-      <title>纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit</link>
-      <description>纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是"人类历史上最大规模的劳动力盗用"，OpenAI ChatGPT 负责人称其对出版商是"生存威胁"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。</description>
-      <pubDate>Sat, 19 Sep 2026 23:58:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit</guid>
-      <source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit">Hacker News 热门（buzzing.cc 中文翻译）</source>
+      <title>超越WER: 实体和不灵感 重回Acpointed Conversational ASR</title>
+      <link>https://arxiv.org/abs/2609.20828</link>
+      <description>对 Word 错误率(WER) 优化的 ASR 系统经常会错过被命名的实体,并用重口音的英语来填充暂停,这都对语言学习反馈至关重要。 我们为来自印度、印度尼西亚和Lati的演讲者提供了一个三阶段的管道。</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20828</guid>
+      <source url="https://arxiv.org/abs/2609.20828">ArXiv NLP</source>
     </item>
     <item>
-      <title>Meta的Muse令人毛骨悚然,</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy</link>
-      <description>Meta的"Muse"显然是一个有效的人工智能助手,但有点令人毛骨悚然,部分是因为它的新Mac应用可以访问Messages, Calendar, and Notes. 但对于它的聪明人来说,Muse实际上不知道如何描述自己. Jason Aten, Inc Magazin的撰稿编辑.</description>
-      <pubDate>Sat, 19 Sep 2026 16:44:40 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy">The Verge AI</source>
+      <title>Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化</title>
+      <link>http://www.geekpark.net/news/370607</link>
+      <description>作者｜Li Yuan 390 亿美元的 Figure AI 已经把机器人送进 30 个陌生家庭，同行却说失败一半还谈不上会干活 「这是 Figure AI 成立以来最重要的项目。」 在 Helix 2.5 的发布视频里，Figure AI 创始人 Brett Adcock 把话说得很满。 Figure AI 目前估值达到 390 亿美元，是全球最贵的未上市人形机器人公司，致力于以人形完成人类的日常任务。 过去几代 Helix 的发布都留下了颇有记忆点的画面：两台机器人合作拉平被子，或者在腾不出手时用屁股顶上洗碗机。不过，此前的 Helix 虽然已经能够自主工作，收获的最大诟病之一就是，每次的</description>
+      <pubDate>Mon, 21 Sep 2026 11:57:07 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370607</guid>
+      <source url="http://www.geekpark.net/news/370607">极客公园</source>
     </item>
     <item>
-      <title>双子座不听话 黑了三家公司 Google藏了起来</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</link>
-      <description>5月,双子座突破了封隔并黑入了3个不同的公司,但谷歌直到"华尔街日报"接近公司才披露出这起事件. 黑客发生在第三方Irrrent公司运行的模型网络安全能力测试中,后者也参与了sim.</description>
-      <pubDate>Sat, 19 Sep 2026 11:25:03 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack">The Verge AI</source>
+      <title>当 AI 让执行力变得廉价，我们该拿什么脱颖而出？</title>
+      <link>https://sspai.com/post/114519</link>
+      <description>当代码与设计的生产成本趋近于零，我们可以这样跳出工具的依赖，构建属于自己的优势和认知壁垒。查看全文</description>
+      <pubDate>Mon, 21 Sep 2026 11:38:08 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114519</guid>
+      <source url="https://sspai.com/post/114519">少数派</source>
     </item>
     <item>
-      <title>人工智能是否需要反托拉斯豁免,</title>
-      <link>https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition</link>
-      <description>今天在Decoder上,我们得到了两部关于商业前途的系列的第一部,我正在和前拜登政府美国司法部反托拉斯主管乔纳森·坎特(Jonathan Kanter)交谈。 这些天,他既是WashU的法学教授,也是POL的技术教授。</description>
-      <pubDate>Sat, 19 Sep 2026 10:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition</guid>
-      <source url="https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition">The Verge AI</source>
+      <title>通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑</title>
+      <link>https://x.com/Alibaba_Qwen/status/2101866671900401913</link>
+      <description>通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1</description>
+      <pubDate>Mon, 21 Sep 2026 02:50:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2101866671900401913</guid>
+      <source url="https://x.com/Alibaba_Qwen/status/2101866671900401913">X：通义千问 / Qwen (@Alibaba_Qwen)</source>
     </item>
     <item>
-      <title>人工智能的打击并未结束。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over</link>
-      <description>本周开始时,人工智能的主人似乎至少暂时站在人工智能监管一边。 在周末,Anthropic CEODario Amodei提出了一个减缓人工智能发展的三步计划,包括将第三方评估人员嵌入实验室,协调国内各方面。</description>
-      <pubDate>Sat, 19 Sep 2026 09:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over">The Verge AI</source>
+      <title>百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布</title>
+      <link>https://www.qbitai.com/2026/09/493114.html</link>
+      <description>《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。</description>
+      <pubDate>Mon, 21 Sep 2026 02:28:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/493114.html</guid>
+      <source url="https://www.qbitai.com/2026/09/493114.html">量子位</source>
     </item>
     <item>
-      <title>27B模型分分钟交付网页，Qwen 3.8还是太能了</title>
-      <link>https://www.qbitai.com/2026/09/492573.html</link>
-      <description>设计、前端一口气全干了，结果后端没来上班</description>
-      <pubDate>Sat, 19 Sep 2026 11:43:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492573.html</guid>
-      <source url="https://www.qbitai.com/2026/09/492573.html">量子位</source>
+      <title>森海塞尔 MOMENTUM 5 体验：AI 时代的稳重选择</title>
+      <link>https://www.ifanr.com/1681181?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>耳机依旧是耳机，只是如今一副好耳机既要足够好听，也要能够接住你的声音。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 21 Sep 2026 02:24:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1681181?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1681181?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
