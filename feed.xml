@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 04:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:52:36 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jev只是让人工智能更快200x。</title>
+      <link>https://www.youtube.com/watch?v=qBBRRsH0rQc</link>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.com/watch?v=4RtUJkjrKMI Previous papers, implementations, models: https://openjev.com/ https://huggingface.co/convai</description>
+      <pubDate>Tue, 22 Sep 2026 09:32:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=qBBRRsH0rQc</guid>
+      <source url="https://www.youtube.com/watch?v=qBBRRsH0rQc">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建</title>
+      <link>https://www.qbitai.com/2026/09/493865.html</link>
+      <description>9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”</description>
+      <pubDate>Tue, 22 Sep 2026 08:49:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/493865.html</guid>
+      <source url="https://www.qbitai.com/2026/09/493865.html">量子位</source>
+    </item>
     <item>
       <title>Meta 个人 AI 助手刚火 13 天，Amazon 就拉闸了</title>
       <link>http://www.geekpark.net/news/370797</link>
@@ -150,22 +166,6 @@
       <pubDate>Tue, 22 Sep 2026 03:42:43 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/493625.html</guid>
       <source url="https://www.qbitai.com/2026/09/493625.html">量子位</source>
-    </item>
-    <item>
-      <title>卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686569&amp;idx=1&amp;sn=f716d3dd70259240800a67b9fabd53fd</link>
-      <description>作者实测同日凌晨发布的 Grok 4.7 与小米 MiMo V2.6，认为 Grok 4.7 低于预期，MiMo V2.6 成为性能、价格、速度三角的当前版本答案。</description>
-      <pubDate>Tue, 22 Sep 2026 02:02:03 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686569&amp;idx=1&amp;sn=f716d3dd70259240800a67b9fabd53fd</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686569&amp;idx=1&amp;sn=f716d3dd70259240800a67b9fabd53fd">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8</title>
-      <link>https://x.com/ArtificialAnlys/status/2102213621963243704</link>
-      <description>Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。</description>
-      <pubDate>Tue, 22 Sep 2026 01:49:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102213621963243704</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2102213621963243704">X：Artificial Analysis (@ArtificialAnlys)</source>
     </item>
   </channel>
 </rss>
