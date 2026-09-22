@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:44:47 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3</title>
-      <link>https://x.com/arena/status/2102142912943489220</link>
-      <description>小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。</description>
-      <pubDate>Mon, 21 Sep 2026 21:08:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2102142912943489220</guid>
-      <source url="https://x.com/arena/status/2102142912943489220">X：Arena (@arena)</source>
+      <title>Meta 个人 AI 助手刚火 13 天，Amazon 就拉闸了</title>
+      <link>http://www.geekpark.net/news/370797</link>
+      <description>9 月 21 日，一条弹窗开始出现在试图用 Meta Muse 在 Amazon 上购物的用户屏幕上：「未经授权的 AI Agent 继续访问，将违反 Amazon 使用条款。」 这距离 Muse 正式上线，仅仅过了 13 天。 Meta 推出的个人 AI 助手 Muse 最近爆火｜图片来源：Meta Meta 在 9 月 8 日发布了 Muse，把它定义为「全球第一款，为所有人打造的个人 AI Agent」。和 ChatGPT、Claude 这些聊天机器人不同，Muse 不只是回答问题，它能打开浏览器、登录你的邮箱、填表格、订机票，甚至直接替你下单买东西。 效果立竿见影，Sensor Tow</description>
+      <pubDate>Tue, 22 Sep 2026 12:01:13 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370797</guid>
+      <source url="http://www.geekpark.net/news/370797">极客公园</source>
     </item>
     <item>
-      <title>小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数</title>
-      <link>https://x.com/ClementDelangue/status/2102141768674222323</link>
-      <description>小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。</description>
-      <pubDate>Mon, 21 Sep 2026 21:03:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ClementDelangue/status/2102141768674222323</guid>
-      <source url="https://x.com/ClementDelangue/status/2102141768674222323">X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)</source>
+      <title>RBS- 注意: 长文本大语言模型的半径- 边框预置</title>
+      <link>https://arxiv.org/abs/2609.20971</link>
+      <description>长文大语言模型推论越来越受预填的限制,在预填中,密集自留会处理整个启动前的快取. Sparse块选择可以降低这一成本,但块心机器人可能隐藏一个高度回放.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20971</guid>
+      <source url="https://arxiv.org/abs/2609.20971">ArXiv AI</source>
     </item>
     <item>
-      <title>小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型</title>
-      <link>https://x.com/XiaomiMiMo/status/2102138559952290106</link>
-      <description>小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。</description>
-      <pubDate>Mon, 21 Sep 2026 20:51:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/XiaomiMiMo/status/2102138559952290106</guid>
-      <source url="https://x.com/XiaomiMiMo/status/2102138559952290106">X：小米 MiMo (@XiaomiMiMo)</source>
+      <title>注意- 注意跑道: 教育部的连接跑道和注意</title>
+      <link>https://arxiv.org/abs/2609.20974</link>
+      <description>在 Mixture-of-Experts 语言模型中,路由器通常根据符号的隐藏状态选择和加权专家,使用有限的上下文信息。我们提议注意-Aware Routing(AAR),它用时间和s来增强路由器。</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20974</guid>
+      <source url="https://arxiv.org/abs/2609.20974">ArXiv AI</source>
     </item>
     <item>
-      <title>加利福尼亚州对人工智能数据中心的能量和水的使用 严格了规则</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills</link>
-      <description>Gavin Newsom已经签署了7项法案,旨在防止人工智能数据中心将公用设施成本转移给居民,如《洛杉矶时报》早些时候报道的那样。 这套法律要求加利福尼亚公用事业委员会引入新的数据cen费率分类。</description>
-      <pubDate>Mon, 21 Sep 2026 16:29:45 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills">The Verge AI</source>
+      <title>CALR: 强力扩散诱导因子修订</title>
+      <link>https://arxiv.org/abs/2609.20981</link>
+      <description>自动递减(AR)模型受到局部贪婪的困扰,而扩散语言模型(DLMs)则往往缺乏推理所需的严格的因果结构. 为了结合双元的优点并克服缺点,我们提议 Causal Latent Re</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20981</guid>
+      <source url="https://arxiv.org/abs/2609.20981">ArXiv AI</source>
     </item>
     <item>
-      <title>小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升</title>
-      <link>https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&amp;mid=2247484969&amp;idx=1&amp;sn=76c4757b26a2b646e1b690bf78c386d8</link>
-      <description>Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro 与 Flash 两个原生全模态模型，称这是探索 RSI（递归自我改进）路径的关键一步。</description>
-      <pubDate>Mon, 21 Sep 2026 20:18:52 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&amp;mid=2247484969&amp;idx=1&amp;sn=76c4757b26a2b646e1b690bf78c386d8</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&amp;mid=2247484969&amp;idx=1&amp;sn=76c4757b26a2b646e1b690bf78c386d8">公众号：小米 MiMo</source>
+      <title>LoRA 与 SAS 愿景变换器增强对比学习</title>
+      <link>https://arxiv.org/abs/2609.21061</link>
+      <description>拥有合成孔径声纳(SAS)的自动目标识别(ATR)支持先进的海军能力,但深度学习受到稀缺的目标图像、背景杂乱和人入室评估的限制。 我们适应了DINOv3 Vision Transfo。</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.21061</guid>
+      <source url="https://arxiv.org/abs/2609.21061">ArXiv AI</source>
     </item>
     <item>
-      <title>不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方</title>
-      <link>https://x.com/rohanpaul_ai/status/2102128625126605059</link>
-      <description>不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。</description>
-      <pubDate>Mon, 21 Sep 2026 20:11:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2102128625126605059</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2102128625126605059">X：Rohan Paul (@rohanpaul_ai)</source>
+      <title>在 LLMS 中检测幻觉:追踪存在障碍的地形特征</title>
+      <link>https://arxiv.org/abs/2609.21096</link>
+      <description>在这项工作中,我们研究了关注图中信息流动模式的地貌,以便有效地区分幻觉和非卤化反应。</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.21096</guid>
+      <source url="https://arxiv.org/abs/2609.21096">ArXiv AI</source>
     </item>
     <item>
-      <title>Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56</title>
-      <link>https://artificialanalysis.ai/articles/benchmarking-grok-4-7</link>
-      <description>Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。</description>
-      <pubDate>Mon, 21 Sep 2026 19:41:25 +0000</pubDate>
-      <guid isPermaLink="true">https://artificialanalysis.ai/articles/benchmarking-grok-4-7</guid>
-      <source url="https://artificialanalysis.ai/articles/benchmarking-grok-4-7">Artificial Analysis 完整文章（网页）</source>
+      <title>PRQuant:低头推论的持久性残余量化</title>
+      <link>https://arxiv.org/abs/2609.22106</link>
+      <description>线性地层低位量化的精确度往往被少数外值所取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22106</guid>
+      <source url="https://arxiv.org/abs/2609.22106">ArXiv ML</source>
     </item>
     <item>
-      <title>Figma GAVE GPT-6 Astra 月球拍摄。</title>
-      <link>https://www.youtube.com/watch?v=rRm3Vnb7UPY</link>
-      <description>约翰给了GPT-6 Astra一个月射:为新的个人飞机设计飞行控制体验。 生成接口和设计系统之间的差距很大,而人工智能模型一直不足。直到现在,Astra通过观众、待完成的工作、飞行员和乘客来推理。</description>
-      <pubDate>Mon, 21 Sep 2026 19:25:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=rRm3Vnb7UPY</guid>
-      <source url="https://www.youtube.com/watch?v=rRm3Vnb7UPY">OpenAI</source>
+      <title>通用多模态基础模型</title>
+      <link>https://arxiv.org/abs/2609.22107</link>
+      <description>使用多模式数据进行预测被广泛用于多种设想. 现有的多模式聚变模型一旦被应用,只能处理预先定义的模式(如视觉,文字和音频)和单项任务,因此难以迅速适应.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22107</guid>
+      <source url="https://arxiv.org/abs/2609.22107">ArXiv ML</source>
     </item>
     <item>
-      <title>1 提示, 一个特性构建和测试。 QQ Ramp × GBT-6 Astra</title>
-      <link>https://www.youtube.com/watch?v=p7TjXroM4ak</link>
-      <description>Veeral 给了 GPT-6 Astra 单行特性请求: 为单个 API 密钥添加路由控制。 Astra 找到了正确的设置, 做了修改, 并使用计算机检查自己的工作。 它没有被询问就验证了移动体验 。 执行时间大约为 12 分钟。 另外 15 个 val</description>
-      <pubDate>Mon, 21 Sep 2026 19:22:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=p7TjXroM4ak</guid>
-      <source url="https://www.youtube.com/watch?v=p7TjXroM4ak">OpenAI</source>
+      <title>纠正基于学习的安全观念</title>
+      <link>https://arxiv.org/abs/2609.22108</link>
+      <description>学习感知在许多自主系统中都很重要。 与传统传感器不同,ML感知有效或不起作用的界限特征差。 不正确感知可能导致下游不安全或明显保守。</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22108</guid>
+      <source url="https://arxiv.org/abs/2609.22108">ArXiv ML</source>
     </item>
     <item>
-      <title>" 一个工作人员工程师合作者 " 。</title>
-      <link>https://www.youtube.com/watch?v=dtNlpZI86Dk</link>
-      <description>别睡在Astra身上。 Quinn Johnson开始与GPT-6 Astra在Codex中不同地合作:他与GPT-6有着共同的目标,增加了上下文,并让它解决他团队一直在处理的问题。 在一次缓存-重复使用审计中,Astra连接的图案被Notion团队忽略了,然后清楚地解释了这个问题。</description>
-      <pubDate>Mon, 21 Sep 2026 19:17:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=dtNlpZI86Dk</guid>
-      <source url="https://www.youtube.com/watch?v=dtNlpZI86Dk">OpenAI</source>
+      <title>共享学习率不是在选择性策略扭曲中的中性控制</title>
+      <link>https://arxiv.org/abs/2609.22109</link>
+      <description>选择性的策略蒸馏只训练一个学生在符号位置上选择一个选择者得分最高的分数,文献将选择者在单一共享的学习率-一个选择中立的控制下进行比较。我们显示不是。在GSM8K上的LORA(LORA)下(LOSM8K).</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22109</guid>
+      <source url="https://arxiv.org/abs/2609.22109">ArXiv ML</source>
     </item>
     <item>
-      <title>“大Jaw Drop,字面意思是。 ”酷利如何与OpenAI一起重新构思IPO?</title>
-      <link>https://www.youtube.com/watch?v=4swQ0YknTLs</link>
-      <description>“我们如何为客户节省时间、精力和精力? ”对Cooley的首席创新官David Wang来说,这个问题对于IPO的准备工作至关重要,因为信息要求、起草会议和审查对高级执行官提出了很大要求。 有了基于OpenAI技术的GO Public,</description>
-      <pubDate>Mon, 21 Sep 2026 19:02:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=4swQ0YknTLs</guid>
-      <source url="https://www.youtube.com/watch?v=4swQ0YknTLs">OpenAI</source>
+      <title>实现阿片类药物使用失调药物治疗保留和早停用的机器学习模式的公平性</title>
+      <link>https://arxiv.org/abs/2609.22113</link>
+      <description>类阿片使用障碍药物的保持率和完成率一直很低,这促使人们使用机器学习模型来预测保持和识别有可能过早停止治疗的病人。</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22113</guid>
+      <source url="https://arxiv.org/abs/2609.22113">ArXiv ML</source>
     </item>
     <item>
-      <title>马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三</title>
-      <link>https://x.com/elonmusk/status/2102082011233931762</link>
-      <description>Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。</description>
-      <pubDate>Mon, 21 Sep 2026 17:06:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/elonmusk/status/2102082011233931762</guid>
-      <source url="https://x.com/elonmusk/status/2102082011233931762">X：Elon Musk (@elonmusk, xAI)</source>
+      <title>识别、模拟和拒绝:对LLM剂的典型心理影响的污染 -- -- 知情研究</title>
+      <link>https://arxiv.org/abs/2609.22090</link>
+      <description>产生与人心理效应相关的反应模式的LLM与拥有这种偏差的LLM不同。我们提出PsyAgent Bench,这个基准在一个因子下重新对LLM剂进行经典心理学实验。</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22090</guid>
+      <source url="https://arxiv.org/abs/2609.22090">ArXiv NLP</source>
     </item>
     <item>
-      <title>iPhone所有者现在可以在苹果公司2.5亿美元的Siri人工智能结算中提交索赔</title>
-      <link>https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement</link>
-      <description>苹果公司正在支付2.5亿美元来解决它未能交付人工智能升级的Siri(Siri ) 的说法 — — 而现在,符合条件的iPhone所有者可以提交支付索赔。 如果你住在美国并在2024年6月10日至[...]日期间购买了iPhone 15 Pro,iPhone 15 Pro Max,或者任何iPhone 16型号的话.</description>
-      <pubDate>Mon, 21 Sep 2026 09:36:52 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement</guid>
-      <source url="https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement">The Verge AI</source>
+      <title>向前看的记忆:个人记忆检索的零推断期</title>
+      <link>https://arxiv.org/abs/2609.22091</link>
+      <description>对一个个人记忆库的检索是追溯性的:它显示与查询相似的东西,它无视用户的承诺。我们描述一个潜在的记忆检索术语,该术语在查询时不需要推论。承诺</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22091</guid>
+      <source url="https://arxiv.org/abs/2609.22091">ArXiv NLP</source>
     </item>
     <item>
-      <title>新 Mac mini 首发实测：我的第一台「多 Agent」电脑</title>
-      <link>https://www.ifanr.com/1681211?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>能跑大模型只是 AI PC 的起点#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 21 Sep 2026 13:06:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1681211?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1681211?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>总结、法官、完善:为多模态内容进行脱钩内容理解和策略学习</title>
+      <link>https://arxiv.org/abs/2609.22094</link>
+      <description>内容节制制度传统上将多模式理解与策略具体分类相缠,需要为每项策略变化进行全面的再培训,而且由于多媒体无法有意义地增加,因此缺乏标签</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22094</guid>
+      <source url="https://arxiv.org/abs/2609.22094">ArXiv NLP</source>
     </item>
     <item>
-      <title>Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟</title>
-      <link>https://linear.app/now/ci-bottleneck-reworked</link>
-      <description>Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。</description>
-      <pubDate>Mon, 21 Sep 2026 12:26:00 +0000</pubDate>
-      <guid isPermaLink="true">https://linear.app/now/ci-bottleneck-reworked</guid>
-      <source url="https://linear.app/now/ci-bottleneck-reworked">Linear：Now（RSS）</source>
+      <title>在关于X的气候变化运动中,人工智能暗示了福祉和集体行动。</title>
+      <link>https://arxiv.org/abs/2609.22096</link>
+      <description>气候运动往往通过关注和动员来评估,但对伴随它们而来的福利语言却知之甚少。 运动时期是否改变积极的影响和希望,以及幸福是否与行动语言一致,</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22096</guid>
+      <source url="https://arxiv.org/abs/2609.22096">ArXiv NLP</source>
     </item>
     <item>
-      <title>Nathan Lambert 撰文分析开源模型的中美实力格局</title>
-      <link>https://www.interconnects.ai/p/the-current-balance-of-power-in-open</link>
-      <description>Nathan Lambert 发布其向美国国会汇报的开源模型现状综述，指出中国开源权重模型已在下载量、基准成绩和学术采用上领先，自 2025 年 7 月起在 Hugging Face 下载量上领先约 1.6B（总 3.2B，为美国两倍）。</description>
-      <pubDate>Mon, 21 Sep 2026 11:56:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</guid>
-      <source url="https://www.interconnects.ai/p/the-current-balance-of-power-in-open">Nathan Lambert：Interconnects（RSS）</source>
+      <title>Token 代码签名: 大语言模型的编码行为比较</title>
+      <link>https://arxiv.org/abs/2609.22097</link>
+      <description>对编码任务的大型语言模型(LLMs)的评价主要侧重于通过@k等性能衡量标准。 随着LLMs的不断推进,许多模型现在都达到了基线性能要求,降低了Perfor的歧视性力量.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22097</guid>
+      <source url="https://arxiv.org/abs/2609.22097">ArXiv NLP</source>
     </item>
     <item>
-      <title>亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级</title>
-      <link>https://www.ithome.com/1/005/418.htm</link>
-      <description>亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。</description>
-      <pubDate>Mon, 21 Sep 2026 11:52:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/005/418.htm</guid>
-      <source url="https://www.ithome.com/1/005/418.htm">IT之家（RSS）</source>
+      <title>阿里研究员透露Qwen4.5后模型将扩展至5-10T参数</title>
+      <link>https://www.qbitai.com/2026/09/493629.html</link>
+      <description>未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。</description>
+      <pubDate>Tue, 22 Sep 2026 03:48:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/493629.html</guid>
+      <source url="https://www.qbitai.com/2026/09/493629.html">量子位</source>
     </item>
     <item>
-      <title>把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年</title>
-      <link>http://www.geekpark.net/news/370759</link>
-      <description>作者｜Cynthia 编辑｜ 郑玄 &amp;nbsp; AI 时代，开发者要如何跟上技术的变化？亚马逊 CTO Werner Vogels，用了二十多年的时间来解答这个问题：基于他主导的 S3、EC2、Lambda&amp;hellip;&amp;hellip;无数企业与开发者实现了加速奔跑。他每一年的 re:Invent 演讲，也成为了无数人的认知风向标。 虽然自 2025 年之后，他将不再登上 re:Invent 的主舞台。 但今年 10 月 13 日，他将带着 2026 年最新技术洞察，出席中国深圳的亚马逊云科技软件企业峰会「创业加速营巅峰路演&amp;mdash;&amp;mdash;通往 re:Invent」，并与极客公</description>
-      <pubDate>Mon, 21 Sep 2026 19:00:08 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370759</guid>
-      <source url="http://www.geekpark.net/news/370759">极客公园</source>
+      <title>阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中</title>
+      <link>https://www.qbitai.com/2026/09/493625.html</link>
+      <description>9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。</description>
+      <pubDate>Tue, 22 Sep 2026 03:42:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/493625.html</guid>
+      <source url="https://www.qbitai.com/2026/09/493625.html">量子位</source>
     </item>
     <item>
-      <title>联合国表示人工智能保障不能等待确定性。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle</link>
-      <description>今年早些时候,全球组织首次对OpenAI对Hugging Face的黑客进行重大评估,其中警告说,各国政府必须控制日益有能力的人工智能人员,才能充分理解他们的风险。</description>
-      <pubDate>Mon, 21 Sep 2026 06:18:06 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle">The Verge AI</source>
+      <title>卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686569&amp;idx=1&amp;sn=f716d3dd70259240800a67b9fabd53fd</link>
+      <description>作者实测同日凌晨发布的 Grok 4.7 与小米 MiMo V2.6，认为 Grok 4.7 低于预期，MiMo V2.6 成为性能、价格、速度三角的当前版本答案。</description>
+      <pubDate>Tue, 22 Sep 2026 02:02:03 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686569&amp;idx=1&amp;sn=f716d3dd70259240800a67b9fabd53fd</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686569&amp;idx=1&amp;sn=f716d3dd70259240800a67b9fabd53fd">公众号：数字生命卡兹克</source>
     </item>
     <item>
-      <title>Amazon 封锁 Muse 的人工智能智能体</title>
-      <link>https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping</link>
-      <description>Meta的"Muse"人工智能特工被阻止代表用户购买亚马逊,"GeekWire"报告. Muse用户星期天开始出现弹出消息,称"未经授权的人工智能特工的接续访问违反了亚马逊的使用条件,这是我们客户同意的". Agreein".</description>
-      <pubDate>Mon, 21 Sep 2026 05:21:47 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping</guid>
-      <source url="https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping">The Verge AI</source>
+      <title>Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8</title>
+      <link>https://x.com/ArtificialAnlys/status/2102213621963243704</link>
+      <description>Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。</description>
+      <pubDate>Tue, 22 Sep 2026 01:49:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102213621963243704</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2102213621963243704">X：Artificial Analysis (@ArtificialAnlys)</source>
     </item>
   </channel>
 </rss>
