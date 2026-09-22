@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 21 Sep 2026 21:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:03:08 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3</title>
+      <link>https://x.com/arena/status/2102142912943489220</link>
+      <description>小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。</description>
+      <pubDate>Mon, 21 Sep 2026 21:08:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2102142912943489220</guid>
+      <source url="https://x.com/arena/status/2102142912943489220">X：Arena (@arena)</source>
+    </item>
+    <item>
+      <title>小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数</title>
+      <link>https://x.com/ClementDelangue/status/2102141768674222323</link>
+      <description>小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。</description>
+      <pubDate>Mon, 21 Sep 2026 21:03:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ClementDelangue/status/2102141768674222323</guid>
+      <source url="https://x.com/ClementDelangue/status/2102141768674222323">X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)</source>
+    </item>
+    <item>
+      <title>小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型</title>
+      <link>https://x.com/XiaomiMiMo/status/2102138559952290106</link>
+      <description>小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。</description>
+      <pubDate>Mon, 21 Sep 2026 20:51:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/XiaomiMiMo/status/2102138559952290106</guid>
+      <source url="https://x.com/XiaomiMiMo/status/2102138559952290106">X：小米 MiMo (@XiaomiMiMo)</source>
+    </item>
+    <item>
+      <title>加利福尼亚州对人工智能数据中心的能量和水的使用 严格了规则</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills</link>
+      <description>Gavin Newsom已经签署了7项法案,旨在防止人工智能数据中心将公用设施成本转移给居民,如《洛杉矶时报》早些时候报道的那样。 这套法律要求加利福尼亚公用事业委员会引入新的数据cen费率分类。</description>
+      <pubDate>Mon, 21 Sep 2026 16:29:45 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills">The Verge AI</source>
+    </item>
     <item>
       <title>小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升</title>
       <link>https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&amp;mid=2247484969&amp;idx=1&amp;sn=76c4757b26a2b646e1b690bf78c386d8</link>
@@ -22,14 +54,6 @@
       <pubDate>Mon, 21 Sep 2026 20:11:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2102128625126605059</guid>
       <source url="https://x.com/rohanpaul_ai/status/2102128625126605059">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>小米 MiMo-V2.6-Pro 发布，登顶 Artificial Analysis 开源权重模型智能指数</title>
-      <link>https://x.com/ArtificialAnlys/status/2102128560962187701</link>
-      <description>Xiaomi 发布开源权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，为开源权重模型中最高，前代 MiMo-V2.5-Pro 为 26。</description>
-      <pubDate>Mon, 21 Sep 2026 20:11:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102128560962187701</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2102128560962187701">X：Artificial Analysis (@ArtificialAnlys)</source>
     </item>
     <item>
       <title>Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56</title>
@@ -142,30 +166,6 @@
       <pubDate>Mon, 21 Sep 2026 05:21:47 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping</guid>
       <source url="https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping">The Verge AI</source>
-    </item>
-    <item>
-      <title>AI 正在制造 App 过剩时代</title>
-      <link>https://www.ifanr.com/1681265?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>你会为 App 付费吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 21 Sep 2026 08:15:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1681265?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1681265?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484344&amp;idx=1&amp;sn=047cf702ff02ab334e3ea2ba8e34b4a6</link>
-      <description>Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。</description>
-      <pubDate>Mon, 21 Sep 2026 07:54:32 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484344&amp;idx=1&amp;sn=047cf702ff02ab334e3ea2ba8e34b4a6</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484344&amp;idx=1&amp;sn=047cf702ff02ab334e3ea2ba8e34b4a6">公众号：月之暗面（Kimi）</source>
-    </item>
-    <item>
-      <title>长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案</title>
-      <link>https://www.qbitai.com/2026/09/493235.html</link>
-      <description>9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。</description>
-      <pubDate>Mon, 21 Sep 2026 07:52:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/493235.html</guid>
-      <source url="https://www.qbitai.com/2026/09/493235.html">量子位</source>
     </item>
   </channel>
 </rss>
