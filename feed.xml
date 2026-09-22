@@ -5,12 +5,52 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 09:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:44:08 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Jev只是让人工智能更快200x。</title>
+      <title>LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API</title>
+      <link>https://www.llamaindex.ai/blog/liteparse-updates-september-2026</link>
+      <description>LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。</description>
+      <pubDate>Tue, 22 Sep 2026 14:38:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.llamaindex.ai/blog/liteparse-updates-september-2026</guid>
+      <source url="https://www.llamaindex.ai/blog/liteparse-updates-september-2026">LlamaIndex：产品、工程与评测</source>
+    </item>
+    <item>
+      <title>Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售</title>
+      <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today</link>
+      <description>Apple 宣布新款 Mac mini 和 Mac Studio 于 9 月 22 日开售。Mac mini 搭载 M6 和 M5 Pro，AI 性能最高提升 4 倍。</description>
+      <pubDate>Tue, 22 Sep 2026 12:59:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today</guid>
+      <source url="https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today">Apple：Newsroom（RSS）</source>
+    </item>
+    <item>
+      <title>Meta补丁 Muse 剥削让攻击者控制人工智能代理</title>
+      <link>https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent</link>
+      <description>Meta在发现零天的弱点后为其Muse macOS应用软件发布了补丁,可以让某人控制人工智能特工. 安全研究者Patrick Wardle发现的bug使用了无证的Muse设置,使潜在攻击者能够运行本地代码t.</description>
+      <pubDate>Tue, 22 Sep 2026 07:53:58 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent</guid>
+      <source url="https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent">The Verge AI</source>
+    </item>
+    <item>
+      <title>Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来</title>
+      <link>https://x.com/Kimi_Moonshot/status/2102352211988865456</link>
+      <description>Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。</description>
+      <pubDate>Tue, 22 Sep 2026 11:00:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kimi_Moonshot/status/2102352211988865456</guid>
+      <source url="https://x.com/Kimi_Moonshot/status/2102352211988865456">X：Kimi.ai (@Kimi_Moonshot)</source>
+    </item>
+    <item>
+      <title>光帆携手韶音，以 AI OS 破局单点功能内卷</title>
+      <link>https://www.ifanr.com/1681475?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>好 AI，不必自己造。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 22 Sep 2026 10:10:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1681475?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1681475?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>是的,杰夫是神智不清的,但有一个捕捉</title>
       <link>https://www.youtube.com/watch?v=qBBRRsH0rQc</link>
-      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.com/watch?v=4RtUJkjrKMI Previous papers, implementations, models: https://openjev.com/ https://huggingface.co/convai</description>
+      <description>https://typesafe.ai/blog/introduction-system-one-models-and-jev 全曲:https://www.youtube.com/watch?v=4RtUJkjrKMI 上篇论文,执行,模型:https://huggingface.co/convainnovations/laya http</description>
       <pubDate>Tue, 22 Sep 2026 09:32:13 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=qBBRRsH0rQc</guid>
       <source url="https://www.youtube.com/watch?v=qBBRRsH0rQc">Two Minute Papers</source>
@@ -126,46 +166,6 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.22091</guid>
       <source url="https://arxiv.org/abs/2609.22091">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>总结、法官、完善:为多模态内容进行脱钩内容理解和策略学习</title>
-      <link>https://arxiv.org/abs/2609.22094</link>
-      <description>内容节制制度传统上将多模式理解与策略具体分类相缠,需要为每项策略变化进行全面的再培训,而且由于多媒体无法有意义地增加,因此缺乏标签</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22094</guid>
-      <source url="https://arxiv.org/abs/2609.22094">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>在关于X的气候变化运动中,人工智能暗示了福祉和集体行动。</title>
-      <link>https://arxiv.org/abs/2609.22096</link>
-      <description>气候运动往往通过关注和动员来评估,但对伴随它们而来的福利语言却知之甚少。 运动时期是否改变积极的影响和希望,以及幸福是否与行动语言一致,</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22096</guid>
-      <source url="https://arxiv.org/abs/2609.22096">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Token 代码签名: 大语言模型的编码行为比较</title>
-      <link>https://arxiv.org/abs/2609.22097</link>
-      <description>对编码任务的大型语言模型(LLMs)的评价主要侧重于通过@k等性能衡量标准。 随着LLMs的不断推进,许多模型现在都达到了基线性能要求,降低了Perfor的歧视性力量.</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22097</guid>
-      <source url="https://arxiv.org/abs/2609.22097">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>阿里研究员透露Qwen4.5后模型将扩展至5-10T参数</title>
-      <link>https://www.qbitai.com/2026/09/493629.html</link>
-      <description>未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。</description>
-      <pubDate>Tue, 22 Sep 2026 03:48:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/493629.html</guid>
-      <source url="https://www.qbitai.com/2026/09/493629.html">量子位</source>
-    </item>
-    <item>
-      <title>阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中</title>
-      <link>https://www.qbitai.com/2026/09/493625.html</link>
-      <description>9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。</description>
-      <pubDate>Tue, 22 Sep 2026 03:42:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/493625.html</guid>
-      <source url="https://www.qbitai.com/2026/09/493625.html">量子位</source>
     </item>
   </channel>
 </rss>
