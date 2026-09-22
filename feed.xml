@@ -5,8 +5,128 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 14:44:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:48:25 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%</title>
+      <link>https://x.com/sama/status/2102464201335984392</link>
+      <description>OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。</description>
+      <pubDate>Tue, 22 Sep 2026 18:25:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sama/status/2102464201335984392</guid>
+      <source url="https://x.com/sama/status/2102464201335984392">X：Sam Altman (@sama)</source>
+    </item>
+    <item>
+      <title>Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平</title>
+      <link>https://x.com/ArtificialAnlys/status/2102462962758033624</link>
+      <description>Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。</description>
+      <pubDate>Tue, 22 Sep 2026 18:20:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102462962758033624</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2102462962758033624">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
+    <item>
+      <title>GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送</title>
+      <link>https://x.com/ChatGPT/status/2102462020339613966</link>
+      <description>OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。</description>
+      <pubDate>Tue, 22 Sep 2026 18:16:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ChatGPT/status/2102462020339613966</guid>
+      <source url="https://x.com/ChatGPT/status/2102462020339613966">X：ChatGPT (@ChatGPT)</source>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode</title>
+      <link>https://x.com/arena/status/2102454952576868638</link>
+      <description>Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。</description>
+      <pubDate>Tue, 22 Sep 2026 17:48:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2102454952576868638</guid>
+      <source url="https://x.com/arena/status/2102454952576868638">X：Arena (@arena)</source>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58</title>
+      <link>https://artificialanalysis.ai/articles/claude-opus-5-5</link>
+      <description>Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。</description>
+      <pubDate>Tue, 22 Sep 2026 17:41:36 +0000</pubDate>
+      <guid isPermaLink="true">https://artificialanalysis.ai/articles/claude-opus-5-5</guid>
+      <source url="https://artificialanalysis.ai/articles/claude-opus-5-5">Artificial Analysis 完整文章（网页）</source>
+    </item>
+    <item>
+      <title>Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%</title>
+      <link>https://www.anthropic.com/claude-opus-5-5</link>
+      <description>Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。</description>
+      <pubDate>Tue, 22 Sep 2026 16:53:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/claude-opus-5-5</guid>
+      <source url="https://www.anthropic.com/claude-opus-5-5">Anthropic：Newsroom（网页）</source>
+    </item>
+    <item>
+      <title>Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%</title>
+      <link>https://x.com/bcherny/status/2102439069053747549</link>
+      <description>Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。</description>
+      <pubDate>Tue, 22 Sep 2026 16:45:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bcherny/status/2102439069053747549</guid>
+      <source url="https://x.com/bcherny/status/2102439069053747549">X：Boris Cherny (@bcherny)</source>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5</title>
+      <link>https://x.com/OpenRouter/status/2102438921213014078</link>
+      <description>Anthropic 的 Claude Opus 5.5 上线 OpenRouter，是 Claude 5.5 系列首个模型，在智能体编码、知识工作和计算机使用上领先 Opus 5 和 Fable 5.1。提供 1M 上下文窗口，定价为每百万输入 token $4、输出 $20，比 Opus 5 低 20%。</description>
+      <pubDate>Tue, 22 Sep 2026 16:44:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenRouter/status/2102438921213014078</guid>
+      <source url="https://x.com/OpenRouter/status/2102438921213014078">X：OpenRouter (@OpenRouter)</source>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%</title>
+      <link>https://x.com/ArtificialAnlys/status/2102438210798514391</link>
+      <description>Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。</description>
+      <pubDate>Tue, 22 Sep 2026 16:41:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102438210798514391</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2102438210798514391">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
+    <item>
+      <title>Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.280</link>
+      <description>Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。</description>
+      <pubDate>Tue, 22 Sep 2026 16:38:14 +0000</pubDate>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code/releases/tag/v2.1.280</guid>
+      <source url="https://github.com/anthropics/claude-code/releases/tag/v2.1.280">Claude Code：GitHub Releases（RSS）</source>
+    </item>
+    <item>
+      <title>Andreessen Horowitz正在推出一个没有家庭作业和与Palantir、Google和Meta合作的“学术”计划。</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy</link>
+      <description>风险资本公司Andreessen Horowitz(a16z)正在建立一个“学术”平台,作为年轻人建造或加入硅谷启动的管道。 “Horowitz Andreessen Academy”将与包括Anduril、Anthropic、Coinbase、Google、Meta、NVIDIA、OpenAI、Palantir在内的10个合作伙伴共同推出。</description>
+      <pubDate>Tue, 22 Sep 2026 12:34:08 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型</title>
+      <link>https://x.com/claudeai/status/2102435511222890900</link>
+      <description>Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。</description>
+      <pubDate>Tue, 22 Sep 2026 16:31:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2102435511222890900</guid>
+      <source url="https://x.com/claudeai/status/2102435511222890900">X：Claude (@claudeai)</source>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 带有更严格的网络安全保障措施的Athropic发射</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity</link>
+      <description>Anthropic说,其新的Claude Opus 5.5模型在最近无赖人工智能黑客事件之后有了更强有力的保障。 在星期二的一次公告中,Anthropic说,Opus 5.5伴随着某些风险行为的改进,包括试图逃离公司的测试沙盒。</description>
+      <pubDate>Tue, 22 Sep 2026 12:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity">The Verge AI</source>
+    </item>
+    <item>
+      <title>特朗普表示美国正式将人工智能更名为"超级智能".</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence</link>
+      <description>唐纳德·特朗普在星期二上午的联合国大会上发表演说,指责伊朗,"全球主义者",气候变化,以及变性人,同时声称美国现在"正式"将人工智能更名为"超级智能". 奇怪的是,这不是"宝"中的条目之一.</description>
+      <pubDate>Tue, 22 Sep 2026 12:01:10 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence">The Verge AI</source>
+    </item>
+    <item>
+      <title>Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一</title>
+      <link>https://x.com/arena/status/2102416020678008986</link>
+      <description>通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。</description>
+      <pubDate>Tue, 22 Sep 2026 15:13:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2102416020678008986</guid>
+      <source url="https://x.com/arena/status/2102416020678008986">X：Arena (@arena)</source>
+    </item>
     <item>
       <title>LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API</title>
       <link>https://www.llamaindex.ai/blog/liteparse-updates-september-2026</link>
@@ -14,6 +134,14 @@
       <pubDate>Tue, 22 Sep 2026 14:38:40 +0000</pubDate>
       <guid isPermaLink="true">https://www.llamaindex.ai/blog/liteparse-updates-september-2026</guid>
       <source url="https://www.llamaindex.ai/blog/liteparse-updates-september-2026">LlamaIndex：产品、工程与评测</source>
+    </item>
+    <item>
+      <title>Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌</title>
+      <link>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</link>
+      <description>Ars Technica 报道，安全专家 Patrick Wardle 披露 Meta 的 macOS AI 助手 Muse 存在 0-day 漏洞：任何本地应用或终端命令都能修改未公开设置，把语音转录端点指向攻击者服务器，从而获取 Muse 账户令牌和完整控制权。</description>
+      <pubDate>Tue, 22 Sep 2026 14:35:15 +0000</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</guid>
+      <source url="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day">Hacker News：AI 热帖</source>
     </item>
     <item>
       <title>Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售</title>
@@ -38,134 +166,6 @@
       <pubDate>Tue, 22 Sep 2026 11:00:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Kimi_Moonshot/status/2102352211988865456</guid>
       <source url="https://x.com/Kimi_Moonshot/status/2102352211988865456">X：Kimi.ai (@Kimi_Moonshot)</source>
-    </item>
-    <item>
-      <title>光帆携手韶音，以 AI OS 破局单点功能内卷</title>
-      <link>https://www.ifanr.com/1681475?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>好 AI，不必自己造。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 22 Sep 2026 10:10:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1681475?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1681475?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>是的,杰夫是神智不清的,但有一个捕捉</title>
-      <link>https://www.youtube.com/watch?v=qBBRRsH0rQc</link>
-      <description>https://typesafe.ai/blog/introduction-system-one-models-and-jev 全曲:https://www.youtube.com/watch?v=4RtUJkjrKMI 上篇论文,执行,模型:https://huggingface.co/convainnovations/laya http</description>
-      <pubDate>Tue, 22 Sep 2026 09:32:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=qBBRRsH0rQc</guid>
-      <source url="https://www.youtube.com/watch?v=qBBRRsH0rQc">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建</title>
-      <link>https://www.qbitai.com/2026/09/493865.html</link>
-      <description>9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”</description>
-      <pubDate>Tue, 22 Sep 2026 08:49:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/493865.html</guid>
-      <source url="https://www.qbitai.com/2026/09/493865.html">量子位</source>
-    </item>
-    <item>
-      <title>Meta 个人 AI 助手刚火 13 天，Amazon 就拉闸了</title>
-      <link>http://www.geekpark.net/news/370797</link>
-      <description>9 月 21 日，一条弹窗开始出现在试图用 Meta Muse 在 Amazon 上购物的用户屏幕上：「未经授权的 AI Agent 继续访问，将违反 Amazon 使用条款。」 这距离 Muse 正式上线，仅仅过了 13 天。 Meta 推出的个人 AI 助手 Muse 最近爆火｜图片来源：Meta Meta 在 9 月 8 日发布了 Muse，把它定义为「全球第一款，为所有人打造的个人 AI Agent」。和 ChatGPT、Claude 这些聊天机器人不同，Muse 不只是回答问题，它能打开浏览器、登录你的邮箱、填表格、订机票，甚至直接替你下单买东西。 效果立竿见影，Sensor Tow</description>
-      <pubDate>Tue, 22 Sep 2026 12:01:13 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370797</guid>
-      <source url="http://www.geekpark.net/news/370797">极客公园</source>
-    </item>
-    <item>
-      <title>RBS- 注意: 长文本大语言模型的半径- 边框预置</title>
-      <link>https://arxiv.org/abs/2609.20971</link>
-      <description>长文大语言模型推论越来越受预填的限制,在预填中,密集自留会处理整个启动前的快取. Sparse块选择可以降低这一成本,但块心机器人可能隐藏一个高度回放.</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.20971</guid>
-      <source url="https://arxiv.org/abs/2609.20971">ArXiv AI</source>
-    </item>
-    <item>
-      <title>注意- 注意跑道: 教育部的连接跑道和注意</title>
-      <link>https://arxiv.org/abs/2609.20974</link>
-      <description>在 Mixture-of-Experts 语言模型中,路由器通常根据符号的隐藏状态选择和加权专家,使用有限的上下文信息。我们提议注意-Aware Routing(AAR),它用时间和s来增强路由器。</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.20974</guid>
-      <source url="https://arxiv.org/abs/2609.20974">ArXiv AI</source>
-    </item>
-    <item>
-      <title>CALR: 强力扩散诱导因子修订</title>
-      <link>https://arxiv.org/abs/2609.20981</link>
-      <description>自动递减(AR)模型受到局部贪婪的困扰,而扩散语言模型(DLMs)则往往缺乏推理所需的严格的因果结构. 为了结合双元的优点并克服缺点,我们提议 Causal Latent Re</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.20981</guid>
-      <source url="https://arxiv.org/abs/2609.20981">ArXiv AI</source>
-    </item>
-    <item>
-      <title>LoRA 与 SAS 愿景变换器增强对比学习</title>
-      <link>https://arxiv.org/abs/2609.21061</link>
-      <description>拥有合成孔径声纳(SAS)的自动目标识别(ATR)支持先进的海军能力,但深度学习受到稀缺的目标图像、背景杂乱和人入室评估的限制。 我们适应了DINOv3 Vision Transfo。</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.21061</guid>
-      <source url="https://arxiv.org/abs/2609.21061">ArXiv AI</source>
-    </item>
-    <item>
-      <title>在 LLMS 中检测幻觉:追踪存在障碍的地形特征</title>
-      <link>https://arxiv.org/abs/2609.21096</link>
-      <description>在这项工作中,我们研究了关注图中信息流动模式的地貌,以便有效地区分幻觉和非卤化反应。</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.21096</guid>
-      <source url="https://arxiv.org/abs/2609.21096">ArXiv AI</source>
-    </item>
-    <item>
-      <title>PRQuant:低头推论的持久性残余量化</title>
-      <link>https://arxiv.org/abs/2609.22106</link>
-      <description>线性地层低位量化的精确度往往被少数外值所取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取取</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22106</guid>
-      <source url="https://arxiv.org/abs/2609.22106">ArXiv ML</source>
-    </item>
-    <item>
-      <title>通用多模态基础模型</title>
-      <link>https://arxiv.org/abs/2609.22107</link>
-      <description>使用多模式数据进行预测被广泛用于多种设想. 现有的多模式聚变模型一旦被应用,只能处理预先定义的模式(如视觉,文字和音频)和单项任务,因此难以迅速适应.</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22107</guid>
-      <source url="https://arxiv.org/abs/2609.22107">ArXiv ML</source>
-    </item>
-    <item>
-      <title>纠正基于学习的安全观念</title>
-      <link>https://arxiv.org/abs/2609.22108</link>
-      <description>学习感知在许多自主系统中都很重要。 与传统传感器不同,ML感知有效或不起作用的界限特征差。 不正确感知可能导致下游不安全或明显保守。</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22108</guid>
-      <source url="https://arxiv.org/abs/2609.22108">ArXiv ML</source>
-    </item>
-    <item>
-      <title>共享学习率不是在选择性策略扭曲中的中性控制</title>
-      <link>https://arxiv.org/abs/2609.22109</link>
-      <description>选择性的策略蒸馏只训练一个学生在符号位置上选择一个选择者得分最高的分数,文献将选择者在单一共享的学习率-一个选择中立的控制下进行比较。我们显示不是。在GSM8K上的LORA(LORA)下(LOSM8K).</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22109</guid>
-      <source url="https://arxiv.org/abs/2609.22109">ArXiv ML</source>
-    </item>
-    <item>
-      <title>实现阿片类药物使用失调药物治疗保留和早停用的机器学习模式的公平性</title>
-      <link>https://arxiv.org/abs/2609.22113</link>
-      <description>类阿片使用障碍药物的保持率和完成率一直很低,这促使人们使用机器学习模型来预测保持和识别有可能过早停止治疗的病人。</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22113</guid>
-      <source url="https://arxiv.org/abs/2609.22113">ArXiv ML</source>
-    </item>
-    <item>
-      <title>识别、模拟和拒绝:对LLM剂的典型心理影响的污染 -- -- 知情研究</title>
-      <link>https://arxiv.org/abs/2609.22090</link>
-      <description>产生与人心理效应相关的反应模式的LLM与拥有这种偏差的LLM不同。我们提出PsyAgent Bench,这个基准在一个因子下重新对LLM剂进行经典心理学实验。</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22090</guid>
-      <source url="https://arxiv.org/abs/2609.22090">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>向前看的记忆:个人记忆检索的零推断期</title>
-      <link>https://arxiv.org/abs/2609.22091</link>
-      <description>对一个个人记忆库的检索是追溯性的:它显示与查询相似的东西,它无视用户的承诺。我们描述一个潜在的记忆检索术语,该术语在查询时不需要推论。承诺</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22091</guid>
-      <source url="https://arxiv.org/abs/2609.22091">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
