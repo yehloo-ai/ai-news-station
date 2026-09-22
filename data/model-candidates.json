@@ -270,5 +270,53 @@
     "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
     "sourceName": "公众号：阶跃星辰（Step）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+    "summary": "Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro 与 Flash 两个原生全模态模型，称这是探索 RSI（递归自我改进）路径的关键一步。",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+    "sourceName": "公众号：小米 MiMo",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "xAI 发布 Grok 4.7，主打编码与知识工作",
+    "summary": "xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。",
+    "sourceUrl": "https://x.ai/news/grok-4-7",
+    "sourceName": "xAI：News（网页）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+    "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。",
+    "sourceUrl": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+    "sourceName": "X：小米 MiMo (@XiaomiMiMo)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数",
+    "summary": "小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。",
+    "sourceUrl": "https://x.com/ClementDelangue/status/2102141768674222323",
+    "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+    "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image",
+    "sourceUrl": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+    "sourceName": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "小米 MiMo-V2.6-Pro 登上 Code Arena: WebDev 榜约第10名，开源权重中约第3",
+    "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena: WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+    "sourceUrl": "https://x.com/arena/status/2102142912943489220",
+    "sourceName": "X：Arena (@arena)",
+    "reviewReason": "awaiting-review"
   }
 ]
