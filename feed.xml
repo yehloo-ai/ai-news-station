@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 22:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:22:47 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI想咨询精英数学家 如何避免再次失败</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel</link>
+      <description>在将一串壮观的数学成果转化为名声危机之后,OpenAI正在咨询人类数学家,帮助他们找出一条不太灾难性的前进道路。 周一,公司宣布成立一个新的独立数学家小组,负责为它和其他人工智能compa提供咨询。</description>
+      <pubDate>Tue, 22 Sep 2026 20:17:17 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel">The Verge AI</source>
+    </item>
+    <item>
+      <title>早报｜GP-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布</title>
+      <link>https://www.ifanr.com/1681566?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载 · Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot Phone 首批搭载 · 前小米 XLA 负责人陈龙创业，研发「自进化」具身大模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 23 Sep 2026 00:05:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1681566?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1681566?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战</title>
+      <link>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna</link>
+      <description>Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。</description>
+      <pubDate>Tue, 22 Sep 2026 23:46:41 +0000</pubDate>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna</guid>
+      <source url="https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna">Simon Willison 博客</source>
+    </item>
     <item>
       <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%</title>
       <link>https://x.com/thsottiaux/status/2102509507415048245</link>
@@ -80,14 +104,6 @@
       <source url="https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477">Hacker News：AI 热帖</source>
     </item>
     <item>
-      <title>Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%</title>
-      <link>https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release</link>
-      <description>Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。</description>
-      <pubDate>Tue, 22 Sep 2026 18:59:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release</guid>
-      <source url="https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release">MarkTechPost（RSS）</source>
-    </item>
-    <item>
       <title>Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手</title>
       <link>https://x.com/sama/status/2102465143997440308</link>
       <description>Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上没有可竞争的对手。引用内容称两款模型相比 5.6 系列在智能、对齐、工作产出、编码和计算机使用上有大幅提升，价格每 token 减半，按任务算更低。他说希望人们能用大量 AI，这对探索眼前的新复兴很重要。</description>
@@ -150,22 +166,6 @@
       <pubDate>Tue, 22 Sep 2026 17:48:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/arena/status/2102454952576868638</guid>
       <source url="https://x.com/arena/status/2102454952576868638">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58</title>
-      <link>https://artificialanalysis.ai/articles/claude-opus-5-5</link>
-      <description>Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。</description>
-      <pubDate>Tue, 22 Sep 2026 17:41:36 +0000</pubDate>
-      <guid isPermaLink="true">https://artificialanalysis.ai/articles/claude-opus-5-5</guid>
-      <source url="https://artificialanalysis.ai/articles/claude-opus-5-5">Artificial Analysis 完整文章（网页）</source>
-    </item>
-    <item>
-      <title>Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%</title>
-      <link>https://www.anthropic.com/claude-opus-5-5</link>
-      <description>Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。</description>
-      <pubDate>Tue, 22 Sep 2026 16:53:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/claude-opus-5-5</guid>
-      <source url="https://www.anthropic.com/claude-opus-5-5">Anthropic：Newsroom（网页）</source>
     </item>
   </channel>
 </rss>
