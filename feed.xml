@@ -5,8 +5,120 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 16:49:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:14:10 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴</title>
+      <link>https://claude.com/blog/claude-marketplace</link>
+      <description>Anthropic 推出 Claude Marketplace，将插件与连接器、智能体与产品、服务伙伴集中到一个入口。</description>
+      <pubDate>Wed, 23 Sep 2026 19:03:25 +0000</pubDate>
+      <guid isPermaLink="true">https://claude.com/blog/claude-marketplace</guid>
+      <source url="https://claude.com/blog/claude-marketplace">Claude：Blog（网页）</source>
+    </item>
+    <item>
+      <title>Meta的人工智能特工是个可爱的小家伙,</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping</link>
+      <description>现代生活伴随着一个永无止境的、自动流行的待办事宜列表。它从未停止让我惊奇。我如何可以无所事事地做事,关心自己的业务,突然间有些事情需要处理。你告诉我,一个树枝掉入后院,现在我必须想出办法。</description>
+      <pubDate>Wed, 23 Sep 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping">The Verge AI</source>
+    </item>
+    <item>
+      <title>MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna/Sol 发布改变智能指数与成本 Pareto 前沿</title>
+      <link>https://x.com/ArtificialAnlys/status/2102833926788288704</link>
+      <description>Artificial Analysis 称本周 MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna 和 GPT-6 Sol 的发布在 Intelligence Index 与每任务成本 Pareto 前沿上新增十一个点位，其中 GPT-6 Luna 贡献五个，Claude Opus 5.5 贡献四个。</description>
+      <pubDate>Wed, 23 Sep 2026 18:54:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102833926788288704</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2102833926788288704">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
+    <item>
+      <title>今天的预测只有80多岁,宝贝。</title>
+      <link>https://www.youtube.com/shorts/rmDu2sSBIrw</link>
+      <description>用 ChatGPT 图像创建自己的图像 。</description>
+      <pubDate>Wed, 23 Sep 2026 18:48:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/rmDu2sSBIrw</guid>
+      <source url="https://www.youtube.com/shorts/rmDu2sSBIrw">OpenAI</source>
+    </item>
+    <item>
+      <title>Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统</title>
+      <link>https://x.com/rohanpaul_ai/status/2102832068157984990</link>
+      <description>Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。</description>
+      <pubDate>Wed, 23 Sep 2026 18:46:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2102832068157984990</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2102832068157984990">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>Dario Amodei 宣布 Claude 主导发现疑似新型基因编辑机制的酶系统</title>
+      <link>https://x.com/DarioAmodei/status/2102831170299834652</link>
+      <description>Anthropic 宣布 Claude 主导发现一种疑似新型基因编辑机制的分子机器：Claude 阅读文献和基因组数据后发现了隐藏在噬菌体 DNA 中的未知酶系统，其基因旁有类似 CRISPR 的重复 DNA 阵列，已知少数同类系统均能切割、复制和粘贴 DNA，具体功能和实用价值尚待研究。</description>
+      <pubDate>Wed, 23 Sep 2026 18:43:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DarioAmodei/status/2102831170299834652</guid>
+      <source url="https://x.com/DarioAmodei/status/2102831170299834652">X：Dario Amodei (@DarioAmodei)</source>
+    </item>
+    <item>
+      <title>Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART</title>
+      <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
+      <description>Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。</description>
+      <pubDate>Wed, 23 Sep 2026 18:27:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</guid>
+      <source url="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">Anthropic：Newsroom（网页）</source>
+    </item>
+    <item>
+      <title>Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work</title>
+      <link>https://x.com/gdb/status/2102821706041819401</link>
+      <description>GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。</description>
+      <pubDate>Wed, 23 Sep 2026 18:05:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gdb/status/2102821706041819401</guid>
+      <source url="https://x.com/gdb/status/2102821706041819401">X：Greg Brockman (@gdb)</source>
+    </item>
+    <item>
+      <title>在Anthropic的分子生物学实验室里</title>
+      <link>https://www.youtube.com/watch?v=DdCEmlAydcw</link>
+      <description>生物学中一些最大的发现始于有人在自然界发现的许多分子机器中发现一些奇怪的东西。 我们正在Anthropic引入一个新的分子生物学研究小组和实验室,看看克洛德是否能够帮助科学家发现更多的这些东西。</description>
+      <pubDate>Wed, 23 Sep 2026 18:01:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DdCEmlAydcw</guid>
+      <source url="https://www.youtube.com/watch?v=DdCEmlAydcw">Anthropic</source>
+    </item>
+    <item>
+      <title>Anthropic的生物实验室发现它和Crisper相比</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr</link>
+      <description>Anthropic说,它的人工智能克洛德"自主地发现了"一个类似于强大基因编辑工具Crisper背后的机械的新酶系统,这是Anthropic新推出的湿实验室的第一个结果,也是在公司准备公开时对克洛德对科学的用处的早期测试. T.</description>
+      <pubDate>Wed, 23 Sep 2026 14:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr">The Verge AI</source>
+    </item>
+    <item>
+      <title>ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动</title>
+      <link>https://x.com/thsottiaux/status/2102814202117411196</link>
+      <description>OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。</description>
+      <pubDate>Wed, 23 Sep 2026 17:35:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2102814202117411196</guid>
+      <source url="https://x.com/thsottiaux/status/2102814202117411196">X：Tibo (@thsottiaux)</source>
+    </item>
+    <item>
+      <title>用 ChatGPT 声音完成所有任务</title>
+      <link>https://www.youtube.com/watch?v=96ogPwN9ykM</link>
+      <description>我们听到了你的声音。 ChatGPT 声音现在可以: - 使用您的电子邮件、日历和Slack等插件 。 由 GPT-6 Astra 、 Sol 和 Luna 提供电源 。 在 ChatGPT 工作中使用网络和移动, 这样您就可以在浏览器中创建文件、 甲板、 站点、 电子表格或处理复杂的任务, 只需通过交谈即可 。</description>
+      <pubDate>Wed, 23 Sep 2026 17:11:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=96ogPwN9ykM</guid>
+      <source url="https://www.youtube.com/watch?v=96ogPwN9ykM">OpenAI</source>
+    </item>
+    <item>
+      <title>Antigravity SDK 支持本地模型，可完全离线运行智能体</title>
+      <link>https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk</link>
+      <description>Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 &gt;24GB VRAM 或统一内存。</description>
+      <pubDate>Wed, 23 Sep 2026 17:09:01 +0000</pubDate>
+      <guid isPermaLink="true">https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk</guid>
+      <source url="https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk">Google Developers Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名</title>
+      <link>https://x.com/arena/status/2102806554340974612</link>
+      <description>Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。</description>
+      <pubDate>Wed, 23 Sep 2026 17:05:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2102806554340974612</guid>
+      <source url="https://x.com/arena/status/2102806554340974612">X：Arena (@arena)</source>
+    </item>
     <item>
       <title>Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型</title>
       <link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</link>
@@ -54,118 +166,6 @@
       <pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
       <source url="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>OpenAI nabs 密钥 Patreon 执行器在即将宣布之前</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</link>
-      <description>OpenAI已经聘请了三位前帕特里翁执行官来为创作者主播其产品策略. 13年前启动创作者订阅平台后,联合创始人和技术主管萨姆·亚姆在X上宣布他加入OpenAI领导创作者产品,他还带来了帕特里翁的前产品.</description>
-      <pubDate>Wed, 23 Sep 2026 07:02:39 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam">The Verge AI</source>
-    </item>
-    <item>
-      <title>汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”</title>
-      <link>https://www.qbitai.com/2026/09/496493.html</link>
-      <description>企业AI服务迎来平台化交付时代</description>
-      <pubDate>Wed, 23 Sep 2026 09:50:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496493.html</guid>
-      <source url="https://www.qbitai.com/2026/09/496493.html">量子位</source>
-    </item>
-    <item>
-      <title>Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next</title>
-      <link>https://x.com/Alibaba_Qwen/status/2102687258990026993</link>
-      <description>Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。</description>
-      <pubDate>Wed, 23 Sep 2026 09:11:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2102687258990026993</guid>
-      <source url="https://x.com/Alibaba_Qwen/status/2102687258990026993">X：通义千问 / Qwen (@Alibaba_Qwen)</source>
-    </item>
-    <item>
-      <title>斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”</title>
-      <link>https://www.qbitai.com/2026/09/496471.html</link>
-      <description>9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B</description>
-      <pubDate>Wed, 23 Sep 2026 08:45:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496471.html</guid>
-      <source url="https://www.qbitai.com/2026/09/496471.html">量子位</source>
-    </item>
-    <item>
-      <title>剪映，杀入 AI 互动影游</title>
-      <link>http://www.geekpark.net/news/370883</link>
-      <description>&amp;nbsp; 头图来源：剪映 9 月 20 日，剪映在「AI 新创作发布会」上，集中更新了专业版、移动端和创作者生态。 专业版新增一站式创作工作台「剪映 Hub」，由无限画布和多轨编辑器组成。用户可以从一句话、一个参考视频或者一份文档开始，在画布上整理思路、生成脚本和分镜，调用即梦、小云雀等平台生成图片、视频和声音，再把初剪结果送入时间线继续修改。 智能创作 Agent「剪映助手」进入了具体的剪辑工程，可以整理素材、删减口播、纠正字幕、检索补充画面和包装视频。在手机上，这个助手被称为「小映」，面向生活记录、内容创作和商品营销等场景。 剪映还调整了模板和会员体系。模板可以用自然语言改写内容，成熟</description>
-      <pubDate>Wed, 23 Sep 2026 15:32:36 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370883</guid>
-      <source url="http://www.geekpark.net/news/370883">极客公园</source>
-    </item>
-    <item>
-      <title>DeepSeek新论文公开Agent训练！梁文锋署名</title>
-      <link>https://www.qbitai.com/2026/09/496393.html</link>
-      <description>每秒能产生5000+个沙盒</description>
-      <pubDate>Wed, 23 Sep 2026 07:29:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496393.html</guid>
-      <source url="https://www.qbitai.com/2026/09/496393.html">量子位</source>
-    </item>
-    <item>
-      <title>Qwen一号位定了！刘大一恒接棒</title>
-      <link>https://www.qbitai.com/2026/09/496384.html</link>
-      <description>与稚晖君同届天才少年</description>
-      <pubDate>Wed, 23 Sep 2026 07:27:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496384.html</guid>
-      <source url="https://www.qbitai.com/2026/09/496384.html">量子位</source>
-    </item>
-    <item>
-      <title>拆解下阿里的 AI 经济学，与它的下注</title>
-      <link>http://www.geekpark.net/news/370865</link>
-      <description>作者｜张鹏 编辑｜ 苏子华 &amp;nbsp; 9 月 22 日，杭州云栖大会。阿里巴巴集团 CEO 吴泳铭和往年一样，做了开场的主旨演讲。 过去几年云栖大会的主旨演讲，可以当作「技术风向标」来听，会抛出很多重磅的技术判断，比如，「大模型是下一代操作系统」、「超级 AI 云是下一代计算机」。 但这一次，我听完的感受很不一样。吴泳铭花了很多时间讲工业革命、讲电、讲经济学。他的重心不在 AI 会变成什么样了，他讲的是，AI 会让世界变成什么样。 比如他给出的一个核心观点，「上一次这样的变化，是工业革命把动力变成了规模化的商品。人类先后发明了蒸汽机、内燃机和电，并围绕它们建立起了现代产业。这一次，轮到思考</description>
-      <pubDate>Wed, 23 Sep 2026 14:02:57 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370865</guid>
-      <source url="http://www.geekpark.net/news/370865">极客公园</source>
-    </item>
-    <item>
-      <title>从单卡到千卡互联，平头哥真武 V900 背后的 AI 算力变局</title>
-      <link>http://www.geekpark.net/news/370864</link>
-      <description>作者｜Cynthia 编辑｜郑玄 9 月 22 日的 2026 杭州云栖大会，平头哥少见地被完整推到了主论坛台前。 当天上午，吴泳铭完成主旨演讲后，千问大模型、多模态模型负责人依次登场，随后就是平头哥副总裁高慧。她的演讲题目是「Agentic 时代卓越算力基石」。 平头哥带来的产品，则从一颗最新得真武 V900 芯片，一直延伸到 ICN Switch 互联芯片、磐脉智能网卡、镇岳 SSD 主控、倚天 CPU 路线图，以及下一步的算、存、网全栈协同的超节点服务器。 发布「产品全家桶」地背后，是 Agentic 时代的负载变化：算力需求已经从训练为主进一步走向推理增长，应用从单轮请求变成连续的多步</description>
-      <pubDate>Wed, 23 Sep 2026 13:55:58 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370864</guid>
-      <source url="http://www.geekpark.net/news/370864">极客公园</source>
-    </item>
-    <item>
-      <title>OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩</title>
-      <link>https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks</link>
-      <description>OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。</description>
-      <pubDate>Wed, 23 Sep 2026 05:18:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks</guid>
-      <source url="https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks">MarkTechPost（RSS）</source>
-    </item>
-    <item>
-      <title>战术知识或临床病例? 数据类型如何塑造医学大语言模型</title>
-      <link>https://arxiv.org/abs/2609.22161</link>
-      <description>医学大语言模型通常接受关于教学数据(例如教科书)和临床数据(例如病人记录)的混合物的培训,然而这些数据类型差别地形状模型的能力如何仍然不明确。</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22161</guid>
-      <source url="https://arxiv.org/abs/2609.22161">ArXiv AI</source>
-    </item>
-    <item>
-      <title>低廉人工智能-视力有缺陷用户多模态综合智能手杖</title>
-      <link>https://arxiv.org/abs/2609.22277</link>
-      <description>视障影响着全世界超过22亿人,但传统的白杖却无法探测上升的危害或提供语义环境。 现有的人工智能辅助导航系统通常依赖昂贵的硬件或云母。</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22277</guid>
-      <source url="https://arxiv.org/abs/2609.22277">ArXiv AI</source>
-    </item>
-    <item>
-      <title>PAANI:关于河流机器人模拟设备的视觉证据聚合和解释性指导</title>
-      <link>https://arxiv.org/abs/2609.22353</link>
-      <description>移动河道监测机器人必须解释仅靠地理指向无法描述的障碍和水分界线。 在资源受限的平台上,将不完善的视觉预测转化为及时和可检查的指南是独特的。</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22353</guid>
-      <source url="https://arxiv.org/abs/2609.22353">ArXiv AI</source>
-    </item>
-    <item>
-      <title>人工智能人口的社会影响和科学注意力的分配</title>
-      <link>https://arxiv.org/abs/2609.22408</link>
-      <description>人工智能系统正在成为科学研究评估与应用的参与者,它们遇到引号数、下载统计数据以及围绕人类读者编写的受欢迎文章清单,但这些信号产生的集体后果</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22408</guid>
-      <source url="https://arxiv.org/abs/2609.22408">ArXiv AI</source>
     </item>
   </channel>
 </rss>
