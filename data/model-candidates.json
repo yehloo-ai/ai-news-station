@@ -318,5 +318,69 @@
     "sourceUrl": "https://x.com/arena/status/2102142912943489220",
     "sourceName": "X：Arena (@arena)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+    "summary": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。",
+    "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+    "sourceName": "Anthropic：Newsroom（网页）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%",
+    "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，将 GPT-6 Astra 的训练方法用于更快更便宜的模型，API 价格较 GPT-5.6 促销价下调 50%（Sol 输入 $4→$2、输出 $20→$10；Luna 输入 $0.20→$0.10、输出 $1.20→$0.50，每百万 token）。",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+    "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分",
+    "sourceUrl": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+    "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送",
+    "summary": "OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。",
+    "sourceUrl": "https://x.com/ChatGPT/status/2102462020339613966",
+    "sourceName": "X：ChatGPT (@ChatGPT)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
+    "summary": "Anthropic 的 Claude Opus 5.5 上线 OpenRouter，是 Claude 5.5 系列首个模型，在智能体编码、知识工作和计算机使用上领先 Opus 5 和 Fable 5.1。提供 1M 上下文窗口，定价为每百万输入 token $4、输出 $20，比 Opus 5 低 20%。",
+    "sourceUrl": "https://x.com/OpenRouter/status/2102438921213014078",
+    "sourceName": "X：OpenRouter (@OpenRouter)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+    "summary": "通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。",
+    "sourceUrl": "https://x.com/arena/status/2102416020678008986",
+    "sourceName": "X：Arena (@arena)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+    "summary": "Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家",
+    "sourceUrl": "https://x.com/bcherny/status/2102439069053747549",
+    "sourceName": "X：Boris Cherny (@bcherny)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+    "summary": "Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。",
+    "sourceUrl": "https://x.com/claudeai/status/2102435511222890900",
+    "sourceName": "X：Claude (@claudeai)",
+    "reviewReason": "awaiting-review"
   }
 ]
