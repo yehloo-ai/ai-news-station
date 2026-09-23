@@ -5,12 +5,60 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:49:08 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型</title>
+      <link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</link>
+      <description>Google DeepMind 发布 Gemini 3.8 Flash TTS 和 Gemini 3.8 Flash-Lite TTS 两款文本转语音模型，支持用自然语言提示词从零设计声音、30 秒样本复刻声音，并提供逐行表演指导、长时音频生成和双说话人场景编排，覆盖 100 多种语言。</description>
+      <pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
+      <guid isPermaLink="true">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</guid>
+      <source url="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech">Google DeepMind：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>用双子座 3.8 文本对语音创建自己的声音</title>
+      <link>https://www.youtube.com/watch?v=FL6mI_Br-mc</link>
+      <description>从头开始设计全新的声波人物,用于游戏、浸润音书或使用自然语言提示的双声波播客——按照细微的动作提示、节奏、回转和方言变化来引导每条表演线。或者,重现一致的成人声波简介 fro</description>
+      <pubDate>Wed, 23 Sep 2026 15:23:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=FL6mI_Br-mc</guid>
+      <source url="https://www.youtube.com/watch?v=FL6mI_Br-mc">DeepMind</source>
+    </item>
+    <item>
+      <title>小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol</title>
+      <link>https://x.com/AravSrinivas/status/2102780186202972254</link>
+      <description>小米发布开源全模态模型 MiMo-V2.6 Pro 与 Flash，通过规模化强化学习训练，Pro 在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高，并在多数 Agent 基准上表现与 Claude Opus 5 和 GPT-5.6 Sol 相当。</description>
+      <pubDate>Wed, 23 Sep 2026 15:20:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AravSrinivas/status/2102780186202972254</guid>
+      <source url="https://x.com/AravSrinivas/status/2102780186202972254">X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)</source>
+    </item>
+    <item>
+      <title>Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法</title>
+      <link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
+      <description>Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。</description>
+      <pubDate>Wed, 23 Sep 2026 14:33:15 +0000</pubDate>
+      <guid isPermaLink="true">https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</guid>
+      <source url="https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects">Claude：Blog（网页）</source>
+    </item>
+    <item>
+      <title>YouTube正在建立 人工智能创造工具 几乎为它们做一切</title>
+      <link>https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests</link>
+      <description>内容创建者的一部分工作是想出如何让自己的作品出现在大多数人面前。 崩溃(或战斗)算法在历史上一直是创造者的挫折,但YouTube越来越简单地告诉创造者他们应该做什么。 在每年以创造者为重点的Mad(Mad ) 中,</description>
+      <pubDate>Wed, 23 Sep 2026 10:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests</guid>
+      <source url="https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI 向乌克兰政府开放 Daybreak 网络防御计划</title>
+      <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
+      <description>OpenAI 宣布向乌克兰政府开放其 Daybreak 计划，支持民用基础设施的网络防御，与乌克兰数字化转型部合作提供识别软件漏洞、开发和测试修复的工具。乌克兰 CERT-UA 在 2025 年处理了近 6，000 起网络事件；此前法国、德国、波兰等欧洲防御方已使用其网络模型，其中 CERT Polska 借此发现第三方路由软件中的 6 个漏洞，厂商已发布修复。</description>
+      <pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
+      <source url="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
     <item>
       <title>OpenAI nabs 密钥 Patreon 执行器在即将宣布之前</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</link>
-      <description>OpenAI已经聘请了三位前帕特里昂执行官来为创作者主播其产品策略. 在13年前启动创作者订阅平台后,联合创始人和技术主管萨姆·亚姆(Sam Yam)在X上宣布将加入OpenAI领导创作者产品,他还带来了帕特里昂的前产品.</description>
+      <description>OpenAI已经聘请了三位前帕特里翁执行官来为创作者主播其产品策略. 13年前启动创作者订阅平台后,联合创始人和技术主管萨姆·亚姆在X上宣布他加入OpenAI领导创作者产品,他还带来了帕特里翁的前产品.</description>
       <pubDate>Wed, 23 Sep 2026 07:02:39 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam">The Verge AI</source>
@@ -118,54 +166,6 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.22408</guid>
       <source url="https://arxiv.org/abs/2609.22408">ArXiv AI</source>
-    </item>
-    <item>
-      <title>从2D图像和细胞群统计中学习3D生物物理细胞特性</title>
-      <link>https://arxiv.org/abs/2609.22410</link>
-      <description>从2D显微镜中推断出3D细胞属性很困难,因为参考仪器只报告人口统计数据,而不是单个细胞的标签。我们在此开发一个人口监督框架,以映射单个2D红细胞仪表</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.22410</guid>
-      <source url="https://arxiv.org/abs/2609.22410">ArXiv AI</source>
-    </item>
-    <item>
-      <title>"作为一个语言模型...": Chat Template switchs LLM 自评语音和活化引导再出它</title>
-      <link>https://arxiv.org/abs/2609.25021</link>
-      <description>大语言模型(LLMs)在询问与自身相关的事物时,往往会加入"我只是一个人工智能"这样的免责声明. 此类响应的自报被用于关于人工智能安全或模型的自通的辩论中,然而是什么驱使它们.</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.25021</guid>
-      <source url="https://arxiv.org/abs/2609.25021">ArXiv ML</source>
-    </item>
-    <item>
-      <title>量子和经典计算:保护隐私的混合方法</title>
-      <link>https://arxiv.org/abs/2609.25082</link>
-      <description>量子机器学习(QML)日益被公认为是量子计算最有前途的近期应用之一,被视为超越了纯粹古典方法的下一个前沿候选. Hybrid 量子古典模型可操作t.</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.25082</guid>
-      <source url="https://arxiv.org/abs/2609.25082">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Entropy Can Flow, 或 It Can Guide. Be Entropy. LEDFlow: 将Entropy- Guided Generation Order 引入到统一分流中</title>
-      <link>https://arxiv.org/abs/2609.25131</link>
-      <description>统一离散流允许在每一代位置重复更新。虽然持续修订支持修正错误的符号,但也使正确的中间预测暴露在以后的错误中。关于数独谜题的实验显示:9.4%</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.25131</guid>
-      <source url="https://arxiv.org/abs/2609.25131">ArXiv ML</source>
-    </item>
-    <item>
-      <title>大语言模型的概率结构</title>
-      <link>https://arxiv.org/abs/2609.25134</link>
-      <description>本文对大型语言模型(LLMS)提出了概率论视角,所开发的大型语言模型旨在将通常在文献中单独处理的工具整合到一个自成一体的账户中. LLMs被描述为textoug.</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.25134</guid>
-      <source url="https://arxiv.org/abs/2609.25134">ArXiv ML</source>
-    </item>
-    <item>
-      <title>稳定无监督的相接相接相接相接相接相接相接</title>
-      <link>https://arxiv.org/abs/2609.25143</link>
-      <description>在机器学习和神经科学中,无监督的连续块是一个根本问题,目标是确定在时间序列中经常共同出现的状态群。 一个关键挑战是在保持t的同时形成准确块。</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.25143</guid>
-      <source url="https://arxiv.org/abs/2609.25143">ArXiv ML</source>
     </item>
   </channel>
 </rss>
