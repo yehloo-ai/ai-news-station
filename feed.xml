@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 00:22:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:53:04 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI想咨询精英数学家 如何避免再次失败</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel</link>
-      <description>在将一串壮观的数学成果转化为名声危机之后,OpenAI正在咨询人类数学家,帮助他们找出一条不太灾难性的前进道路。 周一,公司宣布成立一个新的独立数学家小组,负责为它和其他人工智能compa提供咨询。</description>
-      <pubDate>Tue, 22 Sep 2026 20:17:17 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel">The Verge AI</source>
+      <title>OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩</title>
+      <link>https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks</link>
+      <description>OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。</description>
+      <pubDate>Wed, 23 Sep 2026 05:18:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks</guid>
+      <source url="https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks">MarkTechPost（RSS）</source>
     </item>
     <item>
-      <title>早报｜GP-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布</title>
-      <link>https://www.ifanr.com/1681566?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载 · Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot Phone 首批搭载 · 前小米 XLA 负责人陈龙创业，研发「自进化」具身大模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 23 Sep 2026 00:05:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1681566?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1681566?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折</title>
+      <link>https://www.qbitai.com/2026/09/496221.html</link>
+      <description>缓存读取价砍了60%</description>
+      <pubDate>Wed, 23 Sep 2026 04:59:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496221.html</guid>
+      <source url="https://www.qbitai.com/2026/09/496221.html">量子位</source>
     </item>
     <item>
-      <title>Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战</title>
-      <link>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna</link>
-      <description>Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。</description>
-      <pubDate>Tue, 22 Sep 2026 23:46:41 +0000</pubDate>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna</guid>
-      <source url="https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna">Simon Willison 博客</source>
+      <title>战术知识或临床病例? 数据类型如何塑造医学大语言模型</title>
+      <link>https://arxiv.org/abs/2609.22161</link>
+      <description>医学大语言模型通常接受关于教学数据(例如教科书)和临床数据(例如病人记录)的混合物的培训,然而这些数据类型差别地形状模型的能力如何仍然不明确。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22161</guid>
+      <source url="https://arxiv.org/abs/2609.22161">ArXiv AI</source>
     </item>
     <item>
-      <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%</title>
-      <link>https://x.com/thsottiaux/status/2102509507415048245</link>
-      <description>OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。</description>
-      <pubDate>Tue, 22 Sep 2026 21:25:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2102509507415048245</guid>
-      <source url="https://x.com/thsottiaux/status/2102509507415048245">X：Tibo (@thsottiaux)</source>
+      <title>低廉人工智能-视力有缺陷用户多模态综合智能手杖</title>
+      <link>https://arxiv.org/abs/2609.22277</link>
+      <description>视障影响着全世界超过22亿人,但传统的白杖却无法探测上升的危害或提供语义环境。 现有的人工智能辅助导航系统通常依赖昂贵的硬件或云母。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22277</guid>
+      <source url="https://arxiv.org/abs/2609.22277">ArXiv AI</source>
     </item>
     <item>
-      <title>OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具</title>
-      <link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
-      <description>OpenAI 为 GPT-6 系列推出改进的提示词缓存系统，默认提高缓存命中率，对 30 分钟窗口内复用的合格共享前缀提供最高 90% 的缓存输入 token 折扣。</description>
-      <pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/better-prompt-caching-for-gpt-6</guid>
-      <source url="https://openai.com/index/better-prompt-caching-for-gpt-6">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+      <title>PAANI:关于河流机器人模拟设备的视觉证据聚合和解释性指导</title>
+      <link>https://arxiv.org/abs/2609.22353</link>
+      <description>移动河道监测机器人必须解释仅靠地理指向无法描述的障碍和水分界线。 在资源受限的平台上,将不完善的视觉预测转化为及时和可检查的指南是独特的。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22353</guid>
+      <source url="https://arxiv.org/abs/2609.22353">ArXiv AI</source>
     </item>
     <item>
-      <title>兔子的新人工智能特工不需要R1来运行</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3</link>
-      <description>正如Wired早些时候报道的那样,R1设备背后的公司Rabbit正在推出一个不需要其硬件使用的独立人工智能代理,启动时称其新的OS3"代理操作系统"运行在云中,但在当地运行于Windows,Mac,和Linux设备. A.</description>
-      <pubDate>Tue, 22 Sep 2026 16:52:40 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3">The Verge AI</source>
+      <title>人工智能人口的社会影响和科学注意力的分配</title>
+      <link>https://arxiv.org/abs/2609.22408</link>
+      <description>人工智能系统正在成为科学研究评估与应用的参与者,它们遇到引号数、下载统计数据以及围绕人类读者编写的受欢迎文章清单,但这些信号产生的集体后果</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22408</guid>
+      <source url="https://arxiv.org/abs/2609.22408">ArXiv AI</source>
     </item>
     <item>
-      <title>Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为</title>
-      <link>https://x.com/rohanpaul_ai/status/2102491250515681384</link>
-      <description>Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。</description>
-      <pubDate>Tue, 22 Sep 2026 20:12:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2102491250515681384</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2102491250515681384">X：Rohan Paul (@rohanpaul_ai)</source>
+      <title>从2D图像和细胞群统计中学习3D生物物理细胞特性</title>
+      <link>https://arxiv.org/abs/2609.22410</link>
+      <description>从2D显微镜中推断出3D细胞属性很困难,因为参考仪器只报告人口统计数据,而不是单个细胞的标签。我们在此开发一个人口监督框架,以映射单个2D红细胞仪表</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22410</guid>
+      <source url="https://arxiv.org/abs/2609.22410">ArXiv AI</source>
     </item>
     <item>
-      <title>Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降</title>
-      <link>https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier</link>
-      <description>Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。</description>
-      <pubDate>Tue, 22 Sep 2026 19:41:37 +0000</pubDate>
-      <guid isPermaLink="true">https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier</guid>
-      <source url="https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier">Artificial Analysis 完整文章（网页）</source>
+      <title>"作为一个语言模型...": Chat Template switchs LLM 自评语音和活化引导再出它</title>
+      <link>https://arxiv.org/abs/2609.25021</link>
+      <description>大语言模型(LLMs)在询问与自身相关的事物时,往往会加入"我只是一个人工智能"这样的免责声明. 此类响应的自报被用于关于人工智能安全或模型的自通的辩论中,然而是什么驱使它们.</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25021</guid>
+      <source url="https://arxiv.org/abs/2609.25021">ArXiv ML</source>
     </item>
     <item>
-      <title>Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse</title>
-      <link>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</link>
-      <description>Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。</description>
-      <pubDate>Tue, 22 Sep 2026 19:29:49 +0000</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</guid>
-      <source url="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day">Hacker News 热门（buzzing.cc 中文翻译）</source>
+      <title>量子和经典计算:保护隐私的混合方法</title>
+      <link>https://arxiv.org/abs/2609.25082</link>
+      <description>量子机器学习(QML)日益被公认为是量子计算最有前途的近期应用之一,被视为超越了纯粹古典方法的下一个前沿候选. Hybrid 量子古典模型可操作t.</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25082</guid>
+      <source url="https://arxiv.org/abs/2609.25082">ArXiv ML</source>
     </item>
     <item>
-      <title>Arena 上线 GPT-6 Sol 与 GPT-6 Luna 测试，评分即将公布</title>
-      <link>https://x.com/arena/status/2102480304409878769</link>
-      <description>Arena 宣布 OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 评分即将公布，邀请用户前往 Arena 实测并通过投票真实智能体任务支持其排行榜。</description>
-      <pubDate>Tue, 22 Sep 2026 19:29:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2102480304409878769</guid>
-      <source url="https://x.com/arena/status/2102480304409878769">X：Arena (@arena)</source>
+      <title>Entropy Can Flow, 或 It Can Guide. Be Entropy. LEDFlow: 将Entropy- Guided Generation Order 引入到统一分流中</title>
+      <link>https://arxiv.org/abs/2609.25131</link>
+      <description>统一离散流允许在每一代位置重复更新。虽然持续修订支持修正错误的符号,但也使正确的中间预测暴露在以后的错误中。关于数独谜题的实验显示:9.4%</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25131</guid>
+      <source url="https://arxiv.org/abs/2609.25131">ArXiv ML</source>
     </item>
     <item>
-      <title>五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一</title>
-      <link>https://www.bloomberg.com/graphics/2026-iran-school-attack</link>
-      <description>五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。</description>
-      <pubDate>Tue, 22 Sep 2026 19:03:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bloomberg.com/graphics/2026-iran-school-attack</guid>
-      <source url="https://www.bloomberg.com/graphics/2026-iran-school-attack">Hacker News：AI 热帖</source>
+      <title>大语言模型的概率结构</title>
+      <link>https://arxiv.org/abs/2609.25134</link>
+      <description>本文对大型语言模型(LLMS)提出了概率论视角,所开发的大型语言模型旨在将通常在文献中单独处理的工具整合到一个自成一体的账户中. LLMs被描述为textoug.</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25134</guid>
+      <source url="https://arxiv.org/abs/2609.25134">ArXiv ML</source>
     </item>
     <item>
-      <title>五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡</title>
-      <link>https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477</link>
-      <description>据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。</description>
-      <pubDate>Tue, 22 Sep 2026 19:03:38 +0000</pubDate>
-      <guid isPermaLink="true">https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477</guid>
-      <source url="https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477">Hacker News：AI 热帖</source>
+      <title>稳定无监督的相接相接相接相接相接相接相接</title>
+      <link>https://arxiv.org/abs/2609.25143</link>
+      <description>在机器学习和神经科学中,无监督的连续块是一个根本问题,目标是确定在时间序列中经常共同出现的状态群。 一个关键挑战是在保持t的同时形成准确块。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25143</guid>
+      <source url="https://arxiv.org/abs/2609.25143">ArXiv ML</source>
     </item>
     <item>
-      <title>Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手</title>
-      <link>https://x.com/sama/status/2102465143997440308</link>
-      <description>Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上没有可竞争的对手。引用内容称两款模型相比 5.6 系列在智能、对齐、工作产出、编码和计算机使用上有大幅提升，价格每 token 减半，按任务算更低。他说希望人们能用大量 AI，这对探索眼前的新复兴很重要。</description>
-      <pubDate>Tue, 22 Sep 2026 18:28:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sama/status/2102465143997440308</guid>
-      <source url="https://x.com/sama/status/2102465143997440308">X：Sam Altman (@sama)</source>
+      <title>99%的准确度测量值是什么? 对广泛使用的假新闻公司的快捷键学习进行可复制的审计</title>
+      <link>https://arxiv.org/abs/2609.25006</link>
+      <description>接受过ISOT/Kaggle“假与真实新闻”程序培训的文本分类员经常报告准确性,F1高于0.98,这一性能水平与评估真实性的困难不相上下。使用透明的TF-IDF和线性分类符。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25006</guid>
+      <source url="https://arxiv.org/abs/2609.25006">ArXiv NLP</source>
     </item>
     <item>
-      <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%</title>
-      <link>https://x.com/sama/status/2102464201335984392</link>
-      <description>OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。</description>
-      <pubDate>Tue, 22 Sep 2026 18:25:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sama/status/2102464201335984392</guid>
-      <source url="https://x.com/sama/status/2102464201335984392">X：Sam Altman (@sama)</source>
+      <title>培训一种语文模式 " 从最后到最后的 " 鲁斯特语:经验报告</title>
+      <link>https://arxiv.org/abs/2609.25008</link>
+      <description>我为租借的GPU时间的164美元预先训练了Rust语言模型端到端——单独一个,没有团队,没有PyTorch,也没有Python。我报告,作为一个成就,不是一个建议:更有用的贡献是衡量的失败。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25008</guid>
+      <source url="https://arxiv.org/abs/2609.25008">ArXiv NLP</source>
     </item>
     <item>
-      <title>OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter</title>
-      <link>https://x.com/OpenRouter/status/2102463839283617992</link>
-      <description>OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。</description>
-      <pubDate>Tue, 22 Sep 2026 18:23:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenRouter/status/2102463839283617992</guid>
-      <source url="https://x.com/OpenRouter/status/2102463839283617992">X：OpenRouter (@OpenRouter)</source>
+      <title>数量相同,答案不同:语言模型中的数值表示偏差</title>
+      <link>https://arxiv.org/abs/2609.25009</link>
+      <description>数字等同的单词问题应该产生相同的单词答案,无论一个数量是小数、分数、百分比、数字单词、科学标记,还是完全转换的单位。 我们产生3,600个精确的理性问题。</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25009</guid>
+      <source url="https://arxiv.org/abs/2609.25009">ArXiv NLP</source>
     </item>
     <item>
-      <title>Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平</title>
-      <link>https://x.com/ArtificialAnlys/status/2102462962758033624</link>
-      <description>Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。</description>
-      <pubDate>Tue, 22 Sep 2026 18:20:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102462962758033624</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2102462962758033624">X：Artificial Analysis (@ArtificialAnlys)</source>
+      <title>衡量梵语文学语义变化的计算方法</title>
+      <link>https://arxiv.org/abs/2609.25012</link>
+      <description>Diachronic word 嵌入已经成了追踪语义变化的现代标准,然而它们已经基本被验证在现代,高资源,和分门别类的语言上. 本文检验了范式是否转移到了梵文,一种安西文.</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25012</guid>
+      <source url="https://arxiv.org/abs/2609.25012">ArXiv NLP</source>
     </item>
     <item>
-      <title>GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%</title>
-      <link>https://x.com/sherwinwu/status/2102462783707344907</link>
-      <description>OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。</description>
-      <pubDate>Tue, 22 Sep 2026 18:19:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sherwinwu/status/2102462783707344907</guid>
-      <source url="https://x.com/sherwinwu/status/2102462783707344907">X：Sherwin Wu（@sherwinwu）</source>
+      <title>为高效查询而获取的 Span 培训 QMSum 专题总结</title>
+      <link>https://arxiv.org/abs/2609.25028</link>
+      <description>QMSum 不提供计分器, 使得以查询为重点的会议汇总结果难以比较。 我们在一次执行下重回计分或生成15个系统。 通过一个共同的推断端口, 释放的406M Fusion- in-Decoder 专家损失了 6. 30 ROUG</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25028</guid>
+      <source url="https://arxiv.org/abs/2609.25028">ArXiv NLP</source>
     </item>
     <item>
-      <title>GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送</title>
-      <link>https://x.com/ChatGPT/status/2102462020339613966</link>
-      <description>OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。</description>
-      <pubDate>Tue, 22 Sep 2026 18:16:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ChatGPT/status/2102462020339613966</guid>
-      <source url="https://x.com/ChatGPT/status/2102462020339613966">X：ChatGPT (@ChatGPT)</source>
+      <title>Claude 5.5 发布，性能直逼 Fable，还要卷价格</title>
+      <link>https://www.ifanr.com/1681629?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>最卷一夜！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 23 Sep 2026 02:25:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1681629?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1681629?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%</title>
-      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna</link>
-      <description>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，将 GPT-6 Astra 的训练方法用于更快更便宜的模型，API 价格较 GPT-5.6 促销价下调 50%（Sol 输入 $4→$2、输出 $20→$10；Luna 输入 $0.20→$0.10、输出 $1.20→$0.50，每百万 token）。</description>
-      <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-sol-and-luna</guid>
-      <source url="https://openai.com/index/introducing-gpt-6-sol-and-luna">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+      <title>⁡⁤‬‍⁤‬​‌‍⁢⁡⁢⁣‌‌﻿⁡⁡​⁤​​﻿⁢⁡‬⁡‬​‍⁣​​﻿⁤⁡‍​⁡‬‌‬⁣⁡⁣​⁡‬⁤刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地</title>
+      <link>https://www.ifanr.com/1681605?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>DeepSeek 的价格护城河，迎来 OpenAI 的挑战#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 23 Sep 2026 02:21:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1681605?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1681605?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode</title>
-      <link>https://x.com/arena/status/2102454952576868638</link>
-      <description>Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。</description>
-      <pubDate>Tue, 22 Sep 2026 17:48:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2102454952576868638</guid>
-      <source url="https://x.com/arena/status/2102454952576868638">X：Arena (@arena)</source>
+      <title>Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一</title>
+      <link>https://x.com/Alibaba_Qwen/status/2102569821997346912</link>
+      <description>通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。</description>
+      <pubDate>Wed, 23 Sep 2026 01:24:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2102569821997346912</guid>
+      <source url="https://x.com/Alibaba_Qwen/status/2102569821997346912">X：通义千问 / Qwen (@Alibaba_Qwen)</source>
     </item>
   </channel>
 </rss>
