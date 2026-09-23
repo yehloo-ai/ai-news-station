@@ -5,8 +5,80 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 05:53:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:26:38 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI nabs 密钥 Patreon 执行器在即将宣布之前</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</link>
+      <description>OpenAI已经聘请了三位前帕特里昂执行官来为创作者主播其产品策略. 在13年前启动创作者订阅平台后,联合创始人和技术主管萨姆·亚姆(Sam Yam)在X上宣布将加入OpenAI领导创作者产品,他还带来了帕特里昂的前产品.</description>
+      <pubDate>Wed, 23 Sep 2026 07:02:39 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam">The Verge AI</source>
+    </item>
+    <item>
+      <title>汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”</title>
+      <link>https://www.qbitai.com/2026/09/496493.html</link>
+      <description>企业AI服务迎来平台化交付时代</description>
+      <pubDate>Wed, 23 Sep 2026 09:50:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496493.html</guid>
+      <source url="https://www.qbitai.com/2026/09/496493.html">量子位</source>
+    </item>
+    <item>
+      <title>Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next</title>
+      <link>https://x.com/Alibaba_Qwen/status/2102687258990026993</link>
+      <description>Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。</description>
+      <pubDate>Wed, 23 Sep 2026 09:11:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2102687258990026993</guid>
+      <source url="https://x.com/Alibaba_Qwen/status/2102687258990026993">X：通义千问 / Qwen (@Alibaba_Qwen)</source>
+    </item>
+    <item>
+      <title>斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”</title>
+      <link>https://www.qbitai.com/2026/09/496471.html</link>
+      <description>9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B</description>
+      <pubDate>Wed, 23 Sep 2026 08:45:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496471.html</guid>
+      <source url="https://www.qbitai.com/2026/09/496471.html">量子位</source>
+    </item>
+    <item>
+      <title>剪映，杀入 AI 互动影游</title>
+      <link>http://www.geekpark.net/news/370883</link>
+      <description>&amp;nbsp; 头图来源：剪映 9 月 20 日，剪映在「AI 新创作发布会」上，集中更新了专业版、移动端和创作者生态。 专业版新增一站式创作工作台「剪映 Hub」，由无限画布和多轨编辑器组成。用户可以从一句话、一个参考视频或者一份文档开始，在画布上整理思路、生成脚本和分镜，调用即梦、小云雀等平台生成图片、视频和声音，再把初剪结果送入时间线继续修改。 智能创作 Agent「剪映助手」进入了具体的剪辑工程，可以整理素材、删减口播、纠正字幕、检索补充画面和包装视频。在手机上，这个助手被称为「小映」，面向生活记录、内容创作和商品营销等场景。 剪映还调整了模板和会员体系。模板可以用自然语言改写内容，成熟</description>
+      <pubDate>Wed, 23 Sep 2026 15:32:36 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370883</guid>
+      <source url="http://www.geekpark.net/news/370883">极客公园</source>
+    </item>
+    <item>
+      <title>DeepSeek新论文公开Agent训练！梁文锋署名</title>
+      <link>https://www.qbitai.com/2026/09/496393.html</link>
+      <description>每秒能产生5000+个沙盒</description>
+      <pubDate>Wed, 23 Sep 2026 07:29:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496393.html</guid>
+      <source url="https://www.qbitai.com/2026/09/496393.html">量子位</source>
+    </item>
+    <item>
+      <title>Qwen一号位定了！刘大一恒接棒</title>
+      <link>https://www.qbitai.com/2026/09/496384.html</link>
+      <description>与稚晖君同届天才少年</description>
+      <pubDate>Wed, 23 Sep 2026 07:27:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496384.html</guid>
+      <source url="https://www.qbitai.com/2026/09/496384.html">量子位</source>
+    </item>
+    <item>
+      <title>拆解下阿里的 AI 经济学，与它的下注</title>
+      <link>http://www.geekpark.net/news/370865</link>
+      <description>作者｜张鹏 编辑｜ 苏子华 &amp;nbsp; 9 月 22 日，杭州云栖大会。阿里巴巴集团 CEO 吴泳铭和往年一样，做了开场的主旨演讲。 过去几年云栖大会的主旨演讲，可以当作「技术风向标」来听，会抛出很多重磅的技术判断，比如，「大模型是下一代操作系统」、「超级 AI 云是下一代计算机」。 但这一次，我听完的感受很不一样。吴泳铭花了很多时间讲工业革命、讲电、讲经济学。他的重心不在 AI 会变成什么样了，他讲的是，AI 会让世界变成什么样。 比如他给出的一个核心观点，「上一次这样的变化，是工业革命把动力变成了规模化的商品。人类先后发明了蒸汽机、内燃机和电，并围绕它们建立起了现代产业。这一次，轮到思考</description>
+      <pubDate>Wed, 23 Sep 2026 14:02:57 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370865</guid>
+      <source url="http://www.geekpark.net/news/370865">极客公园</source>
+    </item>
+    <item>
+      <title>从单卡到千卡互联，平头哥真武 V900 背后的 AI 算力变局</title>
+      <link>http://www.geekpark.net/news/370864</link>
+      <description>作者｜Cynthia 编辑｜郑玄 9 月 22 日的 2026 杭州云栖大会，平头哥少见地被完整推到了主论坛台前。 当天上午，吴泳铭完成主旨演讲后，千问大模型、多模态模型负责人依次登场，随后就是平头哥副总裁高慧。她的演讲题目是「Agentic 时代卓越算力基石」。 平头哥带来的产品，则从一颗最新得真武 V900 芯片，一直延伸到 ICN Switch 互联芯片、磐脉智能网卡、镇岳 SSD 主控、倚天 CPU 路线图，以及下一步的算、存、网全栈协同的超节点服务器。 发布「产品全家桶」地背后，是 Agentic 时代的负载变化：算力需求已经从训练为主进一步走向推理增长，应用从单轮请求变成连续的多步</description>
+      <pubDate>Wed, 23 Sep 2026 13:55:58 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370864</guid>
+      <source url="http://www.geekpark.net/news/370864">极客公园</source>
+    </item>
     <item>
       <title>OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩</title>
       <link>https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks</link>
@@ -14,14 +86,6 @@
       <pubDate>Wed, 23 Sep 2026 05:18:36 +0000</pubDate>
       <guid isPermaLink="true">https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks</guid>
       <source url="https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks">MarkTechPost（RSS）</source>
-    </item>
-    <item>
-      <title>Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折</title>
-      <link>https://www.qbitai.com/2026/09/496221.html</link>
-      <description>缓存读取价砍了60%</description>
-      <pubDate>Wed, 23 Sep 2026 04:59:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496221.html</guid>
-      <source url="https://www.qbitai.com/2026/09/496221.html">量子位</source>
     </item>
     <item>
       <title>战术知识或临床病例? 数据类型如何塑造医学大语言模型</title>
@@ -102,70 +166,6 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.25143</guid>
       <source url="https://arxiv.org/abs/2609.25143">ArXiv ML</source>
-    </item>
-    <item>
-      <title>99%的准确度测量值是什么? 对广泛使用的假新闻公司的快捷键学习进行可复制的审计</title>
-      <link>https://arxiv.org/abs/2609.25006</link>
-      <description>接受过ISOT/Kaggle“假与真实新闻”程序培训的文本分类员经常报告准确性,F1高于0.98,这一性能水平与评估真实性的困难不相上下。使用透明的TF-IDF和线性分类符。</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.25006</guid>
-      <source url="https://arxiv.org/abs/2609.25006">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>培训一种语文模式 " 从最后到最后的 " 鲁斯特语:经验报告</title>
-      <link>https://arxiv.org/abs/2609.25008</link>
-      <description>我为租借的GPU时间的164美元预先训练了Rust语言模型端到端——单独一个,没有团队,没有PyTorch,也没有Python。我报告,作为一个成就,不是一个建议:更有用的贡献是衡量的失败。</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.25008</guid>
-      <source url="https://arxiv.org/abs/2609.25008">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>数量相同,答案不同:语言模型中的数值表示偏差</title>
-      <link>https://arxiv.org/abs/2609.25009</link>
-      <description>数字等同的单词问题应该产生相同的单词答案,无论一个数量是小数、分数、百分比、数字单词、科学标记,还是完全转换的单位。 我们产生3,600个精确的理性问题。</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.25009</guid>
-      <source url="https://arxiv.org/abs/2609.25009">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>衡量梵语文学语义变化的计算方法</title>
-      <link>https://arxiv.org/abs/2609.25012</link>
-      <description>Diachronic word 嵌入已经成了追踪语义变化的现代标准,然而它们已经基本被验证在现代,高资源,和分门别类的语言上. 本文检验了范式是否转移到了梵文,一种安西文.</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.25012</guid>
-      <source url="https://arxiv.org/abs/2609.25012">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>为高效查询而获取的 Span 培训 QMSum 专题总结</title>
-      <link>https://arxiv.org/abs/2609.25028</link>
-      <description>QMSum 不提供计分器, 使得以查询为重点的会议汇总结果难以比较。 我们在一次执行下重回计分或生成15个系统。 通过一个共同的推断端口, 释放的406M Fusion- in-Decoder 专家损失了 6. 30 ROUG</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.25028</guid>
-      <source url="https://arxiv.org/abs/2609.25028">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Claude 5.5 发布，性能直逼 Fable，还要卷价格</title>
-      <link>https://www.ifanr.com/1681629?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>最卷一夜！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 23 Sep 2026 02:25:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1681629?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1681629?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>⁡⁤‬‍⁤‬​‌‍⁢⁡⁢⁣‌‌﻿⁡⁡​⁤​​﻿⁢⁡‬⁡‬​‍⁣​​﻿⁤⁡‍​⁡‬‌‬⁣⁡⁣​⁡‬⁤刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地</title>
-      <link>https://www.ifanr.com/1681605?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>DeepSeek 的价格护城河，迎来 OpenAI 的挑战#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 23 Sep 2026 02:21:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1681605?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1681605?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一</title>
-      <link>https://x.com/Alibaba_Qwen/status/2102569821997346912</link>
-      <description>通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。</description>
-      <pubDate>Wed, 23 Sep 2026 01:24:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2102569821997346912</guid>
-      <source url="https://x.com/Alibaba_Qwen/status/2102569821997346912">X：通义千问 / Qwen (@Alibaba_Qwen)</source>
     </item>
   </channel>
 </rss>
