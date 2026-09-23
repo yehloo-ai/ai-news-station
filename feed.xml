@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 20:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 23:37:32 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta让Muse更强大 也会让你用视频聊天</title>
+      <link>https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026</link>
+      <description>Meta 正在快速浏览其新的 Muse 人工智能代理, 宣布了今天的一系列更新, 使该机器人更有能力, 并能以更多方式与您聊天。 Muse 代理正在获得他们可以用来完成任务的电子邮件地址。 您也可以与您的 Mus 通信 。</description>
+      <pubDate>Wed, 23 Sep 2026 19:19:42 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026</guid>
+      <source url="https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026">The Verge AI</source>
+    </item>
+    <item>
+      <title>阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</title>
+      <link>https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</link>
+      <description>澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。</description>
+      <pubDate>Wed, 23 Sep 2026 22:54:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</guid>
+      <source url="https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html">Hacker News 热门（buzzing.cc 中文翻译）</source>
+    </item>
+    <item>
+      <title>Meta Connect 2026:最大的新闻和公告</title>
+      <link>https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements</link>
+      <description>今年,鉴于公司主要关注人工智能和智能眼镜等可穿戴物,我们似乎有可能看到CEO马克·扎克伯格及其团队关于这些类别的最新情况。</description>
+      <pubDate>Wed, 23 Sep 2026 18:45:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements</guid>
+      <source url="https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements">The Verge AI</source>
+    </item>
+    <item>
+      <title>AI 公司负责人在联合国安理会简报会上警告 AI 可能危及全人类</title>
+      <link>https://garymarcus.substack.com/p/historic-un-security-council-briefing</link>
+      <description>联合国安理会举行 AI 简报会，Yoshua Bengio、Sam Altman、Dario Amodei 和 Hugging Face CEO Clement Delangue 相继发言，美联社报道主要 AI 公司负责人警告若无干预，AI 可能对全人类构成风险。</description>
+      <pubDate>Wed, 23 Sep 2026 21:46:40 +0000</pubDate>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/historic-un-security-council-briefing</guid>
+      <source url="https://garymarcus.substack.com/p/historic-un-security-council-briefing">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
+    </item>
+    <item>
+      <title>Fireworks Research 发布 Ember-1，以更少推理 token 保持 Kimi K3 质量</title>
+      <link>https://fireworks.ai/blog/ember-1</link>
+      <description>Fireworks Research 发布基于 Kimi K3 的专用模型 Ember-1，以约少 40% 的 token 达到与 Kimi K3 相当的质量，今日以 Research Preview 形式在 Serverless 上线。</description>
+      <pubDate>Wed, 23 Sep 2026 21:40:50 +0000</pubDate>
+      <guid isPermaLink="true">https://fireworks.ai/blog/ember-1</guid>
+      <source url="https://fireworks.ai/blog/ember-1">Fireworks AI（网页）</source>
+    </item>
+    <item>
+      <title>Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件</title>
+      <link>https://x.com/natolambert/status/2102872133244183038</link>
+      <description>澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。</description>
+      <pubDate>Wed, 23 Sep 2026 21:26:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/natolambert/status/2102872133244183038</guid>
+      <source url="https://x.com/natolambert/status/2102872133244183038">X：Nathan Lambert (@natolambert)</source>
+    </item>
+    <item>
+      <title>团队分享提升 Agent Harness Token 效率的提示词</title>
+      <link>https://x.com/ericzakariasson/status/2102853511637774551</link>
+      <description>一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。</description>
+      <pubDate>Wed, 23 Sep 2026 20:12:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ericzakariasson/status/2102853511637774551</guid>
+      <source url="https://x.com/ericzakariasson/status/2102853511637774551">X：Eric Zakariasson (@ericzakariasson)</source>
+    </item>
+    <item>
+      <title>Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍</title>
+      <link>https://claude.dev/blog/how-we-made-claude-ai-faster</link>
+      <description>Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。</description>
+      <pubDate>Wed, 23 Sep 2026 19:23:40 +0000</pubDate>
+      <guid isPermaLink="true">https://claude.dev/blog/how-we-made-claude-ai-faster</guid>
+      <source url="https://claude.dev/blog/how-we-made-claude-ai-faster">Hacker News：AI 热帖</source>
+    </item>
     <item>
       <title>Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴</title>
       <link>https://claude.com/blog/claude-marketplace</link>
@@ -102,70 +166,6 @@
       <pubDate>Wed, 23 Sep 2026 17:11:13 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=96ogPwN9ykM</guid>
       <source url="https://www.youtube.com/watch?v=96ogPwN9ykM">OpenAI</source>
-    </item>
-    <item>
-      <title>Antigravity SDK 支持本地模型，可完全离线运行智能体</title>
-      <link>https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk</link>
-      <description>Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 &gt;24GB VRAM 或统一内存。</description>
-      <pubDate>Wed, 23 Sep 2026 17:09:01 +0000</pubDate>
-      <guid isPermaLink="true">https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk</guid>
-      <source url="https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk">Google Developers Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名</title>
-      <link>https://x.com/arena/status/2102806554340974612</link>
-      <description>Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。</description>
-      <pubDate>Wed, 23 Sep 2026 17:05:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2102806554340974612</guid>
-      <source url="https://x.com/arena/status/2102806554340974612">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型</title>
-      <link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</link>
-      <description>Google DeepMind 发布 Gemini 3.8 Flash TTS 和 Gemini 3.8 Flash-Lite TTS 两款文本转语音模型，支持用自然语言提示词从零设计声音、30 秒样本复刻声音，并提供逐行表演指导、长时音频生成和双说话人场景编排，覆盖 100 多种语言。</description>
-      <pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
-      <guid isPermaLink="true">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</guid>
-      <source url="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech">Google DeepMind：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>用双子座 3.8 文本对语音创建自己的声音</title>
-      <link>https://www.youtube.com/watch?v=FL6mI_Br-mc</link>
-      <description>从头开始设计全新的声波人物,用于游戏、浸润音书或使用自然语言提示的双声波播客——按照细微的动作提示、节奏、回转和方言变化来引导每条表演线。或者,重现一致的成人声波简介 fro</description>
-      <pubDate>Wed, 23 Sep 2026 15:23:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=FL6mI_Br-mc</guid>
-      <source url="https://www.youtube.com/watch?v=FL6mI_Br-mc">DeepMind</source>
-    </item>
-    <item>
-      <title>小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol</title>
-      <link>https://x.com/AravSrinivas/status/2102780186202972254</link>
-      <description>小米发布开源全模态模型 MiMo-V2.6 Pro 与 Flash，通过规模化强化学习训练，Pro 在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高，并在多数 Agent 基准上表现与 Claude Opus 5 和 GPT-5.6 Sol 相当。</description>
-      <pubDate>Wed, 23 Sep 2026 15:20:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AravSrinivas/status/2102780186202972254</guid>
-      <source url="https://x.com/AravSrinivas/status/2102780186202972254">X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)</source>
-    </item>
-    <item>
-      <title>Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法</title>
-      <link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
-      <description>Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。</description>
-      <pubDate>Wed, 23 Sep 2026 14:33:15 +0000</pubDate>
-      <guid isPermaLink="true">https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</guid>
-      <source url="https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects">Claude：Blog（网页）</source>
-    </item>
-    <item>
-      <title>YouTube正在建立 人工智能创造工具 几乎为它们做一切</title>
-      <link>https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests</link>
-      <description>内容创建者的一部分工作是想出如何让自己的作品出现在大多数人面前。 崩溃(或战斗)算法在历史上一直是创造者的挫折,但YouTube越来越简单地告诉创造者他们应该做什么。 在每年以创造者为重点的Mad(Mad ) 中,</description>
-      <pubDate>Wed, 23 Sep 2026 10:30:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests</guid>
-      <source url="https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI 向乌克兰政府开放 Daybreak 网络防御计划</title>
-      <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
-      <description>OpenAI 宣布向乌克兰政府开放其 Daybreak 计划，支持民用基础设施的网络防御，与乌克兰数字化转型部合作提供识别软件漏洞、开发和测试修复的工具。乌克兰 CERT-UA 在 2025 年处理了近 6，000 起网络事件；此前法国、德国、波兰等欧洲防御方已使用其网络模型，其中 CERT Polska 借此发现第三方路由软件中的 6 个漏洞，厂商已发布修复。</description>
-      <pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
-      <source url="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
     </item>
   </channel>
 </rss>
