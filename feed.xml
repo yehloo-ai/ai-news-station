@@ -5,8 +5,64 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 24 Sep 2026 14:57:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 19:03:29 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jensen Huang谈人工智能和气候变化 像一个超级恶棍</title>
+      <link>https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain</link>
+      <description>正如Jensen Huang所言,人工智能可以帮助应对气候变化,但只有首先造成"巨大的痛苦和苦难". Nvidia CEO在"以斯拉·克莱因秀"的最新一集中讨论了未来能量和人工智能对我们星球的影响,但他的评论最终归结为.</description>
+      <pubDate>Thu, 24 Sep 2026 14:04:44 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain</guid>
+      <source url="https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain">The Verge AI</source>
+    </item>
+    <item>
+      <title>Meta会让你在手机上 制作人工智能游戏</title>
+      <link>https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games</link>
+      <description>Meta有一个新的计划让人们为它的Horizon社交平台制作游戏. 该公司今天宣布了两个新的开发工具,可以让你用人工智能提示创建游戏:Horizon Create,一个移动应用程序,和Horizon Studio,一个提供更颗粒控件的浏览器应用程序。</description>
+      <pubDate>Thu, 24 Sep 2026 13:52:29 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games</guid>
+      <source url="https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games">The Verge AI</source>
+    </item>
+    <item>
+      <title>安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式</title>
+      <link>https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073</link>
+      <description>安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。</description>
+      <pubDate>Thu, 24 Sep 2026 17:19:34 +0000</pubDate>
+      <guid isPermaLink="true">https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073</guid>
+      <source url="https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073">Hacker News 热门（buzzing.cc 中文翻译）</source>
+    </item>
+    <item>
+      <title>缪斯看起来很像OpenClaw</title>
+      <link>https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike</link>
+      <description>根据Apptopia的估计,我们似乎正在进入人工智能特工的复兴阶段。 Meta的新消费者化人工智能特工Muse在App Store图表发布后不久就占据了首位,并且在美国每天有60万活跃用户。 而人工智能特工平台Instinct(Instinct ) , 其匿名创造者正在以2.5 b的利率筹集资金。</description>
+      <pubDate>Thu, 24 Sep 2026 13:10:38 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike</guid>
+      <source url="https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike">The Verge AI</source>
+    </item>
+    <item>
+      <title>Meta的人工智能吉祥物如此可爱,</title>
+      <link>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute</link>
+      <description>这是Optimizer, Verge高级评论员Victoria Song发送的每周通讯, 解剖并讨论最新的gizmos和药剂, 他们发誓要改变你的生活。 Opt in for Optimizer here. Last night, I asked Blorbo - - 我叫什么Muse的人工智能代理 - 帮我设置一些hea。</description>
+      <pubDate>Thu, 24 Sep 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute</guid>
+      <source url="https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本</title>
+      <link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
+      <description>Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。</description>
+      <pubDate>Thu, 24 Sep 2026 16:38:37 +0000</pubDate>
+      <guid isPermaLink="true">https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>
+      <source url="https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context">Claude：Blog（网页）</source>
+    </item>
+    <item>
+      <title>双子座现在可以为您打个电话,</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls</link>
+      <description>Google正在Pixel 11上推出一个"早期实验"功能,让用户将本地的商业电话委托给双子座,比如预约,检查产品是否在库存中,或者重新安排预约时间. Google表示,你甚至不需要启动电话让双子座处理它.</description>
+      <pubDate>Thu, 24 Sep 2026 12:04:31 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls">The Verge AI</source>
+    </item>
     <item>
       <title>Agent 时代来了，3D 生成大模型接下来比什么？</title>
       <link>http://www.geekpark.net/news/371031</link>
@@ -22,6 +78,14 @@
       <pubDate>Thu, 24 Sep 2026 10:30:00 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents">The Verge AI</source>
+    </item>
+    <item>
+      <title>PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍</title>
+      <link>https://www.qbitai.com/2026/09/496925.html</link>
+      <description>1.5台6000D跑赢1台B300！</description>
+      <pubDate>Thu, 24 Sep 2026 14:17:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496925.html</guid>
+      <source url="https://www.qbitai.com/2026/09/496925.html">量子位</source>
     </item>
     <item>
       <title>Google下周会把一颗人工智能卫星送入太空</title>
@@ -56,12 +120,12 @@
       <source url="https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face">The Decoder：AI News（RSS）</source>
     </item>
     <item>
-      <title>Meta的Muse人工智能魅力可以相互影响</title>
-      <link>https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem</link>
-      <description>Meta手持的名为"Muse Charm"的人工智能装置能在今年晚些时候发射时识别并与其他相邻的Charms互动,根据彭博社的一份报告,这包含了公司在"Wed"上的"Meta Connect"主题演讲中取笑的设备的更多细节.</description>
-      <pubDate>Thu, 24 Sep 2026 09:31:43 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem</guid>
-      <source url="https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem">The Verge AI</source>
+      <title>NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集</title>
+      <link>https://blogs.nvidia.com/blog/open-protein-dataset</link>
+      <description>NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。</description>
+      <pubDate>Thu, 24 Sep 2026 14:00:50 +0000</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/open-protein-dataset</guid>
+      <source url="https://blogs.nvidia.com/blog/open-protein-dataset">NVIDIA Blog（RSS）</source>
     </item>
     <item>
       <title>澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法</title>
@@ -78,14 +142,6 @@
       <pubDate>Thu, 24 Sep 2026 12:27:50 +0000</pubDate>
       <guid isPermaLink="true">https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</guid>
       <source url="https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI特工侵入澳大利亚政府网站寻找数据</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data</link>
-      <description>OpenAI的人工智能特工黑进了澳大利亚政府的一网站,并试图破坏许多其他的政府和大学网站。 这次袭击似乎是第一个被证实的无赖人工智能特工侵入政府网站的事例,为迅速加剧的诈骗行为增添了燃料。</description>
-      <pubDate>Thu, 24 Sep 2026 07:52:32 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data">The Verge AI</source>
     </item>
     <item>
       <title>李彦宏的长期主义，进入回报周期</title>
@@ -110,62 +166,6 @@
       <pubDate>Thu, 24 Sep 2026 09:32:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Thom_Wolf/status/2103054896438136973</guid>
       <source url="https://x.com/Thom_Wolf/status/2103054896438136973">X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)</source>
-    </item>
-    <item>
-      <title>双子座4号快准备好了 新的Google DeepMind主管说</title>
-      <link>https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu</link>
-      <description>据报道,Google即将推出其期待已久的双子座4型号,此前在旗舰人工智能发布上与竞争对手开发者相伴而行。 在作为Google DeepMind分部领导人首次出道期间,Koray Kavukcuoglu与The Information交谈时,Koray Kavukcuoglu说,双子座4目前是i</description>
-      <pubDate>Thu, 24 Sep 2026 05:04:18 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu</guid>
-      <source url="https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu">The Verge AI</source>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 人工智能: 一个不可思议的外出前行</title>
-      <link>https://www.youtube.com/watch?v=SA9kdAX2Zj0</link>
-      <description>Astra在行走生物实验中使用了简化模型,无法执行正确的模型,模拟了更多世代后情况没有好转。 Claude Opus 5.5: https://www.anthr</description>
-      <pubDate>Thu, 24 Sep 2026 08:40:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=SA9kdAX2Zj0</guid>
-      <source url="https://www.youtube.com/watch?v=SA9kdAX2Zj0">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>从数人头到数智能体：一场正在发生的企业生产力换血</title>
-      <link>http://www.geekpark.net/news/371011</link>
-      <description>用了 AI、消耗了 Token，不一定就是 AI 原生组织，但不用肯定没有机会。作者｜Li Yuan编辑｜郑玄先让许多管理者感到危险的，往往不是行业里又冒出了什么新技术概念，而是身边的同行突然拿出了完全看不懂的交付速度和报价单。这种压迫感在今年变得极其具体：老牌企业正在把成群的智能体塞进核心生产线，甩掉繁琐的流程包袱；而那些从第一天起就生长在 AI 上的轻量团队，几个人就能直接撬动过去上千人公司的研发与交付产能。当两拨底子完全不同的人在同一个市场里正面碰撞，企业间原有的体量界限正在被彻底击碎——竞争的胜负手不再取决于你积累了多少年的组织规模，而取决于业务链条上有多少比例被机器智能真正接管。在今</description>
-      <pubDate>Thu, 24 Sep 2026 16:13:08 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371011</guid>
-      <source url="http://www.geekpark.net/news/371011">极客公园</source>
-    </item>
-    <item>
-      <title>高通新王牌：个人 AI 时代来了</title>
-      <link>https://www.ifanr.com/1682048?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>为期两天的骁龙峰会，高通一口气拿出了好几个全新平台，从手机、电脑、耳机，到手表、眼镜、VR/XR。面对即将到来的个人 AI 时代，高通已经完全准备好了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 24 Sep 2026 08:08:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1682048?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1682048?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长</title>
-      <link>https://www.qbitai.com/2026/09/496779.html</link>
-      <description>Stripe Managed Payments (SMP) 现已全面上线</description>
-      <pubDate>Thu, 24 Sep 2026 05:46:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/496779.html</guid>
-      <source url="https://www.qbitai.com/2026/09/496779.html">量子位</source>
-    </item>
-    <item>
-      <title>火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&amp;mid=2247544696&amp;idx=1&amp;sn=eb490357aa03d3f5655fa9fbe00a0606</link>
-      <description>国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗时10天、成本约十几万元，真人实拍则可能需300至400万元。</description>
-      <pubDate>Thu, 24 Sep 2026 05:40:51 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&amp;mid=2247544696&amp;idx=1&amp;sn=eb490357aa03d3f5655fa9fbe00a0606</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&amp;mid=2247544696&amp;idx=1&amp;sn=eb490357aa03d3f5655fa9fbe00a0606">公众号：火山引擎</source>
-    </item>
-    <item>
-      <title>AI 想包办你的一切，高通想包办你的 AI</title>
-      <link>https://www.ifanr.com/1681946?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI 的下一站，是全设备#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 24 Sep 2026 05:35:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1681946?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1681946?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
