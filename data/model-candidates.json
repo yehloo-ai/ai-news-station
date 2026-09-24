@@ -382,5 +382,29 @@
     "sourceUrl": "https://x.com/claudeai/status/2102435511222890900",
     "sourceName": "X：Claude (@claudeai)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
+    "summary": "Google DeepMind 发布 Gemini 3.8 Flash TTS 和 Gemini 3.8 Flash-Lite TTS 两款文本转语音模型，支持用自然语言提示词从零设计声音、30 秒样本复刻声音，并提供逐行表演指导、长时音频生成和双说话人场景编排，覆盖 100 多种语言。",
+    "sourceUrl": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+    "sourceName": "Google DeepMind：Blog（RSS）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
+    "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
+    "sourceUrl": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+    "sourceName": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Fireworks Research 发布 Ember-1，以更少推理 token 保持 Kimi K3 质量",
+    "summary": "Fireworks Research 发布基于 Kimi K3 的专用模型 Ember-1，以约少 40% 的 token 达到与 Kimi K3 相当的质量，今日以 Research Preview 形式在 Serverless 上线。",
+    "sourceUrl": "https://fireworks.ai/blog/ember-1",
+    "sourceName": "Fireworks AI（网页）",
+    "reviewReason": "awaiting-review"
   }
 ]
