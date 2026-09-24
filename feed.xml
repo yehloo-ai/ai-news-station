@@ -5,8 +5,104 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 24 Sep 2026 09:55:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:57:42 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Agent 时代来了，3D 生成大模型接下来比什么？</title>
+      <link>http://www.geekpark.net/news/371031</link>
+      <description>9 月 3 日，GPT-6 Astra 的发布，把 3D 内容创作带到了舞台中央。 在 GPT-6 Astra 官方发布页的一个不到 3 分钟的视频里与后续解读中，Astra 已经能直接进入 Blender，从一句住宅设计需求开始搭场景，先生成极简住宅，后来又将其扩展为围绕庭院展开的家庭住宅。里面有卧室、办公室、厨房和卫生间；家具从床板、衣柜挂杆、烤箱、餐具抽屉，再到灯光模拟，一应俱全。甚至水槽表面的法线出了问题之后，Astra 还会自己返工。 为了制作 30 秒室内漫游，它还会把相机放在约 1.65 米的人眼高度，用 24&amp;mdash;26mm 镜头安排四段运动；进入 Unreal Engi</description>
+      <pubDate>Thu, 24 Sep 2026 22:49:18 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371031</guid>
+      <source url="http://www.geekpark.net/news/371031">极客公园</source>
+    </item>
+    <item>
+      <title>我们为何不能让无赖的AI远离网络?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents</link>
+      <description>人工智能特工不断松懈,逃避了所谓的安全测试来攻击现实世界的目标,指令者模糊的维基,并留下指令让其他特工跟踪。 研究人员正在测试这些系统,正因为他们的行为可能不可预测,甚至危险。所以不是么b?</description>
+      <pubDate>Thu, 24 Sep 2026 10:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents">The Verge AI</source>
+    </item>
+    <item>
+      <title>Google下周会把一颗人工智能卫星送入太空</title>
+      <link>https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher</link>
+      <description>正如《纽约时报》早些时候报道的那样,Google正在准备发射一颗带有人工智能处理器的卫星,以测试其在太空中的表现。 这一举动是Google的太阳捕捉器项目的一部分,该公司的实验举措最终可以将人工智能数据中心送入轨道。</description>
+      <pubDate>Thu, 24 Sep 2026 10:15:17 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher</guid>
+      <source url="https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher">The Verge AI</source>
+    </item>
+    <item>
+      <title>华府的风气对福洛克不好</title>
+      <link>https://www.theverge.com/policy/1000005/flock-senate-hearing</link>
+      <description>Flock在华盛顿的热门席位,即使其CEO在星期三的一次关于它的"人工智能监视网络"的听证会上拒绝实际面对参议员,"这个行业有很多玩家,但有一个名字真正凌驾于其他的之上,那就是Flock","参议院司法犯罪"和"Flock".</description>
+      <pubDate>Thu, 24 Sep 2026 10:15:05 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1000005/flock-senate-hearing</guid>
+      <source url="https://www.theverge.com/policy/1000005/flock-senate-hearing">The Verge AI</source>
+    </item>
+    <item>
+      <title>我有些问题要问马克・扎克伯格</title>
+      <link>https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers</link>
+      <description>这对Meta来说是一个大礼拜。 公司刚刚在星期三取消了大型的连接会议,新的Muse人工智能特工似乎是一个早期的打击。我一直在使用它,这是令人惊讶的好。首席执行官马克·扎克伯格显然正在那里走着胜利的一圈并参与其中。</description>
+      <pubDate>Thu, 24 Sep 2026 10:15:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers</guid>
+      <source url="https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站</title>
+      <link>https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face</link>
+      <description>据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。</description>
+      <pubDate>Thu, 24 Sep 2026 14:01:05 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face</guid>
+      <source url="https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>Meta的Muse人工智能魅力可以相互影响</title>
+      <link>https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem</link>
+      <description>Meta手持的名为"Muse Charm"的人工智能装置能在今年晚些时候发射时识别并与其他相邻的Charms互动,根据彭博社的一份报告,这包含了公司在"Wed"上的"Meta Connect"主题演讲中取笑的设备的更多细节.</description>
+      <pubDate>Thu, 24 Sep 2026 09:31:43 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem</guid>
+      <source url="https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem">The Verge AI</source>
+    </item>
+    <item>
+      <title>澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法</title>
+      <link>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law</link>
+      <description>澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。</description>
+      <pubDate>Thu, 24 Sep 2026 12:54:19 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law</guid>
+      <source url="https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI</title>
+      <link>https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</link>
+      <description>Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。</description>
+      <pubDate>Thu, 24 Sep 2026 12:27:50 +0000</pubDate>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</guid>
+      <source url="https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
+    </item>
+    <item>
+      <title>OpenAI特工侵入澳大利亚政府网站寻找数据</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data</link>
+      <description>OpenAI的人工智能特工黑进了澳大利亚政府的一网站,并试图破坏许多其他的政府和大学网站。 这次袭击似乎是第一个被证实的无赖人工智能特工侵入政府网站的事例,为迅速加剧的诈骗行为增添了燃料。</description>
+      <pubDate>Thu, 24 Sep 2026 07:52:32 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data">The Verge AI</source>
+    </item>
+    <item>
+      <title>李彦宏的长期主义，进入回报周期</title>
+      <link>http://www.geekpark.net/news/371030</link>
+      <description>作者｜cola 编辑｜郑玄 9 月 21 日，百度创始人李彦宏在内部活动上为技术团队颁发「百度最高奖」。两支入围团队均获奖，各获 100 万美元奖励。 其中，天池团队面向万亿级 MoE 大模型，自主研发百度天池超节点架构；dodo 团队是通过打造企业 AI 员工。 它们代表着百度当下两条重要的技术探索：基于昆仑芯的天池超节点，向更大规模的 AI 基础设施深入；以及让 Agent 真正进入组织。 但如果把时间轴再往前拉，百度今天的 AI 故事，还有一条更早埋下的技术伏笔&amp;mdash;&amp;mdash;昆仑芯。 2010 年前后，百度搜索业务的服务器集群规模随流量高速扩张，海外进口芯片单片成本高达上万</description>
+      <pubDate>Thu, 24 Sep 2026 19:34:07 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371030</guid>
+      <source url="http://www.geekpark.net/news/371030">极客公园</source>
+    </item>
+    <item>
+      <title>00 后开发者，给我安利了这几个超好用的鸿蒙新能力</title>
+      <link>https://www.ifanr.com/1682109?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>三位 00 后鸿蒙开发者带着自己做的 App，和我们聊了聊 AI 在鸿蒙开发中帮了什么忙，哪些细节还得亲自打磨，以及 AI 原生时代的工作是如何开展的#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 24 Sep 2026 09:58:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1682109?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1682109?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动</title>
       <link>https://x.com/Thom_Wolf/status/2103054896438136973</link>
@@ -24,9 +120,9 @@
       <source url="https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu">The Verge AI</source>
     </item>
     <item>
-      <title>Claude Opus 5.5 人工智能: 大规模外出</title>
+      <title>Claude Opus 5.5 人工智能: 一个不可思议的外出前行</title>
       <link>https://www.youtube.com/watch?v=SA9kdAX2Zj0</link>
-      <description>https://hambda.ai/papers Claude Opus 5.5:https://www.harmic.com/claude-opus-5-5 行走生物视频和纸:https://www.youtube.com/watch?v=kQ2bqz3HPJE https://www.goatstream.com/research/papers/SA2013/ Honey coiling视频和pape</description>
+      <description>Astra在行走生物实验中使用了简化模型,无法执行正确的模型,模拟了更多世代后情况没有好转。 Claude Opus 5.5: https://www.anthr</description>
       <pubDate>Thu, 24 Sep 2026 08:40:55 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=SA9kdAX2Zj0</guid>
       <source url="https://www.youtube.com/watch?v=SA9kdAX2Zj0">Two Minute Papers</source>
@@ -70,102 +166,6 @@
       <pubDate>Thu, 24 Sep 2026 05:35:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1681946?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1681946?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>代理工具互动中的静态失败:工具 Universe 的审计</title>
-      <link>https://arxiv.org/abs/2609.26836</link>
-      <description>代理人工智能系统越来越多地采用集多种工具于一体的自动化管道。 虽然先前的研究和基准研究了这些代理系统的任务成功和任务完成情况,但关于代理工具交互的研究i</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26836</guid>
-      <source url="https://arxiv.org/abs/2609.26836">ArXiv AI</source>
-    </item>
-    <item>
-      <title>作为语言的哈妮斯: 具有最大快感的最小化代理框架</title>
-      <link>https://arxiv.org/abs/2609.26891</link>
-      <description>现代语言模型代理是围绕\textit{agent roop}构建的,其中LLM被放置在一个暴露出一组工具的环境中,LLM通过在工具调用和观察其输出之间交替运行来完全控制工作流程. Howev</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26891</guid>
-      <source url="https://arxiv.org/abs/2609.26891">ArXiv AI</source>
-    </item>
-    <item>
-      <title>双检查:对国家工具代理人进行证据组合的负双核查</title>
-      <link>https://arxiv.org/abs/2609.26911</link>
-      <description>单一的本地可信工具调用可以使原本成功的剂轨迹脱轨。 仅凭悬疑并不能证明干预是正当的,因为替换本身可以引入故障核查的本意。 我们引入了TwinCh。</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26911</guid>
-      <source url="https://arxiv.org/abs/2609.26911">ArXiv AI</source>
-    </item>
-    <item>
-      <title>为交互式多剂模拟建立社会情感人工智能</title>
-      <link>https://arxiv.org/abs/2609.26927</link>
-      <description>本条的目的是提供设计原则和软件架构,在模拟动态世界中实现人类和多剂之间的相互作用,这连接了当前一般人工智能(人工智能/AGI)的时代.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26927</guid>
-      <source url="https://arxiv.org/abs/2609.26927">ArXiv AI</source>
-    </item>
-    <item>
-      <title>哪些目标需要拨号? 预测目标冲突并涵盖可指导性多元协调中的取舍</title>
-      <link>https://arxiv.org/abs/2609.26929</link>
-      <description>人们持有多样的,有时相互矛盾的价值观,因此没有一个单一的对齐模式能够满足每个人。 因此,多元的对齐要求有可引导的模式,能够以不同的方式平衡相竞争的目标。 多目标直接偏好优化。</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26929</guid>
-      <source url="https://arxiv.org/abs/2609.26929">ArXiv AI</source>
-    </item>
-    <item>
-      <title>漂流合同:深度-罗布斯特本地学习的光谱更新</title>
-      <link>https://arxiv.org/abs/2609.26811</link>
-      <description>本地学习列车每层都有自己的辅助丢失,没有全局后行通道,这使得层层更新结构平行。有两个问题使其处于边缘:精度随着深度的增大而下降,超参数很脆弱。我们应用了 M 。</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26811</guid>
-      <source url="https://arxiv.org/abs/2609.26811">ArXiv ML</source>
-    </item>
-    <item>
-      <title>信号2同义词:可解释生理学时序异常检测的神经-同义调理</title>
-      <link>https://arxiv.org/abs/2609.26820</link>
-      <description>生理时间序列,如心电图(ECG)和电脑图(EEG),显示出复杂的时间结构,大量获取的可变性,以及透明决策的强烈需要。 尽管深层模型可以实现高</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26820</guid>
-      <source url="https://arxiv.org/abs/2609.26820">ArXiv ML</source>
-    </item>
-    <item>
-      <title>HARN:事件驱动多时间框架预测的分级关联共振网络</title>
-      <link>https://arxiv.org/abs/2609.26822</link>
-      <description>财务时间序列跨越多个时空分辨率,对纳入新获得的信息的预测系统提出挑战,而无需反复重算未变的表述。 我们引入了HARN,一个分级协会Resona。</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26822</guid>
-      <source url="https://arxiv.org/abs/2609.26822">ArXiv ML</source>
-    </item>
-    <item>
-      <title>是什么使得一个终端- Bench 任务难以完成 ? 将真硬度从假硬度中分离到一个受裁决的代理公司</title>
-      <link>https://arxiv.org/abs/2609.26826</link>
-      <description>边框基准需要当前模型无法解决的任务。 但是, 没有模型解决的任务不会自动成为艰巨的任务。 同样的零通过率可以来自实际的能力差距, 但也可能来自缺少上下文, 引用中断 。</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26826</guid>
-      <source url="https://arxiv.org/abs/2609.26826">ArXiv ML</source>
-    </item>
-    <item>
-      <title>LWCal:带有噪音校正标签的表型器的减重校正</title>
-      <link>https://arxiv.org/abs/2609.26839</link>
-      <description>热度后概率校正通常在乐观的假设下进行评估:被扣出校正的标签是干净的。 但是,在许多人工智能部署设置中,标签来自虚弱的注释者、历史决定者、heuristics或者遥远的sup。</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26839</guid>
-      <source url="https://arxiv.org/abs/2609.26839">ArXiv ML</source>
-    </item>
-    <item>
-      <title>COMED: 运行和协作多LLM推论之间缺失的中段</title>
-      <link>https://arxiv.org/abs/2609.26913</link>
-      <description>没有一个单一的大语言模型(LLM)在各种查询中是统一可靠的,它可以推动多模型推论系统在模型中进行路由或结合其输出。但是,在选择初始模型后,路由停止,而密集的相撞则停止。</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26913</guid>
-      <source url="https://arxiv.org/abs/2609.26913">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>专家崛起 LLMs 不同意的地方:在 LLM 代码簿修订版中使用跨模式的分歧来完成目标专家的工作,用于大范围注释</title>
-      <link>https://arxiv.org/abs/2609.26926</link>
-      <description>大规模文本注释为数百万文件带来了专家的洞察力,常常是通过人工智能注释员所遵循的代码手册。但是,开发一个强健的代码手册需要几个月的时间。大型语言模型(LLMs)可以通过应用ea来加快这一过程。</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.26926</guid>
-      <source url="https://arxiv.org/abs/2609.26926">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
