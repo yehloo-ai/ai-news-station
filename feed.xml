@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 24 Sep 2026 19:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 22:17:11 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>双子座 3.8 与Live Avatar一起生活给Google的人工智能带来面孔</title>
+      <link>https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face</link>
+      <description>Google新的双子座 3.8 Live更新让用户在实时观看动画人工智能人物a回应的同时与模型对话. "Live Avatar"将在对话中进行唇语同步并显示不同的面部表情,但目前只能提供给双子座企业客户. A.</description>
+      <pubDate>Thu, 24 Sep 2026 15:59:26 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face</guid>
+      <source url="https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face">The Verge AI</source>
+    </item>
+    <item>
+      <title>GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程</title>
+      <link>https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent</link>
+      <description>GitHub Security Lab 的 Antonio Morales 开源了基于 Taskflow Agent 的 Fuzzing Taskflow，指向 GitHub 仓库即可自动识别入口点、编写 harness、运行 AFL++、读取覆盖报告并分诊崩溃。</description>
+      <pubDate>Thu, 24 Sep 2026 18:26:12 +0000</pubDate>
+      <guid isPermaLink="true">https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent</guid>
+      <source url="https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent">GitHub Blog</source>
+    </item>
     <item>
       <title>Jensen Huang谈人工智能和气候变化 像一个超级恶棍</title>
       <link>https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain</link>
@@ -104,14 +120,6 @@
       <source url="https://www.theverge.com/policy/1000005/flock-senate-hearing">The Verge AI</source>
     </item>
     <item>
-      <title>我有些问题要问马克・扎克伯格</title>
-      <link>https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers</link>
-      <description>这对Meta来说是一个大礼拜。 公司刚刚在星期三取消了大型的连接会议,新的Muse人工智能特工似乎是一个早期的打击。我一直在使用它,这是令人惊讶的好。首席执行官马克·扎克伯格显然正在那里走着胜利的一圈并参与其中。</description>
-      <pubDate>Thu, 24 Sep 2026 10:15:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers</guid>
-      <source url="https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers">The Verge AI</source>
-    </item>
-    <item>
       <title>OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站</title>
       <link>https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face</link>
       <description>据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。</description>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 24 Sep 2026 09:58:12 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1682109?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1682109?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动</title>
-      <link>https://x.com/Thom_Wolf/status/2103054896438136973</link>
-      <description>Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。</description>
-      <pubDate>Thu, 24 Sep 2026 09:32:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Thom_Wolf/status/2103054896438136973</guid>
-      <source url="https://x.com/Thom_Wolf/status/2103054896438136973">X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)</source>
     </item>
   </channel>
 </rss>
