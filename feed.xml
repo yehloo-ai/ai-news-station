@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 07:41:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:40:05 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple Home的人工智能相机能比Amazon和Google的智能相机更聪明吗?</title>
+      <link>https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review</link>
+      <description>几年前,我在一个海滩上 复活节时的打猎, 看着我的孩子冲出沙丘寻找甜点。我的手机在口袋里响起,我忽略了它。一瞬间,它又响起。我把它拉出,俯瞰下来,从我的安全相机上看到一个“被检测到的动静”通知。“</description>
+      <pubDate>Fri, 25 Sep 2026 09:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review</guid>
+      <source url="https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review">The Verge AI</source>
+    </item>
+    <item>
+      <title>Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS</title>
+      <link>https://x.com/satyanadella/status/2103455884366188544</link>
+      <description>Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。</description>
+      <pubDate>Fri, 25 Sep 2026 12:05:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/satyanadella/status/2103455884366188544</guid>
+      <source url="https://x.com/satyanadella/status/2103455884366188544">X：Satya Nadella (@satyanadella)</source>
+    </item>
+    <item>
+      <title>微软认为其新的副驾驶"超级应用"将像Office一样有影响力.</title>
+      <link>https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot</link>
+      <description>微软在上个月取笑了它的新副驾驶"超级应用"后,今天正式揭幕. 重新设计的副驾驶应用将三个人工智能能力捆绑在一个聊天,编码和代理的单一界面上. 微软作为发布的一部分,也正在重塑Scout的品牌,人工智能个人助理解开它.</description>
+      <pubDate>Fri, 25 Sep 2026 08:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot</guid>
+      <source url="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot">The Verge AI</source>
+    </item>
+    <item>
+      <title>Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议</title>
+      <link>https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment</link>
+      <description>Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。</description>
+      <pubDate>Fri, 25 Sep 2026 11:00:28 +0000</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment</guid>
+      <source url="https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment">Ars Technica：AI（RSS）</source>
+    </item>
     <item>
       <title>OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站</title>
       <link>https://www.ithome.com/1/007/144.htm</link>
@@ -134,38 +166,6 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.28673</guid>
       <source url="https://arxiv.org/abs/2609.28673">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>二等和多等仇恨言论侦测可解释的DistillBERT-BILSTM-注意框架</title>
-      <link>https://arxiv.org/abs/2609.28703</link>
-      <description>对社交媒体的仇恨言论对社会和谐、心理健康和公共安全构成严重风险,因此,及时、准确地发现言论对内容节制系统至关重要。</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28703</guid>
-      <source url="https://arxiv.org/abs/2609.28703">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>PTC-Bias: 语言教育课程中Bias检索和解析后校正的电话-级别时间竞赛</title>
-      <link>https://arxiv.org/abs/2609.28727</link>
-      <description>语境偏好改善了语音大语言模型(SpeechLLM)中稀有字的识别,但有效利用大型偏好列表仍然是有挑战性的。 我们提议基于电话级时间竞争的双阶段框架PTC-Bias。</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28727</guid>
-      <source url="https://arxiv.org/abs/2609.28727">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>OPPO 姜昱辰：大模型的差距越来越小，AI 手机的差距才刚拉开</title>
-      <link>http://www.geekpark.net/news/371035</link>
-      <description>小布、ColorOS 17 与「AI 硬件」 作者｜张勇毅 编辑｜郑玄 「以意图驱动的手机就是 AI 手机。用户说一句话，手机就能把事情办了，不需要再打开 APP、反复点击。」 这是 OPPO ColorOS 智慧产品研发总监姜昱辰，给 AI 手机下的最新定义。她也用这把尺子量了一遍市面上的产品，包括 OPPO 自家的，结论是现在没有一台手机可以称为 AI 手机。 但做出这样一台手机，正是 OPPO 的目标。 如果按姜昱辰的标准，这个行业连及格线都没碰到，那过去四年各家砸下去的东西，未来会如何在手机体验上体现出差别？ OPPO 的答案可以压缩成一句话：不去和大模型公司争云端的模型，把核心能力压</description>
-      <pubDate>Fri, 25 Sep 2026 09:50:25 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371035</guid>
-      <source url="http://www.geekpark.net/news/371035">极客公园</source>
-    </item>
-    <item>
-      <title>双子座 3.8 与Live Avatar一起生活给Google的人工智能带来面孔</title>
-      <link>https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face</link>
-      <description>Google新的双子座 3.8 Live更新让用户在实时观看动画人工智能人物a回应的同时与模型对话. "Live Avatar"将在对话中进行唇语同步并显示不同的面部表情,但目前只能提供给双子座企业客户. A.</description>
-      <pubDate>Thu, 24 Sep 2026 15:59:26 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face</guid>
-      <source url="https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face">The Verge AI</source>
     </item>
   </channel>
 </rss>
