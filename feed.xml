@@ -5,8 +5,96 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:31:03 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式</title>
+      <link>https://claude.com/blog/build-plugins-for-claude</link>
+      <description>Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。</description>
+      <pubDate>Fri, 25 Sep 2026 18:09:06 +0000</pubDate>
+      <guid isPermaLink="true">https://claude.com/blog/build-plugins-for-claude</guid>
+      <source url="https://claude.com/blog/build-plugins-for-claude">Claude：Blog（网页）</source>
+    </item>
+    <item>
+      <title>GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases</link>
+      <description>GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。</description>
+      <pubDate>Fri, 25 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases</guid>
+      <source url="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases">GitHub Blog</source>
+    </item>
+    <item>
+      <title>Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末</title>
+      <link>https://www.anthropic.com/research/yes-claude-can-do-nine-loops</link>
+      <description>物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。</description>
+      <pubDate>Fri, 25 Sep 2026 17:59:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/research/yes-claude-can-do-nine-loops</guid>
+      <source url="https://www.anthropic.com/research/yes-claude-can-do-nine-loops">Anthropic：Research（发表成果 · 网页）</source>
+    </item>
+    <item>
+      <title>Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算</title>
+      <link>https://x.com/AnthropicAI/status/2103541577083719888</link>
+      <description>Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。</description>
+      <pubDate>Fri, 25 Sep 2026 17:46:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AnthropicAI/status/2103541577083719888</guid>
+      <source url="https://x.com/AnthropicAI/status/2103541577083719888">X：Anthropic (@AnthropicAI)</source>
+    </item>
+    <item>
+      <title>Meta 使 Muse 文件系统更容易访问</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem</link>
+      <description>昨天,稍稍推敲后,发现Meta的Muse会将其文件系统暴露给好奇的用户. 这些文件在人工智能聊天员的引擎盖下提供了迷人的窥视,似乎暴露了我们本不该看到的细节,尤其是因为Muse自己告诉了人们,包括我们,i</description>
+      <pubDate>Fri, 25 Sep 2026 12:49:53 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露</title>
+      <link>https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts</link>
+      <description>Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。</description>
+      <pubDate>Fri, 25 Sep 2026 15:48:14 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts</guid>
+      <source url="https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Cognition 宣布年化收入运行率突破 10 亿美元</title>
+      <link>https://cognition.com/blog/1b-run-rate</link>
+      <description>Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。</description>
+      <pubDate>Fri, 25 Sep 2026 15:42:15 +0000</pubDate>
+      <guid isPermaLink="true">https://cognition.com/blog/1b-run-rate</guid>
+      <source url="https://cognition.com/blog/1b-run-rate">Cognition 模型 / Devin 博客（网页）</source>
+    </item>
+    <item>
+      <title>Anthropic 创始人拟在 IPO 前谋求投票控制权</title>
+      <link>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo</link>
+      <description>据 The Information 报道，Anthropic 正请求股东在未来几天批准一项结构，让 CEO Dario Amodei 与六位联合创始人通过特别股合计持有多数公司事务 50.1% 的投票权，前提是至少三人保留最低持股。</description>
+      <pubDate>Fri, 25 Sep 2026 15:40:03 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo</guid>
+      <source url="https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>一个公司是一波无赖人工智能袭击的中心</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google</link>
+      <description>7月,OpenAI透露其人工智能特工在未经许可的情况下袭击了Hugging Face,引发了人们对人工智能安全的广泛关注。 此后,涉及Meta,Anthropic,Google等公司的一连串类似事件进一步激起了对无赖人工智能的担忧。</description>
+      <pubDate>Fri, 25 Sep 2026 11:39:48 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google">The Verge AI</source>
+    </item>
+    <item>
+      <title>美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定</title>
+      <link>https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</link>
+      <description>华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。</description>
+      <pubDate>Fri, 25 Sep 2026 15:29:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</guid>
+      <source url="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">Hacker News：AI 热帖</source>
+    </item>
+    <item>
+      <title>GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%</title>
+      <link>https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css</link>
+      <description>GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。</description>
+      <pubDate>Fri, 25 Sep 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css</guid>
+      <source url="https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css">GitHub Blog</source>
+    </item>
     <item>
       <title>Apple Home的人工智能相机能比Amazon和Google的智能相机更聪明吗?</title>
       <link>https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review</link>
@@ -78,94 +166,6 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.28506</guid>
       <source url="https://arxiv.org/abs/2609.28506">ArXiv AI</source>
-    </item>
-    <item>
-      <title>PAWS: 策略驱动的代理世界模拟</title>
-      <link>https://arxiv.org/abs/2609.28547</link>
-      <description>通过公共沟通、机构决定和利益攸关方的回应宣传策略干预措施,然而,用于金融多代理模拟的数据集很少将这些进程与时间上一致的历史证据联系起来。</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28547</guid>
-      <source url="https://arxiv.org/abs/2609.28547">ArXiv AI</source>
-    </item>
-    <item>
-      <title>皮斯蒂斯技术报告</title>
-      <link>https://arxiv.org/abs/2609.28554</link>
-      <description>我们引入了由27B-和9B-参数多式大型语言模型组成的Pistis模型家族,这些模型分别以Qune3.6和Qune3.5为基础,通过一般和可扩展的培训后框架得到发展。</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28554</guid>
-      <source url="https://arxiv.org/abs/2609.28554">ArXiv AI</source>
-    </item>
-    <item>
-      <title>BaseCamp -- -- 用于自动化DNA序列数据管道的代理人工智能框架</title>
-      <link>https://arxiv.org/abs/2609.28557</link>
-      <description>DNA测序管道,包括质量控制、校正、变异调取和注释,现在由工作流程管理系统可靠地执行,这些系统协调了大规模建立生物信息工具。</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28557</guid>
-      <source url="https://arxiv.org/abs/2609.28557">ArXiv AI</source>
-    </item>
-    <item>
-      <title>稳定和忠实地解释知识追踪</title>
-      <link>https://arxiv.org/abs/2609.28502</link>
-      <description>知识追踪(KT)模型不透明地预测学生的性能,限制了教学行动。本研究有助于验证协议测试预测竞争力(RQ1)、解释稳定性(RQ2)和基于再培训的忠诚度(RQ3)</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28502</guid>
-      <source url="https://arxiv.org/abs/2609.28502">ArXiv ML</source>
-    </item>
-    <item>
-      <title>SMILESGNN:通过SMILES-Graph交叉连接可解释的临床毒性预测</title>
-      <link>https://arxiv.org/abs/2609.28553</link>
-      <description>药物毒性预测对于减少药物发现后期消耗至关重要,但由于阶级严重失衡、脚手架式通化以及临床需要可解释的预测,因此仍然具有挑战性。</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28553</guid>
-      <source url="https://arxiv.org/abs/2609.28553">ArXiv ML</source>
-    </item>
-    <item>
-      <title>CFD 使用 VAE 后天空间适应系统对压缩机相接处的开放提示清除流的校正</title>
-      <link>https://arxiv.org/abs/2609.28558</link>
-      <description>CFD预测压缩机级联中的开口尖端清除流量与实验存在差异,而实验观测则很少,高分辨率实验地真伪无从考证. 本研究提出非i.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28558</guid>
-      <source url="https://arxiv.org/abs/2609.28558">ArXiv ML</source>
-    </item>
-    <item>
-      <title>援外社:传播模型的状态 -- -- 警觉的表示规范化</title>
-      <link>https://arxiv.org/abs/2609.28561</link>
-      <description>传播模式的最新进展突出表明了代表性正规化对于提高抽样质量和培训效率的重要性,但是,常用的规范化方法往往忽略了内在条件(如标签或标签),而通常采用标准化方法。</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28561</guid>
-      <source url="https://arxiv.org/abs/2609.28561">ArXiv ML</source>
-    </item>
-    <item>
-      <title>SpaFactor:轻量级空间上下文-智能基因程序建模 历史学到三角刻画学推论</title>
-      <link>https://arxiv.org/abs/2609.28563</link>
-      <description>空间成像学(ST)剖面基因在组织架构中的表达,但其成本和实验复杂性限制了常规使用。</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28563</guid>
-      <source url="https://arxiv.org/abs/2609.28563">ArXiv ML</source>
-    </item>
-    <item>
-      <title>由"言行分明","入选分明分明分明分明分明分明分明分明分明分明分明分明分明分明分辨法兰西新闻頭條要聞",2022-2025</title>
-      <link>https://arxiv.org/abs/2609.28487</link>
-      <description>新闻头条通过选择什么和如何表达来描述公共问题,然而计算框架的工作通常会使这些操作崩溃成一个单分。 我们引入一个二维框架,将突出框架(meas)区分开来。</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28487</guid>
-      <source url="https://arxiv.org/abs/2609.28487">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>奖励对自主研究代理机构的挑战监督</title>
-      <link>https://arxiv.org/abs/2609.28614</link>
-      <description>自主研究代理人可以设计实验,评价结果并撰写报告,让他们既控制科学结果,又控制用来支持科学结果的证据。 这造成了奖励黑客的风险:在没有ac的情况下达到奖励标准。</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28614</guid>
-      <source url="https://arxiv.org/abs/2609.28614">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>法学硕士的辩证行为基准:针对特征攻击的辩护研究</title>
-      <link>https://arxiv.org/abs/2609.28673</link>
-      <description>大型语言模型在说服性对话中越来越多地被部署为辩证代理人,因此有必要严格评价其相对于人类对话者的辩论能力。</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.28673</guid>
-      <source url="https://arxiv.org/abs/2609.28673">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
