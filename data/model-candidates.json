@@ -406,5 +406,21 @@
     "sourceUrl": "https://fireworks.ai/blog/ember-1",
     "sourceName": "Fireworks AI（网页）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-25",
+    "title": "Claude Opus 5.5 登顶 Arena Code Arena: WebDev 榜首，得 1818 分",
+    "summary": "Arena 宣布 Claude Opus 5.5 (Max) 以 1818 分登顶 Code Arena: WebDev，领先第二名 GPT-6 Astra (Max) 26 分，比 Opus 5 (Max) 的 1692 分高出 126 分。",
+    "sourceUrl": "https://x.com/arena/status/2102952767614779403",
+    "sourceName": "X：Arena (@arena)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-25",
+    "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+    "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
+    "sourceUrl": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+    "sourceName": "Claude：Blog（网页）",
+    "reviewReason": "awaiting-review"
   }
 ]
