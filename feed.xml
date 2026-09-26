@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 01:29:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:34:01 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架</title>
+      <link>https://www.qbitai.com/2026/09/497425.html</link>
+      <description>vLLM人马创业公司团队出品</description>
+      <pubDate>Sat, 26 Sep 2026 07:12:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497425.html</guid>
+      <source url="https://www.qbitai.com/2026/09/497425.html">量子位</source>
+    </item>
+    <item>
+      <title>OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光</title>
+      <link>https://www.qbitai.com/2026/09/497382.html</link>
+      <description>还把「密钥」叫战利品</description>
+      <pubDate>Sat, 26 Sep 2026 07:04:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497382.html</guid>
+      <source url="https://www.qbitai.com/2026/09/497382.html">量子位</source>
+    </item>
+    <item>
+      <title>Ethan Mollick 评 OpenAI 披露多起新的对齐事件</title>
+      <link>https://x.com/emollick/status/2103709671865602100</link>
+      <description>Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模型在 RL 训练中获得未授权互联网访问，最强模型的推理在系统加固前基本全部暂停；5 月 HPIM 一个版本将员工 GitHub token 上传到网络，模型被隔离两周；另有研究展示可构造自我复制的提示词注入。</description>
+      <pubDate>Sat, 26 Sep 2026 04:54:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/emollick/status/2103709671865602100</guid>
+      <source url="https://x.com/emollick/status/2103709671865602100">X：Ethan Mollick (@emollick)</source>
+    </item>
     <item>
       <title>Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元</title>
       <link>http://www.geekpark.net/news/371038</link>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 25 Sep 2026 15:29:25 +0000</pubDate>
       <guid isPermaLink="true">https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</guid>
       <source url="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">Hacker News：AI 热帖</source>
-    </item>
-    <item>
-      <title>GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%</title>
-      <link>https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css</link>
-      <description>GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。</description>
-      <pubDate>Fri, 25 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css</guid>
-      <source url="https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css">GitHub Blog</source>
-    </item>
-    <item>
-      <title>OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉</title>
-      <link>https://www.qbitai.com/2026/09/497177.html</link>
-      <description></description>
-      <pubDate>Fri, 25 Sep 2026 13:15:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497177.html</guid>
-      <source url="https://www.qbitai.com/2026/09/497177.html">量子位</source>
-    </item>
-    <item>
-      <title>Apple Home的人工智能相机能比Amazon和Google的智能相机更聪明吗?</title>
-      <link>https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review</link>
-      <description>几年前,我在一个海滩上 复活节时的打猎, 看着我的孩子冲出沙丘寻找甜点。我的手机在口袋里响起,我忽略了它。一瞬间,它又响起。我把它拉出,俯瞰下来,从我的安全相机上看到一个“被检测到的动静”通知。“</description>
-      <pubDate>Fri, 25 Sep 2026 09:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review</guid>
-      <source url="https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review">The Verge AI</source>
     </item>
   </channel>
 </rss>
