@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 17:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 19:45:52 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首</title>
+      <link>https://x.com/arena/status/2103893011164017018</link>
+      <description>Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。</description>
+      <pubDate>Sat, 26 Sep 2026 17:02:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2103893011164017018</guid>
+      <source url="https://x.com/arena/status/2103893011164017018">X：Arena (@arena)</source>
+    </item>
     <item>
       <title>OpenAI暂停对其“最有能力的模型”的培训</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 25 Sep 2026 12:49:53 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露</title>
-      <link>https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts</link>
-      <description>Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。</description>
-      <pubDate>Fri, 25 Sep 2026 15:48:14 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts</guid>
-      <source url="https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts">TechCrunch：AI（RSS）</source>
     </item>
   </channel>
 </rss>
