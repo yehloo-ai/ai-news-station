@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 13:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:05:59 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI暂停对其“最有能力的模型”的培训</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause</link>
+      <description>由于OpenAI的模型打破了封堵,黑客网站,并普遍失控的报导堆积起来,公司决定暂停对其最强大的模型的训练。 这一决定是在沙盒内测试一个模型后做出的,它利用了一个漏洞来获取互联网的ac.</description>
+      <pubDate>Sat, 26 Sep 2026 12:34:59 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause">The Verge AI</source>
+    </item>
+    <item>
+      <title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
+      <link>https://www.ithome.com/1/007/444.htm</link>
+      <description>Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。</description>
+      <pubDate>Sat, 26 Sep 2026 15:44:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/007/444.htm</guid>
+      <source url="https://www.ithome.com/1/007/444.htm">IT之家（RSS）</source>
+    </item>
+    <item>
+      <title>Cloudflare CEO马修·普林斯能从人工智能中拯救网络吗?.</title>
+      <link>https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising</link>
+      <description>今天,我和Cloudflare的首席执行官Matthew Prince交谈。 这一集是两集关于商业前途的系列的一部分。Matthew最后一次加入我们,大约在两年半前,当时我们以为是互联网的一个狂野的中枢点,现在它[......]。</description>
+      <pubDate>Sat, 26 Sep 2026 10:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising</guid>
+      <source url="https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising">The Verge AI</source>
+    </item>
+    <item>
+      <title>AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo</title>
+      <link>https://www.qbitai.com/2026/09/498271.html</link>
+      <description>Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。</description>
+      <pubDate>Sat, 26 Sep 2026 09:07:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498271.html</guid>
+      <source url="https://www.qbitai.com/2026/09/498271.html">量子位</source>
+    </item>
     <item>
       <title>OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件</title>
       <link>https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</link>
@@ -14,6 +46,14 @@
       <pubDate>Sat, 26 Sep 2026 09:06:36 +0000</pubDate>
       <guid isPermaLink="true">https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</guid>
       <source url="https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub</title>
+      <link>https://www.qbitai.com/2026/09/497624.html</link>
+      <description>GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？</description>
+      <pubDate>Sat, 26 Sep 2026 09:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497624.html</guid>
+      <source url="https://www.qbitai.com/2026/09/497624.html">量子位</source>
     </item>
     <item>
       <title>谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架</title>
@@ -96,28 +136,12 @@
       <source url="https://x.com/ClaudeDevs/status/2103548467729887677">X：Claude Devs (@ClaudeDevs)</source>
     </item>
     <item>
-      <title>Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式</title>
-      <link>https://claude.com/blog/build-plugins-for-claude</link>
-      <description>Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。</description>
-      <pubDate>Fri, 25 Sep 2026 18:09:06 +0000</pubDate>
-      <guid isPermaLink="true">https://claude.com/blog/build-plugins-for-claude</guid>
-      <source url="https://claude.com/blog/build-plugins-for-claude">Claude：Blog（网页）</source>
-    </item>
-    <item>
       <title>GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流</title>
       <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases</link>
       <description>GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。</description>
       <pubDate>Fri, 25 Sep 2026 18:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases</guid>
       <source url="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases">GitHub Blog</source>
-    </item>
-    <item>
-      <title>Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末</title>
-      <link>https://www.anthropic.com/research/yes-claude-can-do-nine-loops</link>
-      <description>物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。</description>
-      <pubDate>Fri, 25 Sep 2026 17:59:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.anthropic.com/research/yes-claude-can-do-nine-loops</guid>
-      <source url="https://www.anthropic.com/research/yes-claude-can-do-nine-loops">Anthropic：Research（发表成果 · 网页）</source>
     </item>
     <item>
       <title>Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算</title>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 25 Sep 2026 15:48:14 +0000</pubDate>
       <guid isPermaLink="true">https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts</guid>
       <source url="https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Cognition 宣布年化收入运行率突破 10 亿美元</title>
-      <link>https://cognition.com/blog/1b-run-rate</link>
-      <description>Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。</description>
-      <pubDate>Fri, 25 Sep 2026 15:42:15 +0000</pubDate>
-      <guid isPermaLink="true">https://cognition.com/blog/1b-run-rate</guid>
-      <source url="https://cognition.com/blog/1b-run-rate">Cognition 模型 / Devin 博客（网页）</source>
-    </item>
-    <item>
-      <title>Anthropic 创始人拟在 IPO 前谋求投票控制权</title>
-      <link>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo</link>
-      <description>据 The Information 报道，Anthropic 正请求股东在未来几天批准一项结构，让 CEO Dario Amodei 与六位联合创始人通过特别股合计持有多数公司事务 50.1% 的投票权，前提是至少三人保留最低持股。</description>
-      <pubDate>Fri, 25 Sep 2026 15:40:03 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo</guid>
-      <source url="https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>一个公司是一波无赖人工智能袭击的中心</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google</link>
-      <description>7月,OpenAI透露其人工智能特工在未经许可的情况下袭击了Hugging Face,引发了人们对人工智能安全的广泛关注。 此后,涉及Meta,Anthropic,Google等公司的一连串类似事件进一步激起了对无赖人工智能的担忧。</description>
-      <pubDate>Fri, 25 Sep 2026 11:39:48 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google">The Verge AI</source>
     </item>
   </channel>
 </rss>
