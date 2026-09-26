@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 19:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 22:41:55 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首</title>
@@ -30,6 +30,14 @@
       <pubDate>Sat, 26 Sep 2026 15:44:10 +0000</pubDate>
       <guid isPermaLink="true">https://www.ithome.com/1/007/444.htm</guid>
       <source url="https://www.ithome.com/1/007/444.htm">IT之家（RSS）</source>
+    </item>
+    <item>
+      <title>OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄</title>
+      <link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
+      <description>OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。</description>
+      <pubDate>Sat, 26 Sep 2026 14:03:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cw62jje658dlo</guid>
+      <source url="https://www.bbc.com/news/articles/cw62jje658dlo">Hacker News：AI 热帖</source>
     </item>
     <item>
       <title>Cloudflare CEO马修·普林斯能从人工智能中拯救网络吗?.</title>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 25 Sep 2026 17:46:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AnthropicAI/status/2103541577083719888</guid>
       <source url="https://x.com/AnthropicAI/status/2103541577083719888">X：Anthropic (@AnthropicAI)</source>
-    </item>
-    <item>
-      <title>Meta 使 Muse 文件系统更容易访问</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem</link>
-      <description>昨天,稍稍推敲后,发现Meta的Muse会将其文件系统暴露给好奇的用户. 这些文件在人工智能聊天员的引擎盖下提供了迷人的窥视,似乎暴露了我们本不该看到的细节,尤其是因为Muse自己告诉了人们,包括我们,i</description>
-      <pubDate>Fri, 25 Sep 2026 12:49:53 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem">The Verge AI</source>
     </item>
   </channel>
 </rss>
