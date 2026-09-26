@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 22:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:29:21 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元</title>
+      <link>http://www.geekpark.net/news/371038</link>
+      <description>Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力 9 月 26 日消息，云计算、网络安全、内容交付企业 Akamai 当地时间 24 日宣布大幅扩展与 Anthropic 的合作关系，两家公司签署了一份为期 7 年、价值 116 亿美元（现汇率约合 779.2 亿元人民币）的合同。 根据协议，Akamai 将以其分布式人工智能基础设施和软件满足 Anthropic 日益增长的 CPU 工作负载需求。这 116 亿美元承诺对应 Akamai 的 55 亿美元额外总资本支出。双方还可将合同扩大最多 90 亿美元。 作为两家企业加强战略合作的一部分，Akam</description>
+      <pubDate>Sat, 26 Sep 2026 08:45:21 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371038</guid>
+      <source url="http://www.geekpark.net/news/371038">极客公园</source>
+    </item>
+    <item>
+      <title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
+      <link>https://swarmtraces.org/</link>
+      <description>一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。</description>
+      <pubDate>Fri, 25 Sep 2026 23:59:47 +0000</pubDate>
+      <guid isPermaLink="true">https://swarmtraces.org/</guid>
+      <source url="https://swarmtraces.org/">Hacker News 热门（buzzing.cc 中文翻译）</source>
+    </item>
     <item>
       <title>Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链</title>
       <link>https://x.com/Yuchenj_UW/status/2103589198427193593</link>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 25 Sep 2026 09:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review</guid>
       <source url="https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review">The Verge AI</source>
-    </item>
-    <item>
-      <title>Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS</title>
-      <link>https://x.com/satyanadella/status/2103455884366188544</link>
-      <description>Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。</description>
-      <pubDate>Fri, 25 Sep 2026 12:05:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/satyanadella/status/2103455884366188544</guid>
-      <source url="https://x.com/satyanadella/status/2103455884366188544">X：Satya Nadella (@satyanadella)</source>
-    </item>
-    <item>
-      <title>微软认为其新的副驾驶"超级应用"将像Office一样有影响力.</title>
-      <link>https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot</link>
-      <description>微软在上个月取笑了它的新副驾驶"超级应用"后,今天正式揭幕. 重新设计的副驾驶应用将三个人工智能能力捆绑在一个聊天,编码和代理的单一界面上. 微软作为发布的一部分,也正在重塑Scout的品牌,人工智能个人助理解开它.</description>
-      <pubDate>Fri, 25 Sep 2026 08:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot</guid>
-      <source url="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot">The Verge AI</source>
     </item>
   </channel>
 </rss>
