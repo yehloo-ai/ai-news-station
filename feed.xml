@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:00:36 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件</title>
+      <link>https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</link>
+      <description>OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。</description>
+      <pubDate>Sat, 26 Sep 2026 09:06:36 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</guid>
+      <source url="https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data">The Decoder：AI News（RSS）</source>
+    </item>
     <item>
       <title>谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架</title>
       <link>https://www.qbitai.com/2026/09/497425.html</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 25 Sep 2026 11:39:48 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google">The Verge AI</source>
-    </item>
-    <item>
-      <title>美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定</title>
-      <link>https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</link>
-      <description>华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。</description>
-      <pubDate>Fri, 25 Sep 2026 15:29:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</guid>
-      <source url="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">Hacker News：AI 热帖</source>
     </item>
   </channel>
 </rss>
