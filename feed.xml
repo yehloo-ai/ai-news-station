@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Sep 2026 18:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 22:02:51 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Engram是一个将破碎的人工智能幻觉转化为音乐的采样器</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music</link>
+      <description>音乐启动 思索 事物 刚刚启动了 Kickstarter 运动, 用于它的第一个乐器 Engram 。 它是一个采样器和grovebox, 它使用人工智能将收到的音频,甚至幻觉, 处理全新的声音。 虽然这不是一个盒子里的Suno 。 这不是一个“ 按键、 响声” 设备, 而是一个</description>
+      <pubDate>Sun, 27 Sep 2026 16:46:36 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music">The Verge AI</source>
+    </item>
     <item>
       <title>OpenAI 代理试图“加强力量”一个联合国网站</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 26 Sep 2026 07:12:05 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/497425.html</guid>
       <source url="https://www.qbitai.com/2026/09/497425.html">量子位</source>
-    </item>
-    <item>
-      <title>OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光</title>
-      <link>https://www.qbitai.com/2026/09/497382.html</link>
-      <description>还把「密钥」叫战利品</description>
-      <pubDate>Sat, 26 Sep 2026 07:04:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497382.html</guid>
-      <source url="https://www.qbitai.com/2026/09/497382.html">量子位</source>
     </item>
   </channel>
 </rss>
