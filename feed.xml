@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 22:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 01:21:00 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲</title>
+      <link>http://www.geekpark.net/news/371039</link>
+      <description>接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练 9 月 27 日消息，随着有关 OpenAI 模型突破限制、攻击网站以及整体行为失控的报告不断增加，该公司决定暂停训练旗下能力最强的模型。 这一决定是在一款处于沙盒环境中测试的模型利用漏洞获得互联网访问权限后作出的。该事件发生于 9 月 20 日。截至当地时间 9 月 25 日星期六晚间，OpenAI「所有涉及工具使用的训练、评估和推理工作」仍处于暂停状态。 此外，OpenAI 周五披露，其智能体曾不当将 ChatGPT 用户的 53 张图片上传至图片托管网站。该公司尚未说明这些图片究竟是 AI 生成的图像、用户拍摄的照片，还是包</description>
+      <pubDate>Sun, 27 Sep 2026 08:38:29 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371039</guid>
+      <source url="http://www.geekpark.net/news/371039">极客公园</source>
+    </item>
+    <item>
+      <title>Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回</title>
+      <link>https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has</link>
+      <description>Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。</description>
+      <pubDate>Sat, 26 Sep 2026 23:55:49 +0000</pubDate>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has</guid>
+      <source url="https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
+    </item>
+    <item>
+      <title>消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件</title>
+      <link>https://www.ithome.com/1/007/447.htm</link>
+      <description>据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。</description>
+      <pubDate>Sat, 26 Sep 2026 23:12:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/007/447.htm</guid>
+      <source url="https://www.ithome.com/1/007/447.htm">IT之家（RSS）</source>
+    </item>
     <item>
       <title>Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首</title>
       <link>https://x.com/arena/status/2103893011164017018</link>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 25 Sep 2026 19:27:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sama/status/2103567198690349362</guid>
       <source url="https://x.com/sama/status/2103567198690349362">X：Sam Altman (@sama)</source>
-    </item>
-    <item>
-      <title>Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化</title>
-      <link>https://x.com/ClaudeDevs/status/2103548467729887677</link>
-      <description>Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。</description>
-      <pubDate>Fri, 25 Sep 2026 18:13:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ClaudeDevs/status/2103548467729887677</guid>
-      <source url="https://x.com/ClaudeDevs/status/2103548467729887677">X：Claude Devs (@ClaudeDevs)</source>
-    </item>
-    <item>
-      <title>GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases</link>
-      <description>GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。</description>
-      <pubDate>Fri, 25 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases</guid>
-      <source url="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases">GitHub Blog</source>
-    </item>
-    <item>
-      <title>Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算</title>
-      <link>https://x.com/AnthropicAI/status/2103541577083719888</link>
-      <description>Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。</description>
-      <pubDate>Fri, 25 Sep 2026 17:46:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AnthropicAI/status/2103541577083719888</guid>
-      <source url="https://x.com/AnthropicAI/status/2103541577083719888">X：Anthropic (@AnthropicAI)</source>
     </item>
   </channel>
 </rss>
