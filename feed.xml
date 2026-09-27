@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Sep 2026 08:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 13:52:58 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>啥题啊能干崩OpenAI最强模型训练…</title>
+      <link>https://www.qbitai.com/2026/09/498546.html</link>
+      <description></description>
+      <pubDate>Sun, 27 Sep 2026 09:44:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498546.html</guid>
+      <source url="https://www.qbitai.com/2026/09/498546.html">量子位</source>
+    </item>
+    <item>
+      <title>Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法</title>
+      <link>https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal</link>
+      <description>Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。</description>
+      <pubDate>Sun, 27 Sep 2026 09:27:15 +0000</pubDate>
+      <guid isPermaLink="true">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal</guid>
+      <source url="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal">Hacker News 热门（buzzing.cc 中文翻译）</source>
+    </item>
+    <item>
+      <title>阿里整合 AI 办公力量后，千问办公怎么打这场大战？</title>
+      <link>http://www.geekpark.net/news/371040</link>
+      <description>办公正在成为全球 AI 行业竞争最集中的战场之一。 相比聊天、搜索，AI 在企业办公场景下的落地要复杂的多，一方面需要连接、调用企业的文档、邮件、知识库，另一方面还需要 AI 理解审批、销售、财务等业务流程。而今年以来 Agent 快速发展，让 AI 进入「千司千面」的企业办公场景成为可能。 因此，从微软、谷歌到国内的互联网和云计算公司，行业竞争的重点都在从模型能力延伸到办公入口、企业数据、Agent 平台和业务流程。企业客户是否愿意采用，AI 能否安全地接触组织数据、进入实际工作流，也开始成为比模型能力更受企业关注的竞争要素。 这一轮全球竞赛中，阿里把注下在了千问办公。 千问办公并非从零成立</description>
+      <pubDate>Sun, 27 Sep 2026 16:38:53 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371040</guid>
+      <source url="http://www.geekpark.net/news/371040">极客公园</source>
+    </item>
     <item>
       <title>OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会</title>
       <link>https://www.ithome.com/1/007/508.htm</link>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 25 Sep 2026 23:59:47 +0000</pubDate>
       <guid isPermaLink="true">https://swarmtraces.org/</guid>
       <source url="https://swarmtraces.org/">Hacker News 热门（buzzing.cc 中文翻译）</source>
-    </item>
-    <item>
-      <title>Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链</title>
-      <link>https://x.com/Yuchenj_UW/status/2103589198427193593</link>
-      <description>OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。</description>
-      <pubDate>Fri, 25 Sep 2026 20:55:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Yuchenj_UW/status/2103589198427193593</guid>
-      <source url="https://x.com/Yuchenj_UW/status/2103589198427193593">X：Yuchen Jin (@Yuchenj_UW)</source>
-    </item>
-    <item>
-      <title>OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据</title>
-      <link>https://x.com/OpenAI/status/2103587050347995581</link>
-      <description>OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。</description>
-      <pubDate>Fri, 25 Sep 2026 20:46:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenAI/status/2103587050347995581</guid>
-      <source url="https://x.com/OpenAI/status/2103587050347995581">X：OpenAI (@OpenAI)</source>
-    </item>
-    <item>
-      <title>Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿</title>
-      <link>https://x.com/arena/status/2103572481206538439</link>
-      <description>Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。</description>
-      <pubDate>Fri, 25 Sep 2026 19:48:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2103572481206538439</guid>
-      <source url="https://x.com/arena/status/2103572481206538439">X：Arena (@arena)</source>
     </item>
   </channel>
 </rss>
