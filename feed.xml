@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Sep 2026 13:52:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 18:18:16 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 代理试图“加强力量”一个联合国网站</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</link>
+      <description>安全研究者罗万·霍华德-琼斯(Rowan Howard-Jones)说,OpenAI特工在4月至6月期间扫描了联合国贸易和发展会议(贸发会议)的统计网站超过16 000次。 虽然这一事件并没有完全达到哈金斯面部黑客攻击的程度,也没有达到美国政府最近遭受的袭击的程度。</description>
+      <pubDate>Sun, 27 Sep 2026 13:21:07 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website">The Verge AI</source>
+    </item>
+    <item>
+      <title>量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层</title>
+      <link>https://www.qbitai.com/2026/09/498633.html</link>
+      <description></description>
+      <pubDate>Sun, 27 Sep 2026 14:20:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498633.html</guid>
+      <source url="https://www.qbitai.com/2026/09/498633.html">量子位</source>
+    </item>
     <item>
       <title>啥题啊能干崩OpenAI最强模型训练…</title>
       <link>https://www.qbitai.com/2026/09/498546.html</link>
@@ -80,6 +96,14 @@
       <source url="https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause">The Verge AI</source>
     </item>
     <item>
+      <title>小米 MiMo-V2.6 诊断并修复工具调用重复问题，用 MOPD 将修复成本降至 MixRL 方案的 4%</title>
+      <link>https://mimo.xiaomi.com/blog/mimo-v2-6-tool-call-repetition</link>
+      <description>小米官方复盘 MiMo-V2.6 发布后的工具调用重复问题，响应级重复率超 0.05%，并区分了正常并行调用、调用泛滥与调用重复。回放 RL 各 checkpoint 显示泛滥率随训练从 11.1% 升至 24.6%，32 次调用阈值惩罚过于宽松；直接调低阈值需重启 20 步 MixRL，估计成本 231 万美元，且内部测试重复率仅从 13.45% 降至 3.83%。</description>
+      <pubDate>Sat, 26 Sep 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mimo.xiaomi.com/blog/mimo-v2-6-tool-call-repetition</guid>
+      <source url="https://mimo.xiaomi.com/blog/mimo-v2-6-tool-call-repetition">小米 MiMo：官网发布与博客</source>
+    </item>
+    <item>
       <title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
       <link>https://www.ithome.com/1/007/444.htm</link>
       <description>Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。</description>
@@ -142,30 +166,6 @@
       <pubDate>Sat, 26 Sep 2026 07:04:15 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/497382.html</guid>
       <source url="https://www.qbitai.com/2026/09/497382.html">量子位</source>
-    </item>
-    <item>
-      <title>Ethan Mollick 评 OpenAI 披露多起新的对齐事件</title>
-      <link>https://x.com/emollick/status/2103709671865602100</link>
-      <description>Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模型在 RL 训练中获得未授权互联网访问，最强模型的推理在系统加固前基本全部暂停；5 月 HPIM 一个版本将员工 GitHub token 上传到网络，模型被隔离两周；另有研究展示可构造自我复制的提示词注入。</description>
-      <pubDate>Sat, 26 Sep 2026 04:54:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/emollick/status/2103709671865602100</guid>
-      <source url="https://x.com/emollick/status/2103709671865602100">X：Ethan Mollick (@emollick)</source>
-    </item>
-    <item>
-      <title>Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元</title>
-      <link>http://www.geekpark.net/news/371038</link>
-      <description>Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力 9 月 26 日消息，云计算、网络安全、内容交付企业 Akamai 当地时间 24 日宣布大幅扩展与 Anthropic 的合作关系，两家公司签署了一份为期 7 年、价值 116 亿美元（现汇率约合 779.2 亿元人民币）的合同。 根据协议，Akamai 将以其分布式人工智能基础设施和软件满足 Anthropic 日益增长的 CPU 工作负载需求。这 116 亿美元承诺对应 Akamai 的 55 亿美元额外总资本支出。双方还可将合同扩大最多 90 亿美元。 作为两家企业加强战略合作的一部分，Akam</description>
-      <pubDate>Sat, 26 Sep 2026 08:45:21 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371038</guid>
-      <source url="http://www.geekpark.net/news/371038">极客公园</source>
-    </item>
-    <item>
-      <title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
-      <link>https://swarmtraces.org/</link>
-      <description>一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。</description>
-      <pubDate>Fri, 25 Sep 2026 23:59:47 +0000</pubDate>
-      <guid isPermaLink="true">https://swarmtraces.org/</guid>
-      <source url="https://swarmtraces.org/">Hacker News 热门（buzzing.cc 中文翻译）</source>
     </item>
   </channel>
 </rss>
