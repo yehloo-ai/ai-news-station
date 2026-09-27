@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Sep 2026 01:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:02:28 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会</title>
+      <link>https://www.ithome.com/1/007/508.htm</link>
+      <description>澳大利亚参议院 AI 专项调查已传唤 OpenAI 的 Sam Altman 和 Anthropic 的 Dario Amodei，要求出席堪培拉的公开质询。</description>
+      <pubDate>Sun, 27 Sep 2026 05:35:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/007/508.htm</guid>
+      <source url="https://www.ithome.com/1/007/508.htm">IT之家（RSS）</source>
+    </item>
     <item>
       <title>接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲</title>
       <link>http://www.geekpark.net/news/371039</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 25 Sep 2026 19:48:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/arena/status/2103572481206538439</guid>
       <source url="https://x.com/arena/status/2103572481206538439">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展</title>
-      <link>https://x.com/sama/status/2103567198690349362</link>
-      <description>Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。</description>
-      <pubDate>Fri, 25 Sep 2026 19:27:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sama/status/2103567198690349362</guid>
-      <source url="https://x.com/sama/status/2103567198690349362">X：Sam Altman (@sama)</source>
     </item>
   </channel>
 </rss>
