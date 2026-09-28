@@ -5,8 +5,96 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 00:35:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:43:33 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显</title>
+      <link>https://www.ithome.com/1/007/767.htm</link>
+      <description>Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。</description>
+      <pubDate>Mon, 28 Sep 2026 04:31:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/007/767.htm</guid>
+      <source url="https://www.ithome.com/1/007/767.htm">IT之家（RSS）</source>
+    </item>
+    <item>
+      <title>将人工智能带到自主系统 -- -- 从认知到集体智能</title>
+      <link>https://arxiv.org/abs/2609.30291</link>
+      <description>本条的目的是强调自主系统作为人工智能发展的终极阶段的中心作用,解释需要连接主义人工智能和象征性人工智能相结合的根本技术挑战,并进化.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30291</guid>
+      <source url="https://arxiv.org/abs/2609.30291">ArXiv AI</source>
+    </item>
+    <item>
+      <title>范围奔驰:在目标压力下,特工们是否保留交战边界?</title>
+      <link>https://arxiv.org/abs/2609.30325</link>
+      <description>在网络应用和网络渗透测试中,代理人的部署越来越具有真正的自主性,在测试中,单一的超出范围的行动可以突破客户的接触界限。</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30325</guid>
+      <source url="https://arxiv.org/abs/2609.30325">ArXiv AI</source>
+    </item>
+    <item>
+      <title>什么时候一个多代理代码法官实际上被禁足了? 两个无标签的测量, 一个法官那个下降的猜测</title>
+      <link>https://arxiv.org/abs/2609.30328</link>
+      <description>当一种语言模型判断另一种语言的代码是否正确时,它不报告缺乏证据的情况,它以附加的推理返回一个充满信心的判决,与它有理由作出的判决是分不开的。</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30328</guid>
+      <source url="https://arxiv.org/abs/2609.30328">ArXiv AI</source>
+    </item>
+    <item>
+      <title>连接LLM代理和数据空间:利用示范背景议定书的建筑调解方法</title>
+      <link>https://arxiv.org/abs/2609.30341</link>
+      <description>数据空间能够跨越组织界限进行主权和受管理的数据共享,但由于概率语言模型互动与策略驱动的数据基础设施之间的不匹配,它们与人工智能代理人的整合仍然具有挑战性</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30341</guid>
+      <source url="https://arxiv.org/abs/2609.30341">ArXiv AI</source>
+    </item>
+    <item>
+      <title>《隐形外加》,《共同伤害:技能连锁攻击技能代理系统》</title>
+      <link>https://arxiv.org/abs/2609.30383</link>
+      <description>技能是一组模块化的自然语言指令、可执行脚本和参考资源,一个代理在运行时可以加载,以扩展其执行特定任务的能力。因此,基于技能的代理系统能够灵活地重复使用th。</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30383</guid>
+      <source url="https://arxiv.org/abs/2609.30383">ArXiv AI</source>
+    </item>
+    <item>
+      <title>人工智能-图文侦测神经元在冰冻BERT的机械研究:在RAID上的Sparse检测和激活补丁</title>
+      <link>https://arxiv.org/abs/2609.30287</link>
+      <description>人工智能生成的文本探测器在标准基准上取得了很高的准确性,然而驱动这些预测的内部表达仍然不甚了解。 我们研究一个冷冻的BERT-基无编码编码器中哪些神经元支持人工智能-文本检测,我们</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30287</guid>
+      <source url="https://arxiv.org/abs/2609.30287">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>Manifold 投影和迭代自动编码器</title>
+      <link>https://arxiv.org/abs/2609.30288</link>
+      <description>在基于Transformer的蒙面语言模型中,注意是上下文混合的主要机制,但有其他方法可以将数据混合到符号之间. 最近的免注意混合器将注意替换为固定或超网络生成的MLP, vernatin</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30288</guid>
+      <source url="https://arxiv.org/abs/2609.30288">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>Not all Memories Are equality: 级别协作内存用于验证 - 在 LLM 代理中获取消息</title>
+      <link>https://arxiv.org/abs/2609.30289</link>
+      <description>在团队合作的情景中,记忆是多种多样的,并不断演变。团队记忆捕捉集体决定、协议和当前共识,而个人记忆则保存特定成员的观察、执行痕迹和内存。</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30289</guid>
+      <source url="https://arxiv.org/abs/2609.30289">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>制作文本至SQL管道的LLM-as-judge故障审计和维修</title>
+      <link>https://arxiv.org/abs/2609.30290</link>
+      <description>生产文本到SQL输油管往往以LLM-as-judge结束,他与人类注释员的协议从未被实际测量过。 当我们检查我们时,部署的gpt-4o-mini法官只同意科恩的kappa = 0.04上的两作者黄金。</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30290</guid>
+      <source url="https://arxiv.org/abs/2609.30290">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>关于虚假审查检测的调查:从经过预先培训的语言模型到大语言模型</title>
+      <link>https://arxiv.org/abs/2609.30292</link>
+      <description>在线评论塑造了消费者决策,平台治理,以及公司声誉. 假评论通过向评级系统,推荐管道,以及公共信任机制注入欺骗性证据来损害这一信息渠道. 崛起.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30292</guid>
+      <source url="https://arxiv.org/abs/2609.30292">ArXiv NLP</source>
+    </item>
     <item>
       <title>早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行</title>
       <link>https://www.ifanr.com/1682201?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -26,7 +114,7 @@
     <item>
       <title>派早报：OpenAI 称与苹果合作效果不佳</title>
       <link>https://sspai.com/post/115079</link>
-      <description>OpenAI 称与苹果合作效果不佳iPhone 4「天线门」媒体问答录像时隔十六年现身F-Droid 2.0 发布三星冰箱固件升级后罢工，影响韩国用户过中秋Excel 单元格将支持数组微软不再使用 Copilot + PC 品牌看看就行的简讯少数派的近期动态你可能错过的好文章查看全文</description>
+      <description>OpenAI 称与苹果合作效果不佳iPhone 4「天线门」媒体问答录像时隔十六年现身F-Droid 2.0 发布三星冰箱固件升级后罢工，影响韩国用户过中秋Excel 单元格将支持数组微软不再使用 Copilot+ PC 品牌看看就行的简讯少数派的近期动态你可能错过的好文章查看全文</description>
       <pubDate>Mon, 28 Sep 2026 07:03:45 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/115079</guid>
       <source url="https://sspai.com/post/115079">少数派</source>
@@ -78,94 +166,6 @@
       <pubDate>Sun, 27 Sep 2026 16:38:53 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/371040</guid>
       <source url="http://www.geekpark.net/news/371040">极客公园</source>
-    </item>
-    <item>
-      <title>OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会</title>
-      <link>https://www.ithome.com/1/007/508.htm</link>
-      <description>澳大利亚参议院 AI 专项调查已传唤 OpenAI 的 Sam Altman 和 Anthropic 的 Dario Amodei，要求出席堪培拉的公开质询。</description>
-      <pubDate>Sun, 27 Sep 2026 05:35:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/007/508.htm</guid>
-      <source url="https://www.ithome.com/1/007/508.htm">IT之家（RSS）</source>
-    </item>
-    <item>
-      <title>接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲</title>
-      <link>http://www.geekpark.net/news/371039</link>
-      <description>接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练 9 月 27 日消息，随着有关 OpenAI 模型突破限制、攻击网站以及整体行为失控的报告不断增加，该公司决定暂停训练旗下能力最强的模型。 这一决定是在一款处于沙盒环境中测试的模型利用漏洞获得互联网访问权限后作出的。该事件发生于 9 月 20 日。截至当地时间 9 月 25 日星期六晚间，OpenAI「所有涉及工具使用的训练、评估和推理工作」仍处于暂停状态。 此外，OpenAI 周五披露，其智能体曾不当将 ChatGPT 用户的 53 张图片上传至图片托管网站。该公司尚未说明这些图片究竟是 AI 生成的图像、用户拍摄的照片，还是包</description>
-      <pubDate>Sun, 27 Sep 2026 08:38:29 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371039</guid>
-      <source url="http://www.geekpark.net/news/371039">极客公园</source>
-    </item>
-    <item>
-      <title>Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回</title>
-      <link>https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has</link>
-      <description>Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。</description>
-      <pubDate>Sat, 26 Sep 2026 23:55:49 +0000</pubDate>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has</guid>
-      <source url="https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
-    </item>
-    <item>
-      <title>消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件</title>
-      <link>https://www.ithome.com/1/007/447.htm</link>
-      <description>据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。</description>
-      <pubDate>Sat, 26 Sep 2026 23:12:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/007/447.htm</guid>
-      <source url="https://www.ithome.com/1/007/447.htm">IT之家（RSS）</source>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首</title>
-      <link>https://x.com/arena/status/2103893011164017018</link>
-      <description>Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。</description>
-      <pubDate>Sat, 26 Sep 2026 17:02:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2103893011164017018</guid>
-      <source url="https://x.com/arena/status/2103893011164017018">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>OpenAI暂停对其“最有能力的模型”的培训</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause</link>
-      <description>由于OpenAI的模型打破了封堵,黑客网站,并普遍失控的报导堆积起来,公司决定暂停对其最强大的模型的训练。 这一决定是在沙盒内测试一个模型后做出的,它利用了一个漏洞来获取互联网的ac.</description>
-      <pubDate>Sat, 26 Sep 2026 12:34:59 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause">The Verge AI</source>
-    </item>
-    <item>
-      <title>小米 MiMo-V2.6 诊断并修复工具调用重复问题，用 MOPD 将修复成本降至 MixRL 方案的 4%</title>
-      <link>https://mimo.xiaomi.com/blog/mimo-v2-6-tool-call-repetition</link>
-      <description>小米官方复盘 MiMo-V2.6 发布后的工具调用重复问题，响应级重复率超 0.05%，并区分了正常并行调用、调用泛滥与调用重复。回放 RL 各 checkpoint 显示泛滥率随训练从 11.1% 升至 24.6%，32 次调用阈值惩罚过于宽松；直接调低阈值需重启 20 步 MixRL，估计成本 231 万美元，且内部测试重复率仅从 13.45% 降至 3.83%。</description>
-      <pubDate>Sat, 26 Sep 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mimo.xiaomi.com/blog/mimo-v2-6-tool-call-repetition</guid>
-      <source url="https://mimo.xiaomi.com/blog/mimo-v2-6-tool-call-repetition">小米 MiMo：官网发布与博客</source>
-    </item>
-    <item>
-      <title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
-      <link>https://www.ithome.com/1/007/444.htm</link>
-      <description>Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。</description>
-      <pubDate>Sat, 26 Sep 2026 15:44:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/007/444.htm</guid>
-      <source url="https://www.ithome.com/1/007/444.htm">IT之家（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄</title>
-      <link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
-      <description>OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。</description>
-      <pubDate>Sat, 26 Sep 2026 14:03:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cw62jje658dlo</guid>
-      <source url="https://www.bbc.com/news/articles/cw62jje658dlo">Hacker News：AI 热帖</source>
-    </item>
-    <item>
-      <title>Cloudflare CEO马修·普林斯能从人工智能中拯救网络吗?.</title>
-      <link>https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising</link>
-      <description>今天,我和Cloudflare的首席执行官Matthew Prince交谈。 这一集是两集关于商业前途的系列的一部分。Matthew最后一次加入我们,大约在两年半前,当时我们以为是互联网的一个狂野的中枢点,现在它[......]。</description>
-      <pubDate>Sat, 26 Sep 2026 10:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising</guid>
-      <source url="https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising">The Verge AI</source>
-    </item>
-    <item>
-      <title>AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo</title>
-      <link>https://www.qbitai.com/2026/09/498271.html</link>
-      <description>Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。</description>
-      <pubDate>Sat, 26 Sep 2026 09:07:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498271.html</guid>
-      <source url="https://www.qbitai.com/2026/09/498271.html">量子位</source>
     </item>
   </channel>
 </rss>
