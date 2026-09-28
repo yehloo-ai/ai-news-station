@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:43:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:21:03 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显</title>
-      <link>https://www.ithome.com/1/007/767.htm</link>
-      <description>Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。</description>
-      <pubDate>Mon, 28 Sep 2026 04:31:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/007/767.htm</guid>
-      <source url="https://www.ithome.com/1/007/767.htm">IT之家（RSS）</source>
+      <title>中国智能汽车的后台，越来越像阿里云的主场</title>
+      <link>http://www.geekpark.net/news/371357</link>
+      <description>中国智能汽车产业，正在经历一场没有硝烟、却极为深刻的范式迭代。 在 2026 云栖大会汽车行业峰会上，我们看到了智能汽车竞争的主线：智能座舱正全面进入 Agent 时代，车不再是执行指令的机器，而是能理解你的意图、主动帮你把事情办成的智能体；智能驾驶的竞争，也早已从算法层下沉到工程层。数据产线的效率、训练集群的稳定性、模型迭代的周期，这些工程层的东西，正在决定胜负。 如果切换一下视角，会发现另一条更隐蔽的竞争主线正在成形：谁能成为中国智能汽车产业的算力与 AI 底座？ 数据给了一个相当清晰的答案。根据沙利文联合头豹近日发布的《2026 年中国汽车 AI 云市场追踪报告（26H1）》，阿里云在中</description>
+      <pubDate>Mon, 28 Sep 2026 22:54:50 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371357</guid>
+      <source url="http://www.geekpark.net/news/371357">极客公园</source>
     </item>
     <item>
-      <title>将人工智能带到自主系统 -- -- 从认知到集体智能</title>
-      <link>https://arxiv.org/abs/2609.30291</link>
-      <description>本条的目的是强调自主系统作为人工智能发展的终极阶段的中心作用,解释需要连接主义人工智能和象征性人工智能相结合的根本技术挑战,并进化.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30291</guid>
-      <source url="https://arxiv.org/abs/2609.30291">ArXiv AI</source>
+      <title>Nvidia说,它的新人工智能安全平台可以包含“毫秒内”的无赖特工。</title>
+      <link>https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents</link>
+      <description>正如路透社早些时候报道的那样,Nvidia正在推出一个新的安全平台,旨在控制并监控人工智能特工,这一举动是针对一波无赖黑客事件采取的。 Nvidia在星期一的一次公告中说,其新的开放特工安全平台可以对试图进行隔离的特工进行隔离。</description>
+      <pubDate>Mon, 28 Sep 2026 09:36:06 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents</guid>
+      <source url="https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents">The Verge AI</source>
     </item>
     <item>
-      <title>范围奔驰:在目标压力下,特工们是否保留交战边界?</title>
-      <link>https://arxiv.org/abs/2609.30325</link>
-      <description>在网络应用和网络渗透测试中,代理人的部署越来越具有真正的自主性,在测试中,单一的超出范围的行动可以突破客户的接触界限。</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30325</guid>
-      <source url="https://arxiv.org/abs/2609.30325">ArXiv AI</source>
+      <title>外网玩疯了，NSFW、毫无底线，FLUX 成为图片生成新王者</title>
+      <link>http://www.geekpark.net/news/371355</link>
+      <description>本文首发于 Founder Park 公众号 · 2024 年 8 月 15 日昨天马斯克的 Grok-2 发布，加入了 FLUX 模型提供的文生图能力。一夜之间，FLUX 毫无底线的图片血洗 X（推特）。自从 Google 把美国开国总统和印第安人都画成黑人之后，马斯克带头掀起另一个极端的文生图刷屏现象。FLUX 模型，来自于德国创业公司 Black Forest Labs，拳打 MJ 脚踩 SD，图片质量做到了行业天花板，道德底线也压到了地板砖。点击关注，发现更多 AI 创业者01&amp;nbsp;生成质量高，内容「毫无限制」首先在 X 上引起热议的，是前几天网友制作的 TEDx AI 讲师。仔</description>
+      <pubDate>Mon, 28 Sep 2026 21:35:27 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371355</guid>
+      <source url="http://www.geekpark.net/news/371355">极客公园</source>
     </item>
     <item>
-      <title>什么时候一个多代理代码法官实际上被禁足了? 两个无标签的测量, 一个法官那个下降的猜测</title>
-      <link>https://arxiv.org/abs/2609.30328</link>
-      <description>当一种语言模型判断另一种语言的代码是否正确时,它不报告缺乏证据的情况,它以附加的推理返回一个充满信心的判决,与它有理由作出的判决是分不开的。</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30328</guid>
-      <source url="https://arxiv.org/abs/2609.30328">ArXiv AI</source>
+      <title>在这段被下架的视频里，谷歌前CEO说了很多真话</title>
+      <link>http://www.geekpark.net/news/371354</link>
+      <description>本文首发于 Founder Park 公众号 · 2024 年 8 月 16 日Google 前 CEO ，「现在已经不是 Google 员工」的施密特（Eric Schmidt）前不久在斯坦福做了一次分享。分享被拍成视频上传到斯坦福在线课 YouTube 官号，其中有 40 多分钟施密特与学生 Q&amp;amp;A 的环节。因为观点太直接，说话太实在，施密特的分享上了新闻。斯坦福官号把视频都隐藏了。最后施密特在邮件采访中对「错误言论」表示道歉。知名科技博主阑夕总结了施密特分享的重点内容，TLDR。文章后面也附上了施密特的全程问答。现在的谷歌为什么在 AI 领域被 OpenAI 压着打？因为谷歌觉得</description>
+      <pubDate>Mon, 28 Sep 2026 21:34:23 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371354</guid>
+      <source url="http://www.geekpark.net/news/371354">极客公园</source>
     </item>
     <item>
-      <title>连接LLM代理和数据空间:利用示范背景议定书的建筑调解方法</title>
-      <link>https://arxiv.org/abs/2609.30341</link>
-      <description>数据空间能够跨越组织界限进行主权和受管理的数据共享,但由于概率语言模型互动与策略驱动的数据基础设施之间的不匹配,它们与人工智能代理人的整合仍然具有挑战性</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30341</guid>
-      <source url="https://arxiv.org/abs/2609.30341">ArXiv AI</source>
+      <title>DeepMind科学家万字分享：50个AI提效用例详解，工作中我是这么用AI的</title>
+      <link>http://www.geekpark.net/news/371353</link>
+      <description>本文首发于 Founder Park 公众号 · 2024 年 8 月 17 日文章作者是 DeepMind 的机器学习专家 Nicholas Carlini，不同于别人的介绍 AI 应用实例的文章，这次 Nicholas Carlini 详细讲解了自己在日常中如何使用 ChatGPT，比如写代码、优化代码、修复错误等，而且将完整的对话分享了出来。在这些对话中，可以看到 Nicholas Carlini 的每一条具体的 prompt，以及最终如何生成可用的结果。鉴于对话较长，很难用文档的形式呈现，我们在每个案例下附上了对话的链接，可以直接点击查看。我不认为现在 AI 模型（LLM）的用处被过分</description>
+      <pubDate>Mon, 28 Sep 2026 21:34:08 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371353</guid>
+      <source url="http://www.geekpark.net/news/371353">极客公园</source>
     </item>
     <item>
-      <title>《隐形外加》,《共同伤害:技能连锁攻击技能代理系统》</title>
-      <link>https://arxiv.org/abs/2609.30383</link>
-      <description>技能是一组模块化的自然语言指令、可执行脚本和参考资源,一个代理在运行时可以加载,以扩展其执行特定任务的能力。因此,基于技能的代理系统能够灵活地重复使用th。</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30383</guid>
-      <source url="https://arxiv.org/abs/2609.30383">ArXiv AI</source>
+      <title>扎克伯格：不要怕大公司，2/3 的机会他们都错过了</title>
+      <link>http://www.geekpark.net/news/371352</link>
+      <description>本文首发于 Founder Park 公众号 · 2024 年 8 月 22 日人自信的时候，说话都会变得坦率很多。扎克伯格在一场对谈中，从 Meta 这 10 年来在手机、AR 以及 AI 的挣扎，讲到不小心被「开源」了的 Llama，还有对于现阶段 AI 创业的想法。「机遇看似属于有优势的大公司，但其中三分之二的机会他们都会错过」，在他看来，大公司在这个时代的优势也不是绝对的，对于创业者来说，在创业阶段，「尝试各种方向，做各式各样的东西，不要过早地做出最终决定」。毕竟，「我在这个行业里犯的错误比任何人都多」。本次对谈的嘉宾是 SPC 合伙人（以及 Facebook 的早期员工）Ruchi</description>
+      <pubDate>Mon, 28 Sep 2026 21:33:53 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371352</guid>
+      <source url="http://www.geekpark.net/news/371352">极客公园</source>
     </item>
     <item>
-      <title>人工智能-图文侦测神经元在冰冻BERT的机械研究:在RAID上的Sparse检测和激活补丁</title>
-      <link>https://arxiv.org/abs/2609.30287</link>
-      <description>人工智能生成的文本探测器在标准基准上取得了很高的准确性,然而驱动这些预测的内部表达仍然不甚了解。 我们研究一个冷冻的BERT-基无编码编码器中哪些神经元支持人工智能-文本检测,我们</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30287</guid>
-      <source url="https://arxiv.org/abs/2609.30287">ArXiv NLP</source>
+      <title>9个人的公司，做文生图，2500万用户，每年净利润200万美元</title>
+      <link>http://www.geekpark.net/news/371351</link>
+      <description>本文首发于 Founder Park 公众号 · 2024 年 9 月 4 日Flux 带起又一波文生图模型的热潮，NightCafe 是其中的受益者之一。这家文生图网站，月活 100 万，用户超 2500 万，每年有 200 万的净利润，但员工还不到 10 人。五年前，Elle &amp;nbsp;Russell 和 Angus Russell 共同创立了这家公司。尽管不如 Midjourney 那样广为人知，但作为一家完全自筹资金的公司，NightCafe 大多数月份都能盈利。联合创始人 Elle 和她的公司一样，都喜欢保持低调。她说，「我喜欢躲在电脑显示器后面」。同样都是自训练模型起家，为什么</description>
+      <pubDate>Mon, 28 Sep 2026 21:33:28 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371351</guid>
+      <source url="http://www.geekpark.net/news/371351">极客公园</source>
     </item>
     <item>
-      <title>Manifold 投影和迭代自动编码器</title>
-      <link>https://arxiv.org/abs/2609.30288</link>
-      <description>在基于Transformer的蒙面语言模型中,注意是上下文混合的主要机制,但有其他方法可以将数据混合到符号之间. 最近的免注意混合器将注意替换为固定或超网络生成的MLP, vernatin</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30288</guid>
-      <source url="https://arxiv.org/abs/2609.30288">ArXiv NLP</source>
+      <title>20万周活，50%次月留存，做年轻人的AI产品，用户真的留下来了</title>
+      <link>http://www.geekpark.net/news/371350</link>
+      <description>本文首发于 Founder Park 公众号 · 2024 年 9 月 12 日人人都想做出下一个抖音/TikTok，想做出一个有引擎、有生命力的内容平台。捏 Ta 并不藏着掖着，创始人胡修涵在起名时，从公司到产品，对应着「字节跳动」和「抖音」。这款产品目前有超过 20 万周活用户，数十万月活，规模不算亮眼（虽然在 AI 产品里已经很好了），但用户真的留了下来（在 AI 原生产品里只能说罕见）。用户开始使用后，次月留存率达到了 40%-50%。他的切入点很细，角色故事创作，数十万用户在这里创作角色，然后让这些虚拟角色去体验一些有趣的故事，「代表自己」。我们在尝试玩明白这款产品的时候，看到一个在</description>
+      <pubDate>Mon, 28 Sep 2026 21:33:03 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371350</guid>
+      <source url="http://www.geekpark.net/news/371350">极客公园</source>
     </item>
     <item>
-      <title>Not all Memories Are equality: 级别协作内存用于验证 - 在 LLM 代理中获取消息</title>
-      <link>https://arxiv.org/abs/2609.30289</link>
-      <description>在团队合作的情景中,记忆是多种多样的,并不断演变。团队记忆捕捉集体决定、协议和当前共识,而个人记忆则保存特定成员的观察、执行痕迹和内存。</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30289</guid>
-      <source url="https://arxiv.org/abs/2609.30289">ArXiv NLP</source>
+      <title>大招憋出来了！OpenAI发布最强推理模型o1，它真的会思考，但API比4o贵好几倍</title>
+      <link>http://www.geekpark.net/news/371349</link>
+      <description>本文首发于 Founder Park 公众号 · 2024 年 9 月 13 日OpenAI 的推理模型，也就是期待已久的 Strawberry 发布！9 月 13 日凌晨，OpenAI 宣布，正式发布一款 OpenAI o1-preview 的推理模型，同时发布的还有一个更小、成本更低的版本——o1 mini。OpenAI 将此次发布称为「预览版」，强调 o1 仍处于早期阶段。OpenAI 的 API 负责人发文称：「如果你过去有个产品想法，当时的模型不太行，不够智能，现在你再试试」。在权限开放方面，OpenAI 采取了分阶段推广策略。ChatGPT Plus 和 Team 用户可以立即访问</description>
+      <pubDate>Mon, 28 Sep 2026 21:32:45 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371349</guid>
+      <source url="http://www.geekpark.net/news/371349">极客公园</source>
     </item>
     <item>
-      <title>制作文本至SQL管道的LLM-as-judge故障审计和维修</title>
-      <link>https://arxiv.org/abs/2609.30290</link>
-      <description>生产文本到SQL输油管往往以LLM-as-judge结束,他与人类注释员的协议从未被实际测量过。 当我们检查我们时,部署的gpt-4o-mini法官只同意科恩的kappa = 0.04上的两作者黄金。</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30290</guid>
-      <source url="https://arxiv.org/abs/2609.30290">ArXiv NLP</source>
+      <title>OpenAI o1 团队在线答疑：o1的o指OpenAI，强化后的推理有泛化能力，未来模型思考时间可控！</title>
+      <link>http://www.geekpark.net/news/371348</link>
+      <description>本文首发于 Founder Park 公众号 · 2024 年 9 月 14 日这可能是最有参与感的一次产品问答了。对于 OpenAI o1 的所有疑问和好奇，由推特的所有网友来提问，OpenAI 的全体技术人员来回答。数了下，一共有 12 位员工出现，这其中有各个方向的研究员和研究科学家，以及产品经理、产品主管。至于提问，从模型命名、模型的大小和模态，到提示词、思维链、上下文长度，以及价格，可以说，大家关注的问题，基本都在里面了。参与问答的 OpenAI 人员：Ahmed El-Kishky：OpenAI 研究员Łukasz Kondraciuk：草莓训练设施负责人，华沙大学计算机科学，AC</description>
+      <pubDate>Mon, 28 Sep 2026 21:32:22 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371348</guid>
+      <source url="http://www.geekpark.net/news/371348">极客公园</source>
     </item>
     <item>
-      <title>关于虚假审查检测的调查:从经过预先培训的语言模型到大语言模型</title>
-      <link>https://arxiv.org/abs/2609.30292</link>
-      <description>在线评论塑造了消费者决策,平台治理,以及公司声誉. 假评论通过向评级系统,推荐管道,以及公共信任机制注入欺骗性证据来损害这一信息渠道. 崛起.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30292</guid>
-      <source url="https://arxiv.org/abs/2609.30292">ArXiv NLP</source>
+      <title>o1发布后，信息量最大的圆桌对话：杨植麟、姜大昕、朱军探讨大模型技术路径</title>
+      <link>http://www.geekpark.net/news/371347</link>
+      <description>本文首发于 Founder Park 公众号 · 2024 年 9 月 19 日在 2024 云栖大会上，阶跃星辰创始人姜大昕、月之暗面Kimi创始人杨植麟、生数科技首席科学家朱军与极客公园创始人张鹏一起，探讨了各自眼中 AI 技术发展的现状，推演未来 18 个月，大模型行业会发生什么。在这场圆桌里，他们重点聊了：客观来说，AI 领域过去两年发生了什么？OpenAI o1 的发布对行业意味着什么？o1 背后的强化学习新范式对算力和数据提出了怎样的新要求？AI 应用层的创业，在今天该怎么做？未来 18 个月，AI 技术和应用的发展路径是什么？信息量很大，我们将现场实录整理如下。点击关注，每天更新</description>
+      <pubDate>Mon, 28 Sep 2026 21:32:09 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371347</guid>
+      <source url="http://www.geekpark.net/news/371347">极客公园</source>
     </item>
     <item>
-      <title>早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行</title>
-      <link>https://www.ifanr.com/1682201?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· OpenAI DevDay 将于 9 月 29 日举行 · 苹果触觉反馈专利案被裁赔 57 亿美元，称将上诉 · 罗永浩回应「溜溜凳」质量问题#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 28 Sep 2026 00:25:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1682201?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1682201?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>维权者之窗:网络安全基调</title>
+      <link>https://www.youtube.com/watch?v=3jDhHA9JGUE</link>
+      <description>OpenAI的安全专家解释了为什么每个组织都需要一个网络防御工厂,以及如何与Daybreak一起建造.</description>
+      <pubDate>Mon, 28 Sep 2026 13:29:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=3jDhHA9JGUE</guid>
+      <source url="https://www.youtube.com/watch?v=3jDhHA9JGUE">OpenAI</source>
     </item>
     <item>
-      <title>传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？</title>
-      <link>http://www.geekpark.net/news/371044</link>
-      <description>消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布9 月 27 日消息，据消息人士 Alexey Shabanov 昨日透露，OpenAI 即将推出一款常驻 AI 助手，其代号为「O」，预计将在 9 月 29 日的 OpenAI DevDay 推出。据报道，ChatGPT 的配置文件中已经出现了许多与「O」相关的线索，包括将「O」设置为显示名称、配置「-o」的电子邮件后缀。综合这些线索来看，这款智能体预计将能够在普通聊天之外持续运行，还可能拥有独立身份。同时该项目可能与「Aeon」有关。此前已有消息称，Aeon 是 OpenAI 常驻型智能体项目使用的名称。不过我们</description>
-      <pubDate>Mon, 28 Sep 2026 08:06:58 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371044</guid>
-      <source url="http://www.geekpark.net/news/371044">极客公园</source>
+      <title>北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗</title>
+      <link>https://x.com/thexpin/status/2104508227451027712</link>
+      <description>据The Information报道，北京方面已向阿里巴巴和字节跳动询问其计划采购的NVIDIA新款工作站芯片数量及用途。字节跳动正评估采购约100万颗芯片用于AI模型训练；NVIDIA预计12月底开始发货，计划向中国季度供应50万片。目前审批时间与配额尚不明确，美方未公开该芯片出口状态。</description>
+      <pubDate>Mon, 28 Sep 2026 09:47:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thexpin/status/2104508227451027712</guid>
+      <source url="https://x.com/thexpin/status/2104508227451027712">X：X.PIN (@thexpin)</source>
     </item>
     <item>
-      <title>派早报：OpenAI 称与苹果合作效果不佳</title>
-      <link>https://sspai.com/post/115079</link>
-      <description>OpenAI 称与苹果合作效果不佳iPhone 4「天线门」媒体问答录像时隔十六年现身F-Droid 2.0 发布三星冰箱固件升级后罢工，影响韩国用户过中秋Excel 单元格将支持数组微软不再使用 Copilot+ PC 品牌看看就行的简讯少数派的近期动态你可能错过的好文章查看全文</description>
-      <pubDate>Mon, 28 Sep 2026 07:03:45 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/115079</guid>
-      <source url="https://sspai.com/post/115079">少数派</source>
+      <title>H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本</title>
+      <link>https://huggingface.co/blog/Hcompany/holo4</link>
+      <description>H Company 发布通用计算机使用智能体模型系列 Holo4，含 27B dense 和 35B-A3B MoE 两个尺寸，并基于 Nemotron 3 Nano Omni 推出 Holotron4 Nano。</description>
+      <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/Hcompany/holo4</guid>
+      <source url="https://huggingface.co/blog/Hcompany/holo4">Hugging Face：Blog（RSS）</source>
     </item>
     <item>
-      <title>Engram是一个将破碎的人工智能幻觉转化为音乐的采样器</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music</link>
-      <description>音乐启动 思索 事物 刚刚启动了 Kickstarter 运动, 用于它的第一个乐器 Engram 。 它是一个采样器和grovebox, 它使用人工智能将收到的音频,甚至幻觉, 处理全新的声音。 虽然这不是一个盒子里的Suno 。 这不是一个“ 按键、 响声” 设备, 而是一个</description>
-      <pubDate>Sun, 27 Sep 2026 16:46:36 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music">The Verge AI</source>
+      <title>英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统</title>
+      <link>https://www.ithome.com/1/007/937.htm</link>
+      <description>英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。</description>
+      <pubDate>Mon, 28 Sep 2026 09:33:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/007/937.htm</guid>
+      <source url="https://www.ithome.com/1/007/937.htm">IT之家（RSS）</source>
     </item>
     <item>
-      <title>OpenAI 代理试图“加强力量”一个联合国网站</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</link>
-      <description>安全研究者罗万·霍华德-琼斯(Rowan Howard-Jones)说,OpenAI特工在4月至6月期间扫描了联合国贸易和发展会议(贸发会议)的统计网站超过16 000次。 虽然这一事件并没有完全达到哈金斯面部黑客攻击的程度,也没有达到美国政府最近遭受的袭击的程度。</description>
-      <pubDate>Sun, 27 Sep 2026 13:21:07 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website">The Verge AI</source>
+      <title>基于 Termux 的 Android 手机开发服务器实操</title>
+      <link>https://sspai.com/prime/story/dev-env-on-android-with-termux</link>
+      <description>不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。</description>
+      <pubDate>Mon, 28 Sep 2026 17:33:03 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/prime/story/dev-env-on-android-with-termux</guid>
+      <source url="https://sspai.com/prime/story/dev-env-on-android-with-termux">少数派</source>
     </item>
     <item>
-      <title>量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层</title>
-      <link>https://www.qbitai.com/2026/09/498633.html</link>
-      <description></description>
-      <pubDate>Sun, 27 Sep 2026 14:20:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498633.html</guid>
-      <source url="https://www.qbitai.com/2026/09/498633.html">量子位</source>
+      <title>英伟达联合超100家伙伴推出开放代理安全平台</title>
+      <link>https://x.com/JensenHuang/status/2104499465055023424</link>
+      <description>2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。该平台旨在构建安全代理系统的信任层，强调“安全是信任的基础”，并称其为“AI经济的基石”。</description>
+      <pubDate>Mon, 28 Sep 2026 09:12:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/JensenHuang/status/2104499465055023424</guid>
+      <source url="https://x.com/JensenHuang/status/2104499465055023424">X：Jensen Huang (@JensenHuang)</source>
     </item>
     <item>
-      <title>啥题啊能干崩OpenAI最强模型训练…</title>
-      <link>https://www.qbitai.com/2026/09/498546.html</link>
-      <description></description>
-      <pubDate>Sun, 27 Sep 2026 09:44:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498546.html</guid>
-      <source url="https://www.qbitai.com/2026/09/498546.html">量子位</source>
+      <title>豆包输入法大更新，AI 最自然的入口回到了键盘</title>
+      <link>https://www.ifanr.com/1682232?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI 改变输入法，从少折腾开始#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 28 Sep 2026 09:02:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1682232?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1682232?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法</title>
-      <link>https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal</link>
-      <description>Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。</description>
-      <pubDate>Sun, 27 Sep 2026 09:27:15 +0000</pubDate>
-      <guid isPermaLink="true">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal</guid>
-      <source url="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal">Hacker News 热门（buzzing.cc 中文翻译）</source>
+      <title>MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年</title>
+      <link>https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928</link>
+      <description>MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。</description>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928</guid>
+      <source url="https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928">MIT News（RSS）</source>
     </item>
     <item>
-      <title>阿里整合 AI 办公力量后，千问办公怎么打这场大战？</title>
-      <link>http://www.geekpark.net/news/371040</link>
-      <description>办公正在成为全球 AI 行业竞争最集中的战场之一。 相比聊天、搜索，AI 在企业办公场景下的落地要复杂的多，一方面需要连接、调用企业的文档、邮件、知识库，另一方面还需要 AI 理解审批、销售、财务等业务流程。而今年以来 Agent 快速发展，让 AI 进入「千司千面」的企业办公场景成为可能。 因此，从微软、谷歌到国内的互联网和云计算公司，行业竞争的重点都在从模型能力延伸到办公入口、企业数据、Agent 平台和业务流程。企业客户是否愿意采用，AI 能否安全地接触组织数据、进入实际工作流，也开始成为比模型能力更受企业关注的竞争要素。 这一轮全球竞赛中，阿里把注下在了千问办公。 千问办公并非从零成立</description>
-      <pubDate>Sun, 27 Sep 2026 16:38:53 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371040</guid>
-      <source url="http://www.geekpark.net/news/371040">极客公园</source>
+      <title>Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式</title>
+      <link>https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</link>
+      <description>Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。</description>
+      <pubDate>Mon, 28 Sep 2026 07:33:29 +0000</pubDate>
+      <guid isPermaLink="true">https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</guid>
+      <source url="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5">Hacker News：AI 热帖</source>
     </item>
   </channel>
 </rss>
