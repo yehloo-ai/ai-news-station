@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Sep 2026 22:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:35:52 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行</title>
+      <link>https://www.ifanr.com/1682201?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· OpenAI DevDay 将于 9 月 29 日举行 · 苹果触觉反馈专利案被裁赔 57 亿美元，称将上诉 · 罗永浩回应「溜溜凳」质量问题#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 28 Sep 2026 00:25:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1682201?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1682201?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？</title>
+      <link>http://www.geekpark.net/news/371044</link>
+      <description>消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布9 月 27 日消息，据消息人士 Alexey Shabanov 昨日透露，OpenAI 即将推出一款常驻 AI 助手，其代号为「O」，预计将在 9 月 29 日的 OpenAI DevDay 推出。据报道，ChatGPT 的配置文件中已经出现了许多与「O」相关的线索，包括将「O」设置为显示名称、配置「-o」的电子邮件后缀。综合这些线索来看，这款智能体预计将能够在普通聊天之外持续运行，还可能拥有独立身份。同时该项目可能与「Aeon」有关。此前已有消息称，Aeon 是 OpenAI 常驻型智能体项目使用的名称。不过我们</description>
+      <pubDate>Mon, 28 Sep 2026 08:06:58 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371044</guid>
+      <source url="http://www.geekpark.net/news/371044">极客公园</source>
+    </item>
+    <item>
+      <title>派早报：OpenAI 称与苹果合作效果不佳</title>
+      <link>https://sspai.com/post/115079</link>
+      <description>OpenAI 称与苹果合作效果不佳iPhone 4「天线门」媒体问答录像时隔十六年现身F-Droid 2.0 发布三星冰箱固件升级后罢工，影响韩国用户过中秋Excel 单元格将支持数组微软不再使用 Copilot + PC 品牌看看就行的简讯少数派的近期动态你可能错过的好文章查看全文</description>
+      <pubDate>Mon, 28 Sep 2026 07:03:45 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/115079</guid>
+      <source url="https://sspai.com/post/115079">少数派</source>
+    </item>
     <item>
       <title>Engram是一个将破碎的人工智能幻觉转化为音乐的采样器</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music</link>
@@ -142,30 +166,6 @@
       <pubDate>Sat, 26 Sep 2026 09:07:41 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/09/498271.html</guid>
       <source url="https://www.qbitai.com/2026/09/498271.html">量子位</source>
-    </item>
-    <item>
-      <title>OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件</title>
-      <link>https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</link>
-      <description>OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。</description>
-      <pubDate>Sat, 26 Sep 2026 09:06:36 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</guid>
-      <source url="https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub</title>
-      <link>https://www.qbitai.com/2026/09/497624.html</link>
-      <description>GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？</description>
-      <pubDate>Sat, 26 Sep 2026 09:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497624.html</guid>
-      <source url="https://www.qbitai.com/2026/09/497624.html">量子位</source>
-    </item>
-    <item>
-      <title>谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架</title>
-      <link>https://www.qbitai.com/2026/09/497425.html</link>
-      <description>vLLM人马创业公司团队出品</description>
-      <pubDate>Sat, 26 Sep 2026 07:12:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497425.html</guid>
-      <source url="https://www.qbitai.com/2026/09/497425.html">量子位</source>
     </item>
   </channel>
 </rss>
