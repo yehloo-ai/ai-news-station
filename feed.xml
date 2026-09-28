@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 15:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:52:50 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中国智能汽车的后台，越来越像阿里云的主场</title>
-      <link>http://www.geekpark.net/news/371357</link>
-      <description>中国智能汽车产业，正在经历一场没有硝烟、却极为深刻的范式迭代。 在 2026 云栖大会汽车行业峰会上，我们看到了智能汽车竞争的主线：智能座舱正全面进入 Agent 时代，车不再是执行指令的机器，而是能理解你的意图、主动帮你把事情办成的智能体；智能驾驶的竞争，也早已从算法层下沉到工程层。数据产线的效率、训练集群的稳定性、模型迭代的周期，这些工程层的东西，正在决定胜负。 如果切换一下视角，会发现另一条更隐蔽的竞争主线正在成形：谁能成为中国智能汽车产业的算力与 AI 底座？ 数据给了一个相当清晰的答案。根据沙利文联合头豹近日发布的《2026 年中国汽车 AI 云市场追踪报告（26H1）》，阿里云在中</description>
-      <pubDate>Mon, 28 Sep 2026 22:54:50 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371357</guid>
-      <source url="http://www.geekpark.net/news/371357">极客公园</source>
+      <title>AMD正在收购人工智能公司 世界实验室 价值超过80亿美元的交易</title>
+      <link>https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</link>
+      <description>AMD今天宣布,它正在收购一个人工智能研究实验室World Labs,这个实验室是由著名研究者Fei-Fei Li博士共同创立的,在一个价值约82亿美元的所有股票交易中. World Labs于2024年推出,并在几个月内价值达10亿美元. Startup推出了第一个commerci.</description>
+      <pubDate>Mon, 28 Sep 2026 17:31:35 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</guid>
+      <source url="https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal">The Verge AI</source>
     </item>
     <item>
-      <title>Nvidia说,它的新人工智能安全平台可以包含“毫秒内”的无赖特工。</title>
-      <link>https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents</link>
-      <description>正如路透社早些时候报道的那样,Nvidia正在推出一个新的安全平台,旨在控制并监控人工智能特工,这一举动是针对一波无赖黑客事件采取的。 Nvidia在星期一的一次公告中说,其新的开放特工安全平台可以对试图进行隔离的特工进行隔离。</description>
-      <pubDate>Mon, 28 Sep 2026 09:36:06 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents</guid>
-      <source url="https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents">The Verge AI</source>
+      <title>Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05</title>
+      <link>https://x.com/arena/status/2104673568776990762</link>
+      <description>Arena 公布 GPT-6 Luna (Max) 在 Agent Arena 排名第 23，基于 8K 真实智能体会话，净提升 +1.6%，比 GPT-5.6 Luna (xHigh) 上升 6 位。</description>
+      <pubDate>Mon, 28 Sep 2026 20:44:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2104673568776990762</guid>
+      <source url="https://x.com/arena/status/2104673568776990762">X：Arena (@arena)</source>
     </item>
     <item>
-      <title>外网玩疯了，NSFW、毫无底线，FLUX 成为图片生成新王者</title>
-      <link>http://www.geekpark.net/news/371355</link>
-      <description>本文首发于 Founder Park 公众号 · 2024 年 8 月 15 日昨天马斯克的 Grok-2 发布，加入了 FLUX 模型提供的文生图能力。一夜之间，FLUX 毫无底线的图片血洗 X（推特）。自从 Google 把美国开国总统和印第安人都画成黑人之后，马斯克带头掀起另一个极端的文生图刷屏现象。FLUX 模型，来自于德国创业公司 Black Forest Labs，拳打 MJ 脚踩 SD，图片质量做到了行业天花板，道德底线也压到了地板砖。点击关注，发现更多 AI 创业者01&amp;nbsp;生成质量高，内容「毫无限制」首先在 X 上引起热议的，是前几天网友制作的 TEDx AI 讲师。仔</description>
-      <pubDate>Mon, 28 Sep 2026 21:35:27 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371355</guid>
-      <source url="http://www.geekpark.net/news/371355">极客公园</source>
+      <title>AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs</title>
+      <link>https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/</link>
+      <description>AMD 宣布以 82 亿美元收购 World Labs，后者是研究理解物理世界的深度学习模型的领先开发者，交易预计年底前在监管批准后完成。World Labs 创始人李飞飞将加入 AMD 担任执行副总裁兼首席科学家，两家公司去年起已建立推理优化与训练合作关系。</description>
+      <pubDate>Mon, 28 Sep 2026 20:39:33 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/</guid>
+      <source url="https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/">TechCrunch：AI（RSS）</source>
     </item>
     <item>
-      <title>在这段被下架的视频里，谷歌前CEO说了很多真话</title>
-      <link>http://www.geekpark.net/news/371354</link>
-      <description>本文首发于 Founder Park 公众号 · 2024 年 8 月 16 日Google 前 CEO ，「现在已经不是 Google 员工」的施密特（Eric Schmidt）前不久在斯坦福做了一次分享。分享被拍成视频上传到斯坦福在线课 YouTube 官号，其中有 40 多分钟施密特与学生 Q&amp;amp;A 的环节。因为观点太直接，说话太实在，施密特的分享上了新闻。斯坦福官号把视频都隐藏了。最后施密特在邮件采访中对「错误言论」表示道歉。知名科技博主阑夕总结了施密特分享的重点内容，TLDR。文章后面也附上了施密特的全程问答。现在的谷歌为什么在 AI 领域被 OpenAI 压着打？因为谷歌觉得</description>
-      <pubDate>Mon, 28 Sep 2026 21:34:23 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371354</guid>
-      <source url="http://www.geekpark.net/news/371354">极客公园</source>
+      <title>AMD 以约 $8.2B 股票收购李飞飞的 World Labs 并聘其为首席科学家</title>
+      <link>https://x.com/rohanpaul_ai/status/2104671839876472854</link>
+      <description>AMD 同意以约 $8.2B 股票收购李飞飞的 World Labs，李飞飞出任首席科学家。该价格比 World Labs 今年 2 月 $1B 融资轮谈及的 $5B 估值高出约 64%，AMD 和 Nvidia 都参与了那一轮。</description>
+      <pubDate>Mon, 28 Sep 2026 20:37:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104671839876472854</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2104671839876472854">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
-      <title>DeepMind科学家万字分享：50个AI提效用例详解，工作中我是这么用AI的</title>
-      <link>http://www.geekpark.net/news/371353</link>
-      <description>本文首发于 Founder Park 公众号 · 2024 年 8 月 17 日文章作者是 DeepMind 的机器学习专家 Nicholas Carlini，不同于别人的介绍 AI 应用实例的文章，这次 Nicholas Carlini 详细讲解了自己在日常中如何使用 ChatGPT，比如写代码、优化代码、修复错误等，而且将完整的对话分享了出来。在这些对话中，可以看到 Nicholas Carlini 的每一条具体的 prompt，以及最终如何生成可用的结果。鉴于对话较长，很难用文档的形式呈现，我们在每个案例下附上了对话的链接，可以直接点击查看。我不认为现在 AI 模型（LLM）的用处被过分</description>
-      <pubDate>Mon, 28 Sep 2026 21:34:08 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371353</guid>
-      <source url="http://www.geekpark.net/news/371353">极客公园</source>
+      <title>World Labs 宣布加入 AMD</title>
+      <link>https://x.com/theworldlabs/status/2104665621120311465</link>
+      <description>World Labs 官方宣布加入 AMD。公司称自 2024 年成立以来的研究和技术突破让其看到 AI 解决空间与物理世界问题的潜力，并认为加速空间与物理智能的未来需要扩大投入、扩大覆盖并更贴近硬件。</description>
+      <pubDate>Mon, 28 Sep 2026 20:12:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/theworldlabs/status/2104665621120311465</guid>
+      <source url="https://x.com/theworldlabs/status/2104665621120311465">X：World Labs (@theworldlabs)</source>
     </item>
     <item>
-      <title>扎克伯格：不要怕大公司，2/3 的机会他们都错过了</title>
-      <link>http://www.geekpark.net/news/371352</link>
-      <description>本文首发于 Founder Park 公众号 · 2024 年 8 月 22 日人自信的时候，说话都会变得坦率很多。扎克伯格在一场对谈中，从 Meta 这 10 年来在手机、AR 以及 AI 的挣扎，讲到不小心被「开源」了的 Llama，还有对于现阶段 AI 创业的想法。「机遇看似属于有优势的大公司，但其中三分之二的机会他们都会错过」，在他看来，大公司在这个时代的优势也不是绝对的，对于创业者来说，在创业阶段，「尝试各种方向，做各式各样的东西，不要过早地做出最终决定」。毕竟，「我在这个行业里犯的错误比任何人都多」。本次对谈的嘉宾是 SPC 合伙人（以及 Facebook 的早期员工）Ruchi</description>
-      <pubDate>Mon, 28 Sep 2026 21:33:53 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371352</guid>
-      <source url="http://www.geekpark.net/news/371352">极客公园</source>
+      <title>Databricks 如何让 1.4 万名员工在模型发布首日用上新模型</title>
+      <link>https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1</link>
+      <description>Databricks 公开其让全体员工在模型发布 Day 1 获得实验性访问的内部流程：通过 Unity Gateway 和 UG CLI 分发配置，用四类按用户预算控制成本，再依据基准测试、用户反馈和按会话分层加权的成本追踪决定模型去留。</description>
+      <pubDate>Mon, 28 Sep 2026 20:11:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1</guid>
+      <source url="https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1">Databricks：Blog（RSS）</source>
     </item>
     <item>
-      <title>9个人的公司，做文生图，2500万用户，每年净利润200万美元</title>
-      <link>http://www.geekpark.net/news/371351</link>
-      <description>本文首发于 Founder Park 公众号 · 2024 年 9 月 4 日Flux 带起又一波文生图模型的热潮，NightCafe 是其中的受益者之一。这家文生图网站，月活 100 万，用户超 2500 万，每年有 200 万的净利润，但员工还不到 10 人。五年前，Elle &amp;nbsp;Russell 和 Angus Russell 共同创立了这家公司。尽管不如 Midjourney 那样广为人知，但作为一家完全自筹资金的公司，NightCafe 大多数月份都能盈利。联合创始人 Elle 和她的公司一样，都喜欢保持低调。她说，「我喜欢躲在电脑显示器后面」。同样都是自训练模型起家，为什么</description>
-      <pubDate>Mon, 28 Sep 2026 21:33:28 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371351</guid>
-      <source url="http://www.geekpark.net/news/371351">极客公园</source>
+      <title>Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%</title>
+      <link>https://x.com/trq212/status/2104660926373023830</link>
+      <description>Anthropic 推出 Claude Sonnet 5.5，为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 运行速度快 30% 以上，且多数工作成本降低至多 30%。Claude Code 相关开发者 Thariq 表示，Sonnet 与 Opus 5.5 让更高层级的抽象如 projects、claude tag 和 dynamic workflows 在 token 成本上更可用，并建议构建工作流时优先尝试 Sonnet 5.5。</description>
+      <pubDate>Mon, 28 Sep 2026 19:54:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/trq212/status/2104660926373023830</guid>
+      <source url="https://x.com/trq212/status/2104660926373023830">X：Thariq (@trq212)</source>
     </item>
     <item>
-      <title>20万周活，50%次月留存，做年轻人的AI产品，用户真的留下来了</title>
-      <link>http://www.geekpark.net/news/371350</link>
-      <description>本文首发于 Founder Park 公众号 · 2024 年 9 月 12 日人人都想做出下一个抖音/TikTok，想做出一个有引擎、有生命力的内容平台。捏 Ta 并不藏着掖着，创始人胡修涵在起名时，从公司到产品，对应着「字节跳动」和「抖音」。这款产品目前有超过 20 万周活用户，数十万月活，规模不算亮眼（虽然在 AI 产品里已经很好了），但用户真的留了下来（在 AI 原生产品里只能说罕见）。用户开始使用后，次月留存率达到了 40%-50%。他的切入点很细，角色故事创作，数十万用户在这里创作角色，然后让这些虚拟角色去体验一些有趣的故事，「代表自己」。我们在尝试玩明白这款产品的时候，看到一个在</description>
-      <pubDate>Mon, 28 Sep 2026 21:33:03 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371350</guid>
-      <source url="http://www.geekpark.net/news/371350">极客公园</source>
+      <title>Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变</title>
+      <link>https://x.com/rohanpaul_ai/status/2104649406536683789</link>
+      <description>Anthropic 发布 Claude Sonnet 5.5，Terminal-Bench 4.0 得分 70.6%，远高于 Sonnet 5 的 10.3%，价格维持 $2/$10 每百万输入/输出 token。</description>
+      <pubDate>Mon, 28 Sep 2026 19:08:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104649406536683789</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2104649406536683789">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
-      <title>大招憋出来了！OpenAI发布最强推理模型o1，它真的会思考，但API比4o贵好几倍</title>
-      <link>http://www.geekpark.net/news/371349</link>
-      <description>本文首发于 Founder Park 公众号 · 2024 年 9 月 13 日OpenAI 的推理模型，也就是期待已久的 Strawberry 发布！9 月 13 日凌晨，OpenAI 宣布，正式发布一款 OpenAI o1-preview 的推理模型，同时发布的还有一个更小、成本更低的版本——o1 mini。OpenAI 将此次发布称为「预览版」，强调 o1 仍处于早期阶段。OpenAI 的 API 负责人发文称：「如果你过去有个产品想法，当时的模型不太行，不够智能，现在你再试试」。在权限开放方面，OpenAI 采取了分阶段推广策略。ChatGPT Plus 和 Team 用户可以立即访问</description>
-      <pubDate>Mon, 28 Sep 2026 21:32:45 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371349</guid>
-      <source url="http://www.geekpark.net/news/371349">极客公园</source>
+      <title>GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞</title>
+      <link>https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</link>
+      <description>GitHub Security Lab 发布开源 seclab-taskflows 任务流，通过 gather_mobile_entry_point_info.yaml 和 classify_application_local.yaml 等提示词引导 LLM 审计 Android 应用，已发现并报告 24 个漏洞。</description>
+      <pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</guid>
+      <source url="https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/">GitHub Blog</source>
     </item>
     <item>
-      <title>OpenAI o1 团队在线答疑：o1的o指OpenAI，强化后的推理有泛化能力，未来模型思考时间可控！</title>
-      <link>http://www.geekpark.net/news/371348</link>
-      <description>本文首发于 Founder Park 公众号 · 2024 年 9 月 14 日这可能是最有参与感的一次产品问答了。对于 OpenAI o1 的所有疑问和好奇，由推特的所有网友来提问，OpenAI 的全体技术人员来回答。数了下，一共有 12 位员工出现，这其中有各个方向的研究员和研究科学家，以及产品经理、产品主管。至于提问，从模型命名、模型的大小和模态，到提示词、思维链、上下文长度，以及价格，可以说，大家关注的问题，基本都在里面了。参与问答的 OpenAI 人员：Ahmed El-Kishky：OpenAI 研究员Łukasz Kondraciuk：草莓训练设施负责人，华沙大学计算机科学，AC</description>
-      <pubDate>Mon, 28 Sep 2026 21:32:22 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371348</guid>
-      <source url="http://www.geekpark.net/news/371348">极客公园</source>
+      <title>OpenAI的人工智能特工需要追赶</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent</link>
+      <description>OpenAI普及了现代基因人工智能聊天器,但随着其2026年的DevDay事件临近,它落后于该行业最热门的类别之一:持续运行,消费者化的人工智能代理。星期二,它可能会尝试在这场比赛中捕捉领先者。 传言很多,OpenAI wi。</description>
+      <pubDate>Mon, 28 Sep 2026 14:45:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent">The Verge AI</source>
     </item>
     <item>
-      <title>o1发布后，信息量最大的圆桌对话：杨植麟、姜大昕、朱军探讨大模型技术路径</title>
-      <link>http://www.geekpark.net/news/371347</link>
-      <description>本文首发于 Founder Park 公众号 · 2024 年 9 月 19 日在 2024 云栖大会上，阶跃星辰创始人姜大昕、月之暗面Kimi创始人杨植麟、生数科技首席科学家朱军与极客公园创始人张鹏一起，探讨了各自眼中 AI 技术发展的现状，推演未来 18 个月，大模型行业会发生什么。在这场圆桌里，他们重点聊了：客观来说，AI 领域过去两年发生了什么？OpenAI o1 的发布对行业意味着什么？o1 背后的强化学习新范式对算力和数据提出了怎样的新要求？AI 应用层的创业，在今天该怎么做？未来 18 个月，AI 技术和应用的发展路径是什么？信息量很大，我们将现场实录整理如下。点击关注，每天更新</description>
-      <pubDate>Mon, 28 Sep 2026 21:32:09 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371347</guid>
-      <source url="http://www.geekpark.net/news/371347">极客公园</source>
+      <title>Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%</title>
+      <link>https://x.com/ClaudeDevs/status/2104641318555353400</link>
+      <description>Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 更聪明、高效，运行速度快超 30%，多数工作成本最多低 30%。适合修复 bug、快速迭代功能等范围明确的日常任务，Claude Code 用量也会更耐用。</description>
+      <pubDate>Mon, 28 Sep 2026 18:36:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ClaudeDevs/status/2104641318555353400</guid>
+      <source url="https://x.com/ClaudeDevs/status/2104641318555353400">X：Claude Devs (@ClaudeDevs)</source>
     </item>
     <item>
-      <title>维权者之窗:网络安全基调</title>
-      <link>https://www.youtube.com/watch?v=3jDhHA9JGUE</link>
-      <description>OpenAI的安全专家解释了为什么每个组织都需要一个网络防御工厂,以及如何与Daybreak一起建造.</description>
-      <pubDate>Mon, 28 Sep 2026 13:29:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=3jDhHA9JGUE</guid>
-      <source url="https://www.youtube.com/watch?v=3jDhHA9JGUE">OpenAI</source>
+      <title>Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5</title>
+      <link>https://x.com/ArtificialAnlys/status/2104640155843989864</link>
+      <description>Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。</description>
+      <pubDate>Mon, 28 Sep 2026 18:31:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2104640155843989864</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2104640155843989864">X：Artificial Analysis (@ArtificialAnlys)</source>
     </item>
     <item>
-      <title>北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗</title>
-      <link>https://x.com/thexpin/status/2104508227451027712</link>
-      <description>据The Information报道，北京方面已向阿里巴巴和字节跳动询问其计划采购的NVIDIA新款工作站芯片数量及用途。字节跳动正评估采购约100万颗芯片用于AI模型训练；NVIDIA预计12月底开始发货，计划向中国季度供应50万片。目前审批时间与配额尚不明确，美方未公开该芯片出口状态。</description>
-      <pubDate>Mon, 28 Sep 2026 09:47:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thexpin/status/2104508227451027712</guid>
-      <source url="https://x.com/thexpin/status/2104508227451027712">X：X.PIN (@thexpin)</source>
+      <title>Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测</title>
+      <link>https://x.com/arena/status/2104640009232117859</link>
+      <description>Arena 宣布 Anthropic 的 Claude Sonnet 5.5 已进入 Agent Arena，并开放投票。Agent Arena 基于全球用户数百万个真实的长程智能体任务评测模型，模型可使用 web search、filesystem 和 terminal 工具完成复杂工作流，榜单用因果追踪方法衡量模型相对平均模型的结果表现。</description>
+      <pubDate>Mon, 28 Sep 2026 18:30:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2104640009232117859</guid>
+      <source url="https://x.com/arena/status/2104640009232117859">X：Arena (@arena)</source>
     </item>
     <item>
-      <title>H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本</title>
-      <link>https://huggingface.co/blog/Hcompany/holo4</link>
-      <description>H Company 发布通用计算机使用智能体模型系列 Holo4，含 27B dense 和 35B-A3B MoE 两个尺寸，并基于 Nemotron 3 Nano Omni 推出 Holotron4 Nano。</description>
-      <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/Hcompany/holo4</guid>
-      <source url="https://huggingface.co/blog/Hcompany/holo4">Hugging Face：Blog（RSS）</source>
+      <title>人工智能是超级充电黑客 本地医院和银行还没准备好</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready</link>
+      <description>3月,Janice Maloon开始从她的非营利组织Vivian's Door接到关于可疑活动的电话. Vivian's Door,总部位于阿拉巴马州,通常为服务不足和少数群体拥有的企业提供培训,资源和社区服务. 这项工作有时使它处于紧密的状态.</description>
+      <pubDate>Mon, 28 Sep 2026 14:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready">The Verge AI</source>
     </item>
     <item>
-      <title>英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统</title>
-      <link>https://www.ithome.com/1/007/937.htm</link>
-      <description>英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。</description>
-      <pubDate>Mon, 28 Sep 2026 09:33:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/007/937.htm</guid>
-      <source url="https://www.ithome.com/1/007/937.htm">IT之家（RSS）</source>
+      <title>Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug</title>
+      <link>https://x.com/bcherny/status/2104638725317923228</link>
+      <description>Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 提速超过 30%，多数任务成本最多降低 30%。作者 Boris Cherny 用视频演示 Sonnet 5.5 修复 Claude Code 中的一个 bug。</description>
+      <pubDate>Mon, 28 Sep 2026 18:25:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bcherny/status/2104638725317923228</guid>
+      <source url="https://x.com/bcherny/status/2104638725317923228">X：Boris Cherny (@bcherny)</source>
     </item>
     <item>
-      <title>基于 Termux 的 Android 手机开发服务器实操</title>
-      <link>https://sspai.com/prime/story/dev-env-on-android-with-termux</link>
-      <description>不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。</description>
-      <pubDate>Mon, 28 Sep 2026 17:33:03 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/prime/story/dev-env-on-android-with-termux</guid>
-      <source url="https://sspai.com/prime/story/dev-env-on-android-with-termux">少数派</source>
+      <title>百炼智能 冯是聪：人工智能如何拯救 B2B 行业的地推获客？ | Founder 100</title>
+      <link>http://www.geekpark.net/news/371386</link>
+      <description>本文首发于 Founder Park 公众号 · 2022 年 7 月 28 日针对个人消费者的广告营销如今已经完全智能化了，你的购买行为、社交媒体的言论都有可能被拿来作为推销的数据来源，甚至有些泛滥的趋势，以至于苹果在 iOS 14 的版本中发布了升级版的「隐私保护」，给予用户可以选择关闭 app 数据跟踪的权利。对于 B2C 营销的公司来说，现在的数据获取和营销智能化，有大把的解决方案。而相比之下，B2B 的营销，却还处于地推获客、靠 CRM 系统电话推广的原始阶段，似乎移动互联网的技术发展完全与它们无关。创业公司百炼智能试图改变这种原始的状态，用最新的人工智能技术，让线下的扫楼、扫街搬到</description>
+      <pubDate>Tue, 29 Sep 2026 02:19:20 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371386</guid>
+      <source url="http://www.geekpark.net/news/371386">极客公园</source>
     </item>
     <item>
-      <title>英伟达联合超100家伙伴推出开放代理安全平台</title>
-      <link>https://x.com/JensenHuang/status/2104499465055023424</link>
-      <description>2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。该平台旨在构建安全代理系统的信任层，强调“安全是信任的基础”，并称其为“AI经济的基石”。</description>
-      <pubDate>Mon, 28 Sep 2026 09:12:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/JensenHuang/status/2104499465055023424</guid>
-      <source url="https://x.com/JensenHuang/status/2104499465055023424">X：Jensen Huang (@JensenHuang)</source>
+      <title>玻色量子 马寅：量子计算+AI，未来已来 | Founder 100</title>
+      <link>http://www.geekpark.net/news/371383</link>
+      <description>本文首发于 Founder Park 公众号 · 2022 年 7 月 14 日摩尔定律正在失效，经典计算机的性能也日益捉襟见肘。单靠堆积硬件的方式，已经无法满足当下骤增的算力需求了。在这其中，量子计算作为最具潜力、也最受关注的新兴技术，吸引了业内不少的关注，也和人工智能一样，成为了科技巨头纷纷投资的领域，谷歌、IBM、微软等都在量子计算领域砸入重金。而当量子计算和人工智能又结合在一起的时候，会带给大家一个怎样的惊喜？以及，这样的结合能带来怎样的商业价值，具体会在哪些领域落地？量子计算的诸多技术路线又该如何选择？作为国内很早就开始探索 AI 和量子计算结合、走光量子路线的玻色量子，他们已经在国</description>
+      <pubDate>Tue, 29 Sep 2026 02:14:44 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371383</guid>
+      <source url="http://www.geekpark.net/news/371383">极客公园</source>
     </item>
     <item>
-      <title>豆包输入法大更新，AI 最自然的入口回到了键盘</title>
-      <link>https://www.ifanr.com/1682232?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI 改变输入法，从少折腾开始#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 28 Sep 2026 09:02:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1682232?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1682232?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>​领骏科技 杨文利：自动驾驶商业化时代已经到来 | Founder 100</title>
+      <link>http://www.geekpark.net/news/371381</link>
+      <description>本文首发于 Founder Park 公众号 · 2022 年 7 月 11 日公司：领骏科技领域：自动驾驶、无人巴士、无人驾驶、智能网联公交、智慧城市、智能交通融资状态：数千万元 PreA+轮主要投资人：武岳峰资本、满帮集团、地平线、赣州市发投官方网站：http://www.leadgentech.ai/今年 4 月，《北京市智能网联汽车政策先行区乘用车无人化道路测试与示范应用管理实施细则》正式发布，在国内首开乘用车无人化运营试点。5 月份，特斯拉 CEO 埃隆・马斯克在巴西接受采访时表示，预计特斯拉将在大约一年内推出完全无需人工驾驶的汽车。6 月 27 日，浙江德清成为全国首个颁发 L4</description>
+      <pubDate>Tue, 29 Sep 2026 02:11:44 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371381</guid>
+      <source url="http://www.geekpark.net/news/371381">极客公园</source>
     </item>
     <item>
-      <title>MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年</title>
-      <link>https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928</link>
-      <description>MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。</description>
-      <pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928</guid>
-      <source url="https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928">MIT News（RSS）</source>
+      <title>Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%</title>
+      <link>https://x.com/dongxi_nlp/status/2104634260934054237</link>
+      <description>Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。</description>
+      <pubDate>Mon, 28 Sep 2026 18:08:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dongxi_nlp/status/2104634260934054237</guid>
+      <source url="https://x.com/dongxi_nlp/status/2104634260934054237">X：马东锡 NLP (@dongxi_nlp)</source>
     </item>
     <item>
-      <title>Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式</title>
-      <link>https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</link>
-      <description>Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。</description>
-      <pubDate>Mon, 28 Sep 2026 07:33:29 +0000</pubDate>
-      <guid isPermaLink="true">https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</guid>
-      <source url="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5">Hacker News：AI 热帖</source>
+      <title>GPT-6 Astra 实践:将想法转化为项目</title>
+      <link>https://www.youtube.com/watch?v=6wNqpZdHE_s</link>
+      <description>看看OpenAI开发者体验团队的成员正在和Astra一起构建什么,从YouTube缩略图生成器和视觉学习工具到音乐工作流程,硬件原型和战术RPG。团队分享Astra如何帮助他们将定义松散的想法转化为工作项目,导航</description>
+      <pubDate>Mon, 28 Sep 2026 18:05:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=6wNqpZdHE_s</guid>
+      <source url="https://www.youtube.com/watch?v=6wNqpZdHE_s">OpenAI</source>
     </item>
   </channel>
 </rss>
