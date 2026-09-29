@@ -5,15 +5,111 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 01:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:21:57 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>和四位国内创业者聊一聊，AIGC 创业的机会在哪里？</title>
-      <link>http://www.geekpark.net/news/371419</link>
-      <description>本文首发于 Founder Park 公众号 · 2022 年 11 月 10 日人人都在聊 AIGC（AI Generated Content，人工智能生成内容）。先是今年 9 月份一幅由 AI 绘图工具 Midjourney 创作的作品《太空歌剧院》获得了艺术比赛的首奖引起争议，而与此同时，Stable Diffusion、Copy.ai、Jasper.ai 等多个 AIGC 平台宣布了融资消息，一时间涌现出了多个独角兽公司。另一方面，AIGC 正面临着不少商业和技术的争议，内容本身的版权、良品率和工业标准问题，技术伦理的挑战，以及算力可能会集中在头部大公司的问题，未来的新机会究竟在哪里尚</description>
-      <pubDate>Tue, 29 Sep 2026 09:40:59 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371419</guid>
-      <source url="http://www.geekpark.net/news/371419">极客公园</source>
+      <title>OpenAI因新模型太强叫停发布</title>
+      <link>https://www.qbitai.com/2026/09/499140.html</link>
+      <description>AGI计划暂停。</description>
+      <pubDate>Tue, 29 Sep 2026 07:49:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499140.html</guid>
+      <source url="https://www.qbitai.com/2026/09/499140.html">量子位</source>
+    </item>
+    <item>
+      <title>Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶</title>
+      <link>http://www.geekpark.net/news/371493</link>
+      <description>头图来源：Manus &amp;nbsp; 突然地，Manus 在官网和社交平台上公布了 Manus 2.0 版本的更新。 这并非一次简单的产品迭代，更像是Manus 团队尝试将当下所有最热门的 AI 场景和功能，融合到一个「AI 全家桶中」。 此次升级中，团队打造的底层 Cascade Agent 框架，能将任务 Token 消耗减少 23.2%，任务完成时间缩短 28.2%，运行成本降低 32%。同时，Manus 现在也提供「云电脑」的选项供用户选择。 向上，从视频编辑、游戏开发、远程控制和 AI Studio，Manus 为所有用户常用的场景，提供了相关产品。 Manus 正式推出个人助手应用</description>
+      <pubDate>Tue, 29 Sep 2026 13:27:55 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371493</guid>
+      <source url="http://www.geekpark.net/news/371493">极客公园</source>
+    </item>
+    <item>
+      <title>将人工智能带到自主系统 -- -- 从认知到集体智能</title>
+      <link>https://arxiv.org/abs/2609.30291</link>
+      <description>本条的目的是强调自主系统作为人工智能发展的终极阶段的中心作用,解释需要连接主义人工智能和象征性人工智能相结合的根本技术挑战,并进化.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30291</guid>
+      <source url="https://arxiv.org/abs/2609.30291">ArXiv AI</source>
+    </item>
+    <item>
+      <title>范围奔驰:在目标压力下,特工们是否保留交战边界?</title>
+      <link>https://arxiv.org/abs/2609.30325</link>
+      <description>在网络应用和网络渗透测试中,代理人的部署越来越具有真正的自主性,在测试中,单一的超出范围的行动可以突破客户的接触界限。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30325</guid>
+      <source url="https://arxiv.org/abs/2609.30325">ArXiv AI</source>
+    </item>
+    <item>
+      <title>什么时候一个多代理代码法官实际上被禁足了? 两个无标签的测量, 一个法官那个下降的猜测</title>
+      <link>https://arxiv.org/abs/2609.30328</link>
+      <description>当一种语言模型判断另一种语言的代码是否正确时,它不报告缺乏证据的情况,它以附加的推理返回一个充满信心的判决,与它有理由作出的判决是分不开的。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30328</guid>
+      <source url="https://arxiv.org/abs/2609.30328">ArXiv AI</source>
+    </item>
+    <item>
+      <title>连接LLM代理和数据空间:利用示范背景议定书的建筑调解方法</title>
+      <link>https://arxiv.org/abs/2609.30341</link>
+      <description>数据空间能够跨越组织界限进行主权和受管理的数据共享,但由于概率语言模型互动与策略驱动的数据基础设施之间的不匹配,它们与人工智能代理人的整合仍然具有挑战性</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30341</guid>
+      <source url="https://arxiv.org/abs/2609.30341">ArXiv AI</source>
+    </item>
+    <item>
+      <title>《隐形外加》,《共同伤害:技能连锁攻击技能代理系统》</title>
+      <link>https://arxiv.org/abs/2609.30383</link>
+      <description>技能是一组模块化的自然语言指令、可执行脚本和参考资源,一个代理在运行时可以加载,以扩展其执行特定任务的能力。因此,基于技能的代理系统能够灵活地重复使用th。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30383</guid>
+      <source url="https://arxiv.org/abs/2609.30383">ArXiv AI</source>
+    </item>
+    <item>
+      <title>HybridInfer:热-智能强化-学习级跑道,用于On-Device, Edge,和 Cloud LLM 推论</title>
+      <link>https://arxiv.org/abs/2609.30270</link>
+      <description>对小语言模型的在线推论使用户数据保持局部性,工作离线,且不产生每桶成本,因此,在适当时,在线推论更受欢迎。但是,它受热限制,而且我发现约束比一个更尖锐。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30270</guid>
+      <source url="https://arxiv.org/abs/2609.30270">ArXiv ML</source>
+    </item>
+    <item>
+      <title>当预设指标变为负值时:学习-时间结合和跨环境通化</title>
+      <link>https://arxiv.org/abs/2609.30271</link>
+      <description>适应性优化器通常通过二进制估计的固定功率进行参数化. 现有的部分适应性方法研究了动力等更新与标准亚当平方根之间的活性能,而这个活性能的相互作用</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30271</guid>
+      <source url="https://arxiv.org/abs/2609.30271">ArXiv ML</source>
+    </item>
+    <item>
+      <title>ENAS: 资源约束微控制器上的 TinyML 高效硬件- 智能神经架构搜索框架</title>
+      <link>https://arxiv.org/abs/2609.30272</link>
+      <description>我们提出\textbf{ENAS},一个硬件意识神经结构搜索(NAS)框架,它结合了静态可行性检查,基于单元格的搜索空间支持标准,可深度分隔,以及带有可选跳过连接的瓶颈块,一个</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30272</guid>
+      <source url="https://arxiv.org/abs/2609.30272">ArXiv ML</source>
+    </item>
+    <item>
+      <title>离线策略评价作为设计适应性实验的决策支持工具</title>
+      <link>https://arxiv.org/abs/2609.30273</link>
+      <description>我们调查如何利用来自固定随机化实验(A/B测试)的历史数据来为基于背景土匪的适应性实验的部署提供信息。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30273</guid>
+      <source url="https://arxiv.org/abs/2609.30273">ArXiv ML</source>
+    </item>
+    <item>
+      <title>余弦相似性不是证据:测量量化下可解释性转移的噪声下限</title>
+      <link>https://arxiv.org/abs/2609.30275</link>
+      <description>报告的统计数据没有解释所需的数量,不是证据。我们提出这一理论是人工智能安全的具体做法。可解释性文物是根据完全精确的权重校正的,部署在被量化的权重和证书上。</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.30275</guid>
+      <source url="https://arxiv.org/abs/2609.30275">ArXiv ML</source>
+    </item>
+    <item>
+      <title>路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元</title>
+      <link>https://x.com/rohanpaul_ai/status/2104758396474057192</link>
+      <description>路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。</description>
+      <pubDate>Tue, 29 Sep 2026 02:21:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104758396474057192</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2104758396474057192">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
       <title>OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施</title>
@@ -48,12 +144,12 @@
       <source url="https://www.ithome.com/1/008/090.htm">IT之家（RSS）</source>
     </item>
     <item>
-      <title>Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元</title>
-      <link>https://www.ithome.com/1/008/082.htm</link>
-      <description>据路透社看到的 Anthropic IPO 招股书，公司 2025 年净亏损 420 亿美元，营收增长 12 倍接近 46 亿美元，并计划未来一年投入 5,180 亿美元用于云服务与算力基础设施，上市后估值有望突破 2 万亿美元。</description>
-      <pubDate>Mon, 28 Sep 2026 23:40:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/008/082.htm</guid>
-      <source url="https://www.ithome.com/1/008/082.htm">IT之家（RSS）</source>
+      <title>AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道</title>
+      <link>http://www.geekpark.net/news/371359</link>
+      <description>Manus 发布 2.0，新增云电脑、远程控制及个人 AI 助手 Cue 9 月 28 日，Manus 发布 2.0 版本，升级自研 Cascade Agent 框架，并推出云电脑、视频编辑、游戏开发及个人 AI 助手 Cue。据官方数据，新框架可使任务 Token 消耗减少 23.2%、完成时间缩短 28.2%、运行成本降低 32%。 升级后的 Manus Studio 支持文档、表格、网站和视频等内容创作，用户可在视频时间线上手动修改素材，再交由 AI 继续编辑。新增远程控制功能允许用户通过手机指挥已授权的电脑，查找文件或操作应用；自动化任务也可由新邮件、日历变更等事件触发，云电脑则为持续</description>
+      <pubDate>Tue, 29 Sep 2026 08:07:40 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371359</guid>
+      <source url="http://www.geekpark.net/news/371359">极客公园</source>
     </item>
     <item>
       <title>OpenAI 上线对齐失效报告网站，披露九起智能体失控事件</title>
@@ -64,108 +160,12 @@
       <source url="https://www.ithome.com/1/008/079.htm">IT之家（RSS）</source>
     </item>
     <item>
-      <title>Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05</title>
-      <link>https://x.com/arena/status/2104673568776990762</link>
-      <description>Arena 公布 GPT-6 Luna (Max) 在 Agent Arena 排名第 23，基于 8K 真实智能体会话，净提升 +1.6%，比 GPT-5.6 Luna (xHigh) 上升 6 位。</description>
-      <pubDate>Mon, 28 Sep 2026 20:44:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2104673568776990762</guid>
-      <source url="https://x.com/arena/status/2104673568776990762">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>World Labs 宣布加入 AMD</title>
-      <link>https://x.com/theworldlabs/status/2104665621120311465</link>
-      <description>World Labs 官方宣布加入 AMD。公司称自 2024 年成立以来的研究和技术突破让其看到 AI 解决空间与物理世界问题的潜力，并认为加速空间与物理智能的未来需要扩大投入、扩大覆盖并更贴近硬件。</description>
-      <pubDate>Mon, 28 Sep 2026 20:12:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/theworldlabs/status/2104665621120311465</guid>
-      <source url="https://x.com/theworldlabs/status/2104665621120311465">X：World Labs (@theworldlabs)</source>
-    </item>
-    <item>
-      <title>Databricks 如何让 12000 名员工在模型发布首日用上新前沿模型</title>
-      <link>https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1</link>
-      <description>Databricks 分享其让全部员工在模型发布首日即可试用新模型的内部流程，依托 Unity Gateway 做配置分发、治理与可观测性。流程分三步：立即以实验标签开放新模型、用四类按人预算控制成本、再依据内部基准、用户反馈和 OpenTelemetry 成本追踪决定推广或下线。</description>
-      <pubDate>Mon, 28 Sep 2026 20:11:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1</guid>
-      <source url="https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1">Databricks：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞</title>
-      <link>https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</link>
-      <description>GitHub Security Lab 发布开源 seclab-taskflows 任务流，通过 gather_mobile_entry_point_info.yaml 和 classify_application_local.yaml 等提示词引导 LLM 审计 Android 应用，已发现并报告 24 个漏洞。</description>
-      <pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</guid>
-      <source url="https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/">GitHub Blog</source>
-    </item>
-    <item>
-      <title>OpenAI的人工智能特工需要追赶</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent</link>
-      <description>OpenAI普及了现代基因人工智能聊天器,但随着其2026年的DevDay事件临近,它落后于该行业最热门的类别之一:持续运行,消费者化的人工智能代理。星期二,它可能会尝试在这场比赛中捕捉领先者。 传言很多,OpenAI wi。</description>
-      <pubDate>Mon, 28 Sep 2026 14:45:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent">The Verge AI</source>
-    </item>
-    <item>
-      <title>Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5</title>
-      <link>https://x.com/ArtificialAnlys/status/2104640155843989864</link>
-      <description>Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。</description>
-      <pubDate>Mon, 28 Sep 2026 18:31:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2104640155843989864</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2104640155843989864">X：Artificial Analysis (@ArtificialAnlys)</source>
-    </item>
-    <item>
-      <title>Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测</title>
-      <link>https://x.com/arena/status/2104640009232117859</link>
-      <description>Arena 宣布 Anthropic 的 Claude Sonnet 5.5 已进入 Agent Arena，并开放投票。Agent Arena 基于全球用户数百万个真实的长程智能体任务评测模型，模型可使用 web search、filesystem 和 terminal 工具完成复杂工作流，榜单用因果追踪方法衡量模型相对平均模型的结果表现。</description>
-      <pubDate>Mon, 28 Sep 2026 18:30:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2104640009232117859</guid>
-      <source url="https://x.com/arena/status/2104640009232117859">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>人工智能是超级充电黑客 本地医院和银行还没准备好</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready</link>
-      <description>3月,Janice Maloon开始从她的非营利组织Vivian's Door接到关于可疑活动的电话. Vivian's Door,总部位于阿拉巴马州,通常为服务不足和少数群体拥有的企业提供培训,资源和社区服务. 这项工作有时使它处于紧密的状态.</description>
-      <pubDate>Mon, 28 Sep 2026 14:30:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready">The Verge AI</source>
-    </item>
-    <item>
-      <title>GPT-6 Astra 实践:将想法转化为项目</title>
-      <link>https://www.youtube.com/watch?v=6wNqpZdHE_s</link>
-      <description>看看OpenAI开发者体验团队的成员正在和Astra一起构建什么,从YouTube缩略图生成器和视觉学习工具到音乐工作流程,硬件原型和战术RPG。团队分享Astra如何帮助他们将定义松散的想法转化为工作项目,导航</description>
-      <pubDate>Mon, 28 Sep 2026 18:05:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=6wNqpZdHE_s</guid>
-      <source url="https://www.youtube.com/watch?v=6wNqpZdHE_s">OpenAI</source>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%</title>
-      <link>https://x.com/arena/status/2104617283679379704</link>
-      <description>Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。</description>
-      <pubDate>Mon, 28 Sep 2026 17:00:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2104617283679379704</guid>
-      <source url="https://x.com/arena/status/2104617283679379704">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>Florida寻求禁止ChatGPT像人一样行动</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids</link>
-      <description>佛罗里达州司法部长詹姆斯·乌斯迈尔(James Uthmeier)呼吁法官阻止OpenAI"Generation ChatGPT虚假的人类属性",在佛罗里达州以安全顾虑为由起诉人工智能公司几个月后,据乌斯迈尔称,用户被人工智能机器人迷惑成一种虚假的安全感,作为"ChatGPT使用.</description>
-      <pubDate>Mon, 28 Sep 2026 13:00:23 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI 继续推平数学家</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group</link>
-      <description>在几个月的混乱中, OpenAI 已经证明它能够以显著的一致性做两件事:在数学上取得令人印象深刻的突破,然后将它们宣布为大错特错。 OpenAI 现在正试图做得更好。 OpenAI 的最近一次修复尝试也失败了。 OpenAI 试图修复断裂</description>
-      <pubDate>Mon, 28 Sep 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group">The Verge AI</source>
-    </item>
-    <item>
-      <title>Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁</title>
-      <link>https://x.com/AravSrinivas/status/2104597362475708781</link>
-      <description>Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。</description>
-      <pubDate>Mon, 28 Sep 2026 15:41:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AravSrinivas/status/2104597362475708781</guid>
-      <source url="https://x.com/AravSrinivas/status/2104597362475708781">X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)</source>
+      <title>AMD正在收购人工智能公司 世界实验室 价值超过80亿美元的交易</title>
+      <link>https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</link>
+      <description>AMD今天宣布,它正在收购一个人工智能研究实验室World Labs,这个实验室是由著名研究者Fei-Fei Li博士共同创立的,在一个价值约82亿美元的所有股票交易中. World Labs于2024年推出,并在几个月内价值达10亿美元. Startup推出了第一个commerci.</description>
+      <pubDate>Mon, 28 Sep 2026 17:31:35 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</guid>
+      <source url="https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal">The Verge AI</source>
     </item>
   </channel>
 </rss>
