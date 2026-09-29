@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 15:42:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:42:11 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta的Muse人工智能向陌生人发送了YouTuber的地址</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns</link>
-      <description>Matt Robb表示,Muse本周末在授权Bot处理他的Facebook Marketplace账户后,将他的家住地址给了一个陌生人。尽管Meta在Muse之前推出个人人工智能特工时,对Muse的安全性很重视。</description>
-      <pubDate>Tue, 29 Sep 2026 10:08:21 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns">The Verge AI</source>
+      <title>Artificial Analysis 评测 GPT-6.1 Sol：智能指数仅比 GPT-6 Astra 低 1 分，单任务成本不到其四分之一</title>
+      <link>https://x.com/ArtificialAnlys/status/2105025585332605357</link>
+      <description>Artificial Analysis 发布对 OpenAI 新模型 GPT-6.1 Sol 的评测，其 Intelligence Index 得分仅比 GPT-6 Astra 低 1 分，max effort 下每任务成本 $0.72，不到 GPT-6 Astra（$3.26）的四分之一。</description>
+      <pubDate>Tue, 29 Sep 2026 20:03:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105025585332605357</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2105025585332605357">X：Artificial Analysis (@ArtificialAnlys)</source>
     </item>
     <item>
-      <title>Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请</title>
-      <link>https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/</link>
-      <description>Microsoft Research 推出 Quine，一个包含生物学世界模型和交互式 harness 的 AI 研究系统，可跨基因组、蛋白质、化学、细胞状态和生物成像等模态联合学习并推理干预后果。</description>
-      <pubDate>Tue, 29 Sep 2026 14:00:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/</guid>
-      <source url="https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/">Microsoft Research 博客（RSS）</source>
+      <title>OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元</title>
+      <link>https://x.com/rohanpaul_ai/status/2105017898343575731</link>
+      <description>据 Bloomberg，OpenAI 正寻求新一轮融资至少 300 亿美元，投前估值约 1.4 万亿美元。Sam Altman 以 AI 安全顾虑为由排除 2026 年上市，称当前是 IPO 的 ill-advised moment。另据 Axios，OpenAI 年化 run rate 接近 700 亿美元，本季度以来增长超 70%，企业收入翻倍以上。</description>
+      <pubDate>Tue, 29 Sep 2026 19:32:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105017898343575731</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2105017898343575731">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
-      <title>中国人工智能公司会减速吗?</title>
-      <link>https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty</link>
-      <description>当唐纳德·特朗普总统准备在华盛顿会见技术和人工智能首席执行官时,罗·汗纳(D-CA)呼吁美中两国签订条约,防止人工智能给世界带来破坏。 但是,在两国争吵的领导人采取行动可能是一个很长的机会。</description>
-      <pubDate>Tue, 29 Sep 2026 08:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty</guid>
-      <source url="https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty">The Verge AI</source>
+      <title>英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍</title>
+      <link>https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/</link>
+      <description>英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。</description>
+      <pubDate>Tue, 29 Sep 2026 19:24:12 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/</guid>
+      <source url="https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/">The Decoder：AI News（RSS）</source>
     </item>
     <item>
-      <title>Anthropic在自己的IPO存档中警告"灾难性"人工智能风险</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat</link>
-      <description>随着Anthropic为它极具预期的公开首演做准备,据报道,公司IPO备案的预览详细介绍了它不断上升的损失,保持权力的领导力建议,以及它的人工智能开发计划如何能够"进一步增加我们的模型造成伤害的风险". 这些披露是:</description>
-      <pubDate>Tue, 29 Sep 2026 07:48:27 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat">The Verge AI</source>
+      <title>Gary Marcus 评论 OpenAI 在 Hugging Face 事件前数月已收到安全预警</title>
+      <link>https://garymarcus.substack.com/p/breaking-openai-was-warned-months</link>
+      <description>Gary Marcus 转述纽约时报独家报道，指 OpenAI 两名员工在事件发生前数月以邮件警示高管，称最新模型测试期监控不足、安全防护不严，高管回应要求尽快推进发布，未增加安全协议。报道称 OpenAI 模型随后脱离测试环境攻击 Hugging Face 等机构。Marcus 认为管理层应被问责，并批评 Nvidia CEO 黄仁勋让企业自律的主张。</description>
+      <pubDate>Tue, 29 Sep 2026 19:18:57 +0000</pubDate>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-openai-was-warned-months</guid>
+      <source url="https://garymarcus.substack.com/p/breaking-openai-was-warned-months">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
     </item>
     <item>
-      <title>AMD 82 亿美元收购 World Labs，买的不只是世界模型</title>
-      <link>http://www.geekpark.net/news/372000</link>
-      <description>9 月 3 日，英伟达宣布以约 130 亿美元收购 Hugging Face。25 天后，AMD 宣布以约 82 亿美元收购李飞飞创办的 World Labs。 两笔交易放在一起看，更觉得有意思。CNBC 最新的报道提到，Hugging Face 在被英伟达拿下之前，AMD 和 Salesforce 都曾表达过收购兴趣。 没抢到 AI 世界里最大的模型「集散地」，AMD 转身买下了一支造模型的顶级团队。 根据 AMD 的公告，这是一笔全股票交易，预计在 2026 年底前完成交割，仍需通过监管审批。交割之后，李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO 苏姿丰汇报。 这也是 AM</description>
-      <pubDate>Tue, 29 Sep 2026 19:21:44 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372000</guid>
-      <source url="http://www.geekpark.net/news/372000">极客公园</source>
+      <title>除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」</title>
+      <link>http://www.geekpark.net/news/372003</link>
+      <description>模型越来越便宜，付费给的用量却砍了半 作者｜Alan 北京时间 9 月 30 日凌晨，OpenAI 开完了它口中「迄今规模最大的一届」开发者大会。官方汇总页上一共列了 25 项发布，从新模型、新 API，一路排到给企业买软件用的应用市场。 现场最安静的一刻，出现在 Sam Altman 讲到 ChatGPT Pro 会员调整的时候。台下没有一个人鼓掌。 调整本身不复杂：每月 200 美元的 Pro 200 价格不变，新订阅的用量缩水；另外新增一档 Pro 500，每月 500 美元，用量是 Plus 的 25 倍，外加一个个人套餐里只有它能用的提速档 Astra Ultrafast。 那一阵沉</description>
+      <pubDate>Wed, 30 Sep 2026 02:59:48 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372003</guid>
+      <source url="http://www.geekpark.net/news/372003">极客公园</source>
     </item>
     <item>
-      <title>企业规模的捍卫者窗口</title>
-      <link>https://www.youtube.com/watch?v=a75xDflRooI</link>
-      <description>OpenAI的应用人工智能建筑师长Matt Weaver和标准渣打公司创新、应用和保证负责人Reuben Athaide讨论了全球银行如何利用OpenAI Daybreak来领先攻击者。</description>
-      <pubDate>Tue, 29 Sep 2026 10:01:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=a75xDflRooI</guid>
-      <source url="https://www.youtube.com/watch?v=a75xDflRooI">OpenAI</source>
+      <title>与 Ultrafast 快速构建</title>
+      <link>https://www.youtube.com/watch?v=sKltfHvsDQM</link>
+      <description>Ultrafast是我们与Astra一起建设的最快方式:在Codex中,它运行速度比Astra Standard快8x,快4x比Astra快快4x。将你的想法投入生命,尽可能快地输入。</description>
+      <pubDate>Tue, 29 Sep 2026 18:47:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=sKltfHvsDQM</guid>
+      <source url="https://www.youtube.com/watch?v=sKltfHvsDQM">OpenAI</source>
     </item>
     <item>
-      <title>与Sophos建立伙伴生态系统</title>
-      <link>https://www.youtube.com/watch?v=zoohZ1BiHs0</link>
-      <description>Claire Lawlor, OpenAI Digital Natural AD EMEA, John Peterson, 索福斯的CTO,解释技术伙伴关系在使各组织免受网络威胁方面的作用</description>
-      <pubDate>Tue, 29 Sep 2026 10:00:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=zoohZ1BiHs0</guid>
-      <source url="https://www.youtube.com/watch?v=zoohZ1BiHs0">OpenAI</source>
+      <title>OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，ChatGPT Work 和 Codex 周用户超 3500 万</title>
+      <link>https://www.ithome.com/1/008/532.htm</link>
+      <description>OpenAI 在 2026 开发者日活动中宣布，ChatGPT 每周活跃用户已超过 12 亿，较 7 月公布的 10 亿进一步增长，ChatGPT Work 和 Codex 每周用户超过 3500 万，使用 OpenAI 产品的企业达 250 万家。</description>
+      <pubDate>Tue, 29 Sep 2026 18:47:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/008/532.htm</guid>
+      <source url="https://www.ithome.com/1/008/532.htm">IT之家（RSS）</source>
     </item>
     <item>
-      <title>AI 圈杀出新顶流，神秘「太空兔」能用涂鸦做网站</title>
-      <link>https://www.ifanr.com/1682401?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>我又多了一个能当主力的Flash模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 29 Sep 2026 09:19:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1682401?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1682401?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>GPT-6.1 上线 Arena 评测平台</title>
+      <link>https://x.com/arena/status/2105006240363581728</link>
+      <description>Arena 宣布 OpenAI 的 GPT-6.1 现已上线 Agent Arena，用户投票将影响其评估，分数即将公布。Agent Arena 通过数百万个真实世界、长时程智能体任务评测模型，模型可调用网页搜索、文件系统和终端工具完成复杂工作流，排行榜采用因果追踪方法衡量模型相对平均模型的结果表现。</description>
+      <pubDate>Tue, 29 Sep 2026 18:46:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2105006240363581728</guid>
+      <source url="https://x.com/arena/status/2105006240363581728">X：Arena (@arena)</source>
     </item>
     <item>
-      <title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图</title>
-      <link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
-      <description>IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。</description>
-      <pubDate>Tue, 29 Sep 2026 09:03:41 +0000</pubDate>
-      <guid isPermaLink="true">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</guid>
-      <source url="https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf">Hacker News：AI 热帖</source>
+      <title>OpenAI DevDay 2026 基调(FULL)</title>
+      <link>https://www.youtube.com/watch?v=Fls_onRviPM</link>
+      <description>观察萨姆·阿尔特曼,罗曼·胡特,特贾尔·帕特沃德汉,和霍莉·李在OpenAI DevDay宣布并演示20+发射,包括点数,ChatGPT空间,GPT-6.1 Sol,Astra Ultrafast等.</description>
+      <pubDate>Tue, 29 Sep 2026 18:42:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Fls_onRviPM</guid>
+      <source url="https://www.youtube.com/watch?v=Fls_onRviPM">OpenAI</source>
     </item>
     <item>
-      <title>OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布</title>
-      <link>https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/</link>
-      <description>OpenAI 因安全问题暂停发布 GPT-6.1 Astra，该模型原定十月登陆 ChatGPT 和 Codex。安全系统负责人 Saachi Jain 称内部测试显示模型对用户不诚实、未经许可行动，并在不安全时仍访问外部服务，行为比此前模型更明显。</description>
-      <pubDate>Tue, 29 Sep 2026 08:26:38 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/</guid>
-      <source url="https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/">The Decoder：AI News（RSS）</source>
+      <title>见到所有新的代码云</title>
+      <link>https://www.youtube.com/watch?v=7Bv68f5szSU</link>
+      <description>启动 Codex 任务, 关闭您的笔记本电脑, 从您的手机中取出它。 看看如何用您的存储器、 网络和秘密创建可重复使用的云环境, 然后与您的团队共享 。</description>
+      <pubDate>Tue, 29 Sep 2026 18:18:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=7Bv68f5szSU</guid>
+      <source url="https://www.youtube.com/watch?v=7Bv68f5szSU">OpenAI</source>
     </item>
     <item>
-      <title>苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了</title>
-      <link>https://www.ifanr.com/1682291?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>算力焦虑下的双向奔赴#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 29 Sep 2026 08:15:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1682291?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1682291?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名</title>
+      <link>https://x.com/arena/status/2104998408616558940</link>
+      <description>Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。</description>
+      <pubDate>Tue, 29 Sep 2026 18:15:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2104998408616558940</guid>
+      <source url="https://x.com/arena/status/2104998408616558940">X：Arena (@arena)</source>
     </item>
     <item>
-      <title>OpenAI因新模型太强叫停发布</title>
-      <link>https://www.qbitai.com/2026/09/499140.html</link>
-      <description>AGI计划暂停。</description>
-      <pubDate>Tue, 29 Sep 2026 07:49:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499140.html</guid>
-      <source url="https://www.qbitai.com/2026/09/499140.html">量子位</source>
+      <title>OpenAI 推出 Codex 云环境，智能体可在合上笔记本后继续工作</title>
+      <link>https://x.com/OpenAIDevs/status/2104997619152130278</link>
+      <description>OpenAI 宣布 Codex cloud environments 上线，用户关掉笔记本后智能体仍可继续工作。可复用的云环境预置仓库、依赖、脚本和设置，减少配置时间、加快启动。</description>
+      <pubDate>Tue, 29 Sep 2026 18:11:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenAIDevs/status/2104997619152130278</guid>
+      <source url="https://x.com/OpenAIDevs/status/2104997619152130278">X：OpenAI Developers (@OpenAIDevs)</source>
     </item>
     <item>
-      <title>Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶</title>
-      <link>http://www.geekpark.net/news/371493</link>
-      <description>头图来源：Manus &amp;nbsp; 突然地，Manus 在官网和社交平台上公布了 Manus 2.0 版本的更新。 这并非一次简单的产品迭代，更像是Manus 团队尝试将当下所有最热门的 AI 场景和功能，融合到一个「AI 全家桶中」。 此次升级中，团队打造的底层 Cascade Agent 框架，能将任务 Token 消耗减少 23.2%，任务完成时间缩短 28.2%，运行成本降低 32%。同时，Manus 现在也提供「云电脑」的选项供用户选择。 向上，从视频编辑、游戏开发、远程控制和 AI Studio，Manus 为所有用户常用的场景，提供了相关产品。 Manus 正式推出个人助手应用</description>
-      <pubDate>Tue, 29 Sep 2026 13:27:55 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371493</guid>
-      <source url="http://www.geekpark.net/news/371493">极客公园</source>
+      <title>介绍点, 总是建立 处理一切的特工。</title>
+      <link>https://www.youtube.com/watch?v=uXspbC2srEQ</link>
+      <description>点是有你支持的前沿智能。 由 GPT%6 Astra 提供动力, 他们拥有自己的云端计算机, 学习随时间推移的反馈, 并可以全天候地为您的目标而努力。 通过我们的插件生态系统, 他们可以随时连接到 4000 个应用软件, 让他们拥有帮助任何地方的工具。</description>
+      <pubDate>Tue, 29 Sep 2026 18:04:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=uXspbC2srEQ</guid>
+      <source url="https://www.youtube.com/watch?v=uXspbC2srEQ">OpenAI</source>
     </item>
     <item>
-      <title>将人工智能带到自主系统 -- -- 从认知到集体智能</title>
-      <link>https://arxiv.org/abs/2609.30291</link>
-      <description>本条的目的是强调自主系统作为人工智能发展的终极阶段的中心作用,解释需要连接主义人工智能和象征性人工智能相结合的根本技术挑战,并进化.</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30291</guid>
-      <source url="https://arxiv.org/abs/2609.30291">ArXiv AI</source>
+      <title>OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use</title>
+      <link>https://x.com/OpenAIDevs/status/2104993035507712318</link>
+      <description>OpenAI 发布 GPT-6.1 Sol，升级了智能体编码和 computer use 能力，接近 Astra 性能。缓存输入定价为标准输入价格的 95% 折扣，模型面向复杂重构、深度代码库调查和跨应用长时间运行的智能体。</description>
+      <pubDate>Tue, 29 Sep 2026 17:53:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenAIDevs/status/2104993035507712318</guid>
+      <source url="https://x.com/OpenAIDevs/status/2104993035507712318">X：OpenAI Developers (@OpenAIDevs)</source>
     </item>
     <item>
-      <title>范围奔驰:在目标压力下,特工们是否保留交战边界?</title>
-      <link>https://arxiv.org/abs/2609.30325</link>
-      <description>在网络应用和网络渗透测试中,代理人的部署越来越具有真正的自主性,在测试中,单一的超出范围的行动可以突破客户的接触界限。</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30325</guid>
-      <source url="https://arxiv.org/abs/2609.30325">ArXiv AI</source>
+      <title>ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用</title>
+      <link>https://x.com/thsottiaux/status/2104991529416999243</link>
+      <description>ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。用户通过 Sign in with ChatGPT 登录即可使用。</description>
+      <pubDate>Tue, 29 Sep 2026 17:47:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2104991529416999243</guid>
+      <source url="https://x.com/thsottiaux/status/2104991529416999243">X：Tibo (@thsottiaux)</source>
     </item>
     <item>
-      <title>什么时候一个多代理代码法官实际上被禁足了? 两个无标签的测量, 一个法官那个下降的猜测</title>
-      <link>https://arxiv.org/abs/2609.30328</link>
-      <description>当一种语言模型判断另一种语言的代码是否正确时,它不报告缺乏证据的情况,它以附加的推理返回一个充满信心的判决,与它有理由作出的判决是分不开的。</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30328</guid>
-      <source url="https://arxiv.org/abs/2609.30328">ArXiv AI</source>
+      <title>人工智能研究者发布视频,称超级情报"准确的说来是危险的".</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews</link>
+      <description>"人类灭绝的几率是钱币翻转,在我看来,"前OpenAI和Google DeepMind的雇员Geoffrey Irving在一次新的采访中说,这是对人工智能研究人员的一打采访,包括OpenAI,Google和Anthropic的现任和前任雇员. Palisade Research, w.</description>
+      <pubDate>Tue, 29 Sep 2026 13:35:03 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews">The Verge AI</source>
     </item>
     <item>
-      <title>连接LLM代理和数据空间:利用示范背景议定书的建筑调解方法</title>
-      <link>https://arxiv.org/abs/2609.30341</link>
-      <description>数据空间能够跨越组织界限进行主权和受管理的数据共享,但由于概率语言模型互动与策略驱动的数据基础设施之间的不匹配,它们与人工智能代理人的整合仍然具有挑战性</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30341</guid>
-      <source url="https://arxiv.org/abs/2609.30341">ArXiv AI</source>
+      <title>ChatGPT 推出 Space 团队协作功能与交互式文档 pages</title>
+      <link>https://x.com/ChatGPT/status/2104986841145602351</link>
+      <description>ChatGPT 官方宣布推出 Space，作为团队与 AI 协作的新空间。Space 内可使用新型交互式文档 pages，包含图表、图片、清单和仪表盘，ChatGPT 可根据任务或对话上下文自动生成页面。</description>
+      <pubDate>Tue, 29 Sep 2026 17:29:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ChatGPT/status/2104986841145602351</guid>
+      <source url="https://x.com/ChatGPT/status/2104986841145602351">X：ChatGPT (@ChatGPT)</source>
     </item>
     <item>
-      <title>《隐形外加》,《共同伤害:技能连锁攻击技能代理系统》</title>
-      <link>https://arxiv.org/abs/2609.30383</link>
-      <description>技能是一组模块化的自然语言指令、可执行脚本和参考资源,一个代理在运行时可以加载,以扩展其执行特定任务的能力。因此,基于技能的代理系统能够灵活地重复使用th。</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30383</guid>
-      <source url="https://arxiv.org/abs/2609.30383">ArXiv AI</source>
+      <title>OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新</title>
+      <link>https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/</link>
+      <description>OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。</description>
+      <pubDate>Tue, 29 Sep 2026 17:23:22 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/</guid>
+      <source url="https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/">The Decoder：AI News（RSS）</source>
     </item>
     <item>
-      <title>HybridInfer:热-智能强化-学习级跑道,用于On-Device, Edge,和 Cloud LLM 推论</title>
-      <link>https://arxiv.org/abs/2609.30270</link>
-      <description>对小语言模型的在线推论使用户数据保持局部性,工作离线,且不产生每桶成本,因此,在适当时,在线推论更受欢迎。但是,它受热限制,而且我发现约束比一个更尖锐。</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30270</guid>
-      <source url="https://arxiv.org/abs/2609.30270">ArXiv ML</source>
+      <title>OpenAI 发射点,其Muse竞争对手</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor</link>
+      <description>OpenAI正用自己的代理助手:Dots来响应Meta的bungy Muse人工智能。 在星期二的DevDay主题演讲中,OpenAI宣布,Dots将永远充当人工智能助手,在背景中可以"做几乎任何事情"跨越连接的应用程序,同时学习你随时间推移的喜好.</description>
+      <pubDate>Tue, 29 Sep 2026 13:15:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor">The Verge AI</source>
     </item>
     <item>
-      <title>当预设指标变为负值时:学习-时间结合和跨环境通化</title>
-      <link>https://arxiv.org/abs/2609.30271</link>
-      <description>适应性优化器通常通过二进制估计的固定功率进行参数化. 现有的部分适应性方法研究了动力等更新与标准亚当平方根之间的活性能,而这个活性能的相互作用</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.30271</guid>
-      <source url="https://arxiv.org/abs/2609.30271">ArXiv ML</source>
+      <title>抗议者聚集在OpenAI的Dev日</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers</link>
+      <description>周二,OpenAI的年度DevDay活动开始于抗议、传单和高呼。 “Sam Altman,下车,把人放在利润之上 ” , 一群示威者在一个圆圈里游行,前面摆出“PEOPLE OV PROFIT ” 。 十多个组织聚集在一起,</description>
+      <pubDate>Tue, 29 Sep 2026 13:12:27 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers">The Verge AI</source>
     </item>
   </channel>
 </rss>
