@@ -430,5 +430,61 @@
     "sourceUrl": "https://x.com/arena/status/2103893011164017018",
     "sourceName": "X：Arena (@arena)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
+    "summary": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
+    "sourceUrl": "https://x.com/ArtificialAnlys/status/2104640155843989864",
+    "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Claude Sonnet 5.5 达到 Artificial Analysis 智能指数第 2 名",
+    "summary": "Artificial Analysis 发布对 Claude Sonnet 5.5 的评测：其智能指数得分 56，max effort 下比 Sonnet 5 高 18 分，升至第 2 名，仅落后 Opus 5.5 (max)。",
+    "sourceUrl": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
+    "sourceName": "Artificial Analysis 完整文章（网页）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40%",
+    "summary": "Fireworks AI 推出 Ember-1，这是基于 Moonshot AI 开源权重 Kimi K3 进行后训练的专用模型。该模型通过优化内部推理过程，在保持任务准确率的同时将生成的推理 Token 减少了约 40%。与单纯降低推理努力程度不同，Ember-1 保留了有用的自我反思并削减了冗余循环。基准测试显示，其在 Terminal Bench 2.1 和 DeepSWE 1.1 上表现优",
+    "sourceUrl": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/",
+    "sourceName": "MarkTechPost（RSS）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
+    "summary": "Arena 公布 GPT-6 Luna (Max) 在 Agent Arena 排名第 23，基于 8K 真实智能体会话，净提升 +1.6%，比 GPT-5.6 Luna (xHigh) 上升 6 位。",
+    "sourceUrl": "https://x.com/arena/status/2104673568776990762",
+    "sourceName": "X：Arena (@arena)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
+    "summary": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
+    "sourceUrl": "https://x.com/arena/status/2104617283679379704",
+    "sourceName": "X：Arena (@arena)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
+    "summary": "H Company 发布通用计算机使用智能体模型系列 Holo4，含 27B dense 和 35B-A3B MoE 两个尺寸，并基于 Nemotron 3 Nano Omni 推出 Holotron4 Nano。",
+    "sourceUrl": "https://huggingface.co/blog/Hcompany/holo4",
+    "sourceName": "Hugging Face：Blog（RSS）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
+    "summary": "Arena 宣布 Anthropic 的 Claude Sonnet 5.5 已进入 Agent Arena，并开放投票。Agent Arena 基于全球用户数百万个真实的长程智能体任务评测模型，模型可使用 web search、filesystem 和 terminal 工具完成复杂工作流，榜单用因果追踪方法衡量模型相对平均模型的结果表现。",
+    "sourceUrl": "https://x.com/arena/status/2104640009232117859",
+    "sourceName": "X：Arena (@arena)",
+    "reviewReason": "awaiting-review"
   }
 ]
