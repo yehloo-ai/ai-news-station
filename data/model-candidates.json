@@ -486,5 +486,61 @@
     "sourceUrl": "https://x.com/arena/status/2104640009232117859",
     "sourceName": "X：Arena (@arena)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
+    "summary": "OpenAI 发布 GPT-6.1 Sol，在 agentic 编码、computer use 和专业工作等任务上接近 GPT-6 Astra，标准 API 价格为每百万输入 token $2、缓存输入 $0.10、输出 $10，约为 Astra 五分之一。",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+    "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。",
+    "sourceUrl": "https://x.com/arena/status/2104998408616558940",
+    "sourceName": "X：Arena (@arena)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Anthropic 评测 GLM-5.3：能自主构建端到端网络漏洞利用且防护易被绕过",
+    "summary": "Anthropic 发布对智谱 GLM-5.3 网络攻击能力的分析，发现其可自主开发端到端漏洞利用，在 ExploitBench 410 次尝试中成功 50 次，接近 Claude Mythos Preview 的 56 次。",
+    "sourceUrl": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+    "sourceName": "Anthropic：Research（发表成果 · 网页）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+    "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
+    "sourceUrl": "https://x.com/OpenAIDevs/status/2105073621144338660",
+    "sourceName": "X：OpenAI Developers (@OpenAIDevs)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "GPT-6.1 Sol 发布 7 天后接替 GPT-6 Sol，智能指数距 GPT-6 Astra 仅 1 分",
+    "summary": "OpenAI 发布 GPT-6.1 Sol，接替仅上线 7 天的 GPT-6 Sol，Artificial Analysis 智能指数比 GPT-6 Sol 高 4 分、比 GPT-6 Astra 低 1 分。",
+    "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+    "sourceName": "Artificial Analysis 完整文章（网页）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "GPT-6.1 上线 Arena 评测平台",
+    "summary": "Arena 宣布 OpenAI 的 GPT-6.1 现已上线 Agent Arena，用户投票将影响其评估，分数即将公布。Agent Arena 通过数百万个真实世界、长时程智能体任务评测模型，模型可调用网页搜索、文件系统和终端工具完成复杂工作流，排行榜采用因果追踪方法衡量模型相对平均模型的结果表现。",
+    "sourceUrl": "https://x.com/arena/status/2105006240363581728",
+    "sourceName": "X：Arena (@arena)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
+    "summary": "NVIDIA 发布开源表格基础模型 Kumo Tabular，对带标签表格做单次前向推理即可完成分类和回归，无需训练、调参或特征工程。",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "sourceName": "Hugging Face：Blog（RSS）",
+    "reviewReason": "awaiting-review"
   }
 ]

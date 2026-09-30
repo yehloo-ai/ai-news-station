@@ -270,5 +270,21 @@
     "sourceUrl": "https://www.ithome.com/1/008/082.htm",
     "sourceName": "IT之家（RSS）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+    "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
+    "sourceUrl": "https://x.com/ClementDelangue/status/2104960836796342729",
+    "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元",
+    "summary": "据 Bloomberg，OpenAI 正寻求新一轮融资至少 300 亿美元，投前估值约 1.4 万亿美元。Sam Altman 以 AI 安全顾虑为由排除 2026 年上市，称当前是 IPO 的 ill-advised moment。另据 Axios，OpenAI 年化 run rate 接近 700 亿美元，本季度以来增长超 70%，企业收入翻倍以上。",
+    "sourceUrl": "https://x.com/rohanpaul_ai/status/2105017898343575731",
+    "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+    "reviewReason": "awaiting-review"
   }
 ]
