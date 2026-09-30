@@ -5,15 +5,55 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:21:07 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Artificial Analysis 评测 GPT-6.1 Sol：智能指数仅比 GPT-6 Astra 低 1 分，单任务成本不到其四分之一</title>
-      <link>https://x.com/ArtificialAnlys/status/2105025585332605357</link>
-      <description>Artificial Analysis 发布对 OpenAI 新模型 GPT-6.1 Sol 的评测，其 Intelligence Index 得分仅比 GPT-6 Astra 低 1 分，max effort 下每任务成本 $0.72，不到 GPT-6 Astra（$3.26）的四分之一。</description>
-      <pubDate>Tue, 29 Sep 2026 20:03:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105025585332605357</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2105025585332605357">X：Artificial Analysis (@ArtificialAnlys)</source>
+      <title>OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务</title>
+      <link>https://x.com/OpenAIDevs/status/2105073633731461197</link>
+      <description>OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。</description>
+      <pubDate>Tue, 29 Sep 2026 23:13:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenAIDevs/status/2105073633731461197</guid>
+      <source url="https://x.com/OpenAIDevs/status/2105073633731461197">X：OpenAI Developers (@OpenAIDevs)</source>
+    </item>
+    <item>
+      <title>OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流</title>
+      <link>https://x.com/OpenAIDevs/status/2105073621144338660</link>
+      <description>OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。</description>
+      <pubDate>Tue, 29 Sep 2026 23:13:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenAIDevs/status/2105073621144338660</guid>
+      <source url="https://x.com/OpenAIDevs/status/2105073621144338660">X：OpenAI Developers (@OpenAIDevs)</source>
+    </item>
+    <item>
+      <title>OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了</title>
+      <link>https://www.qbitai.com/2026/09/499246.html</link>
+      <description>今年devday牙膏挤爆</description>
+      <pubDate>Tue, 29 Sep 2026 23:01:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499246.html</guid>
+      <source url="https://www.qbitai.com/2026/09/499246.html">量子位</source>
+    </item>
+    <item>
+      <title>特朗普下令美国政府将人工智能称为"超级情报"(Super Intelligence).</title>
+      <link>https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai</link>
+      <description>美国行政部门不再承认存在"人工智能". 前进,官方策略网站,策略文件和新闻稿将只提及"超级智能",这要归功于唐纳德·特朗普总统签署的一项新的行政命令. "超级一词是t.</description>
+      <pubDate>Tue, 29 Sep 2026 18:25:45 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai</guid>
+      <source url="https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai">The Verge AI</source>
+    </item>
+    <item>
+      <title>Elon Musk的人工智能力量Grokipedia正在再次更新。</title>
+      <link>https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again</link>
+      <description>来自SpaceXAI的人工智能驱动在线百科全书Grokipedia似乎在暂停一个月后再次更新文章. 8月,Lawfare报道说,关于Grokipedia的文章自4月以来一直没有审查过编辑,但该平台的现场更新网站现在显示最近对Grokipedia的各种修改.</description>
+      <pubDate>Tue, 29 Sep 2026 17:49:09 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again</guid>
+      <source url="https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647686841&amp;idx=1&amp;sn=630c0dc22de47c9c2f58bd5253a91a9a&amp;chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&amp;scene=126&amp;sessionid=1790722837#rd</link>
+      <description>作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。</description>
+      <pubDate>Tue, 29 Sep 2026 21:47:43 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647686841&amp;idx=1&amp;sn=630c0dc22de47c9c2f58bd5253a91a9a&amp;chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&amp;scene=126&amp;sessionid=1790722837#rd</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647686841&amp;idx=1&amp;sn=630c0dc22de47c9c2f58bd5253a91a9a&amp;chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&amp;scene=126&amp;sessionid=1790722837#rd">公众号：数字生命卡兹克</source>
     </item>
     <item>
       <title>OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元</title>
@@ -96,14 +136,6 @@
       <source url="https://x.com/arena/status/2104998408616558940">X：Arena (@arena)</source>
     </item>
     <item>
-      <title>OpenAI 推出 Codex 云环境，智能体可在合上笔记本后继续工作</title>
-      <link>https://x.com/OpenAIDevs/status/2104997619152130278</link>
-      <description>OpenAI 宣布 Codex cloud environments 上线，用户关掉笔记本后智能体仍可继续工作。可复用的云环境预置仓库、依赖、脚本和设置，减少配置时间、加快启动。</description>
-      <pubDate>Tue, 29 Sep 2026 18:11:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenAIDevs/status/2104997619152130278</guid>
-      <source url="https://x.com/OpenAIDevs/status/2104997619152130278">X：OpenAI Developers (@OpenAIDevs)</source>
-    </item>
-    <item>
       <title>介绍点, 总是建立 处理一切的特工。</title>
       <link>https://www.youtube.com/watch?v=uXspbC2srEQ</link>
       <description>点是有你支持的前沿智能。 由 GPT%6 Astra 提供动力, 他们拥有自己的云端计算机, 学习随时间推移的反馈, 并可以全天候地为您的目标而努力。 通过我们的插件生态系统, 他们可以随时连接到 4000 个应用软件, 让他们拥有帮助任何地方的工具。</description>
@@ -112,12 +144,12 @@
       <source url="https://www.youtube.com/watch?v=uXspbC2srEQ">OpenAI</source>
     </item>
     <item>
-      <title>OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use</title>
-      <link>https://x.com/OpenAIDevs/status/2104993035507712318</link>
-      <description>OpenAI 发布 GPT-6.1 Sol，升级了智能体编码和 computer use 能力，接近 Astra 性能。缓存输入定价为标准输入价格的 95% 折扣，模型面向复杂重构、深度代码库调查和跨应用长时间运行的智能体。</description>
-      <pubDate>Tue, 29 Sep 2026 17:53:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenAIDevs/status/2104993035507712318</guid>
-      <source url="https://x.com/OpenAIDevs/status/2104993035507712318">X：OpenAI Developers (@OpenAIDevs)</source>
+      <title>OpenAI 开放 ChatGPT 平台，支持用插件扩展构建原生应用</title>
+      <link>https://x.com/thsottiaux/status/2104991765904375896</link>
+      <description>OpenAI 宣布开放平台，开发者可构建带插件扩展的完整原生应用，并直接在 ChatGPT 内发布。平台覆盖超过 12 亿周活跃用户，相关插件将在对话中直接呈现。</description>
+      <pubDate>Tue, 29 Sep 2026 17:48:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2104991765904375896</guid>
+      <source url="https://x.com/thsottiaux/status/2104991765904375896">X：Tibo (@thsottiaux)</source>
     </item>
     <item>
       <title>ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用</title>
@@ -128,44 +160,12 @@
       <source url="https://x.com/thsottiaux/status/2104991529416999243">X：Tibo (@thsottiaux)</source>
     </item>
     <item>
-      <title>人工智能研究者发布视频,称超级情报"准确的说来是危险的".</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews</link>
-      <description>"人类灭绝的几率是钱币翻转,在我看来,"前OpenAI和Google DeepMind的雇员Geoffrey Irving在一次新的采访中说,这是对人工智能研究人员的一打采访,包括OpenAI,Google和Anthropic的现任和前任雇员. Palisade Research, w.</description>
-      <pubDate>Tue, 29 Sep 2026 13:35:03 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews">The Verge AI</source>
-    </item>
-    <item>
-      <title>ChatGPT 推出 Space 团队协作功能与交互式文档 pages</title>
-      <link>https://x.com/ChatGPT/status/2104986841145602351</link>
-      <description>ChatGPT 官方宣布推出 Space，作为团队与 AI 协作的新空间。Space 内可使用新型交互式文档 pages，包含图表、图片、清单和仪表盘，ChatGPT 可根据任务或对话上下文自动生成页面。</description>
-      <pubDate>Tue, 29 Sep 2026 17:29:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ChatGPT/status/2104986841145602351</guid>
-      <source url="https://x.com/ChatGPT/status/2104986841145602351">X：ChatGPT (@ChatGPT)</source>
-    </item>
-    <item>
-      <title>OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新</title>
-      <link>https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/</link>
-      <description>OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。</description>
-      <pubDate>Tue, 29 Sep 2026 17:23:22 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/</guid>
-      <source url="https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI 发射点,其Muse竞争对手</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor</link>
-      <description>OpenAI正用自己的代理助手:Dots来响应Meta的bungy Muse人工智能。 在星期二的DevDay主题演讲中,OpenAI宣布,Dots将永远充当人工智能助手,在背景中可以"做几乎任何事情"跨越连接的应用程序,同时学习你随时间推移的喜好.</description>
-      <pubDate>Tue, 29 Sep 2026 13:15:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor">The Verge AI</source>
-    </item>
-    <item>
-      <title>抗议者聚集在OpenAI的Dev日</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers</link>
-      <description>周二,OpenAI的年度DevDay活动开始于抗议、传单和高呼。 “Sam Altman,下车,把人放在利润之上 ” , 一群示威者在一个圆圈里游行,前面摆出“PEOPLE OV PROFIT ” 。 十多个组织聚集在一起,</description>
-      <pubDate>Tue, 29 Sep 2026 13:12:27 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers">The Verge AI</source>
+      <title>OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动</title>
+      <link>https://openai.com/index/introducing-dots/</link>
+      <description>OpenAI 发布名为 dots 的常驻智能体，由 GPT-6 Astra 驱动，拥有自己的云计算机，可 24/7 持续为用户工作，并通过插件生态连接超过 4,000 款应用。</description>
+      <pubDate>Tue, 29 Sep 2026 17:36:13 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/introducing-dots/</guid>
+      <source url="https://openai.com/index/introducing-dots/">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
     </item>
   </channel>
 </rss>
