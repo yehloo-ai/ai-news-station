@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:37:00 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hugging Face CEO 称收到数千条私信，将花几天逐一处理</title>
+      <link>https://x.com/ClementDelangue/status/2105276853632094607</link>
+      <description>Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。</description>
+      <pubDate>Wed, 30 Sep 2026 12:41:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ClementDelangue/status/2105276853632094607</guid>
+      <source url="https://x.com/ClementDelangue/status/2105276853632094607">X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)</source>
+    </item>
+    <item>
+      <title>蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500#rd</link>
+      <description>蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。</description>
+      <pubDate>Wed, 30 Sep 2026 12:30:49 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500#rd</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500#rd">公众号：蚂蚁百灵（Ling）</source>
+    </item>
+    <item>
+      <title>在特朗普的交易下, 科技领袖会如何自发保护人工智能安全,</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs</link>
+      <description>我们现在掌握了川普总统昨天宣布的“道德约束”人工智能安全交易的全部细节,其中高层主管同意自行管理其人工智能技术。 协议的正式名称是“关于边境责任的联合承诺 ” , 由网络分享。</description>
+      <pubDate>Wed, 30 Sep 2026 08:24:32 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs">The Verge AI</source>
+    </item>
     <item>
       <title>DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec</title>
       <link>https://www.qbitai.com/2026/09/499308.html</link>
@@ -142,30 +166,6 @@
       <pubDate>Wed, 30 Sep 2026 11:02:18 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114945</guid>
       <source url="https://sspai.com/post/114945">少数派</source>
-    </item>
-    <item>
-      <title>DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态</title>
-      <link>https://www.qbitai.com/2026/09/499263.html</link>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 02:53:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499263.html</guid>
-      <source url="https://www.qbitai.com/2026/09/499263.html">量子位</source>
-    </item>
-    <item>
-      <title>Google 与白宫及科技领袖签署 White House Accord on Super Intelligence</title>
-      <link>https://x.com/sundarpichai/status/2105121763176894804</link>
-      <description>Sundar Pichai 宣布 Google 在与特朗普总统、JD Vance、Speaker Johnson 及政府与科技领袖会晤后，签署了 White House Accord on Super Intelligence 及 Joint Commitment on Frontier Responsibilities。</description>
-      <pubDate>Wed, 30 Sep 2026 02:25:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sundarpichai/status/2105121763176894804</guid>
-      <source url="https://x.com/sundarpichai/status/2105121763176894804">X：Sundar Pichai (@sundarpichai)</source>
-    </item>
-    <item>
-      <title>DeepSeek 开源面向华为昇腾平台的基础设施组件</title>
-      <link>https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&amp;mid=2247485843&amp;idx=1&amp;sn=565102c3642d88e814331390bf62d276&amp;chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&amp;scene=126&amp;sessionid=1790739034#rd</link>
-      <description>DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。</description>
-      <pubDate>Wed, 30 Sep 2026 02:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&amp;mid=2247485843&amp;idx=1&amp;sn=565102c3642d88e814331390bf62d276&amp;chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&amp;scene=126&amp;sessionid=1790739034#rd</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&amp;mid=2247485843&amp;idx=1&amp;sn=565102c3642d88e814331390bf62d276&amp;chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&amp;scene=126&amp;sessionid=1790739034#rd">公众号：DeepSeek（深度求索）</source>
     </item>
   </channel>
 </rss>
