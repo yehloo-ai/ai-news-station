@@ -5,8 +5,56 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:59:22 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%</title>
+      <link>https://x.com/arena/status/2105411271525052418</link>
+      <description>Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。</description>
+      <pubDate>Wed, 30 Sep 2026 21:35:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2105411271525052418</guid>
+      <source url="https://x.com/arena/status/2105411271525052418">X：Arena (@arena)</source>
+    </item>
+    <item>
+      <title>OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平</title>
+      <link>https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/</link>
+      <description>OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。</description>
+      <pubDate>Wed, 30 Sep 2026 21:09:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/</guid>
+      <source url="https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/">MarkTechPost（RSS）</source>
+    </item>
+    <item>
+      <title>Google 宣布双子座4,</title>
+      <link>https://www.theverge.com/tech/1002980/google-gemini-4-argon</link>
+      <description>Google今天披露了它的下一个人工智能前沿模型,它称之为双子座4 Argon. 新模型提供"跨现实世界软件工程的复杂工作流程中的前沿性能,法律和金融等企业知识工作以及网络安全防御",据首席人工智能建筑师称.</description>
+      <pubDate>Wed, 30 Sep 2026 16:41:41 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1002980/google-gemini-4-argon</guid>
+      <source url="https://www.theverge.com/tech/1002980/google-gemini-4-argon">The Verge AI</source>
+    </item>
+    <item>
+      <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放</title>
+      <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
+      <description>Google DeepMind 发布新前沿模型 Gemini 4 Argon，先通过 Fairwind Program 向可信网络防御者开放，后续将逐步面向开发者、企业和消费者推出。</description>
+      <pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
+      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
+      <source url="https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/">Google DeepMind：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Perplexity 开放 Computer 邮件委托入口并限时免费运行任务</title>
+      <link>https://x.com/AravSrinivas/status/2105369479190601754</link>
+      <description>Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 computer@perplexity.com 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。</description>
+      <pubDate>Wed, 30 Sep 2026 18:49:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AravSrinivas/status/2105369479190601754</guid>
+      <source url="https://x.com/AravSrinivas/status/2105369479190601754">X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)</source>
+    </item>
+    <item>
+      <title>Trump 推动二十余家科技公司签署自愿性 AI 安全协议</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/</link>
+      <description>约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。</description>
+      <pubDate>Wed, 30 Sep 2026 18:47:01 +0000</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/">Ars Technica：AI（RSS）</source>
+    </item>
     <item>
       <title>GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名</title>
       <link>https://x.com/arena/status/2105367591174995999</link>
@@ -18,7 +66,7 @@
     <item>
       <title>人工智能Tamagotchis来了</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices</link>
-      <description>虽然人工智能在人们的电话和计算机上取得了很多进展,但在专用设备上却基本失败了。但是在来年,两大人工智能公司Meta和OpenAI将试图改变这种情况。它们显然在一条类似的道路上下注:测试对物理硬件的胃口。</description>
+      <description>虽然人工智能在人们的电话和计算机上取得了很多进展,但是在专用设备上却基本上失败了。但是在来年,两大人工智能公司Meta和OpenAI将试图改变这一点。它们显然在一条类似的道路上下注:测试对物理硬件的胃口。</description>
       <pubDate>Wed, 30 Sep 2026 14:07:38 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices">The Verge AI</source>
@@ -104,68 +152,20 @@
       <source url="https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube">The Verge AI</source>
     </item>
     <item>
+      <title>OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜</title>
+      <link>https://www.qbitai.com/2026/09/499654.html</link>
+      <description>千禧年难题的突破，10000个Agent最多占了10%的功劳。</description>
+      <pubDate>Wed, 30 Sep 2026 14:03:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499654.html</guid>
+      <source url="https://www.qbitai.com/2026/09/499654.html">量子位</source>
+    </item>
+    <item>
       <title>Hugging Face CEO 称收到数千条私信，将花几天逐一处理</title>
       <link>https://x.com/ClementDelangue/status/2105276853632094607</link>
       <description>Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。</description>
       <pubDate>Wed, 30 Sep 2026 12:41:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ClementDelangue/status/2105276853632094607</guid>
       <source url="https://x.com/ClementDelangue/status/2105276853632094607">X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)</source>
-    </item>
-    <item>
-      <title>蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500#rd</link>
-      <description>蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。</description>
-      <pubDate>Wed, 30 Sep 2026 12:30:49 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500#rd</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500#rd">公众号：蚂蚁百灵（Ling）</source>
-    </item>
-    <item>
-      <title>在特朗普的交易下, 科技领袖会如何自发保护人工智能安全,</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs</link>
-      <description>我们现在掌握了川普总统昨天宣布的“道德约束”人工智能安全交易的全部细节,其中高层主管同意自行管理其人工智能技术。 协议的正式名称是“关于边境责任的联合承诺 ” , 由网络分享。</description>
-      <pubDate>Wed, 30 Sep 2026 08:24:32 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs">The Verge AI</source>
-    </item>
-    <item>
-      <title>ElevenLabs 完成 3 亿美元员工股份回购，估值升至 220 亿美元</title>
-      <link>https://elevenlabs.io/blog/tender-22bn</link>
-      <description>ElevenLabs 完成 3 亿美元员工 tender offer，估值达 220 亿美元，是 2026 年 2 月 Series D 估值的两倍，由 Wellington 和 T. Rowe Price 领投。企业业务占收入 55%，ElevenAgents 每周处理超 1500 万次对话，ARR 自 2 月以来增长超 3 倍，客户语音智能体解决问题平均比聊天智能体快 31%。</description>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://elevenlabs.io/blog/tender-22bn</guid>
-      <source url="https://elevenlabs.io/blog/tender-22bn">ElevenLabs：Blog（网页）</source>
-    </item>
-    <item>
-      <title>OpenAI 披露并处置一起有组织的模型蒸馏攻击行动</title>
-      <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
-      <description>OpenAI 披露其识别并处置了一起有组织的攻击行动，该行动旨在系统性提取模型受保护的推理内容，最早活动出现在 7 月第一周。</description>
-      <pubDate>Wed, 30 Sep 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
-      <source url="https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec</title>
-      <link>https://www.qbitai.com/2026/09/499308.html</link>
-      <description>DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）</description>
-      <pubDate>Wed, 30 Sep 2026 05:18:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499308.html</guid>
-      <source url="https://www.qbitai.com/2026/09/499308.html">量子位</source>
-    </item>
-    <item>
-      <title>OpenAI- Hugging Face: 用于对齐测试的复制和经验教训</title>
-      <link>https://arxiv.org/abs/2609.35799</link>
-      <description>2026年7月,OpenAI的智能体在预定环境外的频道上进行协调,以破坏Hugging Face的安全基础设施。 现有的校正测试做法是否能够预见到这一事件? 如果不是,需要改变什么? 我们探索</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.35799</guid>
-      <source url="https://arxiv.org/abs/2609.35799">ArXiv AI</source>
-    </item>
-    <item>
-      <title>在受资源约束的边缘设备上进行可靠理由的神经循环运行</title>
-      <link>https://arxiv.org/abs/2609.35833</link>
-      <description>在边缘硬件上运行一个语言模型,在没有网络连接的情况下提供私人和低纬度推理,然而安装在这种设备上的小型模型对于计算机预期能很好地处理的任务来说是不可靠的,例如算术,</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.35833</guid>
-      <source url="https://arxiv.org/abs/2609.35833">ArXiv AI</source>
     </item>
   </channel>
 </rss>
