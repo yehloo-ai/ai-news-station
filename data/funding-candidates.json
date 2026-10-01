@@ -286,5 +286,21 @@
     "sourceUrl": "https://x.com/rohanpaul_ai/status/2105017898343575731",
     "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除",
+    "summary": "Anthropic 与 SpaceX 签署算力协议，据路透社查阅的 IPO 申报文件，合同金额上限最高达 845 亿美元，用于租用 SpaceX 数据中心内的英伟达 GPU。",
+    "sourceUrl": "https://www.ithome.com/1/008/589.htm",
+    "sourceName": "IT之家（RSS）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "ElevenLabs 完成 3 亿美元员工股份回购，估值升至 220 亿美元",
+    "summary": "ElevenLabs 完成 3 亿美元员工 tender offer，估值达 220 亿美元，是 2026 年 2 月 Series D 估值的两倍，由 Wellington 和 T. Rowe Price 领投。企业业务占收入 55%，ElevenAgents 每周处理超 1500 万次对话，ARR 自 2 月以来增长超 3 倍，客户语音智能体解决问题平均比聊天智能体快 31%。",
+    "sourceUrl": "https://elevenlabs.io/blog/tender-22bn",
+    "sourceName": "ElevenLabs：Blog（网页）",
+    "reviewReason": "awaiting-review"
   }
 ]
