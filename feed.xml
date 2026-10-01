@@ -5,8 +5,136 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 02:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:47:24 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ChatGPT 现可直接构建并部署 MCP 服务器</title>
+      <link>https://x.com/thsottiaux/status/2105519215092584786</link>
+      <description>ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。</description>
+      <pubDate>Thu, 01 Oct 2026 04:44:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2105519215092584786</guid>
+      <source url="https://x.com/thsottiaux/status/2105519215092584786">X：Tibo (@thsottiaux)</source>
+    </item>
+    <item>
+      <title>提高OCR的忠诚度,通过加特化和加特化的策略制定</title>
+      <link>https://arxiv.org/abs/2609.38282</link>
+      <description>视觉语言模型可能会将图像中的反常文字改写为语言上可信的表达方式,从而损害OCR的文字记录忠实。 序列级任务奖励和当地教师指导是互补的,但来自同一种茶的引导</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38282</guid>
+      <source url="https://arxiv.org/abs/2609.38282">ArXiv AI</source>
+    </item>
+    <item>
+      <title>AREX-2:通过长距反射任务推进自我改进代理</title>
+      <link>https://arxiv.org/abs/2609.38288</link>
+      <description>我们提出AREX-2,这是提高LLM剂自我增强能力的努力,我们把LLM剂定义为在试验时反复完善解决方案的能力。 这种能力取决于两个互补能力:反射,产生溶液。</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38288</guid>
+      <source url="https://arxiv.org/abs/2609.38288">ArXiv AI</source>
+    </item>
+    <item>
+      <title>MoFlow: 多种目标代理工作流程生成</title>
+      <link>https://arxiv.org/abs/2609.38294</link>
+      <description>我们研究产生联合优化多个目标的代理工作流程,如准确性、成本、耐久性、稳健性和一致性。 现有工作流程生成方法通常单独优化准确性或一个加权总和。</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38294</guid>
+      <source url="https://arxiv.org/abs/2609.38294">ArXiv AI</source>
+    </item>
+    <item>
+      <title>人工智能特工容易受到激进化的影响</title>
+      <link>https://arxiv.org/abs/2609.38296</link>
+      <description>大型语言模型(LLMs)可以影响人们的信仰,但对于它们是否以及如何互相操纵却知之甚少。为了调查这一点,我们模拟两个代理人之间的对话:一个目标LLM,角色扮演一个基于人类的人</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38296</guid>
+      <source url="https://arxiv.org/abs/2609.38296">ArXiv AI</source>
+    </item>
+    <item>
+      <title>材料LLMS 理由还是Recite?</title>
+      <link>https://arxiv.org/abs/2609.38340</link>
+      <description>当材料 LLM 回答关于晶体结构的问题时, 它是否从结构中解释, 或复制一个已经打印在输入中的答案 ? 准确性无法分辨 : 结构描述经常打印它所对应的字段 。 CARAT ho</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38340</guid>
+      <source url="https://arxiv.org/abs/2609.38340">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Sage: 语义修补的正规化</title>
+      <link>https://arxiv.org/abs/2609.35790</link>
+      <description>虽然神经定理证明器在正规数学中取得了令人印象深刻的里程碑,但它们在运作时基本上假定忠实的精益4正式声明已经提供. 将非正式的自然语言翻译为正文是.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.35790</guid>
+      <source url="https://arxiv.org/abs/2609.35790">ArXiv ML</source>
+    </item>
+    <item>
+      <title>LSTM故障探测器的无服务器八卦训练:与美国航天局C-MAPSS的联邦、地方和集中学习的对应议定书比较</title>
+      <link>https://arxiv.org/abs/2609.35792</link>
+      <description>工业预测维护越来越依赖于从分布在传感器数据不易集合的站点的设备中学习. Fond Eleading(FedAvg)用中央聚合服务器解决了这个问题;八卦学习去除 ser.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.35792</guid>
+      <source url="https://arxiv.org/abs/2609.35792">ArXiv ML</source>
+    </item>
+    <item>
+      <title>从通道间隙中学习@ K 和通道@ 1</title>
+      <link>https://arxiv.org/abs/2609.35793</link>
+      <description>大语言模型(LLMS)越来越多地通过可核查奖励(RLVR)的强化学习得到训练。 一个精确的核查员还可以通过从多个样本中选择通过的反应来支持测试时间的缩放,而其他部署则使用</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.35793</guid>
+      <source url="https://arxiv.org/abs/2609.35793">ArXiv ML</source>
+    </item>
+    <item>
+      <title>校准- 首个跨轴跨轴多模式学习可转移的 Asthma- Risk 预测</title>
+      <link>https://arxiv.org/abs/2609.35795</link>
+      <description>当患者群体、感应生态系统和现有模式在人群中发生变化时,哮喘恶化预测必须保持回升能力。 现有模型通常会优化相互间的歧视,并可能造成校正不灵巧的预告。</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.35795</guid>
+      <source url="https://arxiv.org/abs/2609.35795">ArXiv ML</source>
+    </item>
+    <item>
+      <title>二进制平整分数空间</title>
+      <link>https://arxiv.org/abs/2609.35797</link>
+      <description>大型语言模型(LLM)法官经常被用来作为奖励,对确定性核查者无法捕捉的目标进行策略培训。 然而,这些奖励往往会崩溃,以通过/失败({0, 1}),因为后者报告判决,但不能报告结果。</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.35797</guid>
+      <source url="https://arxiv.org/abs/2609.35797">ArXiv ML</source>
+    </item>
+    <item>
+      <title>大型语言模型是近似生存估计器</title>
+      <link>https://arxiv.org/abs/2609.38181</link>
+      <description>生存分析估计了病人从时间到事件的结果,并被广泛用于医疗风险评估。 在诊断后寻求预测信息的病人可能转而使用大语言模型(LLM),现在很容易获得。</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38181</guid>
+      <source url="https://arxiv.org/abs/2609.38181">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>托马苏LLM: LLM 特工的突击处决</title>
+      <link>https://arxiv.org/abs/2609.38201</link>
+      <description>长期运行的工具可以主导编码代理休闲: 编译器、 测试套件和寄存器命令在代理闲置时需要数到数秒到分。 此观测站呈现出驱动出命令外处理器的同样张力 — asquentive inte</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38201</guid>
+      <source url="https://arxiv.org/abs/2609.38201">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>使用 ASR 校正和暂停建模对患有运动神经病的人的口语流利指数进行自动估计</title>
+      <link>https://arxiv.org/abs/2609.38203</link>
+      <description>监测运动神经元疾病(MND)中的认知障碍对于及时治疗和护理至关重要,但由于共同出现语言困难而具有挑战性。 爱丁堡认知和行为ALS屏幕(ECAS)提供了一个强力的度量f。</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38203</guid>
+      <source url="https://arxiv.org/abs/2609.38203">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>系统即时幻想:指令序言如何修改语言模型中的计算</title>
+      <link>https://arxiv.org/abs/2609.38205</link>
+      <description>系统提示是控制语言模型行为的主要杠杆操作者,然而他们对变压器内部的计算所做的实际工作仍然不甚了解。 跨越了跨越8个架构的17个指令调制模型 familie 。</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38205</guid>
+      <source url="https://arxiv.org/abs/2609.38205">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>TutlAit v1: 一个多源的摩洛哥Tamazight语音数据集,有阿拉伯语的转写和地区口音标签.</title>
+      <link>https://arxiv.org/abs/2609.38219</link>
+      <description>Tamazight(Amazigh)与阿拉伯语一样,是摩洛哥的两种官方语言之一,但是在语音技术方面仍然严重缺乏资源:酒馆缺乏有牌照的音频,普遍缺乏关于区域种类的信息。</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38219</guid>
+      <source url="https://arxiv.org/abs/2609.38219">ArXiv NLP</source>
+    </item>
     <item>
       <title>早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款</title>
       <link>https://www.ifanr.com/1682780?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -38,134 +166,6 @@
       <pubDate>Wed, 30 Sep 2026 20:23:45 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai</guid>
       <source url="https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai">The Verge AI</source>
-    </item>
-    <item>
-      <title>Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%</title>
-      <link>https://x.com/ArtificialAnlys/status/2105449959554441580</link>
-      <description>Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。</description>
-      <pubDate>Thu, 01 Oct 2026 00:09:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105449959554441580</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2105449959554441580">X：Artificial Analysis (@ArtificialAnlys)</source>
-    </item>
-    <item>
-      <title>OpenRouter 发布 Agent 模型成本与质量权衡选型框架</title>
-      <link>https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models/</link>
-      <description>OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models/</guid>
-      <source url="https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models/">OpenRouter：Announcements（RSS）</source>
-    </item>
-    <item>
-      <title>OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request</title>
-      <link>https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci/</link>
-      <description>OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci/</guid>
-      <source url="https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci/">OpenRouter：Announcements（RSS）</source>
-    </item>
-    <item>
-      <title>OpenRouter 指南：用置信度阈值实现模型分级升级路由</title>
-      <link>https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing/</link>
-      <description>OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing/</guid>
-      <source url="https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing/">OpenRouter：Announcements（RSS）</source>
-    </item>
-    <item>
-      <title>Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%</title>
-      <link>https://x.com/arena/status/2105411271525052418</link>
-      <description>Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。</description>
-      <pubDate>Wed, 30 Sep 2026 21:35:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2105411271525052418</guid>
-      <source url="https://x.com/arena/status/2105411271525052418">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平</title>
-      <link>https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/</link>
-      <description>OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。</description>
-      <pubDate>Wed, 30 Sep 2026 21:09:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/</guid>
-      <source url="https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/">MarkTechPost（RSS）</source>
-    </item>
-    <item>
-      <title>Google 宣布双子座4,</title>
-      <link>https://www.theverge.com/tech/1002980/google-gemini-4-argon</link>
-      <description>Google今天披露了它的下一个人工智能前沿模型,它称之为双子座4 Argon. 新模型提供"跨现实世界软件工程的复杂工作流程中的前沿性能,法律和金融等企业知识工作以及网络安全防御",据首席人工智能建筑师称.</description>
-      <pubDate>Wed, 30 Sep 2026 16:41:41 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1002980/google-gemini-4-argon</guid>
-      <source url="https://www.theverge.com/tech/1002980/google-gemini-4-argon">The Verge AI</source>
-    </item>
-    <item>
-      <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放</title>
-      <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
-      <description>Google DeepMind 发布新前沿模型 Gemini 4 Argon，先通过 Fairwind Program 向可信网络防御者开放，后续将逐步面向开发者、企业和消费者推出。</description>
-      <pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
-      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
-      <source url="https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/">Google DeepMind：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Perplexity 开放 Computer 邮件委托入口并限时免费运行任务</title>
-      <link>https://x.com/AravSrinivas/status/2105369479190601754</link>
-      <description>Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 computer@perplexity.com 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。</description>
-      <pubDate>Wed, 30 Sep 2026 18:49:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AravSrinivas/status/2105369479190601754</guid>
-      <source url="https://x.com/AravSrinivas/status/2105369479190601754">X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)</source>
-    </item>
-    <item>
-      <title>Trump 推动二十余家科技公司签署自愿性 AI 安全协议</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/</link>
-      <description>约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。</description>
-      <pubDate>Wed, 30 Sep 2026 18:47:01 +0000</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/">Ars Technica：AI（RSS）</source>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名</title>
-      <link>https://x.com/arena/status/2105367591174995999</link>
-      <description>Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。</description>
-      <pubDate>Wed, 30 Sep 2026 18:42:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2105367591174995999</guid>
-      <source url="https://x.com/arena/status/2105367591174995999">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>人工智能Tamagotchis来了</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices</link>
-      <description>虽然人工智能在人们的电话和计算机上取得了很多进展,但是在专用设备上却基本上失败了。但是在来年,两大人工智能公司Meta和OpenAI将试图改变这一点。它们显然在一条类似的道路上下注:测试对物理硬件的胃口。</description>
-      <pubDate>Wed, 30 Sep 2026 14:07:38 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices">The Verge AI</source>
-    </item>
-    <item>
-      <title>Jensen Huang 称行业领袖在白宫签署超级智能协定</title>
-      <link>https://x.com/JensenHuang/status/2105348324484342238</link>
-      <description>多家行业公司的领袖在白宫签署 White House Accord on Super Intelligence，约定开发该技术的公司负有安全部署和担责的首要责任。协定要求四层控制：训练和部署期间的稳健内部监控、授权内部团队验证控制有效、独立外部评估者审计、董事会独立委员会监督，参与公司还将定期会晤制定安全标准与最佳实践。</description>
-      <pubDate>Wed, 30 Sep 2026 17:25:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/JensenHuang/status/2105348324484342238</guid>
-      <source url="https://x.com/JensenHuang/status/2105348324484342238">X：Jensen Huang (@JensenHuang)</source>
-    </item>
-    <item>
-      <title>以下是人工智能领导人对特朗普新安全计划的看法:</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments</link>
-      <description>唐纳德·特朗普总统在星期二主持与大科技领袖的一顿饭后,以典型的方式回答了有关他人工智能宣布的记者问题。 他说,他先前声称对人工智能安全的恐惧是民主党编造的"恶作剧",现在已经不再适用。</description>
-      <pubDate>Wed, 30 Sep 2026 13:15:49 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments">The Verge AI</source>
-    </item>
-    <item>
-      <title>FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查</title>
-      <link>https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/</link>
-      <description>FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。</description>
-      <pubDate>Wed, 30 Sep 2026 16:20:04 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/</guid>
-      <source url="https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>关于Meta可爱、令人毛骨悚然的Muse人工智能特工的最新消息</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai</link>
-      <description>Meta 推出了一个新的Muse 人工智能代理,它声称这可以帮助你从发电子邮件到购买网上的东西。Muse 能够令人惊讶地有效地兑现承诺 — — 如果你愿意信任Meta , 并交出你的数据,Muse 的信用卡。 自发布以来,Meta 也是一名</description>
-      <pubDate>Wed, 30 Sep 2026 11:18:49 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai">The Verge AI</source>
     </item>
   </channel>
 </rss>
