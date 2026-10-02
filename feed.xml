@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 15:44:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:40:06 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>苹果将限制Mac磁盘的访问,</title>
+      <link>https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents</link>
+      <description>正如TechCrunch早些时候报道的那样,苹果将在Mac上添加"全磁盘访问"的新限制,以应对人工智能特工构成的风险. 苹果在星期五的更新中表示,苹果推出新的控制,以"确保真正想授予一个应用的用户,这种超乎寻常的访问水平只能做到.</description>
+      <pubDate>Fri, 02 Oct 2026 16:08:40 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents</guid>
+      <source url="https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents">The Verge AI</source>
+    </item>
+    <item>
+      <title>GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型</title>
+      <link>https://x.com/arena/status/2106109027923140928</link>
+      <description>Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。</description>
+      <pubDate>Fri, 02 Oct 2026 19:48:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2106109027923140928</guid>
+      <source url="https://x.com/arena/status/2106109027923140928">X：Arena (@arena)</source>
+    </item>
+    <item>
+      <title>Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿</title>
+      <link>https://x.com/arena/status/2106105400487821764</link>
+      <description>Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。</description>
+      <pubDate>Fri, 02 Oct 2026 19:33:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2106105400487821764</guid>
+      <source url="https://x.com/arena/status/2106105400487821764">X：Arena (@arena)</source>
+    </item>
+    <item>
+      <title>Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文</title>
+      <link>https://x.com/AIatMeta/status/2106099776035152231</link>
+      <description>Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。</description>
+      <pubDate>Fri, 02 Oct 2026 19:11:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AIatMeta/status/2106099776035152231</guid>
+      <source url="https://x.com/AIatMeta/status/2106099776035152231">X：AI at Meta (@AIatMeta)</source>
+    </item>
+    <item>
+      <title>ChatGPT 推出 Finances 财务管理功能</title>
+      <link>https://x.com/ChatGPT/status/2106083595433791573</link>
+      <description>ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。</description>
+      <pubDate>Fri, 02 Oct 2026 18:07:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ChatGPT/status/2106083595433791573</guid>
+      <source url="https://x.com/ChatGPT/status/2106083595433791573">X：ChatGPT (@ChatGPT)</source>
+    </item>
+    <item>
+      <title>OpenAI 的 Dot 代理是企业软件, 也可以订购您的晚餐</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent</link>
+      <description>与上周一样古老的故事:OpenAI的新代理平台叫做"多兹"(Dots),充满了可爱的小家伙,他们可以做你的出价。但与超可处理的Meta Muse不同,多兹觉得非常喜欢使用恰好可以给你点卷饼的工作场所软件——强调工作。OpenAI ann</description>
+      <pubDate>Fri, 02 Oct 2026 14:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理</title>
+      <link>https://openai.com/index/practical-guide-building-gpt-6</link>
+      <description>OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。</description>
+      <pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/practical-guide-building-gpt-6</guid>
+      <source url="https://openai.com/index/practical-guide-building-gpt-6">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
+    <item>
+      <title>Google Project Suncatcher 首颗原型卫星发射入轨</title>
+      <link>https://x.com/GoogleAI/status/2106049984164463069</link>
+      <description>Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。</description>
+      <pubDate>Fri, 02 Oct 2026 15:53:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GoogleAI/status/2106049984164463069</guid>
+      <source url="https://x.com/GoogleAI/status/2106049984164463069">X：Google AI (@GoogleAI)</source>
+    </item>
     <item>
       <title>NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售</title>
       <link>https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/</link>
@@ -102,70 +166,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.00025</guid>
       <source url="https://arxiv.org/abs/2610.00025">ArXiv AI</source>
-    </item>
-    <item>
-      <title>利用机器学习在供应链管理中预测旅行时间</title>
-      <link>https://arxiv.org/abs/2609.38190</link>
-      <description>这项研究的目的是利用机器学习和深入学习寻找数据和方法,以正确预测供应链系统中运输和物流的估计旅行时间。</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38190</guid>
-      <source url="https://arxiv.org/abs/2609.38190">ArXiv ML</source>
-    </item>
-    <item>
-      <title>EHR2跟踪:可审计的EHR世界患者模型和临床代理数据基础设施</title>
-      <link>https://arxiv.org/abs/2609.38193</link>
-      <description>患者的世界模型和临床药剂旨在预测患者健康的变化和支持临床工作。 开发这些系统需要可靠的患者病情历史、治疗方法以及每项决定所提供的信息。</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38193</guid>
-      <source url="https://arxiv.org/abs/2609.38193">ArXiv ML</source>
-    </item>
-    <item>
-      <title>深分类树的近似切变分枝和稀释方法</title>
-      <link>https://arxiv.org/abs/2609.38194</link>
-      <description>尽管决策树对可解释性很重要,但决策树仍面临严重的可伸缩性挑战。 现有的全球最佳方法往往受到二元特征选择和浅树深度的限制,而传统的heuristic方法则常常受到限制。</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38194</guid>
-      <source url="https://arxiv.org/abs/2609.38194">ArXiv ML</source>
-    </item>
-    <item>
-      <title>一个无数据物理- 成形神经运算符, 用于水平- 设置接口</title>
-      <link>https://arxiv.org/abs/2609.38195</link>
-      <description>界面问题的操作员接受关于解决者所要替换的参考解决方案的培训。这项工作开发了一个无数据物理信息神经操作员,用于平面设置接口对接,其中接口是</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38195</guid>
-      <source url="https://arxiv.org/abs/2609.38195">ArXiv ML</source>
-    </item>
-    <item>
-      <title>非正式的对等基因组合</title>
-      <link>https://arxiv.org/abs/2609.38196</link>
-      <description>准确的时间序列预测在各个领域都至关重要,但传统的综艺方法往往受到极端预测的不相称影响。 我们引入了Conformal Aversarial Generative Ensemble(CAGE),这是一种新颖的fram。</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38196</guid>
-      <source url="https://arxiv.org/abs/2609.38196">ArXiv ML</source>
-    </item>
-    <item>
-      <title>大型语言模型是近似生存估计器</title>
-      <link>https://arxiv.org/abs/2609.38181</link>
-      <description>生存分析估计了病人从时间到事件的结果,并被广泛用于医疗风险评估。 在诊断后寻求预测信息的病人可能转而使用大语言模型(LLM),现在很容易获得。</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38181</guid>
-      <source url="https://arxiv.org/abs/2609.38181">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>托马苏LLM: LLM 特工的突击处决</title>
-      <link>https://arxiv.org/abs/2609.38201</link>
-      <description>长期运行的工具可以主导编码代理休闲: 编译器、 测试套件和寄存器命令在代理闲置时需要数到数秒到分。 此观测站呈现出驱动出命令外处理器的同样张力 — asquentive inte</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38201</guid>
-      <source url="https://arxiv.org/abs/2609.38201">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>使用 ASR 校正和暂停建模对患有运动神经病的人的口语流利指数进行自动估计</title>
-      <link>https://arxiv.org/abs/2609.38203</link>
-      <description>监测运动神经元疾病(MND)中的认知障碍对于及时治疗和护理至关重要,但由于共同出现语言困难而具有挑战性。 爱丁堡认知和行为ALS屏幕(ECAS)提供了一个强力的度量f。</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38203</guid>
-      <source url="https://arxiv.org/abs/2609.38203">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
