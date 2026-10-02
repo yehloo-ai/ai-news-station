@@ -5,8 +5,136 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 01:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:24:54 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管</title>
+      <link>https://x.com/rohanpaul_ai/status/2105921530211508488</link>
+      <description>Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。</description>
+      <pubDate>Fri, 02 Oct 2026 07:23:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105921530211508488</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2105921530211508488">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>Long-Horizon语言代理中重轨记忆追踪</title>
+      <link>https://arxiv.org/abs/2610.00010</link>
+      <description>长视语言代理越来越依赖外部内存作为冷冻的世界模型,然而现在的内存系统通常只能通过任务成功或象征性成本来判断. 我们主张缺失的对象是内存使用的形状:在有限conte下</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.00010</guid>
+      <source url="https://arxiv.org/abs/2610.00010">ArXiv AI</source>
+    </item>
+    <item>
+      <title>当 Do Causal World Models 帮助模块 LLM 代理</title>
+      <link>https://arxiv.org/abs/2610.00012</link>
+      <description>LLM 代理越来越多地通过订单、付款、库存和装运服务等模块系统行事,其中一个模块中的行动改变在另一个模块中是有效的。 标准的世界模型通常适合观测痕迹,但这个i</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.00012</guid>
+      <source url="https://arxiv.org/abs/2610.00012">ArXiv AI</source>
+    </item>
+    <item>
+      <title>从提议到验证效果:Praxa, 用于执行受管制人工智能特工的证据-基准优势</title>
+      <link>https://arxiv.org/abs/2610.00015</link>
+      <description>大语言模范特工可以提出并执行行动,但建议、授权、发送、核实的外部影响以及服务推广是不同的主张。 我们提出Praxa, 一种通过det明确代表这些状态的特工手段。</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.00015</guid>
+      <source url="https://arxiv.org/abs/2610.00015">ArXiv AI</source>
+    </item>
+    <item>
+      <title>" 理性交流 " 是什么? " 角色专门化QA中的信息交流研究 "</title>
+      <link>https://arxiv.org/abs/2610.00018</link>
+      <description>角色专用的QA管道越来越多地将理由从理性传递给验证者,但目前还不清楚这个消息实际能买到什么:更好的答案,更强大的支持评估,或者新的失败表面。 我们引入了信息干涉(英语:Message-Interactive diag)</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.00018</guid>
+      <source url="https://arxiv.org/abs/2610.00018">ArXiv AI</source>
+    </item>
+    <item>
+      <title>衡量微观任务资格差距:何时脱壳可持续土地管理就足以成为哈内斯特工?</title>
+      <link>https://arxiv.org/abs/2610.00025</link>
+      <description>Agent japes 越来越希望在边疆大型语言模型(LLM)规划器周围的微任务上运行小语言模型(SLMs):自动批准 shell 命令,写入内存,选择工具,排列过去的转折。我们询问是否关闭了它 。</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.00025</guid>
+      <source url="https://arxiv.org/abs/2610.00025">ArXiv AI</source>
+    </item>
+    <item>
+      <title>利用机器学习在供应链管理中预测旅行时间</title>
+      <link>https://arxiv.org/abs/2609.38190</link>
+      <description>这项研究的目的是利用机器学习和深入学习寻找数据和方法,以正确预测供应链系统中运输和物流的估计旅行时间。</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38190</guid>
+      <source url="https://arxiv.org/abs/2609.38190">ArXiv ML</source>
+    </item>
+    <item>
+      <title>EHR2跟踪:可审计的EHR世界患者模型和临床代理数据基础设施</title>
+      <link>https://arxiv.org/abs/2609.38193</link>
+      <description>患者的世界模型和临床药剂旨在预测患者健康的变化和支持临床工作。 开发这些系统需要可靠的患者病情历史、治疗方法以及每项决定所提供的信息。</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38193</guid>
+      <source url="https://arxiv.org/abs/2609.38193">ArXiv ML</source>
+    </item>
+    <item>
+      <title>深分类树的近似切变分枝和稀释方法</title>
+      <link>https://arxiv.org/abs/2609.38194</link>
+      <description>尽管决策树对可解释性很重要,但决策树仍面临严重的可伸缩性挑战。 现有的全球最佳方法往往受到二元特征选择和浅树深度的限制,而传统的heuristic方法则常常受到限制。</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38194</guid>
+      <source url="https://arxiv.org/abs/2609.38194">ArXiv ML</source>
+    </item>
+    <item>
+      <title>一个无数据物理- 成形神经运算符, 用于水平- 设置接口</title>
+      <link>https://arxiv.org/abs/2609.38195</link>
+      <description>界面问题的操作员接受关于解决者所要替换的参考解决方案的培训。这项工作开发了一个无数据物理信息神经操作员,用于平面设置接口对接,其中接口是</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38195</guid>
+      <source url="https://arxiv.org/abs/2609.38195">ArXiv ML</source>
+    </item>
+    <item>
+      <title>非正式的对等基因组合</title>
+      <link>https://arxiv.org/abs/2609.38196</link>
+      <description>准确的时间序列预测在各个领域都至关重要,但传统的综艺方法往往受到极端预测的不相称影响。 我们引入了Conformal Aversarial Generative Ensemble(CAGE),这是一种新颖的fram。</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38196</guid>
+      <source url="https://arxiv.org/abs/2609.38196">ArXiv ML</source>
+    </item>
+    <item>
+      <title>大型语言模型是近似生存估计器</title>
+      <link>https://arxiv.org/abs/2609.38181</link>
+      <description>生存分析估计了病人从时间到事件的结果,并被广泛用于医疗风险评估。 在诊断后寻求预测信息的病人可能转而使用大语言模型(LLM),现在很容易获得。</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38181</guid>
+      <source url="https://arxiv.org/abs/2609.38181">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>托马苏LLM: LLM 特工的突击处决</title>
+      <link>https://arxiv.org/abs/2609.38201</link>
+      <description>长期运行的工具可以主导编码代理休闲: 编译器、 测试套件和寄存器命令在代理闲置时需要数到数秒到分。 此观测站呈现出驱动出命令外处理器的同样张力 — asquentive inte</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38201</guid>
+      <source url="https://arxiv.org/abs/2609.38201">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>使用 ASR 校正和暂停建模对患有运动神经病的人的口语流利指数进行自动估计</title>
+      <link>https://arxiv.org/abs/2609.38203</link>
+      <description>监测运动神经元疾病(MND)中的认知障碍对于及时治疗和护理至关重要,但由于共同出现语言困难而具有挑战性。 爱丁堡认知和行为ALS屏幕(ECAS)提供了一个强力的度量f。</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38203</guid>
+      <source url="https://arxiv.org/abs/2609.38203">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>系统即时幻想:指令序言如何修改语言模型中的计算</title>
+      <link>https://arxiv.org/abs/2609.38205</link>
+      <description>系统提示是控制语言模型行为的主要杠杆操作者,然而他们对变压器内部的计算所做的实际工作仍然不甚了解。 跨越了跨越8个架构的17个指令调制模型 familie 。</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38205</guid>
+      <source url="https://arxiv.org/abs/2609.38205">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>TutlAit v1: 一个多源的摩洛哥Tamazight语音数据集,有阿拉伯语的转写和地区口音标签.</title>
+      <link>https://arxiv.org/abs/2609.38219</link>
+      <description>Tamazight(Amazigh)与阿拉伯语一样,是摩洛哥的两种官方语言之一,但是在语音技术方面仍然严重缺乏资源:酒馆缺乏有牌照的音频,普遍缺乏关于区域种类的信息。</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38219</guid>
+      <source url="https://arxiv.org/abs/2609.38219">ArXiv NLP</source>
+    </item>
     <item>
       <title>Google 首次轨道 AI 芯片试验确认在轨运行正常</title>
       <link>https://x.com/rohanpaul_ai/status/2105821230368706769</link>
@@ -38,134 +166,6 @@
       <pubDate>Fri, 02 Oct 2026 00:06:15 +0000</pubDate>
       <guid isPermaLink="true">https://www.ithome.com/1/009/204.htm</guid>
       <source url="https://www.ithome.com/1/009/204.htm">IT之家（RSS）</source>
-    </item>
-    <item>
-      <title>OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异</title>
-      <link>https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/</link>
-      <description>OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/</guid>
-      <source url="https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/">OpenRouter：Announcements（RSS）</source>
-    </item>
-    <item>
-      <title>NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast</title>
-      <link>https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</link>
-      <description>GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。</description>
-      <pubDate>Thu, 01 Oct 2026 23:44:13 +0000</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</guid>
-      <source url="https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/">NVIDIA Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型</title>
-      <link>https://x.com/ArtificialAnlys/status/2105790682376065463</link>
-      <description>Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。</description>
-      <pubDate>Thu, 01 Oct 2026 22:43:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105790682376065463</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2105790682376065463">X：Artificial Analysis (@ArtificialAnlys)</source>
-    </item>
-    <item>
-      <title>FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成</title>
-      <link>https://x.com/krea_ai/status/2105769469880799716</link>
-      <description>Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。</description>
-      <pubDate>Thu, 01 Oct 2026 21:18:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/krea_ai/status/2105769469880799716</guid>
-      <source url="https://x.com/krea_ai/status/2105769469880799716">X：Krea AI (@krea_ai)</source>
-    </item>
-    <item>
-      <title>FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑</title>
-      <link>https://x.com/OpenRouter/status/2105759062835220852</link>
-      <description>Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。</description>
-      <pubDate>Thu, 01 Oct 2026 20:37:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenRouter/status/2105759062835220852</guid>
-      <source url="https://x.com/OpenRouter/status/2105759062835220852">X：OpenRouter (@OpenRouter)</source>
-    </item>
-    <item>
-      <title>Suno 推出 Speech beta：语音与背景音乐一体生成</title>
-      <link>https://suno.com/blog/introducing-speech-beta</link>
-      <description>Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。</description>
-      <pubDate>Thu, 01 Oct 2026 20:35:00 +0000</pubDate>
-      <guid isPermaLink="true">https://suno.com/blog/introducing-speech-beta</guid>
-      <source url="https://suno.com/blog/introducing-speech-beta">Suno：Blog（网页）</source>
-    </item>
-    <item>
-      <title>Google 新的“引导视野”功能可以帮助您读取精细的打印</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</link>
-      <description>Google的人工智能可以帮助阅读小文本、描述你的助听器。</description>
-      <pubDate>Thu, 01 Oct 2026 15:47:51 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision">The Verge AI</source>
-    </item>
-    <item>
-      <title>MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9</title>
-      <link>https://x.com/arena/status/2105733983250301224</link>
-      <description>Arena 宣布 Xiaomi MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena。Pro 在 8.1K+ 真实智能体会话中净提升 +3.17%，列开源模型第5，较 MiMo-V2.5-Pro（第13，-7.23%）提升9个名次；其 Confirmed Success 得分 +7.35%，列开源模型第2。</description>
-      <pubDate>Thu, 01 Oct 2026 18:57:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2105733983250301224</guid>
-      <source url="https://x.com/arena/status/2105733983250301224">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI</title>
-      <link>https://x.com/ClaudeDevs/status/2105721434807083061</link>
-      <description>Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。用几行 TypeScript 即可编写，也可由 Claude 代为构建；mods 随插件分发，可在 CLI 或桌面应用中通过 /plugin 安装。</description>
-      <pubDate>Thu, 01 Oct 2026 18:08:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ClaudeDevs/status/2105721434807083061</guid>
-      <source url="https://x.com/ClaudeDevs/status/2105721434807083061">X：Claude Devs (@ClaudeDevs)</source>
-    </item>
-    <item>
-      <title>点数演示,取两个 \\\ OpenAI DevDay 2026</title>
-      <link>https://www.youtube.com/watch?v=fHEIw5CcN5U</link>
-      <description>会见点, 总是在人工智能的特工, 了解对您很重要的事情, 并摆脱你的工作。 请看到点在行动中, 从计划旅行到理解用户反馈, 以及追赶Slack。 https://openai.com/index/introductioning-dots/</description>
-      <pubDate>Thu, 01 Oct 2026 17:20:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=fHEIw5CcN5U</guid>
-      <source url="https://www.youtube.com/watch?v=fHEIw5CcN5U">OpenAI</source>
-    </item>
-    <item>
-      <title>法官驳回针对Google人工智能的反托拉斯诉讼</title>
-      <link>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</link>
-      <description>一名联邦法官驳回了Chegg和滚石公司母公司Penske Media Corporation提起的一对反托拉斯诉讼,指控Google以人工智能驱动的搜索功能驱赶网络交通,如路透社早些时候报道的那样. United District Judge Amit Mehta站在Google一边.</description>
-      <pubDate>Thu, 01 Oct 2026 13:12:21 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</guid>
-      <source url="https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed">The Verge AI</source>
-    </item>
-    <item>
-      <title>LangChain 讲解如何在 Agent Harness 中构建模型路由器</title>
-      <link>https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness</link>
-      <description>LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。</description>
-      <pubDate>Thu, 01 Oct 2026 17:01:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness</guid>
-      <source url="https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness">LangChain：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名</title>
-      <link>https://x.com/arena/status/2105702037849841954</link>
-      <description>Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。</description>
-      <pubDate>Thu, 01 Oct 2026 16:51:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2105702037849841954</guid>
-      <source url="https://x.com/arena/status/2105702037849841954">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>从深假到DNA:人工智能水印科学</title>
-      <link>https://www.youtube.com/watch?v=HIUzrxQxTtw</link>
-      <description>汉纳·弗莱教授与Pushmeet Kohli(科学的VP)和Jeremy Ratcliffe(研究科学家)坐下来分解SynthID, 水印技术从文字、图像和视频直接扩展到生物学。</description>
-      <pubDate>Thu, 01 Oct 2026 16:37:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=HIUzrxQxTtw</guid>
-      <source url="https://www.youtube.com/watch?v=HIUzrxQxTtw">DeepMind</source>
-    </item>
-    <item>
-      <title>谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让</title>
-      <link>https://www.qbitai.com/2026/10/499663.html</link>
-      <description>价格只有Astra一半</description>
-      <pubDate>Thu, 01 Oct 2026 15:02:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/499663.html</guid>
-      <source url="https://www.qbitai.com/2026/10/499663.html">量子位</source>
-    </item>
-    <item>
-      <title>OpenAI的新代理是Meta的一出出手——但它能与免费竞争吗?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle</link>
-      <description>在OpenAI的年度DevDay大会上,公司拔出所有站点与对手竞争——主要是Meta,其Muse的人工智能代理平台已经看到早期出逃的成功. CEO萨姆·阿尔特曼上台欢呼并宣布了由GPT-6 Astra提供动力的"真正的人工智能"代理,"被启发".</description>
-      <pubDate>Thu, 01 Oct 2026 10:36:50 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle">The Verge AI</source>
     </item>
   </channel>
 </rss>
