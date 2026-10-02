@@ -558,5 +558,29 @@
     "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
     "sourceName": "公众号：DeepSeek（深度求索）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Microsoft AI 发布 MAI-Transcribe-2-Streaming 及 MAI-Voice-2.1 系列语音模型",
+    "summary": "Microsoft AI 发布流式转录模型 MAI-Transcribe-2-Streaming，在 Artificial Analysis 准确率榜排名第一，支持 60 种语言实时转录，收到音频约 100ms 即产出初步结果，内部评测显示字幕出现速度比最接近的竞品快 2 倍，介绍价 $0.54 每小时音频。",
+    "sourceUrl": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+    "sourceName": "Microsoft AI：官方博客（网页）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+    "summary": "Arena 宣布 Xiaomi MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena。Pro 在 8.1K+ 真实智能体会话中净提升 +3.17%，列开源模型第5，较 MiMo-V2.5-Pro（第13，-7.23%）提升9个名次；其 Confirmed Success 得分 +7.35%，列开源模型第2。",
+    "sourceUrl": "https://x.com/arena/status/2105733983250301224",
+    "sourceName": "X：Arena (@arena)",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+    "summary": "Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。",
+    "sourceUrl": "https://x.com/ArtificialAnlys/status/2105790682376065463",
+    "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
+    "reviewReason": "awaiting-review"
   }
 ]
