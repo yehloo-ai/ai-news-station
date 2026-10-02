@@ -5,8 +5,56 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 08:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:44:24 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/</link>
+      <description>NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。</description>
+      <pubDate>Fri, 02 Oct 2026 13:00:39 +0000</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/</guid>
+      <source url="https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/">NVIDIA Blog（RSS）</source>
+    </item>
+    <item>
+      <title>人工智能幻觉让客户更糟糕</title>
+      <link>https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents</link>
+      <description>麦迪逊是纽约市的服务器,他通过询问每家餐厅的过敏情况来迎接每张桌子。最近,有几通很近的电话,“有时候人们会告诉我他们有贝类过敏症,我会回来,他们不会问我任何问题。”</description>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents</guid>
+      <source url="https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents">The Verge AI</source>
+    </item>
+    <item>
+      <title>Amazon写了恐怖的博客警告社区不要封锁数据中心。</title>
+      <link>https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning</link>
+      <description>亚马逊呼吁人们支持人工智能数据中心项目,否则就有可能对美国经济和国家安全造成无法弥补的伤害。 今天,亚马逊网络服务CEOMatt Garman在3000多字博客中,将公众的担忧推回了数据中心对工作可能产生的影响,pow</description>
+      <pubDate>Fri, 02 Oct 2026 07:52:20 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning</guid>
+      <source url="https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning">The Verge AI</source>
+    </item>
+    <item>
+      <title>人工智能音乐制作人苏诺现在产生口语</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability</link>
+      <description>Suno正在从人工智能音乐的世界中分出,推出一个新的功能,根据脚本或诱导描述生成语音声音。现在,通过Suno的网络和移动平台在公共beta中提供语音,并允许您同时生成语音和背景音乐 t</description>
+      <pubDate>Fri, 02 Oct 2026 05:42:19 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability">The Verge AI</source>
+    </item>
+    <item>
+      <title>Ai2 开源 8B 科学报告生成模型 AstaBrief</title>
+      <link>https://allenai.org/blog/astabrief</link>
+      <description>Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。</description>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://allenai.org/blog/astabrief</guid>
+      <source url="https://allenai.org/blog/astabrief">Ai2 / Allen Institute for AI（RSS）</source>
+    </item>
+    <item>
+      <title>丘成桐新论文致谢了GPT和Claude</title>
+      <link>https://www.qbitai.com/2026/10/499991.html</link>
+      <description>44年前被亲自列入问题清单</description>
+      <pubDate>Fri, 02 Oct 2026 07:27:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/499991.html</guid>
+      <source url="https://www.qbitai.com/2026/10/499991.html">量子位</source>
+    </item>
     <item>
       <title>Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管</title>
       <link>https://x.com/rohanpaul_ai/status/2105921530211508488</link>
@@ -118,54 +166,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.38203</guid>
       <source url="https://arxiv.org/abs/2609.38203">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>系统即时幻想:指令序言如何修改语言模型中的计算</title>
-      <link>https://arxiv.org/abs/2609.38205</link>
-      <description>系统提示是控制语言模型行为的主要杠杆操作者,然而他们对变压器内部的计算所做的实际工作仍然不甚了解。 跨越了跨越8个架构的17个指令调制模型 familie 。</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38205</guid>
-      <source url="https://arxiv.org/abs/2609.38205">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>TutlAit v1: 一个多源的摩洛哥Tamazight语音数据集,有阿拉伯语的转写和地区口音标签.</title>
-      <link>https://arxiv.org/abs/2609.38219</link>
-      <description>Tamazight(Amazigh)与阿拉伯语一样,是摩洛哥的两种官方语言之一,但是在语音技术方面仍然严重缺乏资源:酒馆缺乏有牌照的音频,普遍缺乏关于区域种类的信息。</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38219</guid>
-      <source url="https://arxiv.org/abs/2609.38219">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Google 首次轨道 AI 芯片试验确认在轨运行正常</title>
-      <link>https://x.com/rohanpaul_ai/status/2105821230368706769</link>
-      <description>Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。</description>
-      <pubDate>Fri, 02 Oct 2026 00:44:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105821230368706769</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2105821230368706769">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》</title>
-      <link>http://www.geekpark.net/news/372069</link>
-      <description>华为 Mate90 系列发布，售价 5999 元起 10 月 1 日，华为 Mate90 系列手机正式发布。华为 Mate90 售价 5999 元起，华为 Mate90 Pro 售价 6999 元起，华为 Mate90 Pro Max 售价 9499 元起，华为 Mate90 Pro Max 典藏版售价 10999 元起，华为 Mate90 RS 非凡大师售价 12999 元起。 影像系统是本次迭代的核心亮点。华为 Mate90 系列全系搭载第三代红枫原色摄像头，标配红外光学镀膜技术，有效提升夜景画面纯净度与通透感。新机新增烟花人像、柔光人像、星芒特效等多元拍摄风格，依托原生原片直出的优质画质</description>
-      <pubDate>Fri, 02 Oct 2026 08:28:26 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372069</guid>
-      <source url="http://www.geekpark.net/news/372069">极客公园</source>
-    </item>
-    <item>
-      <title>Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大</title>
-      <link>https://x.com/ArtificialAnlys/status/2105814318294114720</link>
-      <description>Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。</description>
-      <pubDate>Fri, 02 Oct 2026 00:17:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105814318294114720</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2105814318294114720">X：Artificial Analysis (@ArtificialAnlys)</source>
-    </item>
-    <item>
-      <title>加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险</title>
-      <link>https://www.ithome.com/1/009/204.htm</link>
-      <description>据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。</description>
-      <pubDate>Fri, 02 Oct 2026 00:06:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/009/204.htm</guid>
-      <source url="https://www.ithome.com/1/009/204.htm">IT之家（RSS）</source>
     </item>
   </channel>
 </rss>
