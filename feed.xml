@@ -5,8 +5,64 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 21:47:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:37:00 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google 首次轨道 AI 芯片试验确认在轨运行正常</title>
+      <link>https://x.com/rohanpaul_ai/status/2105821230368706769</link>
+      <description>Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。</description>
+      <pubDate>Fri, 02 Oct 2026 00:44:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105821230368706769</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2105821230368706769">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》</title>
+      <link>http://www.geekpark.net/news/372069</link>
+      <description>华为 Mate90 系列发布，售价 5999 元起 10 月 1 日，华为 Mate90 系列手机正式发布。华为 Mate90 售价 5999 元起，华为 Mate90 Pro 售价 6999 元起，华为 Mate90 Pro Max 售价 9499 元起，华为 Mate90 Pro Max 典藏版售价 10999 元起，华为 Mate90 RS 非凡大师售价 12999 元起。 影像系统是本次迭代的核心亮点。华为 Mate90 系列全系搭载第三代红枫原色摄像头，标配红外光学镀膜技术，有效提升夜景画面纯净度与通透感。新机新增烟花人像、柔光人像、星芒特效等多元拍摄风格，依托原生原片直出的优质画质</description>
+      <pubDate>Fri, 02 Oct 2026 08:28:26 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372069</guid>
+      <source url="http://www.geekpark.net/news/372069">极客公园</source>
+    </item>
+    <item>
+      <title>Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大</title>
+      <link>https://x.com/ArtificialAnlys/status/2105814318294114720</link>
+      <description>Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。</description>
+      <pubDate>Fri, 02 Oct 2026 00:17:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105814318294114720</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2105814318294114720">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
+    <item>
+      <title>加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险</title>
+      <link>https://www.ithome.com/1/009/204.htm</link>
+      <description>据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。</description>
+      <pubDate>Fri, 02 Oct 2026 00:06:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/009/204.htm</guid>
+      <source url="https://www.ithome.com/1/009/204.htm">IT之家（RSS）</source>
+    </item>
+    <item>
+      <title>OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异</title>
+      <link>https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/</link>
+      <description>OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/</guid>
+      <source url="https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/">OpenRouter：Announcements（RSS）</source>
+    </item>
+    <item>
+      <title>NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast</title>
+      <link>https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</link>
+      <description>GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。</description>
+      <pubDate>Thu, 01 Oct 2026 23:44:13 +0000</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</guid>
+      <source url="https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/">NVIDIA Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型</title>
+      <link>https://x.com/ArtificialAnlys/status/2105790682376065463</link>
+      <description>Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。</description>
+      <pubDate>Thu, 01 Oct 2026 22:43:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105790682376065463</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2105790682376065463">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
     <item>
       <title>FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成</title>
       <link>https://x.com/krea_ai/status/2105769469880799716</link>
@@ -22,6 +78,14 @@
       <pubDate>Thu, 01 Oct 2026 20:37:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/OpenRouter/status/2105759062835220852</guid>
       <source url="https://x.com/OpenRouter/status/2105759062835220852">X：OpenRouter (@OpenRouter)</source>
+    </item>
+    <item>
+      <title>Suno 推出 Speech beta：语音与背景音乐一体生成</title>
+      <link>https://suno.com/blog/introducing-speech-beta</link>
+      <description>Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。</description>
+      <pubDate>Thu, 01 Oct 2026 20:35:00 +0000</pubDate>
+      <guid isPermaLink="true">https://suno.com/blog/introducing-speech-beta</guid>
+      <source url="https://suno.com/blog/introducing-speech-beta">Suno：Blog（网页）</source>
     </item>
     <item>
       <title>Google 新的“引导视野”功能可以帮助您读取精细的打印</title>
@@ -102,70 +166,6 @@
       <pubDate>Thu, 01 Oct 2026 10:36:50 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle">The Verge AI</source>
-    </item>
-    <item>
-      <title>在对凯文·奥莱里犹他州数据中心长达数月的调查中</title>
-      <link>https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash</link>
-      <description>今天,我和一位长期在The Verge的特写家Josh Dzieza谈到Kevin O'Leary计划在犹他州建造一个大型数据中心。 想法是建造一个世界上最大的数据中心——一个拥有9千兆瓦功率的4万英亩人工智能校园,或者说是电源的两倍以上。</description>
-      <pubDate>Thu, 01 Oct 2026 10:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash</guid>
-      <source url="https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容</title>
-      <link>https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/</link>
-      <description>OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。</description>
-      <pubDate>Thu, 01 Oct 2026 12:05:49 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/</guid>
-      <source url="https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件</title>
-      <link>https://claude.dev/blog/getting-started-with-claude-code-mods/</link>
-      <description>这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。</description>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://claude.dev/blog/getting-started-with-claude-code-mods/</guid>
-      <source url="https://claude.dev/blog/getting-started-with-claude-code-mods/">Anthropic：Claude.dev 开发者博客（RSS）</source>
-    </item>
-    <item>
-      <title>Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效</title>
-      <link>https://www.oneusefulthing.org/p/the-dot-and-the-swarm</link>
-      <description>Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。</description>
-      <pubDate>Thu, 01 Oct 2026 10:54:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.oneusefulthing.org/p/the-dot-and-the-swarm</guid>
-      <source url="https://www.oneusefulthing.org/p/the-dot-and-the-swarm">Ethan Mollick：One Useful Thing（RSS）</source>
-    </item>
-    <item>
-      <title>ChatGPT 现可直接构建并部署 MCP 服务器</title>
-      <link>https://x.com/thsottiaux/status/2105519215092584786</link>
-      <description>ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。</description>
-      <pubDate>Thu, 01 Oct 2026 04:44:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2105519215092584786</guid>
-      <source url="https://x.com/thsottiaux/status/2105519215092584786">X：Tibo (@thsottiaux)</source>
-    </item>
-    <item>
-      <title>提高OCR的忠诚度,通过加特化和加特化的策略制定</title>
-      <link>https://arxiv.org/abs/2609.38282</link>
-      <description>视觉语言模型可能会将图像中的反常文字改写为语言上可信的表达方式,从而损害OCR的文字记录忠实。 序列级任务奖励和当地教师指导是互补的,但来自同一种茶的引导</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38282</guid>
-      <source url="https://arxiv.org/abs/2609.38282">ArXiv AI</source>
-    </item>
-    <item>
-      <title>AREX-2:通过长距反射任务推进自我改进代理</title>
-      <link>https://arxiv.org/abs/2609.38288</link>
-      <description>我们提出AREX-2,这是提高LLM剂自我增强能力的努力,我们把LLM剂定义为在试验时反复完善解决方案的能力。 这种能力取决于两个互补能力:反射,产生溶液。</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38288</guid>
-      <source url="https://arxiv.org/abs/2609.38288">ArXiv AI</source>
-    </item>
-    <item>
-      <title>MoFlow: 多种目标代理工作流程生成</title>
-      <link>https://arxiv.org/abs/2609.38294</link>
-      <description>我们研究产生联合优化多个目标的代理工作流程,如准确性、成本、耐久性、稳健性和一致性。 现有工作流程生成方法通常单独优化准确性或一个加权总和。</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.38294</guid>
-      <source url="https://arxiv.org/abs/2609.38294">ArXiv AI</source>
     </item>
   </channel>
 </rss>
