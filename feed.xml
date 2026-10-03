@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 06:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:27:56 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师</title>
+      <link>https://www.qbitai.com/2026/10/501381.html</link>
+      <description>岗位JD甩了篇技术报告</description>
+      <pubDate>Sat, 03 Oct 2026 07:54:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501381.html</guid>
+      <source url="https://www.qbitai.com/2026/10/501381.html">量子位</source>
+    </item>
+    <item>
+      <title>AI 视频榜全球第二，藏着一家新影视公司的野心</title>
+      <link>https://www.ifanr.com/1682888?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>一家影视公司，杀进了视频模型的决赛圈#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 03 Oct 2026 07:00:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1682888?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1682888?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件</title>
+      <link>https://www.ithome.com/1/009/444.htm</link>
+      <description>据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。</description>
+      <pubDate>Sat, 03 Oct 2026 06:18:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/009/444.htm</guid>
+      <source url="https://www.ithome.com/1/009/444.htm">IT之家（RSS）</source>
+    </item>
     <item>
       <title>OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开</title>
       <link>https://www.qbitai.com/2026/10/501368.html</link>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 02 Oct 2026 15:53:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/GoogleAI/status/2106049984164463069</guid>
       <source url="https://x.com/GoogleAI/status/2106049984164463069">X：Google AI (@GoogleAI)</source>
-    </item>
-    <item>
-      <title>NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/</link>
-      <description>NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。</description>
-      <pubDate>Fri, 02 Oct 2026 13:00:39 +0000</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/</guid>
-      <source url="https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/">NVIDIA Blog（RSS）</source>
-    </item>
-    <item>
-      <title>人工智能幻觉让客户更糟糕</title>
-      <link>https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents</link>
-      <description>麦迪逊是纽约市的服务器,他通过询问每家餐厅的过敏情况来迎接每张桌子。最近,有几通很近的电话,“有时候人们会告诉我他们有贝类过敏症,我会回来,他们不会问我任何问题。”</description>
-      <pubDate>Fri, 02 Oct 2026 08:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents</guid>
-      <source url="https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents">The Verge AI</source>
-    </item>
-    <item>
-      <title>Amazon写了恐怖的博客警告社区不要封锁数据中心。</title>
-      <link>https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning</link>
-      <description>亚马逊呼吁人们支持人工智能数据中心项目,否则就有可能对美国经济和国家安全造成无法弥补的伤害。 今天,亚马逊网络服务CEOMatt Garman在3000多字博客中,将公众的担忧推回了数据中心对工作可能产生的影响,pow</description>
-      <pubDate>Fri, 02 Oct 2026 07:52:20 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning</guid>
-      <source url="https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning">The Verge AI</source>
     </item>
   </channel>
 </rss>
