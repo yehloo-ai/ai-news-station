@@ -5,8 +5,64 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 00:25:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:24:14 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开</title>
+      <link>https://www.qbitai.com/2026/10/501368.html</link>
+      <description>又咋啦。。。</description>
+      <pubDate>Sat, 03 Oct 2026 04:41:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501368.html</guid>
+      <source url="https://www.qbitai.com/2026/10/501368.html">量子位</source>
+    </item>
+    <item>
+      <title>碎片式癌症药物反应母体分级的Sparsity-Robust Ranking反应理论</title>
+      <link>https://arxiv.org/abs/2610.00002</link>
+      <description>我们通过将癌症类型作为具有抗药性能力的潜在“主体”,将药物作为有逃避困难的“物品”来引入反向反应理论(IRT)药物反应分析。</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.00002</guid>
+      <source url="https://arxiv.org/abs/2610.00002">ArXiv ML</source>
+    </item>
+    <item>
+      <title>亚当从自然渐入世有多远?</title>
+      <link>https://arxiv.org/abs/2610.00004</link>
+      <description>亚当是深层学习中的标准优化者,然而它与自然梯度阶地(NGD)的几何关系包含了一些尚未解决的问题。 我们研究亚当的完整更新规则,包括动力,作为一个对角经验性的Fisher近似主题</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.00004</guid>
+      <source url="https://arxiv.org/abs/2610.00004">ArXiv ML</source>
+    </item>
+    <item>
+      <title>FourierQK:过滤器形状、可受理性和渗漏法</title>
+      <link>https://arxiv.org/abs/2610.00009</link>
+      <description>频率-collaps attention[Zeris, 2026e]通过将Q/K点产品以带宽-过滤的内出产替换为学习频率,在标准点产品关注上取得了很大的收益. 一个自然的后继问题就是:哪个过滤出形状wor</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.00009</guid>
+      <source url="https://arxiv.org/abs/2610.00009">ArXiv ML</source>
+    </item>
+    <item>
+      <title>将公平性和可解释性纳入多例强化学习系统</title>
+      <link>https://arxiv.org/abs/2610.00035</link>
+      <description>从教育互动数据中预测学生的成绩需要准确和足够透明的模型,以支持有意义的干预,而人口信息则带来不公平预测的额外风险.</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.00035</guid>
+      <source url="https://arxiv.org/abs/2610.00035">ArXiv ML</source>
+    </item>
+    <item>
+      <title>LLMs 的快多功能横跨</title>
+      <link>https://arxiv.org/abs/2610.00049</link>
+      <description>图形处理单元(GPU) 代数矩阵、 特殊功能和内存管道的速率不同, 因此内核瓶颈随着硬件的演化而移动。 FlashAtthing-4 在 NVIDIA Blackwell 上暴露了这种关注内部的不平衡。 我们测试 wh</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.00049</guid>
+      <source url="https://arxiv.org/abs/2610.00049">ArXiv ML</source>
+    </item>
+    <item>
+      <title>英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文</title>
+      <link>http://www.geekpark.net/news/372070</link>
+      <description>英伟达股价创新高，逼近 6 万亿美元 英伟达股价自 5 月以来首次创下历史新高，在两个月的抛售导致市值蒸发逾 1 万亿美元后，投资者重新涌入该股。这家全球市值最高的上市公司股价周五上涨 2.9%，较 7 月底低点累计反弹近 25%。 英伟达股价今年迄今上涨约 27%，有望连续第四年实现两位数涨幅。目前公司市值约为 5.7 万亿美元，距离成为历史上首家市值达到 6 万亿美元的公司不到 3000 亿美元。（来源：环球市场播报） 腾讯 WorkBuddy 内置模型独家支持 Space Bunny 10 月 2 日消息，腾讯 WorkBuddy 宣布内置模型独家支持 Space Bunny。 据介绍，</description>
+      <pubDate>Sat, 03 Oct 2026 09:17:08 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372070</guid>
+      <source url="http://www.geekpark.net/news/372070">极客公园</source>
+    </item>
     <item>
       <title>Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%</title>
       <link>https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/</link>
@@ -110,62 +166,6 @@
       <pubDate>Fri, 02 Oct 2026 07:52:20 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning</guid>
       <source url="https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning">The Verge AI</source>
-    </item>
-    <item>
-      <title>人工智能音乐制作人苏诺现在产生口语</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability</link>
-      <description>Suno正在从人工智能音乐的世界中分出,推出一个新的功能,根据脚本或诱导描述生成语音声音。现在,通过Suno的网络和移动平台在公共beta中提供语音,并允许您同时生成语音和背景音乐 t</description>
-      <pubDate>Fri, 02 Oct 2026 05:42:19 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability">The Verge AI</source>
-    </item>
-    <item>
-      <title>Ai2 开源 8B 科学报告生成模型 AstaBrief</title>
-      <link>https://allenai.org/blog/astabrief</link>
-      <description>Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。</description>
-      <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://allenai.org/blog/astabrief</guid>
-      <source url="https://allenai.org/blog/astabrief">Ai2 / Allen Institute for AI（RSS）</source>
-    </item>
-    <item>
-      <title>丘成桐新论文致谢了GPT和Claude</title>
-      <link>https://www.qbitai.com/2026/10/499991.html</link>
-      <description>44年前被亲自列入问题清单</description>
-      <pubDate>Fri, 02 Oct 2026 07:27:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/499991.html</guid>
-      <source url="https://www.qbitai.com/2026/10/499991.html">量子位</source>
-    </item>
-    <item>
-      <title>Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管</title>
-      <link>https://x.com/rohanpaul_ai/status/2105921530211508488</link>
-      <description>Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。</description>
-      <pubDate>Fri, 02 Oct 2026 07:23:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105921530211508488</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2105921530211508488">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>Long-Horizon语言代理中重轨记忆追踪</title>
-      <link>https://arxiv.org/abs/2610.00010</link>
-      <description>长视语言代理越来越依赖外部内存作为冷冻的世界模型,然而现在的内存系统通常只能通过任务成功或象征性成本来判断. 我们主张缺失的对象是内存使用的形状:在有限conte下</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.00010</guid>
-      <source url="https://arxiv.org/abs/2610.00010">ArXiv AI</source>
-    </item>
-    <item>
-      <title>当 Do Causal World Models 帮助模块 LLM 代理</title>
-      <link>https://arxiv.org/abs/2610.00012</link>
-      <description>LLM 代理越来越多地通过订单、付款、库存和装运服务等模块系统行事,其中一个模块中的行动改变在另一个模块中是有效的。 标准的世界模型通常适合观测痕迹,但这个i</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.00012</guid>
-      <source url="https://arxiv.org/abs/2610.00012">ArXiv AI</source>
-    </item>
-    <item>
-      <title>从提议到验证效果:Praxa, 用于执行受管制人工智能特工的证据-基准优势</title>
-      <link>https://arxiv.org/abs/2610.00015</link>
-      <description>大语言模范特工可以提出并执行行动,但建议、授权、发送、核实的外部影响以及服务推广是不同的主张。 我们提出Praxa, 一种通过det明确代表这些状态的特工手段。</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.00015</guid>
-      <source url="https://arxiv.org/abs/2610.00015">ArXiv AI</source>
     </item>
   </channel>
 </rss>
