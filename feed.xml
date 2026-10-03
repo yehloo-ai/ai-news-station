@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:27:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:12:49 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Capcom正在准备一个‘未来,我们用人工智能创造游戏'。</title>
+      <link>https://www.theverge.com/games/1004418/capcom-ai-game-development</link>
+      <description>Capcom的"Pragmata"可能全部是关于人工智能的恐怖,但实际上工作室在技术上似乎并不那么低落. Capcom Open Conference RE: 2026程序员石田相一(Satushi Ishida)在演讲中口口说道:"REX项目的展望与未来,进一步演变.</description>
+      <pubDate>Sat, 03 Oct 2026 12:49:10 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/1004418/capcom-ai-game-development</guid>
+      <source url="https://www.theverge.com/games/1004418/capcom-ai-game-development">The Verge AI</source>
+    </item>
+    <item>
+      <title>Splice CEO Kakul Srivastava 认为人工智能电子邮件会扼杀对话</title>
+      <link>https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</link>
+      <description>Kakul Srivastava是Splice的首席执行官,样本平台上无数的制作人依赖一弹一弹和自旋回路,从服务中抽取的样本已经找到了像丽莎"金钱"和萨布丽娜·卡彭特所著"Espresso"这样的大规模点击(原始样本在这里和这里,为cur).</description>
+      <pubDate>Sat, 03 Oct 2026 11:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</guid>
+      <source url="https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI安全员工辞职 正在报警</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</link>
+      <description>David Robinson 曾经在OpenAI 上写过所有重大模型发布时的安全报告。这个星期,他辞去职务,现在发表在《大西洋》的一篇社论中。如果你对每个人突然从木偶里出来感到有些愤世嫉俗,这是可以理解的。</description>
+      <pubDate>Sat, 03 Oct 2026 10:31:56 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm">The Verge AI</source>
+    </item>
     <item>
       <title>DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师</title>
       <link>https://www.qbitai.com/2026/10/501381.html</link>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 02 Oct 2026 18:07:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ChatGPT/status/2106083595433791573</guid>
       <source url="https://x.com/ChatGPT/status/2106083595433791573">X：ChatGPT (@ChatGPT)</source>
-    </item>
-    <item>
-      <title>OpenAI 的 Dot 代理是企业软件, 也可以订购您的晚餐</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent</link>
-      <description>与上周一样古老的故事:OpenAI的新代理平台叫做"多兹"(Dots),充满了可爱的小家伙,他们可以做你的出价。但与超可处理的Meta Muse不同,多兹觉得非常喜欢使用恰好可以给你点卷饼的工作场所软件——强调工作。OpenAI ann</description>
-      <pubDate>Fri, 02 Oct 2026 14:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理</title>
-      <link>https://openai.com/index/practical-guide-building-gpt-6</link>
-      <description>OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。</description>
-      <pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/practical-guide-building-gpt-6</guid>
-      <source url="https://openai.com/index/practical-guide-building-gpt-6">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>Google Project Suncatcher 首颗原型卫星发射入轨</title>
-      <link>https://x.com/GoogleAI/status/2106049984164463069</link>
-      <description>Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。</description>
-      <pubDate>Fri, 02 Oct 2026 15:53:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GoogleAI/status/2106049984164463069</guid>
-      <source url="https://x.com/GoogleAI/status/2106049984164463069">X：Google AI (@GoogleAI)</source>
     </item>
   </channel>
 </rss>
