@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 20:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 00:25:08 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%</title>
+      <link>https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/</link>
+      <description>Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。</description>
+      <pubDate>Fri, 02 Oct 2026 21:09:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/</guid>
+      <source url="https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/">Baseten 工程博客（网页）</source>
+    </item>
+    <item>
+      <title>允许您制作 Muse 人工智能设备的元源代码</title>
+      <link>https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</link>
+      <description>Meta现在允许您自己制作Muse设备, 以公司开源代码为公司新的人工智能代理。 公司建议将Muse装入彩色 E 墨水显示器以显示提醒, 将其添加到 HDMI 棒中, 这样您就可以在大屏幕上显示Muse, 或者 [.]</description>
+      <pubDate>Fri, 02 Oct 2026 17:08:37 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</guid>
+      <source url="https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link">The Verge AI</source>
+    </item>
     <item>
       <title>苹果将限制Mac磁盘的访问,</title>
       <link>https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents</link>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.00015</guid>
       <source url="https://arxiv.org/abs/2610.00015">ArXiv AI</source>
-    </item>
-    <item>
-      <title>" 理性交流 " 是什么? " 角色专门化QA中的信息交流研究 "</title>
-      <link>https://arxiv.org/abs/2610.00018</link>
-      <description>角色专用的QA管道越来越多地将理由从理性传递给验证者,但目前还不清楚这个消息实际能买到什么:更好的答案,更强大的支持评估,或者新的失败表面。 我们引入了信息干涉(英语:Message-Interactive diag)</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.00018</guid>
-      <source url="https://arxiv.org/abs/2610.00018">ArXiv AI</source>
-    </item>
-    <item>
-      <title>衡量微观任务资格差距:何时脱壳可持续土地管理就足以成为哈内斯特工?</title>
-      <link>https://arxiv.org/abs/2610.00025</link>
-      <description>Agent japes 越来越希望在边疆大型语言模型(LLM)规划器周围的微任务上运行小语言模型(SLMs):自动批准 shell 命令,写入内存,选择工具,排列过去的转折。我们询问是否关闭了它 。</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.00025</guid>
-      <source url="https://arxiv.org/abs/2610.00025">ArXiv AI</source>
     </item>
   </channel>
 </rss>
