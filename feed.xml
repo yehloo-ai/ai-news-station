@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 21:09:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 23:45:54 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
+      <description>Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。</description>
+      <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox</guid>
+      <source url="https://huggingface.co/blog/microsoft/thinkingbox">Hugging Face：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善</title>
+      <link>https://x.com/rohanpaul_ai/status/2106502600703222202</link>
+      <description>Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。</description>
+      <pubDate>Sat, 03 Oct 2026 21:52:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2106502600703222202</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2106502600703222202">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
     <item>
       <title>Capcom正在准备一个‘未来,我们用人工智能创造游戏'。</title>
       <link>https://www.theverge.com/games/1004418/capcom-ai-game-development</link>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 02 Oct 2026 19:33:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/arena/status/2106105400487821764</guid>
       <source url="https://x.com/arena/status/2106105400487821764">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文</title>
-      <link>https://x.com/AIatMeta/status/2106099776035152231</link>
-      <description>Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。</description>
-      <pubDate>Fri, 02 Oct 2026 19:11:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AIatMeta/status/2106099776035152231</guid>
-      <source url="https://x.com/AIatMeta/status/2106099776035152231">X：AI at Meta (@AIatMeta)</source>
-    </item>
-    <item>
-      <title>ChatGPT 推出 Finances 财务管理功能</title>
-      <link>https://x.com/ChatGPT/status/2106083595433791573</link>
-      <description>ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。</description>
-      <pubDate>Fri, 02 Oct 2026 18:07:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ChatGPT/status/2106083595433791573</guid>
-      <source url="https://x.com/ChatGPT/status/2106083595433791573">X：ChatGPT (@ChatGPT)</source>
     </item>
   </channel>
 </rss>
