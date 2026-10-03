@@ -582,5 +582,21 @@
     "sourceUrl": "https://x.com/ArtificialAnlys/status/2105790682376065463",
     "sourceName": "X：Artificial Analysis (@ArtificialAnlys)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
+    "summary": "Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。",
+    "sourceUrl": "https://allenai.org/blog/astabrief",
+    "sourceName": "Ai2 / Allen Institute for AI（RSS）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+    "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
+    "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+    "sourceName": "NVIDIA Blog（RSS）",
+    "reviewReason": "awaiting-review"
   }
 ]
