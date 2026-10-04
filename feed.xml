@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:27:37 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NJ的副州长告诉PBS, 人工智能说他没有性骚扰</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</link>
+      <description>新泽西州副州长戴尔·卡尔德韦尔(Dale Caldwell)在调查发现他性骚扰了一名员工并多次违反道德规则后被迫于9月25日辞职. 时任州长的上司一直在进行媒体调查,试图洗清他的姓名.</description>
+      <pubDate>Sun, 04 Oct 2026 12:16:04 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true">The Verge AI</source>
+    </item>
+    <item>
+      <title>人工智能无法打败StarCraft的人类,</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</link>
+      <description>StarSkirmish坑人工智能制造出"StarCraft-playing bots"相接相接并对抗人造bot. OpenAI的GPT-6 Astra和Claude Opus 5.5基本被捆绑为最佳表现的人工智能制造bots,但他们无法顶上"Stardust",即最高评级的"人造bot". 周五,GPT正面临"ag".</description>
+      <pubDate>Sun, 04 Oct 2026 11:21:59 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft">The Verge AI</source>
+    </item>
     <item>
       <title>Jev 之后，中国团队开始深挖 AI 的「直觉层」</title>
       <link>http://www.geekpark.net/news/372081</link>
@@ -150,22 +166,6 @@
       <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.00035</guid>
       <source url="https://arxiv.org/abs/2610.00035">ArXiv ML</source>
-    </item>
-    <item>
-      <title>LLMs 的快多功能横跨</title>
-      <link>https://arxiv.org/abs/2610.00049</link>
-      <description>图形处理单元(GPU) 代数矩阵、 特殊功能和内存管道的速率不同, 因此内核瓶颈随着硬件的演化而移动。 FlashAtthing-4 在 NVIDIA Blackwell 上暴露了这种关注内部的不平衡。 我们测试 wh</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.00049</guid>
-      <source url="https://arxiv.org/abs/2610.00049">ArXiv ML</source>
-    </item>
-    <item>
-      <title>英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文</title>
-      <link>http://www.geekpark.net/news/372070</link>
-      <description>英伟达股价创新高，逼近 6 万亿美元 英伟达股价自 5 月以来首次创下历史新高，在两个月的抛售导致市值蒸发逾 1 万亿美元后，投资者重新涌入该股。这家全球市值最高的上市公司股价周五上涨 2.9%，较 7 月底低点累计反弹近 25%。 英伟达股价今年迄今上涨约 27%，有望连续第四年实现两位数涨幅。目前公司市值约为 5.7 万亿美元，距离成为历史上首家市值达到 6 万亿美元的公司不到 3000 亿美元。（来源：环球市场播报） 腾讯 WorkBuddy 内置模型独家支持 Space Bunny 10 月 2 日消息，腾讯 WorkBuddy 宣布内置模型独家支持 Space Bunny。 据介绍，</description>
-      <pubDate>Sat, 03 Oct 2026 09:17:08 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372070</guid>
-      <source url="http://www.geekpark.net/news/372070">极客公园</source>
     </item>
   </channel>
 </rss>
