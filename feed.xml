@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 23:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:42:50 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」</title>
+      <link>http://www.geekpark.net/news/372075</link>
+      <description>作者｜宇航猿 编辑｜靖宇 一个男人对着镜头拧魔方，屏幕里的女孩盯着他手上的动作，时不时点头，提醒他下一步该转哪一面。他卡住了，低头琢磨，她没有插话，只是安静地等着。等他重新动手，她才接上一句。 如果没人告诉你，这看起来就是一次再普通不过的视频通话。 但屏幕里那个女孩并不存在。她的脸、她的声音、她的每一次点头和停顿，全部由 AI 实时生成。 Griffin 模型的演示效果确实非常惊艳｜视频来源：X 10 月 1 日，美国 AI 视频公司 Tavus 发布了一个名为 Griffin 的模型，并把它定义为全球第一个「人类交互模型」（Human Interaction Model，简称 HIM）。 T</description>
+      <pubDate>Sun, 04 Oct 2026 13:27:14 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372075</guid>
+      <source url="http://www.geekpark.net/news/372075">极客公园</source>
+    </item>
+    <item>
+      <title>Claude Code 的「乐高」模式，让程序员彻底玩「上头」了</title>
+      <link>http://www.geekpark.net/news/372074</link>
+      <description>作者｜Wildcard 编辑｜靖宇 终端向来是程序员最严肃的地盘。黑底白字，光标跳动，每一行输出都关乎代码能不能跑通。 但最近两周，Claude Code 的画风。被一群开发者彻底带偏了。 有人在输入框上方养了一只像素宠物，Claude 每调用一次工具它就吃一口饭，调用失败当场生病，碰上 rm -rf 还会抱头惊慌。有人把 Chrome 断网时的小恐龙搬了进来，Claude 在后台写业务逻辑，人在前台狂按空格跳仙人掌。还有人觉得等 AI 思考的时候总忍不住刷手机，干脆做了一个 4-7-8 呼吸引导动画，答案一出来动画自动消失。 开发者 jarrodwatts 制作的在 Claude Code</description>
+      <pubDate>Sun, 04 Oct 2026 13:16:11 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372074</guid>
+      <source url="http://www.geekpark.net/news/372074">极客公园</source>
+    </item>
+    <item>
+      <title>苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372073</link>
+      <description>苹果确认：美版 iPhone 18 Pro Max 有问题 北京时间 10 月 3 日，彭博社报道称，苹果公司表示，AT&amp;amp;T 的问题已导致部分 iPhone 18 Pro Max 用户无法拨打电话、访问数据或在联网时收发短信。目前尚不清楚有多少人遇到此问题。受影响的用户发现，除非连接到 Wi-Fi 网络，否则他们的设备基本无法使用。 苹果公司已发布运营商设置更新，并推出了 iOS 操作系统的新版本 27.0.1，以防止该问题进一步蔓延。运营商设置修复程序将在未来 14 天内自动为 AT&amp;amp;T 用户下载，但苹果仍建议消费者立即安装任何可用的软件更新。 苹果发言人在提供给彭博社的一份</description>
+      <pubDate>Sun, 04 Oct 2026 08:33:38 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372073</guid>
+      <source url="http://www.geekpark.net/news/372073">极客公园</source>
+    </item>
     <item>
       <title>Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体</title>
       <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 02 Oct 2026 17:08:37 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</guid>
       <source url="https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link">The Verge AI</source>
-    </item>
-    <item>
-      <title>苹果将限制Mac磁盘的访问,</title>
-      <link>https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents</link>
-      <description>正如TechCrunch早些时候报道的那样,苹果将在Mac上添加"全磁盘访问"的新限制,以应对人工智能特工构成的风险. 苹果在星期五的更新中表示,苹果推出新的控制,以"确保真正想授予一个应用的用户,这种超乎寻常的访问水平只能做到.</description>
-      <pubDate>Fri, 02 Oct 2026 16:08:40 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents</guid>
-      <source url="https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents">The Verge AI</source>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型</title>
-      <link>https://x.com/arena/status/2106109027923140928</link>
-      <description>Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。</description>
-      <pubDate>Fri, 02 Oct 2026 19:48:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2106109027923140928</guid>
-      <source url="https://x.com/arena/status/2106109027923140928">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿</title>
-      <link>https://x.com/arena/status/2106105400487821764</link>
-      <description>Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。</description>
-      <pubDate>Fri, 02 Oct 2026 19:33:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2106105400487821764</guid>
-      <source url="https://x.com/arena/status/2106105400487821764">X：Arena (@arena)</source>
     </item>
   </channel>
 </rss>
