@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 04 Oct 2026 05:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:15:36 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jev 之后，中国团队开始深挖 AI 的「直觉层」</title>
+      <link>http://www.geekpark.net/news/372081</link>
+      <description>作者｜桦林舞王 编辑｜靖宇 &amp;nbsp; 9 月 15 日，前 OpenAI 研究员 Diogo Almeida 创办的 TypeSafe AI 发布了 Jev。这款模型不写一个字，只做判断。 两周之后，整个行业都在做同一件事。OpenAI 在开发者日上推出 Decisions API，Cloudflare 在 10 月 1 日开源了 Clef，亚马逊也放出了 Strands Decider。 国内同样没闲着，上海人工智能实验室开源了多模态决策模型 Intern-Decision。 9 月 30 日，一家成立不到五个月的上海公司 StartLux（原点星辉）发布了开源的 StartLux-De</description>
+      <pubDate>Sun, 04 Oct 2026 19:41:48 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372081</guid>
+      <source url="http://www.geekpark.net/news/372081">极客公园</source>
+    </item>
+    <item>
+      <title>OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相</title>
+      <link>https://www.ifanr.com/1682922?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>教会 AI 善待人类前，先学会善待人#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sun, 04 Oct 2026 07:08:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1682922?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1682922?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」</title>
       <link>http://www.geekpark.net/news/372075</link>
@@ -150,22 +166,6 @@
       <pubDate>Sat, 03 Oct 2026 09:17:08 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372070</guid>
       <source url="http://www.geekpark.net/news/372070">极客公园</source>
-    </item>
-    <item>
-      <title>Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%</title>
-      <link>https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/</link>
-      <description>Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。</description>
-      <pubDate>Fri, 02 Oct 2026 21:09:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/</guid>
-      <source url="https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/">Baseten 工程博客（网页）</source>
-    </item>
-    <item>
-      <title>允许您制作 Muse 人工智能设备的元源代码</title>
-      <link>https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</link>
-      <description>Meta现在允许您自己制作Muse设备, 以公司开源代码为公司新的人工智能代理。 公司建议将Muse装入彩色 E 墨水显示器以显示提醒, 将其添加到 HDMI 棒中, 这样您就可以在大屏幕上显示Muse, 或者 [.]</description>
-      <pubDate>Fri, 02 Oct 2026 17:08:37 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</guid>
-      <source url="https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link">The Verge AI</source>
     </item>
   </channel>
 </rss>
