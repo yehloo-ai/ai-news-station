@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 15:55:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:34:02 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上</title>
+      <link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
+      <description>SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。</description>
+      <pubDate>Mon, 05 Oct 2026 20:01:09 +0000</pubDate>
+      <guid isPermaLink="true">https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</guid>
+      <source url="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">SemiAnalysis 长文 RSS（RSS）</source>
+    </item>
+    <item>
+      <title>参见新代码 CLI</title>
+      <link>https://www.youtube.com/watch?v=PUBc2G0Tj5E</link>
+      <description>查看最新的 Codex CLI 更新和刷新终端体验。 遵循新界面的走过和与 Codex 合作的方法 。</description>
+      <pubDate>Mon, 05 Oct 2026 18:29:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PUBc2G0Tj5E</guid>
+      <source url="https://www.youtube.com/watch?v=PUBc2G0Tj5E">OpenAI</source>
+    </item>
+    <item>
+      <title>Wikimedia 基金会发现 OpenAI "流氓"智能体在维基媒体平台上的活动</title>
+      <link>https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/</link>
+      <description>Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的"流氓"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。</description>
+      <pubDate>Mon, 05 Oct 2026 17:53:35 +0000</pubDate>
+      <guid isPermaLink="true">https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/</guid>
+      <source url="https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/">Hacker News：AI 热帖</source>
+    </item>
+    <item>
+      <title>OpenAI PR告诉记者,</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr</link>
+      <description>一位OpenAI的公关人士试图改变CEO萨姆·阿尔特曼在"名利场"的Mark Guiducci的采访话题,因为编辑提起了一位ChatGPT用户的自杀事件. 当Guiducci就此事件与阿尔特曼对质时,公关人士警告了Guiducci"时间不多了",说她想"移动O".</description>
+      <pubDate>Mon, 05 Oct 2026 12:55:42 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr">The Verge AI</source>
+    </item>
+    <item>
+      <title>Sam Altman说“有些坏事会发生”,但人工智能是完全值得的。</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff</link>
+      <description>山姆·阿尔特曼(Sam Altman)认为,人工智能的好处将如此之大,以至于"世界应该接受一些沿途发生的坏事". OpenAI CEO指出黑客,骗局,"其他坏事"是社会所期望的可以容忍的代价,因为"人们将会做巨大数量级的更多".</description>
+      <pubDate>Mon, 05 Oct 2026 12:44:21 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff">The Verge AI</source>
+    </item>
     <item>
       <title>OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印</title>
       <link>https://openai.com/index/eu-text-provenance</link>
@@ -126,46 +166,6 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.02225</guid>
       <source url="https://arxiv.org/abs/2610.02225">ArXiv ML</source>
-    </item>
-    <item>
-      <title>国家空间在地表预报方面的非结构性偏见的学习</title>
-      <link>https://arxiv.org/abs/2610.02248</link>
-      <description>以Mamba-family结构化国家空间模型为基础的可操作地表预报系统,将非固定的混乱事件(未记录的灌溉热潮、大坝操作转移、传感器再调整)吸收到其状态过渡矩阵中,S</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02248</guid>
-      <source url="https://arxiv.org/abs/2610.02248">ArXiv ML</source>
-    </item>
-    <item>
-      <title>不同假设下的MS/MS光谱指纹预测近邻基线</title>
-      <link>https://arxiv.org/abs/2610.02249</link>
-      <description>最近有证据表明,最近的邻接检索为MS/MS光谱的分子指纹预测提供了强有力的基线,其中几种变体匹配或优于当前深层学习模型(Khoo和Barzilay, 2026;Liu e)</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02249</guid>
-      <source url="https://arxiv.org/abs/2610.02249">ArXiv ML</source>
-    </item>
-    <item>
-      <title>分泌树样样本</title>
-      <link>https://arxiv.org/abs/2610.02251</link>
-      <description>光谱采样通过在保持目标定律的同时同时验证廉价的草稿加速了扩散生成。 最近的基于树的方法比单链草稿更有效地分配并行计算预算,因为恶魔</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02251</guid>
-      <source url="https://arxiv.org/abs/2610.02251">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Hakem Bench: 土耳其类型决定基准</title>
-      <link>https://arxiv.org/abs/2610.02293</link>
-      <description>Hakem Bench是土耳其的打字决定基准,其中被测试的模型读取了文本,一个问题和一组固定的选项,并返回每个选项的概率. 1.0版本在CC BY 4.0下完全开放,有2,346个项目和</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02293</guid>
-      <source url="https://arxiv.org/abs/2610.02293">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Finding the Move is not Winning the Game: Xiangqi Bench 对 LLM 智能体的闭环评价</title>
-      <link>https://arxiv.org/abs/2610.02425</link>
-      <description>静态评价可以肯定一个语言模型来命名正确的动作,但代理人必须在对手回应时将一个计划传递到一个可核实的结果。 我们引入了Xiangqi Bench,一个可执行的基准,用中文衡量这一差异 c</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02425</guid>
-      <source url="https://arxiv.org/abs/2610.02425">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
