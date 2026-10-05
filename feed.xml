@@ -5,8 +5,136 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 00:48:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:55:09 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MintFlow: 限制流相匹配的最小轨迹干涉</title>
+      <link>https://arxiv.org/abs/2610.02260</link>
+      <description>流动匹配模型在基因模型制作方面表现优异,许多下游应用要求其样本满足规定的限制,如所观察到的测量和物理定律。</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02260</guid>
+      <source url="https://arxiv.org/abs/2610.02260">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Fast Models, Slow Effairs: 对LLM智能体哈内塞斯系统-1决策模型进行自审和自审评价</title>
+      <link>https://arxiv.org/abs/2610.02267</link>
+      <description>Agent japes 每次任务都会做出许多小的,打字的决定:哪一个模式呼叫,哪一个工具使用,检索到的文本是否相关,输入是否带有注入. System-1 决策模型在单个前传中用 c 回答这类问题.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02267</guid>
+      <source url="https://arxiv.org/abs/2610.02267">ArXiv AI</source>
+    </item>
+    <item>
+      <title>人工智能风险观测站:在年度报告中关于社会复原力的人工智能披露中,我们能学到什么?</title>
+      <link>https://arxiv.org/abs/2610.02281</link>
+      <description>社会复原力研究依赖于获取有用和可操作的数据,这激励了我们的主要研究问题:用LLMs处理的年度报告能否提供公司如何披露其对人工智能的反应的有用信号?</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02281</guid>
+      <source url="https://arxiv.org/abs/2610.02281">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Keep it CALM: 分析文本到图像生成中全球不安全的界限</title>
+      <link>https://arxiv.org/abs/2610.02300</link>
+      <description>对文本到图像生成的无培训保障常常依赖于可重复使用的安全信号,例如不安全的方向或全球有毒子空间,广泛适用于各种提示。</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02300</guid>
+      <source url="https://arxiv.org/abs/2610.02300">ArXiv AI</source>
+    </item>
+    <item>
+      <title>行动前选择:长视距工具使用代理的比较价值估计</title>
+      <link>https://arxiv.org/abs/2610.02330</link>
+      <description>大型语言模型(LLMS)依赖长视距工具引用序列来完成复杂的任务,其中每次引用都可以改变任务状态并附加后续决定的条件. 在长视距工具使用中,最终结果奖励提供微弱的信用分配.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02330</guid>
+      <source url="https://arxiv.org/abs/2610.02330">ArXiv AI</source>
+    </item>
+    <item>
+      <title>混合机器学习辅助拉曼光谱学,用于药物鉴定的基因特征增强</title>
+      <link>https://arxiv.org/abs/2610.02224</link>
+      <description>快速和可靠地识别药品残留物对于保障公众健康、确保食品安全以及促成基于拉曼的实用筛查非常重要。 在这项研究中,我们提议采用混合拉曼光谱学框架HyMLRaman。</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02224</guid>
+      <source url="https://arxiv.org/abs/2610.02224">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Greenwashing 的价格: 使用 Conformal 机器学习的算术验证和市场纪律</title>
+      <link>https://arxiv.org/abs/2610.02225</link>
+      <description>虽然公司可持续性的任务正在扩大,但系统性地依赖自报的排放数据使金融市场面临普遍的 " 绿色洗涤 " 。 当前的文献在很大程度上依赖于主观的ESG评级或文字情感分析。</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02225</guid>
+      <source url="https://arxiv.org/abs/2610.02225">ArXiv ML</source>
+    </item>
+    <item>
+      <title>国家空间在地表预报方面的非结构性偏见的学习</title>
+      <link>https://arxiv.org/abs/2610.02248</link>
+      <description>以Mamba-family结构化国家空间模型为基础的可操作地表预报系统,将非固定的混乱事件(未记录的灌溉热潮、大坝操作转移、传感器再调整)吸收到其状态过渡矩阵中,S</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02248</guid>
+      <source url="https://arxiv.org/abs/2610.02248">ArXiv ML</source>
+    </item>
+    <item>
+      <title>不同假设下的MS/MS光谱指纹预测近邻基线</title>
+      <link>https://arxiv.org/abs/2610.02249</link>
+      <description>最近有证据表明,最近的邻接检索为MS/MS光谱的分子指纹预测提供了强有力的基线,其中几种变体匹配或优于当前深层学习模型(Khoo和Barzilay, 2026;Liu e)</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02249</guid>
+      <source url="https://arxiv.org/abs/2610.02249">ArXiv ML</source>
+    </item>
+    <item>
+      <title>分泌树样样本</title>
+      <link>https://arxiv.org/abs/2610.02251</link>
+      <description>光谱采样通过在保持目标定律的同时同时验证廉价的草稿加速了扩散生成。 最近的基于树的方法比单链草稿更有效地分配并行计算预算,因为恶魔</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02251</guid>
+      <source url="https://arxiv.org/abs/2610.02251">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Hakem Bench: 土耳其类型决定基准</title>
+      <link>https://arxiv.org/abs/2610.02293</link>
+      <description>Hakem Bench是土耳其的打字决定基准,其中被测试的模型读取了文本,一个问题和一组固定的选项,并返回每个选项的概率. 1.0版本在CC BY 4.0下完全开放,有2,346个项目和</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02293</guid>
+      <source url="https://arxiv.org/abs/2610.02293">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>Finding the Move is not Winning the Game: Xiangqi Bench 对 LLM 智能体的闭环评价</title>
+      <link>https://arxiv.org/abs/2610.02425</link>
+      <description>静态评价可以肯定一个语言模型来命名正确的动作,但代理人必须在对手回应时将一个计划传递到一个可核实的结果。 我们引入了Xiangqi Bench,一个可执行的基准,用中文衡量这一差异 c</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02425</guid>
+      <source url="https://arxiv.org/abs/2610.02425">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>通过偶发定理生成反示例 符号验证器:模仿伤害和加固修复时</title>
+      <link>https://arxiv.org/abs/2610.02444</link>
+      <description>大型语言模型往往能解决一个定理的前进问题,但却无法反驳一个密切相关的虚假:一个监督微调的伪造漏洞不会关闭,并且会积极恶化。 我们把反例生成设定为受限的目击证据emis。</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02444</guid>
+      <source url="https://arxiv.org/abs/2610.02444">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>FinDialogLens:关于金融聊天室中误入歧途的贸易识别的多方对话事件</title>
+      <link>https://arxiv.org/abs/2610.02455</link>
+      <description>多方金融聊天室对销售和交易专业人员至关重要,但其复杂性使得手动回收错失的行业变得不可行: 每一个引用请求(RFQ)是一个事件,其最终价格和贸易结果似乎有许多信息流出.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02455</guid>
+      <source url="https://arxiv.org/abs/2610.02455">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>CUEing用户模拟器:校正用户嵌入多回合基准</title>
+      <link>https://arxiv.org/abs/2610.02460</link>
+      <description>最近的基准依赖于用户模拟器在多回合互动中评价人工智能代理。 虽然现有的模拟技术显示出表面对人类风格和行为的忠诚,但生态上有效的交互基准也要求配对者</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02460</guid>
+      <source url="https://arxiv.org/abs/2610.02460">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus</title>
+      <link>https://www.qbitai.com/2026/10/501700.html</link>
+      <description>有改进就体验，没改进就重置，横竖不亏。</description>
+      <pubDate>Mon, 05 Oct 2026 02:50:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501700.html</guid>
+      <source url="https://www.qbitai.com/2026/10/501700.html">量子位</source>
+    </item>
     <item>
       <title>马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道</title>
       <link>http://www.geekpark.net/news/372082</link>
@@ -38,134 +166,6 @@
       <pubDate>Sun, 04 Oct 2026 11:21:59 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft">The Verge AI</source>
-    </item>
-    <item>
-      <title>Jev 之后，中国团队开始深挖 AI 的「直觉层」</title>
-      <link>http://www.geekpark.net/news/372081</link>
-      <description>作者｜桦林舞王 编辑｜靖宇 &amp;nbsp; 9 月 15 日，前 OpenAI 研究员 Diogo Almeida 创办的 TypeSafe AI 发布了 Jev。这款模型不写一个字，只做判断。 两周之后，整个行业都在做同一件事。OpenAI 在开发者日上推出 Decisions API，Cloudflare 在 10 月 1 日开源了 Clef，亚马逊也放出了 Strands Decider。 国内同样没闲着，上海人工智能实验室开源了多模态决策模型 Intern-Decision。 9 月 30 日，一家成立不到五个月的上海公司 StartLux（原点星辉）发布了开源的 StartLux-De</description>
-      <pubDate>Sun, 04 Oct 2026 19:41:48 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372081</guid>
-      <source url="http://www.geekpark.net/news/372081">极客公园</source>
-    </item>
-    <item>
-      <title>OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相</title>
-      <link>https://www.ifanr.com/1682922?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>教会 AI 善待人类前，先学会善待人#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sun, 04 Oct 2026 07:08:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1682922?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1682922?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」</title>
-      <link>http://www.geekpark.net/news/372075</link>
-      <description>作者｜宇航猿 编辑｜靖宇 一个男人对着镜头拧魔方，屏幕里的女孩盯着他手上的动作，时不时点头，提醒他下一步该转哪一面。他卡住了，低头琢磨，她没有插话，只是安静地等着。等他重新动手，她才接上一句。 如果没人告诉你，这看起来就是一次再普通不过的视频通话。 但屏幕里那个女孩并不存在。她的脸、她的声音、她的每一次点头和停顿，全部由 AI 实时生成。 Griffin 模型的演示效果确实非常惊艳｜视频来源：X 10 月 1 日，美国 AI 视频公司 Tavus 发布了一个名为 Griffin 的模型，并把它定义为全球第一个「人类交互模型」（Human Interaction Model，简称 HIM）。 T</description>
-      <pubDate>Sun, 04 Oct 2026 13:27:14 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372075</guid>
-      <source url="http://www.geekpark.net/news/372075">极客公园</source>
-    </item>
-    <item>
-      <title>Claude Code 的「乐高」模式，让程序员彻底玩「上头」了</title>
-      <link>http://www.geekpark.net/news/372074</link>
-      <description>作者｜Wildcard 编辑｜靖宇 终端向来是程序员最严肃的地盘。黑底白字，光标跳动，每一行输出都关乎代码能不能跑通。 但最近两周，Claude Code 的画风。被一群开发者彻底带偏了。 有人在输入框上方养了一只像素宠物，Claude 每调用一次工具它就吃一口饭，调用失败当场生病，碰上 rm -rf 还会抱头惊慌。有人把 Chrome 断网时的小恐龙搬了进来，Claude 在后台写业务逻辑，人在前台狂按空格跳仙人掌。还有人觉得等 AI 思考的时候总忍不住刷手机，干脆做了一个 4-7-8 呼吸引导动画，答案一出来动画自动消失。 开发者 jarrodwatts 制作的在 Claude Code</description>
-      <pubDate>Sun, 04 Oct 2026 13:16:11 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372074</guid>
-      <source url="http://www.geekpark.net/news/372074">极客公园</source>
-    </item>
-    <item>
-      <title>苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372073</link>
-      <description>苹果确认：美版 iPhone 18 Pro Max 有问题 北京时间 10 月 3 日，彭博社报道称，苹果公司表示，AT&amp;amp;T 的问题已导致部分 iPhone 18 Pro Max 用户无法拨打电话、访问数据或在联网时收发短信。目前尚不清楚有多少人遇到此问题。受影响的用户发现，除非连接到 Wi-Fi 网络，否则他们的设备基本无法使用。 苹果公司已发布运营商设置更新，并推出了 iOS 操作系统的新版本 27.0.1，以防止该问题进一步蔓延。运营商设置修复程序将在未来 14 天内自动为 AT&amp;amp;T 用户下载，但苹果仍建议消费者立即安装任何可用的软件更新。 苹果发言人在提供给彭博社的一份</description>
-      <pubDate>Sun, 04 Oct 2026 08:33:38 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372073</guid>
-      <source url="http://www.geekpark.net/news/372073">极客公园</source>
-    </item>
-    <item>
-      <title>Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-      <description>Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。</description>
-      <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox</guid>
-      <source url="https://huggingface.co/blog/microsoft/thinkingbox">Hugging Face：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善</title>
-      <link>https://x.com/rohanpaul_ai/status/2106502600703222202</link>
-      <description>Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。</description>
-      <pubDate>Sat, 03 Oct 2026 21:52:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2106502600703222202</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2106502600703222202">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>Capcom正在准备一个‘未来,我们用人工智能创造游戏'。</title>
-      <link>https://www.theverge.com/games/1004418/capcom-ai-game-development</link>
-      <description>Capcom的"Pragmata"可能全部是关于人工智能的恐怖,但实际上工作室在技术上似乎并不那么低落. Capcom Open Conference RE: 2026程序员石田相一(Satushi Ishida)在演讲中口口说道:"REX项目的展望与未来,进一步演变.</description>
-      <pubDate>Sat, 03 Oct 2026 12:49:10 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/games/1004418/capcom-ai-game-development</guid>
-      <source url="https://www.theverge.com/games/1004418/capcom-ai-game-development">The Verge AI</source>
-    </item>
-    <item>
-      <title>Splice CEO Kakul Srivastava 认为人工智能电子邮件会扼杀对话</title>
-      <link>https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</link>
-      <description>Kakul Srivastava是Splice的首席执行官,样本平台上无数的制作人依赖一弹一弹和自旋回路,从服务中抽取的样本已经找到了像丽莎"金钱"和萨布丽娜·卡彭特所著"Espresso"这样的大规模点击(原始样本在这里和这里,为cur).</description>
-      <pubDate>Sat, 03 Oct 2026 11:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</guid>
-      <source url="https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI安全员工辞职 正在报警</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</link>
-      <description>David Robinson 曾经在OpenAI 上写过所有重大模型发布时的安全报告。这个星期,他辞去职务,现在发表在《大西洋》的一篇社论中。如果你对每个人突然从木偶里出来感到有些愤世嫉俗,这是可以理解的。</description>
-      <pubDate>Sat, 03 Oct 2026 10:31:56 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm">The Verge AI</source>
-    </item>
-    <item>
-      <title>DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师</title>
-      <link>https://www.qbitai.com/2026/10/501381.html</link>
-      <description>岗位JD甩了篇技术报告</description>
-      <pubDate>Sat, 03 Oct 2026 07:54:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501381.html</guid>
-      <source url="https://www.qbitai.com/2026/10/501381.html">量子位</source>
-    </item>
-    <item>
-      <title>AI 视频榜全球第二，藏着一家新影视公司的野心</title>
-      <link>https://www.ifanr.com/1682888?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>一家影视公司，杀进了视频模型的决赛圈#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 03 Oct 2026 07:00:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1682888?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1682888?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件</title>
-      <link>https://www.ithome.com/1/009/444.htm</link>
-      <description>据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。</description>
-      <pubDate>Sat, 03 Oct 2026 06:18:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/009/444.htm</guid>
-      <source url="https://www.ithome.com/1/009/444.htm">IT之家（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开</title>
-      <link>https://www.qbitai.com/2026/10/501368.html</link>
-      <description>又咋啦。。。</description>
-      <pubDate>Sat, 03 Oct 2026 04:41:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501368.html</guid>
-      <source url="https://www.qbitai.com/2026/10/501368.html">量子位</source>
-    </item>
-    <item>
-      <title>碎片式癌症药物反应母体分级的Sparsity-Robust Ranking反应理论</title>
-      <link>https://arxiv.org/abs/2610.00002</link>
-      <description>我们通过将癌症类型作为具有抗药性能力的潜在“主体”,将药物作为有逃避困难的“物品”来引入反向反应理论(IRT)药物反应分析。</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.00002</guid>
-      <source url="https://arxiv.org/abs/2610.00002">ArXiv ML</source>
-    </item>
-    <item>
-      <title>亚当从自然渐入世有多远?</title>
-      <link>https://arxiv.org/abs/2610.00004</link>
-      <description>亚当是深层学习中的标准优化者,然而它与自然梯度阶地(NGD)的几何关系包含了一些尚未解决的问题。 我们研究亚当的完整更新规则,包括动力,作为一个对角经验性的Fisher近似主题</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.00004</guid>
-      <source url="https://arxiv.org/abs/2610.00004">ArXiv ML</source>
     </item>
   </channel>
 </rss>
