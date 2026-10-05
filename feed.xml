@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:55:21 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印</title>
+      <link>https://openai.com/index/eu-text-provenance</link>
+      <description>OpenAI 公布应对 EU AI Act 的文本水印方案，发布在模型词选择中加入不可见统计信号的 textGrain 技术，API 客户即日起可对部分模型选择性开启水印，未来数周将在欧盟地区为 ChatGPT 和 Codex 输出添加隐形水印，检测器暂只向获批的研究者和专家机构开放。</description>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
+      <source url="https://openai.com/index/eu-text-provenance">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
+    <item>
+      <title>Sen. Adam Schiff关于人工智能监管,言论自由, 以及再次弹劾特朗普</title>
+      <link>https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption</link>
+      <description>今天,我正在和来自加利福尼亚州的民主党人Sen. Adam Schiff交谈。Schiff是一些对技术和人工智能进行监督的委员会的成员:知识产权、反托拉斯、隐私和技术。我真的想问他,我们如何管理与技术有关的一切。</description>
+      <pubDate>Mon, 05 Oct 2026 10:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption</guid>
+      <source url="https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption">The Verge AI</source>
+    </item>
+    <item>
+      <title>一个开源工具允许您删除 macOS 上的 苹果智能 12GB 数据</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool</link>
+      <description>在您的 Mac 上获取一些额外的存储空间可能与删除 Apple 的人工智能功能一样容易。 新的开源命令行工具名为 RemoveMacAI 。 曾经有一个用于让 Apple Intelligence 失效的单个设置切换器, 但是在 macOS 27. 中被删除。 现在, 模型留在您的磁盘上,</description>
+      <pubDate>Mon, 05 Oct 2026 09:47:14 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI在ChatGPT上贴出更多的广告</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads</link>
+      <description>OpenAI的最新广告格式将把赞助产品和服务的图像放入您屏幕。 OpenAI 本月晚些时候将开始在美国测试的广告, 将在您与 ChatGPT 一同生成图像时“ 初始” 出现, 根据周一的公告。 该公司首先将广告带给 Ch</description>
+      <pubDate>Mon, 05 Oct 2026 09:09:48 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具</title>
+      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
+      <description>OpenAI 宣布在 ChatGPT 推出新的视觉广告格式，本月起在美国于图像生成场景中测试，广告将明确标注且不影响 ChatGPT 的回答。</description>
+      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
+      <source url="https://openai.com/index/new-chatgpt-ads-format-and-measurement">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
+    <item>
+      <title>我们的头脑无法处理人工智能</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought</link>
+      <description>网络神经病的教父诺伯特·维纳(Norbert Wiener)曾说过"每个时代的思想都体现在它的技巧上",在过去的世纪里,我们的思想已经反映在我们的计算机中,包括人工智能行业的计算机中. Google的"Demis Hassabis"称大脑为"一种生物近似于图灵".</description>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought">The Verge AI</source>
+    </item>
+    <item>
+      <title>10亿美元的人工智能优势正在消失</title>
+      <link>https://www.youtube.com/watch?v=ZHVNTTKu9fU</link>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Sonnet 5.5: https://www.anthropic.com/claude-sonnet-5-5 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyso</description>
+      <pubDate>Mon, 05 Oct 2026 09:53:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHVNTTKu9fU</guid>
+      <source url="https://www.youtube.com/watch?v=ZHVNTTKu9fU">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>AI，为什么总在画美女？</title>
+      <link>http://www.geekpark.net/news/372084</link>
+      <description>作者｜汤一涛 编辑｜靖宇 &amp;nbsp; 今年 5 月初，X 上一条五秒钟的视频火了。这是一场韩国职业棒球联赛转播，韩华鹰队对阵斗山熊队。镜头扫到看台上一个穿白上衣和牛仔裤的女人，翘着腿。某一刻，她似乎叹了口气，并移开了视线，看起来对比赛感到不满。 视频配文是「普通韩国女性」。截至本文发布，视频播放量已经为 1525 万｜视频来源：X @kangminlee 但是很快一群资深球迷看出了不对劲。比分牌上写着，击球手是曹仁成（Cho Inseong），可曹仁成 2017 年就退役了，现在在斗山当教练。 此外，看台上的加油标语比斗山熊的官方口号多出一个字，像是 AI 生硬直译出来的。而这场转播，解说却</description>
+      <pubDate>Mon, 05 Oct 2026 17:45:01 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372084</guid>
+      <source url="http://www.geekpark.net/news/372084">极客公园</source>
+    </item>
     <item>
       <title>MintFlow: 限制流相匹配的最小轨迹干涉</title>
       <link>https://arxiv.org/abs/2610.02260</link>
@@ -102,70 +166,6 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.02425</guid>
       <source url="https://arxiv.org/abs/2610.02425">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>通过偶发定理生成反示例 符号验证器:模仿伤害和加固修复时</title>
-      <link>https://arxiv.org/abs/2610.02444</link>
-      <description>大型语言模型往往能解决一个定理的前进问题,但却无法反驳一个密切相关的虚假:一个监督微调的伪造漏洞不会关闭,并且会积极恶化。 我们把反例生成设定为受限的目击证据emis。</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02444</guid>
-      <source url="https://arxiv.org/abs/2610.02444">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>FinDialogLens:关于金融聊天室中误入歧途的贸易识别的多方对话事件</title>
-      <link>https://arxiv.org/abs/2610.02455</link>
-      <description>多方金融聊天室对销售和交易专业人员至关重要,但其复杂性使得手动回收错失的行业变得不可行: 每一个引用请求(RFQ)是一个事件,其最终价格和贸易结果似乎有许多信息流出.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02455</guid>
-      <source url="https://arxiv.org/abs/2610.02455">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>CUEing用户模拟器:校正用户嵌入多回合基准</title>
-      <link>https://arxiv.org/abs/2610.02460</link>
-      <description>最近的基准依赖于用户模拟器在多回合互动中评价人工智能代理。 虽然现有的模拟技术显示出表面对人类风格和行为的忠诚,但生态上有效的交互基准也要求配对者</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02460</guid>
-      <source url="https://arxiv.org/abs/2610.02460">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus</title>
-      <link>https://www.qbitai.com/2026/10/501700.html</link>
-      <description>有改进就体验，没改进就重置，横竖不亏。</description>
-      <pubDate>Mon, 05 Oct 2026 02:50:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501700.html</guid>
-      <source url="https://www.qbitai.com/2026/10/501700.html">量子位</source>
-    </item>
-    <item>
-      <title>马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372082</link>
-      <description>马斯克拟将 SpaceXAI 更名为 SpaceXSI 为「超级智能」概念背书 美国总统特朗普推动以「超级智能」（Super Intelligence，简称 SI）取代「人工智能」（AI）的举措正在迅速影响科技行业。特斯拉和 SpaceX 首席执行官埃隆&amp;middot;马斯克日前表示，旗下人工智能业务品牌 SpaceXAI 有意更名为 SpaceXSI，并公开宣称「SpaceX 是一家超级智能公司」。 这一表态源于特朗普政府近期推动的一项新政策。9 月 22 日，特朗普宣布以「超级智能」取代「人工智能」这一术语，并呼吁美国联邦政府在相关文件和机构中采用新的表述。此后，美国政府开始围绕「超级智能</description>
-      <pubDate>Mon, 05 Oct 2026 08:36:34 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372082</guid>
-      <source url="http://www.geekpark.net/news/372082">极客公园</source>
-    </item>
-    <item>
-      <title>PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄</title>
-      <link>https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills</link>
-      <description>PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。</description>
-      <pubDate>Mon, 05 Oct 2026 00:24:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills</guid>
-      <source url="https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills">PromptArmor：Threat Intelligence</source>
-    </item>
-    <item>
-      <title>NJ的前Lt Gov正在利用人工智能,</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</link>
-      <description>新泽西州副州长戴尔·卡尔德韦尔(Dale Caldwell)在调查发现他性骚扰了一名员工并多次违反道德规则后被迫于9月25日辞职. 时任州长的上司一直在进行媒体调查,试图洗清他的姓名.</description>
-      <pubDate>Sun, 04 Oct 2026 12:16:04 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true">The Verge AI</source>
-    </item>
-    <item>
-      <title>人工智能无法打败StarCraft的人类,</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</link>
-      <description>StarSkirmish坑人工智能制造出"StarCraft-playing bots"相接相接并对抗人造bot. OpenAI的GPT-6 Astra和Claude Opus 5.5基本被捆绑为最佳表现的人工智能制造bots,但他们无法顶上"Stardust",即最高评级的"人造bot". 周五,GPT正面临"ag".</description>
-      <pubDate>Sun, 04 Oct 2026 11:21:59 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft">The Verge AI</source>
     </item>
   </channel>
 </rss>
