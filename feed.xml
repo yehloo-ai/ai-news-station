@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 04 Oct 2026 21:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 00:48:40 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372082</link>
+      <description>马斯克拟将 SpaceXAI 更名为 SpaceXSI 为「超级智能」概念背书 美国总统特朗普推动以「超级智能」（Super Intelligence，简称 SI）取代「人工智能」（AI）的举措正在迅速影响科技行业。特斯拉和 SpaceX 首席执行官埃隆&amp;middot;马斯克日前表示，旗下人工智能业务品牌 SpaceXAI 有意更名为 SpaceXSI，并公开宣称「SpaceX 是一家超级智能公司」。 这一表态源于特朗普政府近期推动的一项新政策。9 月 22 日，特朗普宣布以「超级智能」取代「人工智能」这一术语，并呼吁美国联邦政府在相关文件和机构中采用新的表述。此后，美国政府开始围绕「超级智能</description>
+      <pubDate>Mon, 05 Oct 2026 08:36:34 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372082</guid>
+      <source url="http://www.geekpark.net/news/372082">极客公园</source>
+    </item>
+    <item>
+      <title>PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄</title>
+      <link>https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills</link>
+      <description>PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。</description>
+      <pubDate>Mon, 05 Oct 2026 00:24:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills</guid>
+      <source url="https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills">PromptArmor：Threat Intelligence</source>
+    </item>
     <item>
       <title>NJ的前Lt Gov正在利用人工智能,</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</link>
@@ -150,22 +166,6 @@
       <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.00004</guid>
       <source url="https://arxiv.org/abs/2610.00004">ArXiv ML</source>
-    </item>
-    <item>
-      <title>FourierQK:过滤器形状、可受理性和渗漏法</title>
-      <link>https://arxiv.org/abs/2610.00009</link>
-      <description>频率-collaps attention[Zeris, 2026e]通过将Q/K点产品以带宽-过滤的内出产替换为学习频率,在标准点产品关注上取得了很大的收益. 一个自然的后继问题就是:哪个过滤出形状wor</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.00009</guid>
-      <source url="https://arxiv.org/abs/2610.00009">ArXiv ML</source>
-    </item>
-    <item>
-      <title>将公平性和可解释性纳入多例强化学习系统</title>
-      <link>https://arxiv.org/abs/2610.00035</link>
-      <description>从教育互动数据中预测学生的成绩需要准确和足够透明的模型,以支持有意义的干预,而人口信息则带来不公平预测的额外风险.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.00035</guid>
-      <source url="https://arxiv.org/abs/2610.00035">ArXiv ML</source>
     </item>
   </channel>
 </rss>
