@@ -5,8 +5,64 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:35:54 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitHub 重建 Git 基础设施，应对智能体规模开发</title>
+      <link>https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</link>
+      <description>GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。</description>
+      <pubDate>Tue, 06 Oct 2026 20:57:56 +0000</pubDate>
+      <guid isPermaLink="true">https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</guid>
+      <source url="https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/">GitHub Blog</source>
+    </item>
+    <item>
+      <title>ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办</title>
+      <link>https://x.com/thsottiaux/status/2107573405553938664</link>
+      <description>ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。</description>
+      <pubDate>Tue, 06 Oct 2026 20:47:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2107573405553938664</guid>
+      <source url="https://x.com/thsottiaux/status/2107573405553938664">X：Tibo (@thsottiaux)</source>
+    </item>
+    <item>
+      <title>Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2</title>
+      <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
+      <description>Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。</description>
+      <pubDate>Tue, 06 Oct 2026 19:57:04 +0000</pubDate>
+      <guid isPermaLink="true">https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
+      <source url="https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/">Google DeepMind：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑</title>
+      <link>https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/</link>
+      <description>亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。</description>
+      <pubDate>Tue, 06 Oct 2026 19:26:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/</guid>
+      <source url="https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/">404 Media（RSS）</source>
+    </item>
+    <item>
+      <title>DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与</title>
+      <link>https://x.com/thexpin/status/2107524306058289533</link>
+      <description>据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。</description>
+      <pubDate>Tue, 06 Oct 2026 17:32:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thexpin/status/2107524306058289533</guid>
+      <source url="https://x.com/thexpin/status/2107524306058289533">X：X.PIN (@thexpin)</source>
+    </item>
+    <item>
+      <title>Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议</title>
+      <link>https://sierra.ai/blog/introducing-personal-agent-protocol</link>
+      <description>Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。</description>
+      <pubDate>Tue, 06 Oct 2026 17:32:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sierra.ai/blog/introducing-personal-agent-protocol</guid>
+      <source url="https://sierra.ai/blog/introducing-personal-agent-protocol">Sierra：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑</title>
+      <link>https://www.youtube.com/watch?v=idJQMJwHtyM</link>
+      <description>Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。</description>
+      <pubDate>Tue, 06 Oct 2026 17:02:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=idJQMJwHtyM</guid>
+      <source url="https://www.youtube.com/watch?v=idJQMJwHtyM">Claude：YouTube（RSS）</source>
+    </item>
     <item>
       <title>我们不能只是改变“记录”的定义。</title>
       <link>https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording</link>
@@ -14,14 +70,6 @@
       <pubDate>Tue, 06 Oct 2026 12:29:44 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording</guid>
       <source url="https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording">The Verge AI</source>
-    </item>
-    <item>
-      <title>Nano Banana 2.1 开始在 Gemini App、Search AI Mode 等多平台推出</title>
-      <link>https://x.com/Google/status/2107501211532382687</link>
-      <description>Google 宣布 Nano Banana 2.1 于当天开始推出，覆盖 Gemini App、Search AI Mode、Google AI Studio、Flow、Stitch、Google Ads 和 Gemini Enterprise Platform。</description>
-      <pubDate>Tue, 06 Oct 2026 16:00:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Google/status/2107501211532382687</guid>
-      <source url="https://x.com/Google/status/2107501211532382687">X：Google (@Google)</source>
     </item>
     <item>
       <title>DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布</title>
@@ -46,14 +94,6 @@
       <pubDate>Tue, 06 Oct 2026 14:02:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/OpenRouter/status/2107471559040635360</guid>
       <source url="https://x.com/OpenRouter/status/2107471559040635360">X：OpenRouter (@OpenRouter)</source>
-    </item>
-    <item>
-      <title>Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重</title>
-      <link>https://mistral.ai/news/mistral-large-4/</link>
-      <description>Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。</description>
-      <pubDate>Tue, 06 Oct 2026 13:25:50 +0000</pubDate>
-      <guid isPermaLink="true">https://mistral.ai/news/mistral-large-4/</guid>
-      <source url="https://mistral.ai/news/mistral-large-4/">Hacker News：AI 热帖</source>
     </item>
     <item>
       <title>Google即将移除双子座闪光灯和Pro的自由访问权限</title>
@@ -86,14 +126,6 @@
       <pubDate>Tue, 06 Oct 2026 06:28:43 +0000</pubDate>
       <guid isPermaLink="true">https://www.latent.space/p/ainews-reflection-beam-501b-a23b</guid>
       <source url="https://www.latent.space/p/ainews-reflection-beam-501b-a23b">Latent Space（RSS）</source>
-    </item>
-    <item>
-      <title>消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与</title>
-      <link>https://www.ithome.com/1/009/990.htm</link>
-      <description>据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。</description>
-      <pubDate>Tue, 06 Oct 2026 06:25:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/009/990.htm</guid>
-      <source url="https://www.ithome.com/1/009/990.htm">IT之家（RSS）</source>
     </item>
     <item>
       <title>Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付</title>
@@ -134,38 +166,6 @@
       <pubDate>Tue, 06 Oct 2026 00:18:00 +0000</pubDate>
       <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7</guid>
       <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型</title>
-      <link>https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/</link>
-      <description>Google 发布基于 Gemma 4 的开源嵌入模型 EmbeddingGemma 2，采用 Apache 2.0 许可，将文本、代码、图像、视频和音频映射到统一的 768 维向量空间，参数量从 270M（文本/代码）到 740M（全模态）按需加载。</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/</guid>
-      <source url="https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/">Google Developers Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Vercel COO 讲解如何用 Agent 自动化 Inbound 销售</title>
-      <link>https://tomtunguz.com/how-to-automate-inbound/</link>
-      <description>Vercel COO Jeanne DeWitt Grosser 在 Tom Tunguz 的 Office Hours 节目中讲解团队如何搭建运行销售漏斗顶端的 Agent。</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://tomtunguz.com/how-to-automate-inbound/</guid>
-      <source url="https://tomtunguz.com/how-to-automate-inbound/">Tomer Tunguz 博客（VC 分析）</source>
-    </item>
-    <item>
-      <title>Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2</title>
-      <link>https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/</link>
-      <description>Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/</guid>
-      <source url="https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/">Google Developers Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Anthropic Cowork 改为云端运行模型推理与 VM</title>
-      <link>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</link>
-      <description>Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。</description>
-      <pubDate>Mon, 05 Oct 2026 23:56:47 +0000</pubDate>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/5/felix-rieseberg/</guid>
-      <source url="https://simonwillison.net/2026/Oct/5/felix-rieseberg/">Simon Willison 博客</source>
     </item>
   </channel>
 </rss>
