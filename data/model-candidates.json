@@ -598,5 +598,13 @@
     "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
     "sourceName": "NVIDIA Blog（RSS）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "Liquid AI 发布 d1 决策模型并新增图像输入能力",
+    "summary": "Liquid AI 发布 d1 决策模型，新增文本与图像输入，可通过 console.liquid.ai 和 d1 Playground 使用。",
+    "sourceUrl": "https://www.liquid.ai/blog/d1-decision-model",
+    "sourceName": "Liquid AI 模型与工程博客（网页）",
+    "reviewReason": "awaiting-review"
   }
 ]
