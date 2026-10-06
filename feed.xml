@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 02:54:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:07:31 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI「疯狂28天」首日，这都发了些啥啊…</title>
+      <link>https://www.qbitai.com/2026/10/501726.html</link>
+      <description></description>
+      <pubDate>Tue, 06 Oct 2026 06:45:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501726.html</guid>
+      <source url="https://www.qbitai.com/2026/10/501726.html">量子位</source>
+    </item>
+    <item>
+      <title>Reflection 发布 501B-A23B 开源编码模型 Beam</title>
+      <link>https://www.latent.space/p/ainews-reflection-beam-501b-a23b</link>
+      <description>Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。</description>
+      <pubDate>Tue, 06 Oct 2026 06:28:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-reflection-beam-501b-a23b</guid>
+      <source url="https://www.latent.space/p/ainews-reflection-beam-501b-a23b">Latent Space（RSS）</source>
+    </item>
+    <item>
+      <title>消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与</title>
+      <link>https://www.ithome.com/1/009/990.htm</link>
+      <description>据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。</description>
+      <pubDate>Tue, 06 Oct 2026 06:25:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/009/990.htm</guid>
+      <source url="https://www.ithome.com/1/009/990.htm">IT之家（RSS）</source>
+    </item>
+    <item>
+      <title>Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付</title>
+      <link>https://x.com/rohanpaul_ai/status/2107346890648076595</link>
+      <description>Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。</description>
+      <pubDate>Tue, 06 Oct 2026 05:47:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2107346890648076595</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2107346890648076595">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
     <item>
       <title>卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元</title>
       <link>https://x.com/Khazix0918/status/2107297777583825359</link>
@@ -134,38 +166,6 @@
       <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
       <source url="https://openai.com/index/eu-text-provenance">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>Sen. Adam Schiff关于人工智能监管,言论自由, 以及再次弹劾特朗普</title>
-      <link>https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption</link>
-      <description>今天,我正在和来自加利福尼亚州的民主党人Sen. Adam Schiff交谈。Schiff是一些对技术和人工智能进行监督的委员会的成员:知识产权、反托拉斯、隐私和技术。我真的想问他,我们如何管理与技术有关的一切。</description>
-      <pubDate>Mon, 05 Oct 2026 10:30:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption</guid>
-      <source url="https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption">The Verge AI</source>
-    </item>
-    <item>
-      <title>一个开源工具允许您删除 macOS 上的 苹果智能 12GB 数据</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool</link>
-      <description>在您的 Mac 上获取一些额外的存储空间可能与删除 Apple 的人工智能功能一样容易。 新的开源命令行工具名为 RemoveMacAI 。 曾经有一个用于让 Apple Intelligence 失效的单个设置切换器, 但是在 macOS 27. 中被删除。 现在, 模型留在您的磁盘上,</description>
-      <pubDate>Mon, 05 Oct 2026 09:47:14 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI在ChatGPT上贴出更多的广告</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads</link>
-      <description>OpenAI的最新广告格式将把赞助产品和服务的图像放入您屏幕。 OpenAI 本月晚些时候将开始在美国测试的广告, 将在您与 ChatGPT 一同生成图像时“ 初始” 出现, 根据周一的公告。 该公司首先将广告带给 Ch</description>
-      <pubDate>Mon, 05 Oct 2026 09:09:48 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具</title>
-      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
-      <description>OpenAI 宣布在 ChatGPT 推出新的视觉广告格式，本月起在美国于图像生成场景中测试，广告将明确标注且不影响 ChatGPT 的回答。</description>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
-      <source url="https://openai.com/index/new-chatgpt-ads-format-and-measurement">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
     </item>
   </channel>
 </rss>
