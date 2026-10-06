@@ -5,8 +5,64 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:54:55 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元</title>
+      <link>https://x.com/Khazix0918/status/2107297777583825359</link>
+      <description>作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。</description>
+      <pubDate>Tue, 06 Oct 2026 02:31:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Khazix0918/status/2107297777583825359</guid>
+      <source url="https://x.com/Khazix0918/status/2107297777583825359">X：卡兹克 (@Khazix0918)</source>
+    </item>
+    <item>
+      <title>OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」</title>
+      <link>http://www.geekpark.net/news/372086</link>
+      <description>2026 诺贝尔奖生理学或医学奖揭晓：三学者凭借「光控离子通道和光遗传学」领域发现获表彰 10 月 5 日消息，诺贝尔奖基金会宣布将 2026 年诺贝尔生理学或医学奖授予以下三人，以表彰他们在「光控离子通道和光遗传学」领域的发现：美国霍华德 &amp;middot; 休斯医学研究所及斯坦福大学的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann、德国维尔茨堡大学的 Georg Nagel。 诺贝尔奖评选机构表示，三位科学家的研究推动了光遗传学（Optogenetics）的发展。这项技术能够利用光信号精确控制神经细胞活动，使研究人员得以观察活体大脑中的神经细胞如何影响记忆</description>
+      <pubDate>Tue, 06 Oct 2026 09:16:53 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372086</guid>
+      <source url="http://www.geekpark.net/news/372086">极客公园</source>
+    </item>
+    <item>
+      <title>构建一个自定义网站, 以保持与 ChatGPT 的顶级业务</title>
+      <link>https://www.youtube.com/shorts/q0_JXcrx3jk</link>
+      <description>这家家具店很受欢迎。 如此受欢迎, 很难追踪所有入境请求。 ChatGPT 可以解决这个问题。 Victor Nunez Rodriguez 访问费城的费城餐桌公司, 帮助他打造一个工具, 顶住它。 您有想要的东西吗 ? 放弃你的想法 ?</description>
+      <pubDate>Tue, 06 Oct 2026 00:36:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/q0_JXcrx3jk</guid>
+      <source url="https://www.youtube.com/shorts/q0_JXcrx3jk">OpenAI</source>
+    </item>
+    <item>
+      <title>卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7</link>
+      <description>作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。</description>
+      <pubDate>Tue, 06 Oct 2026 00:18:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>Anthropic Cowork 改为云端运行模型推理与 VM</title>
+      <link>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</link>
+      <description>Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。</description>
+      <pubDate>Mon, 05 Oct 2026 23:56:47 +0000</pubDate>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/5/felix-rieseberg/</guid>
+      <source url="https://simonwillison.net/2026/Oct/5/felix-rieseberg/">Simon Willison 博客</source>
+    </item>
+    <item>
+      <title>双子座呼叫我 可能会告诉你妈妈 你迟到了</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</link>
+      <description>Google可能正在扩展其"Call for Me"的人工智能功能,超越商业通话,这样你就可以使用它向朋友和家人发送消息. Android Authority报告在APK的撕裂中发现了一个"Gemini Calling"的介绍屏幕,其中的例子包括"Call Mom,并告诉她我会迟到15分钟.</description>
+      <pubDate>Mon, 05 Oct 2026 19:09:55 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors">The Verge AI</source>
+    </item>
+    <item>
+      <title>这个启动程序正在发布人工智能生成的 Acne 处方</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions</link>
+      <description>犹他州的人现在可以使用人工智能来获得安非他明治疗的处方. 周一,保健启动 Nolla Health宣布州内的用户可以使用它的应用扫描自己的面孔,允许其人工智能系统分析安非他明的严重程度,并自主地写出处方,如Bloom早些时候所报道的那样.</description>
+      <pubDate>Mon, 05 Oct 2026 16:14:57 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions">The Verge AI</source>
+    </item>
     <item>
       <title>SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上</title>
       <link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
@@ -16,12 +72,36 @@
       <source url="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">SemiAnalysis 长文 RSS（RSS）</source>
     </item>
     <item>
+      <title>所有关于人工智能接管数学的戏剧</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution</link>
+      <description>去年,OpenAI、Anthropic和其他实验室宣布在许多长期存在的数学问题上取得突破,在某些情况下,这些突破远远超出了研究者所期望的现有系统的能力,包括解决著名的千年奖问题之一。</description>
+      <pubDate>Mon, 05 Oct 2026 15:28:59 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution">The Verge AI</source>
+    </item>
+    <item>
+      <title>维基百科操作员表示, OpenAI 的 'rogue ' bots 可能与五月停机有关</title>
+      <link>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</link>
+      <description>在最近多次披露人工智能特工访问第三方网站和服务后,维基百科的主办方维基媒体基金会表示,它"可以证实我们发现了一些活动",由维基媒体平台上的"rogue"OpenAI特工进行. 该活动包括编辑到维基媒体 w</description>
+      <pubDate>Mon, 05 Oct 2026 15:05:19 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</guid>
+      <source url="https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage">The Verge AI</source>
+    </item>
+    <item>
       <title>参见新代码 CLI</title>
       <link>https://www.youtube.com/watch?v=PUBc2G0Tj5E</link>
       <description>查看最新的 Codex CLI 更新和刷新终端体验。 遵循新界面的走过和与 Codex 合作的方法 。</description>
       <pubDate>Mon, 05 Oct 2026 18:29:08 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=PUBc2G0Tj5E</guid>
       <source url="https://www.youtube.com/watch?v=PUBc2G0Tj5E">OpenAI</source>
+    </item>
+    <item>
+      <title>OpenAI 在 ChatGPT 和 Codex 中添加文字水印</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act</link>
+      <description>文本输出中一个隐形的,机器可读的水印正在向ChatGPT和Codex推出,但最初只针对欧盟的用户. OpenAI说其文本Grain水印"匹配或超过"其他方法,如Google DeepMind的文本合成ID,这也是水的基础.</description>
+      <pubDate>Mon, 05 Oct 2026 14:08:39 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act">The Verge AI</source>
     </item>
     <item>
       <title>Wikimedia 基金会发现 OpenAI "流氓"智能体在维基媒体平台上的活动</title>
@@ -40,7 +120,7 @@
       <source url="https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr">The Verge AI</source>
     </item>
     <item>
-      <title>Sam Altman说“有些坏事会发生”,但人工智能是完全值得的。</title>
+      <title>Sam Altman说“有些坏事会发生,</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff</link>
       <description>山姆·阿尔特曼(Sam Altman)认为,人工智能的好处将如此之大,以至于"世界应该接受一些沿途发生的坏事". OpenAI CEO指出黑客,骗局,"其他坏事"是社会所期望的可以容忍的代价,因为"人们将会做巨大数量级的更多".</description>
       <pubDate>Mon, 05 Oct 2026 12:44:21 -0400</pubDate>
@@ -86,86 +166,6 @@
       <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
       <source url="https://openai.com/index/new-chatgpt-ads-format-and-measurement">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>我们的头脑无法处理人工智能</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought</link>
-      <description>网络神经病的教父诺伯特·维纳(Norbert Wiener)曾说过"每个时代的思想都体现在它的技巧上",在过去的世纪里,我们的思想已经反映在我们的计算机中,包括人工智能行业的计算机中. Google的"Demis Hassabis"称大脑为"一种生物近似于图灵".</description>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought">The Verge AI</source>
-    </item>
-    <item>
-      <title>10亿美元的人工智能优势正在消失</title>
-      <link>https://www.youtube.com/watch?v=ZHVNTTKu9fU</link>
-      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Sonnet 5.5: https://www.anthropic.com/claude-sonnet-5-5 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyso</description>
-      <pubDate>Mon, 05 Oct 2026 09:53:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHVNTTKu9fU</guid>
-      <source url="https://www.youtube.com/watch?v=ZHVNTTKu9fU">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>AI，为什么总在画美女？</title>
-      <link>http://www.geekpark.net/news/372084</link>
-      <description>作者｜汤一涛 编辑｜靖宇 &amp;nbsp; 今年 5 月初，X 上一条五秒钟的视频火了。这是一场韩国职业棒球联赛转播，韩华鹰队对阵斗山熊队。镜头扫到看台上一个穿白上衣和牛仔裤的女人，翘着腿。某一刻，她似乎叹了口气，并移开了视线，看起来对比赛感到不满。 视频配文是「普通韩国女性」。截至本文发布，视频播放量已经为 1525 万｜视频来源：X @kangminlee 但是很快一群资深球迷看出了不对劲。比分牌上写着，击球手是曹仁成（Cho Inseong），可曹仁成 2017 年就退役了，现在在斗山当教练。 此外，看台上的加油标语比斗山熊的官方口号多出一个字，像是 AI 生硬直译出来的。而这场转播，解说却</description>
-      <pubDate>Mon, 05 Oct 2026 17:45:01 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372084</guid>
-      <source url="http://www.geekpark.net/news/372084">极客公园</source>
-    </item>
-    <item>
-      <title>MintFlow: 限制流相匹配的最小轨迹干涉</title>
-      <link>https://arxiv.org/abs/2610.02260</link>
-      <description>流动匹配模型在基因模型制作方面表现优异,许多下游应用要求其样本满足规定的限制,如所观察到的测量和物理定律。</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02260</guid>
-      <source url="https://arxiv.org/abs/2610.02260">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Fast Models, Slow Effairs: 对LLM智能体哈内塞斯系统-1决策模型进行自审和自审评价</title>
-      <link>https://arxiv.org/abs/2610.02267</link>
-      <description>Agent japes 每次任务都会做出许多小的,打字的决定:哪一个模式呼叫,哪一个工具使用,检索到的文本是否相关,输入是否带有注入. System-1 决策模型在单个前传中用 c 回答这类问题.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02267</guid>
-      <source url="https://arxiv.org/abs/2610.02267">ArXiv AI</source>
-    </item>
-    <item>
-      <title>人工智能风险观测站:在年度报告中关于社会复原力的人工智能披露中,我们能学到什么?</title>
-      <link>https://arxiv.org/abs/2610.02281</link>
-      <description>社会复原力研究依赖于获取有用和可操作的数据,这激励了我们的主要研究问题:用LLMs处理的年度报告能否提供公司如何披露其对人工智能的反应的有用信号?</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02281</guid>
-      <source url="https://arxiv.org/abs/2610.02281">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Keep it CALM: 分析文本到图像生成中全球不安全的界限</title>
-      <link>https://arxiv.org/abs/2610.02300</link>
-      <description>对文本到图像生成的无培训保障常常依赖于可重复使用的安全信号,例如不安全的方向或全球有毒子空间,广泛适用于各种提示。</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02300</guid>
-      <source url="https://arxiv.org/abs/2610.02300">ArXiv AI</source>
-    </item>
-    <item>
-      <title>行动前选择:长视距工具使用代理的比较价值估计</title>
-      <link>https://arxiv.org/abs/2610.02330</link>
-      <description>大型语言模型(LLMS)依赖长视距工具引用序列来完成复杂的任务,其中每次引用都可以改变任务状态并附加后续决定的条件. 在长视距工具使用中,最终结果奖励提供微弱的信用分配.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02330</guid>
-      <source url="https://arxiv.org/abs/2610.02330">ArXiv AI</source>
-    </item>
-    <item>
-      <title>混合机器学习辅助拉曼光谱学,用于药物鉴定的基因特征增强</title>
-      <link>https://arxiv.org/abs/2610.02224</link>
-      <description>快速和可靠地识别药品残留物对于保障公众健康、确保食品安全以及促成基于拉曼的实用筛查非常重要。 在这项研究中,我们提议采用混合拉曼光谱学框架HyMLRaman。</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02224</guid>
-      <source url="https://arxiv.org/abs/2610.02224">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Greenwashing 的价格: 使用 Conformal 机器学习的算术验证和市场纪律</title>
-      <link>https://arxiv.org/abs/2610.02225</link>
-      <description>虽然公司可持续性的任务正在扩大,但系统性地依赖自报的排放数据使金融市场面临普遍的 " 绿色洗涤 " 。 当前的文献在很大程度上依赖于主观的ESG评级或文字情感分析。</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02225</guid>
-      <source url="https://arxiv.org/abs/2610.02225">ArXiv ML</source>
     </item>
   </channel>
 </rss>
