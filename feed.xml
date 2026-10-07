@@ -5,8 +5,152 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 01:27:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:34:21 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司</title>
+      <link>https://www.qbitai.com/2026/10/501791.html</link>
+      <description>在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜</description>
+      <pubDate>Wed, 07 Oct 2026 06:39:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501791.html</guid>
+      <source url="https://www.qbitai.com/2026/10/501791.html">量子位</source>
+    </item>
+    <item>
+      <title>Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534</title>
+      <link>https://x.com/arena/status/2107717155374727602</link>
+      <description>Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。</description>
+      <pubDate>Wed, 07 Oct 2026 06:18:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2107717155374727602</guid>
+      <source url="https://x.com/arena/status/2107717155374727602">X：Arena (@arena)</source>
+    </item>
+    <item>
+      <title>GAMEGO: 实时世界资产合成轨迹Game-Dev代理培训</title>
+      <link>https://arxiv.org/abs/2610.06910</link>
+      <description>大语言模型(LLMS)的近期进步在网络前端执行方面显示出卓越的能力,基于浏览器的游戏生成逐渐成为一个特别突出的前沿。 虽然以往的努力经常依赖复杂的 mu 。</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06910</guid>
+      <source url="https://arxiv.org/abs/2610.06910">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Text2Dashboard:一个用于自然-语言 Dashboard 生成的治理代理架构,凌驾于 Enterprise DataBrain 之上</title>
+      <link>https://arxiv.org/abs/2610.06914</link>
+      <description>Text2Dashboard是一个针对DataBrain的原型,将自然语言分析请求转化为可检查的仪表板。一个可安装的 Codex 插件和独立的代理 Runtime 将 chema 约束的模型决定与 typed 工具结合, 持久</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06914</guid>
+      <source url="https://arxiv.org/abs/2610.06914">ArXiv AI</source>
+    </item>
+    <item>
+      <title>流体PD: SLO- Aware 预填- 十进制分解 LLM 服务的内置弹性</title>
+      <link>https://arxiv.org/abs/2610.06917</link>
+      <description>预填解码分解正在成为LLM服务的常见架构,因为它将具有不同执行模式和SLO目标的两个阶段分开. 现有系统通常将固定的预填/解码工人比与请求rou结合.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06917</guid>
+      <source url="https://arxiv.org/abs/2610.06917">ArXiv AI</source>
+    </item>
+    <item>
+      <title>语义几何学在矛盾学习中的定点差异</title>
+      <link>https://arxiv.org/abs/2610.06919</link>
+      <description>本文涉及语义上下文如何决定所学矢量表示法中的几何学. 相似性一般用余弦相似度来测量,这提供了单一的固定几何学. 然而,语义上的相似度是内在上下文所依赖的.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06919</guid>
+      <source url="https://arxiv.org/abs/2610.06919">ArXiv AI</source>
+    </item>
+    <item>
+      <title>RadOnc-Agent:跨放射治疗护理途径人工智能流动的 LLM 规范框架</title>
+      <link>https://arxiv.org/abs/2610.06923</link>
+      <description>人工智能有先进的个人放射治疗任务,但这些能力仍然在临床阶段、软件环境和数据模式之间分离。</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06923</guid>
+      <source url="https://arxiv.org/abs/2610.06923">ArXiv AI</source>
+    </item>
+    <item>
+      <title>TEMPEST:通过角边距学习进行可伸缩驱动识别的时序嵌入</title>
+      <link>https://arxiv.org/abs/2610.06855</link>
+      <description>可伸缩的驱动程序识别需要嵌入模型,随着机队规模的增大而保持歧视性的性能,然而现有的三重损失配方随着驱动程序池大小的增大而迅速退化,并在严格的环境下过度适应会话特定模式.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06855</guid>
+      <source url="https://arxiv.org/abs/2610.06855">ArXiv ML</source>
+    </item>
+    <item>
+      <title>外部指导何时有助于 LLM 合理性? 指导的偏差理论 - 增强的 GPRO</title>
+      <link>https://arxiv.org/abs/2610.06861</link>
+      <description>以可核查的奖励强化学习(RLVR)已成为在大语言模型中引领多步骤推理的主导范式,最近一波方法(LUFFY, ExPO, PAPO, TAPO)以\emph{外部指导}进一步扩充了RL.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06861</guid>
+      <source url="https://arxiv.org/abs/2610.06861">ArXiv ML</source>
+    </item>
+    <item>
+      <title>不确定性 -- -- 机体承载断层检测的神经化物组合分类:来自实验室和可变 -- -- 预测工业基准的证据</title>
+      <link>https://arxiv.org/abs/2610.06880</link>
+      <description>承担断层检测的机器学习分类器产生将自信错误与真正模棱两可的预测相混淆的分数,常规的真伪对(F = 1 - T)通过构造值来表示代数冗余.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06880</guid>
+      <source url="https://arxiv.org/abs/2610.06880">ArXiv ML</source>
+    </item>
+    <item>
+      <title>建筑热负荷短期预测混合预测模型比较审查.</title>
+      <link>https://arxiv.org/abs/2610.06881</link>
+      <description>本文件对建筑热需求短期预测的不同混合模型进行了比较审查,特别是评估了数据驱动模型与其他最新技术模型的比较。</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06881</guid>
+      <source url="https://arxiv.org/abs/2610.06881">ArXiv ML</source>
+    </item>
+    <item>
+      <title>学习何时完善:为已编入预算的神经-操作器PDE溶解器进行长视距强化学习</title>
+      <link>https://arxiv.org/abs/2610.06883</link>
+      <description>神经操作员为时间上依赖的PDE提供快速的代用,但自递性部署造成了精细化分配问题:预测错误因时空而异,而沿途只能执行有限的局部校正.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06883</guid>
+      <source url="https://arxiv.org/abs/2610.06883">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Zero-Shot可视化:用用户推动的轴来探索文本公司</title>
+      <link>https://arxiv.org/abs/2610.06889</link>
+      <description>我们研究大语言模型(LLMs)在文本corpora的视觉探索中的应用. 我们引入了零镜头可视化(ZSV),在这项任务中,用户在自然语言中指定概念,文档被映射到对应物上.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06889</guid>
+      <source url="https://arxiv.org/abs/2610.06889">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>能力、反应和协调:是什么使后期结构可以操作</title>
+      <link>https://arxiv.org/abs/2610.06897</link>
+      <description>语言模型(LMs)激活空间中潜在结构的本地化对于理解和控制其行为至关重要。 然而,本地化结构在因果影响上可能存在很大差异,从而提出了“何为行为”的问题。</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06897</guid>
+      <source url="https://arxiv.org/abs/2610.06897">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>没有 LLM 的树导航摘要: 对长文件 QA 的等级检索的匹配成本研究</title>
+      <link>https://arxiv.org/abs/2610.06902</link>
+      <description>在外部背景下检索到的生成语言模型,但对于长文件,平坦的顶值-k$的检索可以集中在一个区域,并错过补充证据。 RAPTOR 风格的汇总树通过递归的分组来解决这个问题。</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06902</guid>
+      <source url="https://arxiv.org/abs/2610.06902">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>Transformer拒绝机制的组件和尺寸均匀性</title>
+      <link>https://arxiv.org/abs/2610.06903</link>
+      <description>激活引导通过内部激活来操纵大型语言模型行为,但这些干预的机械基础仍然不为人所知。 我们把拒绝引导分解为跨fo的组件级干预。</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06903</guid>
+      <source url="https://arxiv.org/abs/2610.06903">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>通过病态蒸馏,稳定持续学习的语言模型</title>
+      <link>https://arxiv.org/abs/2610.06940</link>
+      <description>语言模型的不断调整可以改变其产出在早先学到的提示上的分布,同时保留每一个旧的即时答对可能是不可取或不可能的。</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.06940</guid>
+      <source url="https://arxiv.org/abs/2610.06940">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来</title>
+      <link>https://www.qbitai.com/2026/10/501749.html</link>
+      <description>三位菲尔兹奖得主：不代表认可</description>
+      <pubDate>Wed, 07 Oct 2026 01:05:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501749.html</guid>
+      <source url="https://www.qbitai.com/2026/10/501749.html">量子位</source>
+    </item>
     <item>
       <title>派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude</title>
       <link>http://www.geekpark.net/news/372089</link>
@@ -22,150 +166,6 @@
       <pubDate>Tue, 06 Oct 2026 19:26:38 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI 发布内部前沿模型产出的数学研究成果</title>
-      <link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
-      <description>OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。</description>
-      <pubDate>Tue, 06 Oct 2026 23:01:09 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/sharing-ai-progress-in-mathematics/</guid>
-      <source url="https://openai.com/index/sharing-ai-progress-in-mathematics/">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>介绍决定 API</title>
-      <link>https://www.youtube.com/watch?v=FB6oCmrIj-Y</link>
-      <description>引入“决定 API ” : 在您的应用程序中快速将文本和图像转化为动作。 给模型输入一个输入, 定义一个问题和可能的答案, 并使用自己的选择来决定接下来会发生什么 。 由 GPT-6 Luna 提供动力, “ 决定 API ” 专注于一小组选择来进行交互</description>
-      <pubDate>Tue, 06 Oct 2026 21:33:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=FB6oCmrIj-Y</guid>
-      <source url="https://www.youtube.com/watch?v=FB6oCmrIj-Y">OpenAI</source>
-    </item>
-    <item>
-      <title>GitHub 重建 Git 基础设施，应对智能体规模开发</title>
-      <link>https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</link>
-      <description>GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。</description>
-      <pubDate>Tue, 06 Oct 2026 20:57:56 +0000</pubDate>
-      <guid isPermaLink="true">https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</guid>
-      <source url="https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/">GitHub Blog</source>
-    </item>
-    <item>
-      <title>ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办</title>
-      <link>https://x.com/thsottiaux/status/2107573405553938664</link>
-      <description>ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。</description>
-      <pubDate>Tue, 06 Oct 2026 20:47:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2107573405553938664</guid>
-      <source url="https://x.com/thsottiaux/status/2107573405553938664">X：Tibo (@thsottiaux)</source>
-    </item>
-    <item>
-      <title>Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2</title>
-      <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
-      <description>Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。</description>
-      <pubDate>Tue, 06 Oct 2026 19:57:04 +0000</pubDate>
-      <guid isPermaLink="true">https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
-      <source url="https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/">Google DeepMind：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑</title>
-      <link>https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/</link>
-      <description>亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。</description>
-      <pubDate>Tue, 06 Oct 2026 19:26:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/</guid>
-      <source url="https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/">404 Media（RSS）</source>
-    </item>
-    <item>
-      <title>DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与</title>
-      <link>https://x.com/thexpin/status/2107524306058289533</link>
-      <description>据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。</description>
-      <pubDate>Tue, 06 Oct 2026 17:32:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thexpin/status/2107524306058289533</guid>
-      <source url="https://x.com/thexpin/status/2107524306058289533">X：X.PIN (@thexpin)</source>
-    </item>
-    <item>
-      <title>Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议</title>
-      <link>https://sierra.ai/blog/introducing-personal-agent-protocol</link>
-      <description>Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。</description>
-      <pubDate>Tue, 06 Oct 2026 17:32:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sierra.ai/blog/introducing-personal-agent-protocol</guid>
-      <source url="https://sierra.ai/blog/introducing-personal-agent-protocol">Sierra：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑</title>
-      <link>https://www.youtube.com/watch?v=idJQMJwHtyM</link>
-      <description>Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。</description>
-      <pubDate>Tue, 06 Oct 2026 17:02:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=idJQMJwHtyM</guid>
-      <source url="https://www.youtube.com/watch?v=idJQMJwHtyM">Claude：YouTube（RSS）</source>
-    </item>
-    <item>
-      <title>我们不能只是改变“记录”的定义。</title>
-      <link>https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording</link>
-      <description>有了人工智能硬件,技术公司正在推动定义什么能做,什么不能做成录音。对于大多数设备的历史来说,可以合理地假设,一个带有麦克风或相机的设备要么正在录制你,要么没有,要么是在开,要么是在关,没有多少灰色区域。</description>
-      <pubDate>Tue, 06 Oct 2026 12:29:44 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording</guid>
-      <source url="https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording">The Verge AI</source>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布</title>
-      <link>https://x.com/arcprize/status/2107491194007585239</link>
-      <description>ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。</description>
-      <pubDate>Tue, 06 Oct 2026 15:20:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arcprize/status/2107491194007585239</guid>
-      <source url="https://x.com/arcprize/status/2107491194007585239">X：ARC Prize (@arcprize)</source>
-    </item>
-    <item>
-      <title>Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测</title>
-      <link>https://x.com/arena/status/2107476436223504484</link>
-      <description>Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。</description>
-      <pubDate>Tue, 06 Oct 2026 14:21:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2107476436223504484</guid>
-      <source url="https://x.com/arena/status/2107476436223504484">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文</title>
-      <link>https://x.com/OpenRouter/status/2107471559040635360</link>
-      <description>Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。</description>
-      <pubDate>Tue, 06 Oct 2026 14:02:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenRouter/status/2107471559040635360</guid>
-      <source url="https://x.com/OpenRouter/status/2107471559040635360">X：OpenRouter (@OpenRouter)</source>
-    </item>
-    <item>
-      <title>Google即将移除双子座闪光灯和Pro的自由访问权限</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only</link>
-      <description>从10月9日开始,任何在自由计划中使用Google双子星的人将仅限于Flash Lite模式. 免费用户目前可以从双子星Flash Lite,Flash,和Pro中选择,但现在需要每月4.99美元Google人工智能Plus订阅才能访问标准Flash模式.</description>
-      <pubDate>Tue, 06 Oct 2026 09:19:01 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only">The Verge AI</source>
-    </item>
-    <item>
-      <title>Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾</title>
-      <link>https://claude.dev/blog/claude-code-in-the-cloud/</link>
-      <description>Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。</description>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://claude.dev/blog/claude-code-in-the-cloud/</guid>
-      <source url="https://claude.dev/blog/claude-code-in-the-cloud/">Anthropic：Claude.dev 开发者博客（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI「疯狂28天」首日，这都发了些啥啊…</title>
-      <link>https://www.qbitai.com/2026/10/501726.html</link>
-      <description></description>
-      <pubDate>Tue, 06 Oct 2026 06:45:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501726.html</guid>
-      <source url="https://www.qbitai.com/2026/10/501726.html">量子位</source>
-    </item>
-    <item>
-      <title>Reflection 发布 501B-A23B 开源编码模型 Beam</title>
-      <link>https://www.latent.space/p/ainews-reflection-beam-501b-a23b</link>
-      <description>Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。</description>
-      <pubDate>Tue, 06 Oct 2026 06:28:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-reflection-beam-501b-a23b</guid>
-      <source url="https://www.latent.space/p/ainews-reflection-beam-501b-a23b">Latent Space（RSS）</source>
-    </item>
-    <item>
-      <title>Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付</title>
-      <link>https://x.com/rohanpaul_ai/status/2107346890648076595</link>
-      <description>Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。</description>
-      <pubDate>Tue, 06 Oct 2026 05:47:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2107346890648076595</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2107346890648076595">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
   </channel>
 </rss>
