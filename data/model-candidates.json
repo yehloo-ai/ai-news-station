@@ -606,5 +606,29 @@
     "sourceUrl": "https://www.liquid.ai/blog/d1-decision-model",
     "sourceName": "Liquid AI 模型与工程博客（网页）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Mistral 发布 Mistral Large 4，Artificial Analysis 评测称其为美中之外最智能模型",
+    "summary": "Mistral 发布 Mistral Large 4（Research Public Preview），在 Artificial Analysis Intelligence Index 得分 38，与 GPT-6 Luna（max, 38）相当，为美中之外最智能模型，计划 10 月底开源 1T 参数（49B 激活）权重。",
+    "sourceUrl": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai",
+    "sourceName": "Artificial Analysis 完整文章（网页）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Gemini Nano Banana 2.1 正式发布，gemini-3.1-flash-image 将于 2026 年 10 月 29 日停用",
+    "summary": "Google 发布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1），定位为高效图像生成与对话式编辑模型，是 Nano Banana 2（gemini-3.1-flash-image）的更新版。",
+    "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog#10-06-2026",
+    "sourceName": "Gemini API：更新日志（网页）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+    "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
+    "sourceUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "sourceName": "Google DeepMind：Blog（RSS）",
+    "reviewReason": "awaiting-review"
   }
 ]
