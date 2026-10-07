@@ -5,8 +5,152 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:57:15 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>为 ChatGPT 构建插件</title>
+      <link>https://www.youtube.com/watch?v=LiNhqbetrbU</link>
+      <description>通过 Conference 和 OpenAI 开发者 探索插件扩展 。 查看自定义接口如何在对话旁生活, 并将选定的上下文带入您与 ChatGPT 的工作 。</description>
+      <pubDate>Wed, 07 Oct 2026 21:34:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=LiNhqbetrbU</guid>
+      <source url="https://www.youtube.com/watch?v=LiNhqbetrbU">OpenAI</source>
+    </item>
+    <item>
+      <title>停止高薪情报 2026 DevDay</title>
+      <link>https://www.youtube.com/watch?v=_nmlHbSB8kM</link>
+      <description>在保持质量的同时削减人工智能成本。 学会测量每个已完成的任务的成本,选择模型和推理努力,并使用快速缓存、程序工具调用和批量API。</description>
+      <pubDate>Wed, 07 Oct 2026 21:10:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=_nmlHbSB8kM</guid>
+      <source url="https://www.youtube.com/watch?v=_nmlHbSB8kM">OpenAI</source>
+    </item>
+    <item>
+      <title>堆叠过度流 - 从思想到产品QQ DevDay 2026</title>
+      <link>https://www.youtube.com/watch?v=3glzJZ-_qB8</link>
+      <description>查看 Stack Overflow 的小团队如何使用 Codex 来构建 Stack Overflow for Agents 和 reimagine Stack 内部。 取下加速研发和将新产品带入市场的教训 。</description>
+      <pubDate>Wed, 07 Oct 2026 21:10:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=3glzJZ-_qB8</guid>
+      <source url="https://www.youtube.com/watch?v=3glzJZ-_qB8">OpenAI</source>
+    </item>
+    <item>
+      <title>Higgsfield - 建筑代理 提供自己的计算 QQ DevDay 2026</title>
+      <link>https://www.youtube.com/watch?v=8804JYm81cc</link>
+      <description>探索Higgsfield代理如何选择模型并提供自己的计算。学习何时使用专用的GPU或主机模型,如何提供可预测的吞吐量,以及该方法可能失败的地方。</description>
+      <pubDate>Wed, 07 Oct 2026 21:10:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=8804JYm81cc</guid>
+      <source url="https://www.youtube.com/watch?v=8804JYm81cc">OpenAI</source>
+    </item>
+    <item>
+      <title>GPT-6 Luna Decisions 上架 OpenRouter</title>
+      <link>https://x.com/OpenRouter/status/2107929204142874759</link>
+      <description>OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。</description>
+      <pubDate>Wed, 07 Oct 2026 20:21:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenRouter/status/2107929204142874759</guid>
+      <source url="https://x.com/OpenRouter/status/2107929204142874759">X：OpenRouter (@OpenRouter)</source>
+    </item>
+    <item>
+      <title>Anthropic 发布 Claude Haiku 5.5，Artificial Analysis 智能指数得分 43</title>
+      <link>https://x.com/ArtificialAnlys/status/2107911905822351609</link>
+      <description>Anthropic 发布 Claude Haiku 5.5，在 Artificial Analysis 智能指数得 43 分，较上一代 Haiku 一年内提升 26 分。</description>
+      <pubDate>Wed, 07 Oct 2026 19:12:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2107911905822351609</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2107911905822351609">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
+    <item>
+      <title>ChatGPT 的“ 智能UI ” 更新以图片、图表和按钮填充其回复</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6</link>
+      <description>OpenAI正在ChatGPT中推出一个新的智能UI功能,允许聊天机器人用交互式视觉来回答您的问题。该更新正在与GPT-6一起向所有用户推出,它使ChatGPT能够将文本响应与图表,图表,表单,可调用按钮,a</description>
+      <pubDate>Wed, 07 Oct 2026 15:10:42 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6">The Verge AI</source>
+    </item>
+    <item>
+      <title>LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载</title>
+      <link>https://www.langchain.com/blog/revamping-skills-in-deep-agents</link>
+      <description>LangChain 重构 Deep Agents 的 Skills 支持，针对企业技能库增至数千个技能的场景推出三项更新：工具可绑定到技能、仅在该技能被读取时加载，用户可通过 /meeting-prep 之类的显式请求固定技能以在首次模型调用前加载，长线程可通过将 skills_metadata 设为 None 重载新增或变更的技能。</description>
+      <pubDate>Wed, 07 Oct 2026 18:49:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.langchain.com/blog/revamping-skills-in-deep-agents</guid>
+      <source url="https://www.langchain.com/blog/revamping-skills-in-deep-agents">LangChain：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/</link>
+      <description>NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。</description>
+      <pubDate>Wed, 07 Oct 2026 18:45:28 +0000</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/</guid>
+      <source url="https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/">NVIDIA Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格</title>
+      <link>https://x.com/cursor_ai/status/2107897257651769464</link>
+      <description>Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。</description>
+      <pubDate>Wed, 07 Oct 2026 18:14:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cursor_ai/status/2107897257651769464</guid>
+      <source url="https://x.com/cursor_ai/status/2107897257651769464">X：Cursor (@cursor_ai)</source>
+    </item>
+    <item>
+      <title>Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.293</link>
+      <description>Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。</description>
+      <pubDate>Wed, 07 Oct 2026 18:10:20 +0000</pubDate>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code/releases/tag/v2.1.293</guid>
+      <source url="https://github.com/anthropics/claude-code/releases/tag/v2.1.293">Claude Code：GitHub Releases（RSS）</source>
+    </item>
+    <item>
+      <title>Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度</title>
+      <link>https://x.com/ClaudeDevs/status/2107895957933408429</link>
+      <description>Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。</description>
+      <pubDate>Wed, 07 Oct 2026 18:08:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ClaudeDevs/status/2107895957933408429</guid>
+      <source url="https://x.com/ClaudeDevs/status/2107895957933408429">X：Claude Devs (@ClaudeDevs)</source>
+    </item>
+    <item>
+      <title>Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10</title>
+      <link>https://x.com/claudeai/status/2107894060229034197</link>
+      <description>Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。</description>
+      <pubDate>Wed, 07 Oct 2026 18:01:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2107894060229034197</guid>
+      <source url="https://x.com/claudeai/status/2107894060229034197">X：Claude (@claudeai)</source>
+    </item>
+    <item>
+      <title>微软正在给予Copilot对Windows和您文件的更多控制</title>
+      <link>https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence</link>
+      <description>在今天的Windows和Surface活动上,微软展示了其副驾驶人工智能系统的升级,使其可以访问您个人电脑上的本地文件,以及跨OS采取行动的能力. 这是微软称之为"Hybrid Intelligence"的理念的一部分,其中的应用程序和工具依赖于[.</description>
+      <pubDate>Wed, 07 Oct 2026 14:01:20 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence</guid>
+      <source url="https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI</title>
+      <link>https://openai.com/index/gpt-6-for-everyone/</link>
+      <description>OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。</description>
+      <pubDate>Wed, 07 Oct 2026 18:00:58 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-6-for-everyone/</guid>
+      <source url="https://openai.com/index/gpt-6-for-everyone/">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
+    <item>
+      <title>Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）</title>
+      <link>https://x.com/AravSrinivas/status/2107871834205196784</link>
+      <description>Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。</description>
+      <pubDate>Wed, 07 Oct 2026 16:33:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AravSrinivas/status/2107871834205196784</guid>
+      <source url="https://x.com/AravSrinivas/status/2107871834205196784">X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)</source>
+    </item>
+    <item>
+      <title>Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%</title>
+      <link>https://x.com/UnslothAI/status/2107868866361930236</link>
+      <description>Unsloth 发布教程与开源仓库，可将 Qwen3.8、Gemma 4 等 LLM 微调为输出选项概率的决策模型，Qwen3.5 0.8B 在 3 个决策基准上的合计准确率从 20.7% 提到 74.3%，仅需 4GB 显存。</description>
+      <pubDate>Wed, 07 Oct 2026 16:21:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/UnslothAI/status/2107868866361930236</guid>
+      <source url="https://x.com/UnslothAI/status/2107868866361930236">X：Unsloth (@UnslothAI)</source>
+    </item>
+    <item>
+      <title>Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架</title>
+      <link>https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</link>
+      <description>Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。</description>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</guid>
+      <source url="https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/">Microsoft Research 博客（RSS）</source>
+    </item>
     <item>
       <title>ChatGPT正在获得大学规划工具</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards</link>
@@ -22,150 +166,6 @@
       <pubDate>Wed, 07 Oct 2026 11:37:23 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support</guid>
       <source url="https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support">The Verge AI</source>
-    </item>
-    <item>
-      <title>生产监测:格拉法纳、库伯内特、和安全</title>
-      <link>https://www.youtube.com/watch?v=DmCaBWv5yG8</link>
-      <description>这是凌晨3点, 检查错误正在攀升。 您首先检查什么 ? 加入联合主机Tony Loehr 和 Anke Hao , 用 Codex 进行三次实际生产监测演示。 追踪 Grafana 的检查失败, 调查一个 Kubernetes 推出导致出门重启, 并探索 Codex S 如何操作 。</description>
-      <pubDate>Wed, 07 Oct 2026 14:57:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=DmCaBWv5yG8</guid>
-      <source url="https://www.youtube.com/watch?v=DmCaBWv5yG8">OpenAI</source>
-    </item>
-    <item>
-      <title>亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑</title>
-      <link>https://www.404media.co/undue-emotional-weight/</link>
-      <description>亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。</description>
-      <pubDate>Wed, 07 Oct 2026 14:46:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.404media.co/undue-emotional-weight/</guid>
-      <source url="https://www.404media.co/undue-emotional-weight/">404 Media（RSS）</source>
-    </item>
-    <item>
-      <title>Google 为马克·扎克伯格创建“虚拟细胞”的努力投资了数百万美元。</title>
-      <link>https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell</link>
-      <description>Google DeepMind、Meta和人工智能药物发现启动Isomorphic Labs正在联合投资3亿美元给由Mark Zuckerberg及其妻子Priscilla Chan创建的非营利生物医学研究组织Biohub。</description>
-      <pubDate>Wed, 07 Oct 2026 10:40:52 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell</guid>
-      <source url="https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell">The Verge AI</source>
-    </item>
-    <item>
-      <title>Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成</title>
-      <link>https://x.com/Google/status/2107836410254291345</link>
-      <description>Google 介绍检测媒体是否由 AI 生成的方法：访问 https://synthid.com 上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。</description>
-      <pubDate>Wed, 07 Oct 2026 14:12:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Google/status/2107836410254291345</guid>
-      <source url="https://x.com/Google/status/2107836410254291345">X：Google (@Google)</source>
-    </item>
-    <item>
-      <title>a16z 解析德州为何让数据中心排队等电</title>
-      <link>https://www.a16z.news/p/why-texas-is-making-data-centers</link>
-      <description>a16z 的 Ryan McEntush 分析德州电网暂停审批数据中心的原因：并网队列从 2024 年底的 63 GW 激增到今年 6 月的 474 GW，约 90% 是数据中心，开发商大量投机性申请且社区沟通不足。</description>
-      <pubDate>Wed, 07 Oct 2026 14:01:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.a16z.news/p/why-texas-is-making-data-centers</guid>
-      <source url="https://www.a16z.news/p/why-texas-is-making-data-centers">a16z：News（RSS）</source>
-    </item>
-    <item>
-      <title>DeepMind的新人工智能刚刚破解了生命守则</title>
-      <link>https://www.youtube.com/watch?v=Wkaw03p3BrM</link>
-      <description>请检查lambda在这里报名参加他们的GPU Cloud:https://lambda.ai/papers 感谢Google DeepMind的邀请. AlphaGenome Atlas可在此查阅:https://deepmind.google/blog/alphagenome-atlas-a-prespective-map-of- every-posible-dna-letter-change-in-the-human-genome/https://blog.go.</description>
-      <pubDate>Wed, 07 Oct 2026 13:29:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Wkaw03p3BrM</guid>
-      <source url="https://www.youtube.com/watch?v=Wkaw03p3BrM">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>研发部分2</title>
-      <link>https://www.youtube.com/watch?v=N5kTmoCKbe0</link>
-      <description>要么你赢了,要么你学了。 有了历史上第18届的冠军, 奇普干纳西拉奇和科普尼艾(OpenAI ) 将挫折转化为洞察力, 以克服困难。 研发: 第二部分现在出来了。</description>
-      <pubDate>Wed, 07 Oct 2026 13:01:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=N5kTmoCKbe0</guid>
-      <source url="https://www.youtube.com/watch?v=N5kTmoCKbe0">OpenAI</source>
-    </item>
-    <item>
-      <title>Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
-      <description>NVIDIA Nemotron 团队基于 Nemotron 3，用 SFT、RL 和反馈驱动推理分别构建了在 IOI 2026 与 IMO 2026 达到金牌水平的系统。</description>
-      <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
-      <source url="https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026">Hugging Face：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>人工智能可以改善食物的运送</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites</link>
-      <description>主要的食品交付应用DoorDash在第二季度处理了9.7亿份订单,并创造了45亿美元的收入。 一个叫Bites的10人启动比较起来是一个破碎:它刚刚有300多家餐馆在湾区注册,在那里它作为种子前星运行</description>
-      <pubDate>Wed, 07 Oct 2026 08:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites">The Verge AI</source>
-    </item>
-    <item>
-      <title>ChatGPT for Teens是一个“无法接受的风险”,</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media</link>
-      <description>常见感通媒体(Common Sense Media)是一家提供以青少年安全为重点的应用,服务和娱乐评论的非盈利组织,今天称OpenAI的"青少年ChatGPT"是"无法接受的风险". ChatGPT的"青少年"于8月推出,为青少年设置了护栏并旨在帮助学生学习,但C.</description>
-      <pubDate>Wed, 07 Oct 2026 05:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media">The Verge AI</source>
-    </item>
-    <item>
-      <title>Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司</title>
-      <link>https://www.qbitai.com/2026/10/501791.html</link>
-      <description>在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜</description>
-      <pubDate>Wed, 07 Oct 2026 06:39:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501791.html</guid>
-      <source url="https://www.qbitai.com/2026/10/501791.html">量子位</source>
-    </item>
-    <item>
-      <title>Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534</title>
-      <link>https://x.com/arena/status/2107717155374727602</link>
-      <description>Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。</description>
-      <pubDate>Wed, 07 Oct 2026 06:18:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2107717155374727602</guid>
-      <source url="https://x.com/arena/status/2107717155374727602">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>GAMEGO: 实时世界资产合成轨迹Game-Dev代理培训</title>
-      <link>https://arxiv.org/abs/2610.06910</link>
-      <description>大语言模型(LLMS)的近期进步在网络前端执行方面显示出卓越的能力,基于浏览器的游戏生成逐渐成为一个特别突出的前沿。 虽然以往的努力经常依赖复杂的 mu 。</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.06910</guid>
-      <source url="https://arxiv.org/abs/2610.06910">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Text2Dashboard:一个用于自然-语言 Dashboard 生成的治理代理架构,凌驾于 Enterprise DataBrain 之上</title>
-      <link>https://arxiv.org/abs/2610.06914</link>
-      <description>Text2Dashboard是一个针对DataBrain的原型,将自然语言分析请求转化为可检查的仪表板。一个可安装的 Codex 插件和独立的代理 Runtime 将 chema 约束的模型决定与 typed 工具结合, 持久</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.06914</guid>
-      <source url="https://arxiv.org/abs/2610.06914">ArXiv AI</source>
-    </item>
-    <item>
-      <title>流体PD: SLO- Aware 预填- 十进制分解 LLM 服务的内置弹性</title>
-      <link>https://arxiv.org/abs/2610.06917</link>
-      <description>预填解码分解正在成为LLM服务的常见架构,因为它将具有不同执行模式和SLO目标的两个阶段分开. 现有系统通常将固定的预填/解码工人比与请求rou结合.</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.06917</guid>
-      <source url="https://arxiv.org/abs/2610.06917">ArXiv AI</source>
-    </item>
-    <item>
-      <title>语义几何学在矛盾学习中的定点差异</title>
-      <link>https://arxiv.org/abs/2610.06919</link>
-      <description>本文涉及语义上下文如何决定所学矢量表示法中的几何学. 相似性一般用余弦相似度来测量,这提供了单一的固定几何学. 然而,语义上的相似度是内在上下文所依赖的.</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.06919</guid>
-      <source url="https://arxiv.org/abs/2610.06919">ArXiv AI</source>
-    </item>
-    <item>
-      <title>RadOnc-Agent:跨放射治疗护理途径人工智能流动的 LLM 规范框架</title>
-      <link>https://arxiv.org/abs/2610.06923</link>
-      <description>人工智能有先进的个人放射治疗任务,但这些能力仍然在临床阶段、软件环境和数据模式之间分离。</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.06923</guid>
-      <source url="https://arxiv.org/abs/2610.06923">ArXiv AI</source>
-    </item>
-    <item>
-      <title>TEMPEST:通过角边距学习进行可伸缩驱动识别的时序嵌入</title>
-      <link>https://arxiv.org/abs/2610.06855</link>
-      <description>可伸缩的驱动程序识别需要嵌入模型,随着机队规模的增大而保持歧视性的性能,然而现有的三重损失配方随着驱动程序池大小的增大而迅速退化,并在严格的环境下过度适应会话特定模式.</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.06855</guid>
-      <source url="https://arxiv.org/abs/2610.06855">ArXiv ML</source>
     </item>
   </channel>
 </rss>
