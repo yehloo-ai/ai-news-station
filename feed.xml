@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 21:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:27:33 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude</title>
+      <link>http://www.geekpark.net/news/372089</link>
+      <description>2026 诺贝尔物理学奖揭晓：把一立方公里南极冰变成望远镜，打开「中微子天文学」 10 月 6 日，2026 年诺贝尔物理学奖授予比利时裔美国物理学家 Francis Halzen，以表彰其「对 IceCube 中微子天文台的决定性贡献，以及发现来自天体的高能中微子」。 Halzen 领导建设的 IceCube 位于南极，把超过 一立方公里的透明冰层本身变成粒子探测器：5000 多个光学传感器被埋入超过两公里深的冰层，通过捕捉中微子极少数与物质碰撞时产生的微弱光线，反推出粒子的来源。 与传统望远镜利用光观察宇宙不同，中微子几乎可以不受阻碍地穿过物质，因此能够携带超新星、黑洞等极端宇宙事件的信息</description>
+      <pubDate>Wed, 07 Oct 2026 08:39:21 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372089</guid>
+      <source url="http://www.geekpark.net/news/372089">极客公园</source>
+    </item>
+    <item>
+      <title>OpenAI 放弃了另一批数学突破</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github</link>
+      <description>OpenAI揭示了由一批722份手稿中未释放的前沿模型产生的一些长期存在的数学问题的解决方案,涵盖了372个结果家族,这些结果家族将相关论文组合在一起. OpenAI扩展了一系列突破,既给数学部分留下了深刻的印象,也留下了不安的印象.</description>
+      <pubDate>Tue, 06 Oct 2026 19:26:38 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI 发布内部前沿模型产出的数学研究成果</title>
+      <link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
+      <description>OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。</description>
+      <pubDate>Tue, 06 Oct 2026 23:01:09 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/sharing-ai-progress-in-mathematics/</guid>
+      <source url="https://openai.com/index/sharing-ai-progress-in-mathematics/">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
+    <item>
+      <title>介绍决定 API</title>
+      <link>https://www.youtube.com/watch?v=FB6oCmrIj-Y</link>
+      <description>引入“决定 API ” : 在您的应用程序中快速将文本和图像转化为动作。 给模型输入一个输入, 定义一个问题和可能的答案, 并使用自己的选择来决定接下来会发生什么 。 由 GPT-6 Luna 提供动力, “ 决定 API ” 专注于一小组选择来进行交互</description>
+      <pubDate>Tue, 06 Oct 2026 21:33:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=FB6oCmrIj-Y</guid>
+      <source url="https://www.youtube.com/watch?v=FB6oCmrIj-Y">OpenAI</source>
+    </item>
     <item>
       <title>GitHub 重建 Git 基础设施，应对智能体规模开发</title>
       <link>https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</link>
@@ -134,38 +166,6 @@
       <pubDate>Tue, 06 Oct 2026 05:47:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2107346890648076595</guid>
       <source url="https://x.com/rohanpaul_ai/status/2107346890648076595">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元</title>
-      <link>https://x.com/Khazix0918/status/2107297777583825359</link>
-      <description>作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。</description>
-      <pubDate>Tue, 06 Oct 2026 02:31:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Khazix0918/status/2107297777583825359</guid>
-      <source url="https://x.com/Khazix0918/status/2107297777583825359">X：卡兹克 (@Khazix0918)</source>
-    </item>
-    <item>
-      <title>OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」</title>
-      <link>http://www.geekpark.net/news/372086</link>
-      <description>2026 诺贝尔奖生理学或医学奖揭晓：三学者凭借「光控离子通道和光遗传学」领域发现获表彰 10 月 5 日消息，诺贝尔奖基金会宣布将 2026 年诺贝尔生理学或医学奖授予以下三人，以表彰他们在「光控离子通道和光遗传学」领域的发现：美国霍华德 &amp;middot; 休斯医学研究所及斯坦福大学的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann、德国维尔茨堡大学的 Georg Nagel。 诺贝尔奖评选机构表示，三位科学家的研究推动了光遗传学（Optogenetics）的发展。这项技术能够利用光信号精确控制神经细胞活动，使研究人员得以观察活体大脑中的神经细胞如何影响记忆</description>
-      <pubDate>Tue, 06 Oct 2026 09:16:53 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372086</guid>
-      <source url="http://www.geekpark.net/news/372086">极客公园</source>
-    </item>
-    <item>
-      <title>构建一个自定义网站, 以保持与 ChatGPT 的顶级业务</title>
-      <link>https://www.youtube.com/shorts/q0_JXcrx3jk</link>
-      <description>这家家具店很受欢迎。 如此受欢迎, 很难追踪所有入境请求。 ChatGPT 可以解决这个问题。 Victor Nunez Rodriguez 访问费城的费城餐桌公司, 帮助他打造一个工具, 顶住它。 您有想要的东西吗 ? 放弃你的想法 ?</description>
-      <pubDate>Tue, 06 Oct 2026 00:36:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/q0_JXcrx3jk</guid>
-      <source url="https://www.youtube.com/shorts/q0_JXcrx3jk">OpenAI</source>
-    </item>
-    <item>
-      <title>卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7</link>
-      <description>作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。</description>
-      <pubDate>Tue, 06 Oct 2026 00:18:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7">公众号：数字生命卡兹克</source>
     </item>
   </channel>
 </rss>
