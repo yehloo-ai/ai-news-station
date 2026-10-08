@@ -5,8 +5,56 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:24:27 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google正在推出一个一站式双子星代理 为你的工作任务服务</title>
+      <link>https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise</link>
+      <description>Google正在推出一个"通用"双子星人工智能代理,可以在背景中跨应用程序和设备工作. 该工具作为双子星在工作活动中的一部分于星期四宣布,将在双子星企业应用中提供,允许用户与双子星代理聊天并从一个双子星指定任务.</description>
+      <pubDate>Thu, 08 Oct 2026 10:28:03 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise</guid>
+      <source url="https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise">The Verge AI</source>
+    </item>
+    <item>
+      <title>你能相信Meta的Muse或OpenAI的Dots来管理你的生活吗?</title>
+      <link>https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free</link>
+      <description>今天的解码员嘉宾是赫登·菲尔德(Hayden Field, The Verge)的资深人工智能记者,我们正在讨论新一波对消费者友好的人工智能特工。 如果你一直在关注这个空间,你知道人工智能爱好者已经利用了特工一分钟 — — 家庭酿造的OpenClaw设置导致了Mac Mi的激增。</description>
+      <pubDate>Thu, 08 Oct 2026 10:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free</guid>
+      <source url="https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free">The Verge AI</source>
+    </item>
+    <item>
+      <title>Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体</title>
+      <link>https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/</link>
+      <description>Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。</description>
+      <pubDate>Thu, 08 Oct 2026 13:01:01 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/</guid>
+      <source url="https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南</title>
+      <link>https://claude.dev/blog/building-effective-agent-automations/</link>
+      <description>Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。</description>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://claude.dev/blog/building-effective-agent-automations/</guid>
+      <source url="https://claude.dev/blog/building-effective-agent-automations/">Anthropic：Claude.dev 开发者博客（RSS）</source>
+    </item>
+    <item>
+      <title>ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？</title>
+      <link>https://www.qbitai.com/2026/10/501995.html</link>
+      <description>PaperBenchX为代表的基准或许能更好地衡量AI的科研实力</description>
+      <pubDate>Thu, 08 Oct 2026 09:28:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501995.html</guid>
+      <source url="https://www.qbitai.com/2026/10/501995.html">量子位</source>
+    </item>
+    <item>
+      <title>Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行</title>
+      <link>https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/</link>
+      <description>Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。</description>
+      <pubDate>Thu, 08 Oct 2026 09:24:17 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/</guid>
+      <source url="https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/">The Decoder：AI News（RSS）</source>
+    </item>
     <item>
       <title>Windows 迎来 AI 时代最大更新，拉来黄仁勋跟 Mac 宣战</title>
       <link>https://www.ifanr.com/1683177?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -14,6 +62,14 @@
       <pubDate>Thu, 08 Oct 2026 08:15:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1683177?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1683177?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Waymo 完成 50 亿美元债务融资，加速业务扩张</title>
+      <link>https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing</link>
+      <description>Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。</description>
+      <pubDate>Thu, 08 Oct 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing</guid>
+      <source url="https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing">Waymo：Blog（网页）</source>
     </item>
     <item>
       <title>GAMEGO: 实时世界资产合成轨迹Game-Dev代理培训</title>
@@ -110,62 +166,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.08827</guid>
       <source url="https://arxiv.org/abs/2610.08827">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>当忘却看起来像改进: 流动的Diarizer适应和排练价格中的量子化妆</title>
-      <link>https://arxiv.org/abs/2610.08828</link>
-      <description>小型数据适应可以改善语音检测,同时降低演讲者归属。我们研究这种差异是在双方对话7.5h的基础上,并经过6个公司评估的释放流式对角器中。</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.08828</guid>
-      <source url="https://arxiv.org/abs/2610.08828">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Emo-Jev:与Jev一起进行情感分类的概率推理</title>
-      <link>https://arxiv.org/abs/2610.08829</link>
-      <description>Jev 提供了语言理解的替代界面: 给输入和预定义的问题, 它返回概率化的决定, 而不是自由格式的响应 。 此界面是否能够支持文本分类的有效推理 。</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.08829</guid>
-      <source url="https://arxiv.org/abs/2610.08829">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>CODR: 传播语言模型培训-无信任-分散重塑</title>
-      <link>https://arxiv.org/abs/2610.08833</link>
-      <description>蒙面传播语言模型(MDLMs)通过反复承诺代币来解码被蒙面的位置,但这些承诺通常是不可逆转的。 在稀疏、部分上下文下选择的代币被固定下来,即使后来的上下文不再支持</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.08833</guid>
-      <source url="https://arxiv.org/abs/2610.08833">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账</title>
-      <link>https://x.com/thsottiaux/status/2108040921044639779</link>
-      <description>作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。</description>
-      <pubDate>Thu, 08 Oct 2026 03:44:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2108040921044639779</guid>
-      <source url="https://x.com/thsottiaux/status/2108040921044639779">X：Tibo (@thsottiaux)</source>
-    </item>
-    <item>
-      <title>大模型原生智能体手机STEPX Neo将于10月13日正式发布</title>
-      <link>https://www.qbitai.com/2026/10/501915.html</link>
-      <description></description>
-      <pubDate>Thu, 08 Oct 2026 02:15:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501915.html</guid>
-      <source url="https://www.qbitai.com/2026/10/501915.html">量子位</source>
-    </item>
-    <item>
-      <title>【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移</title>
-      <link>https://aihot.news/agent?tab=api#legacy-api-migration</link>
-      <description>这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。</description>
-      <pubDate>Thu, 08 Oct 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://aihot.news/agent?tab=api#legacy-api-migration</guid>
-      <source url="https://aihot.news/agent?tab=api#legacy-api-migration">AIHOT</source>
-    </item>
-    <item>
-      <title>造物 100#07   | 给硬盘养个图书馆员、指纹钥匙给 AI 上锁、AI 对讲机住着科幻宇宙</title>
-      <link>http://www.geekpark.net/news/372099</link>
-      <description>产品的创新，究竟应该如何定义它的价值？ 上周，华为、小米、苹果在 72 小时内接连发布折叠屏旗舰。华为 Mate XT 2 非凡大师 19999 元起售，小米 18 Fold 10999 元，苹果首款折叠屏 iPhone Duo 市场预计 1.6 万起。与此同时，一组数据冲上热搜，通用内存合约价环比涨超 58%，固态硬盘涨超 70%，主流性能机比去年贵了 2800 到 4500 元。「普通人没必要追求电子产品顶配」登上热搜，年轻人转向二手电脑和标准版机型，不再一味追求顶配功能。 一边是厂商急需拓展新产品线的渴望，一边是用户日益下探的购买力。当「更贵」不再自动等于「更想要」，创新到底该如何定义价</description>
-      <pubDate>Thu, 08 Oct 2026 09:40:34 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372099</guid>
-      <source url="http://www.geekpark.net/news/372099">极客公园</source>
     </item>
   </channel>
 </rss>
