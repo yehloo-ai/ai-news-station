@@ -630,5 +630,13 @@
     "sourceUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "sourceName": "Google DeepMind：Blog（RSS）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Anthropic 发布 Claude Haiku 5.5，运行成本平均降低约 75%",
+    "summary": "Anthropic 发布 Claude Haiku 5.5，定位为迄今最便宜、最快的小模型，适合摘要、压缩、数据库查询、分类等高吞吐任务，并可搭配 Opus 5.5 和 Sonnet 5.5 担任编码子智能体。",
+    "sourceUrl": "https://www.anthropic.com/claude-haiku-5-5",
+    "sourceName": "Anthropic：Newsroom（网页）",
+    "reviewReason": "awaiting-review"
   }
 ]
