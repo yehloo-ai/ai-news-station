@@ -5,8 +5,56 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 22:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:03:23 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等</title>
+      <link>https://sspai.com/post/115532</link>
+      <description>XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型查看全文</description>
+      <pubDate>Fri, 09 Oct 2026 08:51:10 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/115532</guid>
+      <source url="https://sspai.com/post/115532">少数派</source>
+    </item>
+    <item>
+      <title>陶哲轩带头宣战！人类数学家联合抵制OpenAI</title>
+      <link>https://www.qbitai.com/2026/10/502089.html</link>
+      <description>彻底撕破脸了</description>
+      <pubDate>Fri, 09 Oct 2026 00:35:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502089.html</guid>
+      <source url="https://www.qbitai.com/2026/10/502089.html">量子位</source>
+    </item>
+    <item>
+      <title>谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车小程序</title>
+      <link>http://www.geekpark.net/news/372143</link>
+      <description>谷歌云发布 Gemini Agent，支持多种 AI 模型 10 月 8 日，谷歌云在 Gemini at Work 2026 发布会上宣布，面向企业客户推出 Gemini 智能体（Gemini Agent）。这款产品定位「通用工作智能体」，支持 Gemini Enterprise 、Workspace 以及第三方服务。 谷歌表示，Gemini Agent 只需要用户给出目标就能完成工作，支持回答问题、处理知识型工作、创建媒体内容，以及编写程序。 除了充当个人助理之外，Gemini 智能体还可以用作「团队成员」。它可以在团队中担任 PM、财务分析师等。 目前，该智能体支持 Gemini 和 C</description>
+      <pubDate>Fri, 09 Oct 2026 08:35:13 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372143</guid>
+      <source url="http://www.geekpark.net/news/372143">极客公园</source>
+    </item>
+    <item>
+      <title>不等Gemini 4了！谷歌发布办公Agent，支持调用Claude</title>
+      <link>https://www.qbitai.com/2026/10/502083.html</link>
+      <description>新的“缝合怪”已经出现，怎么能够停滞不前</description>
+      <pubDate>Fri, 09 Oct 2026 00:16:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502083.html</guid>
+      <source url="https://www.qbitai.com/2026/10/502083.html">量子位</source>
+    </item>
+    <item>
+      <title>Tibo 宣布发布 ChatGPT</title>
+      <link>https://x.com/thsottiaux/status/2108349826727588000</link>
+      <description>Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。</description>
+      <pubDate>Fri, 09 Oct 2026 00:12:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2108349826727588000</guid>
+      <source url="https://x.com/thsottiaux/status/2108349826727588000">X：Tibo (@thsottiaux)</source>
+    </item>
+    <item>
+      <title>OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元</title>
+      <link>https://www.ithome.com/1/010/751.htm</link>
+      <description>据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。</description>
+      <pubDate>Thu, 08 Oct 2026 23:02:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/010/751.htm</guid>
+      <source url="https://www.ithome.com/1/010/751.htm">IT之家·人工智能</source>
+    </item>
     <item>
       <title>Anthropic发射免费人工智能安全扫描 开源项目</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner</link>
@@ -118,54 +166,6 @@
       <pubDate>Thu, 08 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude">The Verge AI</source>
-    </item>
-    <item>
-      <title>Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半</title>
-      <link>https://x.com/ArtificialAnlys/status/2108236656700768310</link>
-      <description>Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。</description>
-      <pubDate>Thu, 08 Oct 2026 16:42:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2108236656700768310</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2108236656700768310">X：Artificial Analysis (@ArtificialAnlys)</source>
-    </item>
-    <item>
-      <title>LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock</title>
-      <link>https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link</link>
-      <description>LangChain 发布示例项目 Restock，一个在 Slack 上通过 Managed Deep Agents 运行的办公用品购买智能体，演示智能体如何安全完成支付。</description>
-      <pubDate>Thu, 08 Oct 2026 16:21:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link</guid>
-      <source url="https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link">LangChain：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线</title>
-      <link>https://www.youtube.com/shorts/n9WfoNW2XnE</link>
-      <description>Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /slides、/docs、/designs 直接生成对应格式。</description>
-      <pubDate>Thu, 08 Oct 2026 15:53:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/n9WfoNW2XnE</guid>
-      <source url="https://www.youtube.com/shorts/n9WfoNW2XnE">Claude：YouTube（RSS）</source>
-    </item>
-    <item>
-      <title>Google的人工智能笔记程序将您的会议完全脱机</title>
-      <link>https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline</link>
-      <description>Google发布了一个实验性便笺应用,可以将会议和音频文件完全脱机,如TechCrunch早些时候所报道的那样. 该应用名为Google人工智能边缘展望,可以自由使用并运行于macOS上,使用该公司的EmbeddingGemma 2模型. 类似于人工智能 Note-ta.</description>
-      <pubDate>Thu, 08 Oct 2026 11:27:30 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline</guid>
-      <source url="https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline">The Verge AI</source>
-    </item>
-    <item>
-      <title>Google正在推出一个一站式双子星代理 为你的工作任务服务</title>
-      <link>https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise</link>
-      <description>Google正在推出一个"通用"双子星人工智能代理,可以在背景中跨应用程序和设备工作. 该工具作为双子星在工作活动中的一部分于星期四宣布,将在双子星企业应用中提供,允许用户与双子星代理聊天并从一个双子星指定任务.</description>
-      <pubDate>Thu, 08 Oct 2026 10:28:03 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise</guid>
-      <source url="https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise">The Verge AI</source>
-    </item>
-    <item>
-      <title>你能相信Meta的Muse或OpenAI的Dots来管理你的生活吗?</title>
-      <link>https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free</link>
-      <description>今天的解码员嘉宾是赫登·菲尔德(Hayden Field, The Verge)的资深人工智能记者,我们正在讨论新一波对消费者友好的人工智能特工。 如果你一直在关注这个空间,你知道人工智能爱好者已经利用了特工一分钟 — — 家庭酿造的OpenClaw设置导致了Mac Mi的激增。</description>
-      <pubDate>Thu, 08 Oct 2026 10:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free</guid>
-      <source url="https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free">The Verge AI</source>
     </item>
   </channel>
 </rss>
