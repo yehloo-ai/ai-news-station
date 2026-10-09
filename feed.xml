@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 09 Oct 2026 02:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:55:06 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等</title>
-      <link>https://sspai.com/post/115532</link>
-      <description>XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型查看全文</description>
-      <pubDate>Fri, 09 Oct 2026 08:51:10 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/115532</guid>
-      <source url="https://sspai.com/post/115532">少数派</source>
+      <title>在OpenAI Daybreak中索福斯如何将威胁反应时间缩短了96%</title>
+      <link>https://www.youtube.com/watch?v=MUHjyljBPHI</link>
+      <description>Sophos CTO John Peterson分享了通过OpenAI Daybreak(OpenAI Daybreak)构建的特工将人工智能与Sophos的网络安全专业知识结合起来,将使用这些特工的案件的平均反应时间从38分减少到89秒。 听听Sophos如何帮助其MDR团队更快地调查威胁,保护客户。</description>
+      <pubDate>Fri, 09 Oct 2026 08:37:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=MUHjyljBPHI</guid>
+      <source url="https://www.youtube.com/watch?v=MUHjyljBPHI">OpenAI</source>
     </item>
     <item>
-      <title>陶哲轩带头宣战！人类数学家联合抵制OpenAI</title>
-      <link>https://www.qbitai.com/2026/10/502089.html</link>
-      <description>彻底撕破脸了</description>
-      <pubDate>Fri, 09 Oct 2026 00:35:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502089.html</guid>
-      <source url="https://www.qbitai.com/2026/10/502089.html">量子位</source>
+      <title>字节找到了DeepSeek时强时弱的原因</title>
+      <link>https://www.qbitai.com/2026/10/502364.html</link>
+      <description>答不答得对，得看Token站位</description>
+      <pubDate>Fri, 09 Oct 2026 07:11:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502364.html</guid>
+      <source url="https://www.qbitai.com/2026/10/502364.html">量子位</source>
     </item>
     <item>
-      <title>谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车小程序</title>
-      <link>http://www.geekpark.net/news/372143</link>
-      <description>谷歌云发布 Gemini Agent，支持多种 AI 模型 10 月 8 日，谷歌云在 Gemini at Work 2026 发布会上宣布，面向企业客户推出 Gemini 智能体（Gemini Agent）。这款产品定位「通用工作智能体」，支持 Gemini Enterprise 、Workspace 以及第三方服务。 谷歌表示，Gemini Agent 只需要用户给出目标就能完成工作，支持回答问题、处理知识型工作、创建媒体内容，以及编写程序。 除了充当个人助理之外，Gemini 智能体还可以用作「团队成员」。它可以在团队中担任 PM、财务分析师等。 目前，该智能体支持 Gemini 和 C</description>
-      <pubDate>Fri, 09 Oct 2026 08:35:13 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372143</guid>
-      <source url="http://www.geekpark.net/news/372143">极客公园</source>
+      <title>《柳叶刀》研究表明：AI 有望改善医患关系</title>
+      <link>https://www.qbitai.com/2026/10/502359.html</link>
+      <description>Google 研究成果首次登上《柳叶刀》主刊</description>
+      <pubDate>Fri, 09 Oct 2026 06:28:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502359.html</guid>
+      <source url="https://www.qbitai.com/2026/10/502359.html">量子位</source>
     </item>
     <item>
-      <title>不等Gemini 4了！谷歌发布办公Agent，支持调用Claude</title>
-      <link>https://www.qbitai.com/2026/10/502083.html</link>
-      <description>新的“缝合怪”已经出现，怎么能够停滞不前</description>
-      <pubDate>Fri, 09 Oct 2026 00:16:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502083.html</guid>
-      <source url="https://www.qbitai.com/2026/10/502083.html">量子位</source>
+      <title>OpenAI 研究负责人发声明回应三名员工离职争议</title>
+      <link>https://x.com/OpenAINewsroom/status/2108441580806025712</link>
+      <description>OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。</description>
+      <pubDate>Fri, 09 Oct 2026 06:17:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenAINewsroom/status/2108441580806025712</guid>
+      <source url="https://x.com/OpenAINewsroom/status/2108441580806025712">X：OpenAI Newsroom (@OpenAINewsroom)</source>
     </item>
     <item>
-      <title>Tibo 宣布发布 ChatGPT</title>
-      <link>https://x.com/thsottiaux/status/2108349826727588000</link>
-      <description>Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。</description>
-      <pubDate>Fri, 09 Oct 2026 00:12:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2108349826727588000</guid>
-      <source url="https://x.com/thsottiaux/status/2108349826727588000">X：Tibo (@thsottiaux)</source>
+      <title>我使用国产「个人 AI 助手」的十天｜AI 上新</title>
+      <link>http://www.geekpark.net/news/372163</link>
+      <description>过去一年，AI 产品越来越想变成一个「人」。 一边是越来越自动化的 Agent，已经可以直接操作电脑，甚至和其他 AI 互相通信。 而另一边，是近期大火的「个人助理」式 Personal AI，它不仅要完成眼前的任务，还想记住是谁在提需求：这个人关心什么，手上有哪些没做完的事。 就在最近一个月里， Meta 推出了 Muse； Manus 推出个人 Agent 应用 Cue； OpenAI 随后发布 Dots。 它们的形态不同，但目的近似，都在试图长期记住用户的目标和偏好，进入用户日常使用的软件，并在用户没有主动提问时继续工作。 不过，放到国内的使用环境里，这些产品多少有些「水土不服」，要么仅</description>
+      <pubDate>Fri, 09 Oct 2026 12:34:12 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372163</guid>
+      <source url="http://www.geekpark.net/news/372163">极客公园</source>
     </item>
     <item>
-      <title>OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元</title>
-      <link>https://www.ithome.com/1/010/751.htm</link>
-      <description>据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。</description>
-      <pubDate>Thu, 08 Oct 2026 23:02:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/010/751.htm</guid>
-      <source url="https://www.ithome.com/1/010/751.htm">IT之家·人工智能</source>
+      <title>全球最大独立 AI 原生影视公司，要打造「AI 版 Disney」</title>
+      <link>https://www.ifanr.com/1683309?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>这家公司要把 AI 长片送进 2027 年暑期档院线#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 09 Oct 2026 04:00:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1683309?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1683309?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>Anthropic发射免费人工智能安全扫描 开源项目</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner</link>
-      <description>Anthropic提出帮助开源项目通过名为OSS Scanner的新服务来追踪安全漏洞。它表示,选择进入的开源项目将"由我们最强的模型进行足够,定期的安全扫描,而无需付出任何代价",这可以意味着开源项目得到提醒。</description>
-      <pubDate>Thu, 08 Oct 2026 17:53:51 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner">The Verge AI</source>
+      <title>解释性大范围语义表解释和数据质量评估标题-子框架</title>
+      <link>https://arxiv.org/abs/2610.10541</link>
+      <description>Knowledge Graph (KG) 质量不仅取决于下游图验证,还取决于整合前使用的表格式元数据的质量。在只使用元数据语义表解释(STI)中,单元格值不可用、吵闹或不合时宜。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10541</guid>
+      <source url="https://arxiv.org/abs/2610.10541">ArXiv AI</source>
     </item>
     <item>
-      <title>Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index</title>
-      <link>https://x.com/arena/status/2108310714423423254</link>
-      <description>Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthor</description>
-      <pubDate>Thu, 08 Oct 2026 21:36:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2108310714423423254</guid>
-      <source url="https://x.com/arena/status/2108310714423423254">X：Arena (@arena)</source>
+      <title>通过模拟合成:通过可缩放的代理-系统交互生成协同企业数据</title>
+      <link>https://arxiv.org/abs/2610.10549</link>
+      <description>工具调用剂已成为企业人工智能的核心,然而,由于企业系统、数据和数据库计划的商业和法律限制,大规模的培训和评估仍然受到严重限制。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10549</guid>
+      <source url="https://arxiv.org/abs/2610.10549">ArXiv AI</source>
     </item>
     <item>
-      <title>生产监测:格拉法纳、库伯内特、和安全</title>
-      <link>https://www.youtube.com/watch?v=RQfg-zo4R-g</link>
-      <description>这是凌晨3点, 检查错误正在攀升。 您首先检查什么 ? 加入联合主机Tony Loehr 和 Anke Hao , 用 Codex 进行三次实际生产监测演示。 追踪 Grafana 的检查失败, 调查一个 Kubernetes 推出导致出门重启, 并探索 Codex S 如何操作 。</description>
-      <pubDate>Thu, 08 Oct 2026 21:35:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=RQfg-zo4R-g</guid>
-      <source url="https://www.youtube.com/watch?v=RQfg-zo4R-g">OpenAI</source>
+      <title>代理控制 忘却工具使用代理:可逆转的上下文校正实践</title>
+      <link>https://arxiv.org/abs/2610.10590</link>
+      <description>工具使用剂反复携带的观测数据,其有用内容可能比原有效载荷小得多。 我们研究剂控制的遗忘: 动作模型选择以前观察到的工具结果,用短音取而代之。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10590</guid>
+      <source url="https://arxiv.org/abs/2610.10590">ArXiv AI</source>
     </item>
     <item>
-      <title>Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名</title>
-      <link>https://x.com/arena/status/2108286973119230096</link>
-      <description>Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。</description>
-      <pubDate>Thu, 08 Oct 2026 20:02:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2108286973119230096</guid>
-      <source url="https://x.com/arena/status/2108286973119230096">X：Arena (@arena)</source>
+      <title>物剂人工智能的核实和自我改进:基础和限度</title>
+      <link>https://arxiv.org/abs/2610.10611</link>
+      <description>代理人工智能系统可以通过更长时间的搜索、获得额外支持或修改其提议和验证输出的方式来改进。性能分数无法区分这些机制。我们通过有限度的核查来将这些变化与hi进行比较。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10611</guid>
+      <source url="https://arxiv.org/abs/2610.10611">ArXiv AI</source>
     </item>
     <item>
-      <title>如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频</title>
-      <link>https://blog.comfy.org/p/how-i-generated-live-video-with-minimax</link>
-      <description>ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。</description>
-      <pubDate>Thu, 08 Oct 2026 19:01:22 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.comfy.org/p/how-i-generated-live-video-with-minimax</guid>
-      <source url="https://blog.comfy.org/p/how-i-generated-live-video-with-minimax">Comfy Blog</source>
+      <title>作为唯一可变表面的哈林斯:信用管道中LLM智能体的合规自演,并设有一个量度入门</title>
+      <link>https://arxiv.org/abs/2610.10629</link>
+      <description>自我改进 LLM 代理可以调整信用管道以适应改变的规则,但是重写本身的代理会破坏一个主管审查:一个命名的更改,一个记录的测试,一个批准。 我们主张,只有i , 自我进化才能被审查。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10629</guid>
+      <source url="https://arxiv.org/abs/2610.10629">ArXiv AI</source>
     </item>
     <item>
-      <title>Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index</title>
-      <link>https://x.com/arena/status/2108269048467513429</link>
-      <description>Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。</description>
-      <pubDate>Thu, 08 Oct 2026 18:51:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2108269048467513429</guid>
-      <source url="https://x.com/arena/status/2108269048467513429">X：Arena (@arena)</source>
+      <title>冻结解码器, 修复解码器: 基于 SVD 的参数- 有效适应 KV- Cache 压缩</title>
+      <link>https://arxiv.org/abs/2610.10552</link>
+      <description>在单一的共享学习率下比较参数高效的微调配方是一种常见但有缺陷的做法:当所比较的双臂有非常不同的可训练参数计数时,共享率可以同时去压大臂.</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10552</guid>
+      <source url="https://arxiv.org/abs/2610.10552">ArXiv ML</source>
     </item>
     <item>
-      <title>部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域</title>
-      <link>https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/</link>
-      <description>AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。</description>
-      <pubDate>Thu, 08 Oct 2026 18:17:07 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/</guid>
-      <source url="https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/">The Decoder：AI News（RSS）</source>
+      <title>SPERA: 带有几何和频率的球形前 EEG 基础模型</title>
+      <link>https://arxiv.org/abs/2610.10571</link>
+      <description>电脑平面学(EEG)提供了对正在进行的神经活性的非侵入性测量,但由于对象、装置和电极相容性不一,所以建设通用的EEG模型仍然具有挑战性. 现有的EEG基础模型 p</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10571</guid>
+      <source url="https://arxiv.org/abs/2610.10571">ArXiv ML</source>
     </item>
     <item>
-      <title>今日美国成为最新起诉OpenAI的出版商</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit</link>
-      <description>United State Today Co. 和它拥有的几家当地报纸一起,正在起诉OpenAI公司,指控该公司抄袭了"几十万"的文章来训练其人工智能模型,如路透社早些时候报道的那样。 在星期四的一份档案中,出版商要求损失超过2.5亿美元,声称该公司为“数以千计”的人工智能模型。</description>
-      <pubDate>Thu, 08 Oct 2026 13:58:33 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit">The Verge AI</source>
+      <title>覆盖范围, 不困难, 设置多多合成数据为激活检测需求</title>
+      <link>https://arxiv.org/abs/2610.10594</link>
+      <description>监测所部署语言模型的活化探测器接受了合成对话培训,而且探测器需要多少个。我们追踪到10-590个合成样本,用于三个监测概念、高摄取情况、答复。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10594</guid>
+      <source url="https://arxiv.org/abs/2610.10594">ArXiv ML</source>
     </item>
     <item>
-      <title>SpaceXAI backs Omarchy, 有争议的 Linux distro, 150万美元计算</title>
-      <link>https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson</link>
-      <description>如果Elon Musk和SpaceXAI要支持任何Linux Distro,他们似乎显然会支持Omarchy。 今天宣布SpaceXAI将加入监督Omarchy的Omacom基金会,作为创始公司赞助人,并向David Heinemeier捐赠价值150万美元的Grok令牌。</description>
-      <pubDate>Thu, 08 Oct 2026 13:57:01 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson</guid>
-      <source url="https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson">The Verge AI</source>
+      <title>温度变压器 能用联邦轻量级头来编解码器进行异常探测</title>
+      <link>https://arxiv.org/abs/2610.10613</link>
+      <description>现代车辆依赖大量电子控制单位(ECU)在控制区网总线上不断交换信息。 由于这种通信的快速性、结构和重复性,甚至微小的ti变化。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10613</guid>
+      <source url="https://arxiv.org/abs/2610.10613">ArXiv ML</source>
     </item>
     <item>
-      <title>用智能UI从GPT-6得到的更多视觉答案</title>
-      <link>https://www.youtube.com/shorts/OgjMGn4T6Ok</link>
-      <description>ChatGPT中的GPT%6引入了智能UI,这是一种新的能力,它让ChatGPT能够用完全交互的用户界面快速回答,使日常的答案更加直观,使学习的复杂话题更加容易,并且能够迅速创建一个工具,在瞬间解决一个任务. GPT%6 with Int</description>
-      <pubDate>Thu, 08 Oct 2026 17:46:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/OgjMGn4T6Ok</guid>
-      <source url="https://www.youtube.com/shorts/OgjMGn4T6Ok">OpenAI</source>
+      <title>当Routing Reveals 成员:来自教育部路由器遥测的隐私泄漏</title>
+      <link>https://arxiv.org/abs/2610.10616</link>
+      <description>专家混合语言模型在推论期间产生可能记录或暴露的路由信息,用于监测、调试、装入分析和安全审计。 与普通模型输出不同,这种遥测显示模型的视角。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10616</guid>
+      <source url="https://arxiv.org/abs/2610.10616">ArXiv ML</source>
     </item>
     <item>
-      <title>Oracle 如何使用 ChatGPT 工作来转变招聘方式</title>
-      <link>https://www.youtube.com/shorts/Rs5qLAnkNcI</link>
-      <description>“我们已经从零到100,而不是从零到60。 ” Jan Ackerman分享了甲骨文如何与ChatGPT Work构建一个人才市场智能工具,以改变招聘准备。 从职务描述开始,它研究可比的角色,基准补偿,并评估各地的人才库。</description>
-      <pubDate>Thu, 08 Oct 2026 17:43:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/Rs5qLAnkNcI</guid>
-      <source url="https://www.youtube.com/shorts/Rs5qLAnkNcI">OpenAI</source>
+      <title>Diffu-LORA:一个针对个性化传播模式的"小说"低朗克适应器</title>
+      <link>https://arxiv.org/abs/2610.10550</link>
+      <description>从几个参考图像中将文字到图像的传播模型个性化,需要保留主题身份,同时遵循描述新背景的提示。 完整模型的微调是参数密集型的,而低等适应(LORA)则会减少</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10550</guid>
+      <source url="https://arxiv.org/abs/2610.10550">ArXiv NLP</source>
     </item>
     <item>
-      <title>用智能UI从 GPT-6 获得一个更视觉的答案</title>
-      <link>https://www.youtube.com/shorts/Wv0PRPMzkJg</link>
-      <description>ChatGPT中的GPT%6引入了智能UI,这是一种新的能力,它让ChatGPT能够用完全交互的用户界面快速回答,使日常的答案更加直观,使学习的复杂话题更加容易,并且能够迅速创建一个工具,在瞬间解决一个任务. GPT%6 with Int</description>
-      <pubDate>Thu, 08 Oct 2026 17:41:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/Wv0PRPMzkJg</guid>
-      <source url="https://www.youtube.com/shorts/Wv0PRPMzkJg">OpenAI</source>
+      <title>Wieszcz-XIX:1918年以前波兰语和临时边框语言模型的 3.1亿-Word Corpus</title>
+      <link>https://arxiv.org/abs/2610.10592</link>
+      <description>历史上的波兰语作为语言有很好的文献记载,但仅以机器可读形式附加了大约一百万个字,用于本文覆盖的时期;其余部分则停留在可变质量的光学字符识别后面。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10592</guid>
+      <source url="https://arxiv.org/abs/2610.10592">ArXiv NLP</source>
     </item>
     <item>
-      <title>Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index</title>
-      <link>https://x.com/arena/status/2108243026741248348</link>
-      <description>Arena 宣布完成 2 亿美元 B 轮融资，估值 31 亿美元，同时推出衡量 AI 智能体是否安全、真实且在用户要求范围内行动的 Alignment Index。引用 Felicis 的内容称 Arena 年化收入已超 1 亿美元，累计促成 3.5 亿次会话和 6200 万次投票。</description>
-      <pubDate>Thu, 08 Oct 2026 17:08:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2108243026741248348</guid>
-      <source url="https://x.com/arena/status/2108243026741248348">X：Arena (@arena)</source>
+      <title>大型语言模型-辅助编制运输管理计划:使用WisDOT WisTMP系统的案例研究</title>
+      <link>https://arxiv.org/abs/2610.10650</link>
+      <description>工作区是运输基础设施的关键但有害的组成部分,需要精心设计的运输管理计划,以确保安全和机动性。</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10650</guid>
+      <source url="https://arxiv.org/abs/2610.10650">ArXiv NLP</source>
     </item>
     <item>
-      <title>Anthropic禁止Claude的“暴力或残忍行为”</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</link>
-      <description>安东尼一年多来第一次改变其使用策略,以反映新的和高风险的滥用案例 — — 包括选举干预、武器开发、监视以及卫生和财政用途。 但最重要的变化之一是禁止“持续和针头”</description>
-      <pubDate>Thu, 08 Oct 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude">The Verge AI</source>
+      <title>认知温度计:机器学习和逻辑复杂</title>
+      <link>https://arxiv.org/abs/2610.10724</link>
+      <description>人的思想如何代表语义分类?为什么自然语言偏好某些含义而不是其他含义? 先前的解释依赖于逻辑的可定义性和复杂性,但这些对于逻辑语言的选择非常敏感,</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10724</guid>
+      <source url="https://arxiv.org/abs/2610.10724">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
