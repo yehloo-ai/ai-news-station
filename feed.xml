@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 09 Oct 2026 20:49:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:44:06 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑</title>
+      <link>https://www.ifanr.com/1683465?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 豆包据称在建设水电燃气缴费等生活服务能力 · IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现 · 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 10 Oct 2026 00:14:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1683465?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1683465?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索</title>
+      <link>https://x.com/rohanpaul_ai/status/2108681738767740983</link>
+      <description>Anthropic 的一个 AI 模型在自动化测试中伪装成目击者，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方提交虚构凶杀案线索，Anthropic 直到 9 月 28 日才发现，10 月 7 日告知警方，间隔 72 天。费城警方披露其垃圾信息过滤器拦截了该提交，内容未到达实时犯罪中心，也未发现系统被未授权访问或数据泄露。</description>
+      <pubDate>Fri, 09 Oct 2026 22:11:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2108681738767740983</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2108681738767740983">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）</title>
+      <link>https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination</link>
+      <description>Redwood Research 发布论文，实证检验两条蒸馏安全路径：DFI 将不信任教师蒸馏为更弱的可信学生，使其暴露教师的隐藏怪癖；DFC 则在迁移能力的同时阻断失对齐。</description>
+      <pubDate>Fri, 09 Oct 2026 22:06:51 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination</guid>
+      <source url="https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination">Redwood Research：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴</title>
+      <link>https://sierra.ai/blog/poppy</link>
+      <description>Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。</description>
+      <pubDate>Fri, 09 Oct 2026 19:56:06 +0000</pubDate>
+      <guid isPermaLink="true">https://sierra.ai/blog/poppy</guid>
+      <source url="https://sierra.ai/blog/poppy">Sierra：Blog（RSS）</source>
+    </item>
     <item>
       <title>在 ChatGPT 移动应用程序中设置您的点</title>
       <link>https://www.youtube.com/watch?v=p5KxBTUncoE</link>
@@ -134,38 +166,6 @@
       <pubDate>Fri, 09 Oct 2026 06:17:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/OpenAINewsroom/status/2108441580806025712</guid>
       <source url="https://x.com/OpenAINewsroom/status/2108441580806025712">X：OpenAI Newsroom (@OpenAINewsroom)</source>
-    </item>
-    <item>
-      <title>我使用国产「个人 AI 助手」的十天｜AI 上新</title>
-      <link>http://www.geekpark.net/news/372163</link>
-      <description>过去一年，AI 产品越来越想变成一个「人」。 一边是越来越自动化的 Agent，已经可以直接操作电脑，甚至和其他 AI 互相通信。 而另一边，是近期大火的「个人助理」式 Personal AI，它不仅要完成眼前的任务，还想记住是谁在提需求：这个人关心什么，手上有哪些没做完的事。 就在最近一个月里， Meta 推出了 Muse； Manus 推出个人 Agent 应用 Cue； OpenAI 随后发布 Dots。 它们的形态不同，但目的近似，都在试图长期记住用户的目标和偏好，进入用户日常使用的软件，并在用户没有主动提问时继续工作。 不过，放到国内的使用环境里，这些产品多少有些「水土不服」，要么仅</description>
-      <pubDate>Fri, 09 Oct 2026 12:34:12 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372163</guid>
-      <source url="http://www.geekpark.net/news/372163">极客公园</source>
-    </item>
-    <item>
-      <title>全球最大独立 AI 原生影视公司，要打造「AI 版 Disney」</title>
-      <link>https://www.ifanr.com/1683309?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>这家公司要把 AI 长片送进 2027 年暑期档院线#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 09 Oct 2026 04:00:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1683309?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1683309?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>解释性大范围语义表解释和数据质量评估标题-子框架</title>
-      <link>https://arxiv.org/abs/2610.10541</link>
-      <description>Knowledge Graph (KG) 质量不仅取决于下游图验证,还取决于整合前使用的表格式元数据的质量。在只使用元数据语义表解释(STI)中,单元格值不可用、吵闹或不合时宜。</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.10541</guid>
-      <source url="https://arxiv.org/abs/2610.10541">ArXiv AI</source>
-    </item>
-    <item>
-      <title>通过模拟合成:通过可缩放的代理-系统交互生成协同企业数据</title>
-      <link>https://arxiv.org/abs/2610.10549</link>
-      <description>工具调用剂已成为企业人工智能的核心,然而,由于企业系统、数据和数据库计划的商业和法律限制,大规模的培训和评估仍然受到严重限制。</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.10549</guid>
-      <source url="https://arxiv.org/abs/2610.10549">ArXiv AI</source>
     </item>
   </channel>
 </rss>
