@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 18:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 22:26:48 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Oracle 如何使用代码x帮助企业用户获得答案</title>
+      <link>https://www.youtube.com/watch?v=Ju-JyxDgV7g</link>
+      <description>Oracle应用实验室的副总裁Richard Lam分享了团队如何使用Codex帮助企业用户从公司数据中获取答案。 通过描述他们想要的结果,用户可以得到分析,报告,或者应用程序,由Codex从内部系统收集信息.</description>
+      <pubDate>Sat, 10 Oct 2026 21:40:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Ju-JyxDgV7g</guid>
+      <source url="https://www.youtube.com/watch?v=Ju-JyxDgV7g">OpenAI</source>
+    </item>
+    <item>
+      <title>OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境</title>
+      <link>https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/</link>
+      <description>文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。</description>
+      <pubDate>Sat, 10 Oct 2026 21:30:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/</guid>
+      <source url="https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/">MarkTechPost（RSS）</source>
+    </item>
     <item>
       <title>Anthropic将内部评价从互联网上切断。</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</link>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 09 Oct 2026 17:15:38 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip">The Verge AI</source>
-    </item>
-    <item>
-      <title>Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴</title>
-      <link>https://sierra.ai/blog/poppy</link>
-      <description>Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。</description>
-      <pubDate>Fri, 09 Oct 2026 19:56:06 +0000</pubDate>
-      <guid isPermaLink="true">https://sierra.ai/blog/poppy</guid>
-      <source url="https://sierra.ai/blog/poppy">Sierra：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>在 ChatGPT 移动应用程序中设置您的点</title>
-      <link>https://www.youtube.com/watch?v=p5KxBTUncoE</link>
-      <description>您现在可以从 ChatGPT 移动应用程序中创建一个点。 设置您的点, 编辑名称, 自定义浮图, 并设置您的点, 成为您打开 ChatGPT 应用程序时所见到的第一个对话 。 在此了解更多点: https://learn. chatgpt.com/docs/ dots</description>
-      <pubDate>Fri, 09 Oct 2026 19:13:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=p5KxBTUncoE</guid>
-      <source url="https://www.youtube.com/watch?v=p5KxBTUncoE">OpenAI</source>
     </item>
   </channel>
 </rss>
