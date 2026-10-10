@@ -638,5 +638,13 @@
     "sourceUrl": "https://www.anthropic.com/claude-haiku-5-5",
     "sourceName": "Anthropic：Newsroom（网页）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
+    "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
+    "sourceUrl": "https://x.com/arcprize/status/2108578092558250148",
+    "sourceName": "X：ARC Prize (@arcprize)",
+    "reviewReason": "awaiting-review"
   }
 ]
