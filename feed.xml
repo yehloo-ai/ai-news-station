@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 13:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:29:45 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic将内部评价从互联网上切断。</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</link>
+      <description>在最近一连串高调事件导致人工智能人员逃脱封锁之后,Anthropic正在切断所有内部评估的互联网接入。 在一份周五的报告中,该公司详细介绍了“无意图的示范行动 ” , 包括就一起未解决的谋杀案提交虚假信息,这导致了T.</description>
+      <pubDate>Sat, 10 Oct 2026 10:41:16 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet">The Verge AI</source>
+    </item>
+    <item>
+      <title>MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了</title>
+      <link>https://x.com/SaitoWu/status/2108919486581796872</link>
+      <description>MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。</description>
+      <pubDate>Sat, 10 Oct 2026 13:56:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SaitoWu/status/2108919486581796872</guid>
+      <source url="https://x.com/SaitoWu/status/2108919486581796872">X：Saito 硬地骇客 (@SaitoWu)</source>
+    </item>
     <item>
       <title>OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感</title>
       <link>https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/</link>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 09 Oct 2026 19:13:03 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=p5KxBTUncoE</guid>
       <source url="https://www.youtube.com/watch?v=p5KxBTUncoE">OpenAI</source>
-    </item>
-    <item>
-      <title>“确定精神错乱 ” : 数学家需要数年才能理解OpenAI的最新下降</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</link>
-      <description>"交错","超越","史无前例","真实","精神错乱",这些都是在与The Verge的谈话中接触到的三十多个数学家的描述之一,他们试图解释数学结果的泛滥 OpenAI突然掉到这个小领域上.</description>
-      <pubDate>Fri, 09 Oct 2026 15:09:44 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos">The Verge AI</source>
-    </item>
-    <item>
-      <title>Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%</title>
-      <link>https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet</link>
-      <description>Epoch AI 推出 InnovationEval 评测，测试 AI 能否独立复现人类论文中的机器学习创新，对照对象为 Self-Distillation Policy Optimization（SDPO）。</description>
-      <pubDate>Fri, 09 Oct 2026 18:41:00 +0000</pubDate>
-      <guid isPermaLink="true">https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet</guid>
-      <source url="https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet">Epoch AI：Gradient Updates（RSS）</source>
     </item>
   </channel>
 </rss>
