@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Oct 2026 08:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:35:55 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>学习使用本地人工智能是令人兴奋的,压倒性的,令人沮丧的</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress</link>
+      <description>我踏上了一段旅程,到目前为止我一直犹豫不决:实际上在常规上使用人工智能。将我最个人的数据提供给云端服务对我来说是一个很大的支撑,但是越来越有可能在当地运行强大的模型来观察它们的能力。这种技术是否如此有用?</description>
+      <pubDate>Sun, 11 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress">The Verge AI</source>
+    </item>
     <item>
       <title>DeepSeek Bot来了！民间版，DSH装个插件就能用</title>
       <link>https://www.qbitai.com/2026/10/502544.html</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 10 Oct 2026 01:07:47 +0000</pubDate>
       <guid isPermaLink="true">https://www.ithome.com/1/011/194.htm</guid>
       <source url="https://www.ithome.com/1/011/194.htm">IT之家·人工智能</source>
-    </item>
-    <item>
-      <title>Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网</title>
-      <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
-      <description>Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。</description>
-      <pubDate>Sat, 10 Oct 2026 00:18:32 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</guid>
-      <source url="https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/">TechCrunch：AI（RSS）</source>
     </item>
   </channel>
 </rss>
