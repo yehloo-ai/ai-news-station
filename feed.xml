@@ -5,8 +5,144 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:28:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:17:24 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势</title>
+      <link>https://x.com/Khazix0918/status/2109501787736813663</link>
+      <description>数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。</description>
+      <pubDate>Mon, 12 Oct 2026 04:29:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Khazix0918/status/2109501787736813663</guid>
+      <source url="https://x.com/Khazix0918/status/2109501787736813663">X：卡兹克 (@Khazix0918)</source>
+    </item>
+    <item>
+      <title>忠心无锁:关于解释性人工智能忠心度量表结构错位问题的立场文件</title>
+      <link>https://arxiv.org/abs/2610.12493</link>
+      <description>解释性人工智能(XAI)工具经常被提出来作为增加人们对机器学习模型的信任的方法,使其算法的某些方面更加人能理解。</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12493</guid>
+      <source url="https://arxiv.org/abs/2610.12493">ArXiv AI</source>
+    </item>
+    <item>
+      <title>精英表:自我改进程序搜索可执行控制策略</title>
+      <link>https://arxiv.org/abs/2610.12536</link>
+      <description>EliteTable是一款由大语言模型(LLMs)指导的自改进程序搜索算法,该算法使用高分解决方案的固定容量表来指导新提案,编辑已存在的解决方案,并重新混合多个解决方案. Perfession.</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12536</guid>
+      <source url="https://arxiv.org/abs/2610.12536">ArXiv AI</source>
+    </item>
+    <item>
+      <title>平等预算 Monte Carlo 树搜索与随机-重新启动列表 DAG 工作流程的时间安排: 受控的平等预算计算研究</title>
+      <link>https://arxiv.org/abs/2610.12542</link>
+      <description>蒙特卡洛树搜索(MCTS)常被提议用于对定向环行图(DAG)工作流程进行调度,然而大多数研究从未运行过可以反驳其的比较——使同样的搜索工作能够用简单得多的方法进行。</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12542</guid>
+      <source url="https://arxiv.org/abs/2610.12542">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Know what you don't know: 由进化的世代空间合成的代理数据,用于闭环学习</title>
+      <link>https://arxiv.org/abs/2610.12593</link>
+      <description>大型语言模型的持续改进越来越依赖于合成经验,然而,互动剂的有效数据合成不仅需要可执行和可核查的轨迹,而且需要提供学习v的相互作用.</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12593</guid>
+      <source url="https://arxiv.org/abs/2610.12593">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Spire Bench: 与 Spire 一起评估代理模型的长视战略游戏</title>
+      <link>https://arxiv.org/abs/2610.12596</link>
+      <description>代理大语言模型现在处理复杂的任务,然而对远期战略推理的研究不足:大多数代理基准是短而零星的,而长期任务的表现很难被分解成存储的知识,推理和l</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12596</guid>
+      <source url="https://arxiv.org/abs/2610.12596">ArXiv AI</source>
+    </item>
+    <item>
+      <title>机器学习应用程序的代数整数量化</title>
+      <link>https://arxiv.org/abs/2610.12494</link>
+      <description>在本篇文章中,我们提出代数整数格式(AINF)作为高度可配置和准确压缩计算的框架。 AINF的一个关键属性是它直截了当地减少到纯粹的整数算术,使得没有出错的 mu</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12494</guid>
+      <source url="https://arxiv.org/abs/2610.12494">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Kairos:走向每个模式的字节级基础模型</title>
+      <link>https://arxiv.org/abs/2610.12495</link>
+      <description>Kairos将双向门-DeltaNet线性注意力和滑窗注意力结合到共享预测(LiZatenty2)上,</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12495</guid>
+      <source url="https://arxiv.org/abs/2610.12495">ArXiv ML</source>
+    </item>
+    <item>
+      <title>共振序列模型的输入- 依赖读出阶段</title>
+      <link>https://arxiv.org/abs/2610.12496</link>
+      <description>具有固定大小状态的序列模型避免了注意的四重成本,但面临设计选择. 依赖输入状态的过渡以基于FFT的训练为代价,给予内容依赖的内存,而固定的过渡保留了O(T log T)</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12496</guid>
+      <source url="https://arxiv.org/abs/2610.12496">ArXiv ML</source>
+    </item>
+    <item>
+      <title>CircuitTree:将 Circuits 编成一个可编码的转写器</title>
+      <link>https://arxiv.org/abs/2610.12520</link>
+      <description>电路发现的目标是将一单体神经网络分解成小模块化的子网络,这些子网络可以解释为每个子网络都执行一个可识别的子任务。我们开发了一个实用的方法来任意地编组许多电路 i</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12520</guid>
+      <source url="https://arxiv.org/abs/2610.12520">ArXiv ML</source>
+    </item>
+    <item>
+      <title>网络智能计量的后置光伏能见度:部署制度和业务透视</title>
+      <link>https://arxiv.org/abs/2610.12527</link>
+      <description>分销运营商需要能见度的后置光伏(光伏)生成,但大多数居民客户只能通过净智能仪观察。 基于深层学习的光伏分解可以恢复这种能见度,但其可操作性 v</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12527</guid>
+      <source url="https://arxiv.org/abs/2610.12527">ArXiv ML</source>
+    </item>
+    <item>
+      <title>AutoIndexer: 编辑链上培训因子模型而实现的弹性命令解码</title>
+      <link>https://arxiv.org/abs/2610.12545</link>
+      <description>自动递归解码不太适合非偶然命令的数据,例如交叉参考或未来依赖性,因为其输出不能与迭代人类推理不同,是临时修改的。 分散式LLMs 部分减轻了这一限制。</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12545</guid>
+      <source url="https://arxiv.org/abs/2610.12545">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>SWE-Duel:迈向编码代理人自我升级的竞技场</title>
+      <link>https://arxiv.org/abs/2610.12569</link>
+      <description>静态编码基准被固定在发布时。 随着时间的推移,它们的任务会泄露到培训数据中,而更强大的代理人最终会饱和它们。 我们主张,一个基准应该着眼于自我扩展:它的任务和甲骨文是在评估时创建的。</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12569</guid>
+      <source url="https://arxiv.org/abs/2610.12569">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>用于分样解码的平行草稿的背景校正</title>
+      <link>https://arxiv.org/abs/2610.12570</link>
+      <description>光谱解码加速了大语言模型的推论,方法是使用一个轻量级的起草器来提出随后由目标模型平行核实的多个符号。</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12570</guid>
+      <source url="https://arxiv.org/abs/2610.12570">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>CLUE: 无监督事件类型的介绍和说明的矛盾学习框架</title>
+      <link>https://arxiv.org/abs/2610.12580</link>
+      <description>事件肿瘤学是定义数据集中事件的基础框架。事件类型诱导通常涉及域专家,他们根据数据集的域和范围定义创建事件类型及其名称的准则。然而,这需要将事件类型诱导到定义范围。</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12580</guid>
+      <source url="https://arxiv.org/abs/2610.12580">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>One model to Loop Them All: 语言模型的弹性Latet 重现</title>
+      <link>https://arxiv.org/abs/2610.12582</link>
+      <description>一个潜在的经常性语言模型反复应用一个共享的层块,因此一个检查点可以通过改变循环计数来进行精确性的推断。 但是,在一个循环中,这种模型通常远远低于一个非经常性模型 o。</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12582</guid>
+      <source url="https://arxiv.org/abs/2610.12582">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686995&amp;idx=1&amp;sn=cc40a3488a2ea7652d2ab589056f40b4</link>
+      <description>开发者Brandon Thomas因不满Adobe订阅违约金，用Claude Opus 5.5以Rust逆向重写了Photoshop等7款Adobe软件并开源，其中PS项目不到10天获4.6万Star。</description>
+      <pubDate>Mon, 12 Oct 2026 00:26:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686995&amp;idx=1&amp;sn=cc40a3488a2ea7652d2ab589056f40b4</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686995&amp;idx=1&amp;sn=cc40a3488a2ea7652d2ab589056f40b4">公众号：数字生命卡兹克</source>
+    </item>
     <item>
       <title>尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道</title>
       <link>http://www.geekpark.net/news/372218</link>
@@ -30,142 +166,6 @@
       <pubDate>Sun, 11 Oct 2026 14:33:56 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai">The Verge AI</source>
-    </item>
-    <item>
-      <title>DeepSeek 解决了人工智能的记忆问题</title>
-      <link>https://www.youtube.com/watch?v=4fLVq6HJsKc</link>
-      <description>https://lambda.ai/papers https://DeepSeek OCR的相册:https://github.com/deepseek-ai/DeepSeek-OCR。 我们要感谢慷慨的帕特雷翁支持者,他们使两分钟文件成为可能:亚当·布里奇斯、B·翔、卡洛斯·加拉尔。</description>
-      <pubDate>Sun, 11 Oct 2026 16:53:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=4fLVq6HJsKc</guid>
-      <source url="https://www.youtube.com/watch?v=4fLVq6HJsKc">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>学习使用本地人工智能是令人兴奋的,压倒性的,令人沮丧的</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress</link>
-      <description>我踏上了一段旅程,到目前为止我一直犹豫不决:实际上在常规上使用人工智能。将我最个人的数据提供给云端服务对我来说是一个很大的支撑,但是越来越有可能在当地运行强大的模型来观察它们的能力。这种技术是否如此有用?</description>
-      <pubDate>Sun, 11 Oct 2026 07:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress">The Verge AI</source>
-    </item>
-    <item>
-      <title>DeepSeek Bot来了！民间版，DSH装个插件就能用</title>
-      <link>https://www.qbitai.com/2026/10/502544.html</link>
-      <description>Grok Bot我养不起，ds bot不得高低尝尝咸淡？</description>
-      <pubDate>Sun, 11 Oct 2026 03:27:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502544.html</guid>
-      <source url="https://www.qbitai.com/2026/10/502544.html">量子位</source>
-    </item>
-    <item>
-      <title>早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出</title>
-      <link>https://www.ifanr.com/1683829?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 苹果第二期中国清洁能源基金扩容至 2.12 亿美元 · Netflix 称约 300 部作品已使用 AI，导演谈降本与创作取舍 · 长鑫披露 4F² 内存架构进展，首款服务器产品预计年底推出#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sun, 11 Oct 2026 00:53:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1683829?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1683829?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手</title>
-      <link>http://www.geekpark.net/news/372216</link>
-      <description>马斯克豪言 SpaceX 估值超 1000 万亿美元，惨遭拉表打脸近日，马斯克在社交平台大胆预测，SpaceX 未来估值有望突破 1000 万亿美元，体量将远超当前全球经济总量。目前 SpaceX 估值仅约 2.2 万亿美元，而 2025 年全球 GDP 总量约 118 万亿美元，此番极具颠覆性的超高估值言论引发全网热议与质疑。面对这一惊人预测，有网友晒出富国银行证券整理的一张名为「说到做到记录，以及其所隐含的折价」数据表格，直接打脸马斯克的激进预测。表格梳理了特斯拉、SpaceX 多项核心项目，Robotaxi、Semi 卡车、星舰等重点产品的实际落地成果与马斯克此前公布的目标差距悬殊，多项</description>
-      <pubDate>Sun, 11 Oct 2026 08:53:38 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372216</guid>
-      <source url="http://www.geekpark.net/news/372216">极客公园</source>
-    </item>
-    <item>
-      <title>Satya Nadella说我们应该假设所有人工智能模型都是“妥协”的。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
-      <description>微软的CEO在一篇关于X的长篇文章中阐述了他对高度先进的人工智能模型所构成的危险以及如何应对这些风险的看法. 纳德拉说,我们再也不能接受一个将人工智能视为"一套嵌入的黑匣子"的世界,而这个黑匣子的建议和行动,我们只是接受或者[.].</description>
-      <pubDate>Sat, 10 Oct 2026 18:10:17 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised">The Verge AI</source>
-    </item>
-    <item>
-      <title>Oracle 如何使用代码x帮助企业用户获得答案</title>
-      <link>https://www.youtube.com/watch?v=Ju-JyxDgV7g</link>
-      <description>Oracle应用实验室的副总裁Richard Lam分享了团队如何使用Codex帮助企业用户从公司数据中获取答案。 通过描述他们想要的结果,用户可以得到分析,报告,或者应用程序,由Codex从内部系统收集信息.</description>
-      <pubDate>Sat, 10 Oct 2026 21:40:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Ju-JyxDgV7g</guid>
-      <source url="https://www.youtube.com/watch?v=Ju-JyxDgV7g">OpenAI</source>
-    </item>
-    <item>
-      <title>OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境</title>
-      <link>https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/</link>
-      <description>文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。</description>
-      <pubDate>Sat, 10 Oct 2026 21:30:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/</guid>
-      <source url="https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/">MarkTechPost（RSS）</source>
-    </item>
-    <item>
-      <title>Anthropic将内部评价从互联网上切断。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</link>
-      <description>在最近一连串高调事件导致人工智能人员逃脱封锁之后,Anthropic正在切断所有内部评估的互联网接入。 在一份周五的报告中,该公司详细介绍了“无意图的示范行动 ” , 包括就一起未解决的谋杀案提交虚假信息,这导致了T.</description>
-      <pubDate>Sat, 10 Oct 2026 10:41:16 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet">The Verge AI</source>
-    </item>
-    <item>
-      <title>MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了</title>
-      <link>https://x.com/SaitoWu/status/2108919486581796872</link>
-      <description>MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。</description>
-      <pubDate>Sat, 10 Oct 2026 13:56:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SaitoWu/status/2108919486581796872</guid>
-      <source url="https://x.com/SaitoWu/status/2108919486581796872">X：Saito 硬地骇客 (@SaitoWu)</source>
-    </item>
-    <item>
-      <title>OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感</title>
-      <link>https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/</link>
-      <description>OpenAI 于 2026 年 10 月 6 日在 GitHub 一次性发布 700 多份手稿，声称解决数百个未解数学问题，数学博客 Proofs and Prompts 收集了 100 多位研究者的回应。</description>
-      <pubDate>Sat, 10 Oct 2026 13:03:59 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/</guid>
-      <source url="https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>人工智能的制造者们希望有隐私——他们能提供吗?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots</link>
-      <description>在今年的OpenAI DevDay上,CEO萨姆·阿尔特曼揭幕了公司新的人工智能代理Dots——并告诉观众公司想"在前沿人工智能中设定隐私的新标准". OpenAI会花一天时间去拍摄其主要竞争对手Meta's Muse,因为未能保存用户数据.</description>
-      <pubDate>Sat, 10 Oct 2026 09:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots">The Verge AI</source>
-    </item>
-    <item>
-      <title>24 天估值暴涨 37 倍，这就是 AI 圈年度爽文</title>
-      <link>https://www.ifanr.com/1683674?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>LLM 给人用，这个决策模型给代码用#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 10 Oct 2026 09:11:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1683674?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1683674?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>这届 AI PC，太烧心了</title>
-      <link>https://www.ifanr.com/1683688?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI PC 还没火，先被 AI 背刺了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 10 Oct 2026 08:28:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1683688?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1683688?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>好产品就是与时代和生活共振｜2026 年度极客最爱好物启动</title>
-      <link>http://www.geekpark.net/news/372196</link>
-      <description>一件好产品，往往是在用过一段时间之后，才让人意识到它的好。出门时顺手带上，遇到事情时首先打开，或者因为有了它，愿意尝试一件过去觉得麻烦的事。这样的产品，值得被分享给更多人。 2026 年，我们把寻找好产品的目光，投向更丰富的形态。能协助完成任务的 AI 应用、戴在身上的智能设备，以及尝试在真实环境中干活的机器人，都进入了今年的选品视野。技术提供了新的可能，具体的产品体验，决定了人们愿不愿意把它们带进生活。 我们关注产品解决了什么问题，也在意使用它要付出多少学习和操作成本。一款创作工具，可以让想法更容易实现；一件有趣的小设备，也可以只负责让人开心。我们同样欢迎那些在设计、手感或某个小细节上做得出</description>
-      <pubDate>Sat, 10 Oct 2026 14:07:11 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372196</guid>
-      <source url="http://www.geekpark.net/news/372196">极客公园</source>
-    </item>
-    <item>
-      <title>记录生生不息的创新力量｜2026 年度「InnoForce 50」启动</title>
-      <link>http://www.geekpark.net/news/372195</link>
-      <description>过去几年，科技行业最重要的变化之一，是创新的底层逻辑正在被重新改写。 到了 2026 年，AI 已经不只是技术变量，而成为影响产品形态和组织方式的关键变量。它开始进入办公室、工厂、汽车、机器人、医院等场景，也进入了许多过去并不处在科技叙事中心的行业。它改变软件，也反过来改变硬件；改变一个人的工作方式，也改变一家公司的组织方式。 但 AI 不是全部。真正值得被记录的，是当 AI 成为新变量之后，整个创新世界被重新点燃了。 有人从 AI 出发，做出了过去不存在的产品；有人把 AI 带进传统行业，去解决那些卡了十年、二十年的老问题；有人重新思考人与机器的关系，让机器不只是工具，而是执行者，甚至某种意</description>
-      <pubDate>Sat, 10 Oct 2026 13:58:20 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372195</guid>
-      <source url="http://www.geekpark.net/news/372195">极客公园</source>
-    </item>
-    <item>
-      <title>State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全</title>
-      <link>https://x.com/indigox/status/2108791275914993998</link>
-      <description>Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。</description>
-      <pubDate>Sat, 10 Oct 2026 05:26:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/indigox/status/2108791275914993998</guid>
-      <source url="https://x.com/indigox/status/2108791275914993998">X：indigo (@indigox)</source>
     </item>
   </channel>
 </rss>
