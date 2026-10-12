@@ -5,8 +5,88 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 07:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:47:23 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta 发布 Muse Wonder 和 Muse Wonder Full 智能体前沿模型</title>
+      <link>https://about.fb.com/news/2026/10/introducing-muse-wonder-models/</link>
+      <description>Meta 发布 Muse Wonder 和 Muse Wonder Full 两款新模型，称其在个人和专业智能体任务上达到 SOTA 表现。新模型面向法律、金融、健康等专家领域并具备前沿编码性能，配备跨对话保留信息的 Active Memory 和遇错可换路径、需确认时先询问的 Active Focus；安全方面训练模型不未经许可分享隐私、拒绝有害请求。</description>
+      <pubDate>Mon, 12 Oct 2026 17:08:05 +0000</pubDate>
+      <guid isPermaLink="true">https://about.fb.com/news/2026/10/introducing-muse-wonder-models/</guid>
+      <source url="https://about.fb.com/news/2026/10/introducing-muse-wonder-models/">Meta：Newsroom · AI（RSS）</source>
+    </item>
+    <item>
+      <title>Meta有一些神奇的全新人工智能模型</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</link>
+      <description>Meta在人工智能比赛中弥补了失去的时间。在推出Muse Spark之后,Muse Spark是其经过改造的超级智能实验室分部的首个模型,而Bungy的人工智能特工Muse,现在它正在推出两个新的模型,它声称它们可以和业界的顶尖人物同去。新的模型是Muse Wonder和Muse Wonder。</description>
+      <pubDate>Mon, 12 Oct 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model">The Verge AI</source>
+    </item>
+    <item>
+      <title>合并前使用代码代码审查代码</title>
+      <link>https://www.youtube.com/watch?v=IZXv6a78NDw</link>
+      <description>代码检讨是新的瓶颈。代码检讨将拉动请求、检讨反馈和关于您代码的私人对话带入一个地方。 查看如何在存储器之间找到检讨,了解变化和风险,应用您的团队检讨指南,以及不切换工具而起草评论。 GitHub</description>
+      <pubDate>Mon, 12 Oct 2026 16:00:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=IZXv6a78NDw</guid>
+      <source url="https://www.youtube.com/watch?v=IZXv6a78NDw">OpenAI</source>
+    </item>
+    <item>
+      <title>微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署</title>
+      <link>https://x.com/satyanadella/status/2109631106404487523</link>
+      <description>微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。</description>
+      <pubDate>Mon, 12 Oct 2026 13:03:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/satyanadella/status/2109631106404487523</guid>
+      <source url="https://x.com/satyanadella/status/2109631106404487523">X：Satya Nadella (@satyanadella)</source>
+    </item>
+    <item>
+      <title>微软的新人工智能芯片使其不那么依赖Nvidia的GPU</title>
+      <link>https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</link>
+      <description>微软今天宣布其第三代Maia内部人工智能芯片,被设计为微软产品和服务的"主要人工智能推导系统". Maia 300不仅提高了在云中运行人工智能工作量的成本和效率,而且更能处理最新的rea.</description>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</guid>
+      <source url="https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout">The Verge AI</source>
+    </item>
+    <item>
+      <title>一周 10 万星，AI「逆向一切」，但大家不要过于兴奋</title>
+      <link>http://www.geekpark.net/news/372263</link>
+      <description>头图图片来源：REA头图来源：CyberSecurityNews「在应用里看到一个想加入自己产品的功能？让智能体去帮你调查它。」这是 REA 项目主页第一屏的话。后半句更直接：即使没有源代码，智能体也可以检查应用、解释功能怎么工作、展示证据，「并为你的项目实现类似功能」。REA 全名 Reverse Engineer Anything，即「逆向一切」。上周它在 AI 开发者圈刷了屏：10 月 6 日还不到 1 万星，到 10 月 12 日已经超过 11 万。6 天涨了 10 万星，平均每天约 1.7 万｜图片来源：Star History真正让普通人看到这件事的，是游戏。10 月初，一批老游戏</description>
+      <pubDate>Mon, 12 Oct 2026 20:15:30 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372263</guid>
+      <source url="http://www.geekpark.net/news/372263">极客公园</source>
+    </item>
+    <item>
+      <title>QGIS 通过 QEP428 禁止 AI 辅助贡献</title>
+      <link>https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</link>
+      <description>QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。</description>
+      <pubDate>Mon, 12 Oct 2026 11:22:24 +0000</pubDate>
+      <guid isPermaLink="true">https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</guid>
+      <source url="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387">Hacker News：AI 热帖</source>
+    </item>
+    <item>
+      <title>AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审</title>
+      <link>https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/</link>
+      <description>Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 353 个开放 Erdős 问题中的 9 个，其中 2 个悬置 56 年。</description>
+      <pubDate>Mon, 12 Oct 2026 09:35:54 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/</guid>
+      <source url="https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程</title>
+      <link>https://x.com/MeshyAI/status/2109550836934471864</link>
+      <description>一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。</description>
+      <pubDate>Mon, 12 Oct 2026 07:44:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MeshyAI/status/2109550836934471864</guid>
+      <source url="https://x.com/MeshyAI/status/2109550836934471864">X：Meshy (@MeshyAI)</source>
+    </item>
+    <item>
+      <title>华为AI靠RSI通关25款游戏！操作次数比人类少56%</title>
+      <link>https://www.qbitai.com/2026/10/502654.html</link>
+      <description>游戏打到21:0，AI甚至不用再调用大模型了</description>
+      <pubDate>Mon, 12 Oct 2026 05:48:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502654.html</guid>
+      <source url="https://www.qbitai.com/2026/10/502654.html">量子位</source>
+    </item>
     <item>
       <title>从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势</title>
       <link>https://x.com/Khazix0918/status/2109501787736813663</link>
@@ -86,86 +166,6 @@
       <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.12520</guid>
       <source url="https://arxiv.org/abs/2610.12520">ArXiv ML</source>
-    </item>
-    <item>
-      <title>网络智能计量的后置光伏能见度:部署制度和业务透视</title>
-      <link>https://arxiv.org/abs/2610.12527</link>
-      <description>分销运营商需要能见度的后置光伏(光伏)生成,但大多数居民客户只能通过净智能仪观察。 基于深层学习的光伏分解可以恢复这种能见度,但其可操作性 v</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12527</guid>
-      <source url="https://arxiv.org/abs/2610.12527">ArXiv ML</source>
-    </item>
-    <item>
-      <title>AutoIndexer: 编辑链上培训因子模型而实现的弹性命令解码</title>
-      <link>https://arxiv.org/abs/2610.12545</link>
-      <description>自动递归解码不太适合非偶然命令的数据,例如交叉参考或未来依赖性,因为其输出不能与迭代人类推理不同,是临时修改的。 分散式LLMs 部分减轻了这一限制。</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12545</guid>
-      <source url="https://arxiv.org/abs/2610.12545">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>SWE-Duel:迈向编码代理人自我升级的竞技场</title>
-      <link>https://arxiv.org/abs/2610.12569</link>
-      <description>静态编码基准被固定在发布时。 随着时间的推移,它们的任务会泄露到培训数据中,而更强大的代理人最终会饱和它们。 我们主张,一个基准应该着眼于自我扩展:它的任务和甲骨文是在评估时创建的。</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12569</guid>
-      <source url="https://arxiv.org/abs/2610.12569">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>用于分样解码的平行草稿的背景校正</title>
-      <link>https://arxiv.org/abs/2610.12570</link>
-      <description>光谱解码加速了大语言模型的推论,方法是使用一个轻量级的起草器来提出随后由目标模型平行核实的多个符号。</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12570</guid>
-      <source url="https://arxiv.org/abs/2610.12570">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>CLUE: 无监督事件类型的介绍和说明的矛盾学习框架</title>
-      <link>https://arxiv.org/abs/2610.12580</link>
-      <description>事件肿瘤学是定义数据集中事件的基础框架。事件类型诱导通常涉及域专家,他们根据数据集的域和范围定义创建事件类型及其名称的准则。然而,这需要将事件类型诱导到定义范围。</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12580</guid>
-      <source url="https://arxiv.org/abs/2610.12580">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>One model to Loop Them All: 语言模型的弹性Latet 重现</title>
-      <link>https://arxiv.org/abs/2610.12582</link>
-      <description>一个潜在的经常性语言模型反复应用一个共享的层块,因此一个检查点可以通过改变循环计数来进行精确性的推断。 但是,在一个循环中,这种模型通常远远低于一个非经常性模型 o。</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12582</guid>
-      <source url="https://arxiv.org/abs/2610.12582">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686995&amp;idx=1&amp;sn=cc40a3488a2ea7652d2ab589056f40b4</link>
-      <description>开发者Brandon Thomas因不满Adobe订阅违约金，用Claude Opus 5.5以Rust逆向重写了Photoshop等7款Adobe软件并开源，其中PS项目不到10天获4.6万Star。</description>
-      <pubDate>Mon, 12 Oct 2026 00:26:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686995&amp;idx=1&amp;sn=cc40a3488a2ea7652d2ab589056f40b4</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686995&amp;idx=1&amp;sn=cc40a3488a2ea7652d2ab589056f40b4">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372218</link>
-      <description>陶哲轩提出「数学 2.0」：AI 解题之外，还要帮助人理解证明 10 月 11 日，数学家陶哲轩公开了在加州理工学院的演讲《数学 2.0》。他认为，AI 正在降低部分数学问题的求解成本，使数学研究逐渐从「证明稀缺」走向「证明富足」。但目前多数前沿问题仍未解决，不能只凭公开传播的成功案例判断 AI 的整体能力。 陶哲轩指出，得到正确证明，并不意味着研究者理解了证明为何成立，或掌握了可用于其他问题的新方法。他主张用 AI 寻找更易理解的证明、整理分散的研究成果，并对大量数学问题开展系统分析。例如，等式理论项目通过人类与自动化工具协作，对超过 2200 万个命题作出了判定。 对于 AI 解题能力的评</description>
-      <pubDate>Mon, 12 Oct 2026 08:02:38 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372218</guid>
-      <source url="http://www.geekpark.net/news/372218">极客公园</source>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k</title>
-      <link>https://x.com/thsottiaux/status/2109430343346581527</link>
-      <description>Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。</description>
-      <pubDate>Sun, 11 Oct 2026 23:45:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2109430343346581527</guid>
-      <source url="https://x.com/thsottiaux/status/2109430343346581527">X：Tibo (@thsottiaux)</source>
-    </item>
-    <item>
-      <title>硅谷正与特朗普重命名人工智能的尝试相呼应</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</link>
-      <description>当唐纳德·特朗普总统宣布他计划将人工智能重新命名为"超级智能"时,你会被原谅,因为你怀疑它会赶上。 尽管广大民众大多坚持使用人工智能,但硅谷的一些最强者却在排队并试图</description>
-      <pubDate>Sun, 11 Oct 2026 14:33:56 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai">The Verge AI</source>
     </item>
   </channel>
 </rss>
