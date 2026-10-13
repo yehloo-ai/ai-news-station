@@ -5,8 +5,104 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 00:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:39:22 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>忠心无锁:关于解释性人工智能忠心度量表结构错位问题的立场文件</title>
+      <link>https://arxiv.org/abs/2610.12493</link>
+      <description>解释性人工智能(XAI)工具经常被提出来作为增加人们对机器学习模型的信任的方法,使其算法的某些方面更加人能理解。</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12493</guid>
+      <source url="https://arxiv.org/abs/2610.12493">ArXiv AI</source>
+    </item>
+    <item>
+      <title>精英表:自我改进程序搜索可执行控制策略</title>
+      <link>https://arxiv.org/abs/2610.12536</link>
+      <description>EliteTable是一款由大语言模型(LLMs)指导的自改进程序搜索算法,该算法使用高分解决方案的固定容量表来指导新提案,编辑已存在的解决方案,并重新混合多个解决方案. Perfession.</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12536</guid>
+      <source url="https://arxiv.org/abs/2610.12536">ArXiv AI</source>
+    </item>
+    <item>
+      <title>平等预算 Monte Carlo 树搜索与随机-重新启动列表 DAG 工作流程的时间安排: 受控的平等预算计算研究</title>
+      <link>https://arxiv.org/abs/2610.12542</link>
+      <description>蒙特卡洛树搜索(MCTS)常被提议用于对定向环行图(DAG)工作流程进行调度,然而大多数研究从未运行过可以反驳其的比较——使同样的搜索工作能够用简单得多的方法进行。</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12542</guid>
+      <source url="https://arxiv.org/abs/2610.12542">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Know what you don't know: 由进化的世代空间合成的代理数据,用于闭环学习</title>
+      <link>https://arxiv.org/abs/2610.12593</link>
+      <description>大型语言模型的持续改进越来越依赖于合成经验,然而,互动剂的有效数据合成不仅需要可执行和可核查的轨迹,而且需要提供学习v的相互作用.</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12593</guid>
+      <source url="https://arxiv.org/abs/2610.12593">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Spire Bench: 与 Spire 一起评估代理模型的长视战略游戏</title>
+      <link>https://arxiv.org/abs/2610.12596</link>
+      <description>代理大语言模型现在处理复杂的任务,然而对远期战略推理的研究不足:大多数代理基准是短而零星的,而长期任务的表现很难被分解成存储的知识,推理和l</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12596</guid>
+      <source url="https://arxiv.org/abs/2610.12596">ArXiv AI</source>
+    </item>
+    <item>
+      <title>AutoIndexer: 编辑链上培训因子模型而实现的弹性命令解码</title>
+      <link>https://arxiv.org/abs/2610.12545</link>
+      <description>自动递归解码不太适合非偶然命令的数据,例如交叉参考或未来依赖性,因为其输出不能与迭代人类推理不同,是临时修改的。 分散式LLMs 部分减轻了这一限制。</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12545</guid>
+      <source url="https://arxiv.org/abs/2610.12545">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>SWE-Duel:迈向编码代理人自我升级的竞技场</title>
+      <link>https://arxiv.org/abs/2610.12569</link>
+      <description>静态编码基准被固定在发布时。 随着时间的推移,它们的任务会泄露到培训数据中,而更强大的代理人最终会饱和它们。 我们主张,一个基准应该着眼于自我扩展:它的任务和甲骨文是在评估时创建的。</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12569</guid>
+      <source url="https://arxiv.org/abs/2610.12569">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>用于分样解码的平行草稿的背景校正</title>
+      <link>https://arxiv.org/abs/2610.12570</link>
+      <description>光谱解码加速了大语言模型的推论,方法是使用一个轻量级的起草器来提出随后由目标模型平行核实的多个符号。</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12570</guid>
+      <source url="https://arxiv.org/abs/2610.12570">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>CLUE: 无监督事件类型的介绍和说明的矛盾学习框架</title>
+      <link>https://arxiv.org/abs/2610.12580</link>
+      <description>事件肿瘤学是定义数据集中事件的基础框架。事件类型诱导通常涉及域专家,他们根据数据集的域和范围定义创建事件类型及其名称的准则。然而,这需要将事件类型诱导到定义范围。</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12580</guid>
+      <source url="https://arxiv.org/abs/2610.12580">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>One model to Loop Them All: 语言模型的弹性Latet 重现</title>
+      <link>https://arxiv.org/abs/2610.12582</link>
+      <description>一个潜在的经常性语言模型反复应用一个共享的层块,因此一个检查点可以通过改变循环计数来进行精确性的推断。 但是,在一个循环中,这种模型通常远远低于一个非经常性模型 o。</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12582</guid>
+      <source url="https://arxiv.org/abs/2610.12582">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>复旦邱锡鹏团队获超 10 亿融资，成立两年，让模型感知、理解、响应变化的世界</title>
+      <link>http://www.geekpark.net/news/372278</link>
+      <description>大模型融资还在继续，新的押注转向了能边听、边看、边说的 AI。作者｜Li Yuan编辑｜郑玄想象这样一个家庭场景。孩子正在玩玩具，突然，厨房里「哐」的一声，玻璃碎了，紧接着传来孩子的声音：「不是我。」语速很快，尾音压得很低，有点紧张。两秒后，一只猫从厨房门口窜出来，钻进了沙发底下。今天的模型，能分别识别这些信息。转写模型能记下孩子的话，音频模型能听出是玻璃碎裂，视觉模型能认出那只猫。但把这些能力叠在一起，模型仍然不知道刚才发生了什么。那声脆响是从哪个方向来的？碎玻璃、那句急着撇清的「不是我」、逃窜的猫，是不是同一件事？厨房地上有没有碎片，孩子是不是正光着脚站在旁边？AI 需要把声音、画面、人物</description>
+      <pubDate>Tue, 13 Oct 2026 11:44:18 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372278</guid>
+      <source url="http://www.geekpark.net/news/372278">极客公园</source>
+    </item>
+    <item>
+      <title>Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet</title>
+      <link>https://x.com/demishassabis/status/2109813775377563908</link>
+      <description>Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。</description>
+      <pubDate>Tue, 13 Oct 2026 01:09:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/demishassabis/status/2109813775377563908</guid>
+      <source url="https://x.com/demishassabis/status/2109813775377563908">X：Demis Hassabis (@demishassabis)</source>
+    </item>
     <item>
       <title>曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道</title>
       <link>http://www.geekpark.net/news/372264</link>
@@ -70,102 +166,6 @@
       <pubDate>Mon, 12 Oct 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model">The Verge AI</source>
-    </item>
-    <item>
-      <title>合并前使用代码代码审查代码</title>
-      <link>https://www.youtube.com/watch?v=IZXv6a78NDw</link>
-      <description>代码检讨是新的瓶颈。代码检讨将拉动请求、检讨反馈和关于您代码的私人对话带入一个地方。 查看如何在存储器之间找到检讨,了解变化和风险,应用您的团队检讨指南,以及不切换工具而起草评论。 GitHub</description>
-      <pubDate>Mon, 12 Oct 2026 16:00:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=IZXv6a78NDw</guid>
-      <source url="https://www.youtube.com/watch?v=IZXv6a78NDw">OpenAI</source>
-    </item>
-    <item>
-      <title>微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署</title>
-      <link>https://x.com/satyanadella/status/2109631106404487523</link>
-      <description>微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。</description>
-      <pubDate>Mon, 12 Oct 2026 13:03:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/satyanadella/status/2109631106404487523</guid>
-      <source url="https://x.com/satyanadella/status/2109631106404487523">X：Satya Nadella (@satyanadella)</source>
-    </item>
-    <item>
-      <title>微软的新人工智能芯片使其不那么依赖Nvidia的GPU</title>
-      <link>https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</link>
-      <description>微软今天宣布其第三代Maia内部人工智能芯片,被设计为微软产品和服务的"主要人工智能推导系统". Maia 300不仅提高了在云中运行人工智能工作量的成本和效率,而且更能处理最新的rea.</description>
-      <pubDate>Mon, 12 Oct 2026 09:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</guid>
-      <source url="https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout">The Verge AI</source>
-    </item>
-    <item>
-      <title>一周 10 万星，AI「逆向一切」，但大家不要过于兴奋</title>
-      <link>http://www.geekpark.net/news/372263</link>
-      <description>头图图片来源：REA头图来源：CyberSecurityNews「在应用里看到一个想加入自己产品的功能？让智能体去帮你调查它。」这是 REA 项目主页第一屏的话。后半句更直接：即使没有源代码，智能体也可以检查应用、解释功能怎么工作、展示证据，「并为你的项目实现类似功能」。REA 全名 Reverse Engineer Anything，即「逆向一切」。上周它在 AI 开发者圈刷了屏：10 月 6 日还不到 1 万星，到 10 月 12 日已经超过 11 万。6 天涨了 10 万星，平均每天约 1.7 万｜图片来源：Star History真正让普通人看到这件事的，是游戏。10 月初，一批老游戏</description>
-      <pubDate>Mon, 12 Oct 2026 20:15:30 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372263</guid>
-      <source url="http://www.geekpark.net/news/372263">极客公园</source>
-    </item>
-    <item>
-      <title>QGIS 通过 QEP428 禁止 AI 辅助贡献</title>
-      <link>https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</link>
-      <description>QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。</description>
-      <pubDate>Mon, 12 Oct 2026 11:22:24 +0000</pubDate>
-      <guid isPermaLink="true">https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</guid>
-      <source url="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387">Hacker News：AI 热帖</source>
-    </item>
-    <item>
-      <title>AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审</title>
-      <link>https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/</link>
-      <description>Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 353 个开放 Erdős 问题中的 9 个，其中 2 个悬置 56 年。</description>
-      <pubDate>Mon, 12 Oct 2026 09:35:54 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/</guid>
-      <source url="https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程</title>
-      <link>https://x.com/MeshyAI/status/2109550836934471864</link>
-      <description>一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。</description>
-      <pubDate>Mon, 12 Oct 2026 07:44:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MeshyAI/status/2109550836934471864</guid>
-      <source url="https://x.com/MeshyAI/status/2109550836934471864">X：Meshy (@MeshyAI)</source>
-    </item>
-    <item>
-      <title>华为AI靠RSI通关25款游戏！操作次数比人类少56%</title>
-      <link>https://www.qbitai.com/2026/10/502654.html</link>
-      <description>游戏打到21:0，AI甚至不用再调用大模型了</description>
-      <pubDate>Mon, 12 Oct 2026 05:48:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502654.html</guid>
-      <source url="https://www.qbitai.com/2026/10/502654.html">量子位</source>
-    </item>
-    <item>
-      <title>从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势</title>
-      <link>https://x.com/Khazix0918/status/2109501787736813663</link>
-      <description>数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。</description>
-      <pubDate>Mon, 12 Oct 2026 04:29:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Khazix0918/status/2109501787736813663</guid>
-      <source url="https://x.com/Khazix0918/status/2109501787736813663">X：卡兹克 (@Khazix0918)</source>
-    </item>
-    <item>
-      <title>忠心无锁:关于解释性人工智能忠心度量表结构错位问题的立场文件</title>
-      <link>https://arxiv.org/abs/2610.12493</link>
-      <description>解释性人工智能(XAI)工具经常被提出来作为增加人们对机器学习模型的信任的方法,使其算法的某些方面更加人能理解。</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12493</guid>
-      <source url="https://arxiv.org/abs/2610.12493">ArXiv AI</source>
-    </item>
-    <item>
-      <title>精英表:自我改进程序搜索可执行控制策略</title>
-      <link>https://arxiv.org/abs/2610.12536</link>
-      <description>EliteTable是一款由大语言模型(LLMs)指导的自改进程序搜索算法,该算法使用高分解决方案的固定容量表来指导新提案,编辑已存在的解决方案,并重新混合多个解决方案. Perfession.</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12536</guid>
-      <source url="https://arxiv.org/abs/2610.12536">ArXiv AI</source>
-    </item>
-    <item>
-      <title>平等预算 Monte Carlo 树搜索与随机-重新启动列表 DAG 工作流程的时间安排: 受控的平等预算计算研究</title>
-      <link>https://arxiv.org/abs/2610.12542</link>
-      <description>蒙特卡洛树搜索(MCTS)常被提议用于对定向环行图(DAG)工作流程进行调度,然而大多数研究从未运行过可以反驳其的比较——使同样的搜索工作能够用简单得多的方法进行。</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12542</guid>
-      <source url="https://arxiv.org/abs/2610.12542">ArXiv AI</source>
     </item>
   </channel>
 </rss>
