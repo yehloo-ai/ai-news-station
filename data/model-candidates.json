@@ -646,5 +646,13 @@
     "sourceUrl": "https://x.com/arcprize/status/2108578092558250148",
     "sourceName": "X：ARC Prize (@arcprize)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Meta 发布 Muse Wonder 和 Muse Wonder Full，Artificial Analysis 实测智能水平较前代显著提升",
+    "summary": "Meta 发布 Muse Wonder 和 Muse Wonder Full 两款模型，在 Artificial Analysis Intelligence Index v4.3 上分别得 52 和 56 分（max reasoning effort）。",
+    "sourceUrl": "https://artificialanalysis.ai/articles/muse-wonder",
+    "sourceName": "Artificial Analysis 完整文章（网页）",
+    "reviewReason": "awaiting-review"
   }
 ]
