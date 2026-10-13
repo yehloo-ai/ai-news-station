@@ -5,8 +5,152 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:39:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:53:59 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>骑着这个贴纸的暴风雨</title>
+      <link>https://www.youtube.com/shorts/TD0bImyg_IM</link>
+      <description>用ChatGPT图像制作自己的贴纸包.</description>
+      <pubDate>Tue, 13 Oct 2026 15:47:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/TD0bImyg_IM</guid>
+      <source url="https://www.youtube.com/shorts/TD0bImyg_IM">OpenAI</source>
+    </item>
+    <item>
+      <title>为即将到来的迪士尼游戏,</title>
+      <link>https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art</link>
+      <description>Epic Games计划使用人工智能生成代码和艺术,用于一个未经宣布的迪士尼游戏,根据彭博社的一份报告,该游戏现在从最初的3月发行窗口推迟了,该项目的开发者们获得了"人工智能第一"的任务,指示他们使用像Anthropic的Claude mo这样的工具.</description>
+      <pubDate>Tue, 13 Oct 2026 11:12:59 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art</guid>
+      <source url="https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art">The Verge AI</source>
+    </item>
+    <item>
+      <title>DLSS 5 下个月将参加Hogwarts Legacy的首播</title>
+      <link>https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements</link>
+      <description>当Nvidia今年早些时候在DLSS 5上亮相时,该技术立即被贴上电子游戏的基因人工智能的烙印,对游戏者来说,Nvidia已经失去了情节,我个人无法克服如何使用DLSS 5. 来自Hogwarts Legacy的15岁学生突然看起来很多.</description>
+      <pubDate>Tue, 13 Oct 2026 09:55:45 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements</guid>
+      <source url="https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements">The Verge AI</source>
+    </item>
+    <item>
+      <title>苹果给 Siri 做了一块能认出全家人的屏幕，售价 299 美元</title>
+      <link>http://www.geekpark.net/news/372302</link>
+      <description>头图来源：Apple 官网北京时间 10 月 13 日晚，苹果召开了一次主题为「欢迎回家」的新品发布会，苹果这次放进客厅的新东西，是一块 7 英寸的屏幕。它叫 Apple HomeView，美国售价 299 美元，10 月 13 日开放预订，11 月 13 日上市，一同曝光的还有第四代 Apple TV 4K、HomePod mini 2。三款产品在海外都以新一代 Siri AI 为卖点，但音箱要等后续软件更新才能用上。同期发布的，还有 Apple Home Collection 智能家居配件系列。HomePod 和 Apple TV 早已支持家庭控制，HomePod 也有声音识别和个人请求。</description>
+      <pubDate>Tue, 13 Oct 2026 21:51:34 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372302</guid>
+      <source url="http://www.geekpark.net/news/372302">极客公园</source>
+    </item>
+    <item>
+      <title>Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI</title>
+      <link>https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</link>
+      <description>Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。</description>
+      <pubDate>Tue, 13 Oct 2026 12:59:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</guid>
+      <source url="https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/">Apple：Newsroom（RSS）</source>
+    </item>
+    <item>
+      <title>LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹</title>
+      <link>https://www.langchain.com/blog/agent-traces-ai-search-langsmith</link>
+      <description>LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述行为来查询 agent 轨迹，例如 PII 泄露或用户受挫等无法靠标签和全文检索回答的问题。</description>
+      <pubDate>Tue, 13 Oct 2026 12:59:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.langchain.com/blog/agent-traces-ai-search-langsmith</guid>
+      <source url="https://www.langchain.com/blog/agent-traces-ai-search-langsmith">LangChain：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney</title>
+      <link>https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/</link>
+      <description>Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼、德州调查等困境，曾尝试 AI 视频生成、社交信息流和微短剧等转型未果。</description>
+      <pubDate>Tue, 13 Oct 2026 12:23:42 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/</guid>
+      <source url="https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</link>
+      <description>NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。</description>
+      <pubDate>Tue, 13 Oct 2026 12:00:49 +0000</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</guid>
+      <source url="https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/">NVIDIA Blog（RSS）</source>
+    </item>
+    <item>
+      <title>LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文</title>
+      <link>https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents</link>
+      <description>LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。</description>
+      <pubDate>Tue, 13 Oct 2026 11:56:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents</guid>
+      <source url="https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents">LangChain：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>说个事：极客公园创新大会 2027！</title>
+      <link>http://www.geekpark.net/news/372300</link>
+      <description>一年一度：极客公园创新大会 2027，已经启动了。 你大概已经注意到一些不太寻常的事&amp;mdash;&amp;mdash;科技行业真正关心的东西，一直在变。 大模型公司的关注点，过去几年，几个月就一波变化：从追求用户规模，到追求技术的 SOTA 程度；应用公司的产品热点从 Chatbot，到 Agent，再到 Personal Agent；生产力工具也从 Copilot，一路到了 workspace。甚至连工程领域的概念也在快速更迭，从 Prompt Engineering，已经到了到 Environment Engineering。 流行概念的交替，实质是科技领域里，创新问题的权重和价值，正在被快速重</description>
+      <pubDate>Tue, 13 Oct 2026 19:33:53 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372300</guid>
+      <source url="http://www.geekpark.net/news/372300">极客公园</source>
+    </item>
+    <item>
+      <title>人物. 破产的人工智能文件</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</link>
+      <description>人物.人工智能是基因人工智能兴起的首次突围,它已经申请破产,并正在将其部分资产卖给迪士尼。 该公司为用户搭建各种在线bot来聊天或扮演角色,却面对着针对其聊天员安全的日益严峻的审查和诉讼。</description>
+      <pubDate>Tue, 13 Oct 2026 06:32:23 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney">The Verge AI</source>
+    </item>
+    <item>
+      <title>面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499456&amp;idx=1&amp;sn=03da7aed4dabbd4fca5c89ce88d4a90a</link>
+      <description>面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。</description>
+      <pubDate>Tue, 13 Oct 2026 10:29:21 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499456&amp;idx=1&amp;sn=03da7aed4dabbd4fca5c89ce88d4a90a</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499456&amp;idx=1&amp;sn=03da7aed4dabbd4fca5c89ce88d4a90a">公众号：面壁智能（MiniCPM）</source>
+    </item>
+    <item>
+      <title>梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑</title>
+      <link>https://www.qbitai.com/2026/10/503093.html</link>
+      <description>胜利的人工智能</description>
+      <pubDate>Tue, 13 Oct 2026 09:33:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503093.html</guid>
+      <source url="https://www.qbitai.com/2026/10/503093.html">量子位</source>
+    </item>
+    <item>
+      <title>OpenAI 刚刚更改了数学的意义</title>
+      <link>https://www.youtube.com/watch?v=z_sXLlLVUls</link>
+      <description>本文提供:https://openai.com/index/share-ai-progress-in-mathematics/https://github.com/openai/math 感谢慷慨的帕特里翁支持者,他们使两分钟的文件成为可能。</description>
+      <pubDate>Tue, 13 Oct 2026 08:56:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=z_sXLlLVUls</guid>
+      <source url="https://www.youtube.com/watch?v=z_sXLlLVUls">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>AI学会「寄生繁殖」了，Anthropic 用 15台破电视盒子养活大模型</title>
+      <link>https://www.ifanr.com/1683992?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>当大模型也像病毒一样传播#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 13 Oct 2026 08:51:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1683992?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1683992?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489149&amp;idx=1&amp;sn=26d7fefe24bfb18efa4582467313b1eb</link>
+      <description>千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。</description>
+      <pubDate>Tue, 13 Oct 2026 08:06:57 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489149&amp;idx=1&amp;sn=26d7fefe24bfb18efa4582467313b1eb</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489149&amp;idx=1&amp;sn=26d7fefe24bfb18efa4582467313b1eb">公众号：千问APP（阿里）</source>
+    </item>
+    <item>
+      <title>Claude团队又搞事：实测AI全自主复制进智能家电</title>
+      <link>https://www.qbitai.com/2026/10/502920.html</link>
+      <description>拉马克进化的幽灵</description>
+      <pubDate>Tue, 13 Oct 2026 06:19:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502920.html</guid>
+      <source url="https://www.qbitai.com/2026/10/502920.html">量子位</source>
+    </item>
+    <item>
+      <title>“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档</title>
+      <link>https://www.qbitai.com/2026/10/502907.html</link>
+      <description>由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档</description>
+      <pubDate>Tue, 13 Oct 2026 06:00:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502907.html</guid>
+      <source url="https://www.qbitai.com/2026/10/502907.html">量子位</source>
+    </item>
     <item>
       <title>忠心无锁:关于解释性人工智能忠心度量表结构错位问题的立场文件</title>
       <link>https://arxiv.org/abs/2610.12493</link>
@@ -22,150 +166,6 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.12536</guid>
       <source url="https://arxiv.org/abs/2610.12536">ArXiv AI</source>
-    </item>
-    <item>
-      <title>平等预算 Monte Carlo 树搜索与随机-重新启动列表 DAG 工作流程的时间安排: 受控的平等预算计算研究</title>
-      <link>https://arxiv.org/abs/2610.12542</link>
-      <description>蒙特卡洛树搜索(MCTS)常被提议用于对定向环行图(DAG)工作流程进行调度,然而大多数研究从未运行过可以反驳其的比较——使同样的搜索工作能够用简单得多的方法进行。</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12542</guid>
-      <source url="https://arxiv.org/abs/2610.12542">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Know what you don't know: 由进化的世代空间合成的代理数据,用于闭环学习</title>
-      <link>https://arxiv.org/abs/2610.12593</link>
-      <description>大型语言模型的持续改进越来越依赖于合成经验,然而,互动剂的有效数据合成不仅需要可执行和可核查的轨迹,而且需要提供学习v的相互作用.</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12593</guid>
-      <source url="https://arxiv.org/abs/2610.12593">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Spire Bench: 与 Spire 一起评估代理模型的长视战略游戏</title>
-      <link>https://arxiv.org/abs/2610.12596</link>
-      <description>代理大语言模型现在处理复杂的任务,然而对远期战略推理的研究不足:大多数代理基准是短而零星的,而长期任务的表现很难被分解成存储的知识,推理和l</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12596</guid>
-      <source url="https://arxiv.org/abs/2610.12596">ArXiv AI</source>
-    </item>
-    <item>
-      <title>AutoIndexer: 编辑链上培训因子模型而实现的弹性命令解码</title>
-      <link>https://arxiv.org/abs/2610.12545</link>
-      <description>自动递归解码不太适合非偶然命令的数据,例如交叉参考或未来依赖性,因为其输出不能与迭代人类推理不同,是临时修改的。 分散式LLMs 部分减轻了这一限制。</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12545</guid>
-      <source url="https://arxiv.org/abs/2610.12545">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>SWE-Duel:迈向编码代理人自我升级的竞技场</title>
-      <link>https://arxiv.org/abs/2610.12569</link>
-      <description>静态编码基准被固定在发布时。 随着时间的推移,它们的任务会泄露到培训数据中,而更强大的代理人最终会饱和它们。 我们主张,一个基准应该着眼于自我扩展:它的任务和甲骨文是在评估时创建的。</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12569</guid>
-      <source url="https://arxiv.org/abs/2610.12569">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>用于分样解码的平行草稿的背景校正</title>
-      <link>https://arxiv.org/abs/2610.12570</link>
-      <description>光谱解码加速了大语言模型的推论,方法是使用一个轻量级的起草器来提出随后由目标模型平行核实的多个符号。</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12570</guid>
-      <source url="https://arxiv.org/abs/2610.12570">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>CLUE: 无监督事件类型的介绍和说明的矛盾学习框架</title>
-      <link>https://arxiv.org/abs/2610.12580</link>
-      <description>事件肿瘤学是定义数据集中事件的基础框架。事件类型诱导通常涉及域专家,他们根据数据集的域和范围定义创建事件类型及其名称的准则。然而,这需要将事件类型诱导到定义范围。</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12580</guid>
-      <source url="https://arxiv.org/abs/2610.12580">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>One model to Loop Them All: 语言模型的弹性Latet 重现</title>
-      <link>https://arxiv.org/abs/2610.12582</link>
-      <description>一个潜在的经常性语言模型反复应用一个共享的层块,因此一个检查点可以通过改变循环计数来进行精确性的推断。 但是,在一个循环中,这种模型通常远远低于一个非经常性模型 o。</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12582</guid>
-      <source url="https://arxiv.org/abs/2610.12582">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>复旦邱锡鹏团队获超 10 亿融资，成立两年，让模型感知、理解、响应变化的世界</title>
-      <link>http://www.geekpark.net/news/372278</link>
-      <description>大模型融资还在继续，新的押注转向了能边听、边看、边说的 AI。作者｜Li Yuan编辑｜郑玄想象这样一个家庭场景。孩子正在玩玩具，突然，厨房里「哐」的一声，玻璃碎了，紧接着传来孩子的声音：「不是我。」语速很快，尾音压得很低，有点紧张。两秒后，一只猫从厨房门口窜出来，钻进了沙发底下。今天的模型，能分别识别这些信息。转写模型能记下孩子的话，音频模型能听出是玻璃碎裂，视觉模型能认出那只猫。但把这些能力叠在一起，模型仍然不知道刚才发生了什么。那声脆响是从哪个方向来的？碎玻璃、那句急着撇清的「不是我」、逃窜的猫，是不是同一件事？厨房地上有没有碎片，孩子是不是正光着脚站在旁边？AI 需要把声音、画面、人物</description>
-      <pubDate>Tue, 13 Oct 2026 11:44:18 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372278</guid>
-      <source url="http://www.geekpark.net/news/372278">极客公园</source>
-    </item>
-    <item>
-      <title>Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet</title>
-      <link>https://x.com/demishassabis/status/2109813775377563908</link>
-      <description>Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。</description>
-      <pubDate>Tue, 13 Oct 2026 01:09:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/demishassabis/status/2109813775377563908</guid>
-      <source url="https://x.com/demishassabis/status/2109813775377563908">X：Demis Hassabis (@demishassabis)</source>
-    </item>
-    <item>
-      <title>曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372264</link>
-      <description>曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局具身智能 据报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域，并与多位该领域创业者交流，探讨机器人、大模型与现实世界交互等方向。 据知情人士透露，梁文锋正在考虑 DeepSeek 进入具身智能领域的可能性，可能会亲自组建团队下场研发，也可能通过投资相关企业切入。 此前，梁文锋已投资宇树科技，另据彭博社报道，DeepSeek 计划领投腾讯前 AI 科学家胡瀚创立的机器人公司 Winverse AI。（来源：新浪科技） Meta 发布 Muse Wonder 模型，拥有主动记忆和主动专注功能，瞄准个人超级智能 Meta 今天推出</description>
-      <pubDate>Tue, 13 Oct 2026 08:27:49 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372264</guid>
-      <source url="http://www.geekpark.net/news/372264">极客公园</source>
-    </item>
-    <item>
-      <title>早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能</title>
-      <link>https://www.ifanr.com/1683909?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 博通 CEO：晶圆与内存短缺正在缓解，AI 扩张更受资金约束 · 9 月乘用车零售同比下降 28%，新能源渗透率升至 67% · 大众 CEO 呼吁加强合作，应对中国车企竞争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 13 Oct 2026 00:17:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1683909?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1683909?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期</title>
-      <link>https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/</link>
-      <description>据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。</description>
-      <pubDate>Mon, 12 Oct 2026 20:59:50 +0000</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/</guid>
-      <source url="https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/">Ars Technica：AI（RSS）</source>
-    </item>
-    <item>
-      <title>用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程</title>
-      <link>https://github.com/openai/codex/issues/48195</link>
-      <description>一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。</description>
-      <pubDate>Mon, 12 Oct 2026 19:25:54 +0000</pubDate>
-      <guid isPermaLink="true">https://github.com/openai/codex/issues/48195</guid>
-      <source url="https://github.com/openai/codex/issues/48195">Codex：GitHub Releases（RSS）</source>
-    </item>
-    <item>
-      <title>Anthropic 的 Claude 向费城警方误提交虚假凶案线索</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/</link>
-      <description>Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。</description>
-      <pubDate>Mon, 12 Oct 2026 18:21:36 +0000</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/">Ars Technica：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Meta Muse Wonder 系列上线 Agent Arena，分数即将公布</title>
-      <link>https://x.com/arena/status/2109706854700044523</link>
-      <description>Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。</description>
-      <pubDate>Mon, 12 Oct 2026 18:04:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2109706854700044523</guid>
-      <source url="https://x.com/arena/status/2109706854700044523">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>AWS 提出 priming 方法，可将预训练 Transformer 改造成混合状态空间架构</title>
-      <link>https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch</link>
-      <description>AWS 团队发布论文《Priming: Hybrid state space models from pre-trained Transformers》，提出 priming 方法，复用预训练 Transformer 权重构建混合架构，将预训练成本降低逾 99%，全流程消耗不足源模型 0.5% 的 token 预算。</description>
-      <pubDate>Mon, 12 Oct 2026 17:36:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch</guid>
-      <source url="https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch">Amazon Science（RSS）</source>
-    </item>
-    <item>
-      <title>Meta有一些神奇的全新人工智能模型</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</link>
-      <description>Meta在人工智能比赛中弥补了失去的时间。在推出Muse Spark之后,Muse Spark是其经过改造的超级智能实验室分部的首个模型,而Bungy的人工智能特工Muse,现在它正在推出两个新的模型,它声称它们可以和业界的顶尖人物同去。新的模型是Muse Wonder和Muse Wonder。</description>
-      <pubDate>Mon, 12 Oct 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model">The Verge AI</source>
     </item>
   </channel>
 </rss>
