@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-10-11T06:43:45.305Z",
+  "generatedAt": "2026-10-12T07:04:13.260Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2109361546505966046",
+          "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
+          "createdAt": "2026-10-11T19:12:37.000Z",
+          "url": "https://x.com/karpathy/status/2109361546505966046",
+          "likes": 30115,
+          "retweets": 3852,
+          "replies": 1357,
+          "isQuote": true,
+          "quotedTweetId": "2042334451611693415"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2109365419937239158",
+          "text": "reupping my talk tips thread for all our lovely AIE NYC speakers. see you tmr at speaker dinner! https://t.co/1xf4Eblnil",
+          "createdAt": "2026-10-11T19:28:00.000Z",
+          "url": "https://x.com/swyx/status/2109365419937239158",
+          "likes": 36,
+          "retweets": 3,
+          "replies": 24,
+          "isQuote": true,
+          "quotedTweetId": "2069964772003770673"
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Thibault Sottiaux",
@@ -9,37 +47,37 @@
       "bio": "Codex & ChatGPT @OpenAI",
       "tweets": [
         {
-          "id": "2109152716954222849",
-          "text": "Pro users, would you rather have",
-          "createdAt": "2026-10-11T05:22:48.000Z",
-          "url": "https://x.com/thsottiaux/status/2109152716954222849",
-          "likes": 1235,
-          "retweets": 102,
-          "replies": 1621,
+          "id": "2109439315570999598",
+          "text": "The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X direction across Pro 100/200/500 at the cost of bringing back 5h limits in order to smoothen the demand curve. https://t.co/zwn7kboMhT",
+          "createdAt": "2026-10-12T00:21:38.000Z",
+          "url": "https://x.com/thsottiaux/status/2109439315570999598",
+          "likes": 4625,
+          "retweets": 99,
+          "replies": 3319,
+          "isQuote": true,
+          "quotedTweetId": "2109152716954222849"
+        },
+        {
+          "id": "2109430894604026039",
+          "text": "With this change, we are not charging long context fees for GPT-6.1 Sol when drawing usage from the subscription.",
+          "createdAt": "2026-10-11T23:48:11.000Z",
+          "url": "https://x.com/thsottiaux/status/2109430894604026039",
+          "likes": 2553,
+          "retweets": 55,
+          "replies": 157,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2109132167112782291",
-          "text": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
-          "createdAt": "2026-10-11T04:01:09.000Z",
-          "url": "https://x.com/thsottiaux/status/2109132167112782291",
-          "likes": 4203,
-          "retweets": 190,
-          "replies": 612,
-          "isQuote": true,
-          "quotedTweetId": "2109045392684032299"
-        },
-        {
-          "id": "2109090080497508356",
-          "text": "The day we reach perfection it will be resets from there onwards https://t.co/I6A9WHOjXT",
-          "createdAt": "2026-10-11T01:13:54.000Z",
-          "url": "https://x.com/thsottiaux/status/2109090080497508356",
-          "likes": 4085,
-          "retweets": 99,
-          "replies": 652,
-          "isQuote": true,
-          "quotedTweetId": "2109045220411351517"
+          "id": "2109430343346581527",
+          "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n\nWe will go higher in the future, but it helps reduce occurrence of compactions and with tasks that require keeping a lot of context and nuance over periods of time. It was carefully tested and is the new sweet spot for most of our users. You can still override it if you want to be higher our lower, with maximum context length of GPT-6.1 Sol of 1M.",
+          "createdAt": "2026-10-11T23:45:59.000Z",
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "likes": 10608,
+          "retweets": 454,
+          "replies": 1320,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -50,15 +88,37 @@
       "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
       "tweets": [
         {
-          "id": "2109107670229930458",
-          "text": "Something went wrong alright https://t.co/AMb3fqmEIL",
-          "createdAt": "2026-10-11T02:23:48.000Z",
-          "url": "https://x.com/petergyang/status/2109107670229930458",
-          "likes": 6,
+          "id": "2109435203269878242",
+          "text": "YouTube comments undefeated the disrespect to @Rasmic  😭 https://t.co/SiPRGxvUwc",
+          "createdAt": "2026-10-12T00:05:18.000Z",
+          "url": "https://x.com/petergyang/status/2109435203269878242",
+          "likes": 3,
           "retweets": 0,
-          "replies": 7,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
+        },
+        {
+          "id": "2109434554729824397",
+          "text": "Building a @modretro game with my daughter and Codex https://t.co/78Ev7iGuG1",
+          "createdAt": "2026-10-12T00:02:43.000Z",
+          "url": "https://x.com/petergyang/status/2109434554729824397",
+          "likes": 75,
+          "retweets": 4,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2109433961223180517",
+          "text": "\"I'm not at a point where I trust the agent, especially with stuff that people are using.\"\n\nFrom Micky (@Rasmic), who's taught 100K+ people to build with AI:\n\n\"The manual review is like the final step. All the work's done, and I have as much evidence from the agent as possible.\n\nWith evidence-driven testing, before and after, and even greploop, we're trying to build trust. The agent presents evidence: This is the work that's done, and this is why it's good.\n\nFor anyone who's been a developer for any time, manual review is probably the worst part of your job. This sort of helps minimize the friction.\"\n\n📌 Watch Micky's full 4-step workflow here: https://t.co/ju9aMQKaCE",
+          "createdAt": "2026-10-12T00:00:22.000Z",
+          "url": "https://x.com/petergyang/status/2109433961223180517",
+          "likes": 24,
+          "retweets": 1,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2109293947755651371"
         }
       ]
     },
@@ -69,56 +129,34 @@
       "bio": "product, codex @openai. prev head of product @linear",
       "tweets": [
         {
-          "id": "2109035605061693774",
-          "text": "Everything seems to be going as planned https://t.co/dU2vSvR7iu https://t.co/rYrqn0aUhv",
-          "createdAt": "2026-10-10T21:37:26.000Z",
-          "url": "https://x.com/thenanyu/status/2109035605061693774",
-          "likes": 20,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2108869542386745355"
-        },
-        {
-          "id": "2108976262698115550",
-          "text": "Yeah, I’ve been feeling this too. Agents make engineers extremely powerful, but PMs are generally still bottlenecked on their bandwidth they have to talk to customers.\n\nSo the ideal ratio is 1:1 https://t.co/fIWDJeHwtT",
-          "createdAt": "2026-10-10T17:41:38.000Z",
-          "url": "https://x.com/thenanyu/status/2108976262698115550",
-          "likes": 175,
-          "retweets": 4,
-          "replies": 14,
-          "isQuote": true,
-          "quotedTweetId": "2108652242215878775"
-        },
-        {
-          "id": "2108948921007681902",
-          "text": "Ran outta gas\nFill issue https://t.co/8i9CRpKMQg",
-          "createdAt": "2026-10-10T15:52:59.000Z",
-          "url": "https://x.com/thenanyu/status/2108948921007681902",
-          "likes": 5,
+          "id": "2109538550421262552",
+          "text": "Who’s gonna tell him https://t.co/QcAecsogbx",
+          "createdAt": "2026-10-12T06:55:58.000Z",
+          "url": "https://x.com/thenanyu/status/2109538550421262552",
+          "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": true,
-          "quotedTweetId": "2108939688719569225"
+          "quotedTweetId": "2109105912095138258"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Madhu Guru",
-      "handle": "realmadhuguru",
-      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
       "tweets": [
         {
-          "id": "2108982858513776899",
-          "text": "Agent capabilities will soon evolve at RSI pace. Agentic security (identity, permissions, observability) will need to outpace this.\n\nThe evolutionary direction of the broader agents space is capability -> trust -> autonomy\n\nThe first phase has been about capability - can the combination of model + harness + tools + context reliably get work done?\n\nCapabilities have gotten pretty far, so the focus now shifts to trust…does the harness / system take the right action with right permissions? Can we observe it, audit it and establish accountability?\n\nA lot of serious work has already gone into these problems over the last couple of years.\n\nNow the challenge gets more important. and harder.",
-          "createdAt": "2026-10-10T18:07:51.000Z",
-          "url": "https://x.com/realmadhuguru/status/2108982858513776899",
-          "likes": 24,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2109329495341867391",
+          "text": "I think Terrence Tao is directionally correct, we shouldn’t settle for a super intelligence that is opaque.\n\nA key signal of intelligence is communication. We should strive to make products and models that build understanding with humans instead of disintermediating them. https://t.co/p44dDROehA",
+          "createdAt": "2026-10-11T17:05:15.000Z",
+          "url": "https://x.com/trq212/status/2109329495341867391",
+          "likes": 1219,
+          "retweets": 59,
+          "replies": 205,
           "isQuote": true,
-          "quotedTweetId": "2108931348857827686"
+          "quotedTweetId": "2108992955382210632"
         }
       ]
     },
@@ -129,15 +167,15 @@
       "bio": "@vercel CEO",
       "tweets": [
         {
-          "id": "2109038632518782989",
-          "text": "All plausible science fiction will be realized within our lifetime. If you’re reading this, you’re one of the luckiest humans to have ever been born (if we play our cards right.)",
-          "createdAt": "2026-10-10T21:49:28.000Z",
-          "url": "https://x.com/rauchg/status/2109038632518782989",
-          "likes": 2007,
-          "retweets": 137,
-          "replies": 136,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2109297685392175488",
+          "text": "So cool. The future of learning https://t.co/cT6crizjKp",
+          "createdAt": "2026-10-11T14:58:51.000Z",
+          "url": "https://x.com/rauchg/status/2109297685392175488",
+          "likes": 2659,
+          "retweets": 94,
+          "replies": 63,
+          "isQuote": true,
+          "quotedTweetId": "2108948624004526516"
         }
       ]
     },
@@ -148,26 +186,15 @@
       "bio": "ceo @box - your business lives in content. unleash it with AI",
       "tweets": [
         {
-          "id": "2109079686286565378",
-          "text": "If you want to know where all the tokens will get consumed in the future, here it is. Agent swarms will have massive implications in a number of enterprise domains like software development, cyber, life sciences research, AI research, finance, and more.\n\nThe ability to parallelize agents against a unified goal where the volume of work is large, or where the search space not entirely known upfront, is going to be massive. \n\nAgents can fan out and coordinate work together on a specific mission in completely different ways from what humans are able to do. Today even in the most resource-abundant organizations, your ability to parallelize work on most projects is quite limited. Humans run into constraints on being able to communicate with one another, share status, deal with conflicts in work, keep shared context, and so on.\n\nAs AI models can handle larger context without getting confused, and as they’re able to communicate effectively across their work with shared infrastructure, they can avoid many of the pitfalls that people have.\n\nYou can see how this can lead to not just faster execution of tasks, but qualitatively different outcomes in medicine, research or defending against cyber attacks, scientific and math discoveries, and so on. This is why we’re going to need 1,000X more compute.",
-          "createdAt": "2026-10-11T00:32:36.000Z",
-          "url": "https://x.com/levie/status/2109079686286565378",
-          "likes": 296,
-          "retweets": 37,
-          "replies": 70,
+          "id": "2109467575025578330",
+          "text": "This is a good way to understand how early we actually are in AI diffusion right now. The vast majority of people are using AI as a chatbot for simple interactions that approximate next-generation search. This is super useful but dramatically underrepresents the full capability of AI.\n\nOn the complete other end of the spectrum, agent swarms represent possibly the ultimate form factor of what agents will do inside of our workflows. Math, cyber, bio, materials science, software engineering, finance, and any other field that has valuable tasks that can be executed in parallel where compute can be applied to accelerate work all have this characteristic.\n\nLess than a fraction of a fraction of the population uses AI in this way right now, due to a mix of the capabilities of models relative to the user's domain, the cost of doing these types of workflows today, the harnesses available to do this style of AI work, and the availability (or lack thereof) of frontier models to the general public.\n\nThere will also be a huge amount of change management necessary to get most areas of work -beyond software and AI research- to benefit from this style of agents. Companies need to upgrade their workflows, data needs to integrated and migrated into modern platforms, and companies will need to work through compliance, governance, and security frameworks to pull it off. \n\nBut this all represents opportunity right now. A lot of this is where the applied layer of AI will really shine in the enterprise because of the domain specificity of this type of work. You can get an early sense of where things are going and the opportunity ahead by seeing through the funnel that Andrej lays out.",
+          "createdAt": "2026-10-12T02:13:56.000Z",
+          "url": "https://x.com/levie/status/2109467575025578330",
+          "likes": 343,
+          "retweets": 46,
+          "replies": 88,
           "isQuote": true,
-          "quotedTweetId": "2108672479007047952"
-        },
-        {
-          "id": "2108952226714865966",
-          "text": "Good post to start thinking through the long term safety approaches to managing intelligence in an enterprise. As agents begin to do vastly more task execution in the organization than humans, our need to secure, govern, control, and audit that work will become paramount. \n\nYou’ll have agents operating against most of your most valuable data; they’ll be making decisions that will be harder and harder to reverse engineer; we’ll need to understand the liability and accountability regimes when models make decisions for us; and we need ways of containing the blast radius of accidentally or intentionally malicious agents. \n\n“Treating frontier closed and open weight models like insider risks is a way to build such a system. Not because they are necessarily malicious, but because any sufficiently capable actor with access to important systems can make mistakes or be compromised, and the architecture of containment and control must account for that”\n\nIn a sense, AI will need to have its “zero trust” era that security saw. And all of this leads to needing various layers of protection and auditability of what agents are doing, what data they can work with, and controls for when things go wrong. And a huge opportunity right now for those building such systems across the enterprise.",
-          "createdAt": "2026-10-10T16:06:07.000Z",
-          "url": "https://x.com/levie/status/2108952226714865966",
-          "likes": 215,
-          "retweets": 23,
-          "replies": 67,
-          "isQuote": true,
-          "quotedTweetId": "2108931348857827686"
+          "quotedTweetId": "2109361546505966046"
         }
       ]
     },
@@ -178,35 +205,65 @@
       "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
       "tweets": [
         {
-          "id": "2108954741065879945",
-          "text": "https://t.co/0wdR9PQsqC works best with experimental modes including Captain turned on. I end up using one thread that is able to coordinate and run the merge PR queue, make sure that CI works, and that only green runs with full CI make it into master.",
-          "createdAt": "2026-10-10T16:16:07.000Z",
-          "url": "https://x.com/garrytan/status/2108954741065879945",
-          "likes": 12,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2109418482953814026",
+          "text": "Be part of the 5000 today. It’s amazing\n\nThe lucky thing is the price will come down and more people will see this, and get a chance to bring it to the world\n\nGreatest alpha fountain in the history of man https://t.co/0CQTE04g9m",
+          "createdAt": "2026-10-11T22:58:52.000Z",
+          "url": "https://x.com/garrytan/status/2109418482953814026",
+          "likes": 1113,
+          "retweets": 34,
+          "replies": 66,
+          "isQuote": true,
+          "quotedTweetId": "2109361546505966046"
         },
         {
-          "id": "2108954740013043789",
-          "text": "I use GStack /autoplan and ask for the agent to ELI5 the plan it comes up with, and I still approve plans to make sure it's going down paths I think are likely to work. But only rarely do I have to intervene. The frontier models are fantastic these days.",
-          "createdAt": "2026-10-10T16:16:07.000Z",
-          "url": "https://x.com/garrytan/status/2108954740013043789",
-          "likes": 19,
+          "id": "2109417956929327510",
+          "text": "If you wonder what an SF Public Bank will do for the city…\n\nFor you? Absolutely nothing. \n\nFor Jackie Fielder’s nonprofit grifter cronies? Absolutely everything. https://t.co/rIjHhK7jFI",
+          "createdAt": "2026-10-11T22:56:46.000Z",
+          "url": "https://x.com/garrytan/status/2109417956929327510",
+          "likes": 239,
+          "retweets": 22,
+          "replies": 22,
+          "isQuote": true,
+          "quotedTweetId": "2109407841358647359"
+        },
+        {
+          "id": "2109410082769482174",
+          "text": "Replacing LLM calls with deterministic code is a no brainer and also results in better code that better matches what users want https://t.co/jzOeeoHFMO",
+          "createdAt": "2026-10-11T22:25:29.000Z",
+          "url": "https://x.com/garrytan/status/2109410082769482174",
+          "likes": 1624,
+          "retweets": 71,
+          "replies": 129,
+          "isQuote": true,
+          "quotedTweetId": "2102061534956662818"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2109410677526065460",
+          "text": "Please respect my privacy during this difficult time in the family https://t.co/qliJU9WvVY",
+          "createdAt": "2026-10-11T22:27:51.000Z",
+          "url": "https://x.com/mattturck/status/2109410677526065460",
+          "likes": 64,
           "retweets": 1,
-          "replies": 2,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2108954738540863498",
-          "text": "For retrieval/latency data tasks like what GBrain does, setting up clear evals around retrieval, latency and cost per compute is useful. That's my repo https://t.co/2rdleyR8Rl which has 40+ categories that each can be auto-researched and auto-improved",
-          "createdAt": "2026-10-10T16:16:06.000Z",
-          "url": "https://x.com/garrytan/status/2108954738540863498",
-          "likes": 22,
-          "retweets": 2,
-          "replies": 6,
+          "id": "2109345191010472332",
+          "text": "People were punch card operators then they were Lotus Notes admins, then they were Flash developers and Dreamweaver webmasters, then they were DevOps and Tableau analysts, and now they’re becoming agent managers and harness engineers.  It will work out just fine.",
+          "createdAt": "2026-10-11T18:07:37.000Z",
+          "url": "https://x.com/mattturck/status/2109345191010472332",
+          "likes": 54,
+          "retweets": 0,
+          "replies": 12,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -219,15 +276,15 @@
       "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
       "tweets": [
         {
-          "id": "2109087739287384387",
-          "text": "Code is the new medium for creative self-expression https://t.co/jYeBPExlMV",
-          "createdAt": "2026-10-11T01:04:36.000Z",
-          "url": "https://x.com/zarazhangrui/status/2109087739287384387",
-          "likes": 74,
-          "retweets": 4,
-          "replies": 10,
-          "isQuote": true,
-          "quotedTweetId": "2108047745936466373"
+          "id": "2109483079106740500",
+          "text": "The only place where I use Gemini these days is in Chrome",
+          "createdAt": "2026-10-12T03:15:33.000Z",
+          "url": "https://x.com/zarazhangrui/status/2109483079106740500",
+          "likes": 93,
+          "retweets": 1,
+          "replies": 57,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -238,54 +295,13 @@
       "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
       "tweets": [
         {
-          "id": "2109060688446677004",
-          "text": "Let’s go - only took 23 months 😂 https://t.co/xIJfCRr0hY https://t.co/bLatE5FU7H",
-          "createdAt": "2026-10-10T23:17:07.000Z",
-          "url": "https://x.com/nikunj/status/2109060688446677004",
-          "likes": 64,
+          "id": "2109428362171305984",
+          "text": "🔵👼 https://t.co/fCataNatin",
+          "createdAt": "2026-10-11T23:38:07.000Z",
+          "url": "https://x.com/nikunj/status/2109428362171305984",
+          "likes": 20,
           "retweets": 0,
           "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2068756725587476913"
-        },
-        {
-          "id": "2109038632975876395",
-          "text": "Ignoring the actors in the latest debacle of VC, “philosophically” you can’t have both.. \n\n> ask a fund to show conviction, and ask to double down especially when the chips are down. \n\n> ask them not do contracted pro rata just because it’s convenient to you from a dilution perspective or the lead fund that’s trying to get their ownership targets. \n\nEvery VC should earn the right to the cap table at every stage. But, this industry runs on contracts and handshakes, and when you break those for short term gain that erodes the already brittle trust. \n\nFor founders, another reminder to choose your partners AND contracts well. It’s so so so important. Get a good independent lawyer who will spell this out for you. \n\n(This is so timely since just yesterday I was helping my cousin negotiate his preseed term sheet who literally wanted an arm and leg instead of a simple SAFE)",
-          "createdAt": "2026-10-10T21:49:28.000Z",
-          "url": "https://x.com/nikunj/status/2109038632975876395",
-          "likes": 47,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Peter Steinberger",
-      "handle": "steipete",
-      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
-      "tweets": [
-        {
-          "id": "2109022454224150707",
-          "text": "not as clear-cut, but also yes https://t.co/MYVj0Jb29v",
-          "createdAt": "2026-10-10T20:45:11.000Z",
-          "url": "https://x.com/steipete/status/2109022454224150707",
-          "likes": 273,
-          "retweets": 12,
-          "replies": 26,
-          "isQuote": true,
-          "quotedTweetId": "2108652242215878775"
-        },
-        {
-          "id": "2109008513855087082",
-          "text": "JavaScript is not a serious language 🙃 https://t.co/7yeq9rr025",
-          "createdAt": "2026-10-10T19:49:47.000Z",
-          "url": "https://x.com/steipete/status/2109008513855087082",
-          "likes": 183,
-          "retweets": 10,
-          "replies": 55,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -298,32 +314,21 @@
       "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
       "tweets": [
         {
-          "id": "2108941466785439796",
-          "text": "yup \n\nif your company slack is not a constant source of wonder and inspiration right now something is wrong https://t.co/5q8OoN1nJx",
-          "createdAt": "2026-10-10T15:23:22.000Z",
-          "url": "https://x.com/danshipper/status/2108941466785439796",
-          "likes": 318,
-          "retweets": 12,
-          "replies": 20,
-          "isQuote": true,
-          "quotedTweetId": "2108912617565675798"
-        },
-        {
-          "id": "2108893466998571442",
-          "text": "incredibly interesting research exploration 👇 https://t.co/IV1qOv6zPx",
-          "createdAt": "2026-10-10T12:12:38.000Z",
-          "url": "https://x.com/danshipper/status/2108893466998571442",
-          "likes": 118,
-          "retweets": 2,
-          "replies": 8,
-          "isQuote": true,
-          "quotedTweetId": "2108745536048169413"
+          "id": "2109331798282915907",
+          "text": "made a feed that automatically tracks the books im reading (and have read going back to 2012!)\n\nmaybe we should have a feed for everybody @every could be fun to see https://t.co/rKpU0itSMX",
+          "createdAt": "2026-10-11T17:14:24.000Z",
+          "url": "https://x.com/danshipper/status/2109331798282915907",
+          "likes": 73,
+          "retweets": 4,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 11,
-    "totalTweets": 21
+    "xBuilders": 13,
+    "totalTweets": 20
   }
 }
