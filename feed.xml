@@ -5,8 +5,56 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 20:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 23:53:38 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%</title>
+      <link>https://www.ithome.com/1/013/154.htm</link>
+      <description>欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。</description>
+      <pubDate>Wed, 14 Oct 2026 23:13:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/013/154.htm</guid>
+      <source url="https://www.ithome.com/1/013/154.htm">IT之家·人工智能</source>
+    </item>
+    <item>
+      <title>McKinsey正和假的人工智能客户 做工作申请</title>
+      <link>https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</link>
+      <description>根据《华尔街日报》,McKinsey &amp; Company咨询公司将要求一些入门级候选人与客户的人工智能模拟进行10分钟的对话,作为面试过程的一部分。</description>
+      <pubDate>Wed, 14 Oct 2026 18:53:31 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</guid>
+      <source url="https://www.theverge.com/news/1011654/mckinsey-ai-client-interview">The Verge AI</source>
+    </item>
+    <item>
+      <title>Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放</title>
+      <link>https://x.com/GeminiApp/status/2110491358498865638</link>
+      <description>Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。</description>
+      <pubDate>Wed, 14 Oct 2026 22:02:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GeminiApp/status/2110491358498865638</guid>
+      <source url="https://x.com/GeminiApp/status/2110491358498865638">X：Gemini (@GeminiApp)</source>
+    </item>
+    <item>
+      <title>Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值</title>
+      <link>https://x.com/lydiahallie/status/2110484841926152622</link>
+      <description>Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 "idleCompaction": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。</description>
+      <pubDate>Wed, 14 Oct 2026 21:36:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/lydiahallie/status/2110484841926152622</guid>
+      <source url="https://x.com/lydiahallie/status/2110484841926152622">X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)</source>
+    </item>
+    <item>
+      <title>Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测</title>
+      <link>https://x.com/elonmusk/status/2110483960312799675</link>
+      <description>Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。</description>
+      <pubDate>Wed, 14 Oct 2026 21:32:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/elonmusk/status/2110483960312799675</guid>
+      <source url="https://x.com/elonmusk/status/2110483960312799675">X：Elon Musk (@elonmusk, xAI)</source>
+    </item>
+    <item>
+      <title>8个州起诉OpenAI,</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
+      <description>OpenAI正面临来自美国8个州的新一波诉讼,指控该公司伤害儿童和误导客户ChatGPT的安全,如路透社早些时候报道的。 由艾奥瓦州,堪萨斯州,内布拉斯加州,西弗吉尼亚州,阿肯色州,亚利桑那州,爱达荷州,蒙坦州分别提起的诉讼.</description>
+      <pubDate>Wed, 14 Oct 2026 17:11:28 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety">The Verge AI</source>
+    </item>
     <item>
       <title>Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名</title>
       <link>https://x.com/arena/status/2110465487914295770</link>
@@ -46,14 +94,6 @@
       <pubDate>Wed, 14 Oct 2026 17:47:37 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/shorts/PZxbaIp8PzE</guid>
       <source url="https://www.youtube.com/shorts/PZxbaIp8PzE">OpenAI</source>
-    </item>
-    <item>
-      <title>Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜</title>
-      <link>https://x.com/ArtificialAnlys/status/2110421964095713743</link>
-      <description>Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。</description>
-      <pubDate>Wed, 14 Oct 2026 17:26:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2110421964095713743</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2110421964095713743">X：Artificial Analysis (@ArtificialAnlys)</source>
     </item>
     <item>
       <title>LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口</title>
@@ -104,28 +144,12 @@
       <source url="https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages">The Verge AI</source>
     </item>
     <item>
-      <title>Anthropic自我复制的人工智能警告令人震惊</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk</link>
-      <description>智能设备 — — 冰箱、烤箱、吸尘器、草坪、安全摄像头和电视 — — 是否密谋接管互联网? 不。 但他们可能很快会无意中成为自动复制人工智能模型的东道主,这些模型从设备到设备都传播开来,并被证明非常难以控制。</description>
-      <pubDate>Wed, 14 Oct 2026 11:19:02 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk">The Verge AI</source>
-    </item>
-    <item>
       <title>MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍</title>
       <link>https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014</link>
       <description>MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。</description>
       <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014</guid>
       <source url="https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014">MIT News（RSS）</source>
-    </item>
-    <item>
-      <title>Epic的新游戏推出器是“vibe编码”</title>
-      <link>https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux</link>
-      <description>Epic Games今天在预览版中宣布对其PC游戏发布器进行大幅刷新,称新版本"速度更快",现在支持Linux. 但一直公开大力推动人工智能辅助开发的公司也注意到刷新版是"vibe编码的". Programming is.</description>
-      <pubDate>Wed, 14 Oct 2026 09:55:02 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux</guid>
-      <source url="https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux">The Verge AI</source>
     </item>
     <item>
       <title>Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO</title>
@@ -142,30 +166,6 @@
       <pubDate>Wed, 14 Oct 2026 12:35:44 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1684341?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1684341?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Oracle 如何使用代码x帮助企业用户获得答案</title>
-      <link>https://www.youtube.com/shorts/DTcK95TAZ-k</link>
-      <description>Oracle应用实验室的副总裁Richard Lam分享了团队如何使用Codex帮助企业用户从公司数据中获取答案。 通过描述他们想要的结果,用户可以得到分析,报告,或者应用程序,由Codex从内部系统收集信息.</description>
-      <pubDate>Wed, 14 Oct 2026 09:35:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/DTcK95TAZ-k</guid>
-      <source url="https://www.youtube.com/shorts/DTcK95TAZ-k">OpenAI</source>
-    </item>
-    <item>
-      <title>STEPX首款大模型原生智能体手机STEPX Neo正式发布</title>
-      <link>https://www.qbitai.com/2026/10/503201.html</link>
-      <description>2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布</description>
-      <pubDate>Wed, 14 Oct 2026 06:45:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503201.html</guid>
-      <source url="https://www.qbitai.com/2026/10/503201.html">量子位</source>
-    </item>
-    <item>
-      <title>刚刚，Anthropic 宣布弃用Git，统治编程20年的工具顶不住AI了</title>
-      <link>https://www.ifanr.com/1684269?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>以 AI 发展速度，一年后我们又该弃用 Scion#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 14 Oct 2026 06:10:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1684269?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1684269?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
