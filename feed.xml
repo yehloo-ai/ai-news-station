@@ -5,8 +5,64 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 17:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:37:20 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名</title>
+      <link>https://x.com/arena/status/2110465487914295770</link>
+      <description>Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。</description>
+      <pubDate>Wed, 14 Oct 2026 20:19:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2110465487914295770</guid>
+      <source url="https://x.com/arena/status/2110465487914295770">X：Arena (@arena)</source>
+    </item>
+    <item>
+      <title>人工智能赛又开始了</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</link>
+      <description>上星期,Anthropic和OpenAI看起来像他们自己拥有了人工智能竞赛,在日益强大的模型上拉了下来,这些模型将对手留在了尘埃中。 Google似乎毫无希望地远远落在后面,而Meta尽管花费了数十亿美元来重振其虚弱的人工智能野心,但还没有建立起来。</description>
+      <pubDate>Wed, 14 Oct 2026 15:06:03 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on">The Verge AI</source>
+    </item>
+    <item>
+      <title>40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据</title>
+      <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
+      <description>纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。</description>
+      <pubDate>Wed, 14 Oct 2026 18:47:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</guid>
+      <source url="https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>YouTube在人工智能生成的歌曲上贴出新的标签</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label</link>
+      <description>YouTube is adding a "Made with AI" label to tracks that were "altered or fully generated" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it [&amp;#</description>
+      <pubDate>Wed, 14 Oct 2026 14:22:56 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label">The Verge AI</source>
+    </item>
+    <item>
+      <title>和ChatGPT一起做餐饮生意</title>
+      <link>https://www.youtube.com/shorts/PZxbaIp8PzE</link>
+      <description>经营一家餐厅是全天候的承诺。 显然,寻找餐饮客户同样费时。 Nick Baumann在多伦多的@thedumplingprince 拜访了 Richard , 让 ChatGPT 在餐饮甲板上工作, 并自动进行推广。 它没有围裙。</description>
+      <pubDate>Wed, 14 Oct 2026 17:47:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/PZxbaIp8PzE</guid>
+      <source url="https://www.youtube.com/shorts/PZxbaIp8PzE">OpenAI</source>
+    </item>
+    <item>
+      <title>Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜</title>
+      <link>https://x.com/ArtificialAnlys/status/2110421964095713743</link>
+      <description>Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。</description>
+      <pubDate>Wed, 14 Oct 2026 17:26:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2110421964095713743</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2110421964095713743">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
+    <item>
+      <title>LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口</title>
+      <link>https://www.langchain.com/blog/context-engineering-deep-agents-remember</link>
+      <description>LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。</description>
+      <pubDate>Wed, 14 Oct 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.langchain.com/blog/context-engineering-deep-agents-remember</guid>
+      <source url="https://www.langchain.com/blog/context-engineering-deep-agents-remember">LangChain：Blog（RSS）</source>
+    </item>
     <item>
       <title>我的人工智能二重身告诉我该吃什么</title>
       <link>https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</link>
@@ -110,62 +166,6 @@
       <pubDate>Wed, 14 Oct 2026 06:10:14 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1684269?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1684269?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地</title>
-      <link>https://www.qbitai.com/2026/10/503173.html</link>
-      <description>从“懂空间”到“能干活”</description>
-      <pubDate>Wed, 14 Oct 2026 04:09:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503173.html</guid>
-      <source url="https://www.qbitai.com/2026/10/503173.html">量子位</source>
-    </item>
-    <item>
-      <title>响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent</title>
-      <link>https://www.qbitai.com/2026/10/503165.html</link>
-      <description>10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent</description>
-      <pubDate>Wed, 14 Oct 2026 03:32:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503165.html</guid>
-      <source url="https://www.qbitai.com/2026/10/503165.html">量子位</source>
-    </item>
-    <item>
-      <title>Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励</title>
-      <link>https://x.com/rohanpaul_ai/status/2110203596948353155</link>
-      <description>Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。</description>
-      <pubDate>Wed, 14 Oct 2026 02:58:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2110203596948353155</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2110203596948353155">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌﻿⁡⁤⁡⁣⁡⁤﻿​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家</title>
-      <link>https://www.ifanr.com/1684241?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>哈基米终于支棱起来了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 14 Oct 2026 02:56:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1684241?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1684241?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>企业微信和 WorkBuddy 组了个「王炸局」，AI 终于不用人伺候了</title>
-      <link>https://www.ifanr.com/1684200?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>原地升级的 AI 办公#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 14 Oct 2026 02:30:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1684200?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1684200?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！</title>
-      <link>https://www.qbitai.com/2026/10/503157.html</link>
-      <description>一次采集，反复使用</description>
-      <pubDate>Wed, 14 Oct 2026 02:14:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503157.html</guid>
-      <source url="https://www.qbitai.com/2026/10/503157.html">量子位</source>
-    </item>
-    <item>
-      <title>Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra</title>
-      <link>https://x.com/Khazix0918/status/2110174495420064055</link>
-      <description>Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。</description>
-      <pubDate>Wed, 14 Oct 2026 01:02:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Khazix0918/status/2110174495420064055</guid>
-      <source url="https://x.com/Khazix0918/status/2110174495420064055">X：卡兹克 (@Khazix0918)</source>
     </item>
   </channel>
 </rss>
