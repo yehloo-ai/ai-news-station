@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:06:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:43:46 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Oracle 如何使用代码x帮助企业用户获得答案</title>
+      <link>https://www.youtube.com/shorts/DTcK95TAZ-k</link>
+      <description>Oracle应用实验室的副总裁Richard Lam分享了团队如何使用Codex帮助企业用户从公司数据中获取答案。 通过描述他们想要的结果,用户可以得到分析,报告,或者应用程序,由Codex从内部系统收集信息.</description>
+      <pubDate>Wed, 14 Oct 2026 09:35:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/DTcK95TAZ-k</guid>
+      <source url="https://www.youtube.com/shorts/DTcK95TAZ-k">OpenAI</source>
+    </item>
+    <item>
+      <title>STEPX首款大模型原生智能体手机STEPX Neo正式发布</title>
+      <link>https://www.qbitai.com/2026/10/503201.html</link>
+      <description>2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布</description>
+      <pubDate>Wed, 14 Oct 2026 06:45:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503201.html</guid>
+      <source url="https://www.qbitai.com/2026/10/503201.html">量子位</source>
+    </item>
+    <item>
+      <title>刚刚，Anthropic 宣布弃用Git，统治编程20年的工具顶不住AI了</title>
+      <link>https://www.ifanr.com/1684269?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>以 AI 发展速度，一年后我们又该弃用 Scion#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 14 Oct 2026 06:10:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1684269?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1684269?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地</title>
       <link>https://www.qbitai.com/2026/10/503173.html</link>
@@ -112,6 +136,14 @@
       <source url="https://x.com/arena/status/2110120205464846828">X：Arena (@arena)</source>
     </item>
     <item>
+      <title>与您的团队在 ChatGPT 空间合作</title>
+      <link>https://www.youtube.com/watch?v=G-9Y2xNiDKQ</link>
+      <description>探索与人和ChatGPT合作的共享场所. See Space如何将对话,上下文和协作工作结合起来.</description>
+      <pubDate>Tue, 13 Oct 2026 21:01:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=G-9Y2xNiDKQ</guid>
+      <source url="https://www.youtube.com/watch?v=G-9Y2xNiDKQ">OpenAI</source>
+    </item>
+    <item>
       <title>OpenAI雇员因据称在会议室放窃听器而被捕</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
       <description>一名OpenAI工程师在公司说发现一个隐藏在公司某办公室的"精密录音设备"后被捕,该雇员被指为35岁的沙特国民Abdulrahman Alfozan,Alfozan被指控使用或试图使用一个设备来截取口腔口音。</description>
@@ -134,38 +166,6 @@
       <pubDate>Tue, 13 Oct 2026 19:48:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/OpenAINewsroom/status/2110095403198849132</guid>
       <source url="https://x.com/OpenAINewsroom/status/2110095403198849132">X：OpenAI Newsroom (@OpenAINewsroom)</source>
-    </item>
-    <item>
-      <title>{\fnSIMHEI\fs22\1cHFFFFFF\3cHFF8000}把目录打开 {\fnSIMHEI\fs22\1cHFFFFFF\3cHFF8000}给更多的人工智能特工</title>
-      <link>https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</link>
-      <description>更多的人工智能特工将很快能够浏览和从Shopify上市购买,这标志着公司智能体业野心的扩张。 Shopify宣布,星期二将让购物商配置其人工智能特工代表他们购买产品,使更多的特工能够接触到超过十亿的商品。</description>
-      <pubDate>Tue, 13 Oct 2026 15:42:42 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</guid>
-      <source url="https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents">The Verge AI</source>
-    </item>
-    <item>
-      <title>ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR</title>
-      <link>https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling</link>
-      <description>NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。</description>
-      <pubDate>Tue, 13 Oct 2026 19:41:39 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling</guid>
-      <source url="https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling">Comfy Blog</source>
-    </item>
-    <item>
-      <title>Xbox 正式拥抱人工智能驱动游戏端口的混乱</title>
-      <link>https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration</link>
-      <description>反相游戏正在经历一个疯狂的时刻,这得益于编译和再编译,让游戏家将经典标题移植到新设备上,或者将两个不同游戏的代码合并到一个单一的新体验中。 微软见证了滑板被嵌入到使命召唤中。</description>
-      <pubDate>Tue, 13 Oct 2026 15:00:48 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration</guid>
-      <source url="https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration">The Verge AI</source>
-    </item>
-    <item>
-      <title>以 OpenAI 屏蔽搜索和修复安全风险</title>
-      <link>https://www.youtube.com/shorts/9aDuSpVoB-Y</link>
-      <description>“现在你知道了,现在你可以在别人知道之前就采取行动。 ”你代码中的弱点可以成为更大攻击的一部分。 看看这些弱点如何联系维权者,就能更清楚地了解行动地点。 布洛克的首席信息安全官詹姆斯·内特斯海姆(James Nettesheim)分享OpenAI如何操作。</description>
-      <pubDate>Tue, 13 Oct 2026 18:02:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/9aDuSpVoB-Y</guid>
-      <source url="https://www.youtube.com/shorts/9aDuSpVoB-Y">OpenAI</source>
     </item>
   </channel>
 </rss>
