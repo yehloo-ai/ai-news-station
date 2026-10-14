@@ -5,15 +5,47 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 21:11:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:09:23 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI雇员因据称在会议室放窃听器而被捕</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
-      <description>OpenAI工程师在公司说发现隐藏在公司某处的"精密录音设备"后被捕. 该名雇员,35岁的Abdulrahman Alfozan被指控使用或试图使用一个设备来截取口头通信,据The Sa的一份报告称.</description>
-      <pubDate>Tue, 13 Oct 2026 16:45:25 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device">The Verge AI</source>
+      <title>超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线</title>
+      <link>http://www.geekpark.net/news/372304</link>
+      <description>谷歌最强 AI 模型：Gemini 4 Argon 上线，输出词元上限 100 万个、专攻最棘手难题 10 月 14 日消息，Gemini 4 Argon现已面向全球开发者和企业开放，可通过 AI Studio、 Gemini 平台 API 使用，同时支持 Google Antigravity 的 Google AI Ultra 订阅用户，以及 Gemini 应用和搜索 AI 模式的 Google AI Ultra 和 Pro 订阅用户。 该模型目前限时入门定价如下，2026 年 11 月 30 日入门促销结束后价格会翻倍： 输入：每百万 Tokens 2 美元 输出：每百万 Tokens 1</description>
+      <pubDate>Wed, 14 Oct 2026 08:28:51 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372304</guid>
+      <source url="http://www.geekpark.net/news/372304">极客公园</source>
+    </item>
+    <item>
+      <title>早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布</title>
+      <link>https://www.ifanr.com/1684137?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 字节跳动成立模型安全部门，负责人直接向吴永辉汇报 · Visa 获批筹备中国境内银行卡清算机构 · 星尘智能完成 10 亿元融资，估值达 150 亿元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 14 Oct 2026 00:08:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1684137?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1684137?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e</link>
+      <description>Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。</description>
+      <pubDate>Tue, 13 Oct 2026 22:56:51 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析</title>
+      <link>https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/</link>
+      <description>Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。</description>
+      <pubDate>Tue, 13 Oct 2026 22:00:40 +0000</pubDate>
+      <guid isPermaLink="true">https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/</guid>
+      <source url="https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/">Johann Rehberger / Embrace The Red（RSS）</source>
+    </item>
+    <item>
+      <title>Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2</title>
+      <link>https://x.com/arena/status/2110120205464846828</link>
+      <description>Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。</description>
+      <pubDate>Tue, 13 Oct 2026 21:27:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2110120205464846828</guid>
+      <source url="https://x.com/arena/status/2110120205464846828">X：Arena (@arena)</source>
     </item>
     <item>
       <title>Character.ai 破产文件显示 AI 商业模式难以为继</title>
@@ -30,14 +62,6 @@
       <pubDate>Tue, 13 Oct 2026 19:48:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/OpenAINewsroom/status/2110095403198849132</guid>
       <source url="https://x.com/OpenAINewsroom/status/2110095403198849132">X：OpenAI Newsroom (@OpenAINewsroom)</source>
-    </item>
-    <item>
-      <title>{\fnSIMHEI\fs22\1cHFFFFFF\3cHFF8000}把目录打开 {\fnSIMHEI\fs22\1cHFFFFFF\3cHFF8000}给更多的人工智能特工</title>
-      <link>https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</link>
-      <description>更多的人工智能特工将很快能够浏览和从Shopify上市购买,这标志着公司智能体业野心的扩张。 Shopify宣布,星期二将让购物商配置其人工智能特工代表他们购买产品,使更多的特工能够接触到超过十亿的商品。</description>
-      <pubDate>Tue, 13 Oct 2026 15:42:42 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</guid>
-      <source url="https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents">The Verge AI</source>
     </item>
     <item>
       <title>ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR</title>
@@ -142,30 +166,6 @@
       <pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</guid>
       <source url="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/">Google Blog：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Google终于发布了双子座4 Argon</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon</link>
-      <description>数月后,Google在边疆人工智能赛跑的外围赛中坐了数月后,终于推出了期待已久的双子座4Argon模式,声称它可以与业界提供的最佳模式竞争. Google说,Argon提供"跨复杂工作流程的前沿推理和更好的性能",而Google则称:</description>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon">The Verge AI</source>
-    </item>
-    <item>
-      <title>教人造机器人和双子座4Argon玩玉米洞</title>
-      <link>https://www.youtube.com/watch?v=9PICEmtfpWU</link>
-      <description>在一次内部测试中,Google DeepMind机器人研究者指示双子座4 Argon观看一个人类打玉米洞的视频. 双子座4利用其视频理解和先进的推理能力,在MuJoCo建立了虚拟模拟,并精确地计算了物理和全身凸起.</description>
-      <pubDate>Tue, 13 Oct 2026 15:58:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=9PICEmtfpWU</guid>
-      <source url="https://www.youtube.com/watch?v=9PICEmtfpWU">DeepMind</source>
-    </item>
-    <item>
-      <title>解开双子座500页的化学专利 4</title>
-      <link>https://www.youtube.com/watch?v=9jQA7IgPhBE</link>
-      <description>审计化学文献通常意味着几周的人工读取,容易出错,分子的结构可以比实验读取多出50页。 在Isomorphic Labs,研究人员Brian Bender和Santosh Adhikari正在利用双子座4 Argon的多模式能力来帮助解决这一问题。</description>
-      <pubDate>Tue, 13 Oct 2026 15:58:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=9jQA7IgPhBE</guid>
-      <source url="https://www.youtube.com/watch?v=9jQA7IgPhBE">DeepMind</source>
     </item>
   </channel>
 </rss>
