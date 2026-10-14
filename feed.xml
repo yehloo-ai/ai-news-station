@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 01:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:06:37 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地</title>
+      <link>https://www.qbitai.com/2026/10/503173.html</link>
+      <description>从“懂空间”到“能干活”</description>
+      <pubDate>Wed, 14 Oct 2026 04:09:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503173.html</guid>
+      <source url="https://www.qbitai.com/2026/10/503173.html">量子位</source>
+    </item>
+    <item>
+      <title>响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent</title>
+      <link>https://www.qbitai.com/2026/10/503165.html</link>
+      <description>10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent</description>
+      <pubDate>Wed, 14 Oct 2026 03:32:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503165.html</guid>
+      <source url="https://www.qbitai.com/2026/10/503165.html">量子位</source>
+    </item>
+    <item>
+      <title>Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励</title>
+      <link>https://x.com/rohanpaul_ai/status/2110203596948353155</link>
+      <description>Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。</description>
+      <pubDate>Wed, 14 Oct 2026 02:58:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2110203596948353155</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2110203596948353155">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌﻿⁡⁤⁡⁣⁡⁤﻿​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家</title>
+      <link>https://www.ifanr.com/1684241?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>哈基米终于支棱起来了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 14 Oct 2026 02:56:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1684241?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1684241?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>企业微信和 WorkBuddy 组了个「王炸局」，AI 终于不用人伺候了</title>
+      <link>https://www.ifanr.com/1684200?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>原地升级的 AI 办公#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 14 Oct 2026 02:30:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1684200?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1684200?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！</title>
+      <link>https://www.qbitai.com/2026/10/503157.html</link>
+      <description>一次采集，反复使用</description>
+      <pubDate>Wed, 14 Oct 2026 02:14:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503157.html</guid>
+      <source url="https://www.qbitai.com/2026/10/503157.html">量子位</source>
+    </item>
+    <item>
+      <title>Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra</title>
+      <link>https://x.com/Khazix0918/status/2110174495420064055</link>
+      <description>Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。</description>
+      <pubDate>Wed, 14 Oct 2026 01:02:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Khazix0918/status/2110174495420064055</guid>
+      <source url="https://x.com/Khazix0918/status/2110174495420064055">X：卡兹克 (@Khazix0918)</source>
+    </item>
+    <item>
+      <title>派早报：Apple 发布 HomePod mini 2、HomeView 等新品</title>
+      <link>https://sspai.com/post/116138</link>
+      <description>Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文</description>
+      <pubDate>Wed, 14 Oct 2026 08:40:39 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/116138</guid>
+      <source url="https://sspai.com/post/116138">少数派</source>
+    </item>
     <item>
       <title>超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线</title>
       <link>http://www.geekpark.net/news/372304</link>
@@ -48,6 +112,14 @@
       <source url="https://x.com/arena/status/2110120205464846828">X：Arena (@arena)</source>
     </item>
     <item>
+      <title>OpenAI雇员因据称在会议室放窃听器而被捕</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
+      <description>一名OpenAI工程师在公司说发现一个隐藏在公司某办公室的"精密录音设备"后被捕,该雇员被指为35岁的沙特国民Abdulrahman Alfozan,Alfozan被指控使用或试图使用一个设备来截取口腔口音。</description>
+      <pubDate>Tue, 13 Oct 2026 16:45:25 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device">The Verge AI</source>
+    </item>
+    <item>
       <title>Character.ai 破产文件显示 AI 商业模式难以为继</title>
       <link>https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/</link>
       <description>Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。</description>
@@ -64,20 +136,20 @@
       <source url="https://x.com/OpenAINewsroom/status/2110095403198849132">X：OpenAI Newsroom (@OpenAINewsroom)</source>
     </item>
     <item>
+      <title>{\fnSIMHEI\fs22\1cHFFFFFF\3cHFF8000}把目录打开 {\fnSIMHEI\fs22\1cHFFFFFF\3cHFF8000}给更多的人工智能特工</title>
+      <link>https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</link>
+      <description>更多的人工智能特工将很快能够浏览和从Shopify上市购买,这标志着公司智能体业野心的扩张。 Shopify宣布,星期二将让购物商配置其人工智能特工代表他们购买产品,使更多的特工能够接触到超过十亿的商品。</description>
+      <pubDate>Tue, 13 Oct 2026 15:42:42 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</guid>
+      <source url="https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents">The Verge AI</source>
+    </item>
+    <item>
       <title>ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR</title>
       <link>https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling</link>
       <description>NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。</description>
       <pubDate>Tue, 13 Oct 2026 19:41:39 +0000</pubDate>
       <guid isPermaLink="true">https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling</guid>
       <source url="https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling">Comfy Blog</source>
-    </item>
-    <item>
-      <title>XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金</title>
-      <link>https://x.com/reach_vb/status/2110086935733833893</link>
-      <description>XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。受影响范围为 Windows 上的 Chrome，作者称过去类似漏洞需约 6 个月构建，并提醒用户在出现 Update 按钮时及时重启 Chrome。</description>
-      <pubDate>Tue, 13 Oct 2026 19:15:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/reach_vb/status/2110086935733833893</guid>
-      <source url="https://x.com/reach_vb/status/2110086935733833893">X：Vaibhav Srivastav（OpenAI）(@reach_vb)</source>
     </item>
     <item>
       <title>Xbox 正式拥抱人工智能驱动游戏端口的混乱</title>
@@ -94,78 +166,6 @@
       <pubDate>Tue, 13 Oct 2026 18:02:20 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/shorts/9aDuSpVoB-Y</guid>
       <source url="https://www.youtube.com/shorts/9aDuSpVoB-Y">OpenAI</source>
-    </item>
-    <item>
-      <title>Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%</title>
-      <link>https://x.com/ArtificialAnlys/status/2110068185793970576</link>
-      <description>Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。</description>
-      <pubDate>Tue, 13 Oct 2026 18:00:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2110068185793970576</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2110068185793970576">X：Artificial Analysis (@ArtificialAnlys)</source>
-    </item>
-    <item>
-      <title>以 OpenAI 屏蔽搜索和修复安全风险</title>
-      <link>https://www.youtube.com/watch?v=N6K_pxaAh0w</link>
-      <description>“现在你知道了,现在你可以在别人知道之前就采取行动。 ”你代码中的弱点可以成为更大攻击的一部分。 看看这些弱点如何联系维权者,就能更清楚地了解行动地点。 布洛克的首席信息安全官詹姆斯·内特斯海姆(James Nettesheim)分享OpenAI如何操作。</description>
-      <pubDate>Tue, 13 Oct 2026 17:59:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=N6K_pxaAh0w</guid>
-      <source url="https://www.youtube.com/watch?v=N6K_pxaAh0w">OpenAI</source>
-    </item>
-    <item>
-      <title>Facebook会让您使用人工智能自定义您的反馈算法</title>
-      <link>https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai</link>
-      <description>Facebook 的新“ 您的算法” 功能将允许您直接添加和管理您想要在您的 feed 和 Facebook Reels 中看到的主题。 Meta 在您使用新功能进行更新后, 使用“ 感兴趣的” 或“ 不感兴趣的” 为不同主题点击“ 立即” 后, Meta 表示您的建议“ 响应 ” 。</description>
-      <pubDate>Tue, 13 Oct 2026 13:01:31 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai</guid>
-      <source url="https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai">The Verge AI</source>
-    </item>
-    <item>
-      <title>Google 可以更容易地推出你的气温编码应用软件</title>
-      <link>https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</link>
-      <description>下次你用Google的人工智能工作室对定制应用程序进行气温编码时,你不需要将手机连接到计算机上就可以安装. 星期二,Google在美国宣布了一个新的功能,允许您直接通过Play Store推出个人应用程序. Google首先推出了v的能力.</description>
-      <pubDate>Tue, 13 Oct 2026 13:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</guid>
-      <source url="https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch">The Verge AI</source>
-    </item>
-    <item>
-      <title>女演员米娅·哥特(Mia Goth)说,Instagram允许一个人工智能形象传播,这‘令人无法理解'。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce</link>
-      <description>本月早些时候,有消息称,女演员米娅·哥特(Mia Goth)曾向演员和电影制片人什叶派·拉比夫(Shia LaBeouf)提出离婚。一个来自账户miagoth_的Instagram帖子 — 上面标有蓝色的经证实的支票标记 — 迅速传播。该帖子在T恤上显示哥特,上面写着"MY EX IS My BIGGEST FAN",用黑体黑字写道:</description>
-      <pubDate>Tue, 13 Oct 2026 12:42:51 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce">The Verge AI</source>
-    </item>
-    <item>
-      <title>应用双子座 4 进行Chromium 的大型密码库维护</title>
-      <link>https://www.youtube.com/watch?v=LVEfFyijQ2c</link>
-      <description>Chromium 代码库有上百万行的长而数十年的历史。 过去,与之合作意味着导航数十个被缠绕的地物,在那里触摸一个组件会出乎意料地影响另一个部件。 谷歌工程师陈克正利用双子座4 Argon来“缠绕”建筑。</description>
-      <pubDate>Tue, 13 Oct 2026 16:38:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=LVEfFyijQ2c</guid>
-      <source url="https://www.youtube.com/watch?v=LVEfFyijQ2c">DeepMind</source>
-    </item>
-    <item>
-      <title>利用双子座4 Argon来防范网络攻击者</title>
-      <link>https://www.youtube.com/watch?v=ftkic7Tdpcg</link>
-      <description>在对现实世界系统的影子A/B测试中,Wiz安全研究者将双子座4 Argon置于复杂的网络威胁的测试之下。 双子座4 Argon利用其先进的推理和长视距能力发现比基线模型多出2倍以上的弱点并成功发现cri</description>
-      <pubDate>Tue, 13 Oct 2026 16:38:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=ftkic7Tdpcg</guid>
-      <source url="https://www.youtube.com/watch?v=ftkic7Tdpcg">DeepMind</source>
-    </item>
-    <item>
-      <title>Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter</title>
-      <link>https://x.com/OpenRouter/status/2110044453977403412</link>
-      <description>Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon</description>
-      <pubDate>Tue, 13 Oct 2026 16:26:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenRouter/status/2110044453977403412</guid>
-      <source url="https://x.com/OpenRouter/status/2110044453977403412">X：OpenRouter (@OpenRouter)</source>
-    </item>
-    <item>
-      <title>Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
-      <description>Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。</description>
-      <pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</guid>
-      <source url="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/">Google Blog：AI（RSS）</source>
     </item>
   </channel>
 </rss>
