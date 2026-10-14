@@ -334,5 +334,13 @@
     "sourceUrl": "https://www.a16z.news/p/investing-in-typesafe",
     "sourceName": "a16z：News（RSS）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市",
+    "summary": "NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。",
+    "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+    "sourceName": "NVIDIA Blog（RSS）",
+    "reviewReason": "awaiting-review"
   }
 ]

@@ -654,5 +654,29 @@
     "sourceUrl": "https://artificialanalysis.ai/articles/muse-wonder",
     "sourceName": "Artificial Analysis 完整文章（网页）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+    "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
+    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "sourceName": "Google Blog：AI（RSS）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
+    "summary": "面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a",
+    "sourceName": "公众号：面壁智能（MiniCPM）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Liquid AI 发布 LFM2.5-24B-A2B 端侧推理模型",
+    "summary": "Liquid AI 发布开源权重模型 LFM2.5-24B-A2B，总参数 24B、每 token 激活 2B，定位端侧快速智能体。",
+    "sourceUrl": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "sourceName": "Liquid AI 模型与工程博客（网页）",
+    "reviewReason": "awaiting-review"
   }
 ]
