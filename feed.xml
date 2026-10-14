@@ -5,8 +5,88 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:43:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:03:41 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>我的人工智能二重身告诉我该吃什么</title>
+      <link>https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</link>
+      <description>这是Optimizer, Verge高级评论员Victoria Song发来的每周通讯, 解析并讨论最新的gizmos和药剂, 他们发誓要改变你的生活。 选择Opt in for Optimizer here. 在过去的100天左右,我的早晨有了新的节奏。当我醒来时,</description>
+      <pubDate>Wed, 14 Oct 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</guid>
+      <source url="https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI声称一名前雇员拿走了自己的产品计划,并将其提交给苹果公司。</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</link>
+      <description>OpenAI声称,一名前员工在加入苹果公司之前,已经拿走了100多份与其产品计划相关的文件. OpenAI在星期三提交的一份文件中指责该未名员工将这一信息发送给个人账户,然后将其提交苹果公司领导层,包括副总裁.</description>
+      <pubDate>Wed, 14 Oct 2026 12:43:24 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans">The Verge AI</source>
+    </item>
+    <item>
+      <title>微软有一个新的机器学习工具来改进天气预报</title>
+      <link>https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</link>
+      <description>基于古老物理学的天气预报,甚至新的人工智能模型通常在两周后变得不那么可靠,这个问题微软声称已经通过机器学习解决了. 公司研究人员说,他们已经找到一种新的,成本效益高的方法,使天气预报更准确2个.</description>
+      <pubDate>Wed, 14 Oct 2026 12:05:21 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</guid>
+      <source url="https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft">The Verge AI</source>
+    </item>
+    <item>
+      <title>Square的新亭子让你和人工智能交谈 帮助你订购</title>
+      <link>https://www.theverge.com/tech/1009086/square-kiosk</link>
+      <description>Square正在推出新的硬件:一个大亭,用于订购有触摸屏的东西,让你与人工智能交谈. Square Kiosk. Square说,Kiosk具有很大的药片形状,具有"代理性,对话性的声音层","完全理解卖家的菜单并倾听,......</description>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1009086/square-kiosk</guid>
+      <source url="https://www.theverge.com/tech/1009086/square-kiosk">The Verge AI</source>
+    </item>
+    <item>
+      <title>Android正在使用人工智能在Google Messages中消灭骗子</title>
+      <link>https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages</link>
+      <description>Android正在引入新的骗局防御功能,目的是让用户更容易逃避移动欺诈,包括Google Messages中强化的保护以及额外的保护工具. 基于Google Messages中的Scam检测功能,一个新的"强化保护"设置将会是rol.</description>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages</guid>
+      <source url="https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic自我复制的人工智能警告令人震惊</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk</link>
+      <description>智能设备 — — 冰箱、烤箱、吸尘器、草坪、安全摄像头和电视 — — 是否密谋接管互联网? 不。 但他们可能很快会无意中成为自动复制人工智能模型的东道主,这些模型从设备到设备都传播开来,并被证明非常难以控制。</description>
+      <pubDate>Wed, 14 Oct 2026 11:19:02 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk">The Verge AI</source>
+    </item>
+    <item>
+      <title>MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍</title>
+      <link>https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014</link>
+      <description>MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。</description>
+      <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014</guid>
+      <source url="https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014">MIT News（RSS）</source>
+    </item>
+    <item>
+      <title>Epic的新游戏推出器是“vibe编码”</title>
+      <link>https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux</link>
+      <description>Epic Games今天在预览版中宣布对其PC游戏发布器进行大幅刷新,称新版本"速度更快",现在支持Linux. 但一直公开大力推动人工智能辅助开发的公司也注意到刷新版是"vibe编码的". Programming is.</description>
+      <pubDate>Wed, 14 Oct 2026 09:55:02 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux</guid>
+      <source url="https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux">The Verge AI</source>
+    </item>
+    <item>
+      <title>Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO</title>
+      <link>https://lovable.dev/blog/introducing-growth-tools</link>
+      <description>Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。</description>
+      <pubDate>Wed, 14 Oct 2026 12:50:00 +0000</pubDate>
+      <guid isPermaLink="true">https://lovable.dev/blog/introducing-growth-tools</guid>
+      <source url="https://lovable.dev/blog/introducing-growth-tools">Lovable Blog</source>
+    </item>
+    <item>
+      <title>苹果 HomeView 上手汇总：「果家」首秀小惊艳，SiriAI 很聪明</title>
+      <link>https://www.ifanr.com/1684341?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>苹果 AI 终于有「家」了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 14 Oct 2026 12:35:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1684341?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1684341?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>Oracle 如何使用代码x帮助企业用户获得答案</title>
       <link>https://www.youtube.com/shorts/DTcK95TAZ-k</link>
@@ -86,86 +166,6 @@
       <pubDate>Wed, 14 Oct 2026 01:02:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Khazix0918/status/2110174495420064055</guid>
       <source url="https://x.com/Khazix0918/status/2110174495420064055">X：卡兹克 (@Khazix0918)</source>
-    </item>
-    <item>
-      <title>派早报：Apple 发布 HomePod mini 2、HomeView 等新品</title>
-      <link>https://sspai.com/post/116138</link>
-      <description>Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文</description>
-      <pubDate>Wed, 14 Oct 2026 08:40:39 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/116138</guid>
-      <source url="https://sspai.com/post/116138">少数派</source>
-    </item>
-    <item>
-      <title>超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线</title>
-      <link>http://www.geekpark.net/news/372304</link>
-      <description>谷歌最强 AI 模型：Gemini 4 Argon 上线，输出词元上限 100 万个、专攻最棘手难题 10 月 14 日消息，Gemini 4 Argon现已面向全球开发者和企业开放，可通过 AI Studio、 Gemini 平台 API 使用，同时支持 Google Antigravity 的 Google AI Ultra 订阅用户，以及 Gemini 应用和搜索 AI 模式的 Google AI Ultra 和 Pro 订阅用户。 该模型目前限时入门定价如下，2026 年 11 月 30 日入门促销结束后价格会翻倍： 输入：每百万 Tokens 2 美元 输出：每百万 Tokens 1</description>
-      <pubDate>Wed, 14 Oct 2026 08:28:51 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372304</guid>
-      <source url="http://www.geekpark.net/news/372304">极客公园</source>
-    </item>
-    <item>
-      <title>早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布</title>
-      <link>https://www.ifanr.com/1684137?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 字节跳动成立模型安全部门，负责人直接向吴永辉汇报 · Visa 获批筹备中国境内银行卡清算机构 · 星尘智能完成 10 亿元融资，估值达 150 亿元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 14 Oct 2026 00:08:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1684137?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1684137?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e</link>
-      <description>Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。</description>
-      <pubDate>Tue, 13 Oct 2026 22:56:51 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687032&amp;idx=1&amp;sn=c5368ed503c4b529ee3946cce017543e">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析</title>
-      <link>https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/</link>
-      <description>Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。</description>
-      <pubDate>Tue, 13 Oct 2026 22:00:40 +0000</pubDate>
-      <guid isPermaLink="true">https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/</guid>
-      <source url="https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/">Johann Rehberger / Embrace The Red（RSS）</source>
-    </item>
-    <item>
-      <title>Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2</title>
-      <link>https://x.com/arena/status/2110120205464846828</link>
-      <description>Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。</description>
-      <pubDate>Tue, 13 Oct 2026 21:27:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2110120205464846828</guid>
-      <source url="https://x.com/arena/status/2110120205464846828">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>与您的团队在 ChatGPT 空间合作</title>
-      <link>https://www.youtube.com/watch?v=G-9Y2xNiDKQ</link>
-      <description>探索与人和ChatGPT合作的共享场所. See Space如何将对话,上下文和协作工作结合起来.</description>
-      <pubDate>Tue, 13 Oct 2026 21:01:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=G-9Y2xNiDKQ</guid>
-      <source url="https://www.youtube.com/watch?v=G-9Y2xNiDKQ">OpenAI</source>
-    </item>
-    <item>
-      <title>OpenAI雇员因据称在会议室放窃听器而被捕</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
-      <description>一名OpenAI工程师在公司说发现一个隐藏在公司某办公室的"精密录音设备"后被捕,该雇员被指为35岁的沙特国民Abdulrahman Alfozan,Alfozan被指控使用或试图使用一个设备来截取口腔口音。</description>
-      <pubDate>Tue, 13 Oct 2026 16:45:25 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device">The Verge AI</source>
-    </item>
-    <item>
-      <title>Character.ai 破产文件显示 AI 商业模式难以为继</title>
-      <link>https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/</link>
-      <description>Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。</description>
-      <pubDate>Tue, 13 Oct 2026 20:06:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/</guid>
-      <source url="https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/">404 Media（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI 办公室发现窃密录音装置，涉事员工被捕</title>
-      <link>https://x.com/OpenAINewsroom/status/2110095403198849132</link>
-      <description>OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。</description>
-      <pubDate>Tue, 13 Oct 2026 19:48:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenAINewsroom/status/2110095403198849132</guid>
-      <source url="https://x.com/OpenAINewsroom/status/2110095403198849132">X：OpenAI Newsroom (@OpenAINewsroom)</source>
     </item>
   </channel>
 </rss>
