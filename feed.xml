@@ -5,8 +5,112 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 09:48:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:54:25 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nvidia 的 RTX Spark 笔记本电脑的 Windows 是如何优化的</title>
+      <link>https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad</link>
+      <description>微软和Nvidia上周在旧金山举办了一波RTX Spark手提电脑的发布会,新一波人工智能个人电脑在人群和活泼的现场占据了中心位置. 媒体活动一天后,我被邀请参加更安静的Nvidia活动以听到[.].</description>
+      <pubDate>Thu, 15 Oct 2026 10:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad</guid>
+      <source url="https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad">The Verge AI</source>
+    </item>
+    <item>
+      <title>给现实世界按下复制键，禾赛做了一台「AI 空间相机」</title>
+      <link>https://www.ifanr.com/1684538?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>复刻一个「虚拟现实」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 15 Oct 2026 14:20:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1684538?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1684538?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>与OpenAI合作的网络安全研究周至小时:哨兵一号</title>
+      <link>https://www.youtube.com/shorts/3IVo-MNwk2I</link>
+      <description>网络安全研究,从几周发展到几小时。 Sentinel One的Gregor Stewart描述了OpenAI的网络能力,在大约8小时内,在逆向工程工作上达到人的水平,这需要一位顶尖的研究员4到6周的时间。 这样安全小组就可以调查更多的恶意软件,c</description>
+      <pubDate>Thu, 15 Oct 2026 14:13:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/3IVo-MNwk2I</guid>
+      <source url="https://www.youtube.com/shorts/3IVo-MNwk2I">OpenAI</source>
+    </item>
+    <item>
+      <title>与OpenAI合作的网络安全研究周至小时:哨兵一号</title>
+      <link>https://www.youtube.com/watch?v=BOTAeAU5ExQ</link>
+      <description>网络安全研究,从几周发展到几小时。 Sentinel One的Gregor Stewart描述了OpenAI的网络能力,在大约8小时内,在逆向工程工作上达到人的水平,这需要一位顶尖的研究员4到6周的时间。 这样安全小组就可以调查更多的恶意软件,c</description>
+      <pubDate>Thu, 15 Oct 2026 14:12:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=BOTAeAU5ExQ</guid>
+      <source url="https://www.youtube.com/watch?v=BOTAeAU5ExQ">OpenAI</source>
+    </item>
+    <item>
+      <title>Wallet Wars：AI 智能体支付之争的格局与走向</title>
+      <link>https://www.a16z.news/p/wallet-wars</link>
+      <description>Terry Angelos 分析智能体商业带来的支付竞争，指出两场战斗：谁帮智能体付款，以及谁让智能体以本人身份交易。</description>
+      <pubDate>Thu, 15 Oct 2026 14:08:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.a16z.news/p/wallet-wars</guid>
+      <source url="https://www.a16z.news/p/wallet-wars">a16z：News（RSS）</source>
+    </item>
+    <item>
+      <title>没人能免于名人人工智能的深层骗局</title>
+      <link>https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth</link>
+      <description>事后看来,Instagram上的文章应该竖起更多的红旗。 在演员和电影制片人Shia LaBeouf提出离婚申请几天后,这个形象就显示女演员Mia Goth在T恤里摆出一个尖口:MY EX是MY BIGGEST FAN。为了真正把重点带回家,这首歌就成了歌曲。</description>
+      <pubDate>Thu, 15 Oct 2026 10:03:42 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth</guid>
+      <source url="https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth">The Verge AI</source>
+    </item>
+    <item>
+      <title>StepFun 展示 Step 5 Preview 在 NVIDIA GB300 上的推理性能</title>
+      <link>https://x.com/StepFun_ai/status/2110732706518835353</link>
+      <description>StepFun 表示 Step 5 Preview 在 NVIDIA GB300 上推理表现出色，并期待看到开发者用它构建的应用。其转发的 NVIDIA 内容称该模型是 StepFun 最大的开源权重发布，600B MoE 架构，可处理最长 24 小时的 Agent 任务，在 GB300 上用 NVFP4 达到近 8K tokens/sec/GPU，提供 NVFP4 checkpoint（https://huggingface.co/stepfun-ai/Step-5-Preview-NVFP4），并支持 SGLang、vLLM、NeMo Automodel 后训练和 NVIDIA NIM 一</description>
+      <pubDate>Thu, 15 Oct 2026 14:01:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/StepFun_ai/status/2110732706518835353</guid>
+      <source url="https://x.com/StepFun_ai/status/2110732706518835353">X：阶跃星辰 StepFun (@StepFun_ai)</source>
+    </item>
+    <item>
+      <title>阶跃星辰开放 Step 5 Preview 权重</title>
+      <link>https://x.com/StepFun_ai/status/2110717330657616092</link>
+      <description>阶跃星辰（StepFun）宣布 Step 5 Preview 开放权重，BF16 和 FP8 权重已上线 Hugging Face 和 ModelScope，并附技术博客。</description>
+      <pubDate>Thu, 15 Oct 2026 13:00:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/StepFun_ai/status/2110717330657616092</guid>
+      <source url="https://x.com/StepFun_ai/status/2110717330657616092">X：阶跃星辰 StepFun (@StepFun_ai)</source>
+    </item>
+    <item>
+      <title>Google 在节假日前推出“通用”在线购物车</title>
+      <link>https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch</link>
+      <description>Google的智能人工智能购物车终于来了,正好能及时诱导用户进入"黑色星期五"和"季节性节假日支出". Google在5月的一O活动上预览的通用Cart工具Google现在在美国推出,横跨双子星应用和Google搜索,目的是让它变得易行.</description>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch</guid>
+      <source url="https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch">The Verge AI</source>
+    </item>
+    <item>
+      <title>Surface Laptop Ultra 首发体验：是最强 Windows 笔记本，也是 AI 时代的全能本</title>
+      <link>https://www.ifanr.com/1684442?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>纳德拉和老黄，能盘活 Windows on Arm 吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 15 Oct 2026 12:00:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1684442?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1684442?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>亚马逊总是喜欢养蜜蜂,现在可以帮你买东西了</title>
+      <link>https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs</link>
+      <description>去年,亚马逊公司收购了Bee公司,这是一个相对陌生的创业企业,拥有50美元常被收听的人工智能,它总结了你的每一次对话。 今天,电子商务巨头宣布了两台新的Bee设备,以及一台新的订阅机。 首先是74.99Bee Frontier公司,这是最新的版本。</description>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs</guid>
+      <source url="https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs">The Verge AI</source>
+    </item>
+    <item>
+      <title>The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持</title>
+      <link>https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</link>
+      <description>The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。</description>
+      <pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</guid>
+      <source url="https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调</title>
+      <link>https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/</link>
+      <description>Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。</description>
+      <pubDate>Thu, 15 Oct 2026 09:50:43 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/</guid>
+      <source url="https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/">The Decoder：AI News（RSS）</source>
+    </item>
     <item>
       <title>独家｜库克确认苹果国行 AI，10 月底上线测试版！</title>
       <link>https://www.ifanr.com/1684431?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -62,110 +166,6 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.14115</guid>
       <source url="https://arxiv.org/abs/2610.14115">ArXiv AI</source>
-    </item>
-    <item>
-      <title>ClawLoop:通过合理培训改进自我代理</title>
-      <link>https://arxiv.org/abs/2610.14118</link>
-      <description>大语言模型(LLMs)的迅速发展,促使其向通用的牵引环境的部署,在这种环境中,LLM的代理在沙盒工作空间中运作,并直接与文件系统和贝壳进行互动。</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.14118</guid>
-      <source url="https://arxiv.org/abs/2610.14118">ArXiv AI</source>
-    </item>
-    <item>
-      <title>传播模式的校正培训</title>
-      <link>https://arxiv.org/abs/2610.14136</link>
-      <description>在扩散模型中进行迭代采样可以导致因暴露偏差而产生误差积累。 脱欧者接受关于用噪音插入的真实图像的培训,但推断其输入来自早期的不完善预测。</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.14136</guid>
-      <source url="https://arxiv.org/abs/2610.14136">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Long-Horizon-Terminal-Bench 2.0:自动化多样化任务构建和衡量持续代理进度</title>
-      <link>https://arxiv.org/abs/2610.14146</link>
-      <description>Long-horison终端基准衡量一个代理机是否能够通过延长的工作流程来维持进程,而不仅仅衡量其最终状态是否通过二进制检查。我们提出Long-Horizon-Terminal-Bench 2.0(LHTB 2.0),一个扩展</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.14146</guid>
-      <source url="https://arxiv.org/abs/2610.14146">ArXiv AI</source>
-    </item>
-    <item>
-      <title>莲花:通过学习预测来了解时间序列</title>
-      <link>https://arxiv.org/abs/2610.18877</link>
-      <description>时间序列语言模型通常使用标签、标题或问答对等方式使数字信号与语言一致。虽然这种监督鼓励语言表达,但没有明确要求它们保存信息 a</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.18877</guid>
-      <source url="https://arxiv.org/abs/2610.18877">ArXiv ML</source>
-    </item>
-    <item>
-      <title>高效的后培训和从只回答数据中核实的反理性模式</title>
-      <link>https://arxiv.org/abs/2610.18878</link>
-      <description>培训后推理LLMS往往需要在成本高昂的监管和计算效率低下之间作出权衡:监督的微调通常需要推理痕迹,这缺乏数据效率,因为在许多应用中,只有一种应用具有即时性。</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.18878</guid>
-      <source url="https://arxiv.org/abs/2610.18878">ArXiv ML</source>
-    </item>
-    <item>
-      <title>将Vision CIL 方法转移至蛋白质吗? 冻蛋白编码器诊断基准</title>
-      <link>https://arxiv.org/abs/2610.18879</link>
-      <description>蛋白质函数注释在不断扩大的标签空间上运作,使类-增量学习(CIL)成为一个自然框架,在不进行全面再培训的情况下纳入新发现的功能。 然而,现有的CIL方法基本上已经开发出来。</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.18879</guid>
-      <source url="https://arxiv.org/abs/2610.18879">ArXiv ML</source>
-    </item>
-    <item>
-      <title>扰动预测器是否学习基因相互作用? 在代理筛选中诊断外推法</title>
-      <link>https://arxiv.org/abs/2610.18880</link>
-      <description>高通量扰动屏幕越来越多地使用机器学习模型来预测从未被测量的基因组合的影响。 当测试对中的两个基因在训练中被单独看到时,就出现了一个困难的情况,但是,在试验对中的两个基因都被单独看到。</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.18880</guid>
-      <source url="https://arxiv.org/abs/2610.18880">ArXiv ML</source>
-    </item>
-    <item>
-      <title>通过地方信托-区域优化实现策略分散的基建工具</title>
-      <link>https://arxiv.org/abs/2610.18883</link>
-      <description>策略蒸馏(OPD)的托肯选择方法(Token-seting methods for the political discription)将学生访问的位置放在优先位置,使用不同的信号,包括不确定性、师生分歧和不匹配的方向。 相反,我们从蒸馏(o)中获得了象征性的重要性。</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.18883</guid>
-      <source url="https://arxiv.org/abs/2610.18883">ArXiv ML</source>
-    </item>
-    <item>
-      <title>法律要求:培训语音代理机构,将债务收取管理程序转移到不明地点</title>
-      <link>https://arxiv.org/abs/2610.18881</link>
-      <description>以大型语言模型(LLMS)为基础的语音代理现在处理客户呼叫,但是在规范的应用程序中完成任务是不够的:代理必须遵循法律规定的对话流程。在债务收集中,它必须确认它正在向</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.18881</guid>
-      <source url="https://arxiv.org/abs/2610.18881">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>评估多种语言摘要的大型语言模型:英语和孟加拉语综合研究</title>
-      <link>https://arxiv.org/abs/2610.19003</link>
-      <description>抽象归纳在各语文中仍然具有挑战性,语言质量和事实一致性可能存在差异,特别是在资源低的环境下。</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.19003</guid>
-      <source url="https://arxiv.org/abs/2610.19003">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>LLMS能否为事件预测获得世界知识?</title>
-      <link>https://arxiv.org/abs/2610.19021</link>
-      <description>最近的工作质疑大型语言模型(LLMs)对时间事件预测是否有用。 尽管有大量预先训练过的世界知识,但LLMS往往没有很好地执行更简单的专业模型。我们询问,这种知识是否真的无法使用。</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.19021</guid>
-      <source url="https://arxiv.org/abs/2610.19021">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>高效长文本解码联合子空间分页关注</title>
-      <link>https://arxiv.org/abs/2610.19026</link>
-      <description>Sparse 注意会减少 KV- cache 流量, 控制长文本 LLM 解码, 但实用方法大多在粗细的颗粒性中运行。 Token 级别选择提供了更精细的控制, 但提出了两个挑战 : 低维评分可能会 lo</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.19026</guid>
-      <source url="https://arxiv.org/abs/2610.19026">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>跨越性别二进制:在科幻和一般小说中建立性别参考模型</title>
-      <link>https://arxiv.org/abs/2610.19028</link>
-      <description>科幻小说被广泛誉为令人不安的性别。 这篇文章问道,在语言层面,这是否可以轻易地将性别的提法让给对应的、中立的术语或其他社会类别,以及它是否分开。</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.19028</guid>
-      <source url="https://arxiv.org/abs/2610.19028">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
