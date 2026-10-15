@@ -5,8 +5,112 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 14:54:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:04:12 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GPT-Live-1.1有新的声音和更好的口音.</title>
+      <link>https://www.youtube.com/watch?v=GyO8Ao7yKJc</link>
+      <description>新的声音。 更好的口音。 少“ 检查... ” GPT- Live-1.1 将这些更新带给 ChatGPT、 Codex 和 点声, 并有法语、德语、印地语、墨西哥西班牙语、韩语和日语的新声音。 今天推出给所有用户。 很快会推出API 。</description>
+      <pubDate>Thu, 15 Oct 2026 18:24:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=GyO8Ao7yKJc</guid>
+      <source url="https://www.youtube.com/watch?v=GyO8Ao7yKJc">OpenAI</source>
+    </item>
+    <item>
+      <title>Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布</title>
+      <link>https://x.com/arena/status/2110797782953132049</link>
+      <description>Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测，评分即将公布。该模型为 816B 总参数、42B 激活参数，1M token 上下文窗口，原生多模态。</description>
+      <pubDate>Thu, 15 Oct 2026 18:19:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2110797782953132049</guid>
+      <source url="https://x.com/arena/status/2110797782953132049">X：Arena (@arena)</source>
+    </item>
+    <item>
+      <title>Meta 开放权重模型 Muse Spark Open 上架 OpenRouter</title>
+      <link>https://x.com/OpenRouter/status/2110793354154008685</link>
+      <description>Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。</description>
+      <pubDate>Thu, 15 Oct 2026 18:02:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenRouter/status/2110793354154008685</guid>
+      <source url="https://x.com/OpenRouter/status/2110793354154008685">X：OpenRouter (@OpenRouter)</source>
+    </item>
+    <item>
+      <title>Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE</title>
+      <link>https://x.com/AravSrinivas/status/2110785848958759165</link>
+      <description>Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。</description>
+      <pubDate>Thu, 15 Oct 2026 17:32:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AravSrinivas/status/2110785848958759165</guid>
+      <source url="https://x.com/AravSrinivas/status/2110785848958759165">X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)</source>
+    </item>
+    <item>
+      <title>Meta 发布开放权重模型 Muse Spark Open，上线 Baseten 支持 coding agent</title>
+      <link>https://www.baseten.co/blog/muse-spark-open-launch/</link>
+      <description>Meta 开放 Muse Spark Open 权重，模型上线 Baseten Model APIs 和 Dedicated Inference。</description>
+      <pubDate>Thu, 15 Oct 2026 17:27:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.baseten.co/blog/muse-spark-open-launch/</guid>
+      <source url="https://www.baseten.co/blog/muse-spark-open-launch/">Baseten 工程博客（网页）</source>
+    </item>
+    <item>
+      <title>手机大厂开始做穿戴录音，卷的已经不是转写：OPPO 心力球体验</title>
+      <link>http://www.geekpark.net/news/372428</link>
+      <description>头图来源：极客公园「24 小时全天候录音硬件」这个概念，放到今天其实已经不太新鲜了。无论是年初的 CES，再到国内今年数次硬件展、再到一个月前 IFA 上，我都密集看了一圈把麦克风塞进手环、戒指甚至项链里的 AI 穿戴硬件。不管是海外创业团队还是国内硬件老兵，大家都在试着把屏幕拆掉，把麦克风戴到身上。真正新鲜、也是所有人都还在苦苦寻找答案的问题，是如何把录下来的东西自然地融入你自己的日常工作流。甚至直到 2026 年下半年，Personal AI Agent 这个概念大火之后，这个问题在行业里依然没有一个明确的正确答案。独立硬件创业公司的做法，往往是再造一个硬件，配一个独立的 App，然后按月</description>
+      <pubDate>Fri, 16 Oct 2026 01:08:03 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372428</guid>
+      <source url="http://www.geekpark.net/news/372428">极客公园</source>
+    </item>
+    <item>
+      <title>Gemini 4 Argon 在 ARC-AGI (Verified) 评测中公布：ARC-AGI-3 得分 97.5%</title>
+      <link>https://x.com/arcprize/status/2110768288523251762</link>
+      <description>ARC Prize 公布 Gemini 4 Argon 在 ARC-AGI (Verified) 的评测成绩。ARC-AGI-3 上，provider adapter harness 得分 97.5%、成本 $4.8K，标准 harness 得分 49.8%、成本 $5.8K；ARC-AGI-2 得分 91.3%、$0.32/task；ARC-AGI-1 得分 98.5%、$0.16/task。Google DeepMind 是第二家在 ARC-AGI-3 上得分超过 95% 的前沿 AI 实验室。</description>
+      <pubDate>Thu, 15 Oct 2026 16:22:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arcprize/status/2110768288523251762</guid>
+      <source url="https://x.com/arcprize/status/2110768288523251762">X：ARC Prize (@arcprize)</source>
+    </item>
+    <item>
+      <title>朋友不会让朋友把数据提供给人工智能人员。</title>
+      <link>https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</link>
+      <description>消费者技术界的趋势是:设计用来监视你周围的一切和每个人的装置,不管是否有人真正同意。 现在,随着像Meta's Muse这样的“人工智能个人助理”的出现,你被令人欢欣鼓舞地要求不只是放弃你。</description>
+      <pubDate>Thu, 15 Oct 2026 12:21:45 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</guid>
+      <source url="https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent">The Verge AI</source>
+    </item>
+    <item>
+      <title>Microsoft AI 公布 MAI-Base-2 预训练细节，2.8T 参数 MoE 模型 FLOPs 效率达 DeepSeek-V4-Pro-Base 的 4.2 至 12.3 倍</title>
+      <link>https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/</link>
+      <description>Microsoft AI 宣布完成 MAI-Base-2 预训练，这是一个 800 亿激活、2.8T 总参数的 MoE 基础模型，在 held-out 评测中 BPB 低于所测全部开源权重模型，预训练 FLOPs 效率比 DeepSeek-V4-Pro-Base 高 4.2 至 12.3 倍。</description>
+      <pubDate>Thu, 15 Oct 2026 16:09:01 +0000</pubDate>
+      <guid isPermaLink="true">https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/</guid>
+      <source url="https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/">Microsoft AI：官方博客（网页）</source>
+    </item>
+    <item>
+      <title>Step 5 Preview 上线 FeatherlessAI，官方转发开放权重模型部署信息</title>
+      <link>https://x.com/StepFun_ai/status/2110755075845169428</link>
+      <description>阶跃星辰转发 FeatherlessAI 的消息，Step 5 Preview 已上线该平台，以 FP8 精度提供服务。该开放权重模型为 600B 稀疏 MoE 架构、每 token 激活 27B，面向长程智能体工作，在软件工程和专业知识工作（尤其金融）上有前沿级表现，按 Artificial Analysis 数据其每任务成本约为 Claude Opus 5.5 的 1/6，智能水平与 Kimi K3 相当。</description>
+      <pubDate>Thu, 15 Oct 2026 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/StepFun_ai/status/2110755075845169428</guid>
+      <source url="https://x.com/StepFun_ai/status/2110755075845169428">X：阶跃星辰 StepFun (@StepFun_ai)</source>
+    </item>
+    <item>
+      <title>NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型</title>
+      <link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</link>
+      <description>NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。</description>
+      <pubDate>Thu, 15 Oct 2026 15:00:24 +0000</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</guid>
+      <source url="https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/">NVIDIA Blog（RSS）</source>
+    </item>
+    <item>
+      <title>可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入</title>
+      <link>https://x.com/Kling_ai/status/2110747537187709424</link>
+      <description>可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。</description>
+      <pubDate>Thu, 15 Oct 2026 15:00:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kling_ai/status/2110747537187709424</guid>
+      <source url="https://x.com/Kling_ai/status/2110747537187709424">X：可灵 Kling AI (@Kling_ai)</source>
+    </item>
+    <item>
+      <title>Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）</title>
+      <link>https://bfl.ai/blog/flux-3-image-klein</link>
+      <description>Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。</description>
+      <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://bfl.ai/blog/flux-3-image-klein</guid>
+      <source url="https://bfl.ai/blog/flux-3-image-klein">Black Forest Labs：Blog（网页）</source>
+    </item>
     <item>
       <title>Nvidia 的 RTX Spark 笔记本电脑的 Windows 是如何优化的</title>
       <link>https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad</link>
@@ -40,14 +144,6 @@
       <source url="https://www.youtube.com/watch?v=BOTAeAU5ExQ">OpenAI</source>
     </item>
     <item>
-      <title>Wallet Wars：AI 智能体支付之争的格局与走向</title>
-      <link>https://www.a16z.news/p/wallet-wars</link>
-      <description>Terry Angelos 分析智能体商业带来的支付竞争，指出两场战斗：谁帮智能体付款，以及谁让智能体以本人身份交易。</description>
-      <pubDate>Thu, 15 Oct 2026 14:08:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.a16z.news/p/wallet-wars</guid>
-      <source url="https://www.a16z.news/p/wallet-wars">a16z：News（RSS）</source>
-    </item>
-    <item>
       <title>没人能免于名人人工智能的深层骗局</title>
       <link>https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth</link>
       <description>事后看来,Instagram上的文章应该竖起更多的红旗。 在演员和电影制片人Shia LaBeouf提出离婚申请几天后,这个形象就显示女演员Mia Goth在T恤里摆出一个尖口:MY EX是MY BIGGEST FAN。为了真正把重点带回家,这首歌就成了歌曲。</description>
@@ -70,102 +166,6 @@
       <pubDate>Thu, 15 Oct 2026 13:00:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/StepFun_ai/status/2110717330657616092</guid>
       <source url="https://x.com/StepFun_ai/status/2110717330657616092">X：阶跃星辰 StepFun (@StepFun_ai)</source>
-    </item>
-    <item>
-      <title>Google 在节假日前推出“通用”在线购物车</title>
-      <link>https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch</link>
-      <description>Google的智能人工智能购物车终于来了,正好能及时诱导用户进入"黑色星期五"和"季节性节假日支出". Google在5月的一O活动上预览的通用Cart工具Google现在在美国推出,横跨双子星应用和Google搜索,目的是让它变得易行.</description>
-      <pubDate>Thu, 15 Oct 2026 09:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch</guid>
-      <source url="https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch">The Verge AI</source>
-    </item>
-    <item>
-      <title>Surface Laptop Ultra 首发体验：是最强 Windows 笔记本，也是 AI 时代的全能本</title>
-      <link>https://www.ifanr.com/1684442?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>纳德拉和老黄，能盘活 Windows on Arm 吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 15 Oct 2026 12:00:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1684442?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1684442?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>亚马逊总是喜欢养蜜蜂,现在可以帮你买东西了</title>
-      <link>https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs</link>
-      <description>去年,亚马逊公司收购了Bee公司,这是一个相对陌生的创业企业,拥有50美元常被收听的人工智能,它总结了你的每一次对话。 今天,电子商务巨头宣布了两台新的Bee设备,以及一台新的订阅机。 首先是74.99Bee Frontier公司,这是最新的版本。</description>
-      <pubDate>Thu, 15 Oct 2026 08:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs</guid>
-      <source url="https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs">The Verge AI</source>
-    </item>
-    <item>
-      <title>The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持</title>
-      <link>https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</link>
-      <description>The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。</description>
-      <pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</guid>
-      <source url="https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab">The Verge：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调</title>
-      <link>https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/</link>
-      <description>Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。</description>
-      <pubDate>Thu, 15 Oct 2026 09:50:43 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/</guid>
-      <source url="https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>独家｜库克确认苹果国行 AI，10 月底上线测试版！</title>
-      <link>https://www.ifanr.com/1684431?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>终于来了！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 15 Oct 2026 09:09:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1684431?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1684431?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行</title>
-      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499498&amp;idx=1&amp;sn=a475c3637de9f432a34f207df9659516</link>
-      <description>10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。</description>
-      <pubDate>Thu, 15 Oct 2026 04:53:56 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499498&amp;idx=1&amp;sn=a475c3637de9f432a34f207df9659516</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499498&amp;idx=1&amp;sn=a475c3637de9f432a34f207df9659516">公众号：面壁智能（MiniCPM）</source>
-    </item>
-    <item>
-      <title>Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站</title>
-      <link>https://www.figma.com/blog/websites-with-payload-in-figma/</link>
-      <description>Figma 宣布开源内容框架 Payload 集成到 Figma Make，用提示词创建应用时自动配套数据库、文件存储、用户登录和管理面板。Payload 加入 Figma 一年内下载量增长 6x，成为 NPM 上增长最快的开源 CMS；面向所有计划开放，托管基础设施目前处于 beta 且免费，定价将在生效前公布。</description>
-      <pubDate>Thu, 15 Oct 2026 04:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.figma.com/blog/websites-with-payload-in-figma/</guid>
-      <source url="https://www.figma.com/blog/websites-with-payload-in-figma/">Figma AI / Agent / Make</source>
-    </item>
-    <item>
-      <title>卖出去≠全球化成功，中国企业出海究竟还差什么？</title>
-      <link>http://www.geekpark.net/news/372386</link>
-      <description>中国的汽车产业，正陷入前所未有的冰火两重天夹击。 2025 年，中国企业的全球销量 2700 万辆，首次超越日本；其中出口 832 万辆，相较十年前的 72.82 万辆增长超 10 倍。 但销量曲线向上的同时，利润曲线却在一路向下。2026 年上半年，国内汽车销售的利润率已经跌到了 1.52%，创下 10 年最低纪录。 出海也由此从选择题变成必答题。但出海并不只是把货卖出去这么简单，本地团队、合规体系、运营能力，需要环环相扣。有时候，一辆汽车交付到海外用户手中之后，真正的考验才刚刚开始。 小鹏集团对此体会深刻。作为国内头部物理 AI 科技公司，小鹏自 2020 年就开始加速布局欧洲，但考虑到欧</description>
-      <pubDate>Thu, 15 Oct 2026 12:40:24 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372386</guid>
-      <source url="http://www.geekpark.net/news/372386">极客公园</source>
-    </item>
-    <item>
-      <title>卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频</title>
-      <link>https://x.com/Khazix0918/status/2110587546271191166</link>
-      <description>作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。</description>
-      <pubDate>Thu, 15 Oct 2026 04:24:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Khazix0918/status/2110587546271191166</guid>
-      <source url="https://x.com/Khazix0918/status/2110587546271191166">X：卡兹克 (@Khazix0918)</source>
-    </item>
-    <item>
-      <title>人工智能第一考试:LLM-Referenced C-测试 Supraintelligence</title>
-      <link>https://arxiv.org/abs/2610.14005</link>
-      <description>在人工智能开发的加速速度下,任何与人类或当前人工智能系统校正难度的基准都变得循环,或者很快饱和。 那么,我们如何评估可能比当前机器更有能力的机器?</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.14005</guid>
-      <source url="https://arxiv.org/abs/2610.14005">ArXiv AI</source>
-    </item>
-    <item>
-      <title>代理数据科学中的静态失败</title>
-      <link>https://arxiv.org/abs/2610.14115</link>
-      <description>大型语言模型大大降低了写作代码的障碍。自然,这也导致了数据科学代理的发展,从而保证数据科学的设计和实施从任务制定到模型开发的自动化。</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.14115</guid>
-      <source url="https://arxiv.org/abs/2610.14115">ArXiv AI</source>
     </item>
   </channel>
 </rss>
