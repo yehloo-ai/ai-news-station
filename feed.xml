@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 19:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:10:25 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Krea 3 图像模型通过 ComfyUI Partner Nodes 上线</title>
+      <link>https://blog.comfy.org/p/krea-3-is-now-available-via-partner</link>
+      <description>Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。</description>
+      <pubDate>Thu, 15 Oct 2026 21:15:45 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.comfy.org/p/krea-3-is-now-available-via-partner</guid>
+      <source url="https://blog.comfy.org/p/krea-3-is-now-available-via-partner">Comfy Blog</source>
+    </item>
+    <item>
+      <title>特朗普张贴人工智能编辑的照片来吹嘘白宫的修复工作.</title>
+      <link>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</link>
+      <description>总统唐纳德·特朗普(Donald Trump)在"真理社会"(Treat Social)上贴出了一系列显示装修的照片-但其中一幅看起来是用人工智能修改的. 照片将旧的白宫专栏比作"修复的"一幅,有几处差异,被Google的人工智能探测器标注为a.</description>
+      <pubDate>Thu, 15 Oct 2026 17:09:33 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</guid>
+      <source url="https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column">The Verge AI</source>
+    </item>
+    <item>
+      <title>使用 Codex 构建更多个人网站</title>
+      <link>https://www.youtube.com/watch?v=KJ_7KPKlO_Q</link>
+      <description>随时更新您的团队的站点, 并使其针对每个访客。 连接预定的任务可以自动刷新站点数据, 让您的用户连接他们的插件, 查看您的站点的个性化视图 。 要尝试, 请询问 Codex 。</description>
+      <pubDate>Thu, 15 Oct 2026 20:48:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=KJ_7KPKlO_Q</guid>
+      <source url="https://www.youtube.com/watch?v=KJ_7KPKlO_Q">OpenAI</source>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 fast mode 结束研究预览并移除等待名单</title>
+      <link>https://x.com/ClaudeDevs/status/2110825294655562048</link>
+      <description>Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览阶段，并已移除等待名单。该模式速度最高提升 2.5 倍，定价为 $8 / $40 per million tokens；现已登陆 Microsoft Foundry（Azure 托管），Google Cloud 即将支持。Claude Code 中的 fast mode 保持不变，消耗额外 usage credits。文档见 https://platform.claude.com/docs/en/build-with-claude/fast-mode</description>
+      <pubDate>Thu, 15 Oct 2026 20:09:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ClaudeDevs/status/2110825294655562048</guid>
+      <source url="https://x.com/ClaudeDevs/status/2110825294655562048">X：Claude Devs (@ClaudeDevs)</source>
+    </item>
+    <item>
+      <title>ChatGPT 为 Chrome 用户新增标签页读取与控制能力</title>
+      <link>https://x.com/ChatGPT/status/2110823738531037651</link>
+      <description>ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。在聊天中，ChatGPT 可以查看用户打开的标签页并汇总信息；在工作模式下，它能控制 Chrome 标签页执行操作，如发送消息、填写表单、下载文件，还可帮助整理和分组打开的标签页。</description>
+      <pubDate>Thu, 15 Oct 2026 20:02:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ChatGPT/status/2110823738531037651</guid>
+      <source url="https://x.com/ChatGPT/status/2110823738531037651">X：ChatGPT (@ChatGPT)</source>
+    </item>
+    <item>
+      <title>Bluesky的人工智能工具让你制作游戏和应用程序分享社交</title>
+      <link>https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</link>
+      <description>Bluesky的Attie人工智能工具最初是今年早些时候推出的,作为使用人工智能构建自己种子的一种方式,现在让你制作游戏,民调,仪表板等"小"社会应用,然后作为自己的网站与他人分享. Bluesky CEOToni S在TechCrunch Disrupt的一次采访中,</description>
+      <pubDate>Thu, 15 Oct 2026 15:57:16 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</guid>
+      <source url="https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps">The Verge AI</source>
+    </item>
+    <item>
+      <title>Meta 如何用 AI 原生工程方式开发 Forum 应用</title>
+      <link>https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/</link>
+      <description>Meta 工程团队详解如何把 AI 智能体作为开发流程参与者来构建独立 Groups 应用 Forum，采用 human-on-the-loop 模式并以验证通过的生产级产出衡量成功。Forum 在八周内达到与 Facebook Groups 的核心功能对齐，自主压测循环在开发期发现并修复了内存问题，内存占用和缺页约减半，上线后智能体还协助根因分析用户反馈。</description>
+      <pubDate>Thu, 15 Oct 2026 19:00:03 +0000</pubDate>
+      <guid isPermaLink="true">https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/</guid>
+      <source url="https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/">Meta Engineering Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Black Forest Labs FLUX 3 系列登陆 OpenRouter：Image Klein 开源权重、视频 upscale 降价并支持 4K 生成</title>
+      <link>https://x.com/OpenRouter/status/2110803343878873473</link>
+      <description>OpenRouter 宣布 Black Forest Labs（@bfl_ai）三项新内容上线。FLUX 3 Image Klein 是新的开源权重图像模型，可在单张消费级 GPU 上运行；改进版 FLUX Video Upscale 开启 early access，可将任意视频转为 4K，价格从 $0.59/s 降至 $0.28/s；FLUX 3 Video 现已支持从提示词直接生成 4K 视频。</description>
+      <pubDate>Thu, 15 Oct 2026 18:41:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenRouter/status/2110803343878873473</guid>
+      <source url="https://x.com/OpenRouter/status/2110803343878873473">X：OpenRouter (@OpenRouter)</source>
+    </item>
     <item>
       <title>GPT-Live-1.1有新的声音和更好的口音.</title>
       <link>https://www.youtube.com/watch?v=GyO8Ao7yKJc</link>
@@ -24,6 +88,14 @@
       <source url="https://x.com/arena/status/2110797782953132049">X：Arena (@arena)</source>
     </item>
     <item>
+      <title>Meta和Apple团队 制作Muse人工智能模型 在Macs上运行得更好</title>
+      <link>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</link>
+      <description>Meta今天宣布了Muse Spark Open人工智能模型,声称它是"迄今为止最有能力的美国开放量级模型",但该公司也称它是"其班级中第一个模型",可以"使用两个带有最新MLX框架的Apple M5 Ultra Mac Studios在您的桌面上运行". Meta and Ap</description>
+      <pubDate>Thu, 15 Oct 2026 14:15:36 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</guid>
+      <source url="https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx">The Verge AI</source>
+    </item>
+    <item>
       <title>Meta 开放权重模型 Muse Spark Open 上架 OpenRouter</title>
       <link>https://x.com/OpenRouter/status/2110793354154008685</link>
       <description>Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。</description>
@@ -32,20 +104,20 @@
       <source url="https://x.com/OpenRouter/status/2110793354154008685">X：OpenRouter (@OpenRouter)</source>
     </item>
     <item>
+      <title>Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文</title>
+      <link>https://pytorch.org/blog/muse-spark-open/</link>
+      <description>Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。</description>
+      <pubDate>Thu, 15 Oct 2026 17:55:52 +0000</pubDate>
+      <guid isPermaLink="true">https://pytorch.org/blog/muse-spark-open/</guid>
+      <source url="https://pytorch.org/blog/muse-spark-open/">PyTorch：Blog（RSS）</source>
+    </item>
+    <item>
       <title>Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE</title>
       <link>https://x.com/AravSrinivas/status/2110785848958759165</link>
       <description>Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。</description>
       <pubDate>Thu, 15 Oct 2026 17:32:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AravSrinivas/status/2110785848958759165</guid>
       <source url="https://x.com/AravSrinivas/status/2110785848958759165">X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)</source>
-    </item>
-    <item>
-      <title>Meta 发布开放权重模型 Muse Spark Open，上线 Baseten 支持 coding agent</title>
-      <link>https://www.baseten.co/blog/muse-spark-open-launch/</link>
-      <description>Meta 开放 Muse Spark Open 权重，模型上线 Baseten Model APIs 和 Dedicated Inference。</description>
-      <pubDate>Thu, 15 Oct 2026 17:27:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.baseten.co/blog/muse-spark-open-launch/</guid>
-      <source url="https://www.baseten.co/blog/muse-spark-open-launch/">Baseten 工程博客（网页）</source>
     </item>
     <item>
       <title>手机大厂开始做穿戴录音，卷的已经不是转写：OPPO 心力球体验</title>
@@ -94,78 +166,6 @@
       <pubDate>Thu, 15 Oct 2026 15:00:24 +0000</pubDate>
       <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</guid>
       <source url="https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/">NVIDIA Blog（RSS）</source>
-    </item>
-    <item>
-      <title>可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入</title>
-      <link>https://x.com/Kling_ai/status/2110747537187709424</link>
-      <description>可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。</description>
-      <pubDate>Thu, 15 Oct 2026 15:00:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Kling_ai/status/2110747537187709424</guid>
-      <source url="https://x.com/Kling_ai/status/2110747537187709424">X：可灵 Kling AI (@Kling_ai)</source>
-    </item>
-    <item>
-      <title>Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）</title>
-      <link>https://bfl.ai/blog/flux-3-image-klein</link>
-      <description>Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。</description>
-      <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://bfl.ai/blog/flux-3-image-klein</guid>
-      <source url="https://bfl.ai/blog/flux-3-image-klein">Black Forest Labs：Blog（网页）</source>
-    </item>
-    <item>
-      <title>Nvidia 的 RTX Spark 笔记本电脑的 Windows 是如何优化的</title>
-      <link>https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad</link>
-      <description>微软和Nvidia上周在旧金山举办了一波RTX Spark手提电脑的发布会,新一波人工智能个人电脑在人群和活泼的现场占据了中心位置. 媒体活动一天后,我被邀请参加更安静的Nvidia活动以听到[.].</description>
-      <pubDate>Thu, 15 Oct 2026 10:30:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad</guid>
-      <source url="https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad">The Verge AI</source>
-    </item>
-    <item>
-      <title>给现实世界按下复制键，禾赛做了一台「AI 空间相机」</title>
-      <link>https://www.ifanr.com/1684538?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>复刻一个「虚拟现实」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 15 Oct 2026 14:20:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1684538?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1684538?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>与OpenAI合作的网络安全研究周至小时:哨兵一号</title>
-      <link>https://www.youtube.com/shorts/3IVo-MNwk2I</link>
-      <description>网络安全研究,从几周发展到几小时。 Sentinel One的Gregor Stewart描述了OpenAI的网络能力,在大约8小时内,在逆向工程工作上达到人的水平,这需要一位顶尖的研究员4到6周的时间。 这样安全小组就可以调查更多的恶意软件,c</description>
-      <pubDate>Thu, 15 Oct 2026 14:13:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/3IVo-MNwk2I</guid>
-      <source url="https://www.youtube.com/shorts/3IVo-MNwk2I">OpenAI</source>
-    </item>
-    <item>
-      <title>与OpenAI合作的网络安全研究周至小时:哨兵一号</title>
-      <link>https://www.youtube.com/watch?v=BOTAeAU5ExQ</link>
-      <description>网络安全研究,从几周发展到几小时。 Sentinel One的Gregor Stewart描述了OpenAI的网络能力,在大约8小时内,在逆向工程工作上达到人的水平,这需要一位顶尖的研究员4到6周的时间。 这样安全小组就可以调查更多的恶意软件,c</description>
-      <pubDate>Thu, 15 Oct 2026 14:12:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=BOTAeAU5ExQ</guid>
-      <source url="https://www.youtube.com/watch?v=BOTAeAU5ExQ">OpenAI</source>
-    </item>
-    <item>
-      <title>没人能免于名人人工智能的深层骗局</title>
-      <link>https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth</link>
-      <description>事后看来,Instagram上的文章应该竖起更多的红旗。 在演员和电影制片人Shia LaBeouf提出离婚申请几天后,这个形象就显示女演员Mia Goth在T恤里摆出一个尖口:MY EX是MY BIGGEST FAN。为了真正把重点带回家,这首歌就成了歌曲。</description>
-      <pubDate>Thu, 15 Oct 2026 10:03:42 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth</guid>
-      <source url="https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth">The Verge AI</source>
-    </item>
-    <item>
-      <title>StepFun 展示 Step 5 Preview 在 NVIDIA GB300 上的推理性能</title>
-      <link>https://x.com/StepFun_ai/status/2110732706518835353</link>
-      <description>StepFun 表示 Step 5 Preview 在 NVIDIA GB300 上推理表现出色，并期待看到开发者用它构建的应用。其转发的 NVIDIA 内容称该模型是 StepFun 最大的开源权重发布，600B MoE 架构，可处理最长 24 小时的 Agent 任务，在 GB300 上用 NVFP4 达到近 8K tokens/sec/GPU，提供 NVFP4 checkpoint（https://huggingface.co/stepfun-ai/Step-5-Preview-NVFP4），并支持 SGLang、vLLM、NeMo Automodel 后训练和 NVIDIA NIM 一</description>
-      <pubDate>Thu, 15 Oct 2026 14:01:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/StepFun_ai/status/2110732706518835353</guid>
-      <source url="https://x.com/StepFun_ai/status/2110732706518835353">X：阶跃星辰 StepFun (@StepFun_ai)</source>
-    </item>
-    <item>
-      <title>阶跃星辰开放 Step 5 Preview 权重</title>
-      <link>https://x.com/StepFun_ai/status/2110717330657616092</link>
-      <description>阶跃星辰（StepFun）宣布 Step 5 Preview 开放权重，BF16 和 FP8 权重已上线 Hugging Face 和 ModelScope，并附技术博客。</description>
-      <pubDate>Thu, 15 Oct 2026 13:00:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/StepFun_ai/status/2110717330657616092</guid>
-      <source url="https://x.com/StepFun_ai/status/2110717330657616092">X：阶跃星辰 StepFun (@StepFun_ai)</source>
     </item>
   </channel>
 </rss>
