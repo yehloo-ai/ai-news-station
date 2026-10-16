@@ -686,5 +686,37 @@
     "sourceUrl": "https://x.com/GeminiApp/status/2110491358498865638",
     "sourceName": "X：Gemini (@GeminiApp)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
+    "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。",
+    "sourceUrl": "https://pytorch.org/blog/muse-spark-open/",
+    "sourceName": "PyTorch：Blog（RSS）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型",
+    "summary": "NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。",
+    "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+    "sourceName": "NVIDIA Blog（RSS）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
+    "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
+    "sourceUrl": "https://bfl.ai/blog/flux-3-image-klein",
+    "sourceName": "Black Forest Labs：Blog（网页）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "阶跃星辰开放 Step 5 Preview 权重",
+    "summary": "阶跃星辰（StepFun）宣布 Step 5 Preview 开放权重，BF16 和 FP8 权重已上线 Hugging Face 和 ModelScope，并附技术博客。",
+    "sourceUrl": "https://x.com/StepFun_ai/status/2110717330657616092",
+    "sourceName": "X：阶跃星辰 StepFun (@StepFun_ai)",
+    "reviewReason": "awaiting-review"
   }
 ]
