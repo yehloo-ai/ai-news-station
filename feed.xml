@@ -5,8 +5,56 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:46:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:14:47 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>苹果为「家」开场，果然家庭 AI 还是绕不开「语音+屏幕」</title>
+      <link>https://www.ifanr.com/1684640?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>家庭正在重新变成科技公司寻找下一个 AI 落点的地方#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 16 Oct 2026 09:00:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1684640?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1684640?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见</title>
+      <link>https://www.ithome.com/1/013/983.htm</link>
+      <description>商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。</description>
+      <pubDate>Fri, 16 Oct 2026 08:23:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/013/983.htm</guid>
+      <source url="https://www.ithome.com/1/013/983.htm">IT之家·人工智能</source>
+    </item>
+    <item>
+      <title>Waymo 宣布进军多伦多，计划2028年迎接首批乘客</title>
+      <link>https://waymo.com/blog/2026/10/waymo-in-toronto</link>
+      <description>Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服务，目标2028年迎接首批乘客。近期将先以人工驾驶方式采集高精地图并由自动驾驶专家进行测试；Waymo 与 Element Fleet Management 合作提供车队管理服务，将逐步创造数百个岗位。官方称基于超4亿公里完全自动驾驶里程，其车辆在严重伤害及以上事故中比人类驾驶少95%。</description>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://waymo.com/blog/2026/10/waymo-in-toronto</guid>
+      <source url="https://waymo.com/blog/2026/10/waymo-in-toronto">Waymo：Blog（网页）</source>
+    </item>
+    <item>
+      <title>为什么 Anthropic 不做 Personal AI</title>
+      <link>http://www.geekpark.net/news/372461</link>
+      <description>不久前，9 月 29 日的 OpenAI DevDay 开发者日，舞台上飘出了几个圆滚滚的小气泡。 它们叫 dots，是 OpenAI 最新的个人 agent。每个 dot 跑在 GPT-6 Astra 上，拥有一台独立的云端电脑和浏览器，用户关掉 ChatGPT 之后，它还在后台继续干活。OpenAI 对它的描述是： 「built to handle everything」，什么都能接。 三周前的 9 月 8 日， Meta 推出了 Muse，同样有独立的云端虚拟机，同样能在后台持续工作，同样顶着一个萌萌的卡通形象，而且直接住进了 WhatsApp。市场的反馈相当热烈，Apptopia 的估</description>
+      <pubDate>Fri, 16 Oct 2026 14:50:02 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372461</guid>
+      <source url="http://www.geekpark.net/news/372461">极客公园</source>
+    </item>
+    <item>
+      <title>苹果和 Meta 和好了，是 AI 逼的</title>
+      <link>http://www.geekpark.net/news/372458</link>
+      <description>没有永远的敌人，只有永远的 AI 焦虑。 10 月 2 日，苹果做了一件很少见的事，因为一个第三方 App，宣布要调整系统规则。 起因是《Inc.》杂志的科技专栏作者 Jason Aten 公开指控，Meta 的 AI 智能体 Muse 在他的 Mac 上读取了私人消息。Muse 是 Meta 力推的「能替你办事」的 Agent，会帮你退订闲置会员，甚至替你砍价。 苹果随即表态，今后 AI 请求读取 Mac 数据时，系统会主动提示用户。 这几乎就是苹果和 Meta 过去五年关系的缩影，Meta 想拿数据，苹果出面拦着。 然而仅仅两周后，故事发生了反转。 当地时间 10 月 15 日，Meta</description>
+      <pubDate>Fri, 16 Oct 2026 14:41:48 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372458</guid>
+      <source url="http://www.geekpark.net/news/372458">极客公园</source>
+    </item>
+    <item>
+      <title>丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑</title>
+      <link>https://www.ithome.com/1/013/914.htm</link>
+      <description>据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。</description>
+      <pubDate>Fri, 16 Oct 2026 06:14:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/013/914.htm</guid>
+      <source url="https://www.ithome.com/1/013/914.htm">IT之家·人工智能</source>
+    </item>
     <item>
       <title>世界不会等待:在活时钟下评价和教导代理人</title>
       <link>https://arxiv.org/abs/2610.20665</link>
@@ -118,54 +166,6 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.20631</guid>
       <source url="https://arxiv.org/abs/2610.20631">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Meddex:带有双子星证据备份医疗报告分析的检索强化LLaMA-3系统</title>
-      <link>https://arxiv.org/abs/2610.20632</link>
-      <description>现代医疗产生了越来越复杂的医疗报告,在时间和解释性负担方面挑战临床专业人员。 人工审查过程缓慢、容易出错并难以扩大规模。 本文介绍的是Meddex,一种医学家。</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.20632</guid>
-      <source url="https://arxiv.org/abs/2610.20632">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>巅峰估值 50 亿美元的 AI 独角兽，何以不到 0.1 折贱卖</title>
-      <link>http://www.geekpark.net/news/372437</link>
-      <description>&amp;nbsp; 头图来源：Chatgpt 生成 &amp;nbsp; 当地时间 10 月 12 日，曾经引爆 AI 陪伴赛道的明星项目 Character.AI，在美国特拉华州法院提交《破产法》第 11 章重组申请，开启法院监督下的资产拍卖流程。 根据披露文件，迪士尼已经与它提前达成了底价竞购协议：2000 万美元，买走部分知识产权的非独占永久许可，外加用一批「前员工」为平台提供过渡期技术服务。 这笔交易不包含公司主体、产品 App 和用户资产。拍卖窗口期预计在今年 11 月底至 12 月初收尾。 在整个出售周期内，Character.AI 平台维持正常运转，现有订阅、对话服务暂时不会改动。但如果最终没</description>
-      <pubDate>Fri, 16 Oct 2026 10:22:17 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372437</guid>
-      <source url="http://www.geekpark.net/news/372437">极客公园</source>
-    </item>
-    <item>
-      <title>第一款 AI 手机，被半个互联网「拒」了</title>
-      <link>http://www.geekpark.net/news/372436</link>
-      <description>&amp;nbsp; 头图来源：chatgpt 生成 &amp;nbsp; 10 月 14 日，豆包手机助手推出的《屏幕自动化操作声明协议》（SAEP，Screen Automation Execution Protocol）正式结束 30 天公示期。随之公布的拒绝名单显示，已有 155 款第三方应用明确关上了 AI 自动化操作的大门。名单当日经两轮更新，首批发布为 153 款，最终补全长尾应用后共计 155 款。 腾讯旗下 66 款、阿里旗下 23 款、美团 11 款、快手 14 款，几乎覆盖国内互联网半壁江山的主流产品悉数在列，就连 Kimi、DeepSeek 等 AI 赛道的同类产品，也选择了关闭权限。</description>
-      <pubDate>Fri, 16 Oct 2026 10:18:36 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372436</guid>
-      <source url="http://www.geekpark.net/news/372436">极客公园</source>
-    </item>
-    <item>
-      <title>腾讯盯上了字节的摇钱树</title>
-      <link>http://www.geekpark.net/news/372435</link>
-      <description>&amp;nbsp; 头图来源：Chatgpt 生成 &amp;nbsp; 短剧正在成为互联网行业最吸金的时长黑洞。 QuestMobile 数据显示，2026 年 7 月，红果短剧日活达到 1.68 亿，超过腾讯视频、爱奇艺、优酷、芒果 TV 四大长视频平台的日活总和，用户人均单日刷剧时长达到 125 分钟，甚至一度超过抖音主站同期的人均使用时长。 而据第三方监测数据，到 10 月其日活规模已攀升至 2.2 亿上下，半年时间净增超 5000 万，增速依然没有放缓的迹象。 从三年前上线，到如今字节跳动旗下实打实的现金牛，红果短剧把免费广告（IAA）短剧的商业模式彻底跑通，也成了字节拉动用户时长的核心引擎。 腾</description>
-      <pubDate>Fri, 16 Oct 2026 10:15:21 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372435</guid>
-      <source url="http://www.geekpark.net/news/372435">极客公园</source>
-    </item>
-    <item>
-      <title>Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现</title>
-      <link>https://x.com/Khazix0918/status/2110914404393091205</link>
-      <description>可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。</description>
-      <pubDate>Fri, 16 Oct 2026 02:03:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Khazix0918/status/2110914404393091205</guid>
-      <source url="https://x.com/Khazix0918/status/2110914404393091205">X：卡兹克 (@Khazix0918)</source>
-    </item>
-    <item>
-      <title>消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元</title>
-      <link>https://www.ithome.com/1/013/723.htm</link>
-      <description>路透社援引知情人士消息称，Anthropic 公布最新财务数据后，部分投资者开始考虑下调其 IPO 估值，此前预期 11 月上市时估值约 2 万亿美元，投资者日活动讨论约 1.5 万亿美元。</description>
-      <pubDate>Fri, 16 Oct 2026 00:54:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/013/723.htm</guid>
-      <source url="https://www.ithome.com/1/013/723.htm">IT之家·人工智能</source>
     </item>
   </channel>
 </rss>
