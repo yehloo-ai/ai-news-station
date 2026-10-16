@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:33:03 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta的新条款可能允许它在新闻网站免费培训人工智能</title>
+      <link>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</link>
+      <description>Meta的新条款似乎允许它与使用其平台的企业"关联"爬行和刮刮网站——包括在线出版商,根据Nieman Lab的一份报告. 10月30日生效的新条款说Meta可以使用这个外部内容来"欺骗".</description>
+      <pubDate>Fri, 16 Oct 2026 10:02:40 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</guid>
+      <source url="https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers">The Verge AI</source>
+    </item>
+    <item>
+      <title>a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后</title>
+      <link>https://www.a16z.news/p/this-week-in-charts-agents-denied</link>
+      <description>a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。</description>
+      <pubDate>Fri, 16 Oct 2026 14:00:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.a16z.news/p/this-week-in-charts-agents-denied</guid>
+      <source url="https://www.a16z.news/p/this-week-in-charts-agents-denied">a16z：News（RSS）</source>
+    </item>
+    <item>
+      <title>NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</link>
+      <description>NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。</description>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</guid>
+      <source url="https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs">NVIDIA：Newsroom（RSS）</source>
+    </item>
     <item>
       <title>苹果为「家」开场，果然家庭 AI 还是绕不开「语音+屏幕」</title>
       <link>https://www.ifanr.com/1684640?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.20615</guid>
       <source url="https://arxiv.org/abs/2610.20615">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>PISM: 私人兄弟制导的多剂地理学设计</title>
-      <link>https://arxiv.org/abs/2610.20628</link>
-      <description>基于大语言模型(LLMS)的多代理系统(MAS)已经成为解决复杂问题的有力方法,其有效性关键取决于决定哪些代理参与和如何共通的协作地貌.</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.20628</guid>
-      <source url="https://arxiv.org/abs/2610.20628">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>巴西葡萄牙语的多类金融新闻分类大型数据集</title>
-      <link>https://arxiv.org/abs/2610.20630</link>
-      <description>巴西葡萄牙语金融自然语言处理系统(NLP)的发展受到特定域数据集缺乏的阻碍。</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.20630</guid>
-      <source url="https://arxiv.org/abs/2610.20630">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>在阶段分类中实时检测 Chatbot Romance Scam</title>
-      <link>https://arxiv.org/abs/2610.20631</link>
-      <description>浪漫骗局通过社交媒体成为一个严重的问题,人工智能的改进能够轻易地伪造身份。在研究中,一个聊天员通过Line Message API开发了实时检测浪漫骗局。</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.20631</guid>
-      <source url="https://arxiv.org/abs/2610.20631">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
