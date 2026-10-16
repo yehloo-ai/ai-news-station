@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 19:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 22:46:41 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>把点点点点起</title>
+      <link>https://www.youtube.com/watch?v=GBOZIRK1ujw</link>
+      <description>Ali是OpenAI的工程师,他用他的点来分辨凌晨3点的一桩待命事件。他的点调查了这个问题,并启动了一款Codex线程,这样他就可以在ChatGPT应用中从手机中引导工作.</description>
+      <pubDate>Fri, 16 Oct 2026 21:43:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=GBOZIRK1ujw</guid>
+      <source url="https://www.youtube.com/watch?v=GBOZIRK1ujw">OpenAI</source>
+    </item>
     <item>
       <title>Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码</title>
       <link>https://x.com/adocomplete/status/2111171735806767558</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.20638</guid>
       <source url="https://arxiv.org/abs/2610.20638">ArXiv ML</source>
-    </item>
-    <item>
-      <title>相同的答案, 新框 : RLVR 的外域增益有多多是答案格式 ?</title>
-      <link>https://arxiv.org/abs/2610.20639</link>
-      <description>具有可核查奖励的强化学习(RLVR)被计入其奖励检查范围以外的收益,例如数学培训后MMLU精度提高。这种精度通常通过解答摘要从模型的文本中读出。</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.20639</guid>
-      <source url="https://arxiv.org/abs/2610.20639">ArXiv ML</source>
     </item>
   </channel>
 </rss>
