@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 22:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:21:58 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372430</link>
+      <description>DeepSeek 服务故障近 5 小时，官方补偿所有 API 用户 7 天内的消耗金额 10 月 15 日消息，DeepSeek 网页 / API 服务今日（10 月 15 日）早间出现服务问题，经过近 5 个小时的修复，终于恢复正常。 对此，DeepSeek 官方开放平台发布服务恢复及补偿通知，将补偿所有 API 用户 7 天内的消耗金额： 北京时间 2026 年 10 月 15 日 8:11 至 13:04 期间，我们的服务系统出现故障，导致该时段内 API 服务无法正常使用。对于此次故障给您带来的不便与困扰，我们深表歉意。我们已第一时间启动针对服务稳定性的全面排查和彻底整改，全面梳理并剥</description>
+      <pubDate>Fri, 16 Oct 2026 08:15:00 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372430</guid>
+      <source url="http://www.geekpark.net/news/372430">极客公园</source>
+    </item>
+    <item>
+      <title>早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失</title>
+      <link>https://www.ifanr.com/1684579?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· iPhone Duo 维修价格公布，内屏损坏预估 7998 元 · 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明 · Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 16 Oct 2026 00:07:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1684579?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1684579?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Musk 称 xAI 2027 年底算力目标可能超过 10GW</title>
+      <link>https://x.com/elonmusk/status/2110877572011844019</link>
+      <description>Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超过 10GW；访谈称 Nvidia 已把 SpaceX 归入云服务商客户，两家工程师正合作设计可用于太空的新型服务器架构。</description>
+      <pubDate>Thu, 15 Oct 2026 23:36:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/elonmusk/status/2110877572011844019</guid>
+      <source url="https://x.com/elonmusk/status/2110877572011844019">X：Elon Musk (@elonmusk, xAI)</source>
+    </item>
+    <item>
+      <title>ChatGPT 现在可以偷看你的Chrome标签</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</link>
+      <description>OpenAI 的 ChatGPT Atlas 浏览器已消失, 但是现在 ChatGPT 的 Google Chrome 扩展正在获得一些升级, 允许它使用您已经打开的浏览器标签。 随着扩展功能的安装, OpenAI 表示 ChatGPT 在 ChatGPT 的网络或桌面应用中标记 Chrome 时, 现在可以查看您的浏览器标签 。</description>
+      <pubDate>Thu, 15 Oct 2026 18:43:23 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs">The Verge AI</source>
+    </item>
+    <item>
+      <title>世嘉拉出全面出战:幕府2号在灾难性出击后从发售中重新起跑.</title>
+      <link>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</link>
+      <description>世嘉正在移除 Total War: Shogun 2 - 在灾难性的发布会后从商店前端取出完整版,用户抱怨诸如bug和升级等问题似乎都是由人工智能完成的. Complete Edition,是2011年战略游戏的重播,于星期二推出,它将mai捆绑了起来.</description>
+      <pubDate>Thu, 15 Oct 2026 18:35:55 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</guid>
+      <source url="https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled">The Verge AI</source>
+    </item>
     <item>
       <title>Krea 3 图像模型通过 ComfyUI Partner Nodes 上线</title>
       <link>https://blog.comfy.org/p/krea-3-is-now-available-via-partner</link>
@@ -126,46 +166,6 @@
       <pubDate>Fri, 16 Oct 2026 01:08:03 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372428</guid>
       <source url="http://www.geekpark.net/news/372428">极客公园</source>
-    </item>
-    <item>
-      <title>Gemini 4 Argon 在 ARC-AGI (Verified) 评测中公布：ARC-AGI-3 得分 97.5%</title>
-      <link>https://x.com/arcprize/status/2110768288523251762</link>
-      <description>ARC Prize 公布 Gemini 4 Argon 在 ARC-AGI (Verified) 的评测成绩。ARC-AGI-3 上，provider adapter harness 得分 97.5%、成本 $4.8K，标准 harness 得分 49.8%、成本 $5.8K；ARC-AGI-2 得分 91.3%、$0.32/task；ARC-AGI-1 得分 98.5%、$0.16/task。Google DeepMind 是第二家在 ARC-AGI-3 上得分超过 95% 的前沿 AI 实验室。</description>
-      <pubDate>Thu, 15 Oct 2026 16:22:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arcprize/status/2110768288523251762</guid>
-      <source url="https://x.com/arcprize/status/2110768288523251762">X：ARC Prize (@arcprize)</source>
-    </item>
-    <item>
-      <title>朋友不会让朋友把数据提供给人工智能人员。</title>
-      <link>https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</link>
-      <description>消费者技术界的趋势是:设计用来监视你周围的一切和每个人的装置,不管是否有人真正同意。 现在,随着像Meta's Muse这样的“人工智能个人助理”的出现,你被令人欢欣鼓舞地要求不只是放弃你。</description>
-      <pubDate>Thu, 15 Oct 2026 12:21:45 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</guid>
-      <source url="https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent">The Verge AI</source>
-    </item>
-    <item>
-      <title>Microsoft AI 公布 MAI-Base-2 预训练细节，2.8T 参数 MoE 模型 FLOPs 效率达 DeepSeek-V4-Pro-Base 的 4.2 至 12.3 倍</title>
-      <link>https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/</link>
-      <description>Microsoft AI 宣布完成 MAI-Base-2 预训练，这是一个 800 亿激活、2.8T 总参数的 MoE 基础模型，在 held-out 评测中 BPB 低于所测全部开源权重模型，预训练 FLOPs 效率比 DeepSeek-V4-Pro-Base 高 4.2 至 12.3 倍。</description>
-      <pubDate>Thu, 15 Oct 2026 16:09:01 +0000</pubDate>
-      <guid isPermaLink="true">https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/</guid>
-      <source url="https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/">Microsoft AI：官方博客（网页）</source>
-    </item>
-    <item>
-      <title>Step 5 Preview 上线 FeatherlessAI，官方转发开放权重模型部署信息</title>
-      <link>https://x.com/StepFun_ai/status/2110755075845169428</link>
-      <description>阶跃星辰转发 FeatherlessAI 的消息，Step 5 Preview 已上线该平台，以 FP8 精度提供服务。该开放权重模型为 600B 稀疏 MoE 架构、每 token 激活 27B，面向长程智能体工作，在软件工程和专业知识工作（尤其金融）上有前沿级表现，按 Artificial Analysis 数据其每任务成本约为 Claude Opus 5.5 的 1/6，智能水平与 Kimi K3 相当。</description>
-      <pubDate>Thu, 15 Oct 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/StepFun_ai/status/2110755075845169428</guid>
-      <source url="https://x.com/StepFun_ai/status/2110755075845169428">X：阶跃星辰 StepFun (@StepFun_ai)</source>
-    </item>
-    <item>
-      <title>NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</link>
-      <description>NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。</description>
-      <pubDate>Thu, 15 Oct 2026 15:00:24 +0000</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</guid>
-      <source url="https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/">NVIDIA Blog（RSS）</source>
     </item>
   </channel>
 </rss>
