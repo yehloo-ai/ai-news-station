@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 18:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 21:24:39 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Meta 删除可能允许它刮去新闻站点的语言</title>
@@ -22,30 +22,6 @@
       <pubDate>Sat, 17 Oct 2026 09:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web">The Verge AI</source>
-    </item>
-    <item>
-      <title>突发！DeepSeek新模型发布，超级性价比斩杀一切</title>
-      <link>https://www.qbitai.com/2026/10/504067.html</link>
-      <description>新版本V4.1-Flash-1017，还开放了自研搜索API</description>
-      <pubDate>Sat, 17 Oct 2026 12:21:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/504067.html</guid>
-      <source url="https://www.qbitai.com/2026/10/504067.html">量子位</source>
-    </item>
-    <item>
-      <title>清华开源！智能体操作系统任务成本降83%，AI记忆可查可改</title>
-      <link>https://www.qbitai.com/2026/10/503935.html</link>
-      <description>整套系统原生支持MCP</description>
-      <pubDate>Sat, 17 Oct 2026 12:10:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503935.html</guid>
-      <source url="https://www.qbitai.com/2026/10/503935.html">量子位</source>
-    </item>
-    <item>
-      <title>Claude半小时解开密码学悬案，学界集体走偏20年</title>
-      <link>https://www.qbitai.com/2026/10/503910.html</link>
-      <description>谜底指向时间</description>
-      <pubDate>Sat, 17 Oct 2026 12:06:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503910.html</guid>
-      <source url="https://www.qbitai.com/2026/10/503910.html">量子位</source>
     </item>
     <item>
       <title>WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费</title>
@@ -166,6 +142,30 @@
       <pubDate>Fri, 16 Oct 2026 08:23:54 +0000</pubDate>
       <guid isPermaLink="true">https://www.ithome.com/1/013/983.htm</guid>
       <source url="https://www.ithome.com/1/013/983.htm">IT之家·人工智能</source>
+    </item>
+    <item>
+      <title>范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”</title>
+      <link>https://www.qbitai.com/2026/10/503829.html</link>
+      <description>范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。</description>
+      <pubDate>Fri, 16 Oct 2026 07:16:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503829.html</guid>
+      <source url="https://www.qbitai.com/2026/10/503829.html">量子位</source>
+    </item>
+    <item>
+      <title>Waymo 宣布进军多伦多，计划2028年迎接首批乘客</title>
+      <link>https://waymo.com/blog/2026/10/waymo-in-toronto</link>
+      <description>Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服务，目标2028年迎接首批乘客。近期将先以人工驾驶方式采集高精地图并由自动驾驶专家进行测试；Waymo 与 Element Fleet Management 合作提供车队管理服务，将逐步创造数百个岗位。官方称基于超4亿公里完全自动驾驶里程，其车辆在严重伤害及以上事故中比人类驾驶少95%。</description>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://waymo.com/blog/2026/10/waymo-in-toronto</guid>
+      <source url="https://waymo.com/blog/2026/10/waymo-in-toronto">Waymo：Blog（网页）</source>
+    </item>
+    <item>
+      <title>为什么 Anthropic 不做 Personal AI</title>
+      <link>http://www.geekpark.net/news/372461</link>
+      <description>不久前，9 月 29 日的 OpenAI DevDay 开发者日，舞台上飘出了几个圆滚滚的小气泡。 它们叫 dots，是 OpenAI 最新的个人 agent。每个 dot 跑在 GPT-6 Astra 上，拥有一台独立的云端电脑和浏览器，用户关掉 ChatGPT 之后，它还在后台继续干活。OpenAI 对它的描述是： 「built to handle everything」，什么都能接。 三周前的 9 月 8 日， Meta 推出了 Muse，同样有独立的云端虚拟机，同样能在后台持续工作，同样顶着一个萌萌的卡通形象，而且直接住进了 WhatsApp。市场的反馈相当热烈，Apptopia 的估</description>
+      <pubDate>Fri, 16 Oct 2026 14:50:02 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372461</guid>
+      <source url="http://www.geekpark.net/news/372461">极客公园</source>
     </item>
   </channel>
 </rss>
