@@ -718,5 +718,13 @@
     "sourceUrl": "https://x.com/StepFun_ai/status/2110717330657616092",
     "sourceName": "X：阶跃星辰 StepFun (@StepFun_ai)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Artificial Analysis 发布 NVIDIA Vera Rubin NVL72 首批 AA-AgentPerf 智能体推理评测",
+    "summary": "Artificial Analysis 公布首批 AA-AgentPerf 结果，测试 NVIDIA Vera Rubin NVL72 在智能体编码工作负载下的服务效率，对比 GB300 NVL72。",
+    "sourceUrl": "https://artificialanalysis.ai/articles/vera-rubin-nvl72-agentperf",
+    "sourceName": "Artificial Analysis 完整文章（网页）",
+    "reviewReason": "awaiting-review"
   }
 ]
