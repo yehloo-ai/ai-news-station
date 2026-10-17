@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 22:46:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 01:15:44 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台</title>
+      <link>https://www.ifanr.com/1684782?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元 · 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic · 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 17 Oct 2026 00:26:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1684782?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1684782?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>iPhone Duo 一秒售罄，发货排到明年；马斯克：考虑自建电商平台；谷歌创始人：AI 正开始自己造自己</title>
+      <link>http://www.geekpark.net/news/372488</link>
+      <description>苹果官网 2026 年的 iPhone Duo 已售罄！发货日期排到明年 1 月 22 日 10 月 16 日，苹果首款折叠屏 iPhone Duo 于当晚 8 点开启线上预购，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等官方直营渠道，购买页面一度无法正常打开。开售一分钟左右，各大电商平台即显示该机型售罄。 目前官网仍可下单，预计发货时间排至 1 月 22 日，2026 年的备货已全部售罄。受折叠屏铰链、柔性内屏产能爬坡周期长于直板机型、首批备货有限叠加首发集中抢购影响，交期被拉长。后续随着产能释放，发货排期将逐步前移，已抢到 11 月、12 月批次的用户或提前半个</description>
+      <pubDate>Sat, 17 Oct 2026 08:22:32 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372488</guid>
+      <source url="http://www.geekpark.net/news/372488">极客公园</source>
+    </item>
+    <item>
+      <title>Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一</title>
+      <link>https://x.com/arena/status/2111221323217412318</link>
+      <description>Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。</description>
+      <pubDate>Fri, 16 Oct 2026 22:22:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2111221323217412318</guid>
+      <source url="https://x.com/arena/status/2111221323217412318">X：Arena (@arena)</source>
+    </item>
     <item>
       <title>把点点点点起</title>
       <link>https://www.youtube.com/watch?v=GBOZIRK1ujw</link>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.20676</guid>
       <source url="https://arxiv.org/abs/2610.20676">ArXiv AI</source>
-    </item>
-    <item>
-      <title>流程预算:对流程匹配模式进行无培训抽样-预算估算</title>
-      <link>https://arxiv.org/abs/2610.20636</link>
-      <description>从连续流相匹配模型等基于流相的生成器中取样需要数字ODE或SDE集成,使推论成本取决于函数评价(NFEs)的数量. 在实践中,采样预算是从先前w中继承的.</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.20636</guid>
-      <source url="https://arxiv.org/abs/2610.20636">ArXiv ML</source>
-    </item>
-    <item>
-      <title>扩大注意:一条泰勒线至线-时间变换器的路线,经常州数目固定</title>
-      <link>https://arxiv.org/abs/2610.20637</link>
-      <description>我们把关注的指数内核 扩展成一个短短的泰勒系列 以美元为条件 将每个术语分解成一个收缩功率的内产物 将因果历史分解成美元 经常州,每个州更新一个一级</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.20637</guid>
-      <source url="https://arxiv.org/abs/2610.20637">ArXiv ML</source>
-    </item>
-    <item>
-      <title>在小型有限责任公司中引导欺骗行为</title>
-      <link>https://arxiv.org/abs/2610.20638</link>
-      <description>随着前沿模式能力的推进及其造成灾难性损害的风险增加,关于欺骗性调整的研究变得越来越紧迫。 欺骗性调整是一种欺骗性调整的形式,而守法差距是关键所在。</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.20638</guid>
-      <source url="https://arxiv.org/abs/2610.20638">ArXiv ML</source>
     </item>
   </channel>
 </rss>
