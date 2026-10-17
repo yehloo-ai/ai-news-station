@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 11:33:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:27:29 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta 删除可能允许它刮去新闻站点的语言</title>
+      <link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
+      <description>反弹后,Meta正在再次更新其术语,去除暗示可以从包括新闻网站在内的站点刮去内容的语言来训练其人工智能. 具体地说,以下语言不再出现在商业术语页面:.Meta可以使用来自这些域的任何内容,网页,</description>
+      <pubDate>Sat, 17 Oct 2026 11:04:36 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</guid>
+      <source url="https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites">The Verge AI</source>
+    </item>
+    <item>
+      <title>网站对人工智能特工关闭了大门</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
+      <description>自主特工是人工智能中最热门的. OpenAI, Meta, Google, Instinct, 和其他人承诺他们的特工可以代表您搜索互联网, 做任何事情,从预订晚餐预订,清理收件箱到购买新鞋。 但是当互联网的其余部分不会出现时,会发生什么?</description>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web">The Verge AI</source>
+    </item>
     <item>
       <title>WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费</title>
       <link>https://x.com/WorkBuddy_AI/status/2111404103402430558</link>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 16 Oct 2026 14:50:02 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372461</guid>
       <source url="http://www.geekpark.net/news/372461">极客公园</source>
-    </item>
-    <item>
-      <title>苹果和 Meta 和好了，是 AI 逼的</title>
-      <link>http://www.geekpark.net/news/372458</link>
-      <description>没有永远的敌人，只有永远的 AI 焦虑。 10 月 2 日，苹果做了一件很少见的事，因为一个第三方 App，宣布要调整系统规则。 起因是《Inc.》杂志的科技专栏作者 Jason Aten 公开指控，Meta 的 AI 智能体 Muse 在他的 Mac 上读取了私人消息。Muse 是 Meta 力推的「能替你办事」的 Agent，会帮你退订闲置会员，甚至替你砍价。 苹果随即表态，今后 AI 请求读取 Mac 数据时，系统会主动提示用户。 这几乎就是苹果和 Meta 过去五年关系的缩影，Meta 想拿数据，苹果出面拦着。 然而仅仅两周后，故事发生了反转。 当地时间 10 月 15 日，Meta</description>
-      <pubDate>Fri, 16 Oct 2026 14:41:48 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372458</guid>
-      <source url="http://www.geekpark.net/news/372458">极客公园</source>
-    </item>
-    <item>
-      <title>丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑</title>
-      <link>https://www.ithome.com/1/013/914.htm</link>
-      <description>据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。</description>
-      <pubDate>Fri, 16 Oct 2026 06:14:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/013/914.htm</guid>
-      <source url="https://www.ithome.com/1/013/914.htm">IT之家·人工智能</source>
     </item>
   </channel>
 </rss>
