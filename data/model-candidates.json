@@ -726,5 +726,13 @@
     "sourceUrl": "https://artificialanalysis.ai/articles/vera-rubin-nvl72-agentperf",
     "sourceName": "Artificial Analysis 完整文章（网页）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变",
+    "summary": "DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。",
+    "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
+    "sourceName": "DeepSeek：API 更新日志",
+    "reviewReason": "awaiting-review"
   }
 ]
