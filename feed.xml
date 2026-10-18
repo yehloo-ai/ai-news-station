@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 09:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:57:12 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍</title>
+      <link>https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/</link>
+      <description>Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。</description>
+      <pubDate>Sun, 18 Oct 2026 13:22:26 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/</guid>
+      <source url="https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>德国两家法院先后裁定 Google 须为其 AI Overview 内容负责</title>
+      <link>https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/</link>
+      <description>慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。</description>
+      <pubDate>Sun, 18 Oct 2026 10:52:39 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/</guid>
+      <source url="https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/">The Decoder：AI News（RSS）</source>
+    </item>
     <item>
       <title>卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由</title>
       <link>https://x.com/Khazix0918/status/2111639562720329976</link>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 16 Oct 2026 10:02:40 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</guid>
       <source url="https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers">The Verge AI</source>
-    </item>
-    <item>
-      <title>a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后</title>
-      <link>https://www.a16z.news/p/this-week-in-charts-agents-denied</link>
-      <description>a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。</description>
-      <pubDate>Fri, 16 Oct 2026 14:00:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.a16z.news/p/this-week-in-charts-agents-denied</guid>
-      <source url="https://www.a16z.news/p/this-week-in-charts-agents-denied">a16z：News（RSS）</source>
-    </item>
-    <item>
-      <title>NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</link>
-      <description>NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。</description>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</guid>
-      <source url="https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs">NVIDIA：Newsroom（RSS）</source>
     </item>
   </channel>
 </rss>
