@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 17:17:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 20:34:00 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首</title>
+      <link>https://x.com/arena/status/2111894091168682086</link>
+      <description>Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。</description>
+      <pubDate>Sun, 18 Oct 2026 18:56:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2111894091168682086</guid>
+      <source url="https://x.com/arena/status/2111894091168682086">X：Arena (@arena)</source>
+    </item>
     <item>
       <title>Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍</title>
       <link>https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/</link>
@@ -144,7 +152,7 @@
       <source url="https://www.youtube.com/watch?v=GBOZIRK1ujw">OpenAI</source>
     </item>
     <item>
-      <title>将 ChatGPT 用于共享团队任务</title>
+      <title>团队如何通过 ChatGPT 实现重复任务自动化</title>
       <link>https://www.youtube.com/watch?v=OMxEUdIgsQc</link>
       <description>在ChatGPT中,您团队可以与团队任务一起管理经常性的工作。 遵循法律团队的日常录取工作流程—— 从审查收到的申请和检查最后期限到完善下一轮运行的共享指令。 运行在云中的任务, 这样团队成员就可以审查结果, 改进w 。</description>
       <pubDate>Fri, 16 Oct 2026 18:00:49 +0000</pubDate>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api</guid>
       <source url="https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api">DeepSeek：API 更新日志</source>
-    </item>
-    <item>
-      <title>DeepSeek-V4.1-Flash-1017 发布，多基准成绩提升且 API 价格不变</title>
-      <link>https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新</link>
-      <description>DeepSeek 将 V4.1 Flash 升级至 DeepSeek-V4.1-Flash-1017，网页端与 APP 同步更新，API 调用方式与价格不变，仍用 deepseek-flash 访问。</description>
-      <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新</guid>
-      <source url="https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新">DeepSeek：API 更新日志</source>
     </item>
   </channel>
 </rss>
