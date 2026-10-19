@@ -5,8 +5,152 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 01:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:05:52 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MemSilicon完成超 4 亿元 A 轮融资，宣布战略升级</title>
+      <link>http://www.geekpark.net/news/372545</link>
+      <description>10 月 19 日，铭芯启睿（MemSilicon）宣布完成超 4 亿元 A 轮融资。本轮融资由博原资本领投，博世创投、创领资本、米哈游、中关村科学城公司、兆易创新等跟投，老股东复容投资、国开科创、恒裕资本、锦秋基金、顺禧基金、小米战投、中科创星持续加注。本轮融资将主要用于 RRAM 的产业化与商业化，以及新产品 LPU 的研发。 MemSilicon 同时宣布，前 Graphcore 总裁兼大中华区总经理卢涛加入团队，担任 CEO 和联合创始人。公司战略全面升级：在继续推进阻变存储器（RRAM）产品化的基础上，启动面向大模型推理的第一代 LPU 研发，打造「满血模型、高速 Token、越级性</description>
+      <pubDate>Mon, 19 Oct 2026 12:00:32 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372545</guid>
+      <source url="http://www.geekpark.net/news/372545">极客公园</source>
+    </item>
+    <item>
+      <title>结构化当局注射:通过 MCP 型置换器对LLM 剂进行持续的人类控制</title>
+      <link>https://arxiv.org/abs/2610.22373</link>
+      <description>基于LLM的剂在分布式和多剂系统中越来越多地作为自主的管弦乐器使用,但控制漏洞依然存在:没有协议级机制允许人类操作者发出贯穿整个规划周期的具有约束力的指令. F.</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22373</guid>
+      <source url="https://arxiv.org/abs/2610.22373">ArXiv AI</source>
+    </item>
+    <item>
+      <title>重新思考用户编码器:为假想-可扩展用户代表制运行扩散状态</title>
+      <link>https://arxiv.org/abs/2610.22400</link>
+      <description>现有的基于大型语言模型(LLM)的用户编码器将不同行为日志序列化,并通过自递性(AR)预测将其压缩为静态表示。然而,它们的单向约束限制了双向信息</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22400</guid>
+      <source url="https://arxiv.org/abs/2610.22400">ArXiv AI</source>
+    </item>
+    <item>
+      <title>从事件到理性:明确国家的分级规则构成</title>
+      <link>https://arxiv.org/abs/2610.22403</link>
+      <description>一个推理系统给出的是一个结论;它所欠的是一个理由。 生产一个需要每个操作都根据实际可获得的事实被允许,中间结果的依赖性能够生存到路径的尽头,以及</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22403</guid>
+      <source url="https://arxiv.org/abs/2610.22403">ArXiv AI</source>
+    </item>
+    <item>
+      <title>EECHOES:通过递录历史压缩和特权化的策略扭曲来超越当前图像</title>
+      <link>https://arxiv.org/abs/2610.22408</link>
+      <description>长视距图形用户界面代理依赖于视觉历史来维持任务状态,但保留历史截图会增加视觉脚本使用和推论成本,而文本摘要可以丢弃临界状态信息,破坏长视距 reli</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22408</guid>
+      <source url="https://arxiv.org/abs/2610.22408">ArXiv AI</source>
+    </item>
+    <item>
+      <title>以物剂为基础的农业生态模型中决策规则的敏感性分析</title>
+      <link>https://arxiv.org/abs/2610.22420</link>
+      <description>基于物剂的模型非常适合为决策建立农业生态系统模型,而将其模拟转化为可操作的洞察力则需要确定哪些决定实际推动行为。 在这种情况下,敏感性是分析性的。</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22420</guid>
+      <source url="https://arxiv.org/abs/2610.22420">ArXiv AI</source>
+    </item>
+    <item>
+      <title>大型语言模型何时是很好的校准剂? 物理标签提示了预算工程模拟器校准</title>
+      <link>https://arxiv.org/abs/2610.22379</link>
+      <description>校准昂贵的工程模拟器需要调试模型参数以匹配参考数据,这一过程受到计算成本的严重制约。本研究研究了以物理诊断为条件的大型语言模型(LLM)是否</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22379</guid>
+      <source url="https://arxiv.org/abs/2610.22379">ArXiv ML</source>
+    </item>
+    <item>
+      <title>信任但验证: 为散射设计区域- 异质前向动态</title>
+      <link>https://arxiv.org/abs/2610.22380</link>
+      <description>持续传播将前方过程视为设计空间; 离散语言传播经常使用吸收腐败, 使上下文在一代人中完全信任。 这使得信任二进制: 损坏的上下文被复制为地面真理, p</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22380</guid>
+      <source url="https://arxiv.org/abs/2610.22380">ArXiv ML</source>
+    </item>
+    <item>
+      <title>测试时间持续学习节省的附加-特定再学习</title>
+      <link>https://arxiv.org/abs/2610.22381</link>
+      <description>当一个事实变得难以从语言模型中引出时,该模型是否丢失了,或者它是否只是变得不易获得? 参数更新测试时间的持续学习代理通常由当前输出的准确性来评估;我们询问该度量是否为度量计。</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22381</guid>
+      <source url="https://arxiv.org/abs/2610.22381">ArXiv ML</source>
+    </item>
+    <item>
+      <title>CGDT-CESN:多变量时序预测的关联-引导和动态-集成回声网络</title>
+      <link>https://arxiv.org/abs/2610.22430</link>
+      <description>对多变量时间序列的准确预测需要同时捕捉变量特定动态和交叉变量相互作用的模型。在这项工作中,一个关联-Guided and Dynamics-Trained Clubled Echo State Network(CGDT-CESN)是</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22430</guid>
+      <source url="https://arxiv.org/abs/2610.22430">ArXiv ML</source>
+    </item>
+    <item>
+      <title>BOLT: 弹性工作- 跳跃与时间拖拉及资源耦合的运输的多波特连克边框教学</title>
+      <link>https://arxiv.org/abs/2610.22433</link>
+      <description>当一个稀缺的车队在车站之间调动工作时,灵活的工场安排就会成为资源交织的,因为安排安排安排了运输等候。 BOLT(为运输衔接安排的有限学习)从chai建立更低的绑定线。</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22433</guid>
+      <source url="https://arxiv.org/abs/2610.22433">ArXiv ML</source>
+    </item>
+    <item>
+      <title>嵌入是价格过高的吗? 小型和三级语言模型的16 MB 词汇表</title>
+      <link>https://arxiv.org/abs/2610.22428</link>
+      <description>在小语言模型中,词汇是最大的单部分. Gemma 3 270M中,嵌入表持有268M参数中的168M,由于量化方法将嵌入法留在16位中,它也是大部分文件,一旦其他的mod</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22428</guid>
+      <source url="https://arxiv.org/abs/2610.22428">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>预填专家减少模式伤害 MoE 模型:少数快速托肯携带大部分短答 F1 损失</title>
+      <link>https://arxiv.org/abs/2610.22454</link>
+      <description>在预填过程中通过较少的路由专家运行即时标志,是使专家混合体(MoE)更便宜的简单方法,但不清楚这种损害是什么。</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22454</guid>
+      <source url="https://arxiv.org/abs/2610.22454">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>从平行到差异:语言模型对行动名义构造的学习</title>
+      <link>https://arxiv.org/abs/2610.22468</link>
+      <description>动作名义构造(ANCs)以名义形式表达事件,其论据标记遵循条款或普通名词短语中发现的规律. 在本文中,我们调查不同的语法配置如何影响语言模型'.</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22468</guid>
+      <source url="https://arxiv.org/abs/2610.22468">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>REALCLI:争取统一评价CLI代理人的人类与代理人协作</title>
+      <link>https://arxiv.org/abs/2610.22507</link>
+      <description>命令线接口代理越来越多地执行较长范围的任务,但现有的基准要么假设用户指令在整个执行过程中保持不变,要么评价任务结果,而不记录运行时间合作的质量。</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22507</guid>
+      <source url="https://arxiv.org/abs/2610.22507">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>审计KIT:用于基准、判断和比较大语文模型和代理系统的统一评价</title>
+      <link>https://arxiv.org/abs/2610.22511</link>
+      <description>评估语言模型和代理人需要结合基准准确性、基于法官的评估、运行时间性能、工具使用行为和检索质量。 界面、语义和微量格式的差异使这些比较复杂化。</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22511</guid>
+      <source url="https://arxiv.org/abs/2610.22511">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>实测 Lovart 2.0 ，设计 AI 进入个人助理时代</title>
+      <link>https://www.ifanr.com/1684840?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>你下班了，Arti 还能继续工作#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 19 Oct 2026 02:53:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1684840?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1684840?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道</title>
+      <link>http://www.geekpark.net/news/372514</link>
+      <description>OpenAI 三个神秘模型曝光10 月 18 日，有开发者发现，OpenAI 的 API 模型列表中突然出现了三个陌生名字：aurora-red-alpha、aurora-green-alpha、aurora-blue-alpha。三个模型都以 Aurora（极光）命名，分别对应红、绿、蓝三种颜色。但相关条目很快便从模型列表中消失。此次发现来自第三方维护的 OpenAI 模型列表镜像，并非官方公告。因此，这些模型究竟是什么、是否会正式发布，目前都还是未知数。有网友推测，这些模型极有可能是 GPT-6 Astra 后续版本的内部检查点，专门对标 Fable 5.5 的强项，创意编码、长程 age</description>
+      <pubDate>Mon, 19 Oct 2026 09:18:11 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372514</guid>
+      <source url="http://www.geekpark.net/news/372514">极客公园</source>
+    </item>
     <item>
       <title>DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首</title>
       <link>https://x.com/arena/status/2111894091168682086</link>
@@ -22,150 +166,6 @@
       <pubDate>Sun, 18 Oct 2026 13:22:26 +0000</pubDate>
       <guid isPermaLink="true">https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/</guid>
       <source url="https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>德国两家法院先后裁定 Google 须为其 AI Overview 内容负责</title>
-      <link>https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/</link>
-      <description>慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。</description>
-      <pubDate>Sun, 18 Oct 2026 10:52:39 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/</guid>
-      <source url="https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由</title>
-      <link>https://x.com/Khazix0918/status/2111639562720329976</link>
-      <description>作者分享受邀参加英伟达 RTX Spark 全球开售活动后，深度使用一周华硕 ProArt 创16（128G 统一内存+1T，京东售价 37999 元）的体验，开售时 128G 版本在京东几分钟内被抢空。</description>
-      <pubDate>Sun, 18 Oct 2026 02:04:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Khazix0918/status/2111639562720329976</guid>
-      <source url="https://x.com/Khazix0918/status/2111639562720329976">X：卡兹克 (@Khazix0918)</source>
-    </item>
-    <item>
-      <title>DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372512</link>
-      <description>DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真 10 月 17 日，DeepSeek V4.1 Flash 更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。 在提升性能的同时，模型的任务运行时间与输出长度还缩短了，让用户能够以更低成本、更快速度完成任务，在多个 Harness 下达到了新的性能-费用帕累托最优。 特别地，此次优化着重针对 DeepSeek Harness、腾讯 CodeBuddy、WorkBuddy 等</description>
-      <pubDate>Sun, 18 Oct 2026 08:39:02 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372512</guid>
-      <source url="http://www.geekpark.net/news/372512">极客公园</source>
-    </item>
-    <item>
-      <title>Browser Use 讲解浏览器智能体的工作原理与使用时机</title>
-      <link>https://browser-use.com/posts/browser-agents</link>
-      <description>Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://browser-use.com/posts/browser-agents</guid>
-      <source url="https://browser-use.com/posts/browser-agents">Browser Use</source>
-    </item>
-    <item>
-      <title>Meta 删除可能允许它刮去新闻站点的语言</title>
-      <link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
-      <description>反弹后,Meta正在再次更新其术语,去除暗示可以从包括新闻网站在内的站点刮去内容的语言来训练其人工智能. 具体地说,以下语言不再出现在商业术语页面:.Meta可以使用来自这些域的任何内容,网页,</description>
-      <pubDate>Sat, 17 Oct 2026 11:04:36 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</guid>
-      <source url="https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites">The Verge AI</source>
-    </item>
-    <item>
-      <title>网站对人工智能特工关闭了大门</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-      <description>自主特工是人工智能中最热门的. OpenAI, Meta, Google, Instinct, 和其他人承诺他们的特工可以代表您搜索互联网, 做任何事情,从预订晚餐预订,清理收件箱到购买新鞋。 但是当互联网的其余部分不会出现时,会发生什么?</description>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web">The Verge AI</source>
-    </item>
-    <item>
-      <title>突发！DeepSeek新模型发布，超级性价比斩杀一切</title>
-      <link>https://www.qbitai.com/2026/10/504067.html</link>
-      <description>新版本V4.1-Flash-1017，还开放了自研搜索API</description>
-      <pubDate>Sat, 17 Oct 2026 12:21:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/504067.html</guid>
-      <source url="https://www.qbitai.com/2026/10/504067.html">量子位</source>
-    </item>
-    <item>
-      <title>清华开源！智能体操作系统任务成本降83%，AI记忆可查可改</title>
-      <link>https://www.qbitai.com/2026/10/503935.html</link>
-      <description>整套系统原生支持MCP</description>
-      <pubDate>Sat, 17 Oct 2026 12:10:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503935.html</guid>
-      <source url="https://www.qbitai.com/2026/10/503935.html">量子位</source>
-    </item>
-    <item>
-      <title>Claude半小时解开密码学悬案，学界集体走偏20年</title>
-      <link>https://www.qbitai.com/2026/10/503910.html</link>
-      <description>谜底指向时间</description>
-      <pubDate>Sat, 17 Oct 2026 12:06:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/503910.html</guid>
-      <source url="https://www.qbitai.com/2026/10/503910.html">量子位</source>
-    </item>
-    <item>
-      <title>WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费</title>
-      <link>https://x.com/WorkBuddy_AI/status/2111404103402430558</link>
-      <description>WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。</description>
-      <pubDate>Sat, 17 Oct 2026 10:29:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/WorkBuddy_AI/status/2111404103402430558</guid>
-      <source url="https://x.com/WorkBuddy_AI/status/2111404103402430558">X：Tencent WorkBuddy (@WorkBuddy_AI)</source>
-    </item>
-    <item>
-      <title>卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687354&amp;idx=1&amp;sn=dea0d54dc3b71b361e36199db6cf4a86</link>
-      <description>数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。</description>
-      <pubDate>Sat, 17 Oct 2026 10:19:04 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687354&amp;idx=1&amp;sn=dea0d54dc3b71b361e36199db6cf4a86</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687354&amp;idx=1&amp;sn=dea0d54dc3b71b361e36199db6cf4a86">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审</title>
-      <link>https://x.com/shao__meng/status/2111274173192638932</link>
-      <description>作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。</description>
-      <pubDate>Sat, 17 Oct 2026 01:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shao__meng/status/2111274173192638932</guid>
-      <source url="https://x.com/shao__meng/status/2111274173192638932">X：邵猛 (@shao__meng)</source>
-    </item>
-    <item>
-      <title>早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台</title>
-      <link>https://www.ifanr.com/1684782?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元 · 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic · 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 17 Oct 2026 00:26:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1684782?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1684782?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>iPhone Duo 一秒售罄，发货排到明年；马斯克：考虑自建电商平台；谷歌创始人：AI 正开始自己造自己</title>
-      <link>http://www.geekpark.net/news/372488</link>
-      <description>苹果官网 2026 年的 iPhone Duo 已售罄！发货日期排到明年 1 月 22 日 10 月 16 日，苹果首款折叠屏 iPhone Duo 于当晚 8 点开启线上预购，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等官方直营渠道，购买页面一度无法正常打开。开售一分钟左右，各大电商平台即显示该机型售罄。 目前官网仍可下单，预计发货时间排至 1 月 22 日，2026 年的备货已全部售罄。受折叠屏铰链、柔性内屏产能爬坡周期长于直板机型、首批备货有限叠加首发集中抢购影响，交期被拉长。后续随着产能释放，发货排期将逐步前移，已抢到 11 月、12 月批次的用户或提前半个</description>
-      <pubDate>Sat, 17 Oct 2026 08:22:32 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372488</guid>
-      <source url="http://www.geekpark.net/news/372488">极客公园</source>
-    </item>
-    <item>
-      <title>Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一</title>
-      <link>https://x.com/arena/status/2111221323217412318</link>
-      <description>Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。</description>
-      <pubDate>Fri, 16 Oct 2026 22:22:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2111221323217412318</guid>
-      <source url="https://x.com/arena/status/2111221323217412318">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>把点点点点起</title>
-      <link>https://www.youtube.com/watch?v=GBOZIRK1ujw</link>
-      <description>Ali是OpenAI的工程师,他用他的点来分辨凌晨3点的一桩待命事件。他的点调查了这个问题,并启动了一款Codex线程,这样他就可以在ChatGPT应用中从手机中引导工作.</description>
-      <pubDate>Fri, 16 Oct 2026 21:43:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=GBOZIRK1ujw</guid>
-      <source url="https://www.youtube.com/watch?v=GBOZIRK1ujw">OpenAI</source>
-    </item>
-    <item>
-      <title>团队如何通过 ChatGPT 实现重复任务自动化</title>
-      <link>https://www.youtube.com/watch?v=OMxEUdIgsQc</link>
-      <description>在ChatGPT中,您团队可以与团队任务一起管理经常性的工作。 遵循法律团队的日常录取工作流程—— 从审查收到的申请和检查最后期限到完善下一轮运行的共享指令。 运行在云中的任务, 这样团队成员就可以审查结果, 改进w 。</description>
-      <pubDate>Fri, 16 Oct 2026 18:00:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=OMxEUdIgsQc</guid>
-      <source url="https://www.youtube.com/watch?v=OMxEUdIgsQc">OpenAI</source>
-    </item>
-    <item>
-      <title>DeepSeek 开放自研搜索 API</title>
-      <link>https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api</link>
-      <description>DeepSeek 开放自研搜索 API，底层由 AI 原生的 DeepSeek 搜索引擎提供，每天稳定处理数亿次搜索请求。该引擎索引全球千亿级网页、支持多语言，并通过识别机制过滤 SEO 作弊、GEO 操纵和低质 AIGC，使用方式见网页搜索与抓取指南。</description>
-      <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api</guid>
-      <source url="https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api">DeepSeek：API 更新日志</source>
     </item>
   </channel>
 </rss>
