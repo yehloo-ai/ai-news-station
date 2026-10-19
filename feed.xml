@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 19:15:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:34:12 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>与 Codex 一起烹饪: Ep. 1</title>
+      <link>https://www.youtube.com/watch?v=DQHtmW9ZlIs</link>
+      <description>在这集"与Codex一起烹饪"中,一个OpenAI点帮助在ChatGPT空间中计划出一款拉面食谱并组织准备,由GPT-Live指导烹饪过程. 也涵盖: Codex云环境,在笔记本电脑被关闭后会保留任务运行,新的Codex CLI功能包括语音输入,a</description>
+      <pubDate>Mon, 19 Oct 2026 22:55:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DQHtmW9ZlIs</guid>
+      <source url="https://www.youtube.com/watch?v=DQHtmW9ZlIs">OpenAI</source>
+    </item>
+    <item>
+      <title>CoreWeave的债务正在成为整个人工智能行业的问题。</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</link>
+      <description>上星期CoreWeave有一个糟糕的星期。 其债券被一个共同的定义滑入了困难地区 — — 当投资者要求收益比政府债券多出1000个基点时。 最后,Tuesady Chamath“SPAC King”Palihapitiya注意到了这些困难的债务,并问及这些债券是否用于债务。</description>
+      <pubDate>Mon, 19 Oct 2026 17:28:20 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai">The Verge AI</source>
+    </item>
+    <item>
+      <title>FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/</link>
+      <description>美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。</description>
+      <pubDate>Mon, 19 Oct 2026 20:21:53 +0000</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/">Ars Technica：AI（RSS）</source>
+    </item>
     <item>
       <title>fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max</title>
       <link>https://x.com/fal/status/2112251022047412492</link>
@@ -72,6 +96,14 @@
       <source url="https://www.youtube.com/watch?v=ExVDpMeaWp0">OpenAI</source>
     </item>
     <item>
+      <title>美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品</title>
+      <link>https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/</link>
+      <description>美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。</description>
+      <pubDate>Mon, 19 Oct 2026 15:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/</guid>
+      <source url="https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/">Hacker News：AI 热帖</source>
+    </item>
+    <item>
       <title>Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu</title>
       <link>https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</link>
       <description>英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。</description>
@@ -130,42 +162,10 @@
     <item>
       <title>AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端</title>
       <link>https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/</link>
-      <description>AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。</description>
+      <description>AWS 发布 TorchNeuron，一个面向 AWS Trainium 的开源原生 PyTorch 后端，将于 10 月 20 日在 PyTorch Conference North America 上以 Apache 2.0 协议开放公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。</description>
       <pubDate>Mon, 19 Oct 2026 12:45:23 +0000</pubDate>
       <guid isPermaLink="true">https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/</guid>
       <source url="https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/">PyTorch：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>民主党人认为破解人工智能可以给他们一点优势</title>
-      <link>https://www.theverge.com/policy/1013113/democrats-ai-midterms</link>
-      <description>民主党人今年11月可以赢得国会的控制权,如果可以的话,他们需要决定如何解决该国最新和最棘手的政治问题之一:人工智能。 民意测验预测民主党人将在中期选举中至少翻出一个国会院,这样就让委员会得以运作。</description>
-      <pubDate>Mon, 19 Oct 2026 08:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1013113/democrats-ai-midterms</guid>
-      <source url="https://www.theverge.com/policy/1013113/democrats-ai-midterms">The Verge AI</source>
-    </item>
-    <item>
-      <title>客户为什么愿意为端侧 AI 买单？五位一线操盘手讲透了</title>
-      <link>http://www.geekpark.net/news/372578</link>
-      <description>过去几年，AI 行业热衷于比参数、拼算力、讲融资。但模型一旦离开展台，客户的问题立刻具体起来：数据会不会泄露？设备能不能 24 小时运行？响应够不够快？噪声大不大？ 这些问题，正把端侧 AI 推到产业舞台中央。 10 月 14 日，后摩智能在北京开了一场生态合作伙伴大会。期间，极客公园创始人 &amp;amp; CEO 张鹏主持了一场圆桌，五位来自不同赛道的人坐到了一起：麒麟软件副总经理 / 生态发展中心总经理姚翎、聊趣智能科技创始人兼 CEO 黄隽实、罗格数据 CTO 刘学鹏、寅谱计算 CMO 陈展凌、后摩智能 AI 系统总工程师陈仲铭。 他们分别来自操作系统、应用、数据工程、整机集成和芯片领域，讨</description>
-      <pubDate>Mon, 19 Oct 2026 18:10:03 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372578</guid>
-      <source url="http://www.geekpark.net/news/372578">极客公园</source>
-    </item>
-    <item>
-      <title>苹果第一个 AI 机器人，可能是个能动的 HomeView</title>
-      <link>https://www.ifanr.com/1684921?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>给屏幕装上脖子#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 19 Oct 2026 10:09:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1684921?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1684921?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来</title>
-      <link>https://www.ifanr.com/1684880?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>好用到原地「起飞」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 19 Oct 2026 09:21:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1684880?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1684880?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
