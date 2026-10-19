@@ -5,12 +5,132 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 19:15:58 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max</title>
+      <link>https://x.com/fal/status/2112251022047412492</link>
+      <description>fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。</description>
+      <pubDate>Mon, 19 Oct 2026 18:34:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fal/status/2112251022047412492</guid>
+      <source url="https://x.com/fal/status/2112251022047412492">X：fal (@fal)</source>
+    </item>
+    <item>
+      <title>DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一</title>
+      <link>https://x.com/arena/status/2112247114944360666</link>
+      <description>Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。</description>
+      <pubDate>Mon, 19 Oct 2026 18:18:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2112247114944360666</guid>
+      <source url="https://x.com/arena/status/2112247114944360666">X：Arena (@arena)</source>
+    </item>
+    <item>
+      <title>Inception 扩散模型 Mercury 3 上线 OpenRouter</title>
+      <link>https://x.com/OpenRouter/status/2112225779782398131</link>
+      <description>Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。</description>
+      <pubDate>Mon, 19 Oct 2026 16:54:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenRouter/status/2112225779782398131</guid>
+      <source url="https://x.com/OpenRouter/status/2112225779782398131">X：OpenRouter (@OpenRouter)</source>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二</title>
+      <link>https://x.com/ArtificialAnlys/status/2112218661432000694</link>
+      <description>DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。</description>
+      <pubDate>Mon, 19 Oct 2026 16:25:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2112218661432000694</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2112218661432000694">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
+    <item>
+      <title>Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分</title>
+      <link>https://x.com/arena/status/2112215825944117361</link>
+      <description>Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。</description>
+      <pubDate>Mon, 19 Oct 2026 16:14:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2112215825944117361</guid>
+      <source url="https://x.com/arena/status/2112215825944117361">X：Arena (@arena)</source>
+    </item>
+    <item>
+      <title>Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性</title>
+      <link>https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/</link>
+      <description>Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。</description>
+      <pubDate>Mon, 19 Oct 2026 15:30:37 +0000</pubDate>
+      <guid isPermaLink="true">https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/</guid>
+      <source url="https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/">Meta Engineering Blog（RSS）</source>
+    </item>
+    <item>
+      <title>汤姆森路透社关于建立对法律人工智能的信任的路透社</title>
+      <link>https://www.youtube.com/shorts/7lC2N9woZy4</link>
+      <description>将法律专业知识和前沿人工智能结合起来,从信任开始。 对于汤姆森路透社的卡米略·斯佩罗尼来说,这意味着产出律师可以核实、引用和登上他们的名字。卡米略讨论汤姆森路透社与OpenAI的合作,让高克和汤姆森路透社法人加入ChatGPT企业,</description>
+      <pubDate>Mon, 19 Oct 2026 15:13:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/7lC2N9woZy4</guid>
+      <source url="https://www.youtube.com/shorts/7lC2N9woZy4">OpenAI</source>
+    </item>
+    <item>
+      <title>汤姆森路透社关于建立对法律人工智能的信任的路透社</title>
+      <link>https://www.youtube.com/watch?v=ExVDpMeaWp0</link>
+      <description>将法律专业知识和前沿人工智能结合起来,从信任开始。 对于汤姆森路透社的卡米略·斯佩罗尼来说,这意味着产出律师可以核实、引用和登上他们的名字。卡米略讨论汤姆森路透社与OpenAI的合作,让高克和汤姆森路透社法人加入ChatGPT企业,</description>
+      <pubDate>Mon, 19 Oct 2026 15:07:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ExVDpMeaWp0</guid>
+      <source url="https://www.youtube.com/watch?v=ExVDpMeaWp0">OpenAI</source>
+    </item>
+    <item>
+      <title>Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu</title>
+      <link>https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</link>
+      <description>英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。</description>
+      <pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</guid>
+      <source url="https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith">LangChain：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/</link>
+      <description>若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。</description>
+      <pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/">Ars Technica：AI（RSS）</source>
+    </item>
+    <item>
+      <title>JB Pritzker认为人工智能可以帮助我们活到100岁,或者像核武器一样威胁我们.</title>
+      <link>https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws</link>
+      <description>今天,我正在和伊利诺伊州政府交谈。 JB Pritzker对人工智能、技术和隐私有着许多想法。 如果你一直在收看节目,你知道我运行的理论之一是,这些问题正在推动着一场巨大的、也许出乎意料的政治调整,并且与中期分析一起。</description>
+      <pubDate>Mon, 19 Oct 2026 10:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws</guid>
+      <source url="https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws">The Verge AI</source>
+    </item>
+    <item>
+      <title>黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
+      <description>AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。</description>
+      <pubDate>Mon, 19 Oct 2026 13:58:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>AI 里没有答案的问题，需要一场「深谈」</title>
+      <link>http://www.geekpark.net/news/372579</link>
+      <description>去年，极客公园创新大会第一次办起「小场深谈」。场子都不大，百人左右围坐在一起。 有些瞬间仍然记忆犹新。 在「超级个体」专场，一位观众站起来。他刚从大厂跳槽到一家小厂，正用 AI 做自己的第一款产品。他向嘉宾说出自己的困惑：我还在打工，做公众号、视频号，早晚会被老板和同事刷到。这个冲突，怎么解？ 在「硬控 AI」专场，有人直接向刚刚离职的小米 AI 眼镜负责人提问：如果给你两个亿，你会去做哪种 AI 眼镜？有人继续追问，你觉得豆包手机助手到底是真需求还是伪需求？ 在「重塑关系」专场，一位精神科医生，问做陪伴机器人的嘉宾：你是希望它把人带回现实社会的交往，还是给这个家添一个新成员？ 这些问题都不「</description>
+      <pubDate>Mon, 19 Oct 2026 21:57:34 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372579</guid>
+      <source url="http://www.geekpark.net/news/372579">极客公园</source>
+    </item>
+    <item>
+      <title>n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流</title>
+      <link>https://blog.n8n.io/n8n-nvidia-dgx-spark/</link>
+      <description>n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。</description>
+      <pubDate>Mon, 19 Oct 2026 13:22:17 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.n8n.io/n8n-nvidia-dgx-spark/</guid>
+      <source url="https://blog.n8n.io/n8n-nvidia-dgx-spark/">n8n Blog</source>
+    </item>
+    <item>
+      <title>Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型</title>
+      <link>https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/</link>
+      <description>Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。</description>
+      <pubDate>Mon, 19 Oct 2026 13:00:10 +0000</pubDate>
+      <guid isPermaLink="true">https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/</guid>
+      <source url="https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/">Meta Engineering Blog（RSS）</source>
+    </item>
     <item>
       <title>AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端</title>
       <link>https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/</link>
-      <description>AWS 宣布 TorchNeuron，一个面向 Trainium 芯片的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 协议公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。</description>
+      <description>AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。</description>
       <pubDate>Mon, 19 Oct 2026 12:45:23 +0000</pubDate>
       <guid isPermaLink="true">https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/</guid>
       <source url="https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/">PyTorch：Blog（RSS）</source>
@@ -46,126 +166,6 @@
       <pubDate>Mon, 19 Oct 2026 09:21:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1684880?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1684880?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>双子座4 Argon 真让我吃惊</title>
-      <link>https://www.youtube.com/watch?v=LWxX6vvHfrc</link>
-      <description>https://deepmind.google/models/model-cards/gemini-4-argon/https://storage.googleapis.com/deepmind-media/gemini/4_sefecurity_report.pdf 资料来源:https://x.com/thebuggeded</description>
-      <pubDate>Mon, 19 Oct 2026 08:49:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=LWxX6vvHfrc</guid>
-      <source url="https://www.youtube.com/watch?v=LWxX6vvHfrc">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>这是新的ChatGPT语音,由GPT Live提供动力</title>
-      <link>https://www.youtube.com/watch?v=mEulEkuxCnM</link>
-      <description>您将想要打开此声音 。 更多信息: https://chatgpt.com/ features/voice/</description>
-      <pubDate>Mon, 19 Oct 2026 05:30:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=mEulEkuxCnM</guid>
-      <source url="https://www.youtube.com/watch?v=mEulEkuxCnM">OpenAI</source>
-    </item>
-    <item>
-      <title>这是新的ChatGPT语音,由GPT Live提供动力</title>
-      <link>https://www.youtube.com/watch?v=xIEzjwReF2s</link>
-      <description>Ein Kleiner Tipp von uns:通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通</description>
-      <pubDate>Mon, 19 Oct 2026 04:30:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=xIEzjwReF2s</guid>
-      <source url="https://www.youtube.com/watch?v=xIEzjwReF2s">OpenAI</source>
-    </item>
-    <item>
-      <title>这是新的ChatGPT语音,由GPT Live提供动力</title>
-      <link>https://www.youtube.com/watch?v=-vpwIHxkDFw</link>
-      <description>Pour cette vidéo, pensez à activez le son pour ne rien manquer. En savor plus: https://chatgpt.com/fr-FR/features/voice/ 互联网档案馆的存檔,存档日期2014-12-02.</description>
-      <pubDate>Mon, 19 Oct 2026 04:30:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=-vpwIHxkDFw</guid>
-      <source url="https://www.youtube.com/watch?v=-vpwIHxkDFw">OpenAI</source>
-    </item>
-    <item>
-      <title>MemSilicon完成超 4 亿元 A 轮融资，宣布战略升级</title>
-      <link>http://www.geekpark.net/news/372545</link>
-      <description>10 月 19 日，铭芯启睿（MemSilicon）宣布完成超 4 亿元 A 轮融资。本轮融资由博原资本领投，博世创投、创领资本、米哈游、中关村科学城公司、兆易创新等跟投，老股东复容投资、国开科创、恒裕资本、锦秋基金、顺禧基金、小米战投、中科创星持续加注。本轮融资将主要用于 RRAM 的产业化与商业化，以及新产品 LPU 的研发。 MemSilicon 同时宣布，前 Graphcore 总裁兼大中华区总经理卢涛加入团队，担任 CEO 和联合创始人。公司战略全面升级：在继续推进阻变存储器（RRAM）产品化的基础上，启动面向大模型推理的第一代 LPU 研发，打造「满血模型、高速 Token、越级性</description>
-      <pubDate>Mon, 19 Oct 2026 12:00:32 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372545</guid>
-      <source url="http://www.geekpark.net/news/372545">极客公园</source>
-    </item>
-    <item>
-      <title>结构化当局注射:通过 MCP 型置换器对LLM 剂进行持续的人类控制</title>
-      <link>https://arxiv.org/abs/2610.22373</link>
-      <description>基于LLM的剂在分布式和多剂系统中越来越多地作为自主的管弦乐器使用,但控制漏洞依然存在:没有协议级机制允许人类操作者发出贯穿整个规划周期的具有约束力的指令. F.</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22373</guid>
-      <source url="https://arxiv.org/abs/2610.22373">ArXiv AI</source>
-    </item>
-    <item>
-      <title>重新思考用户编码器:为假想-可扩展用户代表制运行扩散状态</title>
-      <link>https://arxiv.org/abs/2610.22400</link>
-      <description>现有的基于大型语言模型(LLM)的用户编码器将不同行为日志序列化,并通过自递性(AR)预测将其压缩为静态表示。然而,它们的单向约束限制了双向信息</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22400</guid>
-      <source url="https://arxiv.org/abs/2610.22400">ArXiv AI</source>
-    </item>
-    <item>
-      <title>从事件到理性:明确国家的分级规则构成</title>
-      <link>https://arxiv.org/abs/2610.22403</link>
-      <description>一个推理系统给出的是一个结论;它所欠的是一个理由。 生产一个需要每个操作都根据实际可获得的事实被允许,中间结果的依赖性能够生存到路径的尽头,以及</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22403</guid>
-      <source url="https://arxiv.org/abs/2610.22403">ArXiv AI</source>
-    </item>
-    <item>
-      <title>EECHOES:通过递录历史压缩和特权化的策略扭曲来超越当前图像</title>
-      <link>https://arxiv.org/abs/2610.22408</link>
-      <description>长视距图形用户界面代理依赖于视觉历史来维持任务状态,但保留历史截图会增加视觉脚本使用和推论成本,而文本摘要可以丢弃临界状态信息,破坏长视距 reli</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22408</guid>
-      <source url="https://arxiv.org/abs/2610.22408">ArXiv AI</source>
-    </item>
-    <item>
-      <title>以物剂为基础的农业生态模型中决策规则的敏感性分析</title>
-      <link>https://arxiv.org/abs/2610.22420</link>
-      <description>基于物剂的模型非常适合为决策建立农业生态系统模型,而将其模拟转化为可操作的洞察力则需要确定哪些决定实际推动行为。 在这种情况下,敏感性是分析性的。</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22420</guid>
-      <source url="https://arxiv.org/abs/2610.22420">ArXiv AI</source>
-    </item>
-    <item>
-      <title>大型语言模型何时是很好的校准剂? 物理标签提示了预算工程模拟器校准</title>
-      <link>https://arxiv.org/abs/2610.22379</link>
-      <description>校准昂贵的工程模拟器需要调试模型参数以匹配参考数据,这一过程受到计算成本的严重制约。本研究研究了以物理诊断为条件的大型语言模型(LLM)是否</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22379</guid>
-      <source url="https://arxiv.org/abs/2610.22379">ArXiv ML</source>
-    </item>
-    <item>
-      <title>信任但验证: 为散射设计区域- 异质前向动态</title>
-      <link>https://arxiv.org/abs/2610.22380</link>
-      <description>持续传播将前方过程视为设计空间; 离散语言传播经常使用吸收腐败, 使上下文在一代人中完全信任。 这使得信任二进制: 损坏的上下文被复制为地面真理, p</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22380</guid>
-      <source url="https://arxiv.org/abs/2610.22380">ArXiv ML</source>
-    </item>
-    <item>
-      <title>测试时间持续学习节省的附加-特定再学习</title>
-      <link>https://arxiv.org/abs/2610.22381</link>
-      <description>当一个事实变得难以从语言模型中引出时,该模型是否丢失了,或者它是否只是变得不易获得? 参数更新测试时间的持续学习代理通常由当前输出的准确性来评估;我们询问该度量是否为度量计。</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22381</guid>
-      <source url="https://arxiv.org/abs/2610.22381">ArXiv ML</source>
-    </item>
-    <item>
-      <title>CGDT-CESN:多变量时序预测的关联-引导和动态-集成回声网络</title>
-      <link>https://arxiv.org/abs/2610.22430</link>
-      <description>对多变量时间序列的准确预测需要同时捕捉变量特定动态和交叉变量相互作用的模型。在这项工作中,一个关联-Guided and Dynamics-Trained Clubled Echo State Network(CGDT-CESN)是</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22430</guid>
-      <source url="https://arxiv.org/abs/2610.22430">ArXiv ML</source>
-    </item>
-    <item>
-      <title>BOLT: 弹性工作- 跳跃与时间拖拉及资源耦合的运输的多波特连克边框教学</title>
-      <link>https://arxiv.org/abs/2610.22433</link>
-      <description>当一个稀缺的车队在车站之间调动工作时,灵活的工场安排就会成为资源交织的,因为安排安排安排了运输等候。 BOLT(为运输衔接安排的有限学习)从chai建立更低的绑定线。</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.22433</guid>
-      <source url="https://arxiv.org/abs/2610.22433">ArXiv ML</source>
     </item>
   </channel>
 </rss>
