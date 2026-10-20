@@ -5,12 +5,44 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:59:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:10:20 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta 在研究人员发现网络上的人工智能聊天后暂停 Muse 共享</title>
+      <link>https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</link>
+      <description>Meta说,它暂停了一个Muse特性,在研究人员发现网上可公开获取的URL后,可以与人工智能助理分享对话,这是Ars Technica所报道的。在本周发表的一份报告中,Claroc安全公司的研究人员说,他们发现了超过6800个Muse链接 t。</description>
+      <pubDate>Tue, 20 Oct 2026 14:07:34 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</guid>
+      <source url="https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats">The Verge AI</source>
+    </item>
+    <item>
+      <title>fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一</title>
+      <link>https://x.com/fal/status/2112600472922333263</link>
+      <description>fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。</description>
+      <pubDate>Tue, 20 Oct 2026 17:42:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fal/status/2112600472922333263</guid>
+      <source url="https://x.com/fal/status/2112600472922333263">X：fal (@fal)</source>
+    </item>
+    <item>
+      <title>Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理</title>
+      <link>https://x.com/AravSrinivas/status/2112583333825950207</link>
+      <description>Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。</description>
+      <pubDate>Tue, 20 Oct 2026 16:34:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AravSrinivas/status/2112583333825950207</guid>
+      <source url="https://x.com/AravSrinivas/status/2112583333825950207">X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)</source>
+    </item>
+    <item>
+      <title>Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端</title>
+      <link>https://pytorch.org/blog/introducing-torchtpu/</link>
+      <description>Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to("cuda") 改为 .to("tpu")。</description>
+      <pubDate>Tue, 20 Oct 2026 16:00:30 +0000</pubDate>
+      <guid isPermaLink="true">https://pytorch.org/blog/introducing-torchtpu/</guid>
+      <source url="https://pytorch.org/blog/introducing-torchtpu/">PyTorch：Blog（RSS）</source>
+    </item>
     <item>
       <title>Spotify从它的建议中抽取了5 000万条人工智能破碎和垃圾邮件</title>
       <link>https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</link>
-      <description>Spotify说,在过去的一年里,它从用户推荐中移除了5000多万首被认为是人工智能生成的sloop或垃圾邮件的歌曲,据周二的一则公告称,Spotify还对其推荐系统进行了修改,以突出更多由人类艺术家制作的音乐.</description>
+      <description>Spotify说,在过去的一年里,它从用户推荐中移除了5000多万首被认为是人工智能生成的sloop或垃圾邮件的歌曲,据周二的一份公告称,Spotify还对其推荐系统进行了修改,以突出更多由人类艺术家制作的音乐.</description>
       <pubDate>Tue, 20 Oct 2026 10:18:37 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</guid>
       <source url="https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed">The Verge AI</source>
@@ -30,14 +62,6 @@
       <pubDate>Tue, 20 Oct 2026 13:00:34 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/shorts/v45XAMqH7pE</guid>
       <source url="https://www.youtube.com/shorts/v45XAMqH7pE">OpenAI</source>
-    </item>
-    <item>
-      <title>Meta Muse 分享链接设计缺陷致用户隐私对话可被枚举发现</title>
-      <link>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</link>
-      <description>安全公司 Claroc 的研究人员发现，Meta 的 AI 智能体 Muse 的对话分享链接存在隐私风险，仅用一次查询就枚举出 6800 个分享链接，打开其中数百个后发现贷款申请、收入报表、员工假期日历等敏感内容。</description>
-      <pubDate>Tue, 20 Oct 2026 12:33:13 +0000</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</guid>
-      <source url="https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/">Ars Technica：AI（RSS）</source>
     </item>
     <item>
       <title>美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器</title>
@@ -70,6 +94,14 @@
       <pubDate>Tue, 20 Oct 2026 08:06:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112455383356989598</guid>
       <source url="https://x.com/rohanpaul_ai/status/2112455383356989598">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>Ai2 发布 FairStress 基准：测量 LLM 决策中被隐藏的公平性不对称</title>
+      <link>https://allenai.org/blog/fairstress</link>
+      <description>Ai2 发布 FairStress 基准，通过 300 个两候选决策场景和对抗前缀，测量 LLM 在面对说服性论据时改变决策的难易是否因候选人所属人口群体而不同，全部组合超过 1300 万测试用例，并已开放下载、集成进 Olmo-eval。</description>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://allenai.org/blog/fairstress</guid>
+      <source url="https://allenai.org/blog/fairstress">Ai2 / Allen Institute for AI（RSS）</source>
     </item>
     <item>
       <title>Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客</title>
@@ -134,38 +166,6 @@
       <pubDate>Tue, 20 Oct 2026 00:07:06 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1684957?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1684957?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>与 Codex 一起烹饪: Ep. 1</title>
-      <link>https://www.youtube.com/watch?v=DQHtmW9ZlIs</link>
-      <description>在这集"与Codex一起烹饪"中,一个OpenAI点帮助在ChatGPT空间中计划出一款拉面食谱并组织准备,由GPT-Live指导烹饪过程. 也涵盖: Codex云环境,在笔记本电脑被关闭后会保留任务运行,新的Codex CLI功能包括语音输入,a</description>
-      <pubDate>Mon, 19 Oct 2026 22:55:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=DQHtmW9ZlIs</guid>
-      <source url="https://www.youtube.com/watch?v=DQHtmW9ZlIs">OpenAI</source>
-    </item>
-    <item>
-      <title>CoreWeave的债务正在成为整个人工智能行业的问题。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</link>
-      <description>上周CoreWeave有一个糟糕的一周。 其债券被一个共同的定义滑入了困难地区 — — 当投资者要求收益率比政府债券高出1000个基点时。 上周二Chamath“SPAC King”Palihapitiya注意到了困难的债务,并问到这些债务是否已经解决。</description>
-      <pubDate>Mon, 19 Oct 2026 17:28:20 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai">The Verge AI</source>
-    </item>
-    <item>
-      <title>FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/</link>
-      <description>美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。</description>
-      <pubDate>Mon, 19 Oct 2026 20:21:53 +0000</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/">Ars Technica：AI（RSS）</source>
-    </item>
-    <item>
-      <title>fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max</title>
-      <link>https://x.com/fal/status/2112251022047412492</link>
-      <description>fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。</description>
-      <pubDate>Mon, 19 Oct 2026 18:34:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fal/status/2112251022047412492</guid>
-      <source url="https://x.com/fal/status/2112251022047412492">X：fal (@fal)</source>
     </item>
   </channel>
 </rss>
