@@ -5,8 +5,56 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 09:58:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:59:03 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Spotify从它的建议中抽取了5 000万条人工智能破碎和垃圾邮件</title>
+      <link>https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</link>
+      <description>Spotify说,在过去的一年里,它从用户推荐中移除了5000多万首被认为是人工智能生成的sloop或垃圾邮件的歌曲,据周二的一则公告称,Spotify还对其推荐系统进行了修改,以突出更多由人类艺术家制作的音乐.</description>
+      <pubDate>Tue, 20 Oct 2026 10:18:37 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</guid>
+      <source url="https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed">The Verge AI</source>
+    </item>
+    <item>
+      <title>Adobe Lightroom 手机现在可以用简单的水龙头在照片中打开闭眼</title>
+      <link>https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair</link>
+      <description>Adobe昨天宣布,用于iOS、iPadOS和Android的Lightroom移动版本现在可以使用基因人工智能在照片中打开闭眼。当应用程序检测到一个人或一群人时,在照片中闭上眼睛,它将自动显示</description>
+      <pubDate>Tue, 20 Oct 2026 09:06:44 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair</guid>
+      <source url="https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair">The Verge AI</source>
+    </item>
+    <item>
+      <title>你需要更好的头部镜头。</title>
+      <link>https://www.youtube.com/shorts/v45XAMqH7pE</link>
+      <description>你需要更好的头部镜头,现在用ChatGPT图像创建你的。</description>
+      <pubDate>Tue, 20 Oct 2026 13:00:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/v45XAMqH7pE</guid>
+      <source url="https://www.youtube.com/shorts/v45XAMqH7pE">OpenAI</source>
+    </item>
+    <item>
+      <title>Meta Muse 分享链接设计缺陷致用户隐私对话可被枚举发现</title>
+      <link>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</link>
+      <description>安全公司 Claroc 的研究人员发现，Meta 的 AI 智能体 Muse 的对话分享链接存在隐私风险，仅用一次查询就枚举出 6800 个分享链接，打开其中数百个后发现贷款申请、收入报表、员工假期日历等敏感内容。</description>
+      <pubDate>Tue, 20 Oct 2026 12:33:13 +0000</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</guid>
+      <source url="https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/">Ars Technica：AI（RSS）</source>
+    </item>
+    <item>
+      <title>美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器</title>
+      <link>https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/</link>
+      <description>据 The Intercept 获取的文件，美国陆军网络司令部（ARCYBER）正在开发代号 ECHOTRIBBLE 的平台，让 AI 智能体自主在网络间移动、识别并清除威胁目标，之后自毁，且须在极少人工监督下运行。</description>
+      <pubDate>Tue, 20 Oct 2026 12:32:56 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/</guid>
+      <source url="https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪</title>
+      <link>https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&amp;utm_source=rss</link>
+      <description>IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。</description>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&amp;utm_source=rss</guid>
+      <source url="https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&amp;utm_source=rss">IBM Research：AI</source>
+    </item>
     <item>
       <title>DeepSeek 全面开源内部推理框架 DeepInfer</title>
       <link>https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836</link>
@@ -22,6 +70,14 @@
       <pubDate>Tue, 20 Oct 2026 08:06:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112455383356989598</guid>
       <source url="https://x.com/rohanpaul_ai/status/2112455383356989598">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客</title>
+      <link>https://waymo.com/blog/2026/10/waymo-in-madrid-region</link>
+      <description>Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠定基础，目标 2027 年迎来首批乘客。未来数日其电动 Jaguar I-PACE 车辆将现身当地街头，先以人工驾驶开始，再由当地受训的自动驾驶专家进行技术验证。Waymo 称已累计完成逾 2000 万次行程、400 万公里全自动驾驶里程，在其运营城市中涉及重伤或更严重事故的比例比人类司机低 95%。</description>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://waymo.com/blog/2026/10/waymo-in-madrid-region</guid>
+      <source url="https://waymo.com/blog/2026/10/waymo-in-madrid-region">Waymo：Blog（网页）</source>
     </item>
     <item>
       <title>面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行</title>
@@ -90,7 +146,7 @@
     <item>
       <title>CoreWeave的债务正在成为整个人工智能行业的问题。</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</link>
-      <description>上星期CoreWeave有一个糟糕的星期。 其债券被一个共同的定义滑入了困难地区 — — 当投资者要求收益比政府债券多出1000个基点时。 最后,Tuesady Chamath“SPAC King”Palihapitiya注意到了这些困难的债务,并问及这些债券是否用于债务。</description>
+      <description>上周CoreWeave有一个糟糕的一周。 其债券被一个共同的定义滑入了困难地区 — — 当投资者要求收益率比政府债券高出1000个基点时。 上周二Chamath“SPAC King”Palihapitiya注意到了困难的债务,并问到这些债务是否已经解决。</description>
       <pubDate>Mon, 19 Oct 2026 17:28:20 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai">The Verge AI</source>
@@ -110,62 +166,6 @@
       <pubDate>Mon, 19 Oct 2026 18:34:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/fal/status/2112251022047412492</guid>
       <source url="https://x.com/fal/status/2112251022047412492">X：fal (@fal)</source>
-    </item>
-    <item>
-      <title>DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一</title>
-      <link>https://x.com/arena/status/2112247114944360666</link>
-      <description>Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。</description>
-      <pubDate>Mon, 19 Oct 2026 18:18:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2112247114944360666</guid>
-      <source url="https://x.com/arena/status/2112247114944360666">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>Inception 扩散模型 Mercury 3 上线 OpenRouter</title>
-      <link>https://x.com/OpenRouter/status/2112225779782398131</link>
-      <description>Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。</description>
-      <pubDate>Mon, 19 Oct 2026 16:54:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenRouter/status/2112225779782398131</guid>
-      <source url="https://x.com/OpenRouter/status/2112225779782398131">X：OpenRouter (@OpenRouter)</source>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二</title>
-      <link>https://x.com/ArtificialAnlys/status/2112218661432000694</link>
-      <description>DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。</description>
-      <pubDate>Mon, 19 Oct 2026 16:25:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2112218661432000694</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2112218661432000694">X：Artificial Analysis (@ArtificialAnlys)</source>
-    </item>
-    <item>
-      <title>Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分</title>
-      <link>https://x.com/arena/status/2112215825944117361</link>
-      <description>Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。</description>
-      <pubDate>Mon, 19 Oct 2026 16:14:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2112215825944117361</guid>
-      <source url="https://x.com/arena/status/2112215825944117361">X：Arena (@arena)</source>
-    </item>
-    <item>
-      <title>Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR</title>
-      <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
-      <description>Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令，指示其支持聊天机器人不推荐数据保护监管机构，并在用户提到律师或法律行动后不引用 GDPR、LGPD 或 CCPA。</description>
-      <pubDate>Mon, 19 Oct 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
-      <source url="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions">Hacker News：AI 热帖</source>
-    </item>
-    <item>
-      <title>Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性</title>
-      <link>https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/</link>
-      <description>Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。</description>
-      <pubDate>Mon, 19 Oct 2026 15:30:37 +0000</pubDate>
-      <guid isPermaLink="true">https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/</guid>
-      <source url="https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/">Meta Engineering Blog（RSS）</source>
-    </item>
-    <item>
-      <title>汤姆森路透社关于建立对法律人工智能的信任的路透社</title>
-      <link>https://www.youtube.com/shorts/7lC2N9woZy4</link>
-      <description>将法律专业知识和前沿人工智能结合起来,从信任开始。 对于汤姆森路透社的卡米略·斯佩罗尼来说,这意味着产出律师可以核实、引用和登上他们的名字。卡米略讨论汤姆森路透社与OpenAI的合作,让高克和汤姆森路透社法人加入ChatGPT企业,</description>
-      <pubDate>Mon, 19 Oct 2026 15:13:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/7lC2N9woZy4</guid>
-      <source url="https://www.youtube.com/shorts/7lC2N9woZy4">OpenAI</source>
     </item>
   </channel>
 </rss>
