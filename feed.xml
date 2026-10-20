@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 04:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:58:24 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DeepSeek 全面开源内部推理框架 DeepInfer</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836</link>
+      <description>DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。</description>
+      <pubDate>Tue, 20 Oct 2026 08:54:54 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836">公众号：DeepSeek（深度求索）</source>
+    </item>
+    <item>
+      <title>路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元</title>
+      <link>https://x.com/rohanpaul_ai/status/2112455383356989598</link>
+      <description>据 Reuters 报道，OpenAI 正赶在 Anthropic 上市前洽谈融资约 300 亿美元，估值超 1.4 万亿美元，比 3 月的 8520 亿美元至少高 64%。</description>
+      <pubDate>Tue, 20 Oct 2026 08:06:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112455383356989598</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2112455383356989598">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行</title>
+      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499532&amp;idx=1&amp;sn=db2949b48bf8909d80def369b51a81ea</link>
+      <description>面壁智能 MiniCPM-V 团队介绍支撑 MiniCPM-V 4.7 端侧运行的前瞻专家调度（LES）技术，称首次实现 35B-A3B 规模 MoE 在端侧实时无损运行，iPhone 18 Pro Max 实测解码超 20 token/s。</description>
+      <pubDate>Tue, 20 Oct 2026 06:22:26 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499532&amp;idx=1&amp;sn=db2949b48bf8909d80def369b51a81ea</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499532&amp;idx=1&amp;sn=db2949b48bf8909d80def369b51a81ea">公众号：面壁智能（MiniCPM）</source>
+    </item>
+    <item>
+      <title>设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了</title>
+      <link>http://www.geekpark.net/news/372612</link>
+      <description>2025 年，Lovart 作为全球首款设计 Agent 开始出现在各大设计师社区。第一次用 AI 能力把整个设计流程串联起来。从最初的设计思路、到最终图片或视频的设计物料，终于被完整的放到一块画布上完成。 随着在生成能力和指令遵循程度上的进步，AI 越发能够满足人们现实世界的真实需求，muse 此时带起关于 personal agent 的讨论显得恰逢其时。AI 在能力上已经具备了可观的解决问题的能力，下一步就是如何个性化的解决「我」的问题，以及更主动的解决问题。 放到设计里，Personal Agent 带来了一些新的想象力。比如一套物料做完，下一个项目还会来。设计师喜欢什么配色、哪些版式</description>
+      <pubDate>Tue, 20 Oct 2026 13:46:53 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372612</guid>
+      <source url="http://www.geekpark.net/news/372612">极客公园</source>
+    </item>
     <item>
       <title>押注记忆原生，MemT 1.0 破局养成系 AI 下半场</title>
       <link>https://www.ifanr.com/1684997?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -134,38 +166,6 @@
       <pubDate>Mon, 19 Oct 2026 15:13:45 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/shorts/7lC2N9woZy4</guid>
       <source url="https://www.youtube.com/shorts/7lC2N9woZy4">OpenAI</source>
-    </item>
-    <item>
-      <title>汤姆森路透社关于建立对法律人工智能的信任的路透社</title>
-      <link>https://www.youtube.com/watch?v=ExVDpMeaWp0</link>
-      <description>将法律专业知识和前沿人工智能结合起来,从信任开始。 对于汤姆森路透社的卡米略·斯佩罗尼来说,这意味着产出律师可以核实、引用和登上他们的名字。卡米略讨论汤姆森路透社与OpenAI的合作,让高克和汤姆森路透社法人加入ChatGPT企业,</description>
-      <pubDate>Mon, 19 Oct 2026 15:07:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=ExVDpMeaWp0</guid>
-      <source url="https://www.youtube.com/watch?v=ExVDpMeaWp0">OpenAI</source>
-    </item>
-    <item>
-      <title>美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品</title>
-      <link>https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/</link>
-      <description>美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。</description>
-      <pubDate>Mon, 19 Oct 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/</guid>
-      <source url="https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/">Hacker News：AI 热帖</source>
-    </item>
-    <item>
-      <title>Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu</title>
-      <link>https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</link>
-      <description>英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。</description>
-      <pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</guid>
-      <source url="https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith">LangChain：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/</link>
-      <description>若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。</description>
-      <pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/">Ars Technica：AI（RSS）</source>
     </item>
   </channel>
 </rss>
