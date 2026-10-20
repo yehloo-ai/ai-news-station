@@ -734,5 +734,37 @@
     "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
     "sourceName": "DeepSeek：API 更新日志",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "MiniMax 发布 M3.1 Flash，推理提速近三倍、用量成本降低 70%",
+    "summary": "MiniMax 发布 MiniMax M3.1 Flash，匿名模型 Space Bunny 是其早期版本，曾处理超过 200 万亿 token。",
+    "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
+    "sourceName": "MiniMax：Blog（网页）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型",
+    "summary": "蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。",
+    "sourceUrl": "https://github.com/inclusionAI/Ming-3.0-tts",
+    "sourceName": "蚂蚁 inclusionAI：GitHub 新仓库",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力",
+    "summary": "OpenAI 宣布其最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上的构建与迁移能力显著提升，并开源评测套件。",
+    "sourceUrl": "https://openai.com/index/low-resource-programming-languages",
+    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+    "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+    "sourceUrl": "https://x.com/fal/status/2112251022047412492",
+    "sourceName": "X：fal (@fal)",
+    "reviewReason": "awaiting-review"
   }
 ]
