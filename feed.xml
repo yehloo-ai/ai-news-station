@@ -5,8 +5,80 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:42:33 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden</title>
+      <link>https://openai.com/index/openai-models-google-cloud</link>
+      <description>OpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。</description>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
+      <source url="https://openai.com/index/openai-models-google-cloud">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
+    <item>
+      <title>多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院</title>
+      <link>https://www.qbitai.com/2026/10/504734.html</link>
+      <description>医疗AI质变时刻</description>
+      <pubDate>Wed, 21 Oct 2026 11:30:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/504734.html</guid>
+      <source url="https://www.qbitai.com/2026/10/504734.html">量子位</source>
+    </item>
+    <item>
+      <title>NVIDIA 在 GTC Berlin 展示 RTX Spark、DGX Spark 和 DGX Station 本地 AI 硬件全线更新</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/</link>
+      <description>NVIDIA 在 GTC Berlin 展示其本地 AI 硬件全线：RTX Spark 面向 Windows PC 个人智能体，DGX Spark 面向 Linux 开发者并支持最多八机集群，DGX Station 提供 748GB 一致内存、面向企业团队，Windows 版 12 月推出。</description>
+      <pubDate>Wed, 21 Oct 2026 10:50:37 +0000</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/</guid>
+      <source url="https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/">NVIDIA Blog（RSS）</source>
+    </item>
+    <item>
+      <title>NVIDIA 联合六家供应链伙伴扩大制造产能</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout</link>
+      <description>NVIDIA 在 GTC Berlin 宣布与 Amkor、IBIDEN、KYEC、三星电机、SPIL 和欣兴电子合作扩大基板、先进封装、测试和光引擎产能。基板产能未来三年提升 2.5 倍，Amkor 先进封装产能到 2028 年底提升超 300%，KYEC 获 NVIDIA 11 亿美元产能预留预付款在美国建新厂，SPIL 光引擎产能目标 2027 年中提升 15 倍。</description>
+      <pubDate>Wed, 21 Oct 2026 10:33:00 +0000</pubDate>
+      <guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout</guid>
+      <source url="https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout">NVIDIA：Newsroom（RSS）</source>
+    </item>
+    <item>
+      <title>NVIDIA 在 GTC Berlin 宣布 Bolt、沃尔沃等欧洲车企基于 Hyperion 构建 L3/L4 车辆与 robotaxi 车队</title>
+      <link>https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion</link>
+      <description>NVIDIA 在 GTC Berlin 宣布 Bolt（与 Lucid 合作）、Mercedes-Benz、Volkswagen Commercial Vehicles、Einride 等欧洲车企和出行公司在 NVIDIA Hyperion 计算平台上展示自动驾驶用例，Volvo Cars 采用 Hyperion 与 Alpamayo Stack。</description>
+      <pubDate>Wed, 21 Oct 2026 10:14:00 +0000</pubDate>
+      <guid isPermaLink="true">https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion</guid>
+      <source url="https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion">NVIDIA：Newsroom（RSS）</source>
+    </item>
+    <item>
+      <title>NVIDIA 携手 Nokia 及多家电信运营商将网络改造为分布式智能平台</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms</link>
+      <description>NVIDIA 在 GTC Berlin 宣布全球主要电信运营商正在把网络改造为分布式智能平台，在数据中心、城域站点和基站部署 NVIDIA 加速计算。</description>
+      <pubDate>Wed, 21 Oct 2026 10:11:00 +0000</pubDate>
+      <guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms</guid>
+      <source url="https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms">NVIDIA：Newsroom（RSS）</source>
+    </item>
+    <item>
+      <title>NVIDIA 扩展开源模型家族，覆盖语言、机器人、生物与量子计算以支持欧洲主权智能</title>
+      <link>https://blogs.nvidia.com/blog/open-models-europe-industry/</link>
+      <description>NVIDIA 扩展开源模型家族，推出 Nemotron 3.5 Super VL 与 Nemotron 3.5 Bolt、Nemotron Retriever、Kumo 结构化数据模型、Cosmos 3.5 世界模型、Alpamayo 2 Edge 自动驾驶推理模型、BioNeMo RFD4-Proteina 蛋白质设计模型及量子计算 Ising 模型家族。</description>
+      <pubDate>Wed, 21 Oct 2026 10:00:07 +0000</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/open-models-europe-industry/</guid>
+      <source url="https://blogs.nvidia.com/blog/open-models-europe-industry/">NVIDIA Blog（RSS）</source>
+    </item>
+    <item>
+      <title>NVIDIA GTC Berlin 2026：黄仁勋主题演讲发布 Vera Rubin AI 工厂、OpenShell 与 Agile ONE SN 人形机器人</title>
+      <link>https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/</link>
+      <description>NVIDIA CEO 黄仁勋在 GTC Berlin 2026 发表主题演讲，宣布 NVIDIA 在欧洲投入近 100 亿美元、合作超 12000 家伙伴，并发布多项产品。</description>
+      <pubDate>Wed, 21 Oct 2026 09:30:16 +0000</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/</guid>
+      <source url="https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/">NVIDIA Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用</title>
+      <link>https://sspai.com/post/116445</link>
+      <description>如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文</description>
+      <pubDate>Wed, 21 Oct 2026 15:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/116445</guid>
+      <source url="https://sspai.com/post/116445">少数派</source>
+    </item>
     <item>
       <title>SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源</title>
       <link>https://x.com/rohanpaul_ai/status/2112768460866695334</link>
@@ -94,78 +166,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.26932</guid>
       <source url="https://arxiv.org/abs/2610.26932">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Beyond Political Discreption: Captainable-Aware 多教师策略扭曲</title>
-      <link>https://arxiv.org/abs/2610.26950</link>
-      <description>多教师策略提炼(MOPD)将域外专家整合到一个共享的学生中,但确定每个教师应如何严格监督仍然是个挑战。 现有的差异分配甚至可以赋予强有力的监督权。</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26950</guid>
-      <source url="https://arxiv.org/abs/2610.26950">ArXiv ML</source>
-    </item>
-    <item>
-      <title>动态系统激发的AI4科学任务连续大语言模型</title>
-      <link>https://arxiv.org/abs/2610.26959</link>
-      <description>科学基础模型越来越多地在持续现象上运作,但仍使用离散的剩余计算。 我们问,经过预先训练的剩余转换是否能够支持额外的潜在计算,而不会扩大主干线。</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26959</guid>
-      <source url="https://arxiv.org/abs/2610.26959">ArXiv ML</source>
-    </item>
-    <item>
-      <title>H2DF:可控语言-模式Unlearning校正目标带</title>
-      <link>https://arxiv.org/abs/2610.26864</link>
-      <description>渐渐升起(GA)是一个简单的语言模式的不学习基线,但它在有用的遗忘发生后继续增加遗忘的损失。 这种无约束的压力会损害保留起来的效用,使被遗忘的例子变得异常高损失。</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26864</guid>
-      <source url="https://arxiv.org/abs/2610.26864">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Autoterm-SST: 零会话-时间设置用于流传语音翻译的可适应名词内存</title>
-      <link>https://arxiv.org/abs/2610.26865</link>
-      <description>检索到的语音翻译改进了罕见的术语,但RASST这样的系统仍然假设用户在每次会话前提供词汇表。 这种假设对现场谈话来说是不方便的,同时将每个域合并成一个正在增长的光彩</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26865</guid>
-      <source url="https://arxiv.org/abs/2610.26865">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>波浪承诺:私人和可核实的语音代理市场</title>
-      <link>https://arxiv.org/abs/2610.26867</link>
-      <description>现代语音系统正在演变成自主语音智能体的生态系统,这些智能体共同说话、谈判和交易资产,如嵌入、光谱或原始数据。 在这类市场中,由于隐私原因,销售者无法披露资产以供评价。</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26867</guid>
-      <source url="https://arxiv.org/abs/2610.26867">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>具有双向音频文本的多式模拟和犹豫识别</title>
-      <link>https://arxiv.org/abs/2610.26868</link>
-      <description>异常和犹豫(A/H)是一种微妙的行为状态,可以通过一个人的言语和说话方式来表达。本文为视频级别的A/H识别提供了音频文本框架。 完整视频记录和语音wa。</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26868</guid>
-      <source url="https://arxiv.org/abs/2610.26868">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>语音专家的混合 低Rank 调适 Conformer 模式的发音英语识别</title>
-      <link>https://arxiv.org/abs/2610.26888</link>
-      <description>我们介绍基于低朗克适应(MOPE-LORA)的语音专家混合适应(Mixture of Phonetic Expertion),这是一个用于重口音识别的参数高效的适应框架。 最近的专家混合方法通常将专家分配到每个口音,隐含三重口音。</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26888</guid>
-      <source url="https://arxiv.org/abs/2610.26888">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</title>
-      <link>https://x.com/thsottiaux/status/2112712984644784534</link>
-      <description>OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。</description>
-      <pubDate>Wed, 21 Oct 2026 01:10:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2112712984644784534</guid>
-      <source url="https://x.com/thsottiaux/status/2112712984644784534">X：Tibo (@thsottiaux)</source>
-    </item>
-    <item>
-      <title>曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具</title>
-      <link>http://www.geekpark.net/news/372650</link>
-      <description>DeepSeek 开源大规模云服务推理框架 10 月 20 日下午，DeepSeek 宣布，在此前开源一系列大模型、TileLang 编译工具及推理算子库的基础上，决定进一步将内部推理框架 DeepInfer 全面开源。 DeepSeek 称，基于 DeepInfer，已实现 DeepSeek V4.1 Flash 高吞吐、低延迟的大规模推理服务。未来，DeepSeek 新模型的推理代码及后续优化也将在此持续更新。 券有商分析师认为，开源模型与 Agent 工具链的持续完善，有望降低应用开发成本，推动 AICoding 向游戏开发、3D 内容制作、企业软件及自动化工作流等场景扩展，具备开发者入</description>
-      <pubDate>Wed, 21 Oct 2026 08:37:07 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372650</guid>
-      <source url="http://www.geekpark.net/news/372650">极客公园</source>
     </item>
   </channel>
 </rss>
