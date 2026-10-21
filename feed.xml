@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:17:10 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>V7切割成本为78%,同时提高GPT的准确度。</title>
+      <link>https://www.youtube.com/watch?v=20IRGgQwPkc</link>
+      <description>V7 Go将公司文件组织到一个背景图中,智能体可以查询以筛选投资交易和支持保险承销。 在V7对数千份文件进行最难的图谱测试时,GPT-6 Astra达到了89%的精确度。读取整个故事:https://openai.com/index/v7。</description>
+      <pubDate>Wed, 21 Oct 2026 22:05:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=20IRGgQwPkc</guid>
+      <source url="https://www.youtube.com/watch?v=20IRGgQwPkc">OpenAI</source>
+    </item>
+    <item>
+      <title>Meta 创建新的股票类别,为人工智能推车提供资金</title>
+      <link>https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</link>
+      <description>Meta说,它发行了一个新的股票类别来资助其人工智能举措,作为其星期三发布的第三季度收入报告的一部分,该公司说,无表决权的股票也将走向潜在的收购和员工补偿,交易开始于2027年. "Investments的规模.</description>
+      <pubDate>Wed, 21 Oct 2026 17:30:02 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</guid>
+      <source url="https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic与克劳德·杜埃特 新的人工智能特工 一起对付穆塞</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</link>
+      <description>Anthropic刚刚宣布了一个与Meta的Muse和OpenAI的Dots竞争的人工智能智能体:Claude Dut. 新智能体是专为专业人士和小企业主设计的,它作为"研究预览"推出,据Anthropic称,它是作为iOS和Android的独立应用程序并通过Clau提供的.</description>
+      <pubDate>Wed, 21 Oct 2026 15:53:20 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent">The Verge AI</source>
+    </item>
+    <item>
+      <title>沃尔玛邀请人工智能特工 为你买东西</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</link>
+      <description>沃尔玛很快会让人工智能特工在网站上为您购物。下个月,零售巨头会允许您在网站上使用人工智能特工,并有系统允许您批准和审查购买并设定支出限额。人工智能特工的拥抱与亚马逊形成鲜明对比。</description>
+      <pubDate>Wed, 21 Oct 2026 15:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents">The Verge AI</source>
+    </item>
     <item>
       <title>研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞</title>
       <link>https://x.com/rohanpaul_ai/status/2112962364996038971</link>
@@ -134,38 +166,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.26887</guid>
       <source url="https://arxiv.org/abs/2610.26887">ArXiv AI</source>
-    </item>
-    <item>
-      <title>大型语言模式和以强化学习为基础的自主建设和进度更新</title>
-      <link>https://arxiv.org/abs/2610.26899</link>
-      <description>由于全球人口迅速增长,传统的建筑方法逐渐无法满足目前的住房需求. 机器学习算法的进步鼓励了研究人员在c中探索他们的应用.</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26899</guid>
-      <source url="https://arxiv.org/abs/2610.26899">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Pareto-Optimal RTL 通过多目标强化学习使用大语言模型生成代码</title>
-      <link>https://arxiv.org/abs/2610.26904</link>
-      <description>最近的研究建议采用可核查的奖励(RLVR)方法进行强化学习,使LLMs能够从自然语言的规格中产生出高质量的RTL电路. 现有方法优化了电路PPA(Power, Performance, Area).</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26904</guid>
-      <source url="https://arxiv.org/abs/2610.26904">ArXiv AI</source>
-    </item>
-    <item>
-      <title>MedPAO-Assist: 边际可部署,机动性-智能 辐射学报告人工智能结构</title>
-      <link>https://arxiv.org/abs/2610.26913</link>
-      <description>采用"大语言模型"进行放射学报告结构,主要有专有云型模型或需要高端GPU部署的大型开放型模型,这是临床采用的关键瓶颈.</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26913</guid>
-      <source url="https://arxiv.org/abs/2610.26913">ArXiv AI</source>
-    </item>
-    <item>
-      <title>DataPraxis: 通过验证的工作空间进化来放大分析任务</title>
-      <link>https://arxiv.org/abs/2610.26924</link>
-      <description>人们日益期望普通用途人员从事专业分析工作,这需要持续推理、迭代调查和可靠的证据。 培训这些能力需要各种具有挑战性的任务。</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26924</guid>
-      <source url="https://arxiv.org/abs/2610.26924">ArXiv AI</source>
     </item>
   </channel>
 </rss>
