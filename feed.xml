@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:29:41 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</title>
+      <link>https://x.com/thsottiaux/status/2112712984644784534</link>
+      <description>OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。</description>
+      <pubDate>Wed, 21 Oct 2026 01:10:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2112712984644784534</guid>
+      <source url="https://x.com/thsottiaux/status/2112712984644784534">X：Tibo (@thsottiaux)</source>
+    </item>
+    <item>
+      <title>曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具</title>
+      <link>http://www.geekpark.net/news/372650</link>
+      <description>DeepSeek 开源大规模云服务推理框架 10 月 20 日下午，DeepSeek 宣布，在此前开源一系列大模型、TileLang 编译工具及推理算子库的基础上，决定进一步将内部推理框架 DeepInfer 全面开源。 DeepSeek 称，基于 DeepInfer，已实现 DeepSeek V4.1 Flash 高吞吐、低延迟的大规模推理服务。未来，DeepSeek 新模型的推理代码及后续优化也将在此持续更新。 券有商分析师认为，开源模型与 Agent 工具链的持续完善，有望降低应用开发成本，推动 AICoding 向游戏开发、3D 内容制作、企业软件及自动化工作流等场景扩展，具备开发者入</description>
+      <pubDate>Wed, 21 Oct 2026 08:37:07 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372650</guid>
+      <source url="http://www.geekpark.net/news/372650">极客公园</source>
+    </item>
+    <item>
+      <title>派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等</title>
+      <link>https://sspai.com/post/116887</link>
+      <description>工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文</description>
+      <pubDate>Wed, 21 Oct 2026 08:07:07 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/116887</guid>
+      <source url="https://sspai.com/post/116887">少数派</source>
+    </item>
+    <item>
+      <title>法官驳回Sam Altman的妹妹性虐待诉讼</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed</link>
+      <description>美国地区法官Zachary Bluestone星期二驳回了去年提起的诉讼,指控她的兄弟OpenAI CEOSam Altman在她整个童年时期都对她进行了性虐待。 正如《卫报》早些时候报道的那样,法官写道,去年,Ann没有出庭。</description>
+      <pubDate>Tue, 20 Oct 2026 19:04:19 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed">The Verge AI</source>
+    </item>
     <item>
       <title>Google更个性化的双子座人工智能正开到你的车上</title>
       <link>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</link>
@@ -134,38 +166,6 @@
       <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://waymo.com/blog/2026/10/waymo-in-madrid-region</guid>
       <source url="https://waymo.com/blog/2026/10/waymo-in-madrid-region">Waymo：Blog（网页）</source>
-    </item>
-    <item>
-      <title>面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行</title>
-      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499532&amp;idx=1&amp;sn=db2949b48bf8909d80def369b51a81ea</link>
-      <description>面壁智能 MiniCPM-V 团队介绍支撑 MiniCPM-V 4.7 端侧运行的前瞻专家调度（LES）技术，称首次实现 35B-A3B 规模 MoE 在端侧实时无损运行，iPhone 18 Pro Max 实测解码超 20 token/s。</description>
-      <pubDate>Tue, 20 Oct 2026 06:22:26 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499532&amp;idx=1&amp;sn=db2949b48bf8909d80def369b51a81ea</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499532&amp;idx=1&amp;sn=db2949b48bf8909d80def369b51a81ea">公众号：面壁智能（MiniCPM）</source>
-    </item>
-    <item>
-      <title>设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了</title>
-      <link>http://www.geekpark.net/news/372612</link>
-      <description>2025 年，Lovart 作为全球首款设计 Agent 开始出现在各大设计师社区。第一次用 AI 能力把整个设计流程串联起来。从最初的设计思路、到最终图片或视频的设计物料，终于被完整的放到一块画布上完成。 随着在生成能力和指令遵循程度上的进步，AI 越发能够满足人们现实世界的真实需求，muse 此时带起关于 personal agent 的讨论显得恰逢其时。AI 在能力上已经具备了可观的解决问题的能力，下一步就是如何个性化的解决「我」的问题，以及更主动的解决问题。 放到设计里，Personal Agent 带来了一些新的想象力。比如一套物料做完，下一个项目还会来。设计师喜欢什么配色、哪些版式</description>
-      <pubDate>Tue, 20 Oct 2026 13:46:53 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372612</guid>
-      <source url="http://www.geekpark.net/news/372612">极客公园</source>
-    </item>
-    <item>
-      <title>押注记忆原生，MemT 1.0 破局养成系 AI 下半场</title>
-      <link>https://www.ifanr.com/1684997?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>MemT 1.0 开源，给出「记忆原生」新解法#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 20 Oct 2026 03:57:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1684997?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1684997?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Claude新模型曝光！能跳出思维定势，修Bug治标又治本</title>
-      <link>https://www.qbitai.com/2026/10/504314.html</link>
-      <description>OpenAI只掏出一个6.1 Terra…</description>
-      <pubDate>Tue, 20 Oct 2026 01:09:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/504314.html</guid>
-      <source url="https://www.qbitai.com/2026/10/504314.html">量子位</source>
     </item>
   </channel>
 </rss>
