@@ -5,8 +5,152 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:29:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:29:52 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源</title>
+      <link>https://x.com/rohanpaul_ai/status/2112768460866695334</link>
+      <description>Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。</description>
+      <pubDate>Wed, 21 Oct 2026 04:50:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112768460866695334</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2112768460866695334">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺</title>
+      <link>https://x.com/rohanpaul_ai/status/2112763999586771238</link>
+      <description>WSJ 看到 Anthropic 的 IPO 草案文件，显示其上半年收入 $16.3B、纸面亏损 $80.7B，并承诺约 $4500 亿算力支出。</description>
+      <pubDate>Wed, 21 Oct 2026 04:32:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112763999586771238</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2112763999586771238">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>亚马逊 CTO Dr. Werner Vogels：二十余年技术实践，想与创业者分享这 4 点</title>
+      <link>http://www.geekpark.net/news/372671</link>
+      <description>在 2026 年 亚马逊云科技软件企业峰会创业加速营巅峰路演 上，亚马逊副总裁兼首席技术官 Werner Vogels 博士与极客公园创始人 &amp;amp; CEO 张鹏进行了一场极具深度的炉边对谈。面对当下狂热的 AI 创业潮与复杂的技术演进，Vogels 博士分享了亚马逊云科技走过二十年的底层商业逻辑，并为初创企业给出了极具实操性的避坑建议。 左：亚马逊副总裁兼首席技术官 Werner Vogels 博士 右：极客公园创始人 &amp;amp; CEO 张鹏 以下是两位对谈内容的精华梳理： 01 起点与颠覆： 被逼出来的创新与 彻底改变的 IT 商业模式 张鹏：您在二十年前加入了亚马逊，那时的亚马逊还</description>
+      <pubDate>Wed, 21 Oct 2026 12:16:25 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372671</guid>
+      <source url="http://www.geekpark.net/news/372671">极客公园</source>
+    </item>
+    <item>
+      <title>Navalia:通过可验证的任务综合和长距培训后推进协作代理</title>
+      <link>https://arxiv.org/abs/2610.26887</link>
+      <description>大型语言模型(LLM)代理正在从对话助理演变成能够自主规划、工具使用和复杂任务执行的协同代理。 财务分析要求这些代理将交叉文件证据和每个代理软件整合在一起。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26887</guid>
+      <source url="https://arxiv.org/abs/2610.26887">ArXiv AI</source>
+    </item>
+    <item>
+      <title>大型语言模式和以强化学习为基础的自主建设和进度更新</title>
+      <link>https://arxiv.org/abs/2610.26899</link>
+      <description>由于全球人口迅速增长,传统的建筑方法逐渐无法满足目前的住房需求. 机器学习算法的进步鼓励了研究人员在c中探索他们的应用.</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26899</guid>
+      <source url="https://arxiv.org/abs/2610.26899">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Pareto-Optimal RTL 通过多目标强化学习使用大语言模型生成代码</title>
+      <link>https://arxiv.org/abs/2610.26904</link>
+      <description>最近的研究建议采用可核查的奖励(RLVR)方法进行强化学习,使LLMs能够从自然语言的规格中产生出高质量的RTL电路. 现有方法优化了电路PPA(Power, Performance, Area).</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26904</guid>
+      <source url="https://arxiv.org/abs/2610.26904">ArXiv AI</source>
+    </item>
+    <item>
+      <title>MedPAO-Assist: 边际可部署,机动性-智能 辐射学报告人工智能结构</title>
+      <link>https://arxiv.org/abs/2610.26913</link>
+      <description>采用"大语言模型"进行放射学报告结构,主要有专有云型模型或需要高端GPU部署的大型开放型模型,这是临床采用的关键瓶颈.</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26913</guid>
+      <source url="https://arxiv.org/abs/2610.26913">ArXiv AI</source>
+    </item>
+    <item>
+      <title>DataPraxis: 通过验证的工作空间进化来放大分析任务</title>
+      <link>https://arxiv.org/abs/2610.26924</link>
+      <description>人们日益期望普通用途人员从事专业分析工作,这需要持续推理、迭代调查和可靠的证据。 培训这些能力需要各种具有挑战性的任务。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26924</guid>
+      <source url="https://arxiv.org/abs/2610.26924">ArXiv AI</source>
+    </item>
+    <item>
+      <title>高维地层态轨迹揭示了变压器推论的内部动力学</title>
+      <link>https://arxiv.org/abs/2610.26866</link>
+      <description>对大语言模型的机械研究将功能定位于参数、注意力头或神经元,但这些部分并没有具体说明一个推论是如何展开的。我们把指令的地层状态轨迹作为经验过程,并测试是否是 la</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26866</guid>
+      <source url="https://arxiv.org/abs/2610.26866">ArXiv ML</source>
+    </item>
+    <item>
+      <title>从匿名人群反馈中调整多元策略</title>
+      <link>https://arxiv.org/abs/2610.26914</link>
+      <description>多元协调要求人工智能系统从不同人群中学习,这些人群的偏好可能反映不同甚至相互冲突的目标,并将其行为个性化给个人用户。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26914</guid>
+      <source url="https://arxiv.org/abs/2610.26914">ArXiv ML</source>
+    </item>
+    <item>
+      <title>专家指导的Rubrics作为不可验证域强化学习的感应信号</title>
+      <link>https://arxiv.org/abs/2610.26932</link>
+      <description>大型语言模型(LLMs)越来越多地作为不可核查的领域(如金融服务)的自主代理被部署,在这些领域,他们必须解释用户的意图,重写查询,并在特定域的限制下检索信息. Althou.</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26932</guid>
+      <source url="https://arxiv.org/abs/2610.26932">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Beyond Political Discreption: Captainable-Aware 多教师策略扭曲</title>
+      <link>https://arxiv.org/abs/2610.26950</link>
+      <description>多教师策略提炼(MOPD)将域外专家整合到一个共享的学生中,但确定每个教师应如何严格监督仍然是个挑战。 现有的差异分配甚至可以赋予强有力的监督权。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26950</guid>
+      <source url="https://arxiv.org/abs/2610.26950">ArXiv ML</source>
+    </item>
+    <item>
+      <title>动态系统激发的AI4科学任务连续大语言模型</title>
+      <link>https://arxiv.org/abs/2610.26959</link>
+      <description>科学基础模型越来越多地在持续现象上运作,但仍使用离散的剩余计算。 我们问,经过预先训练的剩余转换是否能够支持额外的潜在计算,而不会扩大主干线。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26959</guid>
+      <source url="https://arxiv.org/abs/2610.26959">ArXiv ML</source>
+    </item>
+    <item>
+      <title>H2DF:可控语言-模式Unlearning校正目标带</title>
+      <link>https://arxiv.org/abs/2610.26864</link>
+      <description>渐渐升起(GA)是一个简单的语言模式的不学习基线,但它在有用的遗忘发生后继续增加遗忘的损失。 这种无约束的压力会损害保留起来的效用,使被遗忘的例子变得异常高损失。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26864</guid>
+      <source url="https://arxiv.org/abs/2610.26864">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>Autoterm-SST: 零会话-时间设置用于流传语音翻译的可适应名词内存</title>
+      <link>https://arxiv.org/abs/2610.26865</link>
+      <description>检索到的语音翻译改进了罕见的术语,但RASST这样的系统仍然假设用户在每次会话前提供词汇表。 这种假设对现场谈话来说是不方便的,同时将每个域合并成一个正在增长的光彩</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26865</guid>
+      <source url="https://arxiv.org/abs/2610.26865">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>波浪承诺:私人和可核实的语音代理市场</title>
+      <link>https://arxiv.org/abs/2610.26867</link>
+      <description>现代语音系统正在演变成自主语音智能体的生态系统,这些智能体共同说话、谈判和交易资产,如嵌入、光谱或原始数据。 在这类市场中,由于隐私原因,销售者无法披露资产以供评价。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26867</guid>
+      <source url="https://arxiv.org/abs/2610.26867">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>具有双向音频文本的多式模拟和犹豫识别</title>
+      <link>https://arxiv.org/abs/2610.26868</link>
+      <description>异常和犹豫(A/H)是一种微妙的行为状态,可以通过一个人的言语和说话方式来表达。本文为视频级别的A/H识别提供了音频文本框架。 完整视频记录和语音wa。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26868</guid>
+      <source url="https://arxiv.org/abs/2610.26868">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>语音专家的混合 低Rank 调适 Conformer 模式的发音英语识别</title>
+      <link>https://arxiv.org/abs/2610.26888</link>
+      <description>我们介绍基于低朗克适应(MOPE-LORA)的语音专家混合适应(Mixture of Phonetic Expertion),这是一个用于重口音识别的参数高效的适应框架。 最近的专家混合方法通常将专家分配到每个口音,隐含三重口音。</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26888</guid>
+      <source url="https://arxiv.org/abs/2610.26888">ArXiv NLP</source>
+    </item>
     <item>
       <title>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</title>
       <link>https://x.com/thsottiaux/status/2112712984644784534</link>
@@ -22,150 +166,6 @@
       <pubDate>Wed, 21 Oct 2026 08:37:07 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372650</guid>
       <source url="http://www.geekpark.net/news/372650">极客公园</source>
-    </item>
-    <item>
-      <title>派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等</title>
-      <link>https://sspai.com/post/116887</link>
-      <description>工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文</description>
-      <pubDate>Wed, 21 Oct 2026 08:07:07 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/116887</guid>
-      <source url="https://sspai.com/post/116887">少数派</source>
-    </item>
-    <item>
-      <title>法官驳回Sam Altman的妹妹性虐待诉讼</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed</link>
-      <description>美国地区法官Zachary Bluestone星期二驳回了去年提起的诉讼,指控她的兄弟OpenAI CEOSam Altman在她整个童年时期都对她进行了性虐待。 正如《卫报》早些时候报道的那样,法官写道,去年,Ann没有出庭。</description>
-      <pubDate>Tue, 20 Oct 2026 19:04:19 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed">The Verge AI</source>
-    </item>
-    <item>
-      <title>Google更个性化的双子座人工智能正开到你的车上</title>
-      <link>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</link>
-      <description>Google 正在将个人情报带给您车上的双子座人工智能。通过这一更新,Android Autio中的双子座和Google内置的汽车可以从Google应用软件中获取您的信息,包括Gmail、日历、地图、照片、YouTube和搜索。例如,Google 说您可以向双子座请求abou。</description>
-      <pubDate>Tue, 20 Oct 2026 18:11:34 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</guid>
-      <source url="https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto">The Verge AI</source>
-    </item>
-    <item>
-      <title>Anthropic 云合作生变：AWS、Google、微软视其为竞争者</title>
-      <link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</link>
-      <description>据泄露给华尔街日报的 S-1 文件，Anthropic 难以从 AWS、Google 和 Microsoft 获得足够云算力，这些厂商日益将其视为竞争者而非客户。</description>
-      <pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</guid>
-      <source url="https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>SpaceX 财报显示 AI 业务超预期，占收入 52%</title>
-      <link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</link>
-      <description>SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。</description>
-      <pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</guid>
-      <source url="https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Meta 在研究人员发现网络上的人工智能聊天后暂停 Muse 共享</title>
-      <link>https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</link>
-      <description>Meta说,它暂停了一个Muse特性,在研究人员发现网上可公开获取的URL后,可以与人工智能助理分享对话,这是Ars Technica所报道的。在本周发表的一份报告中,Claroc安全公司的研究人员说,他们发现了超过6800个Muse链接 t。</description>
-      <pubDate>Tue, 20 Oct 2026 14:07:34 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</guid>
-      <source url="https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats">The Verge AI</source>
-    </item>
-    <item>
-      <title>fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一</title>
-      <link>https://x.com/fal/status/2112600472922333263</link>
-      <description>fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。</description>
-      <pubDate>Tue, 20 Oct 2026 17:42:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fal/status/2112600472922333263</guid>
-      <source url="https://x.com/fal/status/2112600472922333263">X：fal (@fal)</source>
-    </item>
-    <item>
-      <title>Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理</title>
-      <link>https://x.com/AravSrinivas/status/2112583333825950207</link>
-      <description>Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。</description>
-      <pubDate>Tue, 20 Oct 2026 16:34:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AravSrinivas/status/2112583333825950207</guid>
-      <source url="https://x.com/AravSrinivas/status/2112583333825950207">X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)</source>
-    </item>
-    <item>
-      <title>Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端</title>
-      <link>https://pytorch.org/blog/introducing-torchtpu/</link>
-      <description>Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to("cuda") 改为 .to("tpu")。</description>
-      <pubDate>Tue, 20 Oct 2026 16:00:30 +0000</pubDate>
-      <guid isPermaLink="true">https://pytorch.org/blog/introducing-torchtpu/</guid>
-      <source url="https://pytorch.org/blog/introducing-torchtpu/">PyTorch：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Spotify从它的建议中抽取了5 000万条人工智能破碎和垃圾邮件</title>
-      <link>https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</link>
-      <description>Spotify说,在过去的一年里,它从用户推荐中移除了5000多万首被认为是人工智能生成的sloop或垃圾邮件的歌曲,据周二的一份公告称,Spotify还对其推荐系统进行了修改,以突出更多由人类艺术家制作的音乐.</description>
-      <pubDate>Tue, 20 Oct 2026 10:18:37 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</guid>
-      <source url="https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed">The Verge AI</source>
-    </item>
-    <item>
-      <title>Adobe Lightroom 手机现在可以用简单的水龙头在照片中打开闭眼</title>
-      <link>https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair</link>
-      <description>Adobe昨天宣布,用于iOS、iPadOS和Android的Lightroom移动版本现在可以使用基因人工智能在照片中打开闭眼。当应用程序检测到一个人或一群人时,在照片中闭上眼睛,它将自动显示</description>
-      <pubDate>Tue, 20 Oct 2026 09:06:44 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair</guid>
-      <source url="https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair">The Verge AI</source>
-    </item>
-    <item>
-      <title>你需要更好的头部镜头。</title>
-      <link>https://www.youtube.com/shorts/v45XAMqH7pE</link>
-      <description>你需要更好的头部镜头,现在用ChatGPT图像创建你的。</description>
-      <pubDate>Tue, 20 Oct 2026 13:00:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/v45XAMqH7pE</guid>
-      <source url="https://www.youtube.com/shorts/v45XAMqH7pE">OpenAI</source>
-    </item>
-    <item>
-      <title>美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器</title>
-      <link>https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/</link>
-      <description>据 The Intercept 获取的文件，美国陆军网络司令部（ARCYBER）正在开发代号 ECHOTRIBBLE 的平台，让 AI 智能体自主在网络间移动、识别并清除威胁目标，之后自毁，且须在极少人工监督下运行。</description>
-      <pubDate>Tue, 20 Oct 2026 12:32:56 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/</guid>
-      <source url="https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪</title>
-      <link>https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&amp;utm_source=rss</link>
-      <description>IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。</description>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&amp;utm_source=rss</guid>
-      <source url="https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&amp;utm_source=rss">IBM Research：AI</source>
-    </item>
-    <item>
-      <title>DeepSeek 全面开源内部推理框架 DeepInfer</title>
-      <link>https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836</link>
-      <description>DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。</description>
-      <pubDate>Tue, 20 Oct 2026 08:54:54 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836">公众号：DeepSeek（深度求索）</source>
-    </item>
-    <item>
-      <title>路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元</title>
-      <link>https://x.com/rohanpaul_ai/status/2112455383356989598</link>
-      <description>据 Reuters 报道，OpenAI 正赶在 Anthropic 上市前洽谈融资约 300 亿美元，估值超 1.4 万亿美元，比 3 月的 8520 亿美元至少高 64%。</description>
-      <pubDate>Tue, 20 Oct 2026 08:06:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112455383356989598</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2112455383356989598">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>Ai2 发布 FairStress 基准：测量 LLM 决策中被隐藏的公平性不对称</title>
-      <link>https://allenai.org/blog/fairstress</link>
-      <description>Ai2 发布 FairStress 基准，通过 300 个两候选决策场景和对抗前缀，测量 LLM 在面对说服性论据时改变决策的难易是否因候选人所属人口群体而不同，全部组合超过 1300 万测试用例，并已开放下载、集成进 Olmo-eval。</description>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://allenai.org/blog/fairstress</guid>
-      <source url="https://allenai.org/blog/fairstress">Ai2 / Allen Institute for AI（RSS）</source>
-    </item>
-    <item>
-      <title>Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客</title>
-      <link>https://waymo.com/blog/2026/10/waymo-in-madrid-region</link>
-      <description>Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠定基础，目标 2027 年迎来首批乘客。未来数日其电动 Jaguar I-PACE 车辆将现身当地街头，先以人工驾驶开始，再由当地受训的自动驾驶专家进行技术验证。Waymo 称已累计完成逾 2000 万次行程、400 万公里全自动驾驶里程，在其运营城市中涉及重伤或更严重事故的比例比人类司机低 95%。</description>
-      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://waymo.com/blog/2026/10/waymo-in-madrid-region</guid>
-      <source url="https://waymo.com/blog/2026/10/waymo-in-madrid-region">Waymo：Blog（网页）</source>
     </item>
   </channel>
 </rss>
