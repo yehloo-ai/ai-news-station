@@ -5,15 +5,71 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 18:29:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 22:15:40 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic 将 Agent Skills 捐赠给 Agentic AI Foundation</title>
-      <link>https://x.com/bcherny/status/2113333859907747871</link>
-      <description>Anthropic 的 Boris Cherny 宣布将 Agent Skills 捐赠给 Agentic AI Foundation，与此前捐赠的 MCP 并列。Agent Skills 起源于 Claude Code 的实验，因行业广泛采用而开放。引用的 @ClaudeDevs 内容提到，自 2025 年 12 月以来已有 70+ 智能体平台集成该标准，包括 ChatGPT、Cursor、GitHub Copilot 和 VS Code。</description>
-      <pubDate>Thu, 22 Oct 2026 18:17:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bcherny/status/2113333859907747871</guid>
-      <source url="https://x.com/bcherny/status/2113333859907747871">X：Boris Cherny (@bcherny)</source>
+      <title>梅西叫查特GPT教他开棋</title>
+      <link>https://www.youtube.com/shorts/RLQR5_5fJDA</link>
+      <description>Messi要求ChatGPT教他一个与他风格相匹配的棋子开局。它建议Goat Horns. QQ亲自尝试ChatGPT的智能UI : “ 根据你对我的了解,教我一些新东西,一步一步的告诉我。 ”</description>
+      <pubDate>Thu, 22 Oct 2026 21:58:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/RLQR5_5fJDA</guid>
+      <source url="https://www.youtube.com/shorts/RLQR5_5fJDA">OpenAI</source>
+    </item>
+    <item>
+      <title>Canva的第一个人工智能图像模型在生成之前就设计了设计</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</link>
+      <description>Canva通过推出直接与OpenAI,微软和Google的作品竞争的图像生成模型,正在潜入更深的人工智能中. Canva的模型称为Canva Craft,它使用两阶段架构,允许它在生成图像前先规划设计,允许"更大的预感".</description>
+      <pubDate>Thu, 22 Oct 2026 17:51:25 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model">The Verge AI</source>
+    </item>
+    <item>
+      <title>Meta的人工智能仍然可以刮掉新闻网站,</title>
+      <link>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</link>
+      <description>Meta修改了自己的业务条款,删除了暗示它可以在新闻网站上自由训练其人工智能模型的语言,比如The Verge——但是法律专家说这些变化并不足以解决他们的关切. "这对限制‘与你的产品或服务有关'没有任何作用. [lang]</description>
+      <pubDate>Thu, 22 Oct 2026 16:32:05 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</guid>
+      <source url="https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns">The Verge AI</source>
+    </item>
+    <item>
+      <title>Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体</title>
+      <link>https://replit.com/blog/replit-monitoring-agent</link>
+      <description>Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体。它可以读取生产日志和指标调查错误、变慢和部署失败，在启用 autofix 后验证修复并邮件汇报，启用 auto-publish 后可自动部署修复。该能力建立在早前上线的 App Monitoring 之上，用户可在应用的 Publishing 设置中开启。</description>
+      <pubDate>Thu, 22 Oct 2026 20:24:13 +0000</pubDate>
+      <guid isPermaLink="true">https://replit.com/blog/replit-monitoring-agent</guid>
+      <source url="https://replit.com/blog/replit-monitoring-agent">Replit：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Claude 网页、桌面和移动端将默认启用 auto mode</title>
+      <link>https://x.com/claudeai/status/2113360845409583307</link>
+      <description>Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。</description>
+      <pubDate>Thu, 22 Oct 2026 20:04:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/claudeai/status/2113360845409583307</guid>
+      <source url="https://x.com/claudeai/status/2113360845409583307">X：Claude (@claudeai)</source>
+    </item>
+    <item>
+      <title>The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</link>
+      <description>The Verge 作者 Elizabeth Lopatto 分析 SpaceX 和 Tesla 各自成立特别委员会讨论合并一事。</description>
+      <pubDate>Thu, 22 Oct 2026 19:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>OpenAI 正式发布 Decisions API，面向低延迟低成本小决策</title>
+      <link>https://openai.com/index/decisions-api</link>
+      <description>OpenAI 宣布基于 GPT-6 Luna 的 Decisions API 正式可用，用于分类、路由、评分等有界答案问题，速度最高比通过 Responses API 使用 GPT-6 Luna 快 10x。</description>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
+      <source url="https://openai.com/index/decisions-api">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
+    <item>
+      <title>Discord 现在格式化 Markdown 预览右侧</title>
+      <link>https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels</link>
+      <description>Discord最新发布的最新更新对Markdown预览有很大的改进:现在它们应该正确渲染,而不是使用"一堆符号",公司认为. LLMS和人工智能特工经常依赖Markdown文件来进行指令和上下文,因此这些改进后的预览可以帮助f.</description>
+      <pubDate>Thu, 22 Oct 2026 14:58:19 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels</guid>
+      <source url="https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels">The Verge AI</source>
     </item>
     <item>
       <title>在Meta的将来版本中, 我会让我的Muse叫你的Muse</title>
@@ -24,12 +80,12 @@
       <source url="https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network">The Verge AI</source>
     </item>
     <item>
-      <title>Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science</title>
-      <link>https://x.com/mustafasuleyman/status/2113332931423039945</link>
-      <description>Mustafa Suleyman 宣布 Microsoft AI 的 MAI Diagnostic 系统诊断准确率达到急诊医生的 1.7 倍，且医生可联网查资料时依然如此。该系统成本更低、得出诊断所需的医学检查更少，相关成果今日发表于 Science 期刊。</description>
-      <pubDate>Thu, 22 Oct 2026 18:13:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mustafasuleyman/status/2113332931423039945</guid>
-      <source url="https://x.com/mustafasuleyman/status/2113332931423039945">X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)</source>
+      <title>Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science</title>
+      <link>https://microsoft.ai/news/building-medical-superintelligence/</link>
+      <description>Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系统 MAI-DxO，论文发表于 Science。</description>
+      <pubDate>Thu, 22 Oct 2026 18:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://microsoft.ai/news/building-medical-superintelligence/</guid>
+      <source url="https://microsoft.ai/news/building-medical-superintelligence/">Microsoft AI：官方博客（网页）</source>
     </item>
     <item>
       <title>Uber 推出 ChatGPT 工作给 30,000 + 员工</title>
@@ -110,62 +166,6 @@
       <pubDate>Thu, 22 Oct 2026 14:02:33 +0000</pubDate>
       <guid isPermaLink="true">https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right</guid>
       <source url="https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right">Sierra：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Bill Gates说要准备20年的"乱七八糟的"人工智能干扰</title>
-      <link>https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation</link>
-      <description>今天,我和微软的前首席执行官兼盖茨基金会主席比尔·盖茨(Bill Gates)交谈。 你可能最近注意到比尔在新闻中,自从8月下旬发表一篇题为“动荡的人工智能时代是”的散文以来,他在过去几个月里一直在巡回演出。</description>
-      <pubDate>Thu, 22 Oct 2026 10:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation</guid>
-      <source url="https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation">The Verge AI</source>
-    </item>
-    <item>
-      <title>Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺</title>
-      <link>http://www.geekpark.net/news/372762</link>
-      <description>过去两年多，在智能硬件领域，投资人和创业者都热衷于为 AI 寻找一个个物理世界里的新「容器」，各种新形态的 AI 原生硬件成了投资市场的热门项目。 但其实，很多成熟形态的硬件同样有 AI 化的需求。这也许没有「AI Native」的概念那么性感，但市场一点不小，复杂度丝毫不低。 以家电行业为例：供应链长，改一次硬件就要重走研发、测试、认证；销售链条长，从厂家、经销商到上门安装的电工，每一环都得接得住；成本又极度敏感，多一块钱都要反复掂量。 好在，家电已经为 AI 打好了地基。过去十几年，大量家电已经具备联网能力&amp;mdash;&amp;mdash;这意味着灵活升级的 OTA「管道」已经铺好，行业缺的是让</description>
-      <pubDate>Thu, 22 Oct 2026 21:20:53 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372762</guid>
-      <source url="http://www.geekpark.net/news/372762">极客公园</source>
-    </item>
-    <item>
-      <title>Wiz 披露 ARTEX 智能体被 Storm-0940 用于攻击 IT 和软件厂商</title>
-      <link>https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors</link>
-      <description>Wiz 披露 2026 年 10 月有攻击者使用开源自主渗透测试框架 ARTEX 针对多家 IT 和软件厂商，活动与微软报告的中国国家级关联组织 Storm-0940 重叠，并已扩展到其他软件领域的供应链攻击尝试。</description>
-      <pubDate>Thu, 22 Oct 2026 13:05:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors</guid>
-      <source url="https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors">Wiz：Research（安全研究）</source>
-    </item>
-    <item>
-      <title>1Password让人工智能特工不用看到密码就可以使用密码.</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in</link>
-      <description>1Password引入了一个新的功能,允许人工智能特工在不实际看到或处理您的密码的情况下在您的账户上签名. 1Password for Agents的恰当命名并没有给予bots自由的统治权限来访问您所有连接的账户 - 您仍然需要批准在req上签名.</description>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in">The Verge AI</source>
-    </item>
-    <item>
-      <title>人工智能人员准备购物,有些零售商很警惕</title>
-      <link>https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse</link>
-      <description>使用人工智能代理为您购物是一种奇怪的经验。技术公司将他们作为个人助理进行营销 — — 劳动力的民主化通常只能为富人和强人所利用。实际上,至少为了购买东西,这更像是送出一种焦虑而令人叹息的东西。</description>
-      <pubDate>Thu, 22 Oct 2026 08:30:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse</guid>
-      <source url="https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse">The Verge AI</source>
-    </item>
-    <item>
-      <title>Claude没有发明蝎子抗毒药</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom</link>
-      <description>一家投资研究公司想证明人工智能可以使药物开发革命化。所以他们与Anthropic合作,看看一个未释放的克洛德版本是否能够制出蝎子抗毒药。它不可能。它想出了一些有希望的起点,但是没有什么接近于实际药物,专家。</description>
-      <pubDate>Thu, 22 Oct 2026 08:21:07 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom">The Verge AI</source>
-    </item>
-    <item>
-      <title>宇树 10 周年，王兴兴：我劝你相信 AI</title>
-      <link>http://www.geekpark.net/news/372759</link>
-      <description>10 月 22 日，杭州国际博览中心热闹非常，不仅人多，而且机器人也特别多。 这是 2026 年宇树科技举办的世界物理 AI 大会的现场，从四足机器人到人形机器人，你甚至可以说这里是全球「机器人密度」最高的地方。 2026 年，也是宇树科技创立的第十年。有意思的是，在今天的舞台上，宇树科技创始人王兴兴，在谈机器人之外，聊的最多的就是当下最火热的 AI。 他不仅劝所有人要「相信 AI」，而且还反思，觉得自己「相信 AI 还相信得不够」。 为什么这家中国、乃至全球机器人行业中最有实力的公司掌舵者，会这么说？物理 AI 的拐点，真的要到来了吗？ 必须相信 AI 在王兴兴 36 分钟的演讲中，宇树自己</description>
-      <pubDate>Thu, 22 Oct 2026 19:56:03 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372759</guid>
-      <source url="http://www.geekpark.net/news/372759">极客公园</source>
     </item>
   </channel>
 </rss>
