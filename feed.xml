@@ -5,8 +5,120 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 13:44:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:29:17 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic 将 Agent Skills 捐赠给 Agentic AI Foundation</title>
+      <link>https://x.com/bcherny/status/2113333859907747871</link>
+      <description>Anthropic 的 Boris Cherny 宣布将 Agent Skills 捐赠给 Agentic AI Foundation，与此前捐赠的 MCP 并列。Agent Skills 起源于 Claude Code 的实验，因行业广泛采用而开放。引用的 @ClaudeDevs 内容提到，自 2025 年 12 月以来已有 70+ 智能体平台集成该标准，包括 ChatGPT、Cursor、GitHub Copilot 和 VS Code。</description>
+      <pubDate>Thu, 22 Oct 2026 18:17:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bcherny/status/2113333859907747871</guid>
+      <source url="https://x.com/bcherny/status/2113333859907747871">X：Boris Cherny (@bcherny)</source>
+    </item>
+    <item>
+      <title>在Meta的将来版本中, 我会让我的Muse叫你的Muse</title>
+      <link>https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</link>
+      <description>马克·扎克伯格(Mark Zuckerberg)正在向着这样一个未来奔波:一个自主的人工智能特工网络将管理我们的生活——为我们买东西,为我们工作,与其他人的人工智能特工为我们说话。 人类是否准备好接受这个非常具体和无情的人生愿景,我们主要在其中交流?</description>
+      <pubDate>Thu, 22 Oct 2026 14:15:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</guid>
+      <source url="https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network">The Verge AI</source>
+    </item>
+    <item>
+      <title>Microsoft 的 MAI Diagnostic 系统诊断准确率达急诊医生 1.7 倍，成果发表于 Science</title>
+      <link>https://x.com/mustafasuleyman/status/2113332931423039945</link>
+      <description>Mustafa Suleyman 宣布 Microsoft AI 的 MAI Diagnostic 系统诊断准确率达到急诊医生的 1.7 倍，且医生可联网查资料时依然如此。该系统成本更低、得出诊断所需的医学检查更少，相关成果今日发表于 Science 期刊。</description>
+      <pubDate>Thu, 22 Oct 2026 18:13:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mustafasuleyman/status/2113332931423039945</guid>
+      <source url="https://x.com/mustafasuleyman/status/2113332931423039945">X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)</source>
+    </item>
+    <item>
+      <title>Uber 推出 ChatGPT 工作给 30,000 + 员工</title>
+      <link>https://www.youtube.com/watch?v=l16Gw7oVLNQ</link>
+      <description>继一个1000人的飞行员之后,Uber将ChatGPT Work带给全球30,000多名员工,在全公司首次部署知识工作代理平台. Uber CTO Praveen Nepplli Naga和OpenAI联合创始人和Greg Brockman总统讨论将人工智能扩展到工程师之外的问题.</description>
+      <pubDate>Thu, 22 Oct 2026 18:00:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=l16Gw7oVLNQ</guid>
+      <source url="https://www.youtube.com/watch?v=l16Gw7oVLNQ">OpenAI</source>
+    </item>
+    <item>
+      <title>微软称其人工智能工具比诊断条件下的医生要好</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence</link>
+      <description>多年来,人工智能领袖们都把医疗保健说成是他们技术能改善生活的最明显的例子之一。现在,“终于来了 ” , 微软人工智能CEOMustafa Suleyman告诉了The Verge。 该公司声称开发了一种人工智能驱动工具,它说可以诊断最多4T的条件。</description>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence">The Verge AI</source>
+    </item>
+    <item>
+      <title>有人用旧游戏和人工智能黑进了Switch 2</title>
+      <link>https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai</link>
+      <description>任天堂Switch 2显然已经陷入了牢狱之中,一个调制解调器已经向主控台展示了一个自定义版本的马里奥·卡特世界(Mario Kart World),其中以新角色如Cinnamoroll,红色愤怒鸟,彼得·格里芬和来自Minecraft的史蒂夫为主角. OpenAI的Codex帮助制作了这个"ns2jb" jailb.</description>
+      <pubDate>Thu, 22 Oct 2026 13:21:31 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai</guid>
+      <source url="https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai">The Verge AI</source>
+    </item>
+    <item>
+      <title>Wildwood的导演说人工智能“与我们在这个工作室里的一切是对立的”。</title>
+      <link>https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion</link>
+      <description>Wildwood是至今为止最有雄心的电影,来自Laika,以科林和帕拉诺尔曼等作品最为知名的止步工作室,是一次花5年时间完成的无序幻想历险,这一过程涉及230多名傀儡——包括36名主角普鲁埃一人——都是布鲁人.</description>
+      <pubDate>Thu, 22 Oct 2026 12:16:15 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion</guid>
+      <source url="https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%</title>
+      <link>https://www.newcomer.co/p/the-story-of-anthropics-cap-table</link>
+      <description>Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。</description>
+      <pubDate>Thu, 22 Oct 2026 15:53:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.newcomer.co/p/the-story-of-anthropics-cap-table</guid>
+      <source url="https://www.newcomer.co/p/the-story-of-anthropics-cap-table">Newcomer 新闻长文（RSS）</source>
+    </item>
+    <item>
+      <title>OpenAI、Anthropic和Nvidia有创纪录的游说区</title>
+      <link>https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</link>
+      <description>对人工智能游说家来说,这是一个繁忙的夏天. Anthropic, OpenAI,和Nvidia各自在7月至9月期间的游说季度支出最高,联邦披露显示. Nvidia花了大部分资金220万美元,其次是Anthropic的210万美元和OpenAI的150万美元.</description>
+      <pubDate>Thu, 22 Oct 2026 11:50:30 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</guid>
+      <source url="https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records">The Verge AI</source>
+    </item>
+    <item>
+      <title>METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞</title>
+      <link>https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent</link>
+      <description>METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。</description>
+      <pubDate>Thu, 22 Oct 2026 15:32:17 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent</guid>
+      <source url="https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent">Redwood Research：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应</title>
+      <link>https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/</link>
+      <description>PHP2Shell 漏洞在被披露前四天已遭黑客利用，Calif 与 Wiz 的研究人员发现这些漏洞。OpenAI 称其前沿 AI 在攻击者之前发现了漏洞，并与 PHP、Calif、Wiz 合作验证并开发补丁。NSA 建议无法立即更新的机构将系统离线，英国 NCSC 表示漏洞可能让黑客无需登录凭据即可控制网站服务器，白宫称联邦机构正在评估对政府系统和关键基础设施的潜在影响。</description>
+      <pubDate>Thu, 22 Oct 2026 15:25:02 +0000</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/</guid>
+      <source url="https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/">Ars Technica：AI（RSS）</source>
+    </item>
+    <item>
+      <title>404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局</title>
+      <link>https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/</link>
+      <description>404 Media 的 Jason Koebler 梳理近一个月安全专家对 AI 挖洞能力引发的"Black October"恐慌。Wiz、Calif 和 OpenAI 的研究者用 AI 发现了 PHP 的 PHP2Shell 漏洞，Cloudflare CEO 称公开公告前 10 小时已见数千次利用尝试，公告后 2 小时内增至数十万，目前达数百万级。</description>
+      <pubDate>Thu, 22 Oct 2026 14:23:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/</guid>
+      <source url="https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/">404 Media（RSS）</source>
+    </item>
+    <item>
+      <title>Sierra 发布 𝜏-Entity 基准，检验语音智能体能否准确采集姓名、电话等实体信息</title>
+      <link>https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right</link>
+      <description>Sierra 发布 𝜏-Entity 基准，测量语音智能体能否正确采集、识别错误并修复姓名、电话号码、地址和邮箱等细节，包含 10 种实体类型共 200 个任务，并与 𝜏-i18n 一样覆盖六种语言。</description>
+      <pubDate>Thu, 22 Oct 2026 14:02:33 +0000</pubDate>
+      <guid isPermaLink="true">https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right</guid>
+      <source url="https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right">Sierra：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Bill Gates说要准备20年的"乱七八糟的"人工智能干扰</title>
+      <link>https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation</link>
+      <description>今天,我和微软的前首席执行官兼盖茨基金会主席比尔·盖茨(Bill Gates)交谈。 你可能最近注意到比尔在新闻中,自从8月下旬发表一篇题为“动荡的人工智能时代是”的散文以来,他在过去几个月里一直在巡回演出。</description>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation</guid>
+      <source url="https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation">The Verge AI</source>
+    </item>
     <item>
       <title>Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺</title>
       <link>http://www.geekpark.net/news/372762</link>
@@ -14,6 +126,14 @@
       <pubDate>Thu, 22 Oct 2026 21:20:53 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372762</guid>
       <source url="http://www.geekpark.net/news/372762">极客公园</source>
+    </item>
+    <item>
+      <title>Wiz 披露 ARTEX 智能体被 Storm-0940 用于攻击 IT 和软件厂商</title>
+      <link>https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors</link>
+      <description>Wiz 披露 2026 年 10 月有攻击者使用开源自主渗透测试框架 ARTEX 针对多家 IT 和软件厂商，活动与微软报告的中国国家级关联组织 Storm-0940 重叠，并已扩展到其他软件领域的供应链攻击尝试。</description>
+      <pubDate>Thu, 22 Oct 2026 13:05:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors</guid>
+      <source url="https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors">Wiz：Research（安全研究）</source>
     </item>
     <item>
       <title>1Password让人工智能特工不用看到密码就可以使用密码.</title>
@@ -24,7 +144,7 @@
       <source url="https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in">The Verge AI</source>
     </item>
     <item>
-      <title>人工智能特工准备购物,有些零售商很警惕.</title>
+      <title>人工智能人员准备购物,有些零售商很警惕</title>
       <link>https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse</link>
       <description>使用人工智能代理为您购物是一种奇怪的经验。技术公司将他们作为个人助理进行营销 — — 劳动力的民主化通常只能为富人和强人所利用。实际上,至少为了购买东西,这更像是送出一种焦虑而令人叹息的东西。</description>
       <pubDate>Thu, 22 Oct 2026 08:30:00 -0400</pubDate>
@@ -46,126 +166,6 @@
       <pubDate>Thu, 22 Oct 2026 19:56:03 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372759</guid>
       <source url="http://www.geekpark.net/news/372759">极客公园</source>
-    </item>
-    <item>
-      <title>Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击</title>
-      <link>https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/</link>
-      <description>Symantec 研究人员通过蜜罐截获一个把大语言模型嵌入核心的攻击智能体，它会劫持互联网上无防护的模型端点，自主扫描目标、利用服务器漏洞、窃取数据库凭据并安装挖矿程序，最多连续执行 100,000 步，算力费用由被劫持模型的主人承担。</description>
-      <pubDate>Thu, 22 Oct 2026 11:30:56 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/</guid>
-      <source url="https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了</title>
-      <link>https://www.ifanr.com/1685507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>大的还在后面#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 22 Oct 2026 11:15:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1685507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1685507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Eiliko Maker说, 在Verge报告其不安全机器人后, 该公司正在雇用一家「独立保安公司」。</title>
-      <link>https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach</link>
-      <description>Eiliko,一个可爱的机器人魅力,你可以挂在你的包上 与内置的人工智能对话,结果是一个安全噩梦。它告诉所有者,"你的秘密是安全的与我同在的",但黑客可以很容易地阅读我们告诉玩具的所有东西的完整记录,而这仅仅是开始。</description>
-      <pubDate>Thu, 22 Oct 2026 07:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach</guid>
-      <source url="https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach">The Verge AI</source>
-    </item>
-    <item>
-      <title>AI 漫剧越做越快，赚钱却没那么容易了</title>
-      <link>http://www.geekpark.net/news/372746</link>
-      <description>&amp;nbsp; 「一个创作者加上 IP 和 AI 工具，就能完成漫剧创作全流程。」 在上周举行的阅文创作大会上，阅文集团 CEO 侯晓楠这样描述正在兴起的「一人公司」。当日，阅文发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台，并推出「IP 委员会」模式，试图把故事从文字到影像，再到后续开发的过程连接起来。 看起来，AI 带来的机会似乎还在不断扩大。 但身处一线的漫剧从业者们，正感受着更真实、更锋利的行业变化。 在会后，极客公园参与了对阅文 AI 平台负责人陈炜于、酱油文化创始人黄浩南（业内称「酱油」）、前尾猴文化总经理三行的采访。其中，酱油作为最早一批</description>
-      <pubDate>Thu, 22 Oct 2026 16:20:34 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372746</guid>
-      <source url="http://www.geekpark.net/news/372746">极客公园</source>
-    </item>
-    <item>
-      <title>大模型内卷之后，AI 竞争进入搜索基础设施时代</title>
-      <link>http://www.geekpark.net/news/372743</link>
-      <description>&amp;nbsp; 头图来源：元宝搜索 过去一年，AI 行业的战场正在悄悄发生位移。 当 Agent 从概念快速渗透进办公、内容、金融等真实业务场景，行业共识也在悄然改变：决定 AI 体验上限的，是它连接真实世界的能力。 政策迭代、市场波动、行业动态、垂类数据&amp;hellip;&amp;hellip;现实世界的信息每秒都在更新，大模型自带的知识储备永远有边界，想要输出可靠结论、完成复杂任务，就必须接入实时、权威的外部信息。 搜索，是大模型对接真实世界的核心接口。但这也是当下 AI 落地的共性卡点：传统搜索基于关键词匹配，读不懂自然语言的复杂意图，低质内容还容易引发模型幻觉；从头自建一套完整检索体系，又意味着爬</description>
-      <pubDate>Thu, 22 Oct 2026 16:15:50 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372743</guid>
-      <source url="http://www.geekpark.net/news/372743">极客公园</source>
-    </item>
-    <item>
-      <title>被迫下场，Anthropic 推出个人 AI 助理 Claude Duet</title>
-      <link>http://www.geekpark.net/news/372740</link>
-      <description>作者｜桦林舞王 编辑｜靖宇 用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。 过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千万用户，紧接着 OpenAI 在开发者大会上发布 Dots。行业似乎达成了一个默契：聊天框该翻篇了，AI 应该自己找事做。 美国时间 10 月 21 日，Anthropic 终于拿出了自己的答案：Claude Duet。 Claude Duet 的早报界面｜图片来源：Anthro</description>
-      <pubDate>Thu, 22 Oct 2026 15:23:08 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372740</guid>
-      <source url="http://www.geekpark.net/news/372740">极客公园</source>
-    </item>
-    <item>
-      <title>既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布</title>
-      <link>https://www.qbitai.com/2026/10/504832.html</link>
-      <description>中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent</description>
-      <pubDate>Thu, 22 Oct 2026 07:11:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/504832.html</guid>
-      <source url="https://www.qbitai.com/2026/10/504832.html">量子位</source>
-    </item>
-    <item>
-      <title>谁在给OpenAI供应具身数据？</title>
-      <link>https://www.qbitai.com/2026/10/504800.html</link>
-      <description>挤进全球Physical AI核心供应链</description>
-      <pubDate>Thu, 22 Oct 2026 07:05:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/504800.html</guid>
-      <source url="https://www.qbitai.com/2026/10/504800.html">量子位</source>
-    </item>
-    <item>
-      <title>Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图</title>
-      <link>https://x.com/Kling_ai/status/2113156632134005040</link>
-      <description>OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。</description>
-      <pubDate>Thu, 22 Oct 2026 06:32:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Kling_ai/status/2113156632134005040</guid>
-      <source url="https://x.com/Kling_ai/status/2113156632134005040">X：可灵 Kling AI (@Kling_ai)</source>
-    </item>
-    <item>
-      <title>AI 到处挖漏洞一整年，终于给人类爆了个大的</title>
-      <link>http://www.geekpark.net/news/372731</link>
-      <description>头图图片来源：Wiz10 月 21 日晚，如果你有在社交媒体冲浪的习惯，可能会发现一个奇怪的网站关闭潮：几乎是在同一时间，全球多个国家和地区的各种重要基础设施网站纷纷宣布临时关闭。周三。芬兰政府把所有对外的网络服务关掉了；荷兰国家网络安全中心连自己的官网也撤了下来，鹿特丹港、荷兰足协、五大政党的网站和多家医院紧随其后；法国内政部让各省政府网站暂时下线，德国联邦 IT 服务商关掉了多个站点，比利时外交部、维基媒体基金会、任天堂，也相继停掉了部分服务。荷兰政府宣布 DigiD 等网站预防性下线｜图片来源：Rijksoverheid但这些网站其实都没有被黑，而是自己主动关掉的。原因是 PHP 的两个</description>
-      <pubDate>Thu, 22 Oct 2026 14:15:28 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372731</guid>
-      <source url="http://www.geekpark.net/news/372731">极客公园</source>
-    </item>
-    <item>
-      <title>PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网</title>
-      <link>https://www.ifanr.com/1685446?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>网站被攻破后，数据、密码和令牌都可能受到影响#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 22 Oct 2026 05:58:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1685446?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1685446?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Kling 4.0 现已上线 OnSolo</title>
-      <link>https://x.com/Kling_ai/status/2113142473145078041</link>
-      <description>可灵（Kling）宣布 Kling 4.0 已在 OnSolo 上线。该模型支持单次生成 30 秒原生视频，快速动作和大运镜下保持稳定，立体声配更准的口型同步，并提供 21:9 宽屏，单个任务可叠加最多 15 个参考图和 10 个关键帧以保持角色、镜头与剧情一致。</description>
-      <pubDate>Thu, 22 Oct 2026 05:36:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Kling_ai/status/2113142473145078041</guid>
-      <source url="https://x.com/Kling_ai/status/2113142473145078041">X：可灵 Kling AI (@Kling_ai)</source>
-    </item>
-    <item>
-      <title>NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告</title>
-      <link>https://x.com/rohanpaul_ai/status/2113136583985766442</link>
-      <description>NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。</description>
-      <pubDate>Thu, 22 Oct 2026 05:13:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113136583985766442</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2113136583985766442">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>Navalia:通过可验证的任务综合和长距培训后推进协作代理</title>
-      <link>https://arxiv.org/abs/2610.26887</link>
-      <description>大型语言模型(LLM)代理正在从对话助理演变成能够自主规划、工具使用和复杂任务执行的协同代理。 财务分析要求这些代理将交叉文件证据和每个代理软件整合在一起。</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26887</guid>
-      <source url="https://arxiv.org/abs/2610.26887">ArXiv AI</source>
-    </item>
-    <item>
-      <title>大型语言模式和以强化学习为基础的自主建设和进度更新</title>
-      <link>https://arxiv.org/abs/2610.26899</link>
-      <description>由于全球人口迅速增长,传统的建筑方法逐渐无法满足目前的住房需求. 机器学习算法的进步鼓励了研究人员在c中探索他们的应用.</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26899</guid>
-      <source url="https://arxiv.org/abs/2610.26899">ArXiv AI</source>
     </item>
   </channel>
 </rss>
