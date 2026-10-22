@@ -5,8 +5,112 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:44:09 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺</title>
+      <link>http://www.geekpark.net/news/372762</link>
+      <description>过去两年多，在智能硬件领域，投资人和创业者都热衷于为 AI 寻找一个个物理世界里的新「容器」，各种新形态的 AI 原生硬件成了投资市场的热门项目。 但其实，很多成熟形态的硬件同样有 AI 化的需求。这也许没有「AI Native」的概念那么性感，但市场一点不小，复杂度丝毫不低。 以家电行业为例：供应链长，改一次硬件就要重走研发、测试、认证；销售链条长，从厂家、经销商到上门安装的电工，每一环都得接得住；成本又极度敏感，多一块钱都要反复掂量。 好在，家电已经为 AI 打好了地基。过去十几年，大量家电已经具备联网能力&amp;mdash;&amp;mdash;这意味着灵活升级的 OTA「管道」已经铺好，行业缺的是让</description>
+      <pubDate>Thu, 22 Oct 2026 21:20:53 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372762</guid>
+      <source url="http://www.geekpark.net/news/372762">极客公园</source>
+    </item>
+    <item>
+      <title>1Password让人工智能特工不用看到密码就可以使用密码.</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in</link>
+      <description>1Password引入了一个新的功能,允许人工智能特工在不实际看到或处理您的密码的情况下在您的账户上签名. 1Password for Agents的恰当命名并没有给予bots自由的统治权限来访问您所有连接的账户 - 您仍然需要批准在req上签名.</description>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in">The Verge AI</source>
+    </item>
+    <item>
+      <title>人工智能特工准备购物,有些零售商很警惕.</title>
+      <link>https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse</link>
+      <description>使用人工智能代理为您购物是一种奇怪的经验。技术公司将他们作为个人助理进行营销 — — 劳动力的民主化通常只能为富人和强人所利用。实际上,至少为了购买东西,这更像是送出一种焦虑而令人叹息的东西。</description>
+      <pubDate>Thu, 22 Oct 2026 08:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse</guid>
+      <source url="https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse">The Verge AI</source>
+    </item>
+    <item>
+      <title>Claude没有发明蝎子抗毒药</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom</link>
+      <description>一家投资研究公司想证明人工智能可以使药物开发革命化。所以他们与Anthropic合作,看看一个未释放的克洛德版本是否能够制出蝎子抗毒药。它不可能。它想出了一些有希望的起点,但是没有什么接近于实际药物,专家。</description>
+      <pubDate>Thu, 22 Oct 2026 08:21:07 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom">The Verge AI</source>
+    </item>
+    <item>
+      <title>宇树 10 周年，王兴兴：我劝你相信 AI</title>
+      <link>http://www.geekpark.net/news/372759</link>
+      <description>10 月 22 日，杭州国际博览中心热闹非常，不仅人多，而且机器人也特别多。 这是 2026 年宇树科技举办的世界物理 AI 大会的现场，从四足机器人到人形机器人，你甚至可以说这里是全球「机器人密度」最高的地方。 2026 年，也是宇树科技创立的第十年。有意思的是，在今天的舞台上，宇树科技创始人王兴兴，在谈机器人之外，聊的最多的就是当下最火热的 AI。 他不仅劝所有人要「相信 AI」，而且还反思，觉得自己「相信 AI 还相信得不够」。 为什么这家中国、乃至全球机器人行业中最有实力的公司掌舵者，会这么说？物理 AI 的拐点，真的要到来了吗？ 必须相信 AI 在王兴兴 36 分钟的演讲中，宇树自己</description>
+      <pubDate>Thu, 22 Oct 2026 19:56:03 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372759</guid>
+      <source url="http://www.geekpark.net/news/372759">极客公园</source>
+    </item>
+    <item>
+      <title>Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击</title>
+      <link>https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/</link>
+      <description>Symantec 研究人员通过蜜罐截获一个把大语言模型嵌入核心的攻击智能体，它会劫持互联网上无防护的模型端点，自主扫描目标、利用服务器漏洞、窃取数据库凭据并安装挖矿程序，最多连续执行 100,000 步，算力费用由被劫持模型的主人承担。</description>
+      <pubDate>Thu, 22 Oct 2026 11:30:56 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/</guid>
+      <source url="https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了</title>
+      <link>https://www.ifanr.com/1685507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>大的还在后面#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 22 Oct 2026 11:15:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1685507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1685507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Eiliko Maker说, 在Verge报告其不安全机器人后, 该公司正在雇用一家「独立保安公司」。</title>
+      <link>https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach</link>
+      <description>Eiliko,一个可爱的机器人魅力,你可以挂在你的包上 与内置的人工智能对话,结果是一个安全噩梦。它告诉所有者,"你的秘密是安全的与我同在的",但黑客可以很容易地阅读我们告诉玩具的所有东西的完整记录,而这仅仅是开始。</description>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach</guid>
+      <source url="https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach">The Verge AI</source>
+    </item>
+    <item>
+      <title>AI 漫剧越做越快，赚钱却没那么容易了</title>
+      <link>http://www.geekpark.net/news/372746</link>
+      <description>&amp;nbsp; 「一个创作者加上 IP 和 AI 工具，就能完成漫剧创作全流程。」 在上周举行的阅文创作大会上，阅文集团 CEO 侯晓楠这样描述正在兴起的「一人公司」。当日，阅文发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台，并推出「IP 委员会」模式，试图把故事从文字到影像，再到后续开发的过程连接起来。 看起来，AI 带来的机会似乎还在不断扩大。 但身处一线的漫剧从业者们，正感受着更真实、更锋利的行业变化。 在会后，极客公园参与了对阅文 AI 平台负责人陈炜于、酱油文化创始人黄浩南（业内称「酱油」）、前尾猴文化总经理三行的采访。其中，酱油作为最早一批</description>
+      <pubDate>Thu, 22 Oct 2026 16:20:34 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372746</guid>
+      <source url="http://www.geekpark.net/news/372746">极客公园</source>
+    </item>
+    <item>
+      <title>大模型内卷之后，AI 竞争进入搜索基础设施时代</title>
+      <link>http://www.geekpark.net/news/372743</link>
+      <description>&amp;nbsp; 头图来源：元宝搜索 过去一年，AI 行业的战场正在悄悄发生位移。 当 Agent 从概念快速渗透进办公、内容、金融等真实业务场景，行业共识也在悄然改变：决定 AI 体验上限的，是它连接真实世界的能力。 政策迭代、市场波动、行业动态、垂类数据&amp;hellip;&amp;hellip;现实世界的信息每秒都在更新，大模型自带的知识储备永远有边界，想要输出可靠结论、完成复杂任务，就必须接入实时、权威的外部信息。 搜索，是大模型对接真实世界的核心接口。但这也是当下 AI 落地的共性卡点：传统搜索基于关键词匹配，读不懂自然语言的复杂意图，低质内容还容易引发模型幻觉；从头自建一套完整检索体系，又意味着爬</description>
+      <pubDate>Thu, 22 Oct 2026 16:15:50 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372743</guid>
+      <source url="http://www.geekpark.net/news/372743">极客公园</source>
+    </item>
+    <item>
+      <title>被迫下场，Anthropic 推出个人 AI 助理 Claude Duet</title>
+      <link>http://www.geekpark.net/news/372740</link>
+      <description>作者｜桦林舞王 编辑｜靖宇 用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。 过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千万用户，紧接着 OpenAI 在开发者大会上发布 Dots。行业似乎达成了一个默契：聊天框该翻篇了，AI 应该自己找事做。 美国时间 10 月 21 日，Anthropic 终于拿出了自己的答案：Claude Duet。 Claude Duet 的早报界面｜图片来源：Anthro</description>
+      <pubDate>Thu, 22 Oct 2026 15:23:08 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372740</guid>
+      <source url="http://www.geekpark.net/news/372740">极客公园</source>
+    </item>
+    <item>
+      <title>既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布</title>
+      <link>https://www.qbitai.com/2026/10/504832.html</link>
+      <description>中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent</description>
+      <pubDate>Thu, 22 Oct 2026 07:11:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/504832.html</guid>
+      <source url="https://www.qbitai.com/2026/10/504832.html">量子位</source>
+    </item>
+    <item>
+      <title>谁在给OpenAI供应具身数据？</title>
+      <link>https://www.qbitai.com/2026/10/504800.html</link>
+      <description>挤进全球Physical AI核心供应链</description>
+      <pubDate>Thu, 22 Oct 2026 07:05:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/504800.html</guid>
+      <source url="https://www.qbitai.com/2026/10/504800.html">量子位</source>
+    </item>
     <item>
       <title>Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图</title>
       <link>https://x.com/Kling_ai/status/2113156632134005040</link>
@@ -62,110 +166,6 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.26899</guid>
       <source url="https://arxiv.org/abs/2610.26899">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Pareto-Optimal RTL 通过多目标强化学习使用大语言模型生成代码</title>
-      <link>https://arxiv.org/abs/2610.26904</link>
-      <description>最近的研究建议采用可核查的奖励(RLVR)方法进行强化学习,使LLMs能够从自然语言的规格中产生出高质量的RTL电路. 现有方法优化了电路PPA(Power, Performance, Area).</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26904</guid>
-      <source url="https://arxiv.org/abs/2610.26904">ArXiv AI</source>
-    </item>
-    <item>
-      <title>MedPAO-Assist: 边际可部署,机动性-智能 辐射学报告人工智能结构</title>
-      <link>https://arxiv.org/abs/2610.26913</link>
-      <description>采用"大语言模型"进行放射学报告结构,主要有专有云型模型或需要高端GPU部署的大型开放型模型,这是临床采用的关键瓶颈.</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26913</guid>
-      <source url="https://arxiv.org/abs/2610.26913">ArXiv AI</source>
-    </item>
-    <item>
-      <title>DataPraxis: 通过验证的工作空间进化来放大分析任务</title>
-      <link>https://arxiv.org/abs/2610.26924</link>
-      <description>人们日益期望普通用途人员从事专业分析工作,这需要持续推理、迭代调查和可靠的证据。 培训这些能力需要各种具有挑战性的任务。</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26924</guid>
-      <source url="https://arxiv.org/abs/2610.26924">ArXiv AI</source>
-    </item>
-    <item>
-      <title>要保存或不保存: 在分类的 LLM 服务系统中学习 KV 缓存保留</title>
-      <link>https://arxiv.org/abs/2610.28637</link>
-      <description>分类的\ textsc{ LLM} 服务于节点池的预填和解码, 在\ textsc{ KV}- cache 计算和消耗之间放置一个网络织件。 这打破了经典缓存策略的关键假设: 丢失将不再发生 lo</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28637</guid>
-      <source url="https://arxiv.org/abs/2610.28637">ArXiv ML</source>
-    </item>
-    <item>
-      <title>参数-有效PPG-基于心率估计的相互作用时间-频率学习</title>
-      <link>https://arxiv.org/abs/2610.28693</link>
-      <description>光谱成像(PPG)可以进行低成本和非侵入性心率(HR)监测,但对波形扭曲、生理变异和测量干扰仍然很敏感。</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28693</guid>
-      <source url="https://arxiv.org/abs/2610.28693">ArXiv ML</source>
-    </item>
-    <item>
-      <title>加强硬件加速学习,优化FPGA和集成电路平台的系统级:调查.</title>
-      <link>https://arxiv.org/abs/2610.28699</link>
-      <description>强化学习(RL)使嵌入式、边缘式和多样化计算系统能够进行适应性和自主性的决策。</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28699</guid>
-      <source url="https://arxiv.org/abs/2610.28699">ArXiv ML</source>
-    </item>
-    <item>
-      <title>可伸缩应力- 紧张地形优化:基于机器学习的超解和同步方法</title>
-      <link>https://arxiv.org/abs/2610.28703</link>
-      <description>大规模地形优化(TO)在计算上仍然要求很高,特别是对压力紧张的问题而言。 为了应对这一挑战,我们提议同时使用神经地形优化(SNTO)框架(SNTO),我们代表国家、联合</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28703</guid>
-      <source url="https://arxiv.org/abs/2610.28703">ArXiv ML</source>
-    </item>
-    <item>
-      <title>SimHack:预言RL训练前可察觉到的悬赏黑客攻击的开始</title>
-      <link>https://arxiv.org/abs/2610.28707</link>
-      <description>当培训法学硕士与强化学习进行编码时,奖励黑客往往可以发现,但难以防止,因为(a) 随着培训环境的日益复杂,环境越来越难以强化;和(b) 培训时间间交流</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28707</guid>
-      <source url="https://arxiv.org/abs/2610.28707">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Gemma 4 语音编码器能有多远而不改变其重量? 沙俄和海湾阿拉伯语语音识别,加冰冻和适应器增强编码器</title>
-      <link>https://arxiv.org/abs/2610.28673</link>
-      <description>我们研究了Gemma 4和EmbeddingGemma 2(除了最后投影外)共用的305M参数音频编码器,用于沙特语和海湾语语音识别,但不改变其任何重量。</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28673</guid>
-      <source url="https://arxiv.org/abs/2610.28673">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>翻译和数据道德</title>
-      <link>https://arxiv.org/abs/2610.28710</link>
-      <description>本章介绍翻译数据道德规范,并讨论与数据有关的一些道德问题,其中包括版权、所有权和偏见问题,这些问题适用于所有类型的数据,而其他问题则专门针对次要数据。</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28710</guid>
-      <source url="https://arxiv.org/abs/2610.28710">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>SkillEval:通过认知诊断模型对LLMS进行可解释的学习能力简介</title>
-      <link>https://arxiv.org/abs/2610.28767</link>
-      <description>目前对关于基准的法学硕士评估通常将单个实例的绩效汇总为单一的分数,这种方法过于粗糙,忽略了基准数据集涵盖的各种技能范围。</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28767</guid>
-      <source url="https://arxiv.org/abs/2610.28767">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>扩大治疗监督:使用大语言模型评估精神疗法</title>
-      <link>https://arxiv.org/abs/2610.28772</link>
-      <description>心理疗法忠诚度评估衡量治疗师如何忠实地遵守治疗规程,这是确定患者阳性结果的关键决定因素。 然而,忠诚度评估受到人工专家审查的束缚,使过程变得空虚。</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28772</guid>
-      <source url="https://arxiv.org/abs/2610.28772">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>是否有人执行卡特尔?什么强化学习在市场上教LLM代理</title>
-      <link>https://arxiv.org/abs/2610.28787</link>
-      <description>对大型语言模型(LLM)智能体的评价报告说,定价智能体以他人为代价进行串通。 但是,串通是由执法部门定义的:竞争者分享垄断利润的卡特尔只有在作弊的成员受到惩罚的情况下才能维持。</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28787</guid>
-      <source url="https://arxiv.org/abs/2610.28787">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
