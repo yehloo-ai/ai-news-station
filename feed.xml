@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:27:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:29:08 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨</title>
-      <link>http://www.geekpark.net/news/372711</link>
-      <description>24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI 10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet，定位为可主动工作的 AI 智能体（agent），加入由 Meta 的 Muse、以及 OpenAI 的 Dots 领衔的「全天候主动型 AI 助理」大战。 技能方面，该应用会每天整理跨应用的重要事项、主动提醒需要处理的问题，并在用户离开后继续在后台完成被委托的任务。 Claude Duet 基于 Claude Opus 5.5 构建，提供 iOS</description>
-      <pubDate>Thu, 22 Oct 2026 08:48:32 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372711</guid>
-      <source url="http://www.geekpark.net/news/372711">极客公园</source>
+      <title>Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图</title>
+      <link>https://x.com/Kling_ai/status/2113156632134005040</link>
+      <description>OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。</description>
+      <pubDate>Thu, 22 Oct 2026 06:32:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kling_ai/status/2113156632134005040</guid>
+      <source url="https://x.com/Kling_ai/status/2113156632134005040">X：可灵 Kling AI (@Kling_ai)</source>
     </item>
     <item>
-      <title>早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统</title>
-      <link>https://www.ifanr.com/1685223?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码 · 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND · Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 22 Oct 2026 00:21:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1685223?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1685223?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>AI 到处挖漏洞一整年，终于给人类爆了个大的</title>
+      <link>http://www.geekpark.net/news/372731</link>
+      <description>头图图片来源：Wiz10 月 21 日晚，如果你有在社交媒体冲浪的习惯，可能会发现一个奇怪的网站关闭潮：几乎是在同一时间，全球多个国家和地区的各种重要基础设施网站纷纷宣布临时关闭。周三。芬兰政府把所有对外的网络服务关掉了；荷兰国家网络安全中心连自己的官网也撤了下来，鹿特丹港、荷兰足协、五大政党的网站和多家医院紧随其后；法国内政部让各省政府网站暂时下线，德国联邦 IT 服务商关掉了多个站点，比利时外交部、维基媒体基金会、任天堂，也相继停掉了部分服务。荷兰政府宣布 DigiD 等网站预防性下线｜图片来源：Rijksoverheid但这些网站其实都没有被黑，而是自己主动关掉的。原因是 PHP 的两个</description>
+      <pubDate>Thu, 22 Oct 2026 14:15:28 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372731</guid>
+      <source url="http://www.geekpark.net/news/372731">极客公园</source>
     </item>
     <item>
-      <title>卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687466&amp;idx=1&amp;sn=ba7ba0f3ca50ef789c17b179dd061f60</link>
-      <description>作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。</description>
-      <pubDate>Thu, 22 Oct 2026 00:06:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687466&amp;idx=1&amp;sn=ba7ba0f3ca50ef789c17b179dd061f60</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687466&amp;idx=1&amp;sn=ba7ba0f3ca50ef789c17b179dd061f60">公众号：数字生命卡兹克</source>
+      <title>PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网</title>
+      <link>https://www.ifanr.com/1685446?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>网站被攻破后，数据、密码和令牌都可能受到影响#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 22 Oct 2026 05:58:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1685446?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1685446?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>数据中心可以抹去几十年的空气质量收益</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</link>
-      <description>新的数据中心的匆忙可以使空气污染回升到2000年代以来德克萨斯州所未见的水平,而德克萨斯州已经成为基因人工智能背后的有形基础设施的零地。 新的和拟议的数据中心正在要求大量的电力。 开发者和功用是怎样的。</description>
-      <pubDate>Wed, 21 Oct 2026 18:33:44 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report">The Verge AI</source>
+      <title>Kling 4.0 现已上线 OnSolo</title>
+      <link>https://x.com/Kling_ai/status/2113142473145078041</link>
+      <description>可灵（Kling）宣布 Kling 4.0 已在 OnSolo 上线。该模型支持单次生成 30 秒原生视频，快速动作和大运镜下保持稳定，立体声配更准的口型同步，并提供 21:9 宽屏，单个任务可叠加最多 15 个参考图和 10 个关键帧以保持角色、镜头与剧情一致。</description>
+      <pubDate>Thu, 22 Oct 2026 05:36:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kling_ai/status/2113142473145078041</guid>
+      <source url="https://x.com/Kling_ai/status/2113142473145078041">X：可灵 Kling AI (@Kling_ai)</source>
     </item>
     <item>
-      <title>V7切割成本为78%,同时提高GPT的准确度。</title>
-      <link>https://www.youtube.com/watch?v=20IRGgQwPkc</link>
-      <description>V7 Go将公司文件组织到一个背景图中,智能体可以查询以筛选投资交易和支持保险承销。 在V7对数千份文件进行最难的图谱测试时,GPT-6 Astra达到了89%的精确度。读取整个故事:https://openai.com/index/v7。</description>
-      <pubDate>Wed, 21 Oct 2026 22:05:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=20IRGgQwPkc</guid>
-      <source url="https://www.youtube.com/watch?v=20IRGgQwPkc">OpenAI</source>
+      <title>NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告</title>
+      <link>https://x.com/rohanpaul_ai/status/2113136583985766442</link>
+      <description>NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。</description>
+      <pubDate>Thu, 22 Oct 2026 05:13:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113136583985766442</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2113136583985766442">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
-      <title>Meta 创建新的股票类别,为人工智能推车提供资金</title>
-      <link>https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</link>
-      <description>Meta说,它发行了一个新的股票类别来资助其人工智能举措,作为其星期三发布的第三季度收入报告的一部分,该公司说,无表决权的股票也将走向潜在的收购和员工补偿,交易开始于2027年. "Investments的规模.</description>
-      <pubDate>Wed, 21 Oct 2026 17:30:02 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</guid>
-      <source url="https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings">The Verge AI</source>
+      <title>Navalia:通过可验证的任务综合和长距培训后推进协作代理</title>
+      <link>https://arxiv.org/abs/2610.26887</link>
+      <description>大型语言模型(LLM)代理正在从对话助理演变成能够自主规划、工具使用和复杂任务执行的协同代理。 财务分析要求这些代理将交叉文件证据和每个代理软件整合在一起。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26887</guid>
+      <source url="https://arxiv.org/abs/2610.26887">ArXiv AI</source>
     </item>
     <item>
-      <title>Anthropic与克劳德·杜埃特 新的人工智能特工 一起对付穆塞</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</link>
-      <description>Anthropic刚刚宣布了一个与Meta的Muse和OpenAI的Dots竞争的人工智能智能体:Claude Dut. 新智能体是专为专业人士和小企业主设计的,它作为"研究预览"推出,据Anthropic称,它是作为iOS和Android的独立应用程序并通过Clau提供的.</description>
-      <pubDate>Wed, 21 Oct 2026 15:53:20 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent">The Verge AI</source>
+      <title>大型语言模式和以强化学习为基础的自主建设和进度更新</title>
+      <link>https://arxiv.org/abs/2610.26899</link>
+      <description>由于全球人口迅速增长,传统的建筑方法逐渐无法满足目前的住房需求. 机器学习算法的进步鼓励了研究人员在c中探索他们的应用.</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26899</guid>
+      <source url="https://arxiv.org/abs/2610.26899">ArXiv AI</source>
     </item>
     <item>
-      <title>沃尔玛邀请人工智能特工 为你买东西</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</link>
-      <description>沃尔玛很快会让人工智能特工在网站上为您购物。下个月,零售巨头会允许您在网站上使用人工智能特工,并有系统允许您批准和审查购买并设定支出限额。人工智能特工的拥抱与亚马逊形成鲜明对比。</description>
-      <pubDate>Wed, 21 Oct 2026 15:30:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents">The Verge AI</source>
+      <title>Pareto-Optimal RTL 通过多目标强化学习使用大语言模型生成代码</title>
+      <link>https://arxiv.org/abs/2610.26904</link>
+      <description>最近的研究建议采用可核查的奖励(RLVR)方法进行强化学习,使LLMs能够从自然语言的规格中产生出高质量的RTL电路. 现有方法优化了电路PPA(Power, Performance, Area).</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26904</guid>
+      <source url="https://arxiv.org/abs/2610.26904">ArXiv AI</source>
     </item>
     <item>
-      <title>OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线</title>
-      <link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/</link>
-      <description>NSA 发出警告称 PHP 中发现两个严重漏洞，PHP Foundation 已发布补丁；漏洞自 2004 年的 PHP 5 起就存在，影响约 70% 网站。</description>
-      <pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/</guid>
-      <source url="https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/">TechCrunch：AI（RSS）</source>
+      <title>MedPAO-Assist: 边际可部署,机动性-智能 辐射学报告人工智能结构</title>
+      <link>https://arxiv.org/abs/2610.26913</link>
+      <description>采用"大语言模型"进行放射学报告结构,主要有专有云型模型或需要高端GPU部署的大型开放型模型,这是临床采用的关键瓶颈.</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26913</guid>
+      <source url="https://arxiv.org/abs/2610.26913">ArXiv AI</source>
     </item>
     <item>
-      <title>研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞</title>
-      <link>https://x.com/rohanpaul_ai/status/2112962364996038971</link>
-      <description>AI 安全公司 Calif 用 GPT-5.6 Sol 在 PHP 中发现两个 CVSS 9.2 严重漏洞，可让无账号攻击者接管 Web 服务器，影响远至 PHP 5.4 的版本，PHP 提前一天紧急发布修复。</description>
-      <pubDate>Wed, 21 Oct 2026 17:40:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112962364996038971</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2112962364996038971">X：Rohan Paul (@rohanpaul_ai)</source>
+      <title>DataPraxis: 通过验证的工作空间进化来放大分析任务</title>
+      <link>https://arxiv.org/abs/2610.26924</link>
+      <description>人们日益期望普通用途人员从事专业分析工作,这需要持续推理、迭代调查和可靠的证据。 培训这些能力需要各种具有挑战性的任务。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.26924</guid>
+      <source url="https://arxiv.org/abs/2610.26924">ArXiv AI</source>
     </item>
     <item>
-      <title>OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响</title>
-      <link>https://x.com/OpenAI/status/2112945805686604033</link>
-      <description>OpenAI 为 PHP 关键漏洞提供 Codex 技能，引导用户运行 github.com/openai/php2shell-checker 仓库自查网站是否受影响。背景是其 Patch the Planet 计划中 OpenAI 模型帮助研究员发现 PHP 关键缺陷，修复涉及 PHP 引擎大改，经约两个月协调后披露，使用 PHP 的网站可升级版本并应用安全厂商的缓解措施。</description>
-      <pubDate>Wed, 21 Oct 2026 16:35:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenAI/status/2112945805686604033</guid>
-      <source url="https://x.com/OpenAI/status/2112945805686604033">X：OpenAI (@OpenAI)</source>
+      <title>要保存或不保存: 在分类的 LLM 服务系统中学习 KV 缓存保留</title>
+      <link>https://arxiv.org/abs/2610.28637</link>
+      <description>分类的\ textsc{ LLM} 服务于节点池的预填和解码, 在\ textsc{ KV}- cache 计算和消耗之间放置一个网络织件。 这打破了经典缓存策略的关键假设: 丢失将不再发生 lo</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28637</guid>
+      <source url="https://arxiv.org/abs/2610.28637">ArXiv ML</source>
     </item>
     <item>
-      <title>Microsoft Research 与合作者证明 31 年历史的 KLS 猜想</title>
-      <link>https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/</link>
-      <description>Microsoft Research 的 Xinzhi Zhang 与 Zhao Song 证明 1995 年提出的 Kannan–Lovász–Simonovits（KLS）猜想，表明对数凹分布的最优平面切割与任意形状切割的差距不随维度增长，以普适常数为界。</description>
-      <pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/</guid>
-      <source url="https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/">Microsoft Research 博客（RSS）</source>
+      <title>参数-有效PPG-基于心率估计的相互作用时间-频率学习</title>
+      <link>https://arxiv.org/abs/2610.28693</link>
+      <description>光谱成像(PPG)可以进行低成本和非侵入性心率(HR)监测,但对波形扭曲、生理变异和测量干扰仍然很敏感。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28693</guid>
+      <source url="https://arxiv.org/abs/2610.28693">ArXiv ML</source>
     </item>
     <item>
-      <title>双子座导航到 Apple CarPlay</title>
-      <link>https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps</link>
-      <description>去年Google向Android Auto介绍双子星人工智能助理后,Google现在正在把它带给苹果卡普莱用户。 今天,在导航中的对话双子星可以提供给美国司机,而Google说,“全球也正在推出”</description>
-      <pubDate>Wed, 21 Oct 2026 11:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps</guid>
-      <source url="https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps">The Verge AI</source>
+      <title>加强硬件加速学习,优化FPGA和集成电路平台的系统级:调查.</title>
+      <link>https://arxiv.org/abs/2610.28699</link>
+      <description>强化学习(RL)使嵌入式、边缘式和多样化计算系统能够进行适应性和自主性的决策。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28699</guid>
+      <source url="https://arxiv.org/abs/2610.28699">ArXiv ML</source>
     </item>
     <item>
-      <title>OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</link>
-      <description>OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。</description>
-      <pubDate>Wed, 21 Oct 2026 13:57:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems">The Verge：AI（RSS）</source>
+      <title>可伸缩应力- 紧张地形优化:基于机器学习的超解和同步方法</title>
+      <link>https://arxiv.org/abs/2610.28703</link>
+      <description>大规模地形优化(TO)在计算上仍然要求很高,特别是对压力紧张的问题而言。 为了应对这一挑战,我们提议同时使用神经地形优化(SNTO)框架(SNTO),我们代表国家、联合</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28703</guid>
+      <source url="https://arxiv.org/abs/2610.28703">ArXiv ML</source>
     </item>
     <item>
-      <title>Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据</title>
-      <link>https://www.wiz.io/blog/litellm-compromised-steals-credentials</link>
-      <description>Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。</description>
-      <pubDate>Wed, 21 Oct 2026 13:44:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wiz.io/blog/litellm-compromised-steals-credentials</guid>
-      <source url="https://www.wiz.io/blog/litellm-compromised-steals-credentials">Wiz：Research（安全研究）</source>
+      <title>SimHack:预言RL训练前可察觉到的悬赏黑客攻击的开始</title>
+      <link>https://arxiv.org/abs/2610.28707</link>
+      <description>当培训法学硕士与强化学习进行编码时,奖励黑客往往可以发现,但难以防止,因为(a) 随着培训环境的日益复杂,环境越来越难以强化;和(b) 培训时间间交流</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28707</guid>
+      <source url="https://arxiv.org/abs/2610.28707">ArXiv ML</source>
     </item>
     <item>
-      <title>ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响</title>
-      <link>https://www.chinatalk.media/p/mofcoms-new-ai-rules</link>
-      <description>ChinaTalk 作者详读中国商务部与科技部10月16日发布的第48号公告草案，该草案拟向《中国禁止出口限制出口技术目录》新增40项技术（14项禁售、26项需许可），其中23项涉及AI。</description>
-      <pubDate>Wed, 21 Oct 2026 13:43:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.chinatalk.media/p/mofcoms-new-ai-rules</guid>
-      <source url="https://www.chinatalk.media/p/mofcoms-new-ai-rules">ChinaTalk（RSS）</source>
+      <title>Gemma 4 语音编码器能有多远而不改变其重量? 沙俄和海湾阿拉伯语语音识别,加冰冻和适应器增强编码器</title>
+      <link>https://arxiv.org/abs/2610.28673</link>
+      <description>我们研究了Gemma 4和EmbeddingGemma 2(除了最后投影外)共用的305M参数音频编码器,用于沙特语和海湾语语音识别,但不改变其任何重量。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28673</guid>
+      <source url="https://arxiv.org/abs/2610.28673">ArXiv NLP</source>
     </item>
     <item>
-      <title>Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站</title>
-      <link>https://www.wiz.io/blog/php2shell-php-rce</link>
-      <description>Wiz Research 披露 PHP 核心中的多个内存安全漏洞（CVE-2026-109618/109619，CVSS 最高 9.2），实现无需认证的远程代码执行与内存泄露，影响至少追溯到 PHP 5.4 的近十年版本。</description>
-      <pubDate>Wed, 21 Oct 2026 13:30:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wiz.io/blog/php2shell-php-rce</guid>
-      <source url="https://www.wiz.io/blog/php2shell-php-rce">Wiz：Research（安全研究）</source>
+      <title>翻译和数据道德</title>
+      <link>https://arxiv.org/abs/2610.28710</link>
+      <description>本章介绍翻译数据道德规范,并讨论与数据有关的一些道德问题,其中包括版权、所有权和偏见问题,这些问题适用于所有类型的数据,而其他问题则专门针对次要数据。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28710</guid>
+      <source url="https://arxiv.org/abs/2610.28710">ArXiv NLP</source>
     </item>
     <item>
-      <title>OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden</title>
-      <link>https://openai.com/index/openai-models-google-cloud</link>
-      <description>OpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。</description>
-      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
-      <source url="https://openai.com/index/openai-models-google-cloud">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+      <title>SkillEval:通过认知诊断模型对LLMS进行可解释的学习能力简介</title>
+      <link>https://arxiv.org/abs/2610.28767</link>
+      <description>目前对关于基准的法学硕士评估通常将单个实例的绩效汇总为单一的分数,这种方法过于粗糙,忽略了基准数据集涵盖的各种技能范围。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28767</guid>
+      <source url="https://arxiv.org/abs/2610.28767">ArXiv NLP</source>
     </item>
     <item>
-      <title>OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复</title>
-      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/</link>
-      <description>OpenAI 宣布在过去两个月牵头维护者、研究者与安全厂商联盟，修复 PHP 的关键漏洞，其中 Calif 用 GPT-5.6 Sol 发现一处严重缺陷，Wiz 也独立发现并报告了这两个漏洞，PHP 维护者主导修复和发布。</description>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/</guid>
-      <source url="https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+      <title>扩大治疗监督:使用大语言模型评估精神疗法</title>
+      <link>https://arxiv.org/abs/2610.28772</link>
+      <description>心理疗法忠诚度评估衡量治疗师如何忠实地遵守治疗规程,这是确定患者阳性结果的关键决定因素。 然而,忠诚度评估受到人工专家审查的束缚,使过程变得空虚。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28772</guid>
+      <source url="https://arxiv.org/abs/2610.28772">ArXiv NLP</source>
     </item>
     <item>
-      <title>Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用</title>
-      <link>https://sspai.com/post/116445</link>
-      <description>如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文</description>
-      <pubDate>Wed, 21 Oct 2026 15:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/116445</guid>
-      <source url="https://sspai.com/post/116445">少数派</source>
+      <title>是否有人执行卡特尔?什么强化学习在市场上教LLM代理</title>
+      <link>https://arxiv.org/abs/2610.28787</link>
+      <description>对大型语言模型(LLM)智能体的评价报告说,定价智能体以他人为代价进行串通。 但是,串通是由执法部门定义的:竞争者分享垄断利润的卡特尔只有在作弊的成员受到惩罚的情况下才能维持。</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.28787</guid>
+      <source url="https://arxiv.org/abs/2610.28787">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
