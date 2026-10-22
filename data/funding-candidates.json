@@ -374,5 +374,13 @@
     "sourceUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio",
     "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+    "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
+    "sourceUrl": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+    "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+    "reviewReason": "awaiting-review"
   }
 ]

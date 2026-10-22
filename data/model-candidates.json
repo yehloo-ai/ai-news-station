@@ -774,5 +774,13 @@
     "sourceUrl": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
     "sourceName": "Inception Labs：Blog（网页）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Baseten 发布决策模型 mammoth-1（27B）和 elephant-1（9B），开源并免费试用一周",
+    "summary": "Baseten 研究实验室 Base Labs 发布开源决策模型 mammoth-1（27B）和 elephant-1（9B），基于 Qwen3.5-27B 和 Qwen3.5-9B 在 621 万决策样本上后训练而成。",
+    "sourceUrl": "https://www.baseten.co/blog/the-best-decision-models-in-the-world-mammoth-1-and-elephant-1/",
+    "sourceName": "Baseten 工程博客（网页）",
+    "reviewReason": "awaiting-review"
   }
 ]
