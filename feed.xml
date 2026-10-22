@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:17:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:27:11 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨</title>
+      <link>http://www.geekpark.net/news/372711</link>
+      <description>24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI 10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet，定位为可主动工作的 AI 智能体（agent），加入由 Meta 的 Muse、以及 OpenAI 的 Dots 领衔的「全天候主动型 AI 助理」大战。 技能方面，该应用会每天整理跨应用的重要事项、主动提醒需要处理的问题，并在用户离开后继续在后台完成被委托的任务。 Claude Duet 基于 Claude Opus 5.5 构建，提供 iOS</description>
+      <pubDate>Thu, 22 Oct 2026 08:48:32 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372711</guid>
+      <source url="http://www.geekpark.net/news/372711">极客公园</source>
+    </item>
+    <item>
+      <title>早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统</title>
+      <link>https://www.ifanr.com/1685223?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码 · 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND · Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 22 Oct 2026 00:21:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1685223?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1685223?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687466&amp;idx=1&amp;sn=ba7ba0f3ca50ef789c17b179dd061f60</link>
+      <description>作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。</description>
+      <pubDate>Thu, 22 Oct 2026 00:06:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687466&amp;idx=1&amp;sn=ba7ba0f3ca50ef789c17b179dd061f60</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687466&amp;idx=1&amp;sn=ba7ba0f3ca50ef789c17b179dd061f60">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>数据中心可以抹去几十年的空气质量收益</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</link>
+      <description>新的数据中心的匆忙可以使空气污染回升到2000年代以来德克萨斯州所未见的水平,而德克萨斯州已经成为基因人工智能背后的有形基础设施的零地。 新的和拟议的数据中心正在要求大量的电力。 开发者和功用是怎样的。</description>
+      <pubDate>Wed, 21 Oct 2026 18:33:44 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report">The Verge AI</source>
+    </item>
     <item>
       <title>V7切割成本为78%,同时提高GPT的准确度。</title>
       <link>https://www.youtube.com/watch?v=20IRGgQwPkc</link>
@@ -38,6 +70,14 @@
       <pubDate>Wed, 21 Oct 2026 15:30:00 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线</title>
+      <link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/</link>
+      <description>NSA 发出警告称 PHP 中发现两个严重漏洞，PHP Foundation 已发布补丁；漏洞自 2004 年的 PHP 5 起就存在，影响约 70% 网站。</description>
+      <pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/</guid>
+      <source url="https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/">TechCrunch：AI（RSS）</source>
     </item>
     <item>
       <title>研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞</title>
@@ -126,46 +166,6 @@
       <pubDate>Wed, 21 Oct 2026 15:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/116445</guid>
       <source url="https://sspai.com/post/116445">少数派</source>
-    </item>
-    <item>
-      <title>SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源</title>
-      <link>https://x.com/rohanpaul_ai/status/2112768460866695334</link>
-      <description>Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。</description>
-      <pubDate>Wed, 21 Oct 2026 04:50:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112768460866695334</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2112768460866695334">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索</title>
-      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
-      <description>OpenAI、PerturbAI 与 Scripps Research 联合发布研究，用数千个由 GPT‑Rosalind 驱动的 AI 智能体并行分析数百万小鼠脑细胞的全脑 CRISPR atlas，32 分钟内完成分析与文献解读，并称人工逐一分析需数月至一年。</description>
-      <pubDate>Wed, 21 Oct 2026 04:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
-      <source url="https://openai.com/index/scaling-ai-research-for-complex-biological-data">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺</title>
-      <link>https://x.com/rohanpaul_ai/status/2112763999586771238</link>
-      <description>WSJ 看到 Anthropic 的 IPO 草案文件，显示其上半年收入 $16.3B、纸面亏损 $80.7B，并承诺约 $4500 亿算力支出。</description>
-      <pubDate>Wed, 21 Oct 2026 04:32:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112763999586771238</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2112763999586771238">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>亚马逊 CTO Dr. Werner Vogels：二十余年技术实践，想与创业者分享这 4 点</title>
-      <link>http://www.geekpark.net/news/372671</link>
-      <description>在 2026 年 亚马逊云科技软件企业峰会创业加速营巅峰路演 上，亚马逊副总裁兼首席技术官 Werner Vogels 博士与极客公园创始人 &amp;amp; CEO 张鹏进行了一场极具深度的炉边对谈。面对当下狂热的 AI 创业潮与复杂的技术演进，Vogels 博士分享了亚马逊云科技走过二十年的底层商业逻辑，并为初创企业给出了极具实操性的避坑建议。 左：亚马逊副总裁兼首席技术官 Werner Vogels 博士 右：极客公园创始人 &amp;amp; CEO 张鹏 以下是两位对谈内容的精华梳理： 01 起点与颠覆： 被逼出来的创新与 彻底改变的 IT 商业模式 张鹏：您在二十年前加入了亚马逊，那时的亚马逊还</description>
-      <pubDate>Wed, 21 Oct 2026 12:16:25 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372671</guid>
-      <source url="http://www.geekpark.net/news/372671">极客公园</source>
-    </item>
-    <item>
-      <title>Navalia:通过可验证的任务综合和长距培训后推进协作代理</title>
-      <link>https://arxiv.org/abs/2610.26887</link>
-      <description>大型语言模型(LLM)代理正在从对话助理演变成能够自主规划、工具使用和复杂任务执行的协同代理。 财务分析要求这些代理将交叉文件证据和每个代理软件整合在一起。</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.26887</guid>
-      <source url="https://arxiv.org/abs/2610.26887">ArXiv AI</source>
     </item>
   </channel>
 </rss>
