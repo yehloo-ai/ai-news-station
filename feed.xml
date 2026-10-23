@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:15:49 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kimi K3.1 Pro 在 Artificial Analysis 智能指数以 55 分位列第 4</title>
+      <link>https://x.com/ArtificialAnlys/status/2113688083145314416</link>
+      <description>Artificial Analysis 评测显示，月之暗面 Kimi K3.1 Pro 以 55 分位列智能指数第 4，比 Kimi K3 的 44 分提高 11 分，仅落后 Claude Opus 5.5（58）、Claude Sonnet 5.5（56）和 Muse Wonder Full（56）。</description>
+      <pubDate>Fri, 23 Oct 2026 17:44:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2113688083145314416</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2113688083145314416">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
+    <item>
+      <title>现在Google说,它可能会使用你的Gmail和Google Photos的数据来瞄准广告.</title>
+      <link>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</link>
+      <description>Google已经更新了隐私策略,其方式可能意味着如果你使用个性化的人工智能功能,你会根据个人数据开始看到目标广告。Android Authority发现的更新在它承诺不使用您的驱动器、Gmail或Google Photos时增加了一个例外。</description>
+      <pubDate>Fri, 23 Oct 2026 12:52:55 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</guid>
+      <source url="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update">The Verge AI</source>
+    </item>
+    <item>
+      <title>月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出</title>
+      <link>https://www.kimi.com/blog/kimi-k3-1-pro</link>
+      <description>月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。</description>
+      <pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.kimi.com/blog/kimi-k3-1-pro</guid>
+      <source url="https://www.kimi.com/blog/kimi-k3-1-pro">Moonshot AI：Kimi Blog</source>
+    </item>
+    <item>
+      <title>Kling 4.0 在 fal 上线并向所有客户开放 API 访问</title>
+      <link>https://x.com/fal/status/2113646807997620396</link>
+      <description>fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。</description>
+      <pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fal/status/2113646807997620396</guid>
+      <source url="https://x.com/fal/status/2113646807997620396">X：fal (@fal)</source>
+    </item>
+    <item>
+      <title>Meta在出版商推回人工智能刮损后延迟了新的业务条款</title>
+      <link>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</link>
+      <description>Meta在出版商担心公司可能让新闻网站被刮去接受人工智能培训后,拖延了对其新业务条款的执行,快公司早前曾报道过这一点. Meta发言人Daniel Roberts在给The Verge的声明中表示,这些条款将会生效.</description>
+      <pubDate>Fri, 23 Oct 2026 10:47:41 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</guid>
+      <source url="https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping">The Verge AI</source>
+    </item>
     <item>
       <title>复古游戏被人工智能所淹没</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</link>
@@ -16,12 +56,36 @@
       <source url="https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port">The Verge AI</source>
     </item>
     <item>
+      <title>OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元</title>
+      <link>https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/</link>
+      <description>OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。</description>
+      <pubDate>Fri, 23 Oct 2026 09:49:38 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/</guid>
+      <source url="https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响</title>
+      <link>https://www.ithome.com/1/017/113.htm</link>
+      <description>国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。</description>
+      <pubDate>Fri, 23 Oct 2026 09:17:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/017/113.htm</guid>
+      <source url="https://www.ithome.com/1/017/113.htm">IT之家·人工智能</source>
+    </item>
+    <item>
       <title>中国 AI 硬件的下一个爆款，可能生在「网球场」</title>
       <link>http://www.geekpark.net/news/372807</link>
       <description>头图来源：Hirdwire2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarter 上筹得百万美元级资金。庞伯特以 26255% 的超募率卷走 265 万美元；智能家居大厂 SwitchBot 推出的 Acemate 30 天入账 180 万美元；Tenniix 首战筹得近百万美元后，其母公司英汉思动力完成红杉联合领投的三轮共超亿元融资；最新收官的 AceiiLab 首批量产正在交付，单台售价约 2000 美元，早鸟</description>
       <pubDate>Fri, 23 Oct 2026 14:15:58 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372807</guid>
       <source url="http://www.geekpark.net/news/372807">极客公园</source>
+    </item>
+    <item>
+      <title>WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员</title>
+      <link>https://x.com/rohanpaul_ai/status/2113511968112042349</link>
+      <description>据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。</description>
+      <pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113511968112042349</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2113511968112042349">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
       <title>造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具</title>
@@ -102,70 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2610.30211</guid>
       <source url="https://arxiv.org/abs/2610.30211">ArXiv ML</source>
-    </item>
-    <item>
-      <title>人工智能 Mindmeld:一个Latent 互联协议</title>
-      <link>https://arxiv.org/abs/2610.30215</link>
-      <description>LLMS可以充当科学代理人,使用各种工具咨询专家并进行实验。 然而,专家信息必须输入其上下文,一般是文本、图像、音频或视频:富含高维度代表的模型之间的瓶颈。</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.30215</guid>
-      <source url="https://arxiv.org/abs/2610.30215">ArXiv ML</source>
-    </item>
-    <item>
-      <title>当重建还不够时:杜布利强力反事实和干预调解分析与学习的多模态代表</title>
-      <link>https://arxiv.org/abs/2610.30220</link>
-      <description>高维多式健康记录的所学表现正越来越多地用于调整以混淆,但是这些记录通常经过培训来重建数据,而不是保存因果识别所需的信息。</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.30220</guid>
-      <source url="https://arxiv.org/abs/2610.30220">ArXiv ML</source>
-    </item>
-    <item>
-      <title>baseVultra: 重置容量的非线性重现</title>
-      <link>https://arxiv.org/abs/2610.30154</link>
-      <description>非线性经常性网络对于流线序列模型化仍然有用,但是有闸口的单元格设计仍然以LSTM和GRU为主. 我们研究能否将经常性计算从闸口变换转向候选生成。 W</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.30154</guid>
-      <source url="https://arxiv.org/abs/2610.30154">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>灯塔:在建造一个值得信赖的数字助理,用民权档案探索历史</title>
-      <link>https://arxiv.org/abs/2610.30158</link>
-      <description>人工智能(artificial intelligence)作为一种决策支持援助,为有效使用包括文本、图像和音频在内的多模式数据来研究历史提供了新的工具。 我们向大家介绍第一个名叫"灯塔"的数字助理。</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.30158</guid>
-      <source url="https://arxiv.org/abs/2610.30158">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>TauIndianBank Bench:对工具使用谈话代理人的注重行动的程序性评估</title>
-      <link>https://arxiv.org/abs/2610.30161</link>
-      <description>许多印度银行通过FAQ页面和脚本聊天器为客户服务. 基于语言模型的助理可以更快地响应并执行封卡等请求,但前提是他们给出正确信息并遵循银行的规则. T.</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.30161</guid>
-      <source url="https://arxiv.org/abs/2610.30161">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>FusionEval:大语言模型基准化模型集成</title>
-      <link>https://arxiv.org/abs/2610.30162</link>
-      <description>模式整合旨在将多专家模式的能力整合到单一模式中。 现有评价对思维和工具使用链条很长的推理范围有限,而强劲的平均性能可以掩盖重大损失。</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.30162</guid>
-      <source url="https://arxiv.org/abs/2610.30162">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>衡量低资源语言的研究进展和语言包容性</title>
-      <link>https://arxiv.org/abs/2610.30296</link>
-      <description>大语言模型(LLMs)加速了对低资源和多语言NLP的研究,但它们在创造公平地貌方面的有效性仍未实现. 我们分析了2020年至2025年间发表的1,158份同行评审的开放访问论文,</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.30296</guid>
-      <source url="https://arxiv.org/abs/2610.30296">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B</title>
-      <link>https://x.com/MiniMax_AI/status/2113436864904610008</link>
-      <description>MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B，提供 Hugging Face 和 ModelScope 下载。</description>
-      <pubDate>Fri, 23 Oct 2026 01:06:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MiniMax_AI/status/2113436864904610008</guid>
-      <source url="https://x.com/MiniMax_AI/status/2113436864904610008">X：MiniMax (@MiniMax_AI)</source>
     </item>
   </channel>
 </rss>
