@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 22:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:26:21 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</link>
+      <description>MiniMax 开源 M3.1 Flash 模型权重，总参数 428B，激活参数 23B，上线 72 小时内真实用户处理 Token 超过 100 万亿。</description>
+      <pubDate>Fri, 23 Oct 2026 00:56:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208">公众号：MiniMax（稀宇科技）</source>
+    </item>
+    <item>
+      <title>DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道</title>
+      <link>http://www.geekpark.net/news/372767</link>
+      <description>DeepSeek 新一轮融资筹得约 1000 亿 10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。 截至目前，DeepSeek 及腾讯等相关投资方均未公开回应。记者从接近公司和投资方的多个信源交叉求证，确认上述消息属实。 消息人士透露，本轮募资目标最初设定为 500 亿元，此后经多轮上调至约 1000 亿元，目前尚未官宣，最终金额仍未完全确定。 这笔资金将继续用于模型训练、算力建设和人才招募，以支撑 DeepSeek 参与全球竞争。</description>
+      <pubDate>Fri, 23 Oct 2026 08:49:03 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372767</guid>
+      <source url="http://www.geekpark.net/news/372767">极客公园</source>
+    </item>
+    <item>
+      <title>派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等</title>
+      <link>https://sspai.com/post/117104</link>
+      <description>少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...查看全文</description>
+      <pubDate>Fri, 23 Oct 2026 08:20:32 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/117104</guid>
+      <source url="https://sspai.com/post/117104">少数派</source>
+    </item>
+    <item>
+      <title>早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光</title>
+      <link>https://www.ifanr.com/1685530?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1685530?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1685530?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>欧洲 AI，等来了黄仁勋</title>
+      <link>http://www.geekpark.net/news/372763</link>
+      <description>GTC 柏林开幕前的两周，半导体板块走得并不顺，费城半导体指数出现了 2008 年以来最长的一轮连跌。市场在反复算同一笔账，巨额的 GPU 投入，什么时候能变成实打实的回报。 10 月 21 日，在柏林 Tempodrom 的舞台上，黄仁勋没有发布新芯片。早已发布的 Vera Rubin 平台，这次只是确认「已全面量产」。他把更多时间留给了三个更落地的问题：算力中心怎么建得更快，越来越能干的智能体怎么管住，物理 AI，怎么走进欧洲的工厂和马路。 用他自己的话说，「我们正处于人类历史上最大规模的基础设施建设之中」，需求不缺，缺的是产能和落地速度。 在英伟达 GTC 柏林大会之前，黄仁勋和德国总理</description>
+      <pubDate>Fri, 23 Oct 2026 06:41:03 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372763</guid>
+      <source url="http://www.geekpark.net/news/372763">极客公园</source>
+    </item>
     <item>
       <title>梅西叫查特GPT教他开棋</title>
       <link>https://www.youtube.com/shorts/RLQR5_5fJDA</link>
@@ -126,46 +166,6 @@
       <pubDate>Thu, 22 Oct 2026 15:53:55 +0000</pubDate>
       <guid isPermaLink="true">https://www.newcomer.co/p/the-story-of-anthropics-cap-table</guid>
       <source url="https://www.newcomer.co/p/the-story-of-anthropics-cap-table">Newcomer 新闻长文（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI、Anthropic和Nvidia有创纪录的游说区</title>
-      <link>https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</link>
-      <description>对人工智能游说家来说,这是一个繁忙的夏天. Anthropic, OpenAI,和Nvidia各自在7月至9月期间的游说季度支出最高,联邦披露显示. Nvidia花了大部分资金220万美元,其次是Anthropic的210万美元和OpenAI的150万美元.</description>
-      <pubDate>Thu, 22 Oct 2026 11:50:30 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</guid>
-      <source url="https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records">The Verge AI</source>
-    </item>
-    <item>
-      <title>METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞</title>
-      <link>https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent</link>
-      <description>METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。</description>
-      <pubDate>Thu, 22 Oct 2026 15:32:17 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent</guid>
-      <source url="https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent">Redwood Research：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应</title>
-      <link>https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/</link>
-      <description>PHP2Shell 漏洞在被披露前四天已遭黑客利用，Calif 与 Wiz 的研究人员发现这些漏洞。OpenAI 称其前沿 AI 在攻击者之前发现了漏洞，并与 PHP、Calif、Wiz 合作验证并开发补丁。NSA 建议无法立即更新的机构将系统离线，英国 NCSC 表示漏洞可能让黑客无需登录凭据即可控制网站服务器，白宫称联邦机构正在评估对政府系统和关键基础设施的潜在影响。</description>
-      <pubDate>Thu, 22 Oct 2026 15:25:02 +0000</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/</guid>
-      <source url="https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/">Ars Technica：AI（RSS）</source>
-    </item>
-    <item>
-      <title>404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局</title>
-      <link>https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/</link>
-      <description>404 Media 的 Jason Koebler 梳理近一个月安全专家对 AI 挖洞能力引发的"Black October"恐慌。Wiz、Calif 和 OpenAI 的研究者用 AI 发现了 PHP 的 PHP2Shell 漏洞，Cloudflare CEO 称公开公告前 10 小时已见数千次利用尝试，公告后 2 小时内增至数十万，目前达数百万级。</description>
-      <pubDate>Thu, 22 Oct 2026 14:23:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/</guid>
-      <source url="https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/">404 Media（RSS）</source>
-    </item>
-    <item>
-      <title>Sierra 发布 𝜏-Entity 基准，检验语音智能体能否准确采集姓名、电话等实体信息</title>
-      <link>https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right</link>
-      <description>Sierra 发布 𝜏-Entity 基准，测量语音智能体能否正确采集、识别错误并修复姓名、电话号码、地址和邮箱等细节，包含 10 种实体类型共 200 个任务，并与 𝜏-i18n 一样覆盖六种语言。</description>
-      <pubDate>Thu, 22 Oct 2026 14:02:33 +0000</pubDate>
-      <guid isPermaLink="true">https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right</guid>
-      <source url="https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right">Sierra：Blog（RSS）</source>
     </item>
   </channel>
 </rss>
