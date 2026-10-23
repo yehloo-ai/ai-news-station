@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:23:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:20:38 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>复古游戏被人工智能所淹没</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</link>
+      <description>网络浏览器中的光环, iPhone上的Wind Waker, Super Smash Bros. 过去一个月左右, 这些出乎意料的项目因新而以惊人的频率病毒化。</description>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port">The Verge AI</source>
+    </item>
     <item>
       <title>中国 AI 硬件的下一个爆款，可能生在「网球场」</title>
       <link>http://www.geekpark.net/news/372807</link>
@@ -14,14 +22,6 @@
       <pubDate>Fri, 23 Oct 2026 14:15:58 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372807</guid>
       <source url="http://www.geekpark.net/news/372807">极客公园</source>
-    </item>
-    <item>
-      <title>WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员</title>
-      <link>https://x.com/rohanpaul_ai/status/2113511968112042349</link>
-      <description>据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。</description>
-      <pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113511968112042349</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2113511968112042349">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
       <title>造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具</title>
