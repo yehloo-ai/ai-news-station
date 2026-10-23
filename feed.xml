@@ -5,15 +5,71 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 18:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:02:05 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Kimi K3.1 Pro 在 Artificial Analysis 智能指数以 55 分位列第 4</title>
-      <link>https://x.com/ArtificialAnlys/status/2113688083145314416</link>
-      <description>Artificial Analysis 评测显示，月之暗面 Kimi K3.1 Pro 以 55 分位列智能指数第 4，比 Kimi K3 的 44 分提高 11 分，仅落后 Claude Opus 5.5（58）、Claude Sonnet 5.5（56）和 Muse Wonder Full（56）。</description>
-      <pubDate>Fri, 23 Oct 2026 17:44:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2113688083145314416</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2113688083145314416">X：Artificial Analysis (@ArtificialAnlys)</source>
+      <title>OpenAI现在训练其前沿人工智能模型,没有互联网接入.</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
+      <description>OpenAI现在正在训练其最先进的人工智能模型,在一系列无赖黑客事件之后没有互联网接入. OpenAI在星期五的博客文章中说,它建立了一个离线测试环境,其中人工智能模型可以与索引和缓存的网络内容交互,"而不会影响外部内容的风险.</description>
+      <pubDate>Fri, 23 Oct 2026 17:11:07 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet">The Verge AI</source>
+    </item>
+    <item>
+      <title>Jack Dorsey's Block制作了一个人工智能模型,像一个尴尬的新朋友一样跟你说话。</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
+      <description>杰克·多西·布洛克(Jack Dorsey's Block)宣布了一个名为德萨的人工智能模型,这个模型被训练成"从头到尾只用人类对话",为了炫耀这个模型,布洛克分享了它与人类的聊天,偶尔会有点尴尬和不迷人.</description>
+      <pubDate>Fri, 23 Oct 2026 15:32:39 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech">The Verge AI</source>
+    </item>
+    <item>
+      <title>Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职</title>
+      <link>https://x.com/alexeheath/status/2113706585348600220</link>
+      <description>Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。</description>
+      <pubDate>Fri, 23 Oct 2026 18:58:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/alexeheath/status/2113706585348600220</guid>
+      <source url="https://x.com/alexeheath/status/2113706585348600220">X：Alex Heath (@alexeheath)</source>
+    </item>
+    <item>
+      <title>从笔记到人工智能训练与ChatGPT Work QQ Realpage.</title>
+      <link>https://www.youtube.com/shorts/7Cs5qyBlYQk</link>
+      <description>Austin Braham at Realpage. 使用ChatGPT Work(英语:ChatGPT Work)将想法,笔记和源材料转化为适合不同团队,角色和技能水平的完整人工智能培训教材.</description>
+      <pubDate>Fri, 23 Oct 2026 18:42:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/7Cs5qyBlYQk</guid>
+      <source url="https://www.youtube.com/shorts/7Cs5qyBlYQk">OpenAI</source>
+    </item>
+    <item>
+      <title>How Realpage. 与 ChatGPT Work 构建人工智能培训</title>
+      <link>https://www.youtube.com/watch?v=hgX1hgyWD4g</link>
+      <description>在Realpage上,奥斯汀·布拉汉姆为不同的团队,角色和技能级别创建了人工智能培训,他利用ChatGPT Work将想法,笔记和源材料转化为针对每个受众的完整的能力包,结果更相关,更一致的教育,帮助同事将人工智能投入w.</description>
+      <pubDate>Fri, 23 Oct 2026 18:39:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=hgX1hgyWD4g</guid>
+      <source url="https://www.youtube.com/watch?v=hgX1hgyWD4g">OpenAI</source>
+    </item>
+    <item>
+      <title>人工智能代理 日常IT修复 QQ盾和OpenAI</title>
+      <link>https://www.youtube.com/shorts/2lNUGkCg_qc</link>
+      <description>Shield的人工智能特工利用Astra直接在商业软件上工作,并处理例行的IT修复,给技术人员更多的时间解决需要他们判断的更困难的问题.</description>
+      <pubDate>Fri, 23 Oct 2026 18:36:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/2lNUGkCg_qc</guid>
+      <source url="https://www.youtube.com/shorts/2lNUGkCg_qc">OpenAI</source>
+    </item>
+    <item>
+      <title>盾牌如何使用 OpenAI Astra 支持IT团队</title>
+      <link>https://www.youtube.com/watch?v=m6MlxaFMmPI</link>
+      <description>当人们无法登录或上网时,他们的信息技术团队往往不得不搁置其他工作。 Shield正在建设Forge,以帮助信息技术服务团队让客户更快地恢复工作。 它的人工智能特工使用Astra直接在商业软件上工作,并解决以前需要技术的问题。</description>
+      <pubDate>Fri, 23 Oct 2026 18:34:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=m6MlxaFMmPI</guid>
+      <source url="https://www.youtube.com/watch?v=m6MlxaFMmPI">OpenAI</source>
+    </item>
+    <item>
+      <title>月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型</title>
+      <link>https://x.com/OpenRouter/status/2113699820124934334</link>
+      <description>OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。</description>
+      <pubDate>Fri, 23 Oct 2026 18:31:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenRouter/status/2113699820124934334</guid>
+      <source url="https://x.com/OpenRouter/status/2113699820124934334">X：OpenRouter (@OpenRouter)</source>
     </item>
     <item>
       <title>现在Google说,它可能会使用你的Gmail和Google Photos的数据来瞄准广告.</title>
@@ -54,6 +110,14 @@
       <pubDate>Fri, 23 Oct 2026 08:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI 详解前沿模型训练环境的安全加固与红队测试</title>
+      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+      <description>OpenAI 介绍其前沿模型训练与评估环境的安全加固措施，包括训练期间不接入互联网、构建离线缓存网页世界、以纵深防御多层隔离，并用最强模型（含即将推出的 GPT‑6 Astra Cyber）组成智能体团队进行高算力红队测试。</description>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
+      <source url="https://openai.com/index/securing-our-frontier-model-training-environment">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
     </item>
     <item>
       <title>OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元</title>
@@ -102,70 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 13:56:53 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372801</guid>
       <source url="http://www.geekpark.net/news/372801">极客公园</source>
-    </item>
-    <item>
-      <title>一个小模型问更好: 精益求精的查询 澄清检索 - 增强的一代</title>
-      <link>https://arxiv.org/abs/2610.28686</link>
-      <description>查询澄清对于面对模棱两可的用户查询的检索式生成(RAG)系统至关重要。我们认为,在Prio语境下,用户查询有缺陷或模棱两可的多回合对话情景。</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28686</guid>
-      <source url="https://arxiv.org/abs/2610.28686">ArXiv AI</source>
-    </item>
-    <item>
-      <title>在游戏中缩放:继续在不同的虚拟世界中为健康代理者进行预训</title>
-      <link>https://arxiv.org/abs/2610.28698</link>
-      <description>扩大数据、多样性和模型能力提高了在物理环境中的学习,在物理环境中,各种经验仍然以共同的物理定律为基础。</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28698</guid>
-      <source url="https://arxiv.org/abs/2610.28698">ArXiv AI</source>
-    </item>
-    <item>
-      <title>SpecEvo:使用大语言模型进行分光演化,以进行成本-效益科学发现</title>
-      <link>https://arxiv.org/abs/2610.28706</link>
-      <description>LLM驱动的进化搜索是科学发现的一个有希望的范式,但现有方法仍然昂贵而缓慢,常常统一应用昂贵的推理,同时未充分利用失败、冗余和饱和试验中的证据。</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28706</guid>
-      <source url="https://arxiv.org/abs/2610.28706">ArXiv AI</source>
-    </item>
-    <item>
-      <title>科学自动化ML:边疆特务能攀登"野外"科学丘陵?.</title>
-      <link>https://arxiv.org/abs/2610.28763</link>
-      <description>边疆编码剂越来越多地被设定为端到端的自动化研究者,科学的ML为这一承诺提供了一个要求很高的考验:改进科学模型往往需要超出常规的ML工程的域洞察力.</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28763</guid>
-      <source url="https://arxiv.org/abs/2610.28763">ArXiv AI</source>
-    </item>
-    <item>
-      <title>通过相继规模赛将更多任务构建为更好的配置:代理配置</title>
-      <link>https://arxiv.org/abs/2610.28815</link>
-      <description>代理驾驭演化通过将任务执行经验作为演化中的证据来优化代理指令、工具和控制流。 尽管更多的演化任务应该直观地改善性能,但我们的初步研究揭示了一个段落</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.28815</guid>
-      <source url="https://arxiv.org/abs/2610.28815">ArXiv AI</source>
-    </item>
-    <item>
-      <title>MoEZip: 用于 Sparse Mixture- of- Experts LLMs 的 Routing- Aware KV 缓存压缩</title>
-      <link>https://arxiv.org/abs/2610.30206</link>
-      <description>Mixture-of-Experts(MoE)语言模型通过激活每个符号的小子集参数来高效地缩放模型容量。然而,在长文推论中,内存仍然是一个主要瓶颈,因为KV缓存随着序列 leng 的线性增长.</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.30206</guid>
-      <source url="https://arxiv.org/abs/2610.30206">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Sparse Bayesian 学习的分解</title>
-      <link>https://arxiv.org/abs/2610.30207</link>
-      <description>从 M/EEG 测量中估计分布式神经源是一个反向问题,原则性不确定性量化仍然具有挑战性。 通常有条件的高斯后共变没有明确区分不确定因素。</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.30207</guid>
-      <source url="https://arxiv.org/abs/2610.30207">ArXiv ML</source>
-    </item>
-    <item>
-      <title>预测不是校正:在知识追踪中进行参数回收和代表性核对</title>
-      <link>https://arxiv.org/abs/2610.30211</link>
-      <description>Knowledge track (KT) 模型可以通过专门为下个响应预测而培训的项目响应解码器来估计项目参数,然而预测精度并不能保证参数的恢复。 我们研究2PL, GPCM, 和 NRM 解码器与 LST 配对</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.30211</guid>
-      <source url="https://arxiv.org/abs/2610.30211">ArXiv ML</source>
     </item>
   </channel>
 </rss>
