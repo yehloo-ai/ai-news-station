@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 22:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:32:59 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露</title>
+      <link>https://x.com/OpenAI/status/2113766354386084338</link>
+      <description>OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。</description>
+      <pubDate>Fri, 23 Oct 2026 22:55:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenAI/status/2113766354386084338</guid>
+      <source url="https://x.com/OpenAI/status/2113766354386084338">X：OpenAI (@OpenAI)</source>
+    </item>
+    <item>
+      <title>用点捕虫</title>
+      <link>https://www.youtube.com/watch?v=6f7ojkd4_Wc</link>
+      <description>我们用点来构建更好的点。 OpenAI 的工程师Rennie Song 利用她的点来收集社交媒体和用户报告的反馈,更新ChatGPT空间的实时跟踪器,并用 Codex 来调查和修复错误。 开始今天的点:https://learn.chatgpt.com/docs/dots</description>
+      <pubDate>Fri, 23 Oct 2026 22:05:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=6f7ojkd4_Wc</guid>
+      <source url="https://www.youtube.com/watch?v=6f7ojkd4_Wc">OpenAI</source>
+    </item>
     <item>
       <title>OpenAI现在训练其前沿人工智能模型,没有互联网接入.</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
@@ -54,14 +70,6 @@
       <pubDate>Fri, 23 Oct 2026 18:36:34 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/shorts/2lNUGkCg_qc</guid>
       <source url="https://www.youtube.com/shorts/2lNUGkCg_qc">OpenAI</source>
-    </item>
-    <item>
-      <title>盾牌如何使用 OpenAI Astra 支持IT团队</title>
-      <link>https://www.youtube.com/watch?v=m6MlxaFMmPI</link>
-      <description>当人们无法登录或上网时,他们的信息技术团队往往不得不搁置其他工作。 Shield正在建设Forge,以帮助信息技术服务团队让客户更快地恢复工作。 它的人工智能特工使用Astra直接在商业软件上工作,并解决以前需要技术的问题。</description>
-      <pubDate>Fri, 23 Oct 2026 18:34:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=m6MlxaFMmPI</guid>
-      <source url="https://www.youtube.com/watch?v=m6MlxaFMmPI">OpenAI</source>
     </item>
     <item>
       <title>月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型</title>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 14:03:13 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372803</guid>
       <source url="http://www.geekpark.net/news/372803">极客公园</source>
-    </item>
-    <item>
-      <title>今年双 11，天猫想卖的不只是货，还有 Token</title>
-      <link>http://www.geekpark.net/news/372801</link>
-      <description>「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。 消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。过去的搜索解决不了这个问题。用户主动搜关键词、平台做精准匹配，在他看来，「更像一个统计学的概念」，搜的人越多、描述越准，匹配就越高效，「但这依然是存量和认知以内的东西」。 所以他给今年的 AI 定了一个很朴素的标准：「AI 最重要的，是他是不是更理解我们，以及是不是更理解我们的消费者。」 一个用户在飞猪上买了去看世界杯的机票，从没搜过任何和球迷有关的关键</description>
-      <pubDate>Fri, 23 Oct 2026 13:56:53 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372801</guid>
-      <source url="http://www.geekpark.net/news/372801">极客公园</source>
     </item>
   </channel>
 </rss>
