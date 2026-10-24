@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 00:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:42:59 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f</link>
+      <description>月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。</description>
+      <pubDate>Sat, 24 Oct 2026 02:08:43 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>实测 Kimi K3.1 Pro，国模终于继续卷旗舰</title>
+      <link>https://www.ifanr.com/1685684?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>大而美的 Kimi 回来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 24 Oct 2026 02:07:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1685684?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1685684?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372858</link>
+      <description>苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。 苹果此前表示，iPhone Duo 的预购需求表现异常强劲，公司正在努力尽快将产品交付给消费者。苹果同时确认，全球 Apple Store 门店会提供少量供现场顾客购买的库存，但提醒消费者，这些现货可能很快售罄。对于希望不经</description>
+      <pubDate>Sat, 24 Oct 2026 08:34:27 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372858</guid>
+      <source url="http://www.geekpark.net/news/372858">极客公园</source>
+    </item>
     <item>
       <title>OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露</title>
       <link>https://x.com/OpenAI/status/2113766354386084338</link>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 09:17:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.ithome.com/1/017/113.htm</guid>
       <source url="https://www.ithome.com/1/017/113.htm">IT之家·人工智能</source>
-    </item>
-    <item>
-      <title>中国 AI 硬件的下一个爆款，可能生在「网球场」</title>
-      <link>http://www.geekpark.net/news/372807</link>
-      <description>头图来源：Hirdwire2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarter 上筹得百万美元级资金。庞伯特以 26255% 的超募率卷走 265 万美元；智能家居大厂 SwitchBot 推出的 Acemate 30 天入账 180 万美元；Tenniix 首战筹得近百万美元后，其母公司英汉思动力完成红杉联合领投的三轮共超亿元融资；最新收官的 AceiiLab 首批量产正在交付，单台售价约 2000 美元，早鸟</description>
-      <pubDate>Fri, 23 Oct 2026 14:15:58 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372807</guid>
-      <source url="http://www.geekpark.net/news/372807">极客公园</source>
-    </item>
-    <item>
-      <title>WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员</title>
-      <link>https://x.com/rohanpaul_ai/status/2113511968112042349</link>
-      <description>据 WSJ 报道，OpenAI 安全人员发现 3 名安全研究员与一名外部安全研究员使用阅后即焚的 Signal 聊天后将其解雇。</description>
-      <pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113511968112042349</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2113511968112042349">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具</title>
-      <link>http://www.geekpark.net/news/372803</link>
-      <description>这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。 大公司的打法很统一，先造一个入口，再把 AI 慢慢塞进去。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支 65 克的笔。Nothing 在耳机上加了一个物理开关，可以一键切换道监听调音模式。这些原本属于专业设备的能力，正在被一件件压进可以随手带的小东西里。 而且它们做的方向越来越窄，这样意味着不用跟大厂比算力，只要把一个</description>
-      <pubDate>Fri, 23 Oct 2026 14:03:13 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372803</guid>
-      <source url="http://www.geekpark.net/news/372803">极客公园</source>
     </item>
   </channel>
 </rss>
