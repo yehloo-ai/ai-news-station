@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 10:49:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 14:28:03 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信</title>
+      <link>https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/</link>
+      <description>OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。</description>
+      <pubDate>Sat, 24 Oct 2026 11:12:36 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/</guid>
+      <source url="https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/">The Decoder：AI News（RSS）</source>
+    </item>
     <item>
       <title>一位开发者让电视服用了 Claude，这是它系统发生的变化</title>
       <link>https://www.ifanr.com/1685473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
       <source url="https://openai.com/index/securing-our-frontier-model-training-environment">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元</title>
-      <link>https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/</link>
-      <description>OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。</description>
-      <pubDate>Fri, 23 Oct 2026 09:49:38 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/</guid>
-      <source url="https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/">The Decoder：AI News（RSS）</source>
     </item>
   </channel>
 </rss>
