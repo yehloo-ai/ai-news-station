@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 20:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:07:09 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>蓝色星球三号在人工智能时代 保持了粗糙的边缘</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</link>
+      <description>BBC的"蓝色星球III"试图通过在不完美镜头中离开来证明它的真实性. 之前自然系列的化身是由它们华丽而清澈的镜头定义的,这些镜头看起来几乎太好以至于无法真实.</description>
+      <pubDate>Sat, 24 Oct 2026 17:29:12 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai">The Verge AI</source>
+    </item>
     <item>
       <title>宾夕法尼亚州需要人工智能生成的广告上的标签</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/fal/status/2113646807997620396</guid>
       <source url="https://x.com/fal/status/2113646807997620396">X：fal (@fal)</source>
-    </item>
-    <item>
-      <title>Meta在出版商推回人工智能刮损后延迟了新的业务条款</title>
-      <link>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</link>
-      <description>Meta在出版商担心公司可能让新闻网站被刮去接受人工智能培训后,拖延了对其新业务条款的执行,快公司早前曾报道过这一点. Meta发言人Daniel Roberts在给The Verge的声明中表示,这些条款将会生效.</description>
-      <pubDate>Fri, 23 Oct 2026 10:47:41 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</guid>
-      <source url="https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping">The Verge AI</source>
     </item>
   </channel>
 </rss>
