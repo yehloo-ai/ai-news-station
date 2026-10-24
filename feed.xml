@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 05:42:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:49:54 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>一位开发者让电视服用了 Claude，这是它系统发生的变化</title>
+      <link>https://www.ifanr.com/1685473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>欢迎来到「大逆向时代」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 24 Oct 2026 10:10:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1685473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1685473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 09:49:38 +0000</pubDate>
       <guid isPermaLink="true">https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/</guid>
       <source url="https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响</title>
-      <link>https://www.ithome.com/1/017/113.htm</link>
-      <description>国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。</description>
-      <pubDate>Fri, 23 Oct 2026 09:17:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/017/113.htm</guid>
-      <source url="https://www.ithome.com/1/017/113.htm">IT之家·人工智能</source>
     </item>
   </channel>
 </rss>
