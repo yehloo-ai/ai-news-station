@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:28:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:04:21 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视</title>
+      <link>https://x.com/emollick/status/2114001653879672877</link>
+      <description>Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。</description>
+      <pubDate>Sat, 24 Oct 2026 14:30:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/emollick/status/2114001653879672877</guid>
+      <source url="https://x.com/emollick/status/2114001653879672877">X：Ethan Mollick (@emollick)</source>
+    </item>
     <item>
       <title>OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信</title>
       <link>https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 08:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI 详解前沿模型训练环境的安全加固与红队测试</title>
-      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-      <description>OpenAI 介绍其前沿模型训练与评估环境的安全加固措施，包括训练期间不接入互联网、构建离线缓存网页世界、以纵深防御多层隔离，并用最强模型（含即将推出的 GPT‑6 Astra Cyber）组成智能体团队进行高算力红队测试。</description>
-      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-      <source url="https://openai.com/index/securing-our-frontier-model-training-environment">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
     </item>
   </channel>
 </rss>
