@@ -782,5 +782,21 @@
     "sourceUrl": "https://www.baseten.co/blog/the-best-decision-models-in-the-world-mammoth-1-and-elephant-1/",
     "sourceName": "Baseten 工程博客（网页）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+    "summary": "月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。",
+    "sourceUrl": "https://www.kimi.com/blog/kimi-k3-1-pro",
+    "sourceName": "Moonshot AI：Kimi Blog",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
+    "summary": "MiniMax 宣布 M3.1 Flash 权重公开，总参数 428B、每 token 激活 23B，提供 Hugging Face 和 ModelScope 下载。",
+    "sourceUrl": "https://x.com/MiniMax_AI/status/2113436864904610008",
+    "sourceName": "X：MiniMax (@MiniMax_AI)",
+    "reviewReason": "awaiting-review"
   }
 ]
