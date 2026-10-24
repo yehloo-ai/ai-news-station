@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 18:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:41:07 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>宾夕法尼亚州需要人工智能生成的广告上的标签</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</link>
+      <description>星期四,宾夕法尼亚州州长乔什·沙皮罗(Josh Shapiro)签署了"人工智能欺骗广告法"(Artifial Intelligence Deceptive Advancing Advancing Act)成为法律,要求在人工智能生成的广告上披露信息. 法律要求任何广告——无论是静态图像,视频,音频还是文本——"已被Artifi大幅修改或生成.</description>
+      <pubDate>Sat, 24 Oct 2026 14:32:21 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act">The Verge AI</source>
+    </item>
     <item>
       <title>Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视</title>
       <link>https://x.com/emollick/status/2114001653879672877</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 10:47:41 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</guid>
       <source url="https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping">The Verge AI</source>
-    </item>
-    <item>
-      <title>复古游戏被人工智能所淹没</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</link>
-      <description>网络浏览器中的光环, iPhone上的Wind Waker, Super Smash Bros. 过去一个月左右, 这些出乎意料的项目因新而以惊人的频率病毒化。</description>
-      <pubDate>Fri, 23 Oct 2026 08:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port">The Verge AI</source>
     </item>
   </channel>
 </rss>
