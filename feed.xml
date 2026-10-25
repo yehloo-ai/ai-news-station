@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 23:07:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:03:51 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机</title>
+      <link>http://www.geekpark.net/news/372860</link>
+      <description>​到手 6 小时、开合不到 20 次屏幕就裂：苹果首批折叠屏遭集中投诉 苹果首款折叠屏手机 iPhone Duo 刚开售就遇上了麻烦：据海外论坛和小红书多人反馈，不少用户开箱即遇到屏幕爆线、开裂问题，汇总照片显示故障位置高度集中&amp;mdash;&amp;mdash;几乎全部出现在铰链正上方，多数表现为屏幕一侧浮现一条亮像素线。 一名澳洲用户称，设备到手约 6 小时、开合不到 20 次，向朋友展示展开时先感到内铰链下方异样，随后听到清晰的「咔嚓」声，屏幕随即沿铰链裂开，内屏表面与外部铰链均无磕碰或夹痕，他前往 Apple Store 后苹果直接为其更换了故障机。国内也有类似案例。 综合目前反馈，问题可能出</description>
+      <pubDate>Sun, 25 Oct 2026 08:52:41 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372860</guid>
+      <source url="http://www.geekpark.net/news/372860">极客公园</source>
+    </item>
     <item>
       <title>蓝色星球三号在人工智能时代 保持了粗糙的边缘</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.kimi.com/blog/kimi-k3-1-pro</guid>
       <source url="https://www.kimi.com/blog/kimi-k3-1-pro">Moonshot AI：Kimi Blog</source>
-    </item>
-    <item>
-      <title>Kling 4.0 在 fal 上线并向所有客户开放 API 访问</title>
-      <link>https://x.com/fal/status/2113646807997620396</link>
-      <description>fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。</description>
-      <pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fal/status/2113646807997620396</guid>
-      <source url="https://x.com/fal/status/2113646807997620396">X：fal (@fal)</source>
     </item>
   </channel>
 </rss>
