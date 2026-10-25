@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 16:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:57:10 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>r/开源刚刚禁止 人工智能,非英语演讲者,以及更多</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
+      <description>r/opensource的mods发布新的提交规则,除其他外,禁止使用人工智能的项目. 星期六晚间制作的这篇文章开篇说:"如果你的项目使用人工智能,由人工智能制作,或专用于人工智能,在r/opensource上是不受欢迎的. 人工智能,如今天存在,与此不相干.</description>
+      <pubDate>Sun, 25 Oct 2026 09:25:32 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban">The Verge AI</source>
+    </item>
     <item>
       <title>Google的人工智能搜索改变更新的在线出版</title>
       <link>https://www.theverge.com/column/1017983/google-ai-search-online-publishing</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 18:31:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/OpenRouter/status/2113699820124934334</guid>
       <source url="https://x.com/OpenRouter/status/2113699820124934334">X：OpenRouter (@OpenRouter)</source>
-    </item>
-    <item>
-      <title>现在Google说,它可能会使用你的Gmail和Google Photos的数据来瞄准广告.</title>
-      <link>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</link>
-      <description>Google已经更新了隐私策略,其方式可能意味着如果你使用个性化的人工智能功能,你会根据个人数据开始看到目标广告。Android Authority发现的更新在它承诺不使用您的驱动器、Gmail或Google Photos时增加了一个例外。</description>
-      <pubDate>Fri, 23 Oct 2026 12:52:55 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</guid>
-      <source url="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update">The Verge AI</source>
     </item>
   </channel>
 </rss>
