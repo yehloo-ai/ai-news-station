@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 11:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:03:27 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google的人工智能搜索改变更新的在线出版</title>
+      <link>https://www.theverge.com/column/1017983/google-ai-search-online-publishing</link>
+      <description>这是一份每周的通讯《Stepback》,它从科技界打破了一个基本的故事。关于人工智能在网络上的影响,请跟随Emma Roth。《Stepback》于周日8:00 ET到我们的订户的收件箱。《Stepback》的Opt in for The Stepback here。它是如何启动数字出版业的。</description>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/column/1017983/google-ai-search-online-publishing</guid>
+      <source url="https://www.theverge.com/column/1017983/google-ai-search-online-publishing">The Verge AI</source>
+    </item>
     <item>
       <title>苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机</title>
       <link>http://www.geekpark.net/news/372860</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 12:52:55 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</guid>
       <source url="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update">The Verge AI</source>
-    </item>
-    <item>
-      <title>月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出</title>
-      <link>https://www.kimi.com/blog/kimi-k3-1-pro</link>
-      <description>月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。</description>
-      <pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.kimi.com/blog/kimi-k3-1-pro</guid>
-      <source url="https://www.kimi.com/blog/kimi-k3-1-pro">Moonshot AI：Kimi Blog</source>
     </item>
   </channel>
 </rss>
