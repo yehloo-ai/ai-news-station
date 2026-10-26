@@ -5,8 +5,96 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 00:10:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 04:40:32 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>交易-知情领地设计:企业客户对客户分配的多目标决策系统</title>
+      <link>https://arxiv.org/abs/2610.31701</link>
+      <description>企业客户的旅程不仅取决于产品经验和营销,而且还取决于经常性的资源分配决定。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31701</guid>
+      <source url="https://arxiv.org/abs/2610.31701">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Phronix: 特工的能力-儿科学习范式</title>
+      <link>https://arxiv.org/abs/2610.31789</link>
+      <description>科学计算越来越依赖基于语言模型的大型物剂来完成诸如仪器、分析和工作流程移植等性能工程任务。 然而,物剂的有效性在很大程度上取决于周围的牵引力,而这种牵引力是type的。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31789</guid>
+      <source url="https://arxiv.org/abs/2610.31789">ArXiv AI</source>
+    </item>
+    <item>
+      <title>英语和普通话的赞助和屈尊语言检测</title>
+      <link>https://arxiv.org/abs/2610.31808</link>
+      <description>支持和屈尊的语言(PCL)是一种有害语言形式,它轻视弱势群体,并假定是怜悯的,强化了消极的社会定型观念。 然而,与公开的仇恨言论不同,往往很难发现,即使是对hu来说也是如此。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31808</guid>
+      <source url="https://arxiv.org/abs/2610.31808">ArXiv AI</source>
+    </item>
+    <item>
+      <title>PaperFormalizer: Lean研究论文自动正规化作者</title>
+      <link>https://arxiv.org/abs/2610.31810</link>
+      <description>即便仔细校对的论文也能在证据或所陈述的假设中留下小的空白。 我们引入了基于Lean的代理管道PaperFormalizer, 帮助作者在自己的论文中找到并弥补这些空白, 并将每张论文变成 Lean-v</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31810</guid>
+      <source url="https://arxiv.org/abs/2610.31810">ArXiv AI</source>
+    </item>
+    <item>
+      <title>别忘了你刚刚学到的:自导自演的修补 将特务错误带入永恒的教训</title>
+      <link>https://arxiv.org/abs/2610.31846</link>
+      <description>聪明的代理人应该从自己的错误中吸取教训,从而让经验不断改善。 然而,今天的代理人只能暂时地从错误中恢复过来:在不同的会议中很容易忘记内在的反省,并争夺有限的康特。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31846</guid>
+      <source url="https://arxiv.org/abs/2610.31846">ArXiv AI</source>
+    </item>
+    <item>
+      <title>验证比较,而不仅仅是计分器:为什么总体准确性在交互式 LLM 评估中会出现错误</title>
+      <link>https://arxiv.org/abs/2610.31678</link>
+      <description>许多 LLM 研究比较模型如何响应不同的后续提示。 例如, 一个提示可能中立地要求模型重新考虑, 而另一个则坚持认为一个被发明的胶片真的存在。 差异被用来测量凸起的效果 。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31678</guid>
+      <source url="https://arxiv.org/abs/2610.31678">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>错误概念对话:评价标准</title>
+      <link>https://arxiv.org/abs/2610.31679</link>
+      <description>大型语言模型越来越多地被用作数学导师,提出了两个问题:一个LLM能够检测学生的错误,诊断潜在的误解,并通过多回合对话补救它——我们能否信任报告的数字?</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31679</guid>
+      <source url="https://arxiv.org/abs/2610.31679">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>反思结构化的生成:基于图表的理性能够解决模糊性吗?</title>
+      <link>https://arxiv.org/abs/2610.31681</link>
+      <description>结构化生成通常被设定为从输入到单一结构化输出的决定性映射。这一假设与自然语言基本错配,自然语言往往承认多重结构差异,但结构化的val。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31681</guid>
+      <source url="https://arxiv.org/abs/2610.31681">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>对自发性自闭症和非自发性自闭症相互作用的多模式认知对话成功预测</title>
+      <link>https://arxiv.org/abs/2610.31682</link>
+      <description>对话成功对沟通、社会纽带和幸福都很重要,在自闭症-神经典型的谈话中也经常会减少。 以往的研究都曾利用恋童癖中的声学和词典特征预言对话成功。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31682</guid>
+      <source url="https://arxiv.org/abs/2610.31682">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>Schema一致性清单:衡量某一信仰是否组织一种语言模型的认知</title>
+      <link>https://arxiv.org/abs/2610.31683</link>
+      <description>人性化语言模型被作为模拟病人和感官使用,但是没有经过验证的方法来询问这种模型的信仰是组织其行为,还是模型只是采取了一种情绪。</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31683</guid>
+      <source url="https://arxiv.org/abs/2610.31683">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场</title>
+      <link>https://www.ifanr.com/1685755?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 26 Oct 2026 00:16:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1685755?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1685755?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>r/开源刚刚禁止 人工智能,非英语演讲者,以及更多</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
@@ -78,94 +166,6 @@
       <pubDate>Sat, 24 Oct 2026 10:10:44 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1685473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1685473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f</link>
-      <description>月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。</description>
-      <pubDate>Sat, 24 Oct 2026 02:08:43 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>实测 Kimi K3.1 Pro，国模终于继续卷旗舰</title>
-      <link>https://www.ifanr.com/1685684?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>大而美的 Kimi 回来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 24 Oct 2026 02:07:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1685684?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1685684?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372858</link>
-      <description>苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。 苹果此前表示，iPhone Duo 的预购需求表现异常强劲，公司正在努力尽快将产品交付给消费者。苹果同时确认，全球 Apple Store 门店会提供少量供现场顾客购买的库存，但提醒消费者，这些现货可能很快售罄。对于希望不经</description>
-      <pubDate>Sat, 24 Oct 2026 08:34:27 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372858</guid>
-      <source url="http://www.geekpark.net/news/372858">极客公园</source>
-    </item>
-    <item>
-      <title>OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露</title>
-      <link>https://x.com/OpenAI/status/2113766354386084338</link>
-      <description>OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。</description>
-      <pubDate>Fri, 23 Oct 2026 22:55:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenAI/status/2113766354386084338</guid>
-      <source url="https://x.com/OpenAI/status/2113766354386084338">X：OpenAI (@OpenAI)</source>
-    </item>
-    <item>
-      <title>用点捕虫</title>
-      <link>https://www.youtube.com/watch?v=6f7ojkd4_Wc</link>
-      <description>我们用点来构建更好的点。 OpenAI 的工程师Rennie Song 利用她的点来收集社交媒体和用户报告的反馈,更新ChatGPT空间的实时跟踪器,并用 Codex 来调查和修复错误。 开始今天的点:https://learn.chatgpt.com/docs/dots</description>
-      <pubDate>Fri, 23 Oct 2026 22:05:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=6f7ojkd4_Wc</guid>
-      <source url="https://www.youtube.com/watch?v=6f7ojkd4_Wc">OpenAI</source>
-    </item>
-    <item>
-      <title>OpenAI现在训练其前沿人工智能模型,没有互联网接入.</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
-      <description>OpenAI现在正在训练其最先进的人工智能模型,在一系列无赖黑客事件之后没有互联网接入. OpenAI在星期五的博客文章中说,它建立了一个离线测试环境,其中人工智能模型可以与索引和缓存的网络内容交互,"而不会影响外部内容的风险.</description>
-      <pubDate>Fri, 23 Oct 2026 17:11:07 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet">The Verge AI</source>
-    </item>
-    <item>
-      <title>Jack Dorsey's Block制作了一个人工智能模型,像一个尴尬的新朋友一样跟你说话。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
-      <description>杰克·多西·布洛克(Jack Dorsey's Block)宣布了一个名为德萨的人工智能模型,这个模型被训练成"从头到尾只用人类对话",为了炫耀这个模型,布洛克分享了它与人类的聊天,偶尔会有点尴尬和不迷人.</description>
-      <pubDate>Fri, 23 Oct 2026 15:32:39 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech">The Verge AI</source>
-    </item>
-    <item>
-      <title>Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职</title>
-      <link>https://x.com/alexeheath/status/2113706585348600220</link>
-      <description>Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。</description>
-      <pubDate>Fri, 23 Oct 2026 18:58:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/alexeheath/status/2113706585348600220</guid>
-      <source url="https://x.com/alexeheath/status/2113706585348600220">X：Alex Heath (@alexeheath)</source>
-    </item>
-    <item>
-      <title>从笔记到人工智能训练与ChatGPT Work QQ Realpage.</title>
-      <link>https://www.youtube.com/shorts/7Cs5qyBlYQk</link>
-      <description>Austin Braham at Realpage. 使用ChatGPT Work(英语:ChatGPT Work)将想法,笔记和源材料转化为适合不同团队,角色和技能水平的完整人工智能培训教材.</description>
-      <pubDate>Fri, 23 Oct 2026 18:42:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/7Cs5qyBlYQk</guid>
-      <source url="https://www.youtube.com/shorts/7Cs5qyBlYQk">OpenAI</source>
-    </item>
-    <item>
-      <title>How Realpage. 与 ChatGPT Work 构建人工智能培训</title>
-      <link>https://www.youtube.com/watch?v=hgX1hgyWD4g</link>
-      <description>在Realpage上,奥斯汀·布拉汉姆为不同的团队,角色和技能级别创建了人工智能培训,他利用ChatGPT Work将想法,笔记和源材料转化为针对每个受众的完整的能力包,结果更相关,更一致的教育,帮助同事将人工智能投入w.</description>
-      <pubDate>Fri, 23 Oct 2026 18:39:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=hgX1hgyWD4g</guid>
-      <source url="https://www.youtube.com/watch?v=hgX1hgyWD4g">OpenAI</source>
-    </item>
-    <item>
-      <title>人工智能代理 日常IT修复 QQ盾和OpenAI</title>
-      <link>https://www.youtube.com/shorts/2lNUGkCg_qc</link>
-      <description>Shield的人工智能特工利用Astra直接在商业软件上工作,并处理例行的IT修复,给技术人员更多的时间解决需要他们判断的更困难的问题.</description>
-      <pubDate>Fri, 23 Oct 2026 18:36:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/2lNUGkCg_qc</guid>
-      <source url="https://www.youtube.com/shorts/2lNUGkCg_qc">OpenAI</source>
     </item>
   </channel>
 </rss>
