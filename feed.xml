@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 21:41:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:10:48 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>r/开源刚刚禁止 人工智能,非英语演讲者,以及更多</title>
@@ -30,6 +30,14 @@
       <pubDate>Sun, 25 Oct 2026 08:52:41 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372860</guid>
       <source url="http://www.geekpark.net/news/372860">极客公园</source>
+    </item>
+    <item>
+      <title>让编程智能体使用已登录 Chrome 的六种方案实操指南</title>
+      <link>https://browser-use.com/posts/coding-agent-logged-in-chrome</link>
+      <description>Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI、Cursor 等编程智能体使用已登录 Chrome 的方法：Claude 订阅用户可用 claude --chrome 的 Claude in Chrome 扩展。</description>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://browser-use.com/posts/coding-agent-logged-in-chrome</guid>
+      <source url="https://browser-use.com/posts/coding-agent-logged-in-chrome">Browser Use</source>
     </item>
     <item>
       <title>蓝色星球三号在人工智能时代 保持了粗糙的边缘</title>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 23 Oct 2026 18:36:34 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/shorts/2lNUGkCg_qc</guid>
       <source url="https://www.youtube.com/shorts/2lNUGkCg_qc">OpenAI</source>
-    </item>
-    <item>
-      <title>月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型</title>
-      <link>https://x.com/OpenRouter/status/2113699820124934334</link>
-      <description>OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。</description>
-      <pubDate>Fri, 23 Oct 2026 18:31:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenRouter/status/2113699820124934334</guid>
-      <source url="https://x.com/OpenRouter/status/2113699820124934334">X：OpenRouter (@OpenRouter)</source>
     </item>
   </channel>
 </rss>
