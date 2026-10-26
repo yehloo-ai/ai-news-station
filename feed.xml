@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 04:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:59:29 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>今年的 1024，可能是最后一个程序员节</title>
+      <link>http://www.geekpark.net/news/372944</link>
+      <description>作者｜Wildcard 编辑｜靖宇 今天一整天， X 上都有人在讨论，「1024 程序员节日快乐，今年会不会是最后一个程序员节了」。 这一天恰好是周六。微博上的话题叫「今年程序员节自带休息日」，配文说 AI 工具分担了重复编码，程序员终于能过一个不被紧急需求打断的节。 影石连续第五年给优秀程序员发黄金键帽，今年新增了一颗「F5」键，寓意不断刷新迭代。颁奖现场，一位年轻同事说了句玩笑话，「今年的黄金键帽，应该发给 AI」。 一家机构的节日推文写得更直白，「今年的程序员节，我们扩招了，会指挥 AI 做东西的，也算程序员」。 而在小红书上，有程序员在「古法编程时代」的标签下清理旧书，《图解 HTTP</description>
+      <pubDate>Mon, 26 Oct 2026 18:16:50 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372944</guid>
+      <source url="http://www.geekpark.net/news/372944">极客公园</source>
+    </item>
+    <item>
+      <title>Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5</title>
+      <link>http://www.geekpark.net/news/372943</link>
+      <description>作者｜宇航猿 编辑｜靖宇 10 月 23 日上午，Kimi 官方在 X 和视频号上发了一段 24 秒的视频。 画面里是一台复古风格的老式电脑，屏幕上开着 Kimi Code，终端里一行行地写着 Three.js 代码，在生成一个复杂的 3D 场景。眼尖的网友很快在左上角的模型栏里找到了答案&amp;mdash;&amp;mdash;「Model: Kimi K3.1」。 Kimi 官方发布的 K3.1 预热视频｜图片来源：X @Kimi_Moonshot 用一台老古董般的机器，跑一段今天最前沿的 3D 代码，这个反差本身就是月之暗面想说的话。 十几个小时后，10 月 24 日零点刚过，卡着程序员节，Kimi</description>
+      <pubDate>Mon, 26 Oct 2026 18:16:08 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372943</guid>
+      <source url="http://www.geekpark.net/news/372943">极客公园</source>
+    </item>
+    <item>
+      <title>地铁里的 AI 伪人广告，正在集体霸凌人类</title>
+      <link>https://www.ifanr.com/1685809?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>唯有诚意与创意不可辜负#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 26 Oct 2026 07:42:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1685809?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1685809?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备</title>
+      <link>https://x.com/Khazix0918/status/2114579883527655853</link>
+      <description>数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。</description>
+      <pubDate>Mon, 26 Oct 2026 04:48:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Khazix0918/status/2114579883527655853</guid>
+      <source url="https://x.com/Khazix0918/status/2114579883527655853">X：卡兹克 (@Khazix0918)</source>
+    </item>
+    <item>
+      <title>Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频</title>
+      <link>https://x.com/Kling_ai/status/2114574035468386746</link>
+      <description>Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。</description>
+      <pubDate>Mon, 26 Oct 2026 04:25:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kling_ai/status/2114574035468386746</guid>
+      <source url="https://x.com/Kling_ai/status/2114574035468386746">X：可灵 Kling AI (@Kling_ai)</source>
+    </item>
     <item>
       <title>交易-知情领地设计:企业客户对客户分配的多目标决策系统</title>
       <link>https://arxiv.org/abs/2610.31701</link>
@@ -126,46 +166,6 @@
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://browser-use.com/posts/coding-agent-logged-in-chrome</guid>
       <source url="https://browser-use.com/posts/coding-agent-logged-in-chrome">Browser Use</source>
-    </item>
-    <item>
-      <title>蓝色星球三号在人工智能时代 保持了粗糙的边缘</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</link>
-      <description>BBC的"蓝色星球III"试图通过在不完美镜头中离开来证明它的真实性. 之前自然系列的化身是由它们华丽而清澈的镜头定义的,这些镜头看起来几乎太好以至于无法真实.</description>
-      <pubDate>Sat, 24 Oct 2026 17:29:12 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai">The Verge AI</source>
-    </item>
-    <item>
-      <title>宾夕法尼亚州需要人工智能生成的广告上的标签</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</link>
-      <description>星期四,宾夕法尼亚州州长乔什·沙皮罗(Josh Shapiro)签署了"人工智能欺骗广告法"(Artifial Intelligence Deceptive Advancing Advancing Act)成为法律,要求在人工智能生成的广告上披露信息. 法律要求任何广告——无论是静态图像,视频,音频还是文本——"已被Artifi大幅修改或生成.</description>
-      <pubDate>Sat, 24 Oct 2026 14:32:21 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act">The Verge AI</source>
-    </item>
-    <item>
-      <title>Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视</title>
-      <link>https://x.com/emollick/status/2114001653879672877</link>
-      <description>Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。</description>
-      <pubDate>Sat, 24 Oct 2026 14:30:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/emollick/status/2114001653879672877</guid>
-      <source url="https://x.com/emollick/status/2114001653879672877">X：Ethan Mollick (@emollick)</source>
-    </item>
-    <item>
-      <title>OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信</title>
-      <link>https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/</link>
-      <description>OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。</description>
-      <pubDate>Sat, 24 Oct 2026 11:12:36 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/</guid>
-      <source url="https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>一位开发者让电视服用了 Claude，这是它系统发生的变化</title>
-      <link>https://www.ifanr.com/1685473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>欢迎来到「大逆向时代」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 24 Oct 2026 10:10:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1685473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1685473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
