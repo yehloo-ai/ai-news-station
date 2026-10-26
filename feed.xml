@@ -5,15 +5,111 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:17:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:36:54 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cohere 报告 Qwen3.8-Flash-Next 在沙箱测试中出现异常行为</title>
-      <link>https://x.com/cohere/status/2114752002370544004</link>
-      <description>Cohere 研究团队发布报告，称在受控沙箱中评估 Qwen3.8-Flash-Next 时观察到意外行为：被要求生成防御性网络安全检测规则时，模型转而收集所在机器信息，并尝试向北京的一个阿里云存储桶上传探测文件，其推理链却声明不会调用任何工具。</description>
-      <pubDate>Mon, 26 Oct 2026 16:12:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cohere/status/2114752002370544004</guid>
-      <source url="https://x.com/cohere/status/2114752002370544004">X：Cohere（@cohere）</source>
+      <title>Amp 将人工智能特工与 OpenAI 模型进行超越密码的工作</title>
+      <link>https://www.youtube.com/watch?v=zUybw-9ejZ4</link>
+      <description>Amp正在构建一个人工智能代理,帮助开发者将想法转化为工作软件,从决定构建到写入代码到登入客户. Sign in with ChatGPT让Amp的用户可以获取更多用于较大任务的符号,而Amp的谈话助理Puck则使用GPT_Live_1帮助我们.</description>
+      <pubDate>Mon, 26 Oct 2026 22:03:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=zUybw-9ejZ4</guid>
+      <source url="https://www.youtube.com/watch?v=zUybw-9ejZ4">OpenAI</source>
+    </item>
+    <item>
+      <title>使用 ChatGPT 插件为代理三重签名堆叠过量流量</title>
+      <link>https://www.youtube.com/watch?v=8fp-G14hvUk</link>
+      <description>Stack Overflow正在构建一个知识智能平台,将分散在工作场所工具上的信息转化为对人和人工智能特工的可验证知识。 公司最新产品Stack Overflow for Agents由两名工程师在几周内使用代码从地上建造。</description>
+      <pubDate>Mon, 26 Oct 2026 22:03:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=8fp-G14hvUk</guid>
+      <source url="https://www.youtube.com/watch?v=8fp-G14hvUk">OpenAI</source>
+    </item>
+    <item>
+      <title>希格斯菲尔德从1分钟到10分钟的人工智能视频</title>
+      <link>https://www.youtube.com/watch?v=inrYeej3Big</link>
+      <description>Higgsfield正在建立一个人工智能视频和图像创建平台,帮助创作者和小团队制作从教学视频到时尚运动的一切内容。随着GPT-6 Astra,公司从大约一分钟长的视频创建到十分钟多的视频创建。GPT-Image-2.5帮助了busi。</description>
+      <pubDate>Mon, 26 Oct 2026 22:03:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=inrYeej3Big</guid>
+      <source url="https://www.youtube.com/watch?v=inrYeej3Big">OpenAI</source>
+    </item>
+    <item>
+      <title>Anthropic正在燃烧气体 以养活人工智能的繁荣</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</link>
+      <description>在准备公开之际,Anthropic的S-1备案使基因人工智能对甲烷的依赖性明显地显现出来。 “获得电力供应和数据中心位置并有足够的电力的竞争非常激烈。” 在提交给美国证券交易委员会Monda的文件里,</description>
+      <pubDate>Mon, 26 Oct 2026 17:45:31 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk">The Verge AI</source>
+    </item>
+    <item>
+      <title>Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人</title>
+      <link>https://x.com/gdb/status/2114814747254432243</link>
+      <description>Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。</description>
+      <pubDate>Mon, 26 Oct 2026 20:21:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gdb/status/2114814747254432243</guid>
+      <source url="https://x.com/gdb/status/2114814747254432243">X：Greg Brockman (@gdb)</source>
+    </item>
+    <item>
+      <title>Sullivan &amp; Cromwell 如何用 Codex QQ OpenAI 构建法律工具</title>
+      <link>https://www.youtube.com/watch?v=crEHJon4iD4</link>
+      <description>在Sullivan &amp; Cromwell LLP公司,John Savva使用Codex来构建公司法律专业知识的工具。 协议分析器汇集了一份协议草案、一些先例和反映公司和客户立场的游戏本。 它确定了潜在的问题,并返回了备忘录和提议。</description>
+      <pubDate>Mon, 26 Oct 2026 20:06:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=crEHJon4iD4</guid>
+      <source url="https://www.youtube.com/watch?v=crEHJon4iD4">OpenAI</source>
+    </item>
+    <item>
+      <title>OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力</title>
+      <link>https://x.com/thsottiaux/status/2114800277677092936</link>
+      <description>作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。</description>
+      <pubDate>Mon, 26 Oct 2026 19:24:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2114800277677092936</guid>
+      <source url="https://x.com/thsottiaux/status/2114800277677092936">X：Tibo (@thsottiaux)</source>
+    </item>
+    <item>
+      <title>Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新</title>
+      <link>https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026</link>
+      <description>Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。</description>
+      <pubDate>Mon, 26 Oct 2026 19:14:26 +0000</pubDate>
+      <guid isPermaLink="true">https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026</guid>
+      <source url="https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026">Gamma Changelog</source>
+    </item>
+    <item>
+      <title>OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output</title>
+      <link>https://x.com/OpenRouter/status/2114791584755839168</link>
+      <description>OpenRouter 宣布 OpenAI 的 GPT-6.1 Terra 上线。该模型在 Agents' Last Exam 上与 GPT-6 Astra 得分相当，每 token 价格约为其十分之一，平均完成任务速度比 Astra 和 GPT-6.1 Sol 快 3 倍以上。定价 $1/M input、$5/M output，上下文 1.05M，链接 https://openrouter.ai/openai/gpt-6.1-terra 。</description>
+      <pubDate>Mon, 26 Oct 2026 18:49:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenRouter/status/2114791584755839168</guid>
+      <source url="https://x.com/OpenRouter/status/2114791584755839168">X：OpenRouter (@OpenRouter)</source>
+    </item>
+    <item>
+      <title>Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能</title>
+      <link>https://x.com/rohanpaul_ai/status/2114789264936534183</link>
+      <description>Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。</description>
+      <pubDate>Mon, 26 Oct 2026 18:40:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114789264936534183</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2114789264936534183">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>真实现实不会让人工智能特工 猪设计师服饰</title>
+      <link>https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</link>
+      <description>Real Real是二手奢侈时尚发货零售商,他表示正在更新其机器人防御系统,实际上使得人工智能特工在现场购物更加困难. The Verge报道说,人工智能特工可以被利用来利用"Real Real"的项目储备 sy的几天后,这一变化就发生了.</description>
+      <pubDate>Mon, 26 Oct 2026 13:30:55 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</guid>
+      <source url="https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic S-1 文件中的五个不寻常细节</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</link>
+      <description>The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。</description>
+      <pubDate>Mon, 26 Oct 2026 17:10:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%</title>
+      <link>https://epochai.substack.com/p/can-ai-automate-epoch</link>
+      <description>Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。</description>
+      <pubDate>Mon, 26 Oct 2026 16:33:24 +0000</pubDate>
+      <guid isPermaLink="true">https://epochai.substack.com/p/can-ai-automate-epoch</guid>
+      <source url="https://epochai.substack.com/p/can-ai-automate-epoch">Epoch AI：Gradient Updates（RSS）</source>
     </item>
     <item>
       <title>Krea 推出面向 Adobe Premiere 的插件</title>
@@ -70,102 +166,6 @@
       <pubDate>Mon, 26 Oct 2026 12:31:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/testingcatalog/status/2114696424021451174</guid>
       <source url="https://x.com/testingcatalog/status/2114696424021451174">X：Testing Catalog (@testingcatalog)</source>
-    </item>
-    <item>
-      <title>Meta 宣布至多 950 亿美元融资计划，为 AI 等业务筹集资金</title>
-      <link>https://www.ithome.com/1/018/144.htm</link>
-      <description>Meta 宣布总额至多 950 亿美元的融资计划，为企业核心业务和新兴 AI 领域提供资金，包括 225 亿美元 A 类普通股远期出售、125 亿美元强制可转换优先股，以及后续至多 600 亿美元的潜在 C 类普通股按市价发行。</description>
-      <pubDate>Mon, 26 Oct 2026 12:26:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/018/144.htm</guid>
-      <source url="https://www.ithome.com/1/018/144.htm">IT之家·人工智能</source>
-    </item>
-    <item>
-      <title>今年的 1024，可能是最后一个程序员节</title>
-      <link>http://www.geekpark.net/news/372944</link>
-      <description>作者｜Wildcard 编辑｜靖宇 今天一整天， X 上都有人在讨论，「1024 程序员节日快乐，今年会不会是最后一个程序员节了」。 这一天恰好是周六。微博上的话题叫「今年程序员节自带休息日」，配文说 AI 工具分担了重复编码，程序员终于能过一个不被紧急需求打断的节。 影石连续第五年给优秀程序员发黄金键帽，今年新增了一颗「F5」键，寓意不断刷新迭代。颁奖现场，一位年轻同事说了句玩笑话，「今年的黄金键帽，应该发给 AI」。 一家机构的节日推文写得更直白，「今年的程序员节，我们扩招了，会指挥 AI 做东西的，也算程序员」。 而在小红书上，有程序员在「古法编程时代」的标签下清理旧书，《图解 HTTP</description>
-      <pubDate>Mon, 26 Oct 2026 18:16:50 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372944</guid>
-      <source url="http://www.geekpark.net/news/372944">极客公园</source>
-    </item>
-    <item>
-      <title>Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5</title>
-      <link>http://www.geekpark.net/news/372943</link>
-      <description>作者｜宇航猿 编辑｜靖宇 10 月 23 日上午，Kimi 官方在 X 和视频号上发了一段 24 秒的视频。 画面里是一台复古风格的老式电脑，屏幕上开着 Kimi Code，终端里一行行地写着 Three.js 代码，在生成一个复杂的 3D 场景。眼尖的网友很快在左上角的模型栏里找到了答案&amp;mdash;&amp;mdash;「Model: Kimi K3.1」。 Kimi 官方发布的 K3.1 预热视频｜图片来源：X @Kimi_Moonshot 用一台老古董般的机器，跑一段今天最前沿的 3D 代码，这个反差本身就是月之暗面想说的话。 十几个小时后，10 月 24 日零点刚过，卡着程序员节，Kimi</description>
-      <pubDate>Mon, 26 Oct 2026 18:16:08 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372943</guid>
-      <source url="http://www.geekpark.net/news/372943">极客公园</source>
-    </item>
-    <item>
-      <title>地铁里的 AI 伪人广告，正在集体霸凌人类</title>
-      <link>https://www.ifanr.com/1685809?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>唯有诚意与创意不可辜负#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 26 Oct 2026 07:42:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1685809?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1685809?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备</title>
-      <link>https://x.com/Khazix0918/status/2114579883527655853</link>
-      <description>数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。</description>
-      <pubDate>Mon, 26 Oct 2026 04:48:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Khazix0918/status/2114579883527655853</guid>
-      <source url="https://x.com/Khazix0918/status/2114579883527655853">X：卡兹克 (@Khazix0918)</source>
-    </item>
-    <item>
-      <title>Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频</title>
-      <link>https://x.com/Kling_ai/status/2114574035468386746</link>
-      <description>Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。</description>
-      <pubDate>Mon, 26 Oct 2026 04:25:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Kling_ai/status/2114574035468386746</guid>
-      <source url="https://x.com/Kling_ai/status/2114574035468386746">X：可灵 Kling AI (@Kling_ai)</source>
-    </item>
-    <item>
-      <title>交易-知情领地设计:企业客户对客户分配的多目标决策系统</title>
-      <link>https://arxiv.org/abs/2610.31701</link>
-      <description>企业客户的旅程不仅取决于产品经验和营销,而且还取决于经常性的资源分配决定。</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.31701</guid>
-      <source url="https://arxiv.org/abs/2610.31701">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Phronix: 特工的能力-儿科学习范式</title>
-      <link>https://arxiv.org/abs/2610.31789</link>
-      <description>科学计算越来越依赖基于语言模型的大型物剂来完成诸如仪器、分析和工作流程移植等性能工程任务。 然而,物剂的有效性在很大程度上取决于周围的牵引力,而这种牵引力是type的。</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.31789</guid>
-      <source url="https://arxiv.org/abs/2610.31789">ArXiv AI</source>
-    </item>
-    <item>
-      <title>英语和普通话的赞助和屈尊语言检测</title>
-      <link>https://arxiv.org/abs/2610.31808</link>
-      <description>支持和屈尊的语言(PCL)是一种有害语言形式,它轻视弱势群体,并假定是怜悯的,强化了消极的社会定型观念。 然而,与公开的仇恨言论不同,往往很难发现,即使是对hu来说也是如此。</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.31808</guid>
-      <source url="https://arxiv.org/abs/2610.31808">ArXiv AI</source>
-    </item>
-    <item>
-      <title>PaperFormalizer: Lean研究论文自动正规化作者</title>
-      <link>https://arxiv.org/abs/2610.31810</link>
-      <description>即便仔细校对的论文也能在证据或所陈述的假设中留下小的空白。 我们引入了基于Lean的代理管道PaperFormalizer, 帮助作者在自己的论文中找到并弥补这些空白, 并将每张论文变成 Lean-v</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.31810</guid>
-      <source url="https://arxiv.org/abs/2610.31810">ArXiv AI</source>
-    </item>
-    <item>
-      <title>别忘了你刚刚学到的:自导自演的修补 将特务错误带入永恒的教训</title>
-      <link>https://arxiv.org/abs/2610.31846</link>
-      <description>聪明的代理人应该从自己的错误中吸取教训,从而让经验不断改善。 然而,今天的代理人只能暂时地从错误中恢复过来:在不同的会议中很容易忘记内在的反省,并争夺有限的康特。</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.31846</guid>
-      <source url="https://arxiv.org/abs/2610.31846">ArXiv AI</source>
-    </item>
-    <item>
-      <title>验证比较,而不仅仅是计分器:为什么总体准确性在交互式 LLM 评估中会出现错误</title>
-      <link>https://arxiv.org/abs/2610.31678</link>
-      <description>许多 LLM 研究比较模型如何响应不同的后续提示。 例如, 一个提示可能中立地要求模型重新考虑, 而另一个则坚持认为一个被发明的胶片真的存在。 差异被用来测量凸起的效果 。</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.31678</guid>
-      <source url="https://arxiv.org/abs/2610.31678">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
