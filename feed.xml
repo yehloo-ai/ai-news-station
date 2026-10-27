@@ -5,8 +5,152 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 02:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:42:49 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了</title>
+      <link>https://www.ifanr.com/1686080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>OpenAI 又卷起了大模型的性价比。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 27 Oct 2026 05:00:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1686080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1686080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>王的猜想，被 AI 一夜通关</title>
+      <link>https://www.ifanr.com/1686064?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI 已经开始陆续交卷了，但人类可能连阅卷都快来不及了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 27 Oct 2026 04:57:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1686064?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1686064?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>惯性闭合式激光脉冲形状设计反向建模</title>
+      <link>https://arxiv.org/abs/2610.33096</link>
+      <description>实际聚变能的实现仍然是最紧迫的未解决的科学挑战之一,对无碳能有着巨大影响。 惯性聚变(ICF)成功的一个关键因素是设计出激光器。</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33096</guid>
+      <source url="https://arxiv.org/abs/2610.33096">ArXiv AI</source>
+    </item>
+    <item>
+      <title>IRON-Meme:对在线Meme叙述中的身份和作用进行结构化理解的基准</title>
+      <link>https://arxiv.org/abs/2610.33097</link>
+      <description>随着两极分化在社交媒体上不断增长,理解政治元件如何塑造在线叙事已变得日益重要。 以往的研究要么依赖难以衡量的定性框架,要么依赖缺乏计算方法的计算方法。</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33097</guid>
+      <source url="https://arxiv.org/abs/2610.33097">ArXiv AI</source>
+    </item>
+    <item>
+      <title>大语言模型中的前景论:对损失反感、分散敏感度和概率加权的元分析</title>
+      <link>https://arxiv.org/abs/2610.33103</link>
+      <description>前景论将风险选择分为三个部分:损失厌恶,以损失与收益的相对权重衡量;美元/拉姆达(例如:美元/拉姆达=2美元意味着损失比收益重一倍);降低对结果大小的敏感性(</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33103</guid>
+      <source url="https://arxiv.org/abs/2610.33103">ArXiv AI</source>
+    </item>
+    <item>
+      <title>机械工程的人工智能:基础、机会、挑战和职责</title>
+      <link>https://arxiv.org/abs/2610.33105</link>
+      <description>人工智能(英语:Artifical intelligence)正在重塑机械工程(ME),从建模,模拟,优化到诊断,设计,技术交流. 借鉴了第28届ABCM国际机械工程大会的圆桌会议.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33105</guid>
+      <source url="https://arxiv.org/abs/2610.33105">ArXiv AI</source>
+    </item>
+    <item>
+      <title>作为分配的合规性:代表团合同、误差预算以及基于使用的人工智能条例中评价管理局的分配</title>
+      <link>https://arxiv.org/abs/2610.33112</link>
+      <description>基于使用的人工智能条例通过部署风险来指定义务,但缺乏携带义务的证据对象。 基准分数是模型的财产;部署的合规性是在已宣布的上下文分布下的一种失败率,以b为限。</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33112</guid>
+      <source url="https://arxiv.org/abs/2610.33112">ArXiv AI</source>
+    </item>
+    <item>
+      <title>室内无线电地图估算协作文字学习</title>
+      <link>https://arxiv.org/abs/2610.31702</link>
+      <description>室内无线电地图估计(RME)对于覆盖规划、本地化和网络部署等无线应用至关重要。 但是,大多数现有方法都遵循一种监督的学习模式,这需要代价高昂的贴有标签的数据和任务sp。</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31702</guid>
+      <source url="https://arxiv.org/abs/2610.31702">ArXiv ML</source>
+    </item>
+    <item>
+      <title>NDE 4.0之路:对自动检查的算法、技术和战略的审查</title>
+      <link>https://arxiv.org/abs/2610.31704</link>
+      <description>非破坏性检查(NDI)是现代质量保证的基石,对于确保基础设施和制造部件的安全和可靠性而不造成损害至关重要。</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31704</guid>
+      <source url="https://arxiv.org/abs/2610.31704">ArXiv ML</source>
+    </item>
+    <item>
+      <title>LeWorld Model 保存了本地动作几何吗 ?</title>
+      <link>https://arxiv.org/abs/2610.31716</link>
+      <description>我们研究了LeWorld Model(LeWM)如何紧密地复制小动作变化的效果。我们利用匹配的模拟和模型反应,以三个扰动尺度测量格莱姆矩阵对动作的敏感性。</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31716</guid>
+      <source url="https://arxiv.org/abs/2610.31716">ArXiv ML</source>
+    </item>
+    <item>
+      <title>建立金融犯罪分析多图神经网络</title>
+      <link>https://arxiv.org/abs/2610.31718</link>
+      <description>金融交易网络自然以多图的形式出现,在同一对账户之间的重复交易被模拟为明显的边缘。 最近提出的多图神经网络架构利用了这一结构</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31718</guid>
+      <source url="https://arxiv.org/abs/2610.31718">ArXiv ML</source>
+    </item>
+    <item>
+      <title>物理-成型优化的末端至末端可分化分化条件</title>
+      <link>https://arxiv.org/abs/2610.31721</link>
+      <description>在昂贵的评价和复杂的制约下,优化高维物理系统是科学和工程的一个中心挑战。 在离线模型优化(MBO)中,方法必须仅使用固定数据集和n改进设计。</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31721</guid>
+      <source url="https://arxiv.org/abs/2610.31721">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Whispering Wisely: Smart Subset 选择 ASR 精细图解</title>
+      <link>https://arxiv.org/abs/2610.32997</link>
+      <description>OpenAIs Whisper 等自动语音识别(ASR)模式大大提高了语音识别质量,但对于微调来说仍然很昂贵,特别是在有大量转录音频可用的情况下。</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.32997</guid>
+      <source url="https://arxiv.org/abs/2610.32997">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>从写作建议到手稿治理:学术修订的约束-转换框架</title>
+      <link>https://arxiv.org/abs/2610.33001</link>
+      <description>在合法写作目标发生冲突时,学术修订提出了治理问题。 写作过程和社会科学研究显示,修订是递归性的,其措辞带有感官和纪律承诺。</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33001</guid>
+      <source url="https://arxiv.org/abs/2610.33001">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>对历史文件译文的OCR系统进行知情评价</title>
+      <link>https://arxiv.org/abs/2610.33004</link>
+      <description>光学字符识别(OCR)对于历史档案数字化至关重要,然而,字符错误率(CER)等标准评价指标并不一定反映姓名、日期和识别符号等有意义的信息是否</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33004</guid>
+      <source url="https://arxiv.org/abs/2610.33004">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>OpenESM: 能源- 钢模是可扩展的基金会学习者</title>
+      <link>https://arxiv.org/abs/2610.33005</link>
+      <description>基于能源的模型对特定领域的任务显示出了有希望的特性,但在建立通用情景模型方面仍然具有挑战性。 为了弥补这一差距,我们设计了用于基础语言模型的能源化模型。 无害环境管理集成于一体。</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33005</guid>
+      <source url="https://arxiv.org/abs/2610.33005">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>带有国家空间编码的线性- 时间背景压缩</title>
+      <link>https://arxiv.org/abs/2610.33006</link>
+      <description>基于Transformer的大型语言模型(LLMS)随着上下文大小的增大而造成了大量的计算和内存成本,激发出在推论前将上下文压缩为更短表示的方法. 现有的软即时压缩方法.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33006</guid>
+      <source url="https://arxiv.org/abs/2610.33006">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会</title>
+      <link>https://www.qbitai.com/2026/10/505580.html</link>
+      <description>10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。</description>
+      <pubDate>Tue, 27 Oct 2026 03:23:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505580.html</guid>
+      <source url="https://www.qbitai.com/2026/10/505580.html">量子位</source>
+    </item>
     <item>
       <title>Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节</title>
       <link>https://x.com/Khazix0918/status/2114878401190506902</link>
@@ -16,156 +160,12 @@
       <source url="https://x.com/Khazix0918/status/2114878401190506902">X：卡兹克 (@Khazix0918)</source>
     </item>
     <item>
-      <title>早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营</title>
-      <link>https://www.ifanr.com/1685979?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 · 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil · 华为畅享系列累计发货突破 1.6 亿台#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 27 Oct 2026 00:06:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1685979?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1685979?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687831&amp;idx=1&amp;sn=6502cb593318d6e324e29d278fae4fcc</link>
-      <description>作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。</description>
-      <pubDate>Tue, 27 Oct 2026 00:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687831&amp;idx=1&amp;sn=6502cb593318d6e324e29d278fae4fcc</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687831&amp;idx=1&amp;sn=6502cb593318d6e324e29d278fae4fcc">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论</title>
-      <link>https://www.ithome.com/1/018/203.htm</link>
-      <description>OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。</description>
-      <pubDate>Mon, 26 Oct 2026 23:37:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/018/203.htm</guid>
-      <source url="https://www.ithome.com/1/018/203.htm">IT之家·人工智能</source>
-    </item>
-    <item>
-      <title>OpenAI 宣布三大科学发现和与学者合作的新方式</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</link>
-      <description>OpenAI在大量发布数百份手稿后不到一个月,这些手稿中包含着对长期存在的数学问题的解决方案。 OpenAI在数学、计算机科学和物理学方面又有了3个“主要”发现。 这次的区别在于选择外部专家。</description>
-      <pubDate>Mon, 26 Oct 2026 19:34:58 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics">The Verge AI</source>
-    </item>
-    <item>
-      <title>Amp 将人工智能特工与 OpenAI 模型进行超越密码的工作</title>
-      <link>https://www.youtube.com/watch?v=zUybw-9ejZ4</link>
-      <description>Amp正在构建一个人工智能代理,帮助开发者将想法转化为工作软件,从决定构建到写入代码到登入客户. Sign in with ChatGPT让Amp的用户可以获取更多用于较大任务的符号,而Amp的谈话助理Puck则使用GPT_Live_1帮助我们.</description>
-      <pubDate>Mon, 26 Oct 2026 22:03:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=zUybw-9ejZ4</guid>
-      <source url="https://www.youtube.com/watch?v=zUybw-9ejZ4">OpenAI</source>
-    </item>
-    <item>
-      <title>使用 ChatGPT 插件为代理三重签名堆叠过量流量</title>
-      <link>https://www.youtube.com/watch?v=8fp-G14hvUk</link>
-      <description>Stack Overflow正在构建一个知识智能平台,将分散在工作场所工具上的信息转化为对人和人工智能特工的可验证知识。 公司最新产品Stack Overflow for Agents由两名工程师在几周内使用代码从地上建造。</description>
-      <pubDate>Mon, 26 Oct 2026 22:03:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=8fp-G14hvUk</guid>
-      <source url="https://www.youtube.com/watch?v=8fp-G14hvUk">OpenAI</source>
-    </item>
-    <item>
-      <title>希格斯菲尔德从1分钟到10分钟的人工智能视频</title>
-      <link>https://www.youtube.com/watch?v=inrYeej3Big</link>
-      <description>Higgsfield正在建立一个人工智能视频和图像创建平台,帮助创作者和小团队制作从教学视频到时尚运动的一切内容。随着GPT-6 Astra,公司从大约一分钟长的视频创建到十分钟多的视频创建。GPT-Image-2.5帮助了busi。</description>
-      <pubDate>Mon, 26 Oct 2026 22:03:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=inrYeej3Big</guid>
-      <source url="https://www.youtube.com/watch?v=inrYeej3Big">OpenAI</source>
-    </item>
-    <item>
-      <title>Anthropic正在燃烧气体 以养活人工智能的繁荣</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</link>
-      <description>在准备公开之际,Anthropic的S-1备案使基因人工智能对甲烷的依赖性明显地显现出来。 “获得电力供应和数据中心位置并有足够的电力的竞争非常激烈。” 在提交给美国证券交易委员会Monda的文件里,</description>
-      <pubDate>Mon, 26 Oct 2026 17:45:31 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk">The Verge AI</source>
-    </item>
-    <item>
-      <title>Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人</title>
-      <link>https://x.com/gdb/status/2114814747254432243</link>
-      <description>Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。</description>
-      <pubDate>Mon, 26 Oct 2026 20:21:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gdb/status/2114814747254432243</guid>
-      <source url="https://x.com/gdb/status/2114814747254432243">X：Greg Brockman (@gdb)</source>
-    </item>
-    <item>
-      <title>Sullivan &amp; Cromwell 如何用 Codex QQ OpenAI 构建法律工具</title>
-      <link>https://www.youtube.com/watch?v=crEHJon4iD4</link>
-      <description>在Sullivan &amp; Cromwell LLP公司,John Savva使用Codex来构建公司法律专业知识的工具。 协议分析器汇集了一份协议草案、一些先例和反映公司和客户立场的游戏本。 它确定了潜在的问题,并返回了备忘录和提议。</description>
-      <pubDate>Mon, 26 Oct 2026 20:06:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=crEHJon4iD4</guid>
-      <source url="https://www.youtube.com/watch?v=crEHJon4iD4">OpenAI</source>
-    </item>
-    <item>
-      <title>OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力</title>
-      <link>https://x.com/thsottiaux/status/2114800277677092936</link>
-      <description>作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。</description>
-      <pubDate>Mon, 26 Oct 2026 19:24:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2114800277677092936</guid>
-      <source url="https://x.com/thsottiaux/status/2114800277677092936">X：Tibo (@thsottiaux)</source>
-    </item>
-    <item>
-      <title>Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新</title>
-      <link>https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026</link>
-      <description>Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。</description>
-      <pubDate>Mon, 26 Oct 2026 19:14:26 +0000</pubDate>
-      <guid isPermaLink="true">https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026</guid>
-      <source url="https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026">Gamma Changelog</source>
-    </item>
-    <item>
-      <title>OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output</title>
-      <link>https://x.com/OpenRouter/status/2114791584755839168</link>
-      <description>OpenRouter 宣布 OpenAI 的 GPT-6.1 Terra 上线。该模型在 Agents' Last Exam 上与 GPT-6 Astra 得分相当，每 token 价格约为其十分之一，平均完成任务速度比 Astra 和 GPT-6.1 Sol 快 3 倍以上。定价 $1/M input、$5/M output，上下文 1.05M，链接 https://openrouter.ai/openai/gpt-6.1-terra 。</description>
-      <pubDate>Mon, 26 Oct 2026 18:49:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenRouter/status/2114791584755839168</guid>
-      <source url="https://x.com/OpenRouter/status/2114791584755839168">X：OpenRouter (@OpenRouter)</source>
-    </item>
-    <item>
-      <title>Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能</title>
-      <link>https://x.com/rohanpaul_ai/status/2114789264936534183</link>
-      <description>Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。</description>
-      <pubDate>Mon, 26 Oct 2026 18:40:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2114789264936534183</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2114789264936534183">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>真实现实不会让人工智能特工 猪设计师服饰</title>
-      <link>https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</link>
-      <description>Real Real是二手奢侈时尚发货零售商,他表示正在更新其机器人防御系统,实际上使得人工智能特工在现场购物更加困难. The Verge报道说,人工智能特工可以被利用来利用"Real Real"的项目储备 sy的几天后,这一变化就发生了.</description>
-      <pubDate>Mon, 26 Oct 2026 13:30:55 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</guid>
-      <source url="https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal">The Verge AI</source>
-    </item>
-    <item>
-      <title>Anthropic S-1 文件中的五个不寻常细节</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</link>
-      <description>The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。</description>
-      <pubDate>Mon, 26 Oct 2026 17:10:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details">The Verge：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%</title>
-      <link>https://epochai.substack.com/p/can-ai-automate-epoch</link>
-      <description>Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。</description>
-      <pubDate>Mon, 26 Oct 2026 16:33:24 +0000</pubDate>
-      <guid isPermaLink="true">https://epochai.substack.com/p/can-ai-automate-epoch</guid>
-      <source url="https://epochai.substack.com/p/can-ai-automate-epoch">Epoch AI：Gradient Updates（RSS）</source>
-    </item>
-    <item>
-      <title>Krea 推出面向 Adobe Premiere 的插件</title>
-      <link>https://x.com/krea_ai/status/2114741513867395527</link>
-      <description>Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。</description>
-      <pubDate>Mon, 26 Oct 2026 15:30:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/krea_ai/status/2114741513867395527</guid>
-      <source url="https://x.com/krea_ai/status/2114741513867395527">X：Krea AI (@krea_ai)</source>
-    </item>
-    <item>
-      <title>Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行</title>
-      <link>https://x.com/UnslothAI/status/2114730104228286936</link>
-      <description>Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 150GB 内存上本地运行，1-bit 版约 89.9%，4-bit UD-Q4_K_XL 达 98.0%。作者称其为同尺寸最强开源模型之一，并给出 Hugging Face 权重链接与本地运行指南。</description>
-      <pubDate>Mon, 26 Oct 2026 14:45:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/UnslothAI/status/2114730104228286936</guid>
-      <source url="https://x.com/UnslothAI/status/2114730104228286936">X：Unsloth (@UnslothAI)</source>
+      <title>苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372952</link>
+      <description>Anthropic 公开递交纳斯达克 IPO 申请：目标 11 月 16 日当周上市 Anthropic 正式踏上上市之路。这家成立仅五年、身处生成式 AI 浪潮核心的企业，本次 IPO 有望创下历史纪录。 Anthropic 在提交给美国证券交易委员会（SEC）的文件中披露，计划登陆纳斯达克交易所，股票代码定为「ANT」，目标在 11 月 16 日当周进行 IPO。该公司将设立 T 类特殊股票，供 T 类董事持有。 在招股书中，该公司披露，上半年营收 162.9 亿美元，上年同期为 11.6 亿美元；净亏损 807.5 亿美元，上年同期为 129.7 亿美元；营业亏损 6.93 亿美元，上年</description>
+      <pubDate>Tue, 27 Oct 2026 08:26:51 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372952</guid>
+      <source url="http://www.geekpark.net/news/372952">极客公园</source>
     </item>
   </channel>
 </rss>
