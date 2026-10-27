@@ -5,8 +5,112 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:22:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 20:02:07 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Azeem Azhar 图解 Anthropic S-1 财务数据</title>
+      <link>https://www.exponentialview.co/p/anthropics-s-1-in-charts</link>
+      <description>Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。</description>
+      <pubDate>Tue, 27 Oct 2026 17:31:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.exponentialview.co/p/anthropics-s-1-in-charts</guid>
+      <source url="https://www.exponentialview.co/p/anthropics-s-1-in-charts">Azeem Azhar：Exponential View（RSS）</source>
+    </item>
+    <item>
+      <title>当人工智能真的失控时会发生什么</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai</link>
+      <description>在Marvel's VisionQuest中,一个超级有动力的机器人试图通过迷失在精心制作的数码白日梦中来更好地了解人类,在这个梦中,他和其他拥有人工智能的生物一起生活在一个家庭里。 系列非常奇幻,然而它却和后来的一些想法一起演奏。</description>
+      <pubDate>Tue, 27 Oct 2026 13:30:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</link>
+      <description>Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。</description>
+      <pubDate>Tue, 27 Oct 2026 16:51:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>LangChain 解析自研设计 agent Content Studio 并开源其 harness</title>
+      <link>https://www.langchain.com/blog/design-agent</link>
+      <description>LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。</description>
+      <pubDate>Tue, 27 Oct 2026 16:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.langchain.com/blog/design-agent</guid>
+      <source url="https://www.langchain.com/blog/design-agent">LangChain：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Firefox 的智能窗口添加人工智能表填充和网页监控</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms</link>
+      <description>Mozilla正在更新 Smart Window - Firefox 的人工智能驱动浏览体验, 其新功能可以帮助您根据打开的标签填写在线表格。 例如, Mozilla 说 Smart Window 可以从您的在线组合或 LinkedIn 页面中提取信息来粘贴您的工作历史</description>
+      <pubDate>Tue, 27 Oct 2026 12:14:18 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms">The Verge AI</source>
+    </item>
+    <item>
+      <title>Google DeepMind 发布实时交互世界模型 Genie 4</title>
+      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
+      <description>Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。</description>
+      <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
+      <guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
+      <source url="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">Google DeepMind：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Genie 4: 新一代的世界模拟</title>
+      <link>https://www.youtube.com/watch?v=sFfPkUJd_Jk</link>
+      <description>Google DeepMind最现实和互动的世界模型至今尚未建立。 Genie 4让我们在双子座模型上实时踏入动态世界,用自然语言引导苍蝇上的场景,并观察接下来会发生什么:世界如何回应,声音如何,人民如何</description>
+      <pubDate>Tue, 27 Oct 2026 16:00:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=sFfPkUJd_Jk</guid>
+      <source url="https://www.youtube.com/watch?v=sFfPkUJd_Jk">DeepMind</source>
+    </item>
+    <item>
+      <title>Google的下一个Genie人工智能模型产生更现实的经验</title>
+      <link>https://www.theverge.com/tech/1019076/google-genie-4-ai-model</link>
+      <description>Google今天宣布了Genie 4使用人工智能生成互动体验的世界模式,公司表示该模式有四个主要更新:它允许更现实的世界,让用户用自然语言的提示实时更新一个体验,可以生成音频,并使用双子座3.8.</description>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1019076/google-genie-4-ai-model</guid>
+      <source url="https://www.theverge.com/tech/1019076/google-genie-4-ai-model">The Verge AI</source>
+    </item>
+    <item>
+      <title>律师留在控制中心 AT&amp;T + OpenAI</title>
+      <link>https://www.youtube.com/shorts/Yim7JrVzSkk</link>
+      <description>AT&amp;T的David McAte和Bill Ryan讨论了人工智能如何支持法律工作,而律师仍然负责战略、判决和决定。</description>
+      <pubDate>Tue, 27 Oct 2026 15:40:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/Yim7JrVzSkk</guid>
+      <source url="https://www.youtube.com/shorts/Yim7JrVzSkk">OpenAI</source>
+    </item>
+    <item>
+      <title>Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR</title>
+      <link>https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase</link>
+      <description>Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。</description>
+      <pubDate>Tue, 27 Oct 2026 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase</guid>
+      <source url="https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase">Replit：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>以 Codex + Mitchell Hashimoto 开头</title>
+      <link>https://www.youtube.com/watch?v=lPZQrVFcz3c</link>
+      <description>“总的要点是我想打地上。 ”桥科普联合创始人Mitchell Hashimoto通过派Codex代理人员工作来结束他的一天。 他们研究竞争,比较他仍在工作的工具和原型特征,让他在第二天的工作开始前行。</description>
+      <pubDate>Tue, 27 Oct 2026 15:04:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=lPZQrVFcz3c</guid>
+      <source url="https://www.youtube.com/watch?v=lPZQrVFcz3c">OpenAI</source>
+    </item>
+    <item>
+      <title>从思想到带有 Codex 的原型 — — Shopify 的Mikhail Parakhin</title>
+      <link>https://www.youtube.com/watch?v=cflbzHRvGvg</link>
+      <description>“如果你有一个想法,马上带一个原型。 ”对于Shofify CTO Mikhail Parakhin来说,Codex正在改变他的团队带给会议的东西。 从授权任务到探索建筑选择,他正在使用Codex来承担他以前无法完成的工作。 与Codex Orig的建筑师之一Mikhail会面。</description>
+      <pubDate>Tue, 27 Oct 2026 15:03:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=cflbzHRvGvg</guid>
+      <source url="https://www.youtube.com/watch?v=cflbzHRvGvg">OpenAI</source>
+    </item>
+    <item>
+      <title>索提拉如何给未售出的清单 与 Codex 的第二人生</title>
+      <link>https://www.youtube.com/watch?v=C2vdw5GSTQo</link>
+      <description>在索蒂拉,Amrita Bhasin使用Codex将未售出的产品与有需要的人连接起来,帮助将数百万磅的库存从垃圾填埋场中清除出来。见见Amrita, Codex Originals的建筑商之一。用Codex建造吗? 分享你的故事:htttt</description>
+      <pubDate>Tue, 27 Oct 2026 15:02:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=C2vdw5GSTQo</guid>
+      <source url="https://www.youtube.com/watch?v=C2vdw5GSTQo">OpenAI</source>
+    </item>
     <item>
       <title>Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态</title>
       <link>https://www.a16z.news/p/databricks-and-the-future-of-the</link>
@@ -22,22 +126,6 @@
       <pubDate>Tue, 27 Oct 2026 09:50:51 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</guid>
       <source url="https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update">The Verge AI</source>
-    </item>
-    <item>
-      <title>为什么网络安全需要人工智能? 思科的Jeetu Patel</title>
-      <link>https://www.youtube.com/shorts/tFmlEKQkZi0</link>
-      <description>“你必须使用人工智能,这是保持安全的先决条件。” 攻击者可以以机器的速度行动。 捍卫者需要安全控制,能够同样迅速地适应。 思科公司总裁杰图·帕特尔解释了OpenAI为什么成为这项工作的核心基础。 拥有诸如Daybreak和As等能力。</description>
-      <pubDate>Tue, 27 Oct 2026 12:49:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/tFmlEKQkZi0</guid>
-      <source url="https://www.youtube.com/shorts/tFmlEKQkZi0">OpenAI</source>
-    </item>
-    <item>
-      <title>为什么网络安全需要人工智能? 思科的Jeetu Patel</title>
-      <link>https://www.youtube.com/watch?v=0qb0FQo3M5c</link>
-      <description>“你必须使用人工智能,这是保持安全的先决条件。” 攻击者可以以机器的速度行动。 捍卫者需要安全控制,能够同样迅速地适应。 思科公司总裁杰图·帕特尔解释了OpenAI为什么成为这项工作的核心基础。 拥有诸如Daybreak和As等能力。</description>
-      <pubDate>Tue, 27 Oct 2026 12:45:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=0qb0FQo3M5c</guid>
-      <source url="https://www.youtube.com/watch?v=0qb0FQo3M5c">OpenAI</source>
     </item>
     <item>
       <title>OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明</title>
@@ -64,108 +152,20 @@
       <source url="http://www.geekpark.net/news/373002">极客公园</source>
     </item>
     <item>
+      <title>Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定</title>
+      <link>https://allenai.org/blog/novelty-bench</link>
+      <description>Ai2 发布研究 Old Ideas, Novel Problems、配套 benchmark、数据、代码和自动化流水线，测试 LLM 作为研究想法新颖性裁判的可靠性。</description>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://allenai.org/blog/novelty-bench</guid>
+      <source url="https://allenai.org/blog/novelty-bench">Ai2 / Allen Institute for AI（RSS）</source>
+    </item>
+    <item>
       <title>左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场</title>
       <link>http://www.geekpark.net/news/372939</link>
       <description>作者｜Cynthia 编辑｜郑玄 2026 年的 AI 3D 赛道，正站在一个微妙的分水岭上。 一级市场的热度仍在攀升，新模型、新创业公司层出不穷，单图生 3D 的正面渲染效果几乎已经做到了以假乱真。 但剥开炫目的 Demo 外壳：绝大多数生成结果依然停留在「转台展示」阶段：一个精致的角色或机械模型，在灯光下缓缓旋转，鳞片、衣褶和金属刻纹栩栩如生；可这些细节一旦进入游戏引擎装配、工业仿真以及 3D 打印的真实生产流程就立刻原形毕现：结构断裂、背面崩坏、细节粘连、网格不可编辑等问题开始集中爆发，大量人工修补成本吞噬了 AI 带来的效率红利。 正面视图保真度不等于 3D 质量成为新的行业共识。AI</description>
       <pubDate>Tue, 27 Oct 2026 15:59:20 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/372939</guid>
       <source url="http://www.geekpark.net/news/372939">极客公园</source>
-    </item>
-    <item>
-      <title>Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元</title>
-      <link>https://latent.space/p/ainews-anthropic-s1/</link>
-      <description>Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。</description>
-      <pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
-      <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
-      <source url="https://latent.space/p/ainews-anthropic-s1/">Latent Space（RSS）</source>
-    </item>
-    <item>
-      <title>刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了</title>
-      <link>https://www.ifanr.com/1686080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>OpenAI 又卷起了大模型的性价比。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 27 Oct 2026 05:00:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1686080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1686080?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>王的猜想，被 AI 一夜通关</title>
-      <link>https://www.ifanr.com/1686064?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI 已经开始陆续交卷了，但人类可能连阅卷都快来不及了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 27 Oct 2026 04:57:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1686064?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1686064?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>惯性闭合式激光脉冲形状设计反向建模</title>
-      <link>https://arxiv.org/abs/2610.33096</link>
-      <description>实际聚变能的实现仍然是最紧迫的未解决的科学挑战之一,对无碳能有着巨大影响。 惯性聚变(ICF)成功的一个关键因素是设计出激光器。</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33096</guid>
-      <source url="https://arxiv.org/abs/2610.33096">ArXiv AI</source>
-    </item>
-    <item>
-      <title>IRON-Meme:对在线Meme叙述中的身份和作用进行结构化理解的基准</title>
-      <link>https://arxiv.org/abs/2610.33097</link>
-      <description>随着两极分化在社交媒体上不断增长,理解政治元件如何塑造在线叙事已变得日益重要。 以往的研究要么依赖难以衡量的定性框架,要么依赖缺乏计算方法的计算方法。</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33097</guid>
-      <source url="https://arxiv.org/abs/2610.33097">ArXiv AI</source>
-    </item>
-    <item>
-      <title>大语言模型中的前景论:对损失反感、分散敏感度和概率加权的元分析</title>
-      <link>https://arxiv.org/abs/2610.33103</link>
-      <description>前景论将风险选择分为三个部分:损失厌恶,以损失与收益的相对权重衡量;美元/拉姆达(例如:美元/拉姆达=2美元意味着损失比收益重一倍);降低对结果大小的敏感性(</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33103</guid>
-      <source url="https://arxiv.org/abs/2610.33103">ArXiv AI</source>
-    </item>
-    <item>
-      <title>机械工程的人工智能:基础、机会、挑战和职责</title>
-      <link>https://arxiv.org/abs/2610.33105</link>
-      <description>人工智能(英语:Artifical intelligence)正在重塑机械工程(ME),从建模,模拟,优化到诊断,设计,技术交流. 借鉴了第28届ABCM国际机械工程大会的圆桌会议.</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33105</guid>
-      <source url="https://arxiv.org/abs/2610.33105">ArXiv AI</source>
-    </item>
-    <item>
-      <title>作为分配的合规性:代表团合同、误差预算以及基于使用的人工智能条例中评价管理局的分配</title>
-      <link>https://arxiv.org/abs/2610.33112</link>
-      <description>基于使用的人工智能条例通过部署风险来指定义务,但缺乏携带义务的证据对象。 基准分数是模型的财产;部署的合规性是在已宣布的上下文分布下的一种失败率,以b为限。</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33112</guid>
-      <source url="https://arxiv.org/abs/2610.33112">ArXiv AI</source>
-    </item>
-    <item>
-      <title>室内无线电地图估算协作文字学习</title>
-      <link>https://arxiv.org/abs/2610.31702</link>
-      <description>室内无线电地图估计(RME)对于覆盖规划、本地化和网络部署等无线应用至关重要。 但是,大多数现有方法都遵循一种监督的学习模式,这需要代价高昂的贴有标签的数据和任务sp。</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.31702</guid>
-      <source url="https://arxiv.org/abs/2610.31702">ArXiv ML</source>
-    </item>
-    <item>
-      <title>NDE 4.0之路:对自动检查的算法、技术和战略的审查</title>
-      <link>https://arxiv.org/abs/2610.31704</link>
-      <description>非破坏性检查(NDI)是现代质量保证的基石,对于确保基础设施和制造部件的安全和可靠性而不造成损害至关重要。</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.31704</guid>
-      <source url="https://arxiv.org/abs/2610.31704">ArXiv ML</source>
-    </item>
-    <item>
-      <title>LeWorld Model 保存了本地动作几何吗 ?</title>
-      <link>https://arxiv.org/abs/2610.31716</link>
-      <description>我们研究了LeWorld Model(LeWM)如何紧密地复制小动作变化的效果。我们利用匹配的模拟和模型反应,以三个扰动尺度测量格莱姆矩阵对动作的敏感性。</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.31716</guid>
-      <source url="https://arxiv.org/abs/2610.31716">ArXiv ML</source>
-    </item>
-    <item>
-      <title>建立金融犯罪分析多图神经网络</title>
-      <link>https://arxiv.org/abs/2610.31718</link>
-      <description>金融交易网络自然以多图的形式出现,在同一对账户之间的重复交易被模拟为明显的边缘。 最近提出的多图神经网络架构利用了这一结构</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.31718</guid>
-      <source url="https://arxiv.org/abs/2610.31718">ArXiv ML</source>
     </item>
   </channel>
 </rss>
