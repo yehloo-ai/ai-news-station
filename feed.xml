@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 20:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:44:13 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来</title>
+      <link>https://www.ifanr.com/1686234?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI 的下一个目标是模拟现实#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 27 Oct 2026 22:37:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1686234?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1686234?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>研究人员已经厌倦了OpenAI 守住它的突破</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics</link>
+      <description>周一,OpenAI宣布在数学、计算机科学和物理领域取得了令人印象深刻的突破,同时公司也说这是一种不断演变的传播其发现的方法。 但是,尽管其明显的方向校正,与The Verge交谈的研究人员却越来越厌倦了</description>
+      <pubDate>Tue, 27 Oct 2026 16:48:58 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics">The Verge AI</source>
+    </item>
+    <item>
+      <title>Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成</title>
+      <link>https://x.com/GeminiApp/status/2115171788812669225</link>
+      <description>Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。</description>
+      <pubDate>Tue, 27 Oct 2026 20:00:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GeminiApp/status/2115171788812669225</guid>
+      <source url="https://x.com/GeminiApp/status/2115171788812669225">X：Gemini (@GeminiApp)</source>
+    </item>
     <item>
       <title>Azeem Azhar 图解 Anthropic S-1 财务数据</title>
       <link>https://www.exponentialview.co/p/anthropics-s-1-in-charts</link>
@@ -142,30 +166,6 @@
       <pubDate>Tue, 27 Oct 2026 16:46:19 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/373003</guid>
       <source url="http://www.geekpark.net/news/373003">极客公园</source>
-    </item>
-    <item>
-      <title>帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状</title>
-      <link>http://www.geekpark.net/news/373002</link>
-      <description>Shopify AI 交易订单增长了 13 倍。 10 月 16 日清晨，苹果第一款折叠屏手机 iPhone Duo 开启预购。1999 美元起售，首批产能紧张，没过多久交付日期就排到了明年 1 月。 这一次抢首发的，不只是守在屏幕前的人。 今年 Agent 成为 iPhone Duo 黄牛最严厉的父亲｜图片来源：Apple 在 MacRumors 论坛上，一位没抢到的用户愤愤不平地吐槽，Reddit 上有人在炫耀自己设置的 Muse 机器人一口气拿下了好几台，真人还没来得及点，库存就被 AI 扫走了。 Muse 是 Meta 在 9 月 8 日推出的个人 Agent，上线后一度登顶美区 Ap</description>
-      <pubDate>Tue, 27 Oct 2026 16:42:40 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373002</guid>
-      <source url="http://www.geekpark.net/news/373002">极客公园</source>
-    </item>
-    <item>
-      <title>Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定</title>
-      <link>https://allenai.org/blog/novelty-bench</link>
-      <description>Ai2 发布研究 Old Ideas, Novel Problems、配套 benchmark、数据、代码和自动化流水线，测试 LLM 作为研究想法新颖性裁判的可靠性。</description>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://allenai.org/blog/novelty-bench</guid>
-      <source url="https://allenai.org/blog/novelty-bench">Ai2 / Allen Institute for AI（RSS）</source>
-    </item>
-    <item>
-      <title>左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场</title>
-      <link>http://www.geekpark.net/news/372939</link>
-      <description>作者｜Cynthia 编辑｜郑玄 2026 年的 AI 3D 赛道，正站在一个微妙的分水岭上。 一级市场的热度仍在攀升，新模型、新创业公司层出不穷，单图生 3D 的正面渲染效果几乎已经做到了以假乱真。 但剥开炫目的 Demo 外壳：绝大多数生成结果依然停留在「转台展示」阶段：一个精致的角色或机械模型，在灯光下缓缓旋转，鳞片、衣褶和金属刻纹栩栩如生；可这些细节一旦进入游戏引擎装配、工业仿真以及 3D 打印的真实生产流程就立刻原形毕现：结构断裂、背面崩坏、细节粘连、网格不可编辑等问题开始集中爆发，大量人工修补成本吞噬了 AI 带来的效率红利。 正面视图保真度不等于 3D 质量成为新的行业共识。AI</description>
-      <pubDate>Tue, 27 Oct 2026 15:59:20 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372939</guid>
-      <source url="http://www.geekpark.net/news/372939">极客公园</source>
     </item>
   </channel>
 </rss>
