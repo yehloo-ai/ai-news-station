@@ -798,5 +798,13 @@
     "sourceUrl": "https://x.com/MiniMax_AI/status/2113436864904610008",
     "sourceName": "X：MiniMax (@MiniMax_AI)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+    "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
+    "sourceUrl": "https://x.com/thsottiaux/status/2114800277677092936",
+    "sourceName": "X：Tibo (@thsottiaux)",
+    "reviewReason": "awaiting-review"
   }
 ]
