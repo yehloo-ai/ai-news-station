@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:44:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:28:18 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来</title>
-      <link>https://www.ifanr.com/1686234?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI 的下一个目标是模拟现实#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 27 Oct 2026 22:37:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1686234?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1686234?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>数起"班达":关于测量人工智能节省的时间</title>
+      <link>https://arxiv.org/abs/2610.35942</link>
+      <description>我认为人工智能帮助节省时间意味着什么。我对比了停看的视角,无论钟表记录什么,所节省的时间是什么,还有分类账的视角,它是一个反事实,必须在工作所经历的错误旁边读取,a</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.35942</guid>
+      <source url="https://arxiv.org/abs/2610.35942">ArXiv AI</source>
     </item>
     <item>
-      <title>研究人员已经厌倦了OpenAI 守住它的突破</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics</link>
-      <description>周一,OpenAI宣布在数学、计算机科学和物理领域取得了令人印象深刻的突破,同时公司也说这是一种不断演变的传播其发现的方法。 但是,尽管其明显的方向校正,与The Verge交谈的研究人员却越来越厌倦了</description>
-      <pubDate>Tue, 27 Oct 2026 16:48:58 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics">The Verge AI</source>
+      <title>通过数据生成战略加强深层学习模式性能:橄榄树病分类</title>
+      <link>https://arxiv.org/abs/2610.35984</link>
+      <description>深层学习模式在广泛的领域非常有效,在植物疾病诊断方面是Particu larly,但是,其性能往往受到数据不足和阶级不平衡等挑战的限制。 在我们的工作中,我们提议一个直译模型。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.35984</guid>
+      <source url="https://arxiv.org/abs/2610.35984">ArXiv AI</source>
     </item>
     <item>
-      <title>Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成</title>
-      <link>https://x.com/GeminiApp/status/2115171788812669225</link>
-      <description>Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。</description>
-      <pubDate>Tue, 27 Oct 2026 20:00:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GeminiApp/status/2115171788812669225</guid>
-      <source url="https://x.com/GeminiApp/status/2115171788812669225">X：Gemini (@GeminiApp)</source>
+      <title>三一:多模态代理人的能力 -- -- 扭曲的自我改进</title>
+      <link>https://arxiv.org/abs/2610.36077</link>
+      <description>通过互动,多模态智能可被视为世界和代理人之间的由人指导的共同演进。 然而,扩大这一进程面临两个瓶颈:构建多样的、可核查的环境代价高昂;手动利用</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36077</guid>
+      <source url="https://arxiv.org/abs/2610.36077">ArXiv AI</source>
     </item>
     <item>
-      <title>Azeem Azhar 图解 Anthropic S-1 财务数据</title>
-      <link>https://www.exponentialview.co/p/anthropics-s-1-in-charts</link>
-      <description>Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。</description>
-      <pubDate>Tue, 27 Oct 2026 17:31:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.exponentialview.co/p/anthropics-s-1-in-charts</guid>
-      <source url="https://www.exponentialview.co/p/anthropics-s-1-in-charts">Azeem Azhar：Exponential View（RSS）</source>
+      <title>CohortFlow:具有本地化语义校正功能的可引导临床Cohort校正剂</title>
+      <link>https://arxiv.org/abs/2610.36100</link>
+      <description>临床群治的语文模型剂应该适应不断演变的资格标准,而不必反复处理不变的要求。 我们引入了CohortFlow,一种代表自然语言校正的可引导剂作为localiz。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36100</guid>
+      <source url="https://arxiv.org/abs/2610.36100">ArXiv AI</source>
     </item>
     <item>
-      <title>当人工智能真的失控时会发生什么</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai</link>
-      <description>在Marvel's VisionQuest中,一个超级有动力的机器人试图通过迷失在精心制作的数码白日梦中来更好地了解人类,在这个梦中,他和其他拥有人工智能的生物一起生活在一个家庭里。 系列非常奇幻,然而它却和后来的一些想法一起演奏。</description>
-      <pubDate>Tue, 27 Oct 2026 13:30:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai">The Verge AI</source>
+      <title>当人工智能更适合它时,为什么和如何做科学:一个以人类理解和方向为基础的框架</title>
+      <link>https://arxiv.org/abs/2610.36116</link>
+      <description>随着人工智能开始匹配或超过人类研究人员的核心科学任务,有两个问题变得紧迫:\enph{为什么}人类应该继续从事科学工作,而\enph{how}他们这样做的时候应该使用人工智能吗?本文认为,第二个问题可以回答。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36116</guid>
+      <source url="https://arxiv.org/abs/2610.36116">ArXiv AI</source>
     </item>
     <item>
-      <title>Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</link>
-      <description>Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。</description>
-      <pubDate>Tue, 27 Oct 2026 16:51:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety">The Verge：AI（RSS）</source>
+      <title>发展到匹配能力:通过技能适应提高自我进取能力</title>
+      <link>https://arxiv.org/abs/2610.33024</link>
+      <description>策略自演化为 LLM 智能体提供了一个从执行经验中改进而无需更新模型参数的实用途径,其有效性取决于模型能否成功使用其被使用时所提供的指导.</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33024</guid>
+      <source url="https://arxiv.org/abs/2610.33024">ArXiv ML</source>
     </item>
     <item>
-      <title>LangChain 解析自研设计 agent Content Studio 并开源其 harness</title>
-      <link>https://www.langchain.com/blog/design-agent</link>
-      <description>LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。</description>
-      <pubDate>Tue, 27 Oct 2026 16:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.langchain.com/blog/design-agent</guid>
-      <source url="https://www.langchain.com/blog/design-agent">LangChain：Blog（RSS）</source>
+      <title>语言模型能否在思考时学习? 测试整个建筑的渐进适应</title>
+      <link>https://arxiv.org/abs/2610.33025</link>
+      <description>让一个语言模型在它正在读取的文字上采取梯度步骤,称为动态评价,降低其在其他文档上的损失。它在混合线性注意结构、扩散语言模型以及标准长度上的行为</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33025</guid>
+      <source url="https://arxiv.org/abs/2610.33025">ArXiv ML</source>
     </item>
     <item>
-      <title>Firefox 的智能窗口添加人工智能表填充和网页监控</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms</link>
-      <description>Mozilla正在更新 Smart Window - Firefox 的人工智能驱动浏览体验, 其新功能可以帮助您根据打开的标签填写在线表格。 例如, Mozilla 说 Smart Window 可以从您的在线组合或 LinkedIn 页面中提取信息来粘贴您的工作历史</description>
-      <pubDate>Tue, 27 Oct 2026 12:14:18 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms">The Verge AI</source>
+      <title>从运气中吸取的教训:LLM-Written的教训是否为代理人的下个决定带来了机会?</title>
+      <link>https://arxiv.org/abs/2610.33029</link>
+      <description>自我改进的代理人会从他们运行的结果中写出教训;当结果吵闹时,一个教训会给后来的决定带来机会。 我们在注册研究中衡量这一链条的一个环节。 在256个合成世界中,每个环节都有一个重复的任务T。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33029</guid>
+      <source url="https://arxiv.org/abs/2610.33029">ArXiv ML</source>
     </item>
     <item>
-      <title>Google DeepMind 发布实时交互世界模型 Genie 4</title>
-      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
-      <description>Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。</description>
-      <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
-      <guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
-      <source url="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">Google DeepMind：Blog（RSS）</source>
+      <title>低资源诊所离线呼吸检查中的功能增强比建筑选择</title>
+      <link>https://arxiv.org/abs/2610.33030</link>
+      <description>深层模型是呼吸道声学分类的通常选择,但在没有GPU或连接的诊所中,选择成本很高。 我们比较经典和深层的分级方法,以一个由1,211个片段组成的五级呼吸道声学体(哮喘、CO)进行对比。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33030</guid>
+      <source url="https://arxiv.org/abs/2610.33030">ArXiv ML</source>
     </item>
     <item>
-      <title>Genie 4: 新一代的世界模拟</title>
-      <link>https://www.youtube.com/watch?v=sFfPkUJd_Jk</link>
-      <description>Google DeepMind最现实和互动的世界模型至今尚未建立。 Genie 4让我们在双子座模型上实时踏入动态世界,用自然语言引导苍蝇上的场景,并观察接下来会发生什么:世界如何回应,声音如何,人民如何</description>
-      <pubDate>Tue, 27 Oct 2026 16:00:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=sFfPkUJd_Jk</guid>
-      <source url="https://www.youtube.com/watch?v=sFfPkUJd_Jk">DeepMind</source>
+      <title>在概念漂移下对不平衡数据流的先入为主的调整</title>
+      <link>https://arxiv.org/abs/2610.33126</link>
+      <description>概念漂移和阶级不平衡下的数据流分类要求模型在保持强少数族裔阶级性能的同时不断调整. 许多现有方法依赖于活性内存管理,内在实例去除,记忆.</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.33126</guid>
+      <source url="https://arxiv.org/abs/2610.33126">ArXiv ML</source>
     </item>
     <item>
-      <title>Google的下一个Genie人工智能模型产生更现实的经验</title>
-      <link>https://www.theverge.com/tech/1019076/google-genie-4-ai-model</link>
-      <description>Google今天宣布了Genie 4使用人工智能生成互动体验的世界模式,公司表示该模式有四个主要更新:它允许更现实的世界,让用户用自然语言的提示实时更新一个体验,可以生成音频,并使用双子座3.8.</description>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1019076/google-genie-4-ai-model</guid>
-      <source url="https://www.theverge.com/tech/1019076/google-genie-4-ai-model">The Verge AI</source>
+      <title>ReCoPII: 构建背景PII遮盖数据集的关联全方位框架</title>
+      <link>https://arxiv.org/abs/2610.35925</link>
+      <description>为个人可识别信息(PII)培训上下文的遮盖系统需要区分可遮盖和可防被指某类实体的例子,但隐私限制限制了获取真实数据的机会。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.35925</guid>
+      <source url="https://arxiv.org/abs/2610.35925">ArXiv NLP</source>
     </item>
     <item>
-      <title>律师留在控制中心 AT&amp;T + OpenAI</title>
-      <link>https://www.youtube.com/shorts/Yim7JrVzSkk</link>
-      <description>AT&amp;T的David McAte和Bill Ryan讨论了人工智能如何支持法律工作,而律师仍然负责战略、判决和决定。</description>
-      <pubDate>Tue, 27 Oct 2026 15:40:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/Yim7JrVzSkk</guid>
-      <source url="https://www.youtube.com/shorts/Yim7JrVzSkk">OpenAI</source>
+      <title>MedJev:评估医学领域的 " 零发热系统 " 决策</title>
+      <link>https://arxiv.org/abs/2610.36006</link>
+      <description>系统一个决策模型,如Jev在单个前传中解答结构化问题而不产生文本,提供快速和计算高效的临床决策支持。 我们评价了MedJev,一个开通的系统一个模型,在当地运行 o</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36006</guid>
+      <source url="https://arxiv.org/abs/2610.36006">ArXiv NLP</source>
     </item>
     <item>
-      <title>Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR</title>
-      <link>https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase</link>
-      <description>Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。</description>
-      <pubDate>Tue, 27 Oct 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase</guid>
-      <source url="https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase">Replit：Blog（RSS）</source>
+      <title>OmniBrain-0:健全情报的统一代理模式</title>
+      <link>https://arxiv.org/abs/2610.36013</link>
+      <description>通用的内含智能要求机器人在长时期内协调各种技能,跟踪任务进展,从失败中恢复。 单靠专家策略并不能确保任务层次的可靠性,而强大的多模态智能体则依赖这些技术。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36013</guid>
+      <source url="https://arxiv.org/abs/2610.36013">ArXiv NLP</source>
     </item>
     <item>
-      <title>以 Codex + Mitchell Hashimoto 开头</title>
-      <link>https://www.youtube.com/watch?v=lPZQrVFcz3c</link>
-      <description>“总的要点是我想打地上。 ”桥科普联合创始人Mitchell Hashimoto通过派Codex代理人员工作来结束他的一天。 他们研究竞争,比较他仍在工作的工具和原型特征,让他在第二天的工作开始前行。</description>
-      <pubDate>Tue, 27 Oct 2026 15:04:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=lPZQrVFcz3c</guid>
-      <source url="https://www.youtube.com/watch?v=lPZQrVFcz3c">OpenAI</source>
+      <title>FinLLM-KG: 算术贸易中金融影响分析知识图强化法学硕士</title>
+      <link>https://arxiv.org/abs/2610.36083</link>
+      <description>最近基因人工智能的进步通过训练后金融大语言模型(LLMs)大大改善了对金融情绪的分析。 然而,现有的方法仍然局限于孤立地预测每篇文章的情绪。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36083</guid>
+      <source url="https://arxiv.org/abs/2610.36083">ArXiv NLP</source>
     </item>
     <item>
-      <title>从思想到带有 Codex 的原型 — — Shopify 的Mikhail Parakhin</title>
-      <link>https://www.youtube.com/watch?v=cflbzHRvGvg</link>
-      <description>“如果你有一个想法,马上带一个原型。 ”对于Shofify CTO Mikhail Parakhin来说,Codex正在改变他的团队带给会议的东西。 从授权任务到探索建筑选择,他正在使用Codex来承担他以前无法完成的工作。 与Codex Orig的建筑师之一Mikhail会面。</description>
-      <pubDate>Tue, 27 Oct 2026 15:03:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=cflbzHRvGvg</guid>
-      <source url="https://www.youtube.com/watch?v=cflbzHRvGvg">OpenAI</source>
+      <title>3, 7, 14, 17, 42: 语言模型中的指示图宁安装和锐化数字-高uristics</title>
+      <link>https://arxiv.org/abs/2610.36178</link>
+      <description>我们在没有取样错误的情况下测量一个语言模型在要求随机数字时给每个整数分配的概率,从1到N。对于一个固定的提示,模型定义了一个概率向量,我们通过对每个整数的分数进行相接计算。</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36178</guid>
+      <source url="https://arxiv.org/abs/2610.36178">ArXiv NLP</source>
     </item>
     <item>
-      <title>索提拉如何给未售出的清单 与 Codex 的第二人生</title>
-      <link>https://www.youtube.com/watch?v=C2vdw5GSTQo</link>
-      <description>在索蒂拉,Amrita Bhasin使用Codex将未售出的产品与有需要的人连接起来,帮助将数百万磅的库存从垃圾填埋场中清除出来。见见Amrita, Codex Originals的建筑商之一。用Codex建造吗? 分享你的故事:htttt</description>
-      <pubDate>Tue, 27 Oct 2026 15:02:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=C2vdw5GSTQo</guid>
-      <source url="https://www.youtube.com/watch?v=C2vdw5GSTQo">OpenAI</source>
+      <title>Rokid Glasses 2：想每天戴的 AI 眼镜</title>
+      <link>https://www.ifanr.com/1686268?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI 眼镜既要好看好戴，也要拍得好、够聪明，刚刚发布的 Rokid Glasses 2 就做到了，显示清晰、戴着好看、画质优秀而且 AI 好用好玩，让我一个不戴眼镜的人也愿意每天出门都戴上它。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 28 Oct 2026 02:08:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1686268?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1686268?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态</title>
-      <link>https://www.a16z.news/p/databricks-and-the-future-of-the</link>
-      <description>a16z 的 Ben Horowitz 发文解析 Databricks 如何成为智能体时代的公司基础设施，Databricks 已达到 70 亿美元收入运行率、同比增长 80%，估值 1900 亿美元。</description>
-      <pubDate>Tue, 27 Oct 2026 14:02:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.a16z.news/p/databricks-and-the-future-of-the</guid>
-      <source url="https://www.a16z.news/p/databricks-and-the-future-of-the">a16z：News（RSS）</source>
+      <title>Anthropic IPO 最大赢家或为 Amazon 而非 VC</title>
+      <link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/</link>
+      <description>TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。</description>
+      <pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/</guid>
+      <source url="https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/">TechCrunch：AI（RSS）</source>
     </item>
     <item>
-      <title>苹果公司在Pages, Keynote, 和 Numbers 中添加了一个人工智能聊天器</title>
-      <link>https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</link>
-      <description>苹果公司正在将一个人工智能助手带入其包括基调,Pages和Numbers在内的生产力应用套件中. 该助手基于苹果公司和OpenAI公司的人工智能模型,能够理解文档的背景,在基调中执行设计,动画和精炼幻灯片等任务. In Pages, Appl</description>
-      <pubDate>Tue, 27 Oct 2026 09:50:51 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</guid>
-      <source url="https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update">The Verge AI</source>
+      <title>Google 发布世界模型 Genie 4，支持实时操控与原生音频</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</link>
+      <description>Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。</description>
+      <pubDate>Wed, 28 Oct 2026 00:22:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d">公众号：数字生命卡兹克</source>
     </item>
     <item>
-      <title>OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明</title>
-      <link>https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/</link>
-      <description>The Decoder 报道 OpenAI 请外部专家担任"shepherds"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。</description>
-      <pubDate>Tue, 27 Oct 2026 12:37:24 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/</guid>
-      <source url="https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/">The Decoder：AI News（RSS）</source>
+      <title>早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告</title>
+      <link>https://www.ifanr.com/1686109?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· IDC：中国手机 Q3 出货下滑 15.2%，折叠屏连续四季度下降 · 邓煜：AI 公司应公开证明思路，让用户决定数据是否用于训练 · 研究：豆包引用抖音的权重升至 31.8%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 28 Oct 2026 00:07:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1686109?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1686109?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>启元机器人第 5000 台下线，从规模化量产迈向商业化验证</title>
-      <link>http://www.geekpark.net/news/373003</link>
-      <description>10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。 对仍处产业化早期的个人机器人行业而言，5000 台的意义不止于产量增长，更在于企业将研发阶段的技术能力转化为可复制的制造能力，并进一步连接产品交付、用户使用与软件迭代&amp;mdash;&amp;mdash;这是个人机器人从技术探索走向消费市场的关键环节，也是检验商业化能力的重要维度。 随着人工智能从数字世界走向物理世界，机器人产业的竞争正从技术展示延伸至工程化、产品化和商业化能力，启元此次量产实</description>
-      <pubDate>Tue, 27 Oct 2026 16:46:19 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373003</guid>
-      <source url="http://www.geekpark.net/news/373003">极客公园</source>
+      <title>家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死</title>
+      <link>https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</link>
+      <description>一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。</description>
+      <pubDate>Tue, 27 Oct 2026 23:34:27 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</guid>
+      <source url="https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/">TechCrunch：AI（RSS）</source>
     </item>
   </channel>
 </rss>
