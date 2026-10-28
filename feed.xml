@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 18:48:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:08:47 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</title>
+      <link>https://www.ithome.com/1/019/268.htm</link>
+      <description>Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。</description>
+      <pubDate>Wed, 28 Oct 2026 22:35:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/019/268.htm</guid>
+      <source url="https://www.ithome.com/1/019/268.htm">IT之家·人工智能</source>
+    </item>
+    <item>
+      <title>刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一</title>
+      <link>https://www.ifanr.com/1686587?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>哈基米终于扬眉吐气了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 28 Oct 2026 22:31:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1686587?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1686587?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%</title>
+      <link>https://x.com/sundarpichai/status/2115535455156642066</link>
+      <description>Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。</description>
+      <pubDate>Wed, 28 Oct 2026 20:05:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sundarpichai/status/2115535455156642066</guid>
+      <source url="https://x.com/sundarpichai/status/2115535455156642066">X：Sundar Pichai (@sundarpichai)</source>
+    </item>
+    <item>
+      <title>Google 推出双子座4 Carbon,</title>
+      <link>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</link>
+      <description>谷歌发布了最新的前沿模型双子座4 Carbon,提供了编码,代理任务和网络安全方面的"重大收益". Google在星期三的公告中强调了Carbon在人工分析智能指数(v5.0)基准上的顶点,Claude Opus 5.5和GPT-</description>
+      <pubDate>Wed, 28 Oct 2026 16:03:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</guid>
+      <source url="https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier">The Verge AI</source>
+    </item>
+    <item>
+      <title>微软正在智能电视上结束副驾驶支持</title>
+      <link>https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending</link>
+      <description>在LG和三星在CES 2025上宣布他们最新的智能电视将包含微软的副驾驶访问功能后近两年,根据Windows Central的一份报告,该公司即将结束今年所有电视上对人工智能助理功能的支持,消息并非来自一位官员.</description>
+      <pubDate>Wed, 28 Oct 2026 14:36:26 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending</guid>
+      <source url="https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending">The Verge AI</source>
+    </item>
     <item>
       <title>Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性</title>
       <link>https://www.wheresyoured.at/exit-liquidity/</link>
@@ -126,46 +166,6 @@
       <pubDate>Wed, 28 Oct 2026 07:27:30 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world">The Verge AI</source>
-    </item>
-    <item>
-      <title>Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一</title>
-      <link>https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/</link>
-      <description>网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。</description>
-      <pubDate>Wed, 28 Oct 2026 10:56:24 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/</guid>
-      <source url="https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>这机器人从嘴里钻进人体，居然是来救命的</title>
-      <link>https://www.ifanr.com/1686368?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>当所有人都在讨论 AI 时，机械工程同样可以给世界带来变化。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 28 Oct 2026 10:21:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1686368?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1686368?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式</title>
-      <link>https://openai.com/index/the-future-of-the-firm</link>
-      <description>OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列文章，探讨 AI 进入企业组织架构的三种情形：在每位员工之下形成 AI 劳动力 basement、作为同事穿插在现有组织图中、以及夹在人类之间充当协调层。</description>
-      <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/the-future-of-the-firm</guid>
-      <source url="https://openai.com/index/the-future-of-the-firm">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>从法律瓶颈到商业伙伴,</title>
-      <link>https://www.youtube.com/watch?v=M2Oa42hF67E</link>
-      <description>NDA评论曾经占了勒高拉法律团队20%左右的能力。 如今,这个数字还不到1%。 Emma Kadri Bergström总法律顾问分享了人工智能如何帮助其团队恢复时间、支持快速增长的生意并承担更复杂的工作,同时让律师对律师负责。</description>
-      <pubDate>Wed, 28 Oct 2026 09:45:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=M2Oa42hF67E</guid>
-      <source url="https://www.youtube.com/watch?v=M2Oa42hF67E">OpenAI</source>
-    </item>
-    <item>
-      <title>与人工智能构建法律工作的未来 ^ Legora CEO Max Junestrand</title>
-      <link>https://www.youtube.com/watch?v=UOfmD1fY-i8</link>
-      <description>乐高拉共同创始人兼首席执行官马克斯·琼斯德(Max Junestrand)想在任何需要的地方提供法律专门知识。 他分享OpenAI如何帮助将这一抱负转化为平台,为什么随着公司的发展而保持人工智能-内在事务,以及当律师能够承担那段时间和能力时会有什么可能。</description>
-      <pubDate>Wed, 28 Oct 2026 09:45:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=UOfmD1fY-i8</guid>
-      <source url="https://www.youtube.com/watch?v=UOfmD1fY-i8">OpenAI</source>
     </item>
   </channel>
 </rss>
