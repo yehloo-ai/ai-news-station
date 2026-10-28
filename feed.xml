@@ -5,8 +5,96 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:42:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:48:12 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性</title>
+      <link>https://www.wheresyoured.at/exit-liquidity/</link>
+      <description>Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。</description>
+      <pubDate>Wed, 28 Oct 2026 17:51:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wheresyoured.at/exit-liquidity/</guid>
+      <source url="https://www.wheresyoured.at/exit-liquidity/">Ed Zitron 长文 / Where’s Your Ed At（RSS）</source>
+    </item>
+    <item>
+      <title>Deepseek的新人工智能有一个秘密</title>
+      <link>https://www.youtube.com/watch?v=pryCaGv8wuo</link>
+      <description>https://api-docs.deepseek.com/news/news261017/ 资料来源:https://x.com/marcthecreatorr/status/211427716142571554/video/1 https://x.com/olezhavich/status/2112897791022226481</description>
+      <pubDate>Wed, 28 Oct 2026 17:32:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=pryCaGv8wuo</guid>
+      <source url="https://www.youtube.com/watch?v=pryCaGv8wuo">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft</title>
+      <link>https://x.com/rohanpaul_ai/status/2115491649543635378</link>
+      <description>Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。</description>
+      <pubDate>Wed, 28 Oct 2026 17:11:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115491649543635378</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2115491649543635378">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code</title>
+      <link>https://x.com/bcherny/status/2115491259381072269</link>
+      <description>Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。</description>
+      <pubDate>Wed, 28 Oct 2026 17:09:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bcherny/status/2115491259381072269</guid>
+      <source url="https://x.com/bcherny/status/2115491259381072269">X：Boris Cherny (@bcherny)</source>
+    </item>
+    <item>
+      <title>Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先</title>
+      <link>https://x.com/sundarpichai/status/2115489219804352921</link>
+      <description>Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。</description>
+      <pubDate>Wed, 28 Oct 2026 17:01:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sundarpichai/status/2115489219804352921</guid>
+      <source url="https://x.com/sundarpichai/status/2115489219804352921">X：Sundar Pichai (@sundarpichai)</source>
+    </item>
+    <item>
+      <title>Google DeepMind 发布 Gemini 4 Carbon 前沿模型</title>
+      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
+      <description>Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。</description>
+      <pubDate>Wed, 28 Oct 2026 17:00:58 +0000</pubDate>
+      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
+      <source url="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/">Google DeepMind：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发</title>
+      <link>https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/</link>
+      <description>Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。</description>
+      <pubDate>Wed, 28 Oct 2026 16:51:35 +0000</pubDate>
+      <guid isPermaLink="true">https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/</guid>
+      <source url="https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/">Microsoft：Official Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Meta说, 可能会再次推迟其有争议的新业务条款。</title>
+      <link>https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely</link>
+      <description>Meta表示可能会在11月20日推动其新业务条款的执行,因为它面对出版商对人工智能培训的担忧而提出的反弹. Meta通讯头目Andy Stone在一篇关于X的文章中说,该公司"没有与Indu进行充分协商就不打算做出策略改变.</description>
+      <pubDate>Wed, 28 Oct 2026 12:15:30 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely</guid>
+      <source url="https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely">The Verge AI</source>
+    </item>
+    <item>
+      <title>GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品</title>
+      <link>https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/</link>
+      <description>GitHub 在 GitHub Universe 2026 上提出把 GitHub 打造为完整软件交付系统的愿景，并发布多项产品：GitHub Copilot app 面向智能体交付。</description>
+      <pubDate>Wed, 28 Oct 2026 16:09:28 +0000</pubDate>
+      <guid isPermaLink="true">https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/</guid>
+      <source url="https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/">GitHub Blog</source>
+    </item>
+    <item>
+      <title>GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草</title>
+      <link>https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/</link>
+      <description>GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。</description>
+      <pubDate>Wed, 28 Oct 2026 16:07:40 +0000</pubDate>
+      <guid isPermaLink="true">https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/</guid>
+      <source url="https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/">GitHub Blog</source>
+    </item>
+    <item>
+      <title>a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程</title>
+      <link>https://www.a16z.news/p/the-new-security-agenda</link>
+      <description>a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。</description>
+      <pubDate>Wed, 28 Oct 2026 16:00:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.a16z.news/p/the-new-security-agenda</guid>
+      <source url="https://www.a16z.news/p/the-new-security-agenda">a16z：News（RSS）</source>
+    </item>
     <item>
       <title>合并CEO沈西鼎:人工智能流畅起于上.</title>
       <link>https://www.youtube.com/shorts/kP26OlW5PBk</link>
@@ -18,7 +106,7 @@
     <item>
       <title>沈西丁为什么和Codex合作?</title>
       <link>https://www.youtube.com/watch?v=6ep8Vvm4Bdw</link>
-      <description>“如果你是一名执行者,你就是你们组织人工智能流畅的上限。” 合并联合创始人兼CEO沈西鼎管理着企业的非研发方面,她还负责代码。她使用Codex,要求它帮助重新设计一个使用产品现有设计系统的特性。她描述了它。</description>
+      <description>“如果你是一名执行官,你就是你们组织人工智能流畅的上限。” 合并联合创始人兼CEO沈西鼎管理着企业的非研发方面,她还负责编码。她要求通过Codex来帮助重新设计一个功能,但没有规定解决办法。它借鉴了合并公司现有的de de</description>
       <pubDate>Wed, 28 Oct 2026 11:50:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=6ep8Vvm4Bdw</guid>
       <source url="https://www.youtube.com/watch?v=6ep8Vvm4Bdw">OpenAI</source>
@@ -56,6 +144,14 @@
       <source url="https://www.ifanr.com/1686368?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
+      <title>OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式</title>
+      <link>https://openai.com/index/the-future-of-the-firm</link>
+      <description>OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列文章，探讨 AI 进入企业组织架构的三种情形：在每位员工之下形成 AI 劳动力 basement、作为同事穿插在现有组织图中、以及夹在人类之间充当协调层。</description>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/the-future-of-the-firm</guid>
+      <source url="https://openai.com/index/the-future-of-the-firm">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
+    <item>
       <title>从法律瓶颈到商业伙伴,</title>
       <link>https://www.youtube.com/watch?v=M2Oa42hF67E</link>
       <description>NDA评论曾经占了勒高拉法律团队20%左右的能力。 如今,这个数字还不到1%。 Emma Kadri Bergström总法律顾问分享了人工智能如何帮助其团队恢复时间、支持快速增长的生意并承担更复杂的工作,同时让律师对律师负责。</description>
@@ -70,102 +166,6 @@
       <pubDate>Wed, 28 Oct 2026 09:45:18 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=UOfmD1fY-i8</guid>
       <source url="https://www.youtube.com/watch?v=UOfmD1fY-i8">OpenAI</source>
-    </item>
-    <item>
-      <title>Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字</title>
-      <link>https://x.com/SaitoWu/status/2115376256929948006</link>
-      <description>Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。</description>
-      <pubDate>Wed, 28 Oct 2026 09:32:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SaitoWu/status/2115376256929948006</guid>
-      <source url="https://x.com/SaitoWu/status/2115376256929948006">X：Saito 硬地骇客 (@SaitoWu)</source>
-    </item>
-    <item>
-      <title>实测讯飞输入法 16.0，我发现它是我最实在的 AI「赛博嘴替」</title>
-      <link>https://www.ifanr.com/1686281?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>人负责表达意图，键盘负责整理一切#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 28 Oct 2026 09:18:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1686281?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1686281?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>斯坦福的研究，红海的珊瑚，与一个中国模型</title>
-      <link>http://www.geekpark.net/news/373059</link>
-      <description>2026 年 9 月 4 日，又一年柏林国际消费电子展 IFA 大会开幕，会展中心的创新舞台座无虚席。 IFA 2026 的开幕主题演讲题目是《个人 AI 时代：想象力的未来》，主讲人是 AMD 高级副总裁、计算与图形事业部总经理 Jack Huynh。 作为消费电子圈每年最重要的场合之一，台下所有人都在等 AMD 拿出年度最重磅的内容。Huynh 的前半段演讲照例讲硬件：新一代 Ryzen AI Max PRO 处理器，AMD 历经多年打磨、专为个人 AI 设计的笔记本「Sundance」。 到演示环节，他话锋一转：「如果说，用一句 prompt 就创造一整个世界呢？」 他双手托着笔记本，屏</description>
-      <pubDate>Wed, 28 Oct 2026 15:37:30 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373059</guid>
-      <source url="http://www.geekpark.net/news/373059">极客公园</source>
-    </item>
-    <item>
-      <title>Addy Osmani 讲解如何上手 Claude Code Mods</title>
-      <link>https://x.com/addyosmani/status/2115326629488824753</link>
-      <description>Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。</description>
-      <pubDate>Wed, 28 Oct 2026 06:15:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/addyosmani/status/2115326629488824753</guid>
-      <source url="https://x.com/addyosmani/status/2115326629488824753">X：Addy Osmani (@addyosmani)</source>
-    </item>
-    <item>
-      <title>Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019</title>
-      <link>https://www.qbitai.com/2026/10/505928.html</link>
-      <description>10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。</description>
-      <pubDate>Wed, 28 Oct 2026 04:04:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505928.html</guid>
-      <source url="https://www.qbitai.com/2026/10/505928.html">量子位</source>
-    </item>
-    <item>
-      <title>数起"班达":关于测量人工智能节省的时间</title>
-      <link>https://arxiv.org/abs/2610.35942</link>
-      <description>我认为人工智能帮助节省时间意味着什么。我对比了停看的视角,无论钟表记录什么,所节省的时间是什么,还有分类账的视角,它是一个反事实,必须在工作所经历的错误旁边读取,a</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.35942</guid>
-      <source url="https://arxiv.org/abs/2610.35942">ArXiv AI</source>
-    </item>
-    <item>
-      <title>通过数据生成战略加强深层学习模式性能:橄榄树病分类</title>
-      <link>https://arxiv.org/abs/2610.35984</link>
-      <description>深层学习模式在广泛的领域非常有效,在植物疾病诊断方面是Particu larly,但是,其性能往往受到数据不足和阶级不平衡等挑战的限制。 在我们的工作中,我们提议一个直译模型。</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.35984</guid>
-      <source url="https://arxiv.org/abs/2610.35984">ArXiv AI</source>
-    </item>
-    <item>
-      <title>三一:多模态代理人的能力 -- -- 扭曲的自我改进</title>
-      <link>https://arxiv.org/abs/2610.36077</link>
-      <description>通过互动,多模态智能可被视为世界和代理人之间的由人指导的共同演进。 然而,扩大这一进程面临两个瓶颈:构建多样的、可核查的环境代价高昂;手动利用</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.36077</guid>
-      <source url="https://arxiv.org/abs/2610.36077">ArXiv AI</source>
-    </item>
-    <item>
-      <title>CohortFlow:具有本地化语义校正功能的可引导临床Cohort校正剂</title>
-      <link>https://arxiv.org/abs/2610.36100</link>
-      <description>临床群治的语文模型剂应该适应不断演变的资格标准,而不必反复处理不变的要求。 我们引入了CohortFlow,一种代表自然语言校正的可引导剂作为localiz。</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.36100</guid>
-      <source url="https://arxiv.org/abs/2610.36100">ArXiv AI</source>
-    </item>
-    <item>
-      <title>当人工智能更适合它时,为什么和如何做科学:一个以人类理解和方向为基础的框架</title>
-      <link>https://arxiv.org/abs/2610.36116</link>
-      <description>随着人工智能开始匹配或超过人类研究人员的核心科学任务,有两个问题变得紧迫:\enph{为什么}人类应该继续从事科学工作,而\enph{how}他们这样做的时候应该使用人工智能吗?本文认为,第二个问题可以回答。</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.36116</guid>
-      <source url="https://arxiv.org/abs/2610.36116">ArXiv AI</source>
-    </item>
-    <item>
-      <title>发展到匹配能力:通过技能适应提高自我进取能力</title>
-      <link>https://arxiv.org/abs/2610.33024</link>
-      <description>策略自演化为 LLM 智能体提供了一个从执行经验中改进而无需更新模型参数的实用途径,其有效性取决于模型能否成功使用其被使用时所提供的指导.</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33024</guid>
-      <source url="https://arxiv.org/abs/2610.33024">ArXiv ML</source>
-    </item>
-    <item>
-      <title>语言模型能否在思考时学习? 测试整个建筑的渐进适应</title>
-      <link>https://arxiv.org/abs/2610.33025</link>
-      <description>让一个语言模型在它正在读取的文字上采取梯度步骤,称为动态评价,降低其在其他文档上的损失。它在混合线性注意结构、扩散语言模型以及标准长度上的行为</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.33025</guid>
-      <source url="https://arxiv.org/abs/2610.33025">ArXiv ML</source>
     </item>
   </channel>
 </rss>
