@@ -822,5 +822,21 @@
     "sourceUrl": "https://www.liquid.ai/blog/lfm3",
     "sourceName": "Liquid AI 模型与工程博客（网页）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+    "summary": "Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。",
+    "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "sourceName": "Google DeepMind：Blog（RSS）",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+    "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+    "sourceName": "公众号：面壁智能（MiniCPM）",
+    "reviewReason": "awaiting-review"
   }
 ]
