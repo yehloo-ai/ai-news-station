@@ -5,8 +5,96 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:49:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:52:33 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zendesk的 ChatGPT 企业: 将公司数据投入工作</title>
+      <link>https://www.youtube.com/watch?v=L6pzlo1QvoM</link>
+      <description>“我们拥有大约600个由公司不同人制造的应用程序。” 在Zendesk,跨销售、营销和业务的团队正在为自己的工作建立应用程序。 ChatGPT Entertainment向每个雇员开放,商业用户正在问关于他们的dat的问题。</description>
+      <pubDate>Thu, 29 Oct 2026 16:23:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=L6pzlo1QvoM</guid>
+      <source url="https://www.youtube.com/watch?v=L6pzlo1QvoM">OpenAI</source>
+    </item>
+    <item>
+      <title>微软的人工智能未来工作较少</title>
+      <link>https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</link>
+      <description>对于仔细聆听微软CEO萨特雅·纳德拉(Satya Nadella)在过去几年里所说的话的人来说,本周感觉是最清楚的标志,然而人工智能即将从根本上改变微软的员工规模。 微软现在向大约60,000名员工提供自愿买断服务。</description>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</guid>
+      <source url="https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad">The Verge AI</source>
+    </item>
+    <item>
+      <title>NYT烹饪软件正在测试人工智能配方的修改</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</link>
+      <description>纽约时报正在为其烹饪软件测试一个新的人工智能功能,帮助用户修改食谱,这在用户中引发了一些剧情。 上星期五,NYT烹饪高级编辑Genevieve Ko公布了该功能,该功能可用于推荐替代配方和烹饪设备.</description>
+      <pubDate>Thu, 29 Oct 2026 10:39:37 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool">The Verge AI</source>
+    </item>
+    <item>
+      <title>Wiz 分析智能体攻击的七大指纹与发展趋势</title>
+      <link>https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed</link>
+      <description>Wiz 基于自身事件响应与公开披露案例，分析 AI 智能体参与真实入侵的现状与趋势，涉及 ARTEX、Hermes 等框架及韩国金融机构（约 67,000 人信息外泄）、泰国财政部、ConnectWise 供应链（尝试攻击超 2,250 个租户）等案例。</description>
+      <pubDate>Thu, 29 Oct 2026 14:36:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed</guid>
+      <source url="https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed">Wiz：Research（安全研究）</source>
+    </item>
+    <item>
+      <title>Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型</title>
+      <link>https://x.com/UnslothAI/status/2115812784189620265</link>
+      <description>Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 un</description>
+      <pubDate>Thu, 29 Oct 2026 14:27:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/UnslothAI/status/2115812784189620265</guid>
+      <source url="https://x.com/UnslothAI/status/2115812784189620265">X：Unsloth (@UnslothAI)</source>
+    </item>
+    <item>
+      <title>404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化</title>
+      <link>https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/</link>
+      <description>404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。</description>
+      <pubDate>Thu, 29 Oct 2026 14:21:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/</guid>
+      <source url="https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/">404 Media（RSS）</source>
+    </item>
+    <item>
+      <title>SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账</title>
+      <link>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</link>
+      <description>The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。</description>
+      <pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</guid>
+      <source url="https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋</title>
+      <link>https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/</link>
+      <description>据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。</description>
+      <pubDate>Thu, 29 Oct 2026 13:42:38 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/</guid>
+      <source url="https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</link>
+      <description>The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。</description>
+      <pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务</title>
+      <link>https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/</link>
+      <description>Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。</description>
+      <pubDate>Thu, 29 Oct 2026 10:16:34 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/</guid>
+      <source url="https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>人工智能已经来到亚利桑那州的水域</title>
+      <link>https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc</link>
+      <description>从沙漠中涌现出来的灰巨头。在内部,工程师创造出我们手机、电脑和电器、流线服务、搜索引擎、聊天机器人、气温编码软件和网站背后的力量。建筑群同时是庞大的、蹲着的,与俯瞰的山脉相隔甚远。</description>
+      <pubDate>Thu, 29 Oct 2026 06:00:04 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc</guid>
+      <source url="https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc">The Verge AI</source>
+    </item>
     <item>
       <title>不认字的 AI，却很会说话</title>
       <link>https://www.ifanr.com/1686124?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -48,6 +136,22 @@
       <source url="https://www.ifanr.com/1686590?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
+      <title>vLLM 发布 Mistral Large 4 Day 0 支持</title>
+      <link>https://vllm.ai/blog/2026-10-29-mistral-large-4</link>
+      <description>vLLM 团队宣布对 Mistral 新旗舰模型 Mistral Large 4 提供 Day 0 支持，该模型为 1T 参数、每 token 激活 49B 的原生多模态 MoE 模型，采用 MLA 稀疏注意力加 DSA top-k 索引器、跨层 KV 共享、NoPE、SSMax 和 LeRoPE 等新架构，并内置 DSpark 推测解码草稿器与 Pixtral 视觉编码器。</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://vllm.ai/blog/2026-10-29-mistral-large-4</guid>
+      <source url="https://vllm.ai/blog/2026-10-29-mistral-large-4">vLLM 官方博客（RSS）</source>
+    </item>
+    <item>
+      <title>Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型</title>
+      <link>https://huggingface.co/blog/mistral-large4</link>
+      <description>Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客，模型为多模态多语言 MoE 架构，总参数约 1T、激活 49B、上下文窗口 1M token。</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/mistral-large4</guid>
+      <source url="https://huggingface.co/blog/mistral-large4">Hugging Face 官方团队博客</source>
+    </item>
+    <item>
       <title>OpenRouter 教程：用 LLM 从 PDF 中抽取表格</title>
       <link>https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/</link>
       <description>OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。</description>
@@ -62,110 +166,6 @@
       <pubDate>Wed, 28 Oct 2026 23:45:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=ujmyzWSj8IU</guid>
       <source url="https://www.youtube.com/watch?v=ujmyzWSj8IU">OpenAI</source>
-    </item>
-    <item>
-      <title>Adam Mosseri说, 围绕人工智能的消极态度“会变得更糟”。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</link>
-      <description>被问及人工智能和大学生在毕业典礼上嘘技术CEO的趋势,Instagram头目Adam Mosseri在一次采访中承认,很多人真的不喜欢人工智能,而且不只是年轻人和创造力.</description>
-      <pubDate>Wed, 28 Oct 2026 19:05:39 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity">The Verge AI</source>
-    </item>
-    <item>
-      <title>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</title>
-      <link>https://www.ithome.com/1/019/268.htm</link>
-      <description>Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。</description>
-      <pubDate>Wed, 28 Oct 2026 22:35:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/019/268.htm</guid>
-      <source url="https://www.ithome.com/1/019/268.htm">IT之家·人工智能</source>
-    </item>
-    <item>
-      <title>刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一</title>
-      <link>https://www.ifanr.com/1686587?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>哈基米终于扬眉吐气了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 28 Oct 2026 22:31:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1686587?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1686587?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%</title>
-      <link>https://x.com/sundarpichai/status/2115535455156642066</link>
-      <description>Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。</description>
-      <pubDate>Wed, 28 Oct 2026 20:05:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sundarpichai/status/2115535455156642066</guid>
-      <source url="https://x.com/sundarpichai/status/2115535455156642066">X：Sundar Pichai (@sundarpichai)</source>
-    </item>
-    <item>
-      <title>Google 推出双子座4 Carbon,</title>
-      <link>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</link>
-      <description>谷歌发布了最新的前沿模型双子座4 Carbon,提供了编码,代理任务和网络安全方面的"重大收益". Google在星期三的公告中强调了Carbon在人工分析智能指数(v5.0)基准上的顶点,Claude Opus 5.5和GPT-</description>
-      <pubDate>Wed, 28 Oct 2026 16:03:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</guid>
-      <source url="https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier">The Verge AI</source>
-    </item>
-    <item>
-      <title>微软正在智能电视上结束副驾驶支持</title>
-      <link>https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending</link>
-      <description>在LG和三星在CES 2025上宣布他们最新的智能电视将包含微软的副驾驶访问功能后近两年,根据Windows Central的一份报告,该公司即将结束今年所有电视上对人工智能助理功能的支持,消息并非来自一位官员.</description>
-      <pubDate>Wed, 28 Oct 2026 14:36:26 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending</guid>
-      <source url="https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending">The Verge AI</source>
-    </item>
-    <item>
-      <title>Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性</title>
-      <link>https://www.wheresyoured.at/exit-liquidity/</link>
-      <description>Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。</description>
-      <pubDate>Wed, 28 Oct 2026 17:51:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wheresyoured.at/exit-liquidity/</guid>
-      <source url="https://www.wheresyoured.at/exit-liquidity/">Ed Zitron 长文 / Where’s Your Ed At（RSS）</source>
-    </item>
-    <item>
-      <title>DeepSeek的新人工智能是绝对的怪物</title>
-      <link>https://www.youtube.com/watch?v=pryCaGv8wuo</link>
-      <description>https://api-docs.deepseek.com/news/news261017/ 资料来源:https://x.com/marcthecreatorr/status/211427716142571554/video/1 https://x.com/olezhavich/status/2112897791022226481</description>
-      <pubDate>Wed, 28 Oct 2026 17:32:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=pryCaGv8wuo</guid>
-      <source url="https://www.youtube.com/watch?v=pryCaGv8wuo">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft</title>
-      <link>https://x.com/rohanpaul_ai/status/2115491649543635378</link>
-      <description>Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。</description>
-      <pubDate>Wed, 28 Oct 2026 17:11:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115491649543635378</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2115491649543635378">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code</title>
-      <link>https://x.com/bcherny/status/2115491259381072269</link>
-      <description>Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。</description>
-      <pubDate>Wed, 28 Oct 2026 17:09:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bcherny/status/2115491259381072269</guid>
-      <source url="https://x.com/bcherny/status/2115491259381072269">X：Boris Cherny (@bcherny)</source>
-    </item>
-    <item>
-      <title>Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先</title>
-      <link>https://x.com/sundarpichai/status/2115489219804352921</link>
-      <description>Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。</description>
-      <pubDate>Wed, 28 Oct 2026 17:01:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sundarpichai/status/2115489219804352921</guid>
-      <source url="https://x.com/sundarpichai/status/2115489219804352921">X：Sundar Pichai (@sundarpichai)</source>
-    </item>
-    <item>
-      <title>Google DeepMind 发布 Gemini 4 Carbon 前沿模型</title>
-      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-      <description>Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。</description>
-      <pubDate>Wed, 28 Oct 2026 17:00:58 +0000</pubDate>
-      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
-      <source url="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/">Google DeepMind：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发</title>
-      <link>https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/</link>
-      <description>Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。</description>
-      <pubDate>Wed, 28 Oct 2026 16:51:35 +0000</pubDate>
-      <guid isPermaLink="true">https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/</guid>
-      <source url="https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/">Microsoft：Official Blog（RSS）</source>
     </item>
   </channel>
 </rss>
