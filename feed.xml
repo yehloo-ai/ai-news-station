@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 23:08:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 02:23:18 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>苹果发触屏笔记本，最高 11 万元；DeepSeek V5 模型代码现身；宇树首发财报，净利增 270%</title>
+      <link>http://www.geekpark.net/news/373085</link>
+      <description>苹果发布首款触屏 MacBook Pro，顶配超 11 万元 北京时间 10 月 29 日，苹果发布全新 MacBook Pro，首次为 Mac 引入屏幕触控和灵动岛，并采用双层串联 OLED 技术的 PROLED XDR 显示屏。 新机提供 14 英寸和 16 英寸两种版本，搭载 M5 Pro 或 M5 Max 芯片。根据苹果中国区发布信息，新机将于 10 月 30 日开启预购，11 月 6 日正式发售，起售价 22999 元。 在交互方面，用户可直接触摸屏幕滚动网页、缩放照片、拖放幻灯片，以及操作 3D 模型或演奏虚拟乐器。苹果表示，触控传感器直接内嵌于显示面板，macOS 可将触控输入转</description>
+      <pubDate>Thu, 29 Oct 2026 08:05:58 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373085</guid>
+      <source url="http://www.geekpark.net/news/373085">极客公园</source>
+    </item>
+    <item>
+      <title>早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时</title>
+      <link>https://www.ifanr.com/1686590?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型 · 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相 · 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目 期项目#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1686590?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1686590?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>OpenRouter 教程：用 LLM 从 PDF 中抽取表格</title>
+      <link>https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/</link>
+      <description>OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/</guid>
+      <source url="https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/">OpenRouter：Announcements（RSS）</source>
+    </item>
+    <item>
+      <title>Adam Mosseri说, 围绕人工智能的消极态度“会变得更糟”。</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</link>
+      <description>被问及人工智能和大学生在毕业典礼上嘘技术CEO的趋势,Instagram头目Adam Mosseri在一次采访中承认,很多人真的不喜欢人工智能,而且不只是年轻人和创造力.</description>
+      <pubDate>Wed, 28 Oct 2026 19:05:39 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity">The Verge AI</source>
+    </item>
     <item>
       <title>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</title>
       <link>https://www.ithome.com/1/019/268.htm</link>
@@ -134,38 +166,6 @@
       <pubDate>Wed, 28 Oct 2026 16:00:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.a16z.news/p/the-new-security-agenda</guid>
       <source url="https://www.a16z.news/p/the-new-security-agenda">a16z：News（RSS）</source>
-    </item>
-    <item>
-      <title>合并CEO沈西鼎:人工智能流畅起于上.</title>
-      <link>https://www.youtube.com/shorts/kP26OlW5PBk</link>
-      <description>“如果你是一名执行者,你就是你们组织人工智能流畅的上限。” 合并联合创始人兼CEO沈西鼎管理着企业的非研发方面,她还负责代码。她使用Codex,要求它帮助重新设计一个使用产品现有设计系统的特性。她描述了它。</description>
-      <pubDate>Wed, 28 Oct 2026 11:51:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/kP26OlW5PBk</guid>
-      <source url="https://www.youtube.com/shorts/kP26OlW5PBk">OpenAI</source>
-    </item>
-    <item>
-      <title>沈西丁为什么和Codex合作?</title>
-      <link>https://www.youtube.com/watch?v=6ep8Vvm4Bdw</link>
-      <description>“如果你是一名执行官,你就是你们组织人工智能流畅的上限。” 合并联合创始人兼CEO沈西鼎管理着企业的非研发方面,她还负责编码。她要求通过Codex来帮助重新设计一个功能,但没有规定解决办法。它借鉴了合并公司现有的de de</description>
-      <pubDate>Wed, 28 Oct 2026 11:50:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=6ep8Vvm4Bdw</guid>
-      <source url="https://www.youtube.com/watch?v=6ep8Vvm4Bdw">OpenAI</source>
-    </item>
-    <item>
-      <title>面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型</title>
-      <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f</link>
-      <description>面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。</description>
-      <pubDate>Wed, 28 Oct 2026 11:38:17 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f">公众号：面壁智能（MiniCPM）</source>
-    </item>
-    <item>
-      <title>Meta悄悄地推出了一个“人工智能宠物日记”应用程序。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world</link>
-      <description>Meta发行了"tamagotchi-style"宠物游戏"Waddle World",其中虚拟生物会与用户聊天并创作道具来说明对话,根据其Apple和Play Store的上市情况,"16位宠物关怀游戏"并不是真正的游戏,而是"伪装成宠物的日记".</description>
-      <pubDate>Wed, 28 Oct 2026 07:27:30 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world">The Verge AI</source>
     </item>
   </channel>
 </rss>
