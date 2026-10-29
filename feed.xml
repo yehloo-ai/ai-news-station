@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:49:15 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>不认字的 AI，却很会说话</title>
+      <link>https://www.ifanr.com/1686124?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>机器为什么不能先说话，再认字？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 29 Oct 2026 07:03:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1686124?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1686124?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Addy Osmani 谈你可能对 Claude 过度提示了</title>
+      <link>https://x.com/addyosmani/status/2115688494865465370</link>
+      <description>Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。</description>
+      <pubDate>Thu, 29 Oct 2026 06:13:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/addyosmani/status/2115688494865465370</guid>
+      <source url="https://x.com/addyosmani/status/2115688494865465370">X：Addy Osmani (@addyosmani)</source>
+    </item>
     <item>
       <title>苹果发触屏笔记本，最高 11 万元；DeepSeek V5 模型代码现身；宇树首发财报，净利增 270%</title>
       <link>http://www.geekpark.net/news/373085</link>
@@ -14,6 +30,14 @@
       <pubDate>Thu, 29 Oct 2026 08:05:58 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/373085</guid>
       <source url="http://www.geekpark.net/news/373085">极客公园</source>
+    </item>
+    <item>
+      <title>刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价</title>
+      <link>https://www.qbitai.com/2026/10/506227.html</link>
+      <description>能连肝数日修Bug，免疫提示词注入</description>
+      <pubDate>Thu, 29 Oct 2026 00:03:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506227.html</guid>
+      <source url="https://www.qbitai.com/2026/10/506227.html">量子位</source>
     </item>
     <item>
       <title>早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时</title>
@@ -30,6 +54,14 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/</guid>
       <source url="https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/">OpenRouter：Announcements（RSS）</source>
+    </item>
+    <item>
+      <title>API 信用,现在在 ChatGPT Pro 和业务计划中</title>
+      <link>https://www.youtube.com/watch?v=ujmyzWSj8IU</link>
+      <description>从今天开始,符合资格的ChatGPT Pro和Business的订阅者可以每月要求高达500美元的API信用来建造应用软件和智能体. 信用金额取决于计划. Pro计划每月按层级获得100美元,200美元或500美元. 商业计划每个付费标准座椅获得20美元或每个付费高级座椅获得100美元, Po</description>
+      <pubDate>Wed, 28 Oct 2026 23:45:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ujmyzWSj8IU</guid>
+      <source url="https://www.youtube.com/watch?v=ujmyzWSj8IU">OpenAI</source>
     </item>
     <item>
       <title>Adam Mosseri说, 围绕人工智能的消极态度“会变得更糟”。</title>
@@ -88,7 +120,7 @@
       <source url="https://www.wheresyoured.at/exit-liquidity/">Ed Zitron 长文 / Where’s Your Ed At（RSS）</source>
     </item>
     <item>
-      <title>Deepseek的新人工智能有一个秘密</title>
+      <title>DeepSeek的新人工智能是绝对的怪物</title>
       <link>https://www.youtube.com/watch?v=pryCaGv8wuo</link>
       <description>https://api-docs.deepseek.com/news/news261017/ 资料来源:https://x.com/marcthecreatorr/status/211427716142571554/video/1 https://x.com/olezhavich/status/2112897791022226481</description>
       <pubDate>Wed, 28 Oct 2026 17:32:40 +0000</pubDate>
@@ -134,38 +166,6 @@
       <pubDate>Wed, 28 Oct 2026 16:51:35 +0000</pubDate>
       <guid isPermaLink="true">https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/</guid>
       <source url="https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/">Microsoft：Official Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Meta说, 可能会再次推迟其有争议的新业务条款。</title>
-      <link>https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely</link>
-      <description>Meta表示可能会在11月20日推动其新业务条款的执行,因为它面对出版商对人工智能培训的担忧而提出的反弹. Meta通讯头目Andy Stone在一篇关于X的文章中说,该公司"没有与Indu进行充分协商就不打算做出策略改变.</description>
-      <pubDate>Wed, 28 Oct 2026 12:15:30 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely</guid>
-      <source url="https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely">The Verge AI</source>
-    </item>
-    <item>
-      <title>GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品</title>
-      <link>https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/</link>
-      <description>GitHub 在 GitHub Universe 2026 上提出把 GitHub 打造为完整软件交付系统的愿景，并发布多项产品：GitHub Copilot app 面向智能体交付。</description>
-      <pubDate>Wed, 28 Oct 2026 16:09:28 +0000</pubDate>
-      <guid isPermaLink="true">https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/</guid>
-      <source url="https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/">GitHub Blog</source>
-    </item>
-    <item>
-      <title>GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草</title>
-      <link>https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/</link>
-      <description>GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。</description>
-      <pubDate>Wed, 28 Oct 2026 16:07:40 +0000</pubDate>
-      <guid isPermaLink="true">https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/</guid>
-      <source url="https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/">GitHub Blog</source>
-    </item>
-    <item>
-      <title>a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程</title>
-      <link>https://www.a16z.news/p/the-new-security-agenda</link>
-      <description>a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。</description>
-      <pubDate>Wed, 28 Oct 2026 16:00:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.a16z.news/p/the-new-security-agenda</guid>
-      <source url="https://www.a16z.news/p/the-new-security-agenda">a16z：News（RSS）</source>
     </item>
   </channel>
 </rss>
