@@ -5,8 +5,64 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 21:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 01:53:29 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络</title>
+      <link>https://www.platformer.news/thursday-newsletter-6/</link>
+      <description>Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。</description>
+      <pubDate>Fri, 30 Oct 2026 00:51:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.platformer.news/thursday-newsletter-6/</guid>
+      <source url="https://www.platformer.news/thursday-newsletter-6/">Platformer（热点 RSS）</source>
+    </item>
+    <item>
+      <title>刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了</title>
+      <link>https://www.ifanr.com/1686830?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>Plus 用户：为我发声#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 30 Oct 2026 00:29:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1686830?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1686830?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道</title>
+      <link>http://www.geekpark.net/news/373154</link>
+      <description>谷歌市值创纪录蒸发 5000 亿美元 AI 侵蚀营收 Alphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。 这家谷歌母公司公布，第三季度不含合作伙伴分成的营收为 1112 亿美元，低于分析师预测。搜索及其他渠道的广告营收也不及预期，增速为五个季度来最慢。这项业务约占公司总营收的一半，也是为巨额 AI 投资提供资金的关键来源。 摩根大通分析师 Doug Anmuth 等人在研报中表示，业绩和股价反应显示，对于投入数千亿美元建设 AI 基础设施的超大</description>
+      <pubDate>Fri, 30 Oct 2026 08:15:04 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373154</guid>
+      <source url="http://www.geekpark.net/news/373154">极客公园</source>
+    </item>
+    <item>
+      <title>早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜</title>
+      <link>https://www.ifanr.com/1686790?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 · 美国计算机专业入学人数再降，本科两年减少 18.4% · 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 30 Oct 2026 00:14:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1686790?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1686790?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个</title>
+      <link>https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku/</link>
+      <description>OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku/</guid>
+      <source url="https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku/">OpenRouter：Announcements（RSS）</source>
+    </item>
+    <item>
+      <title>Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元</title>
+      <link>https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/</link>
+      <description>亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。</description>
+      <pubDate>Thu, 29 Oct 2026 23:42:22 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/</guid>
+      <source url="https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Zendesk的 ChatGPT 企业: 将公司数据投入工作</title>
+      <link>https://www.youtube.com/shorts/GNYHDltnwZQ</link>
+      <description>“我们拥有大约600个由公司不同人制造的应用程序。” 在Zendesk,跨销售、营销和业务的团队正在为自己的工作建立应用程序。 ChatGPT Entertainment向每个雇员开放,商业用户正在问关于他们的dat的问题。</description>
+      <pubDate>Thu, 29 Oct 2026 22:48:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/GNYHDltnwZQ</guid>
+      <source url="https://www.youtube.com/shorts/GNYHDltnwZQ">OpenAI</source>
+    </item>
     <item>
       <title>Figma 讲解如何训练专用画布编辑模型</title>
       <link>https://www.figma.com/blog/training-a-figma-fluent-editing-model/</link>
@@ -110,62 +166,6 @@
       <pubDate>Thu, 29 Oct 2026 14:36:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed</guid>
       <source url="https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed">Wiz：Research（安全研究）</source>
-    </item>
-    <item>
-      <title>Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型</title>
-      <link>https://x.com/UnslothAI/status/2115812784189620265</link>
-      <description>Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 un</description>
-      <pubDate>Thu, 29 Oct 2026 14:27:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/UnslothAI/status/2115812784189620265</guid>
-      <source url="https://x.com/UnslothAI/status/2115812784189620265">X：Unsloth (@UnslothAI)</source>
-    </item>
-    <item>
-      <title>404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化</title>
-      <link>https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/</link>
-      <description>404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。</description>
-      <pubDate>Thu, 29 Oct 2026 14:21:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/</guid>
-      <source url="https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/">404 Media（RSS）</source>
-    </item>
-    <item>
-      <title>SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账</title>
-      <link>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</link>
-      <description>The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。</description>
-      <pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</guid>
-      <source url="https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview">The Verge：AI（RSS）</source>
-    </item>
-    <item>
-      <title>纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋</title>
-      <link>https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/</link>
-      <description>据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。</description>
-      <pubDate>Thu, 29 Oct 2026 13:42:38 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/</guid>
-      <source url="https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</link>
-      <description>The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。</description>
-      <pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive">The Verge：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务</title>
-      <link>https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/</link>
-      <description>Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。</description>
-      <pubDate>Thu, 29 Oct 2026 10:16:34 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/</guid>
-      <source url="https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>人工智能已经来到亚利桑那州的水域</title>
-      <link>https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc</link>
-      <description>从沙漠中涌现出来的灰巨头。在内部,工程师创造出我们手机、电脑和电器、流线服务、搜索引擎、聊天机器人、气温编码软件和网站背后的力量。建筑群同时是庞大的、蹲着的,与俯瞰的山脉相隔甚远。</description>
-      <pubDate>Thu, 29 Oct 2026 06:00:04 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc</guid>
-      <source url="https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc">The Verge AI</source>
     </item>
   </channel>
 </rss>
