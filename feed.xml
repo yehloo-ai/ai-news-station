@@ -5,8 +5,64 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:41:58 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>人工智能中最大的名字 支持一种新的方法 选择退出刮取</title>
+      <link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
+      <description>OpenAI、Google、微软和Anthropic说,他们将采用一种新的标准,即出版商可以选择摆脱被人工智能刮去,正如搜索引擎圆桌会议早些时候所报告的那样。 有了这种控制,出版商可以在多个人工智能公司之间应用他们的人工智能培训偏好,而不是套取。</description>
+      <pubDate>Fri, 30 Oct 2026 16:26:10 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</guid>
+      <source url="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out">The Verge AI</source>
+    </item>
+    <item>
+      <title>Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应</title>
+      <link>https://x.com/_philschmid/status/2116235686445502608</link>
+      <description>Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。</description>
+      <pubDate>Fri, 30 Oct 2026 18:28:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_philschmid/status/2116235686445502608</guid>
+      <source url="https://x.com/_philschmid/status/2116235686445502608">X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)</source>
+    </item>
+    <item>
+      <title>Google的卫星人工智能服务器向地球传送第一次响应</title>
+      <link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
+      <description>Google的人工智能芯片设备卫星从太空中产生出第一个响应. Google在星期五的博客文章中说,它成功启动卫星的"Tensor处理单元"(TPU),让上载的Gemma 4型号能够跟踪到一个迅速生成"太空"的快讯:B</description>
+      <pubDate>Fri, 30 Oct 2026 14:21:38 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</guid>
+      <source url="https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制</title>
+      <link>https://x.com/adocomplete/status/2116224220539883992</link>
+      <description>Anthropic 将 Claude 订阅套餐更名：Max 5x 改为 Max，Max 20x 改为 Ultra，价格不变（Max 100 美元/月、Ultra 200 美元/月）。即日起多数老订阅者的认证 Ultra 账号取消 5 小时限制，新账号保留临时限制以防欺诈滥用，周限额不变。</description>
+      <pubDate>Fri, 30 Oct 2026 17:42:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/adocomplete/status/2116224220539883992</guid>
+      <source url="https://x.com/adocomplete/status/2116224220539883992">X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)</source>
+    </item>
+    <item>
+      <title>星巴克想用人工智能在驱动器上展示一个“个性化的数字菜单”。</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru</link>
+      <description>星巴克最终可以向您展示一个个性化的数字菜单,当你拉到驱动器时。在星期四的一次收入电话中,星巴克CEO布莱恩·尼科尔(Brian Niccol)表示,公司将探索"在参与者到达时识别参与客户的经验,呈现个性化的数字我.</description>
+      <pubDate>Fri, 30 Oct 2026 13:38:04 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru">The Verge AI</source>
+    </item>
+    <item>
+      <title>Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问</title>
+      <link>https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/</link>
+      <description>Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。他称 AI Mode 不会带来流量，Reddit 正在美国以外测试登录墙以遏制抓取，并与 AI 提供商继续数据授权谈判。</description>
+      <pubDate>Fri, 30 Oct 2026 17:15:24 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/</guid>
+      <source url="https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>OpenAI 声称它只是做了不可能的事</title>
+      <link>https://www.youtube.com/watch?v=CWdTBLsbaQs</link>
+      <description>https://github.com/openai/math/blob/main/prprprints/The-Expresentive-Time-Hypothesis-is-False-10月-25-2026/paper.pdf 我们用樱桃花射线追踪模拟的论文</description>
+      <pubDate>Fri, 30 Oct 2026 15:57:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=CWdTBLsbaQs</guid>
+      <source url="https://www.youtube.com/watch?v=CWdTBLsbaQs">Two Minute Papers</source>
+    </item>
     <item>
       <title>Gen 如何使用 ChatGPT 工作将数据转换为决定 QQ OpenAI</title>
       <link>https://www.youtube.com/shorts/7TtGMileCus</link>
@@ -30,6 +86,14 @@
       <pubDate>Fri, 30 Oct 2026 10:58:06 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai">The Verge AI</source>
+    </item>
+    <item>
+      <title>AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%</title>
+      <link>https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</link>
+      <description>BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。</description>
+      <pubDate>Fri, 30 Oct 2026 14:50:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</guid>
+      <source url="https://www.bbc.co.uk/news/articles/cvwy72e0n72yo">Hacker News：AI 热帖</source>
     </item>
     <item>
       <title>The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露</title>
@@ -102,70 +166,6 @@
       <pubDate>Fri, 30 Oct 2026 07:42:58 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1686874?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1686874?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Claude新模型曝光：新Fable，新Opus…</title>
-      <link>https://www.qbitai.com/2026/10/506674.html</link>
-      <description></description>
-      <pubDate>Fri, 30 Oct 2026 05:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506674.html</guid>
-      <source url="https://www.qbitai.com/2026/10/506674.html">量子位</source>
-    </item>
-    <item>
-      <title>TRAE 开发者个人助理，打响 AI Coding 的下半场</title>
-      <link>http://www.geekpark.net/news/373190</link>
-      <description>作者｜Cynthia 编辑｜郑玄 过去两年，AI Coding 最令人兴奋的时刻，大基本止步于代码生成的那一秒。 一句话生成页面，几分钟搭出原型，一个开发者用半天时间做完了过去需要一周才能完成的开发任务&amp;hellip;&amp;hellip; 但在这之后，即使某项单点开发任务获得五倍、十倍的提速，一个项目从需求提出到产品交付的速度，有时候未必能有两倍效率提升。 时间去了哪里？ 写提示词、等待 AI 生成是一部分；生成效果不理想，手动在 IDE 中 修改是另一部分。甚至，开发完成后，代码还需要打开终端测试；准备项目汇报，又要切换到文档和演示工具。 每换一个应用、开启一段新会话，都可能需要重新解释：项目在</description>
-      <pubDate>Fri, 30 Oct 2026 13:49:25 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373190</guid>
-      <source url="http://www.geekpark.net/news/373190">极客公园</source>
-    </item>
-    <item>
-      <title>Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</link>
-      <description>月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。</description>
-      <pubDate>Fri, 30 Oct 2026 04:04:56 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a">公众号：月之暗面（Kimi）</source>
-    </item>
-    <item>
-      <title>Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络</title>
-      <link>https://www.platformer.news/thursday-newsletter-6/</link>
-      <description>Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。</description>
-      <pubDate>Fri, 30 Oct 2026 00:51:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.platformer.news/thursday-newsletter-6/</guid>
-      <source url="https://www.platformer.news/thursday-newsletter-6/">Platformer（热点 RSS）</source>
-    </item>
-    <item>
-      <title>刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了</title>
-      <link>https://www.ifanr.com/1686830?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>Plus 用户：为我发声#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 30 Oct 2026 00:29:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1686830?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1686830?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道</title>
-      <link>http://www.geekpark.net/news/373154</link>
-      <description>谷歌市值创纪录蒸发 5000 亿美元 AI 侵蚀营收 Alphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。 这家谷歌母公司公布，第三季度不含合作伙伴分成的营收为 1112 亿美元，低于分析师预测。搜索及其他渠道的广告营收也不及预期，增速为五个季度来最慢。这项业务约占公司总营收的一半，也是为巨额 AI 投资提供资金的关键来源。 摩根大通分析师 Doug Anmuth 等人在研报中表示，业绩和股价反应显示，对于投入数千亿美元建设 AI 基础设施的超大</description>
-      <pubDate>Fri, 30 Oct 2026 08:15:04 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373154</guid>
-      <source url="http://www.geekpark.net/news/373154">极客公园</source>
-    </item>
-    <item>
-      <title>早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜</title>
-      <link>https://www.ifanr.com/1686790?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 · 美国计算机专业入学人数再降，本科两年减少 18.4% · 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 30 Oct 2026 00:14:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1686790?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1686790?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Gemini API 的 Computer Use 工具正式开放（GA）</title>
-      <link>https://ai.google.dev/gemini-api/docs/changelog#10-30-2026</link>
-      <description>Google 于 10 月 30 日宣布 Gemini API 的 Computer Use 工具正式可用（GA），覆盖 Interactions 和 GenerateContent 两套 API。</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ai.google.dev/gemini-api/docs/changelog#10-30-2026</guid>
-      <source url="https://ai.google.dev/gemini-api/docs/changelog#10-30-2026">Gemini API：更新日志（网页）</source>
     </item>
   </channel>
 </rss>
