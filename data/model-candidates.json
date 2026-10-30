@@ -838,5 +838,21 @@
     "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
     "sourceName": "公众号：面壁智能（MiniCPM）",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
+    "summary": "Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客，模型为多模态多语言 MoE 架构，总参数约 1T、激活 49B、上下文窗口 1M token。",
+    "sourceUrl": "https://huggingface.co/blog/mistral-large4",
+    "sourceName": "Hugging Face 官方团队博客",
+    "reviewReason": "awaiting-review"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+    "summary": "Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。",
+    "sourceUrl": "https://x.com/Khazix0918/status/2115898252004622617",
+    "sourceName": "X：卡兹克 (@Khazix0918)",
+    "reviewReason": "awaiting-review"
   }
 ]
