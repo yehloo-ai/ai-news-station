@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 01:53:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:31:37 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户</title>
+      <link>https://x.com/cursor_ai/status/2116074289053175808</link>
+      <description>Cursor 发现通过其 IDE 扩展市场分发的 Claude Code VS Code 扩展被修改并植入恶意软件，最多影响 5000 用户，恶意版本并非 Anthropic 开发。Cursor 已于当日下午下线扩展市场，与相关提供方合作清除恶意软件并确认无进一步风险后重新上线，建议受影响用户参考博客说明排查，并升级到 Claude Code for VS Code 2.1.314。</description>
+      <pubDate>Fri, 30 Oct 2026 07:46:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cursor_ai/status/2116074289053175808</guid>
+      <source url="https://x.com/cursor_ai/status/2116074289053175808">X：Cursor (@cursor_ai)</source>
+    </item>
+    <item>
+      <title>Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令</title>
+      <link>https://www.ifanr.com/1686874?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>据说是 Anthropic 的 AGI#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 30 Oct 2026 07:42:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1686874?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1686874?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Claude新模型曝光：新Fable，新Opus…</title>
+      <link>https://www.qbitai.com/2026/10/506674.html</link>
+      <description></description>
+      <pubDate>Fri, 30 Oct 2026 05:50:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506674.html</guid>
+      <source url="https://www.qbitai.com/2026/10/506674.html">量子位</source>
+    </item>
+    <item>
+      <title>TRAE 开发者个人助理，打响 AI Coding 的下半场</title>
+      <link>http://www.geekpark.net/news/373190</link>
+      <description>作者｜Cynthia 编辑｜郑玄 过去两年，AI Coding 最令人兴奋的时刻，大基本止步于代码生成的那一秒。 一句话生成页面，几分钟搭出原型，一个开发者用半天时间做完了过去需要一周才能完成的开发任务&amp;hellip;&amp;hellip; 但在这之后，即使某项单点开发任务获得五倍、十倍的提速，一个项目从需求提出到产品交付的速度，有时候未必能有两倍效率提升。 时间去了哪里？ 写提示词、等待 AI 生成是一部分；生成效果不理想，手动在 IDE 中 修改是另一部分。甚至，开发完成后，代码还需要打开终端测试；准备项目汇报，又要切换到文档和演示工具。 每换一个应用、开启一段新会话，都可能需要重新解释：项目在</description>
+      <pubDate>Fri, 30 Oct 2026 13:49:25 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373190</guid>
+      <source url="http://www.geekpark.net/news/373190">极客公园</source>
+    </item>
+    <item>
+      <title>Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</link>
+      <description>月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。</description>
+      <pubDate>Fri, 30 Oct 2026 04:04:56 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</guid>
+      <source url="https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a">公众号：月之暗面（Kimi）</source>
+    </item>
     <item>
       <title>Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络</title>
       <link>https://www.platformer.news/thursday-newsletter-6/</link>
@@ -48,9 +88,9 @@
       <source url="https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku/">OpenRouter：Announcements（RSS）</source>
     </item>
     <item>
-      <title>Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元</title>
+      <title>Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元</title>
       <link>https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/</link>
-      <description>亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。</description>
+      <description>Amazon CEO Andy Jassy 在周四的季度财报电话会议上表示，AWS 未来五到十年内可以成为年营收万亿美元的业务，2026 年现金 capex 预计约 2200 亿美元，大部分投向 AWS，2027 年还将大幅增加。</description>
       <pubDate>Thu, 29 Oct 2026 23:42:22 +0000</pubDate>
       <guid isPermaLink="true">https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/</guid>
       <source url="https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/">TechCrunch：AI（RSS）</source>
@@ -62,6 +102,14 @@
       <pubDate>Thu, 29 Oct 2026 22:48:11 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/shorts/GNYHDltnwZQ</guid>
       <source url="https://www.youtube.com/shorts/GNYHDltnwZQ">OpenAI</source>
+    </item>
+    <item>
+      <title>Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧</title>
+      <link>https://www.bbc.com/news/articles/cm9qzdqpxy48o</link>
+      <description>Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。</description>
+      <pubDate>Thu, 29 Oct 2026 21:29:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cm9qzdqpxy48o</guid>
+      <source url="https://www.bbc.com/news/articles/cm9qzdqpxy48o">Hacker News：AI 热帖</source>
     </item>
     <item>
       <title>Figma 讲解如何训练专用画布编辑模型</title>
@@ -118,54 +166,6 @@
       <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
       <source url="https://openai.com/index/updated-model-spec">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍</title>
-      <link>https://x.com/thsottiaux/status/2115850175868727621</link>
-      <description>Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。</description>
-      <pubDate>Thu, 29 Oct 2026 16:56:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2115850175868727621</guid>
-      <source url="https://x.com/thsottiaux/status/2115850175868727621">X：Tibo (@thsottiaux)</source>
-    </item>
-    <item>
-      <title>Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能</title>
-      <link>https://x.com/GeminiApp/status/2115845164824711247</link>
-      <description>Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。</description>
-      <pubDate>Thu, 29 Oct 2026 16:36:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GeminiApp/status/2115845164824711247</guid>
-      <source url="https://x.com/GeminiApp/status/2115845164824711247">X：Gemini (@GeminiApp)</source>
-    </item>
-    <item>
-      <title>Zendesk的 ChatGPT 企业: 将公司数据投入工作</title>
-      <link>https://www.youtube.com/watch?v=L6pzlo1QvoM</link>
-      <description>“我们拥有大约600个由公司不同人制造的应用程序。” 在Zendesk,跨销售、营销和业务的团队正在为自己的工作建立应用程序。 ChatGPT Entertainment向每个雇员开放,商业用户正在问关于他们的dat的问题。</description>
-      <pubDate>Thu, 29 Oct 2026 16:23:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=L6pzlo1QvoM</guid>
-      <source url="https://www.youtube.com/watch?v=L6pzlo1QvoM">OpenAI</source>
-    </item>
-    <item>
-      <title>微软的人工智能未来工作较少</title>
-      <link>https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</link>
-      <description>对于仔细聆听微软CEO萨特雅·纳德拉(Satya Nadella)在过去几年里所说的话的人来说,本周感觉是最清楚的标志,然而人工智能即将从根本上改变微软的员工规模。 微软现在向大约60,000名员工提供自愿买断服务。</description>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</guid>
-      <source url="https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad">The Verge AI</source>
-    </item>
-    <item>
-      <title>NYT烹饪软件正在测试人工智能配方的修改</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</link>
-      <description>纽约时报正在为其烹饪软件测试一个新的人工智能功能,帮助用户修改食谱,这在用户中引发了一些剧情。 上星期五,NYT烹饪高级编辑Genevieve Ko公布了该功能,该功能可用于推荐替代配方和烹饪设备.</description>
-      <pubDate>Thu, 29 Oct 2026 10:39:37 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool">The Verge AI</source>
-    </item>
-    <item>
-      <title>Wiz 分析智能体攻击的七大指纹与发展趋势</title>
-      <link>https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed</link>
-      <description>Wiz 基于自身事件响应与公开披露案例，分析 AI 智能体参与真实入侵的现状与趋势，涉及 ARTEX、Hermes 等框架及韩国金融机构（约 67,000 人信息外泄）、泰国财政部、ConnectWise 供应链（尝试攻击超 2,250 个租户）等案例。</description>
-      <pubDate>Thu, 29 Oct 2026 14:36:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed</guid>
-      <source url="https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed">Wiz：Research（安全研究）</source>
     </item>
   </channel>
 </rss>
