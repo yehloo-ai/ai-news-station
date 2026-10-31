@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:43:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:55:47 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LRMoE: 用于内存约束节点的高效 MoE 培训的需求- 系统装入重解析</title>
+      <link>https://arxiv.org/abs/2610.37720</link>
+      <description>Sparse Mixture-of-Experts(MoE)模型为Web应用程序提供了可扩展的能力,但路由不均匀造成了计算和通信瓶颈。 现有的放置和复制方法重新分配了这一工作量,但增加了专家共通性。</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.37720</guid>
+      <source url="https://arxiv.org/abs/2610.37720">ArXiv AI</source>
+    </item>
+    <item>
+      <title>适用于海洋起伏的模型校正本地化推论</title>
+      <link>https://arxiv.org/abs/2610.37731</link>
+      <description>模型差异可能妨碍单个校正参数在整个上下文域复制物理响应,此外,观测和上下文中的不确定性会影响校正,必须加以核算和量化。</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.37731</guid>
+      <source url="https://arxiv.org/abs/2610.37731">ArXiv AI</source>
+    </item>
+    <item>
+      <title>ThinkJev: 一个想法, 用于校准型式决定的每一个预算</title>
+      <link>https://arxiv.org/abs/2610.37732</link>
+      <description>许多语言模型的用法都以打字决定为结束:在一组封闭选项中进行选择,其概率代码可以发挥作用。 从一个前传读取这些概率是快速的,但往往错误于采取若干步骤的决定,例如:</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.37732</guid>
+      <source url="https://arxiv.org/abs/2610.37732">ArXiv AI</source>
+    </item>
+    <item>
+      <title>OpenFrontiers: 开放研究问题集和科学再发现基准</title>
+      <link>https://arxiv.org/abs/2610.37739</link>
+      <description>大语言模型(LLMs)在解决研究层面的问题方面表现出了越来越大的希望,但对于这些问题的全面收集仍然缺失,对研究层面问题的评估仍然具有挑战性。 我们引入了OpenFrontie。</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.37739</guid>
+      <source url="https://arxiv.org/abs/2610.37739">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Web anything:从荒芜的Web到可扩展代理环境</title>
+      <link>https://arxiv.org/abs/2610.37786</link>
+      <description>网络智能体需要多样化的、可执行的和可重置的网站环境来进行可复制的培训和评价。 人类协助的镜像需要每个站点的工程,而基因构造可以与指定的真实网站相去甚远。 Caption-an</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.37786</guid>
+      <source url="https://arxiv.org/abs/2610.37786">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Anthropic IPO 招股文件披露近 9000 亿美元隐性债务</title>
+      <link>https://www.ithome.com/1/020/444.htm</link>
+      <description>Anthropic 近日提交 IPO 招股文件，彭博社报道其计划未来在服务器、建筑和电力等领域投入近 9,000 亿美元债务。该公司资产负债表显示 1,175 亿美元负债和 1,120 亿美元现金，而租赁合同及数据中心、电力和 GPU 采购协议等表外义务未直接体现；Anthropic 计划通过增加收入和筹集资金支付这些负债。</description>
+      <pubDate>Sat, 31 Oct 2026 03:25:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/020/444.htm</guid>
+      <source url="https://www.ithome.com/1/020/444.htm">IT之家·人工智能</source>
+    </item>
+    <item>
+      <title>Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保</title>
+      <link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</link>
+      <description>据 The Information 报道、Bloomberg 佐证，Nvidia 正洽谈为 Nscale 在西弗吉尼亚为 Anthropic 建设的数据中心担保数十亿美元债务融资，Anthropic 已就首栋建筑签署 446 亿美元合同。</description>
+      <pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</guid>
+      <source url="https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用</title>
+      <link>https://www.figma.com/blog/the-tldr-on-figma-weave/</link>
+      <description>Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。</description>
+      <pubDate>Sat, 31 Oct 2026 00:58:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.figma.com/blog/the-tldr-on-figma-weave/</guid>
+      <source url="https://www.figma.com/blog/the-tldr-on-figma-weave/">Figma AI / Agent / Make</source>
+    </item>
     <item>
       <title>早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」</title>
       <link>https://www.ifanr.com/1686979?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -30,6 +94,14 @@
       <pubDate>Sat, 31 Oct 2026 08:03:20 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/373220</guid>
       <source url="http://www.geekpark.net/news/373220">极客公园</source>
+    </item>
+    <item>
+      <title>OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News</title>
+      <link>https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/</link>
+      <description>OpenRouter 发布教程，演示用 @openrouter/agent 0.11.0 在 TypeScript 中搭建定时运行的常驻 AI Agent，监控 Hacker News 并生成摘要。</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/</guid>
+      <source url="https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/">OpenRouter：Announcements（RSS）</source>
     </item>
     <item>
       <title>Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件</title>
@@ -94,78 +166,6 @@
       <pubDate>Fri, 30 Oct 2026 14:21:38 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</guid>
       <source url="https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission">The Verge AI</source>
-    </item>
-    <item>
-      <title>Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制</title>
-      <link>https://x.com/adocomplete/status/2116224220539883992</link>
-      <description>Anthropic 将 Claude 订阅套餐更名：Max 5x 改为 Max，Max 20x 改为 Ultra，价格不变（Max 100 美元/月、Ultra 200 美元/月）。即日起多数老订阅者的认证 Ultra 账号取消 5 小时限制，新账号保留临时限制以防欺诈滥用，周限额不变。</description>
-      <pubDate>Fri, 30 Oct 2026 17:42:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/adocomplete/status/2116224220539883992</guid>
-      <source url="https://x.com/adocomplete/status/2116224220539883992">X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)</source>
-    </item>
-    <item>
-      <title>星巴克想用人工智能在驱动器上展示一个“个性化的数字菜单”。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru</link>
-      <description>星巴克最终可以向您展示一个个性化的数字菜单,当你拉到驱动器时。在星期四的一次收入电话中,星巴克CEO布莱恩·尼科尔(Brian Niccol)表示,公司将探索"在参与者到达时识别参与客户的经验,呈现个性化的数字我.</description>
-      <pubDate>Fri, 30 Oct 2026 13:38:04 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru">The Verge AI</source>
-    </item>
-    <item>
-      <title>Reddit CEO 称 Google AI Mode 不为任何人带来流量，Reddit 每周流失超百万搜索访问</title>
-      <link>https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/</link>
-      <description>Reddit CEO Steve Huffman 表示 10 月 Reddit 每周流失超过 100 万来自 Google 搜索的访问，股价在业绩强劲的情况下仍下跌超 25%。他称 AI Mode 不会带来流量，Reddit 正在美国以外测试登录墙以遏制抓取，并与 AI 提供商继续数据授权谈判。</description>
-      <pubDate>Fri, 30 Oct 2026 17:15:24 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/</guid>
-      <source url="https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI 声称它只是做了不可能的事</title>
-      <link>https://www.youtube.com/watch?v=CWdTBLsbaQs</link>
-      <description>https://github.com/openai/math/blob/main/prprprints/The-Expresentive-Time-Hypothesis-is-False-10月-25-2026/paper.pdf 我们用樱桃花射线追踪模拟的论文</description>
-      <pubDate>Fri, 30 Oct 2026 15:57:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=CWdTBLsbaQs</guid>
-      <source url="https://www.youtube.com/watch?v=CWdTBLsbaQs">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>Gen 如何使用 ChatGPT 工作将数据转换为决定 QQ OpenAI</title>
-      <link>https://www.youtube.com/shorts/7TtGMileCus</link>
-      <description>“在ChatGPT工作之前,我们行走。现在,随着ChatGPT工作,我们正在运行。 ”对于Gen's Howie Xu来说,这意味着理解新产品登机经验是如何在发布后两三小时内工作的。 寻找答案意味着跨团队、职能和时区重复交接。</description>
-      <pubDate>Fri, 30 Oct 2026 15:24:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/7TtGMileCus</guid>
-      <source url="https://www.youtube.com/shorts/7TtGMileCus">OpenAI</source>
-    </item>
-    <item>
-      <title>Gen 如何使用 ChatGPT 工作将数据转换为决定 QQ OpenAI</title>
-      <link>https://www.youtube.com/watch?v=Oi9DHk57KeQ</link>
-      <description>“在ChatGPT工作之前,我们行走。现在,随着ChatGPT工作,我们正在运行。 ”对于Gen's Howie Xu来说,这意味着理解新产品登机经验是如何在发布后两三小时内工作的。 寻找答案意味着跨团队、职能和时区重复交接。</description>
-      <pubDate>Fri, 30 Oct 2026 15:22:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Oi9DHk57KeQ</guid>
-      <source url="https://www.youtube.com/watch?v=Oi9DHk57KeQ">OpenAI</source>
-    </item>
-    <item>
-      <title>教宗利奥呼吁解除人工智能:‘机器是工具,不是人'</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai</link>
-      <description>教宗利奥十四说人工智能系统应该"解除武装",并补充说人类"有责任引导,改变并在必要时拒绝其应用",教宗利奥在星期五的教皇演讲中鼓励联合国会员国"采取具体步骤禁止致命的自主武器".</description>
-      <pubDate>Fri, 30 Oct 2026 10:58:06 -0400</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai">The Verge AI</source>
-    </item>
-    <item>
-      <title>AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%</title>
-      <link>https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</link>
-      <description>BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。</description>
-      <pubDate>Fri, 30 Oct 2026 14:50:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</guid>
-      <source url="https://www.bbc.co.uk/news/articles/cvwy72e0n72yo">Hacker News：AI 热帖</source>
-    </item>
-    <item>
-      <title>The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
-      <description>The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。</description>
-      <pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles">The Verge：AI（RSS）</source>
     </item>
   </channel>
 </rss>
