@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:28:32 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>在梅塔之前,我建立了人工智能塔马戈奇</title>
+      <link>https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</link>
+      <description>马克·扎克伯格的"梅塔"让人工智能变得如此令人发指地可爱,给人工智能一个令人毛骨悚然的小相貌——这个节日季,他想卖给你一个"穆斯魅力",这样你就可以像"塔马哥奇"一样带着你的快乐的人工智能助手到处走来走去. 但我不会买一个,因为我们家里有"穆斯魅力". It [.].</description>
+      <pubDate>Sat, 31 Oct 2026 12:05:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</guid>
+      <source url="https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code">The Verge AI</source>
+    </item>
+    <item>
+      <title>DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活</title>
+      <link>https://www.ifanr.com/1687026?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI Agent 的下一个瓶颈，可能是人类自己#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 31 Oct 2026 13:59:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1687026?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1687026?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」</title>
       <link>https://www.qbitai.com/2026/10/506855.html</link>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 30 Oct 2026 16:26:10 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</guid>
       <source url="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out">The Verge AI</source>
-    </item>
-    <item>
-      <title>前途多出,想造出什么来?</title>
-      <link>https://www.youtube.com/watch?v=o4D1J1YWjhg</link>
-      <description></description>
-      <pubDate>Fri, 30 Oct 2026 20:17:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=o4D1J1YWjhg</guid>
-      <source url="https://www.youtube.com/watch?v=o4D1J1YWjhg">OpenAI</source>
-    </item>
-    <item>
-      <title>Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应</title>
-      <link>https://x.com/_philschmid/status/2116235686445502608</link>
-      <description>Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。</description>
-      <pubDate>Fri, 30 Oct 2026 18:28:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_philschmid/status/2116235686445502608</guid>
-      <source url="https://x.com/_philschmid/status/2116235686445502608">X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)</source>
     </item>
   </channel>
 </rss>
