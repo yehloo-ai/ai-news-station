@@ -5,8 +5,104 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 00:36:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:36:36 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>自动构建强大的简单基线</title>
+      <link>https://arxiv.org/abs/2610.40700</link>
+      <description>为了严格确定新式深层学习方法的价值,必须将其与适当的基线相比较。 随着深层学习在物理和生命科学中越来越常见,在很多情况下,显性pr.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40700</guid>
+      <source url="https://arxiv.org/abs/2610.40700">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Bayesian 分配系统状态与流量匹配估计</title>
+      <link>https://arxiv.org/abs/2610.40728</link>
+      <description>中压支线没有多少实时测量,所以分布系统状态估计(DSSE)依赖于次级子站的伪测量,这是巴耶斯语中之前的测量。 加权最小的方块保持电流精确但减少 t</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40728</guid>
+      <source url="https://arxiv.org/abs/2610.40728">ArXiv ML</source>
+    </item>
+    <item>
+      <title>不要只是暗示, 检测: 用于边缘异常检测的任务分泌管道</title>
+      <link>https://arxiv.org/abs/2610.40732</link>
+      <description>工业互联网(IIoT)边缘管道通常会将多传感器数据的毗连块输给网络中断和硬件断层。 标准补救措施是断开连接的“impute-when-detect”管道,其干扰器只为Mean训练。</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40732</guid>
+      <source url="https://arxiv.org/abs/2610.40732">ArXiv ML</source>
+    </item>
+    <item>
+      <title>使用局部内涵尺寸的无监督特性选择 - 扩展版本</title>
+      <link>https://arxiv.org/abs/2610.40736</link>
+      <description>高维度既会降低学习算法的效率和有效性,在许多应用中,没有类标签来指导维度的降低. 本文提出LIDFS,一种不受监督的特征选择方法.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40736</guid>
+      <source url="https://arxiv.org/abs/2610.40736">ArXiv ML</source>
+    </item>
+    <item>
+      <title>持续适应的认证行为保留</title>
+      <link>https://arxiv.org/abs/2610.40740</link>
+      <description>持续适应不仅需要决定如何更新一个模型,而且需要决定是否在不超出已宣布的预算的情况下对受保护行为进行更新。 我们引入了认证的基于锁定的适应(CABA),即一个候选不可知性Po。</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40740</guid>
+      <source url="https://arxiv.org/abs/2610.40740">ArXiv ML</source>
+    </item>
+    <item>
+      <title>Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping</title>
+      <link>https://arxiv.org/abs/2610.40726</link>
+      <description>同步强化学习正在成为培训后大型语言模型(LLMS)的主流范例,因为它通过在推出时更新模型来提高培训效率。 最近的工作认为,在GRPO中采用分组抽样方法可以提高培训效率。</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40726</guid>
+      <source url="https://arxiv.org/abs/2610.40726">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>Maage-VL-Cowork:从演化的哈内塞斯学习混合计算机用途的全训练辅助工具</title>
+      <link>https://arxiv.org/abs/2610.40747</link>
+      <description>有效的计算机使用智能体(CUAs)应在单一策略范围内将视觉GUI互动与代码和终端执行无缝地结合起来。</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40747</guid>
+      <source url="https://arxiv.org/abs/2610.40747">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>光谱起草器和连续扩散语言模型之间的基因差距</title>
+      <link>https://arxiv.org/abs/2610.40847</link>
+      <description>持续传播语言模型(CDLM)和投机性起草者提供高效的语言生成,但通常评价不同:CDLM通过迭代完善独立生成,而起草者则为目标模型提出文本</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40847</guid>
+      <source url="https://arxiv.org/abs/2610.40847">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>Qistas:大型语言模型公平评价预登记、可移植协议</title>
+      <link>https://arxiv.org/abs/2610.40893</link>
+      <description>大语言模型(LLMS)的公平性基准在社会类别中绝大多数是英文出生的和美国的;翻译版本将这些类别带入它们不适用的社会,几乎没有人先修正其假设。</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40893</guid>
+      <source url="https://arxiv.org/abs/2610.40893">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>CoFiBreak : 为有效的多轮断狱提供粗糙的多样化奖励</title>
+      <link>https://arxiv.org/abs/2610.40926</link>
+      <description>自动红色组合训练攻击者大语言模型(LLM)从受害者LLM中获取有害反应,但当攻击成功是唯一的回报时,强化学习可以使攻击者崩溃到狭长的导火线上。</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40926</guid>
+      <source url="https://arxiv.org/abs/2610.40926">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光</title>
+      <link>https://www.qbitai.com/2026/11/507082.html</link>
+      <description>HuggingFace疑似泄露权重已被下5000次</description>
+      <pubDate>Mon, 02 Nov 2026 04:28:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507082.html</guid>
+      <source url="https://www.qbitai.com/2026/11/507082.html">量子位</source>
+    </item>
+    <item>
+      <title>一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了</title>
+      <link>https://www.ifanr.com/1687071?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>全球基模大战，疯狂 11 月正式开场#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 02 Nov 2026 01:51:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1687071?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1687071?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场</title>
       <link>http://www.geekpark.net/news/373252</link>
@@ -70,102 +166,6 @@
       <pubDate>Sat, 31 Oct 2026 12:05:00 -0400</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</guid>
       <source url="https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code">The Verge AI</source>
-    </item>
-    <item>
-      <title>DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活</title>
-      <link>https://www.ifanr.com/1687026?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI Agent 的下一个瓶颈，可能是人类自己#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 31 Oct 2026 13:59:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1687026?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1687026?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>刚刚，DeepSeek重磅开源：Agent底座架构！</title>
-      <link>https://www.qbitai.com/2026/10/506904.html</link>
-      <description>AI已经自己找到Bug并提交PR</description>
-      <pubDate>Sat, 31 Oct 2026 13:49:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506904.html</guid>
-      <source url="https://www.qbitai.com/2026/10/506904.html">量子位</source>
-    </item>
-    <item>
-      <title>刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」</title>
-      <link>https://www.qbitai.com/2026/10/506855.html</link>
-      <description>200美元Ultra用户先用</description>
-      <pubDate>Sat, 31 Oct 2026 05:05:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506855.html</guid>
-      <source url="https://www.qbitai.com/2026/10/506855.html">量子位</source>
-    </item>
-    <item>
-      <title>LRMoE: 用于内存约束节点的高效 MoE 培训的需求- 系统装入重解析</title>
-      <link>https://arxiv.org/abs/2610.37720</link>
-      <description>Sparse Mixture-of-Experts(MoE)模型为Web应用程序提供了可扩展的能力,但路由不均匀造成了计算和通信瓶颈。 现有的放置和复制方法重新分配了这一工作量,但增加了专家共通性。</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.37720</guid>
-      <source url="https://arxiv.org/abs/2610.37720">ArXiv AI</source>
-    </item>
-    <item>
-      <title>适用于海洋起伏的模型校正本地化推论</title>
-      <link>https://arxiv.org/abs/2610.37731</link>
-      <description>模型差异可能妨碍单个校正参数在整个上下文域复制物理响应,此外,观测和上下文中的不确定性会影响校正,必须加以核算和量化。</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.37731</guid>
-      <source url="https://arxiv.org/abs/2610.37731">ArXiv AI</source>
-    </item>
-    <item>
-      <title>ThinkJev: 一个想法, 用于校准型式决定的每一个预算</title>
-      <link>https://arxiv.org/abs/2610.37732</link>
-      <description>许多语言模型的用法都以打字决定为结束:在一组封闭选项中进行选择,其概率代码可以发挥作用。 从一个前传读取这些概率是快速的,但往往错误于采取若干步骤的决定,例如:</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.37732</guid>
-      <source url="https://arxiv.org/abs/2610.37732">ArXiv AI</source>
-    </item>
-    <item>
-      <title>OpenFrontiers: 开放研究问题集和科学再发现基准</title>
-      <link>https://arxiv.org/abs/2610.37739</link>
-      <description>大语言模型(LLMs)在解决研究层面的问题方面表现出了越来越大的希望,但对于这些问题的全面收集仍然缺失,对研究层面问题的评估仍然具有挑战性。 我们引入了OpenFrontie。</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.37739</guid>
-      <source url="https://arxiv.org/abs/2610.37739">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Web anything:从荒芜的Web到可扩展代理环境</title>
-      <link>https://arxiv.org/abs/2610.37786</link>
-      <description>网络智能体需要多样化的、可执行的和可重置的网站环境来进行可复制的培训和评价。 人类协助的镜像需要每个站点的工程,而基因构造可以与指定的真实网站相去甚远。 Caption-an</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.37786</guid>
-      <source url="https://arxiv.org/abs/2610.37786">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Anthropic IPO 招股文件披露近 9000 亿美元隐性债务</title>
-      <link>https://www.ithome.com/1/020/444.htm</link>
-      <description>Anthropic 近日提交 IPO 招股文件，彭博社报道其计划未来在服务器、建筑和电力等领域投入近 9,000 亿美元债务。该公司资产负债表显示 1,175 亿美元负债和 1,120 亿美元现金，而租赁合同及数据中心、电力和 GPU 采购协议等表外义务未直接体现；Anthropic 计划通过增加收入和筹集资金支付这些负债。</description>
-      <pubDate>Sat, 31 Oct 2026 03:25:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/020/444.htm</guid>
-      <source url="https://www.ithome.com/1/020/444.htm">IT之家·人工智能</source>
-    </item>
-    <item>
-      <title>Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保</title>
-      <link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</link>
-      <description>据 The Information 报道、Bloomberg 佐证，Nvidia 正洽谈为 Nscale 在西弗吉尼亚为 Anthropic 建设的数据中心担保数十亿美元债务融资，Anthropic 已就首栋建筑签署 446 亿美元合同。</description>
-      <pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</guid>
-      <source url="https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用</title>
-      <link>https://www.figma.com/blog/the-tldr-on-figma-weave/</link>
-      <description>Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。</description>
-      <pubDate>Sat, 31 Oct 2026 00:58:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.figma.com/blog/the-tldr-on-figma-weave/</guid>
-      <source url="https://www.figma.com/blog/the-tldr-on-figma-weave/">Figma AI / Agent / Make</source>
-    </item>
-    <item>
-      <title>早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」</title>
-      <link>https://www.ifanr.com/1686979?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起 · 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本 · 米哈游《星布谷地》定档 12 月 4 日公测#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 31 Oct 2026 00:14:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1686979?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1686979?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
