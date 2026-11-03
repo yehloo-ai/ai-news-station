@@ -1,5 +1,4 @@
 const API = 'https://api.rss2json.com/v1/api.json';
-const AIHOT = 'https://aihot.virxact.com/api/public';
 
 // 静态数据层：资讯频道只读取 GitHub Actions 预生成的同源 JSON。
 // 公共 CORS 代理经常限流或失效，不再作为浏览器端数据链路。
@@ -189,36 +188,6 @@ async function translateItems(items) {
   return items;
 }
 
-// ── AI HOT API ────────────────────────────────────────
-async function fetchAiHot(path) {
-  const url = `${AIHOT}${path}`;
-  // 直连（AI HOT 支持 CORS）
-  try {
-    const res = await fetch(url, { signal: timeoutSignal(6000), headers: { 'Accept': 'application/json' } });
-    if (res.ok) return await res.json();
-  } catch (_) {}
-  // Fallback: allorigins raw 代理（直接返回原始 JSON，/get 模式有 500 问题）
-  try {
-    const res = await fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`, { signal: timeoutSignal(8000) });
-    if (res.ok) return await res.json();
-  } catch (_) {}
-  return null;
-}
-
-function aiHotToCard(item) {
-  const CAT_COLOR = { 'ai-models':'#bc8cff','ai-products':'#3fb950','industry':'#ffa657','paper':'#58a6ff','tip':'#d29922','opensource':'#3fb9b9' };
-  return {
-    title:       item.title || '',
-    link:        item.url || '',
-    description: item.summary || '',
-    pubDate:     item.publishedAt || '',
-    thumbnail:   '',
-    enclosure:   null,
-    _aiCat:      item.category || '',
-    _feed: { name: item.source || 'AI HOT', color: CAT_COLOR[item.category] || '#8b949e' }
-  };
-}
-
 function genRecReason(item) {
   const raw = item.titleOriginal || item.title || '';
   const desc = String(item.description || '').replace(/<[^>]*>/g, ' ').slice(0, 200);
@@ -340,7 +309,6 @@ const TABS = [
     layout: 'featured',
     desc: '按来源与相关性自动汇总',
     translate: true,
-    aiHotPath: '/items?mode=selected&take=30',
     feeds: SHARED_FEEDS
   },
   {
@@ -351,7 +319,6 @@ const TABS = [
     icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>',
     layout: 'list',
     desc: '全网全量 · 可按来源与分类筛选',
-    aiHotPath: '/items?mode=all&take=80',
     feeds: ALL_FEEDS
   },
   {
@@ -361,7 +328,6 @@ const TABS = [
     icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="9" y1="7" x2="15" y2="7"/><line x1="9" y1="11" x2="15" y2="11"/><line x1="9" y1="15" x2="12" y2="15"/></svg>',
     layout: 'daily',
     desc: '每日 AI 资讯速览',
-    aiHotPath: '/daily',
     feeds: SHARED_FEEDS
   },
   {
@@ -371,7 +337,6 @@ const TABS = [
     icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>',
     layout: 'timeline',
     desc: 'AI 模型发布时间线：哪家、什么模型、哪天发布、关键规格',
-    aiHotPath: null,
     feeds: []
   },
   {
@@ -380,7 +345,6 @@ const TABS = [
     icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>',
     layout: 'funding',
     desc: 'AI 融资时间线：谁、什么轮次、多少钱、什么估值',
-    aiHotPath: null,
     feeds: []
   },
   {
@@ -389,7 +353,6 @@ const TABS = [
     icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>',
     layout: 'tools',
     desc: '精选好用的 AI 工具，按场景分类，收藏即用',
-    aiHotPath: null,
     feeds: []
   },
 ];

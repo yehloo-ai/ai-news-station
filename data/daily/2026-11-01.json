@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T00:00:43.939Z",
+  "windowStart": "2026-10-31T00:00:00.000Z",
+  "windowEnd": "2026-11-01T00:00:00.000Z",
+  "links": {
+    "aihot": "https://aihot.news/daily/2026-11-01"
+  },
+  "attribution": {
+    "name": "AIHOT",
+    "url": "https://aihot.news/daily/2026-11-01"
+  },
+  "lead": {
+    "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
+    "leadParagraph": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。"
+  },
+  "sections": [
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
+          "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
+          "source": {
+            "name": "Figma AI / Agent / Make"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/akdeq33m7cpr8m7zsfgvfiz5c",
+            "original": "https://www.figma.com/blog/the-tldr-on-figma-weave/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/akdeq33m7cpr8m7zsfgvfiz5c"
+          },
+          "sourceUrl": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+          "sourceName": "Figma AI / Agent / Make",
+          "permalink": "https://aihot.news/items/akdeq33m7cpr8m7zsfgvfiz5c"
+        }
+      ]
+    },
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保",
+          "summary": "据 The Information 报道、Bloomberg 佐证，Nvidia 正洽谈为 Nscale 在西弗吉尼亚为 Anthropic 建设的数据中心担保数十亿美元债务融资，Anthropic 已就首栋建筑签署 446 亿美元合同。",
+          "source": {
+            "name": "TechCrunch：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/hx5dsruslfiiqhbsro2tvg1n8",
+            "original": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/hx5dsruslfiiqhbsro2tvg1n8"
+          },
+          "sourceUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "permalink": "https://aihot.news/items/hx5dsruslfiiqhbsro2tvg1n8"
+        },
+        {
+          "title": "彭博社统计：Alphabet、Meta、微软、亚马逊、甲骨文承诺投入超3万亿美元建AI基础设施",
+          "summary": "据彭博社10月31日报道，Alphabet、Meta、微软、亚马逊和甲骨文五大巨头承诺未来数年在数据中心等领域投入超过3万亿美元（约20.01万亿元人民币）。其中谷歌支出承诺超1万亿美元、接近一年前的八倍，Meta超8,000亿美元且近半用于最长分30年支付的租约；甲骨文是首家因投资AI数据中心而自由现金流转负的大型科技公司，预计到2028年恢复正自由现金流。",
+          "source": {
+            "name": "IT之家·人工智能"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/htfc0ler37j2h4hoqll6jewz3",
+            "original": "https://www.ithome.com/1/020/632.htm"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/htfc0ler37j2h4hoqll6jewz3"
+          },
+          "sourceUrl": "https://www.ithome.com/1/020/632.htm",
+          "sourceName": "IT之家·人工智能",
+          "permalink": "https://aihot.news/items/htfc0ler37j2h4hoqll6jewz3"
+        }
+      ]
+    },
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
+          "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
+          "source": {
+            "name": "Wiz：Research（安全研究）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/la0qb77ds4znf2r7ub14a3bqz",
+            "original": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/la0qb77ds4znf2r7ub14a3bqz"
+          },
+          "sourceUrl": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+          "sourceName": "Wiz：Research（安全研究）",
+          "permalink": "https://aihot.news/items/la0qb77ds4znf2r7ub14a3bqz"
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
+          "summary": "OpenRouter 发布教程，演示用 @openrouter/agent 0.11.0 在 TypeScript 中搭建定时运行的常驻 AI Agent，监控 Hacker News 并生成摘要。",
+          "source": {
+            "name": "OpenRouter：Announcements（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/upl3hjjdokqe13w3ieo9opr0v",
+            "original": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/upl3hjjdokqe13w3ieo9opr0v"
+          },
+          "sourceUrl": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent/",
+          "sourceName": "OpenRouter：Announcements（RSS）",
+          "permalink": "https://aihot.news/items/upl3hjjdokqe13w3ieo9opr0v"
+        }
+      ]
+    }
+  ],
+  "flashes": [
+    {
+      "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/yqblvh40gus1ssc0rjvawh6fu",
+        "original": "https://www.ithome.com/1/020/444.htm"
+      },
+      "publishedAt": "2026-10-31T03:25:09.697Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/yqblvh40gus1ssc0rjvawh6fu"
+      },
+      "sourceUrl": "https://www.ithome.com/1/020/444.htm",
+      "sourceName": "IT之家·人工智能",
+      "permalink": "https://aihot.news/items/yqblvh40gus1ssc0rjvawh6fu"
+    }
+  ]
+}

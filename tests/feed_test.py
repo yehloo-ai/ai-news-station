@@ -46,11 +46,38 @@ class FeedTests(unittest.TestCase):
             self.assertEqual(feeds.save_json('all.json',[]),old['items'])
             self.assertEqual(json.loads(path.read_text()),old)
 
-    def test_aihot_nested_items(self):
+    def test_aihot_v1_items(self):
         response = Mock()
-        response.json.return_value={'data':{'items':[{'title':'News','url':'https://example.test/story'}]}}
+        attribution = {'name':'AIHOT','url':'https://aihot.news/items/story'}
+        response.json.return_value={'schemaVersion':1,'items':[{'title':'新闻','originalTitle':'News',
+            'links':{'original':'https://example.test/story','aihot':'https://aihot.news/items/story'},
+            'source':{'name':'Example'},'summary':'摘要','attribution':attribution}]}
+        with patch.object(feeds.requests,'get',return_value=response) as request:
+            items = feeds.fetch_aihot()
+        self.assertEqual(len(items),1)
+        self.assertEqual(items[0]['source'],'Example')
+        self.assertEqual(items[0]['link'],'https://example.test/story')
+        self.assertEqual(items[0]['titleOriginal'],'News')
+        self.assertEqual(items[0]['attribution'],attribution)
+        self.assertEqual(request.call_args.args[0],'https://aihot.news/api/v1/items?mode=selected&window=7d&limit=30')
+
+    def test_aihot_invalid_schema_preserves_cache(self):
+        url = 'https://aihot.news/api/v1/items?mode=selected&window=7d&limit=30'
+        previous = [{'title':'Saved','link':'https://example.test/saved'}]
+        feeds.SOURCE_CACHE[url] = {'items':previous,'checkedAt':'2026-11-01T00:00:00Z'}
+        response = Mock()
+        for payload in [{'data':{'items':[]}}, {'schemaVersion':2,'items':[]}, {'schemaVersion':1,'items':'bad'}]:
+            response.json.return_value = payload
+            with patch.object(feeds.requests,'get',return_value=response):
+                self.assertEqual(feeds.fetch_aihot(),previous)
+            self.assertEqual(feeds.SOURCE_HEALTH[url]['status'],'stale')
+            self.assertIn('Unsupported',feeds.SOURCE_HEALTH[url]['error'])
+
+    def test_aihot_unsafe_sources_are_not_published(self):
+        response = Mock()
+        response.json.return_value = {'schemaVersion':1,'items':[None, {'title':'Bad','links':{'original':'javascript:alert(1)'}}]}
         with patch.object(feeds.requests,'get',return_value=response):
-            self.assertEqual(len(feeds.fetch_aihot()),1)
+            self.assertEqual(feeds.fetch_aihot(),[])
 
     def test_general_news_requires_ai_relevance(self):
         items = [{'title':'今日生活资讯','description':'普通新闻','link':'https://example.test/a'},

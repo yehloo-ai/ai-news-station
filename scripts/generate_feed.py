@@ -282,35 +282,40 @@ def fetch_rss(name, url, color, limit=15):
         print(f'  ✓ {name}: {len(items)} 条')
     return [dict(item) for item in source_result(name, url, items, error)[:limit]]
 
-def fetch_aihot(path='/items?mode=selected&take=30'):
+def fetch_aihot(path='/items?mode=selected&window=7d&limit=30'):
     """从 AI HOT API 拉取精选内容"""
     items, error = [], None
-    url = f'https://aihot.virxact.com/api/public{path}'
+    url = f'https://aihot.news/api/v1{path}'
     try:
         r = requests.get(url,
-                         timeout=TIMEOUT, headers=HEADERS)
+                         timeout=TIMEOUT, headers={**HEADERS, 'User-Agent': f'ai-news-station/1.0 (+{SITE_URL})', 'Accept': 'application/json'})
         r.raise_for_status()
         data = r.json()
-        entries = data.get('data', data) if isinstance(data, dict) else data
-        if isinstance(entries, dict):
-            entries = entries.get('items')
-        if isinstance(entries, list):
-            for e in entries:
-                title = e.get('title') or e.get('name', '')
-                link  = safe_url(e.get('url') or e.get('link', ''))
-                desc  = e.get('description') or e.get('summary', '')
-                pub   = parse_date(e.get('publishedAt') or e.get('created_at', ''))
-                if title and link:
-                    items.append({
-                        'title': title,
-                        'link': link,
-                        'description': str(desc)[:300],
-                        'pubDate': pub.isoformat() if pub else None,
-                        'source': str(e.get('source') or 'AI HOT'),
-                        'aggregator': 'AI HOT',
-                        '_aiCat': e.get('category') if e.get('category') in ('industry', 'ai-products', 'tip', 'paper', 'funding', 'opensource', 'ai-models', 'design', 'video') else None,
-                        'color': '#d01922',
-                    })
+        if not isinstance(data, dict) or data.get('schemaVersion') != 1 or not isinstance(data.get('items'), list):
+            raise ValueError('Unsupported AIHOT v1 items response')
+        for e in data['items']:
+            if not isinstance(e, dict):
+                continue
+            title = e.get('title', '')
+            links = e.get('links') if isinstance(e.get('links'), dict) else {}
+            source = e.get('source') if isinstance(e.get('source'), dict) else {}
+            link  = safe_url(links.get('original'))
+            desc  = e.get('summary', '')
+            pub   = parse_date(e.get('publishedAt'))
+            if isinstance(title, str) and title.strip() and link:
+                items.append({
+                    'title': title,
+                    'link': link,
+                    'description': str(desc)[:300],
+                    'pubDate': pub.isoformat() if pub else None,
+                    'source': str(source.get('name') or 'AI HOT'),
+                    'aggregator': 'AI HOT',
+                    'aggregatorUrl': safe_url(links.get('aihot')),
+                    'attribution': e.get('attribution'),
+                    'titleOriginal': e.get('originalTitle') or title,
+                    '_aiCat': e.get('category') if e.get('category') in ('industry', 'ai-products', 'tip', 'paper', 'funding', 'opensource', 'ai-models', 'design', 'video') else None,
+                    'color': '#d01922',
+                })
         print(f'  ✓ AI HOT{path}: {len(items)} 条')
     except Exception as ex:
         error = f'{type(ex).__name__}: {ex}'
@@ -476,8 +481,8 @@ def main():
     print('=== 飞翔的AI资讯站 数据更新开始 ===')
 
     print('\n[AI HOT API]')
-    aihot_featured = fetch_aihot('/items?mode=selected&take=30')
-    aihot_all      = fetch_aihot('/items?mode=all&take=60')
+    aihot_featured = fetch_aihot('/items?mode=selected&window=7d&limit=30')
+    aihot_all      = fetch_aihot('/items?mode=all&window=7d&limit=60')
 
     print('\n[中文媒体]')
     chinese_base = gen_chinese_base()

@@ -38,6 +38,7 @@ function check(directory) {
     if (path.startsWith('assets/') && name.endsWith('.js')) new vm.Script(readFileSync(path,'utf8'), {filename:path});
     if (!name.endsWith('.html')) continue;
     const html=readFileSync(path,'utf8'); htmlCount++;
+    assert(!html.includes('[object Object]'), 'Unrendered object: ' + path);
     for (const script of html.matchAll(/<script([^>]*)>([\s\S]*?)<\/script>/gi)) {
       if (/src=/.test(script[1])) continue;
       if (/application\/(ld\+)?json/.test(script[1])) JSON.parse(script[2]);

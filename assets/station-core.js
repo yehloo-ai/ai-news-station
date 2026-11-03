@@ -44,6 +44,19 @@
           && typeof item.summary === 'string' && safeURL(item.sourceUrl)))
       && data.sections.some(section => section.items.length > 0);
   }
+  function normalizeDailyResponse(payload, expectedDate) {
+    const report = payload?.schemaVersion === 1 ? payload.report : null;
+    if (!report || !Array.isArray(report.sections)) return null;
+    const normalizeSource = item => ({...item,
+      sourceUrl: safeURL(item?.links?.original),
+      sourceName: typeof item?.source?.name === 'string' ? item.source.name : '来源未标注',
+      permalink: safeURL(item?.links?.aihot)
+    });
+    const data = {...report, sections: report.sections.map(section => ({...section,
+      items: Array.isArray(section?.items) ? section.items.map(normalizeSource) : null
+    })), flashes: Array.isArray(report.flashes) ? report.flashes.map(normalizeSource) : []};
+    return validSnapshot(data, expectedDate) ? data : null;
+  }
   function snapshotSources(data) {
     return [...new Set((data?.sections || []).flatMap(section => section.items || []).map(item => item.sourceName || '来源未标注'))]
       .map(name => ({name, color: '#6b7280'}));
@@ -105,5 +118,5 @@
     }
     return {get, peek};
   }
-  return {escapeHTML, safeURL, validDate, beijingDate, formatDate, formatUpdated, normalizeItem, validSnapshot, snapshotSources, shareSections, createDataClient};
+  return {escapeHTML, safeURL, validDate, beijingDate, formatDate, formatUpdated, normalizeItem, normalizeDailyResponse, validSnapshot, snapshotSources, shareSections, createDataClient};
 });

@@ -6,11 +6,11 @@ import { writeFileSync, mkdirSync, readdirSync, readFileSync, existsSync, rename
 import core from '../assets/station-core.js';
 
 const SITE = 'https://yehloo-ai.github.io/ai-news-station';
-const AIHOT = 'https://aihot.virxact.com/api/public';
+const AIHOT = 'https://aihot.news/api/v1';
 const FETCH_DAYS = 10;
 const HEADERS = {
   'Accept': 'application/json',
-  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126 Safari/537.36',
+  'User-Agent': `ai-news-station/1.0 (+${SITE})`,
 };
 
 // 北京时间日期（UTC+8）
@@ -21,18 +21,26 @@ function bjDate(offsetDays = 0) {
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 async function fetchDaily(date) {
-  const path = date === bjDate(0) ? '/daily' : `/daily/${date}`;
+  const path = `/dailies/${date}`;
   try {
     const res = await fetch(`${AIHOT}${path}`, { headers: HEADERS, signal: AbortSignal.timeout(15000) });
-    if (!res.ok) return null;
-    const data = await res.json();
-    if (!core.validSnapshot(data, date)) {
-      console.warn(`::warning::Daily ${date} rejected: returned date ${data?.date || 'missing'} or invalid schema`);
+    if (res.status === 404) {
+      console.warn(`::warning::Daily ${date}: upstream has no report (HTTP 404)`);
       return null;
     }
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const payload = await res.json();
+    const report = payload?.report;
+    if (payload?.schemaVersion === 1 && report?.date === date && Array.isArray(report.sections)
+        && report.sections.every(section => typeof section?.label === 'string' && Array.isArray(section.items) && !section.items.length)) {
+      console.log(`Daily ${date}: upstream published an empty report; not creating a news edition`);
+      return null;
+    }
+    const data = core.normalizeDailyResponse(payload, date);
+    if (!data) throw new Error(`Unusable v1 report: date=${payload?.report?.date || 'missing'}, schemaVersion=${payload?.schemaVersion ?? 'missing'}`);
     return data;
-  } catch {
-    return null;
+  } catch (error) {
+    throw new Error(`Daily ${date} fetch failed: ${error.message}`, {cause: error});
   }
 }
 
@@ -132,7 +140,8 @@ function renderDay(date, data, prev, next) {
   let body = `<h1>AI 日报速览 · ${date}</h1>
 <div class="sub">共 ${items.length} 条 · 自动整理 · <a href="../daily-share/?date=${date}">分享长图</a></div>`;
 
-  if (data.lead) body += `<p style="font-size:14px;background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;margin-bottom:8px;">${esc(data.lead)}</p>`;
+  const lead = typeof data.lead === 'string' ? data.lead : data.lead?.leadParagraph || data.lead?.title;
+  if (lead) body += `<p style="font-size:14px;background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:14px 16px;margin-bottom:8px;">${esc(lead)}</p>`;
 
   for (const sec of data.sections) {
     if (!sec.items?.length) continue;

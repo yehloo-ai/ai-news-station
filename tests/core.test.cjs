@@ -2,6 +2,23 @@ const {test} = require('node:test');
 const assert = require('node:assert/strict');
 const core = require('../assets/station-core.js');
 const snapshot = {date:'2026-09-15',sections:[{label:'模型发布',items:[{title:'Release',summary:'Summary',sourceUrl:'https://example.com/news',sourceName:'Example'}]}]};
+test('AIHOT v1 reports preserve original links, attribution and exact dates', () => {
+  const attribution = {name:'AIHOT',url:'https://aihot.news/items/example'};
+  const payload = {schemaVersion:1,report:{date:snapshot.date,lead:{title:'Lead',leadParagraph:'Summary'},
+    sections:[{label:'模型发布',items:[{title:'Release',summary:'Summary',source:{name:'Example'},
+      links:{original:'https://example.com/news',aihot:attribution.url},attribution}]}]}};
+  const normalized = core.normalizeDailyResponse(payload,snapshot.date);
+  assert.equal(normalized.sections[0].items[0].sourceUrl,'https://example.com/news');
+  assert.equal(normalized.sections[0].items[0].sourceName,'Example');
+  assert.deepEqual(normalized.sections[0].items[0].attribution,attribution);
+  assert.equal(core.normalizeDailyResponse(payload,'2026-09-16'),null);
+  assert.equal(core.normalizeDailyResponse({...payload,schemaVersion:2}),null);
+  assert.equal(core.normalizeDailyResponse(snapshot),null);
+  payload.report.sections[0].items[0].links.original='javascript:alert(1)';
+  assert.equal(core.normalizeDailyResponse(payload),null);
+  payload.report.sections[0].items=[];
+  assert.equal(core.normalizeDailyResponse(payload),null);
+});
 test('snapshots reject mismatched dates and unsafe sources', () => {
   assert.equal(core.validSnapshot(snapshot, '2026-09-15'), true);
   assert.equal(core.validSnapshot(snapshot, '2026-09-16'), false);
