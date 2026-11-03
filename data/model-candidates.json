@@ -854,5 +854,221 @@
     "sourceUrl": "https://x.com/Khazix0918/status/2115898252004622617",
     "sourceName": "X：卡兹克 (@Khazix0918)",
     "reviewReason": "awaiting-review"
+  },
+  {
+    "observedDate": "2026-10-03",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+    "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
+    "sourceUrl": "https://suno.com/blog/introducing-speech-beta",
+    "sourceName": "Suno：Blog（网页）"
+  },
+  {
+    "observedDate": "2026-10-03",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "ChatGPT 推出 Finances 财务管理功能",
+    "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
+    "sourceUrl": "https://x.com/ChatGPT/status/2106083595433791573",
+    "sourceName": "X：ChatGPT (@ChatGPT)"
+  },
+  {
+    "observedDate": "2026-10-03",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+    "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
+    "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
+    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+  },
+  {
+    "observedDate": "2026-10-06",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
+    "summary": "OpenAI 宣布在 ChatGPT 推出新的视觉广告格式，本月起在美国于图像生成场景中测试，广告将明确标注且不影响 ChatGPT 的回答。",
+    "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+  },
+  {
+    "observedDate": "2026-10-06",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Together AI 推出 Together Link，一键在现有编码智能体中接入开源模型并降费超 50%",
+    "summary": "Together AI 发布 Together Link，把团队已用的编码智能体工具连接到 Together AI 上的开源模型，宣称可节省超过 50% 支出。",
+    "sourceUrl": "https://www.together.ai/blog/together-link-frontier-quality-open-models-in-the-harness-you-already-use",
+    "sourceName": "Together AI 研究与产品博客（RSS）"
+  },
+  {
+    "observedDate": "2026-10-07",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+    "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+    "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+  },
+  {
+    "observedDate": "2026-10-08",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
+    "summary": "OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。",
+    "sourceUrl": "https://openai.com/index/gpt-6-for-everyone/",
+    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+  },
+  {
+    "observedDate": "2026-10-08",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+    "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
+    "sourceUrl": "https://x.com/ClaudeDevs/status/2107895957933408429",
+    "sourceName": "X：Claude Devs (@ClaudeDevs)"
+  },
+  {
+    "observedDate": "2026-10-08",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+    "summary": "Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。",
+    "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+    "sourceName": "Claude Code：GitHub Releases（RSS）"
+  },
+  {
+    "observedDate": "2026-10-09",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Claude 推出 Dashboards 实时仪表盘与 Motion 动画讲解功能",
+    "summary": "Anthropic 发布 Claude Dashboards 和 Claude Motion 两项 beta 功能。",
+    "sourceUrl": "https://claude.com/blog/dashboards-and-motion",
+    "sourceName": "Claude：Blog（网页）"
+  },
+  {
+    "observedDate": "2026-10-10",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "微软发布 Decision-1 模型",
+    "summary": "现已在 Foundry 中可用，即将通过 OpenRouter 提供：https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+    "sourceUrl": "https://x.com/satyanadella/status/2108627925654503761",
+    "sourceName": "X：Satya Nadella (@satyanadella)"
+  },
+  {
+    "observedDate": "2026-10-10",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
+    "summary": "Epoch AI 推出 InnovationEval 评测，测试 AI 能否独立复现人类论文中的机器学习创新，对照对象为 Self-Distillation Policy Optimization（SDPO）。",
+    "sourceUrl": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
+    "sourceName": "Epoch AI：Gradient Updates（RSS）"
+  },
+  {
+    "observedDate": "2026-10-13",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+    "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
+    "sourceUrl": "https://x.com/Khazix0918/status/2109501787736813663",
+    "sourceName": "X：卡兹克 (@Khazix0918)"
+  },
+  {
+    "observedDate": "2026-10-15",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "xAI 发布 Grok Voice 3.0 语音模型",
+    "summary": "xAI 发布 speech-to-speech 模型 Grok Voice 3.0，在 Artificial Analysis 的 Speech-to-Speech Index 以 86.9 分排名第一，时延低于一秒。",
+    "sourceUrl": "https://x.ai/news/grok-voice-3",
+    "sourceName": "xAI：News（网页）"
+  },
+  {
+    "observedDate": "2026-10-17",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
+    "summary": "Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。",
+    "sourceUrl": "https://ollama.com/blog/reflection-beam",
+    "sourceName": "Ollama：Blog（RSS）"
+  },
+  {
+    "observedDate": "2026-10-20",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Claude 推出 Dashboards 和 Motion 两款新工具并转正 Docs、Slides、Design",
+    "summary": "Claude 宣布 Dashboards 和 Motion 进入 beta。Dashboards 可连接数据平台或 CRM，生成随数据变化实时更新的仪表盘，面向所有付费计划；Motion 把报告或图表变成动画讲解短片，以代码方式生成、无视频模型参与，可修改文字、数字和节奏后导出 MP4，面向 Team 和 Enterprise 计划。",
+    "sourceUrl": "https://www.youtube.com/shorts/_Ui4ZkYm4ho",
+    "sourceName": "Claude：YouTube（RSS）"
+  },
+  {
+    "observedDate": "2026-10-21",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+    "summary": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+    "sourceName": "公众号：DeepSeek（深度求索）"
+  },
+  {
+    "observedDate": "2026-10-21",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "ChatGPT 推出 Locked Chats，可用 PIN 或生物识别锁定敏感对话",
+    "summary": "ChatGPT 推出 Locked Chats 功能，把敏感对话从常规历史记录和搜索中移入受保护空间。用户在网页端和桌面端可用 PIN 解锁，支持的移动设备上可用 PIN、Face ID、Touch ID 或设备解锁；锁定会话中的新消息不会更新常规对话使用的记忆。该功能即日起向 Free、Go、Plus、Pro、Business、Enterprise 和 Edu 套餐推出。",
+    "sourceUrl": "https://x.com/ChatGPT/status/2112597766333673624",
+    "sourceName": "X：ChatGPT (@ChatGPT)"
+  },
+  {
+    "observedDate": "2026-10-22",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Anthropic 开启 Claude Duet 研究预览，Claude 以主动式智能体接管日常工作",
+    "summary": "Anthropic 开启 Claude Duet 研究预览，一款让 Claude 作为主动式智能体工作的独立应用，已登陆 iOS、Android 和 claude.ai，面向美国 Pro 和 Max 用户开放候补名单。",
+    "sourceUrl": "https://claude.com/blog/claude-duet",
+    "sourceName": "Claude：Blog（网页）"
+  },
+  {
+    "observedDate": "2026-10-22",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Anthropic 用 Claude 缩减开源代码攻击面：25 个项目发现 493 个问题",
+    "summary": "Anthropic 发布关于用 Claude 自动化攻击面分析与缩减的研究总结，在 25 个、超 500 万行代码的开源项目中用默认配置、配置交互和早期可达性三种方法发现 493 个问题。",
+    "sourceUrl": "https://www.anthropic.com/research/attack-surface-reduction",
+    "sourceName": "Anthropic：Newsroom（网页）"
+  },
+  {
+    "observedDate": "2026-10-23",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Anthropic 用 Claude 对 123 个开源库完成汇编级形式化安全证明",
+    "summary": "Anthropic 与 Theorem 合作，用 Claude 将 OSS-Fuzz 模糊测试转化为规格，对 123 个开源库的 239 个入口点证明了任意 64 MB 以下输入不崩溃，生成约 1.8 亿行 Rocq 证明。",
+    "sourceUrl": "https://www.anthropic.com/research/formal-verification",
+    "sourceName": "Anthropic：Research（发表成果 · 网页）"
+  },
+  {
+    "observedDate": "2026-10-27",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenAI 宣布模型产出三项数学成果并与学界协作发布",
+    "summary": "OpenAI 宣布其模型在调和分析、复杂度理论和量子场论方面取得三项成果，包括证明各维度的 local smoothing 猜想（进而解决 Kakeya 猜想与 Stein 限制猜想）、在 Lean 中验证 ETH 为假、以及给出 QCD 与纯 Yang–Mills 理论的严格存在性证明。",
+    "sourceUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+  },
+  {
+    "observedDate": "2026-11-03",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Claude Platform 推出 message threads 公测，降低长会话智能体延迟",
+    "summary": "Anthropic 在 Claude Platform 推出 message threads 公测，智能体每轮只需发送新增消息而无需重发全部对话历史，从而缩短首 token 时间。",
+    "sourceUrl": "https://claude.com/blog/message-threads",
+    "sourceName": "Claude：Blog（网页）"
+  },
+  {
+    "observedDate": "2026-11-03",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "腾讯混元发布 Hyra 2.0：让通用 agent 研发可复用的科学工具与模型",
+    "summary": "腾讯混元发布 Hyra 2.0，将自动化科研重点从直接解题转向由 agent 研发和升级科学模型、工作流与软件工具。系统采用 Overall、Mission、Worker 三层分工，接入企业微信、计算平台和代码仓库的实际研发环境，成果已公开在 GitHub 仓库。",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498763&idx=1&sn=279f8fb4e43a987fdc0aa2af0b0f7958",
+    "sourceName": "公众号：腾讯混元"
   }
 ]
