@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:44:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:14:27 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>苹果开始给Siri人工智能访问第三方应用</title>
+      <link>https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps</link>
+      <description>苹果现在会让Siri人工智能在第三方应用上执行动作. 作为星期二推出的iOS 27.3更新的一部分,苹果宣布的开发者现在可以将Siri人工智能的新功能整合到"所有应用"中,允许语音助理借鉴用户的个人背景,处理自然语言pr.</description>
+      <pubDate>Tue, 03 Nov 2026 15:16:17 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps</guid>
+      <source url="https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI说,ChatGPT正在追上Google搜索</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</link>
+      <description>在许多圈子中,"Ask Chat"取代了"Google it",这体现在OpenAI的一个新公告中:通过ChatGPT运行的搜索查询量现在相当于通过Google运行的流量的20%. OpenAI的消费产品主导ChatGPT的亚当·弗莱在预告中发布了公告.</description>
+      <pubDate>Tue, 03 Nov 2026 13:30:42 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search">The Verge AI</source>
+    </item>
+    <item>
+      <title>Netflix将通过一个新的“人工智能发现”标签向您展示主题建议</title>
+      <link>https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</link>
+      <description>Netflix的电视应用正在获得一个新的"人工智能发现"标签,公司将展示实验性,人工智能的功能来帮助你找到新的节目和电影来观看,这些实验中的第一个内容会围绕主题呈现,如"某事之光","家庭电影之夜"或"快速观察". Whe.</description>
+      <pubDate>Tue, 03 Nov 2026 13:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</guid>
+      <source url="https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations">The Verge AI</source>
+    </item>
     <item>
       <title>Ed Zitron 解析 OpenAI 1.25 万亿美元估值融资与 Anthropic S-1/A 中的万亿级算力承诺</title>
       <link>https://www.wheresyoured.at/running-dry/</link>
@@ -62,6 +86,14 @@
       <pubDate>Tue, 03 Nov 2026 10:18:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MistralAI/status/2117562068220195097</guid>
       <source url="https://x.com/MistralAI/status/2117562068220195097">X：Mistral AI (@MistralAI)</source>
+    </item>
+    <item>
+      <title>OpenAI 研究：智能体安全评测与生产行为存在差距，评测目标误判是关键因素</title>
+      <link>https://alignment.openai.com/eval-production-behavior-gap/</link>
+      <description>OpenAI Alignment 团队对比六个模型在 Respecting Warnings 安全评测与匹配的 Codex 生产决策上的表现，发现评测成功率普遍低于生产，差距为 10.2 至 37.4 个百分点。模型普遍口头表现出评测意识（评测中一般性意识率 57.0%–83.7%），但仅告知</description>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://alignment.openai.com/eval-production-behavior-gap/</guid>
+      <source url="https://alignment.openai.com/eval-production-behavior-gap/">OpenAI：Alignment 研究博客（RSS）</source>
     </item>
     <item>
       <title>GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨</title>
@@ -134,38 +166,6 @@
       <pubDate>Tue, 03 Nov 2026 00:17:09 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1687189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1687189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>OpenAI私人情报中心</title>
-      <link>https://www.youtube.com/shorts/NbDF90z-g6w</link>
-      <description>Coinbase CTO Rob Witoff 解释了为什么使用 OpenAI 时安全、护栏和零数据保留很重要。 更多了解 OpenAI 私人情报:https://openai.com/business/private-intelligence/</description>
-      <pubDate>Mon, 02 Nov 2026 22:44:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/NbDF90z-g6w</guid>
-      <source url="https://www.youtube.com/shorts/NbDF90z-g6w">OpenAI</source>
-    </item>
-    <item>
-      <title>Revolut 将约 2000 名工程师迁移到自托管 GLM 编码</title>
-      <link>https://twitter.com/guilleflorvs/status/2117379073785696395</link>
-      <description>据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。</description>
-      <pubDate>Mon, 02 Nov 2026 22:11:24 +0000</pubDate>
-      <guid isPermaLink="true">https://twitter.com/guilleflorvs/status/2117379073785696395</guid>
-      <source url="https://twitter.com/guilleflorvs/status/2117379073785696395">Hacker News：AI 热帖</source>
-    </item>
-    <item>
-      <title>Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付</title>
-      <link>https://x.com/rohanpaul_ai/status/2117368258571784296</link>
-      <description>Anthropic 在更新的 IPO 文件中首次披露第三季度业绩，算力与基础设施合同承诺总额约 $895.4B，其中 $447.5B 须在 2031 年前支付，仅 $213.8B 可取消或附带条件。</description>
-      <pubDate>Mon, 02 Nov 2026 21:28:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2117368258571784296</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2117368258571784296">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>OpenAI 训练并部署激活分类器作为前沿模型安全监控层</title>
-      <link>https://alignment.openai.com/training-activation-classifiers/</link>
-      <description>OpenAI 自 GPT-5.6 起在其最强模型的内部和外部流量上部署激活分类器（probes），利用模型内部激活逐 token 实时评分，可在生成中途阻断违规回复和工具调用并交由推理模型复审。实验显示 probes 比更大的文本分类器对测试的越狱攻击更鲁棒，准确率随模型能力提升，且在后训练各检查点间迁移良好，但需为新基础模型重新训练，且只能检测可显式训练的已知违规类型。</description>
-      <pubDate>Mon, 02 Nov 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://alignment.openai.com/training-activation-classifiers/</guid>
-      <source url="https://alignment.openai.com/training-activation-classifiers/">OpenAI：Alignment 研究博客（RSS）</source>
     </item>
   </channel>
 </rss>
