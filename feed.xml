@@ -5,8 +5,64 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:27:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 17:44:56 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ed Zitron 解析 OpenAI 1.25 万亿美元估值融资与 Anthropic S-1/A 中的万亿级算力承诺</title>
+      <link>https://www.wheresyoured.at/running-dry/</link>
+      <description>Ed Zitron 撰文认为 AI 行业资金正在枯竭。OpenAI 上周以 1.25 万亿美元估值融资 110 亿美元，低于此前计划的 300 亿美元、1.4 万亿美元估值；据 The Information，其 Q1 2026 成本收入与研发支出合计 121 亿美元，截至 3 月底持有逾 730 亿美元现金及有价证券。</description>
+      <pubDate>Tue, 03 Nov 2026 17:16:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wheresyoured.at/running-dry/</guid>
+      <source url="https://www.wheresyoured.at/running-dry/">Ed Zitron 长文 / Where’s Your Ed At（RSS）</source>
+    </item>
+    <item>
+      <title>Google 完全无法在不需要人工智能的学校搜索。</title>
+      <link>https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</link>
+      <description>Google完全关闭了拒绝其人工智能功能的学校的搜索,该公司告诉"纽约时报",这个决定也被分享到星期二Google的更广泛的教育相关更新中,称访问双子座,双子座笔记本,课堂上的双子座,以及Google搜索"将会".</description>
+      <pubDate>Tue, 03 Nov 2026 12:00:04 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</guid>
+      <source url="https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features">The Verge AI</source>
+    </item>
+    <item>
+      <title>收集隐私和OpenAI 私人情报</title>
+      <link>https://www.youtube.com/shorts/JR7xBi2kJjY</link>
+      <description>Glean 联合创始人和 CTO T. R. Vishwanath 讨论了客户对数据的控制和Glean 与 OpenAI 在私人安全处理预览方面的工作。 更多了解 OpenAI 私人情报: https://openai.com/business/private-intelligence/</description>
+      <pubDate>Tue, 03 Nov 2026 16:51:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/JR7xBi2kJjY</guid>
+      <source url="https://www.youtube.com/shorts/JR7xBi2kJjY">OpenAI</source>
+    </item>
+    <item>
+      <title>收集隐私和OpenAI 私人情报</title>
+      <link>https://www.youtube.com/watch?v=2h16j4K_NbA</link>
+      <description>使用更有能力的人工智能开始于对数据处于控制之下的信心。 对于Glean的客户来说,隐私是一个优先事项。 Glean 联合创始人和 CTO Vishwanath T R 分享Glean 和 OpenAI 如何合作帮助满足这些需求,包括通过私人安全处理预告</description>
+      <pubDate>Tue, 03 Nov 2026 16:46:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=2h16j4K_NbA</guid>
+      <source url="https://www.youtube.com/watch?v=2h16j4K_NbA">OpenAI</source>
+    </item>
+    <item>
+      <title>苹果在人工智能方面,</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</link>
+      <description>苹果公司的最新收益显示,它如何继续利用人工智能繁荣,而不破坏其消费竞争对手的基础设施开支预算。 总体而言,苹果公司公布了有史以来收入和每股收入最高的财政年度。 iPhone和Mac销售在Th上继续强劲增长。</description>
+      <pubDate>Tue, 03 Nov 2026 10:24:51 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI悄悄地将数据中心改名为“计算校园”</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses</link>
+      <description>人们憎恨数据中心。他们是响亮、资源匮乏的目光爱好者,非常不受欢迎,他们成功地实现了今天两极分化的政治格局中几乎不可能实现的目标:真正的两党反对派。但是,“模拟校园”又怎么样呢?这些声音很可爱,对吧?OpenAI似乎已经是了。</description>
+      <pubDate>Tue, 03 Nov 2026 10:00:44 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses">The Verge AI</source>
+    </item>
+    <item>
+      <title>Mistral Large 4 以开放权重发布并附技术报告</title>
+      <link>https://x.com/MistralAI/status/2117562068220195097</link>
+      <description>Mistral 团队成员 Pierre Stock 宣布 ML4（Mistral Large 4）正式开放权重，称其在代码智能体与网络安全方向具备前沿能力，且比三周前的 Preview 版本更高效、更紧凑。技术报告讲述其研发过程：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B/blob/main/assets/technical_report.pdf，Mistral AI 官方转发并称可在 alphaxiv 上阅读这一研发故事（https://www.alphaxiv.org/abs/2611.mistral-large-4）。</description>
+      <pubDate>Tue, 03 Nov 2026 10:18:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MistralAI/status/2117562068220195097</guid>
+      <source url="https://x.com/MistralAI/status/2117562068220195097">X：Mistral AI (@MistralAI)</source>
+    </item>
     <item>
       <title>GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨</title>
       <link>https://www.ifanr.com/1687285?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -56,22 +112,6 @@
       <source url="https://www.ifanr.com/1687259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍</title>
-      <link>https://www.qbitai.com/2026/11/507322.html</link>
-      <description>指令执行能力也同步提升</description>
-      <pubDate>Tue, 03 Nov 2026 01:57:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507322.html</guid>
-      <source url="https://www.qbitai.com/2026/11/507322.html">量子位</source>
-    </item>
-    <item>
-      <title>爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程</title>
-      <link>https://www.qbitai.com/2026/11/507313.html</link>
-      <description>近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作</description>
-      <pubDate>Tue, 03 Nov 2026 01:46:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507313.html</guid>
-      <source url="https://www.qbitai.com/2026/11/507313.html">量子位</source>
-    </item>
-    <item>
       <title>马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份</title>
       <link>http://www.geekpark.net/news/373358</link>
       <description>Anthropic 更新 IPO 招股书：第三季度营收近 170 亿美元，算力承诺达 8954 亿美元 11 月 2 日，Anthropic 向美国证券交易委员会提交更新后的 S-1 招股文件，首次补充截至今年 9 月底的第三季度财务数据。 Anthropic 第三季度营收达到 169.6 亿美元，较第二季度增长 47%，但增速低于第二季度的 144%。公司第三季度营业亏损为 5.67 亿美元，而第二季度曾实现 9.74 亿美元营业利润。 与此同时，Anthropic 披露约 8954 亿美元的 AI 基础设施相关支出承诺，涉及亚马逊、谷歌等合作伙伴。公司警告，部分算力供应依赖第三方融资，如果</description>
@@ -104,6 +144,14 @@
       <source url="https://www.youtube.com/shorts/NbDF90z-g6w">OpenAI</source>
     </item>
     <item>
+      <title>Revolut 将约 2000 名工程师迁移到自托管 GLM 编码</title>
+      <link>https://twitter.com/guilleflorvs/status/2117379073785696395</link>
+      <description>据 Revolut AI 运营负责人 David Abitbol，公司把约 2000 名工程师迁到自托管 GLM 做编码，将 Claude Code 和 Codex 列为例外。</description>
+      <pubDate>Mon, 02 Nov 2026 22:11:24 +0000</pubDate>
+      <guid isPermaLink="true">https://twitter.com/guilleflorvs/status/2117379073785696395</guid>
+      <source url="https://twitter.com/guilleflorvs/status/2117379073785696395">Hacker News：AI 热帖</source>
+    </item>
+    <item>
       <title>Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付</title>
       <link>https://x.com/rohanpaul_ai/status/2117368258571784296</link>
       <description>Anthropic 在更新的 IPO 文件中首次披露第三季度业绩，算力与基础设施合同承诺总额约 $895.4B，其中 $447.5B 须在 2031 年前支付，仅 $213.8B 可取消或附带条件。</description>
@@ -118,54 +166,6 @@
       <pubDate>Mon, 02 Nov 2026 20:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://alignment.openai.com/training-activation-classifiers/</guid>
       <source url="https://alignment.openai.com/training-activation-classifiers/">OpenAI：Alignment 研究博客（RSS）</source>
-    </item>
-    <item>
-      <title>Anthropic 压制 Claude 的人工智能电子游戏克隆</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</link>
-      <description>Anthropic 更新了 Claude Code 的系统提示,防止人工智能工具被用于重现已有的电子游戏,如Tom的硬件所报道。 Retro Gaming 目前正被人工智能制作的编译、重新编译和端口所超越,但Anthropic 仍然会让人们使用Cla</description>
-      <pubDate>Mon, 02 Nov 2026 13:56:02 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI 投影数据中心电厂作为保护附近地区的方法</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program</link>
-      <description>OpenAI在周一的公告中表示,它将在即将到来的位于格鲁吉亚埃芬汉姆县的数据中心试行其"Grid Protections Program",该公司承诺在极端天气或紧急情况下释放多达1000兆瓦的电力,足以为70万赫左右的空调供电.</description>
-      <pubDate>Mon, 02 Nov 2026 13:01:30 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program">The Verge AI</source>
-    </item>
-    <item>
-      <title>纽约时报起诉勇者网浏览器 人工智能刮刮和绕过付费墙</title>
-      <link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
-      <description>据路透社报道,《纽约时报》和一些其他出版物对该公司提起了诉讼,该公司让勇者网浏览器以涉嫌非法刮刮来训练人工智能,还让用户绕过他们的付费墙。</description>
-      <pubDate>Mon, 02 Nov 2026 12:51:19 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</guid>
-      <source url="https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI私人情报中心</title>
-      <link>https://www.youtube.com/watch?v=Amm9ySSET4c</link>
-      <description>对于Coinbase来说,把前沿人工智能用于工作始于控制其数据。 每个员工都可以访问最新的OpenAI模型。 Rob Witoff在本视频中解释了为什么安全、护栏和零数据保留是这一信任的核心。 他说:“它仍然是我们的数据 ” 。 OpenAI Private Intt.</description>
-      <pubDate>Mon, 02 Nov 2026 16:59:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Amm9ySSET4c</guid>
-      <source url="https://www.youtube.com/watch?v=Amm9ySSET4c">OpenAI</source>
-    </item>
-    <item>
-      <title>Anthropic 季度营收增长十二倍至近 170 亿美元，但净亏损达 233 亿美元</title>
-      <link>https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/</link>
-      <description>据 Bloomberg 与 The Information，Anthropic 该季度营收近 170 亿美元，为一年前的十二倍，但运营成本达 175 亿美元，季度净亏损 233 亿美元，高于去年同期的 121 亿美元。</description>
-      <pubDate>Mon, 02 Nov 2026 16:26:03 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/</guid>
-      <source url="https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI 推出 Grid Protectors 计划，从 Georgia 校园开始支持电网削峰</title>
-      <link>https://openai.com/index/grid-protectors-program</link>
-      <description>OpenAI 推出 Grid Protectors 计划，与电力公司、监管机构和政策制定者合作，让未来算力校园在电网紧张时降低用电需求，首站为 Effingham County 校园。</description>
-      <pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/grid-protectors-program</guid>
-      <source url="https://openai.com/index/grid-protectors-program">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
     </item>
   </channel>
 </rss>
