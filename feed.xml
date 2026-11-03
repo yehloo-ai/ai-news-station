@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 07:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:27:33 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨</title>
+      <link>https://www.ifanr.com/1687285?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>我「编程」我自己#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Tue, 03 Nov 2026 07:22:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1687285?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1687285?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替</title>
+      <link>https://sspai.com/post/118317</link>
+      <description>手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:54 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/118317</guid>
+      <source url="https://sspai.com/post/118317">少数派</source>
+    </item>
     <item>
       <title>心言巴布「Bubbo 1」：一台机器人，如何成为家人</title>
       <link>http://www.geekpark.net/news/373399</link>
@@ -22,6 +38,14 @@
       <pubDate>Tue, 03 Nov 2026 07:05:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1687274?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1687274?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Addy Osmani 谈 Agent 时代如何保持批判性思维</title>
+      <link>https://x.com/addyosmani/status/2117512471930167377</link>
+      <description>Addy Osmani 发文探讨在大量使用 Agent 工作流后如何保持批判性思维。他提出认知卸载、拖延、认知投降三段光谱，认为模型越强、输出越流畅，人越容易在不知不觉中放弃独立判断；并给出具体做法，包括提问前先写假设、把验证标准前置为可执行测试、要求 Agent 列出它替你做的决策与假设、用测验收尾而不是读摘要，以及定期手写代码做校准练习。他强调可以卸载工作和审计，但不能卸载责任。</description>
+      <pubDate>Tue, 03 Nov 2026 07:01:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/addyosmani/status/2117512471930167377</guid>
+      <source url="https://x.com/addyosmani/status/2117512471930167377">X：Addy Osmani (@addyosmani)</source>
     </item>
     <item>
       <title>苹果的一切都在变贵，全怪 AI</title>
@@ -70,6 +94,14 @@
       <pubDate>Tue, 03 Nov 2026 00:17:09 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1687189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1687189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>OpenAI私人情报中心</title>
+      <link>https://www.youtube.com/shorts/NbDF90z-g6w</link>
+      <description>Coinbase CTO Rob Witoff 解释了为什么使用 OpenAI 时安全、护栏和零数据保留很重要。 更多了解 OpenAI 私人情报:https://openai.com/business/private-intelligence/</description>
+      <pubDate>Mon, 02 Nov 2026 22:44:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/NbDF90z-g6w</guid>
+      <source url="https://www.youtube.com/shorts/NbDF90z-g6w">OpenAI</source>
     </item>
     <item>
       <title>Anthropic 算力与基础设施合同承诺达 $895.4B，其中 $447.5B 须在 2031 年前支付</title>
@@ -134,38 +166,6 @@
       <pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://openai.com/index/grid-protectors-program</guid>
       <source url="https://openai.com/index/grid-protectors-program">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>腾讯混元发布 Hyra 2.0：让通用 agent 研发可复用的科学工具与模型</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&amp;mid=2247498763&amp;idx=1&amp;sn=279f8fb4e43a987fdc0aa2af0b0f7958</link>
-      <description>腾讯混元发布 Hyra 2.0，将自动化科研重点从直接解题转向由 agent 研发和升级科学模型、工作流与软件工具。系统采用 Overall、Mission、Worker 三层分工，接入企业微信、计算平台和代码仓库的实际研发环境，成果已公开在 GitHub 仓库。</description>
-      <pubDate>Mon, 02 Nov 2026 10:06:28 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&amp;mid=2247498763&amp;idx=1&amp;sn=279f8fb4e43a987fdc0aa2af0b0f7958</guid>
-      <source url="https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&amp;mid=2247498763&amp;idx=1&amp;sn=279f8fb4e43a987fdc0aa2af0b0f7958">公众号：腾讯混元</source>
-    </item>
-    <item>
-      <title>卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网</title>
-      <link>https://www.ifanr.com/1687094?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI 正在逆向一切：从软件、游戏到信息入口#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 02 Nov 2026 08:03:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1687094?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1687094?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？</title>
-      <link>https://www.ifanr.com/1687130?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>抽签看演唱会，可能是当下最「不坏」的选择#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 02 Nov 2026 07:41:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1687130?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1687130?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>ChatGPT 正在偷偷给你画像，用这段提示词让它交出来</title>
-      <link>https://www.ifanr.com/1686832?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>或许《Her》描绘的世界已经到来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 02 Nov 2026 07:37:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1686832?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1686832?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
