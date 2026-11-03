@@ -26,3 +26,26 @@ test('failed refresh preserves cached content and concurrent reads share one req
   assert.equal(cached.stale,true);assert.equal(cached.data.date,snapshot.date);
   await assert.rejects(client.get('missing'));
 });
+test('first visit can read embedded data without network or storage', async () => {
+  const client=core.createDataClient({storage:null,fallback:{daily:snapshot},fetch:async()=>{throw Error('offline');}});
+  assert.equal(client.peek('daily',core.validSnapshot).checkedAt,0);
+  const result=await client.get('daily',{validate:core.validSnapshot});
+  assert.equal(result.stale,true);
+  assert.deepEqual(result.data,snapshot);
+  await assert.rejects(client.get('daily',{validate:d=>core.validSnapshot(d,'2026-09-16')}));
+});
+test('a newer embedded edition supersedes an older cache, never the reverse', () => {
+  for (const [cachedDate,expected] of [['2026-09-14','2026-09-15'],['2026-09-16','2026-09-16']]) {
+    const client=core.createDataClient({fallback:{daily:snapshot},storage:{getItem:()=>JSON.stringify({data:{...snapshot,date:cachedDate},checkedAt:1})},fetch:async()=>{}});
+    assert.equal(client.peek('daily',core.validSnapshot).data.date,expected);
+  }
+});
+test('one transient retry bypasses cached failures; 404 does not retry', async () => {
+  const urls=[];
+  const client=core.createDataClient({storage:null,fetch:async url=>{urls.push(url);if(urls.length===1)throw Error('network');return {ok:true,json:async()=>snapshot};}});
+  assert.equal((await client.get('data/latest.json')).stale,false);
+  assert.equal(urls.length,2);assert.match(urls[1],/latest.json\?_retry=\d+/);
+  let calls=0;
+  const missing=core.createDataClient({storage:null,fetch:async()=>{calls++;return {ok:false,status:404};}});
+  await assert.rejects(missing.get('missing'));assert.equal(calls,1);
+});

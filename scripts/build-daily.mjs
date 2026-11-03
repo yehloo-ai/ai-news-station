@@ -229,7 +229,11 @@ const prerender = '<!-- prerender:start -->\n<h1>AI 日报速览</h1><p>' + esc(
       esc(item.title) + '</a></li>').join('') + '</ul></section>').join('') + '\n<!-- prerender:end -->';
 const home = readFileSync('index.html','utf8');
 if (!home.includes('<!-- prerender:start -->')) throw new Error('Missing homepage prerender marker');
-writeFileSync('index.html',home.replace(/<!-- prerender:start -->[\s\S]*?<!-- prerender:end -->/,prerender));
+const snapshot = '<script id="dailySnapshot" type="application/json">' + JSON.stringify(latest).replace(/</g, '\\u003c') + '</script>';
+const rendered = home.replace(/<!-- prerender:start -->[\s\S]*?<!-- prerender:end -->/,prerender);
+writeFileSync('index.html', rendered.includes('id="dailySnapshot"')
+  ? rendered.replace(/<script id="dailySnapshot" type="application\/json">[\s\S]*?<\/script>/, () => snapshot)
+  : rendered.replace('<script src="assets/station-core.js', () => snapshot + '\n<script src="assets/station-core.js'));
 writeFileSync('data/daily-index.json', JSON.stringify(
   dates.map((date) => {
     const data = JSON.parse(readFileSync(`data/daily/${date}.json`, 'utf8'));

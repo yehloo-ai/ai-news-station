@@ -11,13 +11,18 @@
 - 精选是自动汇总，不代表逐条人工推荐。英文标题与摘要在构建端离线翻译成中文，按原文哈希缓存；卡片标注“机译”，保留原文字段与来源链接。翻译失败保留内容并标注“待翻译”，不把错误响应当译文。浏览器不发翻译请求。
 - 抓取使用明确超时与 HTTP 检查，RSS/API 结构不符会记录失败；每个源保留上次有效结果。状态保存在 `data/source-health.json`，原始缓存保存在 `data/source-cache.json`。
 - 数据源返回错误、HTML 或空结果不会被当成有效新资讯覆盖旧频道；故障可能影响覆盖范围，不代表网站已获得所有来源的最新内容。
+- 首页内嵌最近一期有效日报，与预渲染内容一同构建。数据请求失败时显示明确日期的保存版；无缓存请求最多重试一次，手动刷新绕过旧响应。该机制不能解决整个 GitHub Pages 域名无法连接，也不代表离线时获得了最新数据。
 - 工具价格和地区信息不是实时计费查询，以官网为准。未核验的字段不要填写虚假的核验时间。
 
 ## 审核流程
 
 模型、融资的自动抽取只进入 `data/model-candidates.json`、`data/funding-candidates.json`，不会自动发布。
 
-审核候选时需要提供 `status: "approved"`、`reviewedBy`、`reviewedAt`（YYYY-MM-DD）、原文证据 `evidence`，以及规范化的 `entry`。模型需要公司、型号、日期、类型、事件类型（release/update）、信源名称与 URL；融资需要公司、日期、轮次、金额、币种、信源名称与 URL。估值与融资金额不得混用。
+审核候选时需要提供 `status: "approved"`、`reviewedBy`、`reviewedAt`（YYYY-MM-DD）、原文证据 `evidence`，以及规范化的 `entry`。模型事件类型支持 `release/update/preview/open-weights`；资本事件支持 `funding/debt/secondary/acquisition/ipo`，并用 `stage` 区分完成、协议宣布、IPO 申请等状态。IPO 申请未定价或并购未披露金额时，`amount`、`currency` 均为 null，不填零、不拿估值代替金额。
+
+新候选的 `observedDate` 只是日报观察日期，不能直接用作正式 `entry.date`；发布日期以原始公告为准。抽取检查近 30 期和跨栏目模型发布，避免只有“模型”栏目才进入审核。审核人应如实填写，自动辅助核验不冒充人工审核。
+
+本次官方来源核验保存在 `data/review/timeline-2026-11-03.json`，包括补录内容、证据和被更正的条目标识。可用 `node scripts/apply-timeline-review.mjs data/review/timeline-2026-11-03.json` 幂等应用，再运行 `npm run build`。未确认候选仍保留，不声称行业事件已完整覆盖。
 
 `node scripts/merge-candidates.mjs` 只接受上述字段齐全的记录。按事件而不是只按公司去重；同公司的后续轮次可以新增。没有被接收的记录保留原因，不自动丢弃旧候选。
 

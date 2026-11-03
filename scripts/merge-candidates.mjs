@@ -14,7 +14,7 @@ for (const [kind, candidateFile] of [['models', 'model-candidates'], ['funding',
     if (reason) { pending.push({...candidate, reviewReason: reason}); continue; }
     const key = eventKey(candidate.entry, kind);
     if (known.has(key)) { pending.push({...candidate, reviewReason: 'duplicate-event'}); continue; }
-    data.entries.push({...candidate.entry, auto: false, reviewedAt: candidate.reviewedAt, reviewedBy: candidate.reviewedBy});
+    data.entries.push({...candidate.entry, auto: false, reviewedAt: candidate.reviewedAt, reviewedBy: candidate.reviewedBy, evidence:candidate.evidence});
     known.add(key);
     added++;
   }

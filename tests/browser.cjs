@@ -69,10 +69,10 @@ async function run(browserType,name,options,base) {
     assert.equal(freeBad,0);
     await page.evaluate(()=>switchTab('all'));await page.locator('#allListWrap').waitFor();
     const allText=await page.locator('#allListWrap').innerText();
-    await context.route('**/data/all.json',route=>route.abort());
+    await context.route('**/data/all.json*',route=>route.abort());
     await page.evaluate(()=>manualRefresh());
     assert.equal(await page.locator('#allListWrap').innerText(),allText,name+': offline refresh lost content');
-    await context.unroute('**/data/all.json');
+    await context.unroute('**/data/all.json*');
     await page.evaluate(()=>switchTab('daily'));await page.locator('.dnp-row').first().waitFor();
     const archive=JSON.parse(fs.readFileSync(path.join(root,'data/daily-index.json')));
     const slow=archive[1].date,fast=archive[2].date;
@@ -114,6 +114,23 @@ async function run(browserType,name,options,base) {
     for (const file of ['about/','subscribe/','tools/','timeline/','funding/','admin.html']) {
       await page.goto(base+file);await checkLayout(page,name+'-static-'+file.replace(/[/.]/g,''));
     }
+    await page.evaluate(()=>localStorage.clear());
+    await context.route('**/data/**',route=>route.abort());
+    await page.goto(base);
+    await page.locator('.dnp-row').first().waitFor();
+    await page.waitForFunction(()=>document.getElementById('dataStatus').textContent.includes('已保存'));
+    assert.equal(await page.locator('.dnp-row').count(),edition.sections.reduce((n,s)=>n+s.items.length,0));
+    await checkLayout(page,name+'-first-visit-offline');
+    await page.goto(base+'?tab=daily&date=2099-01-01');
+    await page.getByRole('heading',{name:'本期日报暂不可用'}).waitFor();
+    assert.equal(await page.locator('.dnp-row').count(),0,name+': wrong edition substituted');
+    await page.goto(base+'?tab=featured');
+    await page.getByRole('heading',{name:'数据暂时无法加载'}).waitFor();
+    assert(await page.getByRole('link',{name:'阅读静态存档'}).isVisible());
+    await context.unroute('**/data/**');
+    await page.getByRole('button',{name:'重新加载',exact:true}).click();
+    await page.locator('#main .card').first().waitFor();
+    results.push({label:name+'-cold-start-and-retry',passed:true});
     assert.deepEqual(errors,[],name+': JavaScript errors');
     assert(!requests.some(url=>/translate\.googleapis|allorigins|rss2json/.test(url)),name+': external browser data/translation dependency');
     results.push({label:name+'-interaction-tests',passed:true,requests:requests.length,errors});

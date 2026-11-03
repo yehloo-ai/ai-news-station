@@ -23,7 +23,7 @@ const SECTOR = {
 };
 
 function amountHtml(e) {
-  return `<span class="amt">${esc(e.amount || '')}${e.currency ? ' ' + esc(e.currency) : ''}</span>${e.valuation ? `<span class="val"> · ${esc(e.valuation)}</span>` : ''}`;
+  return `<span class="amt">${esc(e.amount || (e.stage === 'filed' ? '发行规模待定' : '金额未披露'))}${e.amount && e.currency ? ' ' + esc(e.currency) : ''}</span>${e.valuation ? `<span class="val"> · ${esc(e.valuation)}</span>` : ''}`;
 }
 function renderArticle(e) {
   const c = SECTOR[e.sector] || SECTOR['其他'];
@@ -33,6 +33,7 @@ function renderArticle(e) {
   if (e.tier === 'minor') {
     return `<article class="minor" id="${esc(slug(e))}">
 <div class="minor-row"><span class="company">${esc(e.company)}</span>${catPill}<span class="mtitle">${amountHtml(e)}</span><span class="minor-desc">${esc(e.highlight || '')}</span></div>
+${src}
 </article>`;
   }
   const isMile = e.tier === 'milestone';
@@ -79,7 +80,7 @@ const jsonLd = {
   numberOfItems: sorted.length,
   itemListElement: sorted.slice(0, 30).map((e, i) => ({
     '@type': 'ListItem', position: i + 1,
-    name: `${e.company} ${e.amount}${e.round ? ' ' + e.round : ''}（${e.date}）`,
+    name: `${e.company} ${e.amount || ''}${e.round ? ' ' + e.round : ''}（${e.date}）`,
     url: `${SITE}/funding/#${slug(e)}`,
   })),
 };

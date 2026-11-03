@@ -69,7 +69,10 @@
       if (!entry) {
         try { entry = JSON.parse(storage?.getItem(prefix + url) || 'null'); } catch {}
       }
-      if (!entry || !validate(entry.data)) return null;
+      if (entry && !validate(entry.data)) entry = null;
+      const data = options.fallback?.[url];
+      if (data && validate(data) && (!entry || (validDate(data.date) && data.date > entry.data.date))) entry = {data, checkedAt: 0};
+      if (!entry) return null;
       memory.set(url, entry);
       return entry;
     }
@@ -78,21 +81,24 @@
       if (!force && previous && Date.now() - previous.checkedAt < ttl) return {...previous, stale: false};
       if (inflight.has(url)) return inflight.get(url);
       const work = (async () => {
-        const controller = new AbortController();
-        const timer = setTimeout(() => controller.abort(), options.timeout || 12000);
-        try {
-          const response = await fetcher(url, {signal: controller.signal, cache: 'no-cache'});
-          if (!response.ok) throw new Error('HTTP ' + response.status);
-          const data = await response.json();
-          if (!validate(data)) throw new Error('Invalid data');
-          const entry = {data, checkedAt: Date.now()};
-          memory.set(url, entry);
-          try { storage?.setItem(prefix + url, JSON.stringify(entry)); } catch {}
-          return {...entry, stale: false};
-        } catch (error) {
-          if (previous) return {...previous, stale: true};
-          throw error;
-        } finally { clearTimeout(timer); }
+        for (let attempt = 0; ; attempt++) {
+          const controller = new AbortController();
+          const timer = setTimeout(() => controller.abort(), options.timeout || 12000);
+          try {
+            const requestURL = force || attempt ? url + (url.includes('?') ? '&' : '?') + '_retry=' + Date.now() : url;
+            const response = await fetcher(requestURL, {signal: controller.signal, cache: 'no-cache'});
+            if (!response.ok) throw Object.assign(new Error('HTTP ' + response.status), {status:response.status});
+            const data = await response.json();
+            if (!validate(data)) throw new Error('Invalid data');
+            const entry = {data, checkedAt: Date.now()};
+            memory.set(url, entry);
+            try { storage?.setItem(prefix + url, JSON.stringify(entry)); } catch {}
+            return {...entry, stale: false};
+          } catch (error) {
+            if (previous) return {...previous, stale: true};
+            if (attempt >= (options.retries ?? 1) || (error.status >= 400 && error.status < 500 && error.status !== 429)) throw error;
+          } finally { clearTimeout(timer); }
+        }
       })();
       inflight.set(url, work);
       try { return await work; } finally { inflight.delete(url); }

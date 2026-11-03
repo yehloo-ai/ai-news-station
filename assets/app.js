@@ -5,7 +5,13 @@ const AIHOT = 'https://aihot.virxact.com/api/public';
 // 公共 CORS 代理经常限流或失效，不再作为浏览器端数据链路。
 const STATIC_BASE = 'data';
 const STATIC_TABS = new Set(['daily', 'featured', 'all']);
-const stationData = Station.createDataClient();
+const embeddedDaily = (() => {
+  try { return JSON.parse(document.getElementById('dailySnapshot')?.textContent || 'null'); } catch { return null; }
+})();
+const stationData = Station.createDataClient({fallback: Station.validSnapshot(embeddedDaily) ? {
+  'data/daily-latest.json': embeddedDaily,
+  [`data/daily/${embeddedDaily.date}.json`]: embeddedDaily
+} : {}});
 let dailyRequest = 0;
 let viewRequest = 0;
 const tabScroll = {};
@@ -529,12 +535,7 @@ async function loadDailyDate(date, options = {}) {
   const main = document.getElementById('main');
   main.setAttribute('aria-busy', 'true');
   showDataStatus('正在检查日报…');
-  try {
-    if (date === 'invalid') throw new Error('Invalid date');
-    const url = date ? `data/daily/${date}.json` : 'data/daily-latest.json';
-    const result = await stationData.get(url, {force:!!options.force, validate:data => Station.validSnapshot(data, date)});
-    if (request !== dailyRequest || activeTab !== 'daily') return;
-    const data = result.data;
+  const renderSnapshot = data => {
     dailyCache[data.date] = data;
     archiveActiveDate = data.date;
     STATIC_DAILY_DATES.add(data.date);
@@ -542,10 +543,20 @@ async function loadDailyDate(date, options = {}) {
     cache.daily = {aiHotData:data, ts:Date.now(), updated:data.generatedAt};
     renderNav();
     renderTab(TABS.find(t => t.id === 'daily'), [], [], data);
-    showDataStatus(result.stale ? '暂时无法连接，正在显示上次保存的日报。' : data.date !== Station.beijingDate() && !date ? `最近一期：${data.date}；今日日报尚未发布。` : '');
+  };
+  try {
+    if (date === 'invalid') throw new Error('Invalid date');
+    const url = date ? `data/daily/${date}.json` : 'data/daily-latest.json';
+    const saved = stationData.peek(url, data => Station.validSnapshot(data, date));
+    if (saved) renderSnapshot(saved.data);
+    const result = await stationData.get(url, {force:!!options.force, validate:data => Station.validSnapshot(data, date)});
+    if (request !== dailyRequest || activeTab !== 'daily') return;
+    const data = result.data;
+    renderSnapshot(data);
+    showDataStatus(result.stale ? `暂时无法连接，正在显示已保存的 ${data.date} 日报。可点击顶部刷新重试。` : data.date !== Station.beijingDate() && !date ? `最近一期：${data.date}；今日日报尚未发布。` : '');
   } catch {
     if (request !== dailyRequest || activeTab !== 'daily') return;
-    main.innerHTML = `<div class="empty-state"><h1>本期日报暂不可用</h1><p>${esc(date || '')}</p><a href="?tab=daily">查看最近一期</a> · <a href="daily/">日报存档</a></div>`;
+    main.innerHTML = `<div class="empty-state"><h1>本期日报暂不可用</h1><p>${esc(date || '')}</p><button type="button" onclick="manualRefresh()">重新加载</button><p><a href="?tab=daily">查看最近一期</a> · <a href="daily/">日报存档</a></p></div>`;
     showDataStatus('未找到日期一致的有效日报，请稍后重试。');
   } finally {
     if (request === dailyRequest && activeTab === 'daily') main.removeAttribute('aria-busy');
@@ -862,7 +873,7 @@ function tlSource(e, cls) {
   if (cls === 'tl-source') {
     const name = esc(e.sourceName || '原始信源');
     const date = esc(e.date || '');
-    return `<span class="tl-source-line"><span class="tl-source-main"><span class="tl-source-label">信源：</span><a class="${cls}" href="${esc(Station.safeURL(e.sourceUrl) || '#')}" target="_blank" rel="noopener">${name}</a></span>${date ? `<span class="tl-source-date">${date}</span>` : ''}</span>`;
+    return `<span class="tl-source-line"><span class="tl-source-main"><span class="tl-source-label">信源：</span><a class="${cls}" title="${name}" href="${esc(Station.safeURL(e.sourceUrl) || '#')}" target="_blank" rel="noopener">${name}</a></span>${date ? `<span class="tl-source-date">${date}</span>` : ''}</span>`;
   }
   return `<a class="${cls}" href="${esc(Station.safeURL(e.sourceUrl) || '#')}" target="_blank" rel="noopener">${TL_LINK_ICON}</a>`;
 }
@@ -932,18 +943,18 @@ function renderModelTimeline(data) {
           <div class="section-title"><span class="desktop-only">AI 大事记 · 模型发布时间线</span><span class="mobile-only chronicle-mobile-title"><span class="chronicle-title-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>大事记</span></div>
           <div class="section-tagline mobile-only">模型与资本动态</div>
         </div>
-        <div class="section-sub">${entries.length} 条 · 更新于 ${data.updatedAt}</div>
+        <div class="section-sub">${entries.length} 条 · 最近事件 ${esc(entries[0]?.date || '暂无')}</div>
       </div>
       ${chronicleTabs('timeline')}
     </div>
-    <div class="source-pills chronicle-subtitle">哪家 · 什么模型 · 哪天发布 · 关键规格 —— 条目附原始来源，自动整理内容仍需核实，<a href="timeline/" target="_blank" rel="noopener" style="color:var(--accent);">网页版（可分享）</a></div>
+    <div class="source-pills chronicle-subtitle">档案更新 ${esc(data.updatedAt)} · 日期按原始公告；历史自动条目仍待复核 · <a href="timeline/" target="_blank" rel="noopener" style="color:var(--accent);">网页版</a></div>
     <div class="tl-wrap chronicle-timeline">${yearsHtml}</div>`;
 }
 
 // ── Render: AI 大事记（资本动态 / 融资时间线）——复用模型发布的时间轴视觉语言 ──
 const FUND_SECTOR_CLASS = { '大模型':'m-lang', '芯片算力':'m-video', '应用':'m-image', '具身智能':'m-audio', '数据基础设施':'m-multi', '其他':'m-special' };
 function fundAmount(e) {
-  return `<span class="fund-amt">${esc(e.amount || '')}${e.currency ? ' ' + esc(e.currency) : ''}</span>${e.valuation ? `<span class="fund-val"> · ${esc(e.valuation)}</span>` : ''}`;
+  return `<span class="fund-amt">${esc(e.amount || (e.stage === 'filed' ? '发行规模待定' : '金额未披露'))}${e.amount && e.currency ? ' ' + esc(e.currency) : ''}</span>${e.valuation ? `<span class="fund-val"> · ${esc(e.valuation)}</span>` : ''}`;
 }
 function fundCard(e) {
   const cls = FUND_SECTOR_CLASS[e.sector] || 'm-special';
@@ -956,6 +967,7 @@ function fundCard(e) {
         ${catPill}
         <span class="tl-model">${fundAmount(e)}</span>
         <span class="tl-minor-desc">${esc(e.highlight || '')}</span>
+        ${tlSource(e, 'tl-minor-src')}
       </div>
     </div>`;
   }
@@ -1005,11 +1017,11 @@ function renderFundingTimeline(data) {
           <div class="section-title"><span class="desktop-only">AI 大事记 · 资本动态时间线</span><span class="mobile-only chronicle-mobile-title"><span class="chronicle-title-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>大事记</span></div>
           <div class="section-tagline mobile-only">模型与资本动态</div>
         </div>
-        <div class="section-sub">${entries.length} 条 · 更新于 ${data.updatedAt}</div>
+        <div class="section-sub">${entries.length} 条 · 最近事件 ${esc(entries[0]?.date || '暂无')}</div>
       </div>
       ${chronicleTabs('funding')}
     </div>
-    <div class="source-pills chronicle-subtitle">谁 · 什么轮次 · 多少钱 · 什么估值 —— 条目均附信源</div>
+    <div class="source-pills chronicle-subtitle">档案更新 ${esc(data.updatedAt)} · 融资、并购与上市进展 · 日期按原始公告</div>
     <div class="tl-wrap chronicle-timeline">${yearsHtml}</div>`;
 }
 
@@ -1294,7 +1306,8 @@ async function switchTab(id, options = {}) {
     });
   } catch {
     if (request !== viewRequest) return;
-    main.innerHTML = '<div class="empty-state"><h1>数据暂时无法加载</h1><button type="button" onclick="manualRefresh()">重新加载</button></div>';
+    const archive = {timeline:'timeline/', funding:'funding/', tools:'tools/'}[id] || 'daily/';
+    main.innerHTML = `<div class="empty-state"><h1>数据暂时无法加载</h1><button type="button" onclick="manualRefresh()">重新加载</button><p><a href="${archive}">阅读静态存档</a> · <a href="?tab=daily">查看最近一期日报</a></p></div>`;
     showDataStatus('请检查网络，或稍后重试。');
   }
 }

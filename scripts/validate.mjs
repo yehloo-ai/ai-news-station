@@ -40,7 +40,7 @@ function check(directory) {
     const html=readFileSync(path,'utf8'); htmlCount++;
     for (const script of html.matchAll(/<script([^>]*)>([\s\S]*?)<\/script>/gi)) {
       if (/src=/.test(script[1])) continue;
-      if (/application\/ld\+json/.test(script[1])) JSON.parse(script[2]);
+      if (/application\/(ld\+)?json/.test(script[1])) JSON.parse(script[2]);
       else new vm.Script(script[2], {filename:path});
     }
     for (const tag of html.matchAll(/\b(?:href|src)="([^"]+)"/g)) {
