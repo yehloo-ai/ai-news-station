@@ -5,8 +5,128 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 23:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:04:15 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>通过节点相似性、图示学习和分级集群在复杂的网络中进行社区检测</title>
+      <link>https://arxiv.org/abs/2303.12212</link>
+      <description>社区检测是分析真实图表,包括社会、引用、生物和许多其他网络的重大挑战。 本条为处理这项任务提出了三个新的、一般的、分级的框架。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2303.12212</guid>
+      <source url="https://arxiv.org/abs/2303.12212">ArXiv ML</source>
+    </item>
+    <item>
+      <title>从分裂到融合:模拟嵌入的调查和路线图</title>
+      <link>https://arxiv.org/abs/2611.00172</link>
+      <description>嵌入模型是几乎所有现代人工智能系统的基础,从搜索引擎到推荐系统都是如此。 尽管有共同的数学基础,但嵌入模型的研究仍然因模式而支离破碎:这些社区大多在异地开发。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00172</guid>
+      <source url="https://arxiv.org/abs/2611.00172">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>MEMENTO:长期上下文处理代理的学习背景管理</title>
+      <link>https://arxiv.org/abs/2611.00244</link>
+      <description>长期输入的 LLM 代理必须执行上下文管理: 在固定大小的上下文窗口中决定保留什么。 常见的方法是收缩, 即模型用自生成的音符来取代其历史 。 然而现成的代理 i</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00244</guid>
+      <source url="https://arxiv.org/abs/2611.00244">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>在LLM谈判中的跨语言人的影响</title>
+      <link>https://arxiv.org/abs/2611.00300</link>
+      <description>让LLM谈判者“头力强”并坚持价格,但该指令是否在每种语言中都保持同样的行为? 为了检验这一点,我们使用双子座3.6 Flash的相同买卖案例来谈判同样的12 Cra。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00300</guid>
+      <source url="https://arxiv.org/abs/2611.00300">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>GAVAGAI:通过平衡的最佳运输方式对婴儿规模远景规划模式进行参考调整</title>
+      <link>https://arxiv.org/abs/2611.00319</link>
+      <description>儿童会从大约一亿个字输入中得知哪些字词。在相当尺度上训练的视觉语言模型将字词绑定在更不可靠的参考词上,我们提出,部分差距是结构性的:通常的下个字。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00319</guid>
+      <source url="https://arxiv.org/abs/2611.00319">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>排查审计:社区人工智能危害排查社区审计.</title>
+      <link>https://arxiv.org/abs/2611.00345</link>
+      <description>人工智能系统将多数群体缺省纳入培训数据、评价衡量尺度和类别定义,为同性恋社区带来有记录的伤害,包括去除风险、错误分类和歧视。</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00345</guid>
+      <source url="https://arxiv.org/abs/2611.00345">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作能力</title>
+      <link>https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA</link>
+      <description>腾讯混元发布 Hy4 正式版，相比 Hy4 preview 扩展预训练与后训练规模，首次引入视觉能力和电脑操作支持，GameDev 与 GameLogic 评测分别提升 19.1% 和 9.8%。</description>
+      <pubDate>Wed, 04 Nov 2026 04:43:55 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA</guid>
+      <source url="https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA">公众号：腾讯混元</source>
+    </item>
+    <item>
+      <title>Claude 开始拒绝抄游戏，但可能已经太晚了</title>
+      <link>https://www.ifanr.com/1687508?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>惟创意与热爱不可辜负#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 04 Nov 2026 04:34:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1687508?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1687508?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>连夜实测 iPhone 国行 AI，亮点和槽点都在这了</title>
+      <link>https://www.ifanr.com/1687585?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>后来者总有机会。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 04 Nov 2026 04:13:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1687585?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1687585?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>PC游戏中最大的摩登网站 是对人工智能的立场</title>
+      <link>https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</link>
+      <description>PC游戏mods寄存器Nexus Mods将人工智能的披露规定为上传新 Mods的强制性内容,意味着mod作者将不得不声明"人工智能是否在其作品中被使用",该网站今天作为平台上关于人工智能生成内容的大文章的一部分而宣布. " One of the Mo.</description>
+      <pubDate>Tue, 03 Nov 2026 19:42:10 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</guid>
+      <source url="https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures">The Verge AI</source>
+    </item>
+    <item>
+      <title>国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道</title>
+      <link>http://www.geekpark.net/news/373427</link>
+      <description>国行 Apple 智能开始测试：iOS 27.3 首个开发者 Beta 版已推送 11 月 4 日，苹果向开发者推送 iOS 27.3 首个 Beta 版，国行 iPhone 用户开始测试首批 Apple 智能功能，包括实时翻译、照片消除、写作工具和通知摘要等。国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Siri、写作工具和视觉智能中调用千问，覆盖文本与图像理解相关能力。 这次开放的是开发者测试版，正式版计划于 12 月推出。首批支持 iPhone 15 Pro 系列、iPhone 16 及后续机型，以及 iPhone Air 和 iPhone Duo；W</description>
+      <pubDate>Wed, 04 Nov 2026 08:28:02 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373427</guid>
+      <source url="http://www.geekpark.net/news/373427">极客公园</source>
+    </item>
+    <item>
+      <title>早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token</title>
+      <link>https://www.ifanr.com/1687477?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍 · 盗用 AI 平台算力，上海一男子获刑三年 · 中兴否认出售手机业务传闻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 04 Nov 2026 00:26:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1687477?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1687477?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>卡兹克开源折腾一年的 Agent 自动化系统 Agent-Autoloop</title>
+      <link>https://mp.weixin.qq.com/s/T9_acg247gxzUNL4j5zrCw</link>
+      <description>作者开源其打磨一年的 Agent 自动化系统 Agent-Autoloop，地址为 https://github.com/KKKKhazix/agent-autoloop。</description>
+      <pubDate>Wed, 04 Nov 2026 00:19:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/T9_acg247gxzUNL4j5zrCw</guid>
+      <source url="https://mp.weixin.qq.com/s/T9_acg247gxzUNL4j5zrCw">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>请不要问我 何时人工智能泡沫会爆发</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds</link>
+      <description>在人工智能泡沫会爆出的时候,人们,包括这些员工,不断以不同程度的兴奋或惊恐问我,我会告诉你我所说的话:如果我知道这一点,我会在市场上做出一个改变生命的赌注,尽可能地杠杆,然后,在我赚到钱之后,[.].</description>
+      <pubDate>Tue, 03 Nov 2026 18:37:45 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds">The Verge AI</source>
+    </item>
+    <item>
+      <title>AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%</title>
+      <link>https://x.com/rohanpaul_ai/status/2117757237557088263</link>
+      <description>AMD 公布 2026 年三季度财报，预计 2027 年营收增长超 80%，高于分析师建模的 77%，CEO Lisa Su 称数据中心芯片将占明年销售额的 80%。</description>
+      <pubDate>Tue, 03 Nov 2026 23:14:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2117757237557088263</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2117757237557088263">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
     <item>
       <title>苹果开始给Siri人工智能访问第三方应用</title>
       <link>https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps</link>
@@ -46,126 +166,6 @@
       <pubDate>Tue, 03 Nov 2026 12:00:04 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</guid>
       <source url="https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features">The Verge AI</source>
-    </item>
-    <item>
-      <title>收集隐私和OpenAI 私人情报</title>
-      <link>https://www.youtube.com/shorts/JR7xBi2kJjY</link>
-      <description>Glean 联合创始人和 CTO T. R. Vishwanath 讨论了客户对数据的控制和Glean 与 OpenAI 在私人安全处理预览方面的工作。 更多了解 OpenAI 私人情报: https://openai.com/business/private-intelligence/</description>
-      <pubDate>Tue, 03 Nov 2026 16:51:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/JR7xBi2kJjY</guid>
-      <source url="https://www.youtube.com/shorts/JR7xBi2kJjY">OpenAI</source>
-    </item>
-    <item>
-      <title>收集隐私和OpenAI 私人情报</title>
-      <link>https://www.youtube.com/watch?v=2h16j4K_NbA</link>
-      <description>使用更有能力的人工智能开始于对数据处于控制之下的信心。 对于Glean的客户来说,隐私是一个优先事项。 Glean 联合创始人和 CTO Vishwanath T R 分享Glean 和 OpenAI 如何合作帮助满足这些需求,包括通过私人安全处理预告</description>
-      <pubDate>Tue, 03 Nov 2026 16:46:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=2h16j4K_NbA</guid>
-      <source url="https://www.youtube.com/watch?v=2h16j4K_NbA">OpenAI</source>
-    </item>
-    <item>
-      <title>苹果在人工智能方面,</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</link>
-      <description>苹果公司的最新收益显示,它如何继续利用人工智能繁荣,而不破坏其消费竞争对手的基础设施开支预算。 总体而言,苹果公司公布了有史以来收入和每股收入最高的财政年度。 iPhone和Mac销售在Th上继续强劲增长。</description>
-      <pubDate>Tue, 03 Nov 2026 10:24:51 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI悄悄地将数据中心改名为“计算校园”</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses</link>
-      <description>人们憎恨数据中心。他们是响亮、资源匮乏的目光爱好者,非常不受欢迎,他们成功地实现了今天两极分化的政治格局中几乎不可能实现的目标:真正的两党反对派。但是,“模拟校园”又怎么样呢?这些声音很可爱,对吧?OpenAI似乎已经是了。</description>
-      <pubDate>Tue, 03 Nov 2026 10:00:44 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses">The Verge AI</source>
-    </item>
-    <item>
-      <title>Mistral Large 4 以开放权重发布并附技术报告</title>
-      <link>https://x.com/MistralAI/status/2117562068220195097</link>
-      <description>Mistral 团队成员 Pierre Stock 宣布 ML4（Mistral Large 4）正式开放权重，称其在代码智能体与网络安全方向具备前沿能力，且比三周前的 Preview 版本更高效、更紧凑。技术报告讲述其研发过程：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B/blob/main/assets/technical_report.pdf，Mistral AI 官方转发并称可在 alphaxiv 上阅读这一研发故事（https://www.alphaxiv.org/abs/2611.mistral-large-4）。</description>
-      <pubDate>Tue, 03 Nov 2026 10:18:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MistralAI/status/2117562068220195097</guid>
-      <source url="https://x.com/MistralAI/status/2117562068220195097">X：Mistral AI (@MistralAI)</source>
-    </item>
-    <item>
-      <title>OpenAI 研究：智能体安全评测与生产行为存在差距，评测目标误判是关键因素</title>
-      <link>https://alignment.openai.com/eval-production-behavior-gap/</link>
-      <description>OpenAI Alignment 团队对比六个模型在 Respecting Warnings 安全评测与匹配的 Codex 生产决策上的表现，发现评测成功率普遍低于生产，差距为 10.2 至 37.4 个百分点。模型普遍口头表现出评测意识（评测中一般性意识率 57.0%–83.7%），但仅告知</description>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://alignment.openai.com/eval-production-behavior-gap/</guid>
-      <source url="https://alignment.openai.com/eval-production-behavior-gap/">OpenAI：Alignment 研究博客（RSS）</source>
-    </item>
-    <item>
-      <title>GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨</title>
-      <link>https://www.ifanr.com/1687285?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>我「编程」我自己#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 03 Nov 2026 07:22:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1687285?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1687285?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替</title>
-      <link>https://sspai.com/post/118317</link>
-      <description>手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文</description>
-      <pubDate>Tue, 03 Nov 2026 15:12:54 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/118317</guid>
-      <source url="https://sspai.com/post/118317">少数派</source>
-    </item>
-    <item>
-      <title>心言巴布「Bubbo 1」：一台机器人，如何成为家人</title>
-      <link>http://www.geekpark.net/news/373399</link>
-      <description>&amp;nbsp; 头图来源：心言机器人 2026 年 10 月 29 日，心言机器人正式发布具身家庭智能体「巴布（Bubbo 1）」。 这台毛绒外形的机器人，基于心言自研的 Bubbo OS，主打「伙伴式交互」：它不是一台等人发号施令的家电，而是一个会主动走近、主动回应的家庭成员。产品即日起在京东等官方渠道发售，售价 9499 元，前 1000 名订购者可享 7999 元。 在心言机器人创始人、Bubbo 1 首席设计师任永亮看来，「技术决定体验的下限，交互决定体验的上限。」过去的 AI，是你不开口它就不在的工具；而巴布要做的，是从「外部」视角搭起一个 Family Agent&amp;mdash;&amp;md</description>
-      <pubDate>Tue, 03 Nov 2026 15:11:52 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373399</guid>
-      <source url="http://www.geekpark.net/news/373399">极客公园</source>
-    </item>
-    <item>
-      <title>不穿的旧衣服呢？放「AI 版转转」，毛利 80%</title>
-      <link>https://www.ifanr.com/1687274?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>旧衣千千万，AI 替你挑对的那件#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 03 Nov 2026 07:05:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1687274?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1687274?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Addy Osmani 谈 Agent 时代如何保持批判性思维</title>
-      <link>https://x.com/addyosmani/status/2117512471930167377</link>
-      <description>Addy Osmani 发文探讨在大量使用 Agent 工作流后如何保持批判性思维。他提出认知卸载、拖延、认知投降三段光谱，认为模型越强、输出越流畅，人越容易在不知不觉中放弃独立判断；并给出具体做法，包括提问前先写假设、把验证标准前置为可执行测试、要求 Agent 列出它替你做的决策与假设、用测验收尾而不是读摘要，以及定期手写代码做校准练习。他强调可以卸载工作和审计，但不能卸载责任。</description>
-      <pubDate>Tue, 03 Nov 2026 07:01:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/addyosmani/status/2117512471930167377</guid>
-      <source url="https://x.com/addyosmani/status/2117512471930167377">X：Addy Osmani (@addyosmani)</source>
-    </item>
-    <item>
-      <title>苹果的一切都在变贵，全怪 AI</title>
-      <link>https://www.ifanr.com/1687259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>赚得多，花得更狠#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 03 Nov 2026 04:09:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1687259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1687259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份</title>
-      <link>http://www.geekpark.net/news/373358</link>
-      <description>Anthropic 更新 IPO 招股书：第三季度营收近 170 亿美元，算力承诺达 8954 亿美元 11 月 2 日，Anthropic 向美国证券交易委员会提交更新后的 S-1 招股文件，首次补充截至今年 9 月底的第三季度财务数据。 Anthropic 第三季度营收达到 169.6 亿美元，较第二季度增长 47%，但增速低于第二季度的 144%。公司第三季度营业亏损为 5.67 亿美元，而第二季度曾实现 9.74 亿美元营业利润。 与此同时，Anthropic 披露约 8954 亿美元的 AI 基础设施相关支出承诺，涉及亚马逊、谷歌等合作伙伴。公司警告，部分算力供应依赖第三方融资，如果</description>
-      <pubDate>Tue, 03 Nov 2026 08:40:51 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373358</guid>
-      <source url="http://www.geekpark.net/news/373358">极客公园</source>
-    </item>
-    <item>
-      <title>DeepSeek Harness 养鱼教程：在 QQ、微信、飞书养大肥鱼并放上 B 站抖音直播</title>
-      <link>https://mp.weixin.qq.com/s/-LcRUPe5OYBRjiTEzYXKog</link>
-      <description>数字生命卡兹克发布一篇 DeepSeek Harness 养鱼教程，讲解如何在 QQ、微信、飞书接入大肥鱼，并让它去 B 站刷视频、在抖音发视频和直播。</description>
-      <pubDate>Tue, 03 Nov 2026 00:18:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/-LcRUPe5OYBRjiTEzYXKog</guid>
-      <source url="https://mp.weixin.qq.com/s/-LcRUPe5OYBRjiTEzYXKog">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头</title>
-      <link>https://www.ifanr.com/1687189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 曝下一代触屏 MacBook Pro 将换新模具 · OpenAI 推出电网保护计划，拟让未来园区在用电紧张时降载 · DeepSeek Harness 加入创作者模式，可用对话制作插件#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 03 Nov 2026 00:17:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1687189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1687189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
