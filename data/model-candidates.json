@@ -1070,5 +1070,23 @@
     "summary": "腾讯混元发布 Hyra 2.0，将自动化科研重点从直接解题转向由 agent 研发和升级科学模型、工作流与软件工具。系统采用 Overall、Mission、Worker 三层分工，接入企业微信、计算平台和代码仓库的实际研发环境，成果已公开在 GitHub 仓库。",
     "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498763&idx=1&sn=279f8fb4e43a987fdc0aa2af0b0f7958",
     "sourceName": "公众号：腾讯混元"
+  },
+  {
+    "observedDate": "2026-11-04",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Mistral Large 4 以开放权重发布并附技术报告",
+    "summary": "Mistral 团队成员 Pierre Stock 宣布 ML4（Mistral Large 4）正式开放权重，称其在代码智能体与网络安全方向具备前沿能力，且比三周前的 Preview 版本更高效、更紧凑。技术报告讲述其研发过程：https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B/blob/main/assets/technical_r",
+    "sourceUrl": "https://x.com/MistralAI/status/2117562068220195097",
+    "sourceName": "X：Mistral AI (@MistralAI)"
+  },
+  {
+    "observedDate": "2026-11-04",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenHands 与 Snowflake 推出基于现有 agent harness 的模型后训练方案",
+    "summary": "OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框架中重建 harness，即可用现有 OpenHands Agent SDK 配置和 Harbor 格式任务对开源权重模型做 RL 后训练，训练由 Snowflake Cortex Training 提供 GPU 支持。",
+    "sourceUrl": "https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake",
+    "sourceName": "OpenHands 官方博客"
   }
 ]
