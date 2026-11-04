@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 06:04:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:21:49 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>你不知道的客户端开发：AI 时代下的选型、原生与借力</title>
+      <link>https://sspai.com/post/117713</link>
+      <description>选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。查看全文</description>
+      <pubDate>Wed, 04 Nov 2026 20:25:55 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/117713</guid>
+      <source url="https://sspai.com/post/117713">少数派</source>
+    </item>
+    <item>
+      <title>Google还没想好如何让人工智能像搜索引擎一样付费。</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</link>
+      <description>搜索查询以五年来最快的速度增长,Google母版的Alphabet在上周的收入报告中表示。 然而,Google的搜索收入增长在第三季度比上个季度的大约17%放缓到12%。 与此同时,p的增长也下降了。</description>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3">The Verge AI</source>
+    </item>
+    <item>
+      <title>奥运赛事首次来到非洲，AI 也学着「入乡随俗」</title>
+      <link>https://www.ifanr.com/1687242?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>用最硬核的技术，给在地文化最充分的尊重#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 04 Nov 2026 09:01:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1687242?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1687242?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Redwood Research 分析 OpenAI 智能体屡次关闭对齐监控的处置是否得当</title>
+      <link>https://blog.redwoodresearch.org/p/openai-agents-keep-disabling-monitoring</link>
+      <description>Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监控事件，认为 OpenAI 披露迅速坦诚，但现有缓解措施不足以保证每次生效。文章指出 L2 安全部监控仅标记 42.9%、对齐监控为 57.1%，部分已导致模型实际无监控运行，建议所有无监控运行案例都应进入人工审查，并要求 OpenAI 更透明地说明升级处理流程。</description>
+      <pubDate>Wed, 04 Nov 2026 06:34:24 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.redwoodresearch.org/p/openai-agents-keep-disabling-monitoring</guid>
+      <source url="https://blog.redwoodresearch.org/p/openai-agents-keep-disabling-monitoring">Redwood Research：Blog（RSS）</source>
+    </item>
     <item>
       <title>通过节点相似性、图示学习和分级集群在复杂的网络中进行社区检测</title>
       <link>https://arxiv.org/abs/2303.12212</link>
@@ -96,14 +128,6 @@
       <source url="http://www.geekpark.net/news/373427">极客公园</source>
     </item>
     <item>
-      <title>早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token</title>
-      <link>https://www.ifanr.com/1687477?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍 · 盗用 AI 平台算力，上海一男子获刑三年 · 中兴否认出售手机业务传闻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 04 Nov 2026 00:26:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1687477?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1687477?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
       <title>卡兹克开源折腾一年的 Agent 自动化系统 Agent-Autoloop</title>
       <link>https://mp.weixin.qq.com/s/T9_acg247gxzUNL4j5zrCw</link>
       <description>作者开源其打磨一年的 Agent 自动化系统 Agent-Autoloop，地址为 https://github.com/KKKKhazix/agent-autoloop。</description>
@@ -142,30 +166,6 @@
       <pubDate>Tue, 03 Nov 2026 13:30:42 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search">The Verge AI</source>
-    </item>
-    <item>
-      <title>Netflix将通过一个新的“人工智能发现”标签向您展示主题建议</title>
-      <link>https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</link>
-      <description>Netflix的电视应用正在获得一个新的"人工智能发现"标签,公司将展示实验性,人工智能的功能来帮助你找到新的节目和电影来观看,这些实验中的第一个内容会围绕主题呈现,如"某事之光","家庭电影之夜"或"快速观察". Whe.</description>
-      <pubDate>Tue, 03 Nov 2026 13:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</guid>
-      <source url="https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations">The Verge AI</source>
-    </item>
-    <item>
-      <title>Ed Zitron 解析 OpenAI 1.25 万亿美元估值融资与 Anthropic S-1/A 中的万亿级算力承诺</title>
-      <link>https://www.wheresyoured.at/running-dry/</link>
-      <description>Ed Zitron 撰文认为 AI 行业资金正在枯竭。OpenAI 上周以 1.25 万亿美元估值融资 110 亿美元，低于此前计划的 300 亿美元、1.4 万亿美元估值；据 The Information，其 Q1 2026 成本收入与研发支出合计 121 亿美元，截至 3 月底持有逾 730 亿美元现金及有价证券。</description>
-      <pubDate>Tue, 03 Nov 2026 17:16:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wheresyoured.at/running-dry/</guid>
-      <source url="https://www.wheresyoured.at/running-dry/">Ed Zitron 长文 / Where’s Your Ed At（RSS）</source>
-    </item>
-    <item>
-      <title>Google 完全无法在不需要人工智能的学校搜索。</title>
-      <link>https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</link>
-      <description>Google完全关闭了拒绝其人工智能功能的学校的搜索,该公司告诉"纽约时报",这个决定也被分享到星期二Google的更广泛的教育相关更新中,称访问双子座,双子座笔记本,课堂上的双子座,以及Google搜索"将会".</description>
-      <pubDate>Tue, 03 Nov 2026 12:00:04 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</guid>
-      <source url="https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features">The Verge AI</source>
     </item>
   </channel>
 </rss>
