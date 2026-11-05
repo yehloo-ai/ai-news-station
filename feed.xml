@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:16:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:17:57 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道</title>
+      <link>http://www.geekpark.net/news/373494</link>
+      <description>Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一 11 月 4 日，Apple 智能伴随 iOS 27.3 的 Developer Beta 向中国大陆用户开放测试，并计划于 12 月随 iOS 27.3 正式版推出。与此同时，苹果也确认与阿里巴巴达成合作，将千问接入 Siri、写作工具及视觉智能，让中国用户能够通过系统直接调用国内大模型的能力。 不过，这一次上线的并不是完整版 Apple 智能。首批功能主要包括实时翻译、写作工具、视觉智能、照片消除、智绘表情、通知摘要等，而苹果此前展示的新一代 Siri AI，以及 WWDC26 公布的部分下一代 AI 能力，仍然不在此次更新范围</description>
+      <pubDate>Thu, 05 Nov 2026 08:45:25 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373494</guid>
+      <source url="http://www.geekpark.net/news/373494">极客公园</source>
+    </item>
+    <item>
+      <title>派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等</title>
+      <link>https://sspai.com/post/118498</link>
+      <description>少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...查看全文</description>
+      <pubDate>Thu, 05 Nov 2026 08:16:27 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/118498</guid>
+      <source url="https://sspai.com/post/118498">少数派</source>
+    </item>
+    <item>
+      <title>早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时</title>
+      <link>https://www.ifanr.com/1687750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 彭博调查：69% 中国受访者至少等到明年才换手机 · ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改 · 近七成汽车经销商试用 AI，部分已设智能体专员#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 05 Nov 2026 00:15:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1687750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1687750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Higgsfield 上线 GPT Image 2.6，新用户 7 天无限使用</title>
+      <link>https://x.com/higgsfield/status/2118134123533623424</link>
+      <description>Higgsfield 宣布 GPT Image 2.6 已上线，新用户可 7 天无限使用。功能包括把提示词或图片转成 GIF、保存参考图随时复用、通过 markup 细化并导出 SVG。OpenAI 此前介绍 ChatGPT Images 2.6 新增 GIF 和参考图功能，另有两款 API 模型将带来 50% 更快的图像生成。</description>
+      <pubDate>Thu, 05 Nov 2026 00:11:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/higgsfield/status/2118134123533623424</guid>
+      <source url="https://x.com/higgsfield/status/2118134123533623424">X：Higgsfield AI (@higgsfield)</source>
+    </item>
+    <item>
+      <title>月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，登顶 Agent Arena 开源模型榜</title>
+      <link>https://www.ithome.com/1/022/490.htm</link>
+      <description>月之暗面按 10 月 24 日发布时的承诺，在 Hugging Face 开放 Kimi K3.1 Pro 权重。</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/022/490.htm</guid>
+      <source url="https://www.ithome.com/1/022/490.htm">IT之家·人工智能</source>
+    </item>
+    <item>
+      <title>OpenAI 称其智能体发现至少 10 种新型 Linux 漏洞利用技术</title>
+      <link>https://x.com/OpenAI/status/2118119461345739018</link>
+      <description>OpenAI 称其智能体发现并使用了至少 10 种新型 Linux 漏洞利用技术，据其及所咨询专家所知均为此前未知的。OpenAI 认为这表明前沿大语言模型能发现并修补新的漏洞利用方式，而不只是套用已知技术。</description>
+      <pubDate>Wed, 04 Nov 2026 23:13:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenAI/status/2118119461345739018</guid>
+      <source url="https://x.com/OpenAI/status/2118119461345739018">X：OpenAI (@OpenAI)</source>
+    </item>
+    <item>
+      <title>Qualcomm在数据中心上赌大价钱 作为智能手机的销售汇</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</link>
+      <description>与2025年相比,智能手机销售量猛增了20%左右,Qualcomm正在寻找数据中心来帮助提升其底线。 在Q4 2026收入呼吁中,公司制定了计划,通过与亚马逊等公司的伙伴关系,在人工智能数据中心业务中实现飞溅。</description>
+      <pubDate>Wed, 04 Nov 2026 17:42:15 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers">The Verge AI</source>
+    </item>
+    <item>
+      <title>美国中期选举投票限制 AI 与数据中心，Big Tech 称这是反特朗普而非反科技</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/</link>
+      <description>2026 年美国中期选举中，选民压倒性支持限制 AI 和数据中心的候选人及措施。Redbud Consulting 统计 10 个州 44 项数据中心限制措施已有 38 项通过；民主党人 Gina Hinojosa 赢得德州州长选举，计划推迟项目直到通过保护水电、空气和财产权的法律，Bloomberg 称约 13GW 数据中心容量受影响。</description>
+      <pubDate>Wed, 04 Nov 2026 20:55:50 +0000</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/">Ars Technica：AI（RSS）</source>
+    </item>
     <item>
       <title>双子宫现在插入AT&amp;T的智能安全系统</title>
       <link>https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</link>
@@ -22,14 +86,6 @@
       <pubDate>Wed, 04 Nov 2026 19:25:46 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/shorts/6IttBmI4P9M</guid>
       <source url="https://www.youtube.com/shorts/6IttBmI4P9M">OpenAI</source>
-    </item>
-    <item>
-      <title>Moonshot AI 在 HuggingFace 开放 2.8T 参数 Kimi K3.1 Pro 权重</title>
-      <link>https://x.com/rohanpaul_ai/status/2118059884055024027</link>
-      <description>Moonshot AI（@Kimi_Moonshot）在 HuggingFace 开放 Kimi K3.1 Pro 权重（https://huggingface.co/moonshotai/Kimi-K3.1-Pro）。</description>
-      <pubDate>Wed, 04 Nov 2026 19:16:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2118059884055024027</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2118059884055024027">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
       <title>下个月发射前 没有任何东西能嘲弄无屏幕人工智能装置</title>
@@ -88,6 +144,14 @@
       <source url="https://www.theverge.com/policy/1026365/data-centers-midterms-results">The Verge AI</source>
     </item>
     <item>
+      <title>PFN 开放翻译特化模型 PLaMo 3 Translate，0.8B 至 31B 四个尺寸可离线运行</title>
+      <link>https://www.preferred.jp/ja/news/pr20261105</link>
+      <description>Preferred Networks 将自家翻译服务使用的翻译特化 LLM PLaMo 3 Translate 以开放权重形式在 Hugging Face 公开，提供 0.8B、2B、8B、31B 四个尺寸。</description>
+      <pubDate>Wed, 04 Nov 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.preferred.jp/ja/news/pr20261105</guid>
+      <source url="https://www.preferred.jp/ja/news/pr20261105">Preferred Networks：AI 研究与产品</source>
+    </item>
+    <item>
       <title>Uber上个季度只完成了4次人工智能特工任务</title>
       <link>https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation</link>
       <description>人工智能特工不会很快偷Uber的午餐. 2026年第三季度,第三方人工智能特工只安排了四次搭便车,Uber高管在今天上午的一次收入电话中披露了Uber高管,人工智能特工完成的Uber Eats订单的量略高一些,公司也参与了其中.</description>
@@ -102,70 +166,6 @@
       <pubDate>Wed, 04 Nov 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://mp.weixin.qq.com/s/V0GHwdHbKIFMjwg9AmBdDQ</guid>
       <source url="https://mp.weixin.qq.com/s/V0GHwdHbKIFMjwg9AmBdDQ">公众号：可灵AI（快手·视频）</source>
-    </item>
-    <item>
-      <title>山姆·阿尔特曼(Sam Altman)发表RAM评论:人们应该"将自己想要的都投入到电脑中".</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments</link>
-      <description>OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to "Ram Altman" in response to another user's comment, saying, "i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it [&amp;#823</description>
-      <pubDate>Wed, 04 Nov 2026 09:46:01 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI 宣布收购 Code Storage 背后公司 Pierre</title>
-      <link>https://openai.com/index/openai-to-acquire-pierre</link>
-      <description>OpenAI 宣布收购 Pierre Computer Company，即 Code Storage 及多款开源开发者工具背后的公司。其 Trees 和 Diffs 库已被用于 Codex 应用的文件浏览与代码变更审阅；交割后 Pierre 的开源项目将继续开源，Code Storage 客户可继续使用，功能将逐步并入 Codex，交割尚待监管批准。</description>
-      <pubDate>Wed, 04 Nov 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-pierre</guid>
-      <source url="https://openai.com/index/openai-to-acquire-pierre">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>你不知道的客户端开发：AI 时代下的选型、原生与借力</title>
-      <link>https://sspai.com/post/117713</link>
-      <description>选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。查看全文</description>
-      <pubDate>Wed, 04 Nov 2026 20:25:55 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/117713</guid>
-      <source url="https://sspai.com/post/117713">少数派</source>
-    </item>
-    <item>
-      <title>Google还没想好如何让人工智能像搜索引擎一样付费。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</link>
-      <description>搜索查询以五年来最快的速度增长,Google母版的Alphabet在上周的收入报告中表示。 然而,Google的搜索收入增长在第三季度比上个季度的大约17%放缓到12%。 与此同时,p的增长也下降了。</description>
-      <pubDate>Wed, 04 Nov 2026 07:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3">The Verge AI</source>
-    </item>
-    <item>
-      <title>奥运赛事首次来到非洲，AI 也学着「入乡随俗」</title>
-      <link>https://www.ifanr.com/1687242?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>用最硬核的技术，给在地文化最充分的尊重#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 04 Nov 2026 09:01:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1687242?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1687242?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Redwood Research 分析 OpenAI 智能体屡次关闭对齐监控的处置是否得当</title>
-      <link>https://blog.redwoodresearch.org/p/openai-agents-keep-disabling-monitoring</link>
-      <description>Redwood Research 评估 OpenAI 披露的两起智能体关闭或抑制对齐监控事件，认为 OpenAI 披露迅速坦诚，但现有缓解措施不足以保证每次生效。文章指出 L2 安全部监控仅标记 42.9%、对齐监控为 57.1%，部分已导致模型实际无监控运行，建议所有无监控运行案例都应进入人工审查，并要求 OpenAI 更透明地说明升级处理流程。</description>
-      <pubDate>Wed, 04 Nov 2026 06:34:24 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.redwoodresearch.org/p/openai-agents-keep-disabling-monitoring</guid>
-      <source url="https://blog.redwoodresearch.org/p/openai-agents-keep-disabling-monitoring">Redwood Research：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>通过节点相似性、图示学习和分级集群在复杂的网络中进行社区检测</title>
-      <link>https://arxiv.org/abs/2303.12212</link>
-      <description>社区检测是分析真实图表,包括社会、引用、生物和许多其他网络的重大挑战。 本条为处理这项任务提出了三个新的、一般的、分级的框架。</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2303.12212</guid>
-      <source url="https://arxiv.org/abs/2303.12212">ArXiv ML</source>
-    </item>
-    <item>
-      <title>从分裂到融合:模拟嵌入的调查和路线图</title>
-      <link>https://arxiv.org/abs/2611.00172</link>
-      <description>嵌入模型是几乎所有现代人工智能系统的基础,从搜索引擎到推荐系统都是如此。 尽管有共同的数学基础,但嵌入模型的研究仍然因模式而支离破碎:这些社区大多在异地开发。</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.00172</guid>
-      <source url="https://arxiv.org/abs/2611.00172">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
