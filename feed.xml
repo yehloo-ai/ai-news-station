@@ -5,8 +5,120 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Nov 2026 10:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:41:10 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude人工智能可以直接插入你的银行账户</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance</link>
+      <description>Anthropic对管理你的个人财务有一个新的投注:让Claude来做, 新的个人财务功能通过Plaid银行的桥接平台将它与你的银行和卡片账户连接起来。 例如,你可以问聊天员“我的钱本月去了哪里,” 它会创造出</description>
+      <pubDate>Thu, 05 Nov 2026 13:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance">The Verge AI</source>
+    </item>
+    <item>
+      <title>美国中期选举蓝潮冲击 AI 行业，44 项数据中心暂停提案中 43 项通过</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai</link>
+      <description>美国中期选举民主党拿下参众两院，多场竞选以问责 AI 公司为主题，行业面临监管、数据中心建设放缓等前景。44 项地方数据中心暂停提案中 43 项通过，NBC 民调显示 76% 选民反对在社区建数据中心；专家称共和党禁止州级 AI 限制的尝试可能终结，OpenAI 和 Anthropic 未置评，据华尔街日报报道 CEO 们在私下讨论算力容量受限问题。</description>
+      <pubDate>Thu, 05 Nov 2026 17:51:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Mozilla如何通过GPT-6网络加强Firefox安全</title>
+      <link>https://www.youtube.com/watch?v=pXRZyOxbDL4</link>
+      <description>Mozilla使用GPT-6 Cyber在Firefox中发现了先前未知的高强度弱点,并确定了建筑改进。它的团队向数百万用户运送了修复,将发现变成对依赖软件的人的保护。 hear Brian Grinstead, Dislative Engin</description>
+      <pubDate>Thu, 05 Nov 2026 17:14:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=pXRZyOxbDL4</guid>
+      <source url="https://www.youtube.com/watch?v=pXRZyOxbDL4">OpenAI</source>
+    </item>
+    <item>
+      <title>Perplexity 推出 Teammates 智能体，面向 Max 订阅用户开放</title>
+      <link>https://x.com/perplexity_ai/status/2118389326459670825</link>
+      <description>Perplexity 推出 Teammates 功能，这些智能体可承接任务，利用 Computer tasks、skills、memory 和工具主动工作。Teammates 之间可相互协作，还能在 Slack 中给同事发消息，目前已向 Max 订阅用户开放网页版。</description>
+      <pubDate>Thu, 05 Nov 2026 17:05:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/perplexity_ai/status/2118389326459670825</guid>
+      <source url="https://x.com/perplexity_ai/status/2118389326459670825">X：Perplexity (@perplexity_ai)</source>
+    </item>
+    <item>
+      <title>Google 发布 Gemini Omni 1.2 Flash：15 秒视频生成，降价 30% 至 $0.07/秒</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
+      <description>Google 发布 Gemini Omni 1.2 Flash，在 Gemini API 和 Gemini for business 全面开放。新模型原生支持最长 15 秒视频生成（此前为 10 秒），支持多轮对话编辑和更强的参考图一致性，价格较 1.1 下降 30% 至 720p 视频 $0.07/秒。</description>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</guid>
+      <source url="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/">Google Blog：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Reflection 详解开源模型 Beam 的安全训练与评估方法</title>
+      <link>https://reflection.ai/blog/open-model-safety-lessons</link>
+      <description>Reflection 发布博文，讲解其开源权重模型 Beam 的安全训练与评估方法，并推出开源安全研究计划 Project Iris。Beam 在 Iris Safety Evaluations 对话任务中拒绝 89% 的有害请求，为所测开源权重模型中最高，同时遵守 82% 的安全相关无害请求；安全对齐教师模型从 100B 增至 501B 参数后，过度拒绝相对下降 48.7%。</description>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://reflection.ai/blog/open-model-safety-lessons</guid>
+      <source url="https://reflection.ai/blog/open-model-safety-lessons">Reflection Blog</source>
+    </item>
+    <item>
+      <title>格莱姆斯将主演一部人工智能电影,</title>
+      <link>https://www.theverge.com/entertainment/1026282/grimes-ai-movie</link>
+      <description>人工智能生成的科幻电影"Gods Don't Give Gifts"增加了一点明星力量:流行星格莱姆斯将出现在电影中,被记为"第一部来到剧院的人工智能电影","Gods Don't Give Gifts"是人工智能电影商业潜力的显著测试案例,并在[.]上发布.</description>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1026282/grimes-ai-movie</guid>
+      <source url="https://www.theverge.com/entertainment/1026282/grimes-ai-movie">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI说,它的新网络安全模式最好不要黑其他公司</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch</link>
+      <description>OpenAI正在推出GPT-6 Cyber,这是其网络安全人工智能模型的最新版本,它称其更适合发现弱点,也不太可能在这个过程中去流氓和黑客其他平台. OpenAI说,在测试过程中,GPT-6 Cyber出界不到1%的时间,</description>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch">The Verge AI</source>
+    </item>
+    <item>
+      <title>Mustafa Suleyman 对特拉华允许 AI 智能体经营企业的提案表示担忧</title>
+      <link>https://x.com/mustafasuleyman/status/2118381163136123019</link>
+      <description>Mustafa Suleyman 表示对特拉华州允许 AI 智能体经营企业的提案深感担忧，认为应非常谨慎。该提案拟设立名为 Delaware AIC 的独立法律实体，其日常事务由 AI 智能体而非人类管理，可依智能体指示以自身名义起诉应诉、持有和处置财产并承担债务。</description>
+      <pubDate>Thu, 05 Nov 2026 16:33:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mustafasuleyman/status/2118381163136123019</guid>
+      <source url="https://x.com/mustafasuleyman/status/2118381163136123019">X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)</source>
+    </item>
+    <item>
+      <title>a16z：漏洞利用曾是瓶颈，AI 让攻击成本从数月降到数小时</title>
+      <link>https://www.a16z.news/p/the-exploit-was-the-bottleneck</link>
+      <description>a16z 分析师撰文指出，2026 年 AI 智能体已把从漏洞到可用 exploit 的成本从专业人员的数周压缩到数小时，8 月底一次行动在 4 小时内攻破首个真实受害者，26 秒内攻陷 11 个组织，累计 48 国 395 个机构被攻破，其中一半是学校。</description>
+      <pubDate>Thu, 05 Nov 2026 15:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.a16z.news/p/the-exploit-was-the-bottleneck</guid>
+      <source url="https://www.a16z.news/p/the-exploit-was-the-bottleneck">a16z：News（RSS）</source>
+    </item>
+    <item>
+      <title>人工智能繁荣的隐藏供应链成本</title>
+      <link>https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book</link>
+      <description>今天,我和一位经济学家、哈佛商学院管理实践教授Willy Sheh以及即将出版的《我的东西从哪里来?全球供应链背后的强大经济学》一书的作者谈话。 Willy是我最喜爱的解码员嘉宾之一。</description>
+      <pubDate>Thu, 05 Nov 2026 10:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book</guid>
+      <source url="https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book">The Verge AI</source>
+    </item>
+    <item>
+      <title>你可以直接将人工智能音乐从11Labs发送到SoundCloud</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs</link>
+      <description>今年早些时候与Moises合作后,SoundCloud正在与另一个人工智能音乐平台“11Labs”进行整合。现在,与其说不得不从“11Labs”输出和下载您的产出,然后上传到SoundCloud,你也可以直接发布这些产出。作为合作的一部分,</description>
+      <pubDate>Thu, 05 Nov 2026 10:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs">The Verge AI</source>
+    </item>
+    <item>
+      <title>极客公园创新大会 2027 首批嘉宾揭晓！</title>
+      <link>http://www.geekpark.net/news/373553</link>
+      <description>今年 12 月 5 日&amp;mdash;6 日，北京 798艺术区，还是老地方。 极客公园创新大会（GEEKPARK IF），我们又要见面了。 IF 将进入第 17 年。它像一本记录中国科技行业的「年鉴」，一场科技爱好者的年终盛宴，一次号召创新者聚集、留下历史回音的年度认知集结。 今年，我们的主题是：Revaluation 价值，另有答案 我们要探讨的不再是 AI 可以有多厉害，而是更落地的一面&amp;mdash;&amp;mdash; 工作、创作、生意，你原本笃定的经验，正在一件件被 AI 重新算账。你以为已经看懂的赛道，换个角度，结论可能完全不一样。 哪些老优势正在缩水？哪些被低估的人和机会，正在悄悄长出新</description>
+      <pubDate>Thu, 05 Nov 2026 21:15:49 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373553</guid>
+      <source url="http://www.geekpark.net/news/373553">极客公园</source>
+    </item>
+    <item>
+      <title>Big Tech的大型人工智能建设不会结束 除非有人阻止它</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3</link>
+      <description>在人工智能竞赛中,四个最大的竞争对手在上个月下旬举行了季度收入呼叫后,有两件事是清楚的:Big Tech没有完成在人工智能数据中心建设上花费记录金额,人工智能数据中心建设也没有更接近实现预期回报。 第三件事是:</description>
+      <pubDate>Thu, 05 Nov 2026 05:45:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3">The Verge AI</source>
+    </item>
     <item>
       <title>腾讯混元感谢 Artificial Analysis 对 Hy4 的评测，模型获 Intelligence Index v5 35 分</title>
       <link>https://x.com/TencentHunyuan/status/2118288137973854397</link>
@@ -26,7 +138,7 @@
     <item>
       <title>世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一</title>
       <link>http://www.geekpark.net/news/373542</link>
-      <description>2026 年 11 月，每年乌镇世界互联网大会期间举办的领先科技奖，已经走到第十年。 作为面向全球征集互联网领域领先成果的国际性科技奖项，领先科技奖每年会选出涵盖基础研究、关键技术与工程研发约 15 至 20 项获奖项目。一定程度上，它的评选也预示了未来几年潮水的走向。 这一年，传统互联网的光环逐渐退去，AI 成了最大的关键词。其中，仅工程研发组的 8 项获奖成果，从 AMD 的 AI 处理器，到蚂蚁的大模型健康服务平台，再到地平线的整车智能体&amp;hellip;&amp;hellip;就有至少 5 项与 AI 有关。 而在通用 Agent 这一领域，阿里旗下智能体平台 Qoder，成为了国内唯一获此殊荣</description>
+      <description>作者｜Cynthia 编辑｜郑玄 2026 年 11 月，每年乌镇世界互联网大会期间举办的领先科技奖，已经走到第十年。 作为面向全球征集互联网领域领先成果的国际性科技奖项，领先科技奖每年会选出涵盖基础研究、关键技术与工程研发约 15 至 20 项获奖项目。一定程度上，它的评选也预示了未来几年潮水的走向。 这一年，传统互联网的光环逐渐退去，AI 成了最大的关键词。其中，仅工程研发组的 8 项获奖成果，从 AMD 的 AI 处理器，到蚂蚁的大模型健康服务平台，再到地平线的整车智能体&amp;hellip;&amp;hellip;就有至少 5 项与 AI 有关。 而在通用 Agent 这一领域，阿里旗下智能体平台</description>
       <pubDate>Thu, 05 Nov 2026 17:19:17 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/373542</guid>
       <source url="http://www.geekpark.net/news/373542">极客公园</source>
@@ -34,7 +146,7 @@
     <item>
       <title>一个人用得好 AI，为什么一家公司却用不好？</title>
       <link>http://www.geekpark.net/news/373541</link>
-      <description>今天的 Agent，已经能够独立完成不少具体的工作。 写方案、写代码、做分析报告，过去可能需要员工花费几天才能完成的任务，如今 Agent 往往能在较短时间里交出不错的结果。 但在企业里，完成一份方案，可能只是一项工作的开始。比如，Agent 可以很快制定一份员工考核方案。但要用它真正完成一次考核，还需要获取员工的考勤、业绩等数据，处理特殊情况，并经过业务负责人和 HR 的确认，才能最终确定绩效。 能够交付阶段性的工作产物，和能进入真实业务、创造实际价值，是两回事。 随着 Agent 能力快速进化，企业开始面对一个新的问题：如何让这些越来越能干的 AI，真正参与到现有的工作体系中？ 在今年的腾</description>
+      <description>作者｜老 S 编辑｜郑玄 今天的 Agent，已经能够独立完成不少具体的工作。 写方案、写代码、做分析报告，过去可能需要员工花费几天才能完成的任务，如今 Agent 往往能在较短时间里交出不错的结果。 但在企业里，完成一份方案，可能只是一项工作的开始。比如，Agent 可以很快制定一份员工考核方案。但要用它真正完成一次考核，还需要获取员工的考勤、业绩等数据，处理特殊情况，并经过业务负责人和 HR 的确认，才能最终确定绩效。 能够交付阶段性的工作产物，和能进入真实业务、创造实际价值，是两回事。 随着 Agent 能力快速进化，企业开始面对一个新的问题：如何让这些越来越能干的 AI，真正参与到现有</description>
       <pubDate>Thu, 05 Nov 2026 17:15:38 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/373541</guid>
       <source url="http://www.geekpark.net/news/373541">极客公园</source>
@@ -54,118 +166,6 @@
       <pubDate>Thu, 05 Nov 2026 07:10:56 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/11/507782.html</guid>
       <source url="https://www.qbitai.com/2026/11/507782.html">量子位</source>
-    </item>
-    <item>
-      <title>GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由</title>
-      <link>https://www.ifanr.com/1687778?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>以后表情包斗图，全靠 AI 了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 05 Nov 2026 06:14:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1687778?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1687778?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>谁可以推翻代理权? LLM审查机构的证据授权</title>
-      <link>https://arxiv.org/abs/2611.05390</link>
-      <description>多代理语言模型系统经常增加一个审查员来改进上游代理的决定。然而,审查员既可以修复错误,也可以取代已经正确的决定。 我们将此作为一个机构管辖权问题来研究:条件a</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05390</guid>
-      <source url="https://arxiv.org/abs/2611.05390">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Agent Harness 感知:将验证的遥测器转化为工具使用代理的操作控制</title>
-      <link>https://arxiv.org/abs/2611.05391</link>
-      <description>工具描述告诉一个代理人一个动作可以做什么,但是它们不一定揭示该动作在使用时是否健康或合适。 执行工具通常通过监视器、跟踪和最近的失败来掌握这些信息。</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05391</guid>
-      <source url="https://arxiv.org/abs/2611.05391">ArXiv AI</source>
-    </item>
-    <item>
-      <title>用于代理人工智能系统的不确定-智能资源管弦</title>
-      <link>https://arxiv.org/abs/2611.05392</link>
-      <description>由大型语言模型(LLMS)提供动力的代理人工智能(人工智能)系统作为自主的多步骤管道执行,这些管道能动态地引用工具,将观测结果整合到内存中,并进行迁移直至任务解决或资源预算.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05392</guid>
-      <source url="https://arxiv.org/abs/2611.05392">ArXiv AI</source>
-    </item>
-    <item>
-      <title>与Meta-代理监督公司为医疗多智能体进行知识招聘</title>
-      <link>https://arxiv.org/abs/2611.05393</link>
-      <description>大语言模型在标准医学质量保证上表现强劲,但在更困难的推理任务上却退化了,因为多代理辩论往往无法战胜强力的单一模型激发力。 我们争辩说,一个关键的限制是现有系统选择专家,并挑选专家。</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05393</guid>
-      <source url="https://arxiv.org/abs/2611.05393">ArXiv AI</source>
-    </item>
-    <item>
-      <title>信任等级LLM推论的可行性条件</title>
-      <link>https://arxiv.org/abs/2611.05394</link>
-      <description>分层推论将大型语言模型的计算分布在设备的层次上,从立体推论和边缘硬件到数据中心,并越来越多地作为更便宜、更低纬度和更私人服务的途径。</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05394</guid>
-      <source url="https://arxiv.org/abs/2611.05394">ArXiv AI</source>
-    </item>
-    <item>
-      <title>用于光谱图形生成的约束- 保存流匹配</title>
-      <link>https://arxiv.org/abs/2611.05436</link>
-      <description>光谱图形生成模型图形通过它们的拉普拉西亚的eigen价值和eigenvectors,提供了紧凑和连续的替代直接图形构造的方法。然而,这些eigensystem必须保留grap的结构特性。</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05436</guid>
-      <source url="https://arxiv.org/abs/2611.05436">ArXiv ML</source>
-    </item>
-    <item>
-      <title>动态模拟的学习隐含解决方案</title>
-      <link>https://arxiv.org/abs/2611.05439</link>
-      <description>对动态系统进行高可靠性模拟对于科学发现和工程设计至关重要,但在计算上仍然要求很高。我们在此引入了隐性神经操作器溶解器(INOS),它学习了隐含的解析并编码 a</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05439</guid>
-      <source url="https://arxiv.org/abs/2611.05439">ArXiv ML</source>
-    </item>
-    <item>
-      <title>匹配但并不更好:6个临床数据集的量子机器学习基准和QML-Health-READY报告框架</title>
-      <link>https://arxiv.org/abs/2611.05442</link>
-      <description>背景:促进量子机器学习(QML)进行临床预测,但与古典模型的比较很少对等或测试等效. 方法:我们比较了一个量子内核支持矢量机(QSVM; 4 qubits, 调谐波段w)</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05442</guid>
-      <source url="https://arxiv.org/abs/2611.05442">ArXiv ML</source>
-    </item>
-    <item>
-      <title>为多种目标对齐而有目标地积极学习</title>
-      <link>https://arxiv.org/abs/2611.05506</link>
-      <description>将大型语言模型(LLMs)与一些目标(如帮助、无害和诚实)相统一,通常依赖于对每个目标的偏好判断,使注释成本与目标数量成线性增长。</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05506</guid>
-      <source url="https://arxiv.org/abs/2611.05506">ArXiv ML</source>
-    </item>
-    <item>
-      <title>TSFM 满足 LLM : 以 Covariates 为背景</title>
-      <link>https://arxiv.org/abs/2611.05515</link>
-      <description>文字信息在现实世界的时间序列数据集中是无处不在的,以新闻,报告和说明的形式出现,它们持有无法仅从数字历史中推断的关键预测信号. 大语言模型(LLM)解释文本但缺少数字化.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05515</guid>
-      <source url="https://arxiv.org/abs/2611.05515">ArXiv ML</source>
-    </item>
-    <item>
-      <title>立法法案讨论的论文分析</title>
-      <link>https://arxiv.org/abs/2611.05381</link>
-      <description>立法听证会是具有其人可识别的结构和逻辑的独特交流活动,但已被分析为超出其记录的明显现象。</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05381</guid>
-      <source url="https://arxiv.org/abs/2611.05381">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>DS@GT ARC at CheckThat! 2026: 生成事实检查文章的判罚-安乔德管道</title>
-      <link>https://arxiv.org/abs/2611.05382</link>
-      <description>错误信息的传播速度快于专业事实检查人员可以手动验证并撰写解释其判决的文章。这就需要自动制作事实检查文章。本文详细介绍了DS@GT ARC t所做的工作。</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05382</guid>
-      <source url="https://arxiv.org/abs/2611.05382">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>CCDWIKI:在纵向CBT对话中将案例拟订与反应生成脱钩</title>
-      <link>https://arxiv.org/abs/2611.05383</link>
-      <description>认知行为治疗(CBT)要求的不仅仅是心灵感应的验证,而是需要有条理地阐述各种情况、自动思维、情绪和行为之间的相互作用。 治疗者通过认知方式将这种相互作用正规化。</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05383</guid>
-      <source url="https://arxiv.org/abs/2611.05383">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
