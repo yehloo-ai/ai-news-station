@@ -1088,5 +1088,32 @@
     "summary": "OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框架中重建 harness，即可用现有 OpenHands Agent SDK 配置和 Harbor 格式任务对开源权重模型做 RL 后训练，训练由 Snowflake Cortex Training 提供 GPU 支持。",
     "sourceUrl": "https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake",
     "sourceName": "OpenHands 官方博客"
+  },
+  {
+    "observedDate": "2026-11-05",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作能力",
+    "summary": "腾讯混元发布 Hy4 正式版，相比 Hy4 preview 扩展预训练与后训练规模，首次引入视觉能力和电脑操作支持，GameDev 与 GameLogic 评测分别提升 19.1% 和 9.8%。",
+    "sourceUrl": "https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA",
+    "sourceName": "公众号：腾讯混元"
+  },
+  {
+    "observedDate": "2026-11-05",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Moonshot AI 在 HuggingFace 开放 2.8T 参数 Kimi K3.1 Pro 权重",
+    "summary": "Moonshot AI（@Kimi_Moonshot）在 HuggingFace 开放 Kimi K3.1 Pro 权重（https://huggingface.co/moonshotai/Kimi-K3.1-Pro）。",
+    "sourceUrl": "https://x.com/rohanpaul_ai/status/2118059884055024027",
+    "sourceName": "X：Rohan Paul (@rohanpaul_ai)"
+  },
+  {
+    "observedDate": "2026-11-05",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Cognition 发布编码模型 SWE-2 Flash，Terminal-Bench 4.0 从 0.9% 提升至 20.0%",
+    "summary": "Cognition 发布编码模型 SWE-2 Flash，称其在主流评测上超越所有美国开源权重模型，包括部分大 3 倍的模型。",
+    "sourceUrl": "https://cognition.com/blog/swe-2-flash",
+    "sourceName": "Cognition 模型 / Devin 博客（网页）"
   }
 ]
