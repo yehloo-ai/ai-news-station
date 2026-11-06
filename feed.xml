@@ -5,8 +5,64 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:41:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:07:20 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Airbnb在做人工智能旅行代理</title>
+      <link>https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings</link>
+      <description>Airbnb计划在2027上半年推出一个人工智能特工,帮助用户计划并预订出行,该公司在今天发布的Q3 2026收益股东信中表示:"今天的人工智能特工擅长简单而例行的任务,比如做餐厅预订或安排指定人员.</description>
+      <pubDate>Thu, 05 Nov 2026 19:06:12 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings</guid>
+      <source url="https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings">The Verge AI</source>
+    </item>
+    <item>
+      <title>美国中期选举后数据中心民意反弹引发AI股暴跌</title>
+      <link>https://mp.weixin.qq.com/s/k0Yt8r-ViM8FN1axHrP8tQ</link>
+      <description>作者复盘美股AI板块大跌，纳斯达克盘中跌超5%，费城半导体指数一度跌近11%，英伟达跌近9%，纳指一天蒸发近1.8万亿美元市值。背景是中期选举民主党拿下两院，亚利桑那州众议员安萨里提出应暂停先进AI开发，此前桑德斯等人在9月提过《2026年禁止人工超级智能法案》，按训练算力10的25次方划线并规定违规个人最高判20年、公司可强制解散。</description>
+      <pubDate>Thu, 05 Nov 2026 23:56:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/k0Yt8r-ViM8FN1axHrP8tQ</guid>
+      <source url="https://mp.weixin.qq.com/s/k0Yt8r-ViM8FN1axHrP8tQ">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>迷惑感发动它自己对人工智能特工的工作承担的责任</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</link>
+      <description>OpenAI 和 Anthropic 正在用自己的以工作为主的人工智能代理。 启动的新“ 团队” 可以在一个工作空间内扮演多个角色, 同时从您已经使用的“ 团队” 工具中抽取现有的项目、 技能和内存。 团队成员与“ 团队” 整合</description>
+      <pubDate>Thu, 05 Nov 2026 17:26:50 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI：ChatGPT 与 API 每周生成图像超 40 亿张，8 周前为 30 亿</title>
+      <link>https://x.com/thsottiaux/status/2118469621011677521</link>
+      <description>OpenAI 相关负责人称，目前 ChatGPT 与 API 每周生成的图像超过 40 亿张，高于仅 8 周前的每周超 30 亿张。其转发的 @OpenAI 内容还提到 ChatGPT Images 2.6 新增 GIF 与参考图支持，API 将迎来两个图像生成速度提升 50% 的新模型。</description>
+      <pubDate>Thu, 05 Nov 2026 22:24:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2118469621011677521</guid>
+      <source url="https://x.com/thsottiaux/status/2118469621011677521">X：Tibo (@thsottiaux)</source>
+    </item>
+    <item>
+      <title>美股单日蒸发 3.2 万亿美元，Nasdaq 创 2025 年 4 月以来最大跌幅</title>
+      <link>https://x.com/rohanpaul_ai/status/2118461023808323957</link>
+      <description>11 月 5 日华尔街市值蒸发 3.2 万亿美元，Nasdaq 综合指数跌 5.52%，投资者恐慌民主党掌控国会将放缓高杠杆 AI 支出热潮。Nvidia 跌 9.3% 抹去 2026 年涨幅，费城半导体指数跌 12.3%，SanDisk 跌 22%，Micron、Western Digital 和 AMD 各跌 17%。</description>
+      <pubDate>Thu, 05 Nov 2026 21:50:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2118461023808323957</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2118461023808323957">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>李飞飞宣传 World Labs 发布 Frameboy，可实时体验 Atlas 世界模型</title>
+      <link>https://x.com/drfeifei/status/2118438515474374904</link>
+      <description>李飞飞转发 World Labs 官方账号，宣传其新发布的 Frameboy demo，可用于实时探索世界。Frameboy 是两个月前发布的自回归世界模型 Atlas 的高度优化版本，从云端 GPU 流式传输，最高可达 15 fps，支持像素级相机控制。</description>
+      <pubDate>Thu, 05 Nov 2026 20:21:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/drfeifei/status/2118438515474374904</guid>
+      <source url="https://x.com/drfeifei/status/2118438515474374904">X：Fei-Fei Li (@drfeifei, World Labs)</source>
+    </item>
+    <item>
+      <title>Muse现在有语音模式了</title>
+      <link>https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar</link>
+      <description>Meta现在允许您实时与您的Muse人工智能智能体进行语音交谈,CEOMark Zuckerberg今天宣布,这个功能已经推出给我,我写了这篇文章时在iOS应用上做了一个旋转。当你与您的Muse智能体聊天时,顶端的Avatar [.]</description>
+      <pubDate>Thu, 05 Nov 2026 14:03:04 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar</guid>
+      <source url="https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar">The Verge AI</source>
+    </item>
     <item>
       <title>Claude人工智能可以直接插入你的银行账户</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance</link>
@@ -110,62 +166,6 @@
       <pubDate>Thu, 05 Nov 2026 21:15:49 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/373553</guid>
       <source url="http://www.geekpark.net/news/373553">极客公园</source>
-    </item>
-    <item>
-      <title>Big Tech的大型人工智能建设不会结束 除非有人阻止它</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3</link>
-      <description>在人工智能竞赛中,四个最大的竞争对手在上个月下旬举行了季度收入呼叫后,有两件事是清楚的:Big Tech没有完成在人工智能数据中心建设上花费记录金额,人工智能数据中心建设也没有更接近实现预期回报。 第三件事是:</description>
-      <pubDate>Thu, 05 Nov 2026 05:45:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3">The Verge AI</source>
-    </item>
-    <item>
-      <title>腾讯混元感谢 Artificial Analysis 对 Hy4 的评测，模型获 Intelligence Index v5 35 分</title>
-      <link>https://x.com/TencentHunyuan/status/2118288137973854397</link>
-      <description>腾讯混元转发并感谢 Artificial Analysis 对其最新模型 Hy4 的评测。Hy4 在 Artificial Analysis Intelligence Index v5 得 35 分，与中国实验室模型中仅次于 Kimi K3.1 Pro（46 分），与 Grok 4.7 (xhigh) 持平，比 Claude Haiku 5.5 (max) 低 1 分。评测要点：FrontierCode 2.0 得 31%，为中国实验室模型最高；AA-Omniscience v1.1 达 50% 但幻觉率高达 89%；定价 $0.834/$2.501 per 1M input/output t</description>
-      <pubDate>Thu, 05 Nov 2026 10:23:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TencentHunyuan/status/2118288137973854397</guid>
-      <source url="https://x.com/TencentHunyuan/status/2118288137973854397">X：腾讯混元 (@TencentHunyuan)</source>
-    </item>
-    <item>
-      <title>Chromebook 统治美国校园，AI 成了没得选的「套餐」</title>
-      <link>https://www.ifanr.com/1687912?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>为什么 AI 成了搜索的 「必选项」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 05 Nov 2026 10:00:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1687912?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1687912?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一</title>
-      <link>http://www.geekpark.net/news/373542</link>
-      <description>作者｜Cynthia 编辑｜郑玄 2026 年 11 月，每年乌镇世界互联网大会期间举办的领先科技奖，已经走到第十年。 作为面向全球征集互联网领域领先成果的国际性科技奖项，领先科技奖每年会选出涵盖基础研究、关键技术与工程研发约 15 至 20 项获奖项目。一定程度上，它的评选也预示了未来几年潮水的走向。 这一年，传统互联网的光环逐渐退去，AI 成了最大的关键词。其中，仅工程研发组的 8 项获奖成果，从 AMD 的 AI 处理器，到蚂蚁的大模型健康服务平台，再到地平线的整车智能体&amp;hellip;&amp;hellip;就有至少 5 项与 AI 有关。 而在通用 Agent 这一领域，阿里旗下智能体平台</description>
-      <pubDate>Thu, 05 Nov 2026 17:19:17 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373542</guid>
-      <source url="http://www.geekpark.net/news/373542">极客公园</source>
-    </item>
-    <item>
-      <title>一个人用得好 AI，为什么一家公司却用不好？</title>
-      <link>http://www.geekpark.net/news/373541</link>
-      <description>作者｜老 S 编辑｜郑玄 今天的 Agent，已经能够独立完成不少具体的工作。 写方案、写代码、做分析报告，过去可能需要员工花费几天才能完成的任务，如今 Agent 往往能在较短时间里交出不错的结果。 但在企业里，完成一份方案，可能只是一项工作的开始。比如，Agent 可以很快制定一份员工考核方案。但要用它真正完成一次考核，还需要获取员工的考勤、业绩等数据，处理特殊情况，并经过业务负责人和 HR 的确认，才能最终确定绩效。 能够交付阶段性的工作产物，和能进入真实业务、创造实际价值，是两回事。 随着 Agent 能力快速进化，企业开始面对一个新的问题：如何让这些越来越能干的 AI，真正参与到现有</description>
-      <pubDate>Thu, 05 Nov 2026 17:15:38 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373541</guid>
-      <source url="http://www.geekpark.net/news/373541">极客公园</source>
-    </item>
-    <item>
-      <title>百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA</title>
-      <link>https://www.qbitai.com/2026/11/507787.html</link>
-      <description>11月5日，百度正式开源最新基座模型文心5.5 Flash Base</description>
-      <pubDate>Thu, 05 Nov 2026 07:15:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507787.html</guid>
-      <source url="https://www.qbitai.com/2026/11/507787.html">量子位</source>
-    </item>
-    <item>
-      <title>MIT神作被锤：Astra爆改Qwen权重？就吹吧！</title>
-      <link>https://www.qbitai.com/2026/11/507782.html</link>
-      <description>spaCy作者长文炮轰</description>
-      <pubDate>Thu, 05 Nov 2026 07:10:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507782.html</guid>
-      <source url="https://www.qbitai.com/2026/11/507782.html">量子位</source>
     </item>
   </channel>
 </rss>
