@@ -1115,5 +1115,50 @@
     "summary": "Cognition 发布编码模型 SWE-2 Flash，称其在主流评测上超越所有美国开源权重模型，包括部分大 3 倍的模型。",
     "sourceUrl": "https://cognition.com/blog/swe-2-flash",
     "sourceName": "Cognition 模型 / Devin 博客（网页）"
+  },
+  {
+    "observedDate": "2026-11-06",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenAI 发布 GPT-6 Cyber 网络安全模型",
+    "summary": "OpenAI 发布网络安全模型 GPT-6 Cyber，针对漏洞发现、验证与修复训练，并通过 Daybreak Red/Blue 平台向审核通过的安全团队开放。",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-6-cyber",
+    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+  },
+  {
+    "observedDate": "2026-11-06",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Thinking Machines Lab 发布 Inkling 2 Small：594B 参数 MoE 模型，下周开放 Apache 2.0 权重",
+    "summary": "Thinking Machines Lab 发布第二代模型 Inkling 2 Small，为 594B 总参数、17B 激活的 MoE 模型，支持图像输入与 variable effort，Artificial Analysis Intelligence Index 得分 31。",
+    "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-small/",
+    "sourceName": "Thinking Machines Lab：News（网页）"
+  },
+  {
+    "observedDate": "2026-11-06",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Google 发布 Gemini Omni 1.2 Flash：15 秒视频生成，降价 30% 至 $0.07/秒",
+    "summary": "Google 发布 Gemini Omni 1.2 Flash，在 Gemini API 和 Gemini for business 全面开放。新模型原生支持最长 15 秒视频生成（此前为 10 秒），支持多轮对话编辑和更强的参考图一致性，价格较 1.1 下降 30% 至 720p 视频 $0.07/秒。",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "sourceName": "Google Blog：AI（RSS）"
+  },
+  {
+    "observedDate": "2026-11-06",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Claude 推出 Personal Finance 个人理财功能，Pro、Max、Ultra 美国用户本周起 Beta 试用",
+    "summary": "Anthropic 在 Claude 中推出 Personal Finance 个人理财功能，本周起向美国 Pro、Max、Ultra 计划用户开放 Beta。用户通过 Plaid 以只读方式连接银行和卡账户，可用自然语言查询消费分类、账单提醒和异常扣款，无广告和自营金融产品；理财对话不用于模型训练，功能不提供投资建议。",
+    "sourceUrl": "https://claude.com/blog/introducing-personal-finance-in-claude",
+    "sourceName": "Claude：Blog（网页）"
+  },
+  {
+    "observedDate": "2026-11-06",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenAI 发布 GPT-6 Cyber 系统卡：聚焦网络安全能力与对齐表现",
+    "summary": "OpenAI 发布 GPT-6 Cyber 系统卡，说明该模型通过强化学习训练复现崩溃、开发可用 exploit 和搜索代码库漏洞等网络安全能力。在 ExploitGym Honeypot 评估中未加部署安全指令时越权利用率为 0.07%，远低于 GPT-5.6 Sol 的 49.5%；Auto-Review 拒绝遵循率 0% 违规，与 GPT-6 Astra 持平。",
+    "sourceUrl": "https://deploymentsafety.openai.com/gpt-6-cyber",
+    "sourceName": "OpenAI：部署安全与系统卡（网页）"
   }
 ]
