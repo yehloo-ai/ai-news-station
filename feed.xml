@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:57:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 20:50:24 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>关于人工智能数据中心的所有最新消息</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
+      <description>大规模的新数据中心是技术公司对人工智能的希望和梦想的有形基础。 但是,仓促扩大充满能源需求服务器的仓库也激起了全球范围的争斗,因为它们对电网、公用事业账单、附近社区和环境的影响。</description>
+      <pubDate>Fri, 06 Nov 2026 15:02:22 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy">The Verge AI</source>
+    </item>
+    <item>
+      <title>Meta 的 Muse 人工智能可以为您需要的应用程序版本创建自定义“ 空间 ”</title>
+      <link>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</link>
+      <description>Meta将允许您在Muse内部构建定制的类似应用的经验。 新的功能叫做“ 空间 ” , 允许它的人工智能助理构建诸如购物中心、 学校仪表盘、 音乐跟踪器、 trivia 游戏等等, 您可以在 Muse 应用中直接与您互动 。 Meta 表示您可以</description>
+      <pubDate>Fri, 06 Nov 2026 13:10:10 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</guid>
+      <source url="https://www.theverge.com/tech/1028871/meta-muse-ai-spaces">The Verge AI</source>
+    </item>
+    <item>
+      <title>人工智能是新的约会破解者</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity</link>
+      <description>去年艾琳搬到旧金山后,她开始使用约会应用作为满足新人的方式,开始了解她的新城市,并与关心自己所做的事情的其他人建立联系. 25岁的分析师下载了Hinge并开始刷卡后,她注意到了一种趋势. "Hinge有一个即时w.</description>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity">The Verge AI</source>
+    </item>
+    <item>
+      <title>Big Tech在2026年大选中失势了</title>
+      <link>https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</link>
+      <description>周二,数百万美国选民参加了投票,以压倒多数投票支持民主党和反对人工智能。 与大科技的战斗即将恢复,对数据中心的争斗对试图建立数据中心的人们来说更加困难。 在《Vergecast》的这一集,尼拉(Nila)</description>
+      <pubDate>Fri, 06 Nov 2026 11:38:02 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</guid>
+      <source url="https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast">The Verge AI</source>
+    </item>
+    <item>
+      <title>约 60 万块 Nvidia H200 芯片滞留香港仓库，受阻方为北京而非华盛顿</title>
+      <link>https://x.com/thexpin/status/2118728111076335627</link>
+      <description>据 Reuters 报道，约 60 万块 Nvidia H200 芯片闲置在香港仓库，阻碍并非来自华盛顿而是北京。尽管 Trump 去年已放行 H200 对华销售，中国正以每家科技巨头约 1 万块的速度小批量发放进口许可，推动国内服务器价格上涨 3 倍。</description>
+      <pubDate>Fri, 06 Nov 2026 15:32:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thexpin/status/2118728111076335627</guid>
+      <source url="https://x.com/thexpin/status/2118728111076335627">X：X.PIN (@thexpin)</source>
+    </item>
     <item>
       <title>亚马逊会给你发短信 Alexa的购物名单</title>
       <link>https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders</link>
@@ -72,6 +112,14 @@
       <source url="https://www.qbitai.com/2026/11/508155.html">量子位</source>
     </item>
     <item>
+      <title>Meta 将基于 Muse Wonder 训练的专用模型上线 Muse 与 Meta AI</title>
+      <link>https://research.meta.ai/blog/specialized-models-for-muse-and-metaai</link>
+      <description>Meta 宣布把基于 Muse Wonder 训练的专用模型推向 Muse 和 Meta AI 用户，Personal Superintelligence Index 得分从 38% 提升到 47%。</description>
+      <pubDate>Fri, 06 Nov 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://research.meta.ai/blog/specialized-models-for-muse-and-metaai</guid>
+      <source url="https://research.meta.ai/blog/specialized-models-for-muse-and-metaai">Meta AI：Research Blog（网页）</source>
+    </item>
+    <item>
       <title>将人工智能时代的反向问题正规化:可能性、陷阱和邀请</title>
       <link>https://arxiv.org/abs/2611.06962</link>
       <description>诸如Lean检查数学证据等证明助手,以及人工智能人员最近使这种证明书的撰写变得很便宜。我们描述了AutoIP,这是一个Lean图书馆,其中古典线性规范化理论以及功能性分析。</description>
@@ -118,54 +166,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.06953</guid>
       <source url="https://arxiv.org/abs/2611.06953">ArXiv ML</source>
-    </item>
-    <item>
-      <title>八角星:一个大脑,许多分支用于Latent-KV多代理强化学习</title>
-      <link>https://arxiv.org/abs/2611.06956</link>
-      <description>多剂LLM系统通过将子剂与孤立的上下文窗口产卵来平行探索,而单剂系统则将每个搜索和核实步骤都附加在一个不断增长的轨迹中。然而,现有的多剂框架重复了前兆。</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06956</guid>
-      <source url="https://arxiv.org/abs/2611.06956">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Bayesian M/EEG源成像中的不确定性校准</title>
-      <link>https://arxiv.org/abs/2611.06979</link>
-      <description>M/EEG源成像需要精确的本地化和可靠的不确定性估计,然而,对于后期可信的区域很少进行实证校准的评估。</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06979</guid>
-      <source url="https://arxiv.org/abs/2611.06979">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Big Models, Small Gains: 冻结预测器作为MONSTER上的分类器</title>
-      <link>https://arxiv.org/abs/2611.06988</link>
-      <description>预测基础模型越来越多地被用作时间序列分类的冷冻特征提取器,但目前仍不清楚其预先训练过的表述是否比不需要预先训练的强大分类器具有优势.</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06988</guid>
-      <source url="https://arxiv.org/abs/2611.06988">ArXiv ML</source>
-    </item>
-    <item>
-      <title>使用时间中和决定树的强流分类</title>
-      <link>https://arxiv.org/abs/2611.06991</link>
-      <description>数据流被定性为可能无限的数据源,但非站式数据。 这种非站式数据源也被称为“概念漂移 ” , 往往导致部署的预测模型必须作为基础数据永久地重新训练。</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06991</guid>
-      <source url="https://arxiv.org/abs/2611.06991">ArXiv ML</source>
-    </item>
-    <item>
-      <title>基于LLM的主动对话系统中的交互式后门攻击</title>
-      <link>https://arxiv.org/abs/2611.06969</link>
-      <description>基于LLM的主动对话系统通过持续的互动提供目标导向支持,在外部提供的对话数据上调整其基本模型引入后门风险。 现有的LLM后门研究主要侧重于elici。</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06969</guid>
-      <source url="https://arxiv.org/abs/2611.06969">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>关于预先填充到自动递减的跨模式转让的机会和挑战</title>
-      <link>https://arxiv.org/abs/2611.06976</link>
-      <description>预先填充到自动递减的跨模型传输(PACT),是语言模型之间潜在交流的一种形式,结合了更大的模型的即时表示和较小的模型的高效生成,为平衡能力提供了一个有希望的方法.</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06976</guid>
-      <source url="https://arxiv.org/abs/2611.06976">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
