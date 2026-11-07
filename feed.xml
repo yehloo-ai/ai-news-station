@@ -5,20 +5,28 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 20:50:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:51:51 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>关于人工智能数据中心的所有最新消息</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
-      <description>大规模的新数据中心是技术公司对人工智能的希望和梦想的有形基础。 但是,仓促扩大充满能源需求服务器的仓库也激起了全球范围的争斗,因为它们对电网、公用事业账单、附近社区和环境的影响。</description>
-      <pubDate>Fri, 06 Nov 2026 15:02:22 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy">The Verge AI</source>
+      <title>Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现</title>
+      <link>https://x.com/ArtificialAnlys/status/2118851088111865983</link>
+      <description>Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了基准测试，两款模型在 AA-Image-T2I v2.1 和 AA-Image-Editing v2.1 上分列第一、二名。</description>
+      <pubDate>Fri, 06 Nov 2026 23:40:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2118851088111865983</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2118851088111865983">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
+    <item>
+      <title>Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元</title>
+      <link>https://x.com/rohanpaul_ai/status/2118813225336873181</link>
+      <description>据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。投资者当日已打款，剩余部分总额最高 200 亿美元，预计数周内到账。</description>
+      <pubDate>Fri, 06 Nov 2026 21:10:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2118813225336873181</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2118813225336873181">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
       <title>Meta 的 Muse 人工智能可以为您需要的应用程序版本创建自定义“ 空间 ”</title>
       <link>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</link>
-      <description>Meta将允许您在Muse内部构建定制的类似应用的经验。 新的功能叫做“ 空间 ” , 允许它的人工智能助理构建诸如购物中心、 学校仪表盘、 音乐跟踪器、 trivia 游戏等等, 您可以在 Muse 应用中直接与您互动 。 Meta 表示您可以</description>
+      <description>Meta 将允许您在其 Muse 人工智能助理中构建定制的类似应用的经验。 新的功能叫做“ 空间 ” , 允许 Muse 构建购物中心、 学校仪表板、 音乐跟踪器、 trivia 游戏等, 您可以在应用中直接互动。 如果您连接 y</description>
       <pubDate>Fri, 06 Nov 2026 13:10:10 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</guid>
       <source url="https://www.theverge.com/tech/1028871/meta-muse-ai-spaces">The Verge AI</source>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.06989</guid>
       <source url="https://arxiv.org/abs/2611.06989">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Steel Agent: LLM- Orstrated, Physics- Informed Steel Property 与经审计的通用化和校准的不确定性的预测</title>
-      <link>https://arxiv.org/abs/2611.06953</link>
-      <description>钢质物业模型即使对不熟悉的合金的推算不佳,也可以在随机测试分解上表现良好。 Steel Agent夫妇冶金描述器和机器学习模型,并配有语言-模型界面,用于财产预测,无证书</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06953</guid>
-      <source url="https://arxiv.org/abs/2611.06953">ArXiv ML</source>
     </item>
   </channel>
 </rss>
