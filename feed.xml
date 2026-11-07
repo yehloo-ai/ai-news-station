@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 00:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 07:04:31 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI价值1.25万亿美元,</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
+      <description>彭博社认为,OpenAI在新一轮资金中的价值为1.25万亿美元,这又筹集了110亿美元。 这将使它成为世界上最有价值的公司之一,在3月以8,520亿美元的价格从投资者那里筹集了1,220亿美元之后不久。</description>
+      <pubDate>Fri, 06 Nov 2026 18:46:18 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation">The Verge AI</source>
+    </item>
     <item>
       <title>Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现</title>
       <link>https://x.com/ArtificialAnlys/status/2118851088111865983</link>
@@ -14,6 +22,14 @@
       <pubDate>Fri, 06 Nov 2026 23:40:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2118851088111865983</guid>
       <source url="https://x.com/ArtificialAnlys/status/2118851088111865983">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
+    <item>
+      <title>据报道,中国招募人工智能执行官 监视黄杰森</title>
+      <link>https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</link>
+      <description>据"纽约时报"报道,中国情报机构招募了巨速执行官Alice Huang来监视Nvidia CEOJensen Huang. 国家安全部(MSS)请她搜集关于美国人工智能芯片的信息,并"可能会影响公司推动其最大进步.</description>
+      <pubDate>Fri, 06 Nov 2026 18:00:44 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</guid>
+      <source url="https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy">The Verge AI</source>
     </item>
     <item>
       <title>Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元</title>
@@ -24,9 +40,17 @@
       <source url="https://x.com/rohanpaul_ai/status/2118813225336873181">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
+      <title>关于人工智能数据中心的所有最新消息</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
+      <description>大规模的新数据中心是技术公司对人工智能的希望和梦想的有形基础。 但是,仓促扩大充满能源需求服务器的仓库也激起了全球范围的争斗,因为它们对电网、公用事业账单、附近社区和环境的影响。</description>
+      <pubDate>Fri, 06 Nov 2026 15:02:22 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy">The Verge AI</source>
+    </item>
+    <item>
       <title>Meta 的 Muse 人工智能可以为您需要的应用程序版本创建自定义“ 空间 ”</title>
       <link>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</link>
-      <description>Meta 将允许您在其 Muse 人工智能助理中构建定制的类似应用的经验。 新的功能叫做“ 空间 ” , 允许 Muse 构建购物中心、 学校仪表板、 音乐跟踪器、 trivia 游戏等, 您可以在应用中直接互动。 如果您连接 y</description>
+      <description>Meta将允许您在Muse内部构建定制的类似应用的经验。 新的功能叫做“ 空间 ” , 允许它的人工智能助理构建诸如购物中心、 学校仪表盘、 音乐跟踪器、 trivia 游戏等等, 您可以在 Muse 应用中直接与您互动 。 Meta 表示您可以</description>
       <pubDate>Fri, 06 Nov 2026 13:10:10 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</guid>
       <source url="https://www.theverge.com/tech/1028871/meta-muse-ai-spaces">The Verge AI</source>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.06972</guid>
       <source url="https://arxiv.org/abs/2611.06972">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Block: 与固定批量几何法的可复制LLM推论</title>
-      <link>https://arxiv.org/abs/2611.06977</link>
-      <description>可复制的 LLM 推论要求一个请求无论批次中的其他请求产生相同的输出。 现有的解决方案以不同的方式支付: 批量不变量内核会约束每个操作员, 并隔离预填 f</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06977</guid>
-      <source url="https://arxiv.org/abs/2611.06977">ArXiv AI</source>
-    </item>
-    <item>
-      <title>通过 " 弹性专家平行 " 培训后增强资源的能力</title>
-      <link>https://arxiv.org/abs/2611.06984</link>
-      <description>强化的学习后培训提高了大型语言模型的能力,但生成培训答复是一个主要的计算瓶颈。 在专家混合模型中,完成指定答复的工人可能仍然占上风。</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06984</guid>
-      <source url="https://arxiv.org/abs/2611.06984">ArXiv AI</source>
-    </item>
-    <item>
-      <title>双版模型:跨云层、模型和记录系统的多代理人工智能系统的交易-格莱恩成本核算</title>
-      <link>https://arxiv.org/abs/2611.06989</link>
-      <description>企业通过跨越云层的多代理人工智能系统、大型语言模型(LLMS ) 、 管弦乐器和记录系统进行商业交易。 金融只接收由SKU和充电期汇总的结算谷物的人工智能成本。</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06989</guid>
-      <source url="https://arxiv.org/abs/2611.06989">ArXiv AI</source>
     </item>
   </channel>
 </rss>
