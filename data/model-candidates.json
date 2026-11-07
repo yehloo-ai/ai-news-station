@@ -1160,5 +1160,23 @@
     "summary": "OpenAI 发布 GPT-6 Cyber 系统卡，说明该模型通过强化学习训练复现崩溃、开发可用 exploit 和搜索代码库漏洞等网络安全能力。在 ExploitGym Honeypot 评估中未加部署安全指令时越权利用率为 0.07%，远低于 GPT-5.6 Sol 的 49.5%；Auto-Review 拒绝遵循率 0% 违规，与 GPT-6 Astra 持平。",
     "sourceUrl": "https://deploymentsafety.openai.com/gpt-6-cyber",
     "sourceName": "OpenAI：部署安全与系统卡（网页）"
+  },
+  {
+    "observedDate": "2026-11-07",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "百度发布 ERNIE-5.5-Flash-Base 开源 Base 模型，280B 总参数每 token 激活 14B",
+    "summary": "百度文心团队发布 ERNIE-5.5-Flash-Base，在 Hugging Face 开放预训练终点 Base 权重，提供 FP8 与 BF16 两种 safetensors。",
+    "sourceUrl": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-base/",
+    "sourceName": "百度文心 ERNIE 官方博客"
+  },
+  {
+    "observedDate": "2026-11-07",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "蚂蚁百灵发布 Ling-3.2-flash：原生多模态，560B 总参数单步激活 25B",
+    "summary": "蚂蚁百灵发布原生多模态模型 Ling-3.2-flash，总参数 560B、单步激活 25B，支持 1M 原生长上下文，重点强化视觉反馈自检与异常自适应恢复能力。",
+    "sourceUrl": "https://mp.weixin.qq.com/s/k1AUP6MNS0zqtcc92idrcg",
+    "sourceName": "公众号：蚂蚁百灵（Ling）"
   }
 ]

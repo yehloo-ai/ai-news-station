@@ -456,5 +456,14 @@
     "summary": "OpenAI 宣布收购 Pierre Computer Company，即 Code Storage 及多款开源开发者工具背后的公司。其 Trees 和 Diffs 库已被用于 Codex 应用的文件浏览与代码变更审阅；交割后 Pierre 的开源项目将继续开源，Code Storage 客户可继续使用，功能将逐步并入 Codex，交割尚待监管批准。",
     "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre",
     "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+  },
+  {
+    "observedDate": "2026-11-07",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元",
+    "summary": "据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。投资者当日已打款，剩余部分总额最高 200 亿美元，预计数周内到账。",
+    "sourceUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
+    "sourceName": "X：Rohan Paul (@rohanpaul_ai)"
   }
 ]
