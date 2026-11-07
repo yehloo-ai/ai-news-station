@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 13:55:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 18:41:21 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元</title>
+      <link>https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/</link>
+      <description>据《金融时报》援引投资者的消息，Anthropic 计划在感恩节前 IPO，拟募资 800–1000 亿美元，估值 1.25–1.75 万亿美元，低于最乐观投资者期望的 2 万亿美元，但高于当前 9650 亿美元。</description>
+      <pubDate>Sat, 07 Nov 2026 17:37:25 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/</guid>
+      <source url="https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>OpenAI的Astra Just打开了人工智能的黑匣子</title>
+      <link>https://www.youtube.com/watch?v=GJ6PMUm5oTA</link>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The Weight Space Programming work is available here: https://rikiyat.github.io/blog/weight-space-programming/ 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridg</description>
+      <pubDate>Sat, 07 Nov 2026 16:24:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=GJ6PMUm5oTA</guid>
+      <source url="https://www.youtube.com/watch?v=GJ6PMUm5oTA">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>NYT厨师的人工智能助手救了我的夜鸡 但差点毁了我的蛋糕</title>
+      <link>https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review</link>
+      <description>每周晚上7点左右,我发现自己站在冰箱前, 试图决定吃点什么, 不会让我丈夫抱怨,"鸡再次?" 是的,我应该多做点饭, 但我没有,所以我在这里。</description>
+      <pubDate>Sat, 07 Nov 2026 10:50:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review</guid>
+      <source url="https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review">The Verge AI</source>
+    </item>
+    <item>
+      <title>美国让Nvidia把薯片卖给中国的一个空办公室</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</link>
+      <description>人们担心商务部和Nvidia在审查获准处理公司H200人工智能芯片的中国公司时都没有尽职尽责。 据《纽约时报》报道,New Matrix被列入了批准公司名单,然而它的办公室却空空如也,“aho ”</description>
+      <pubDate>Sat, 07 Nov 2026 10:43:45 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government">The Verge AI</source>
+    </item>
+    <item>
+      <title>人工智能打破了网络安全世界。 接下来是什么?</title>
+      <link>https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</link>
+      <description>今天,我和认知首席安全官兼长期网络安全专家Alex Stamos讨论的是网络安全现在的一团糟。 这一集是一集关于现实生活中的人工智能的特别系列。 我总是喜欢和Alex交谈,因为他很直接,而你走</description>
+      <pubDate>Sat, 07 Nov 2026 10:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</guid>
+      <source url="https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos">The Verge AI</source>
+    </item>
     <item>
       <title>为何关于Anthropic 人工智能开发自动化的新报告 令人惊恐的研究人员</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
@@ -126,46 +166,6 @@
       <pubDate>Fri, 06 Nov 2026 15:32:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/thexpin/status/2118728111076335627</guid>
       <source url="https://x.com/thexpin/status/2118728111076335627">X：X.PIN (@thexpin)</source>
-    </item>
-    <item>
-      <title>亚马逊会给你发短信 Alexa的购物名单</title>
-      <link>https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders</link>
-      <description>亚马逊公司在Alexa为购物添加了一个新的功能,允许客户通过给人工智能购物助理发短信购买物品. 用户可以描述他们想要购买的产品和(或)提供物品的照片,而Alexa为购物公司将搜索亚马逊公司上市的匹配结果.</description>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders</guid>
-      <source url="https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders">The Verge AI</source>
-    </item>
-    <item>
-      <title>METR 审计称 Anthropic 可能早在 7 月已触发其自身 AI 加速预警阈值</title>
-      <link>https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/</link>
-      <description>METR 发布对 Anthropic 内部数据的十一周审计结果，称自 2025 年 10 月以来模型测试分数提升速度约加快 1.9 倍，其中约 80% 归因于 AI 用于公司自身研究，可能已在 7 月 15 日达到其负责任扩展政策中的预警阈值。</description>
-      <pubDate>Fri, 06 Nov 2026 13:40:07 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/</guid>
-      <source url="https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对</title>
-      <link>http://www.geekpark.net/news/373637</link>
-      <description>作者｜Wildcard 编辑｜靖宇11 月 5 日，OpenAI 前 CTO Mira Murati 创立的 Thinking Machines Lab（简称 TML）同一天出了两条新闻。 当天，公司发布了第二代模型 Inkling 2 Small，第三方评测机构 Artificial Analysis（AA）给的评价相当高：权重放出后，它将成为「中国以外得分最高的开放权重模型」。同一天，据报道，这家公司正以 400 亿美元的投前估值筹集 50 亿美元新融资。 TML 在 2025 年 2 月对外亮相，至今一年半多。这期间，他们拿过 a16z 领投的 20 亿美元种子轮，也经历了联合创始人 A</description>
-      <pubDate>Fri, 06 Nov 2026 20:13:06 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373637</guid>
-      <source url="http://www.geekpark.net/news/373637">极客公园</source>
-    </item>
-    <item>
-      <title>AI 时代没有标准答案的问题，我们面对面聊</title>
-      <link>http://www.geekpark.net/news/373636</link>
-      <description>我们刚刚官宣了极客公园创新大会 2027 的首批嘉宾。 今天，再来揭晓「小场深谈」的最新进展。 10 月底，我们在「小场深谈」的预热文章里做了一次调研，请大家投票选出最想聊的话题。最终，我们选定了最受关注的五组主题，设下了五场专场，每一场都从大家最想聊的那个问题开始。 这五场专场，恰好瞄向当下行业最受关注、也最要紧的议题上：Personal AI 怎么接管日常、AI 创作怎么重写内容、具身智能怎么走进现实、硬件与制造怎么长出「新图纸」、AI 落地怎么用结果说话。 每一场，三组话题，深谈 + 现场问答，80 分钟左右。场子都不大，百余人左右。 IF 2026「小场深谈」现场 还记得去年的「小场深</description>
-      <pubDate>Fri, 06 Nov 2026 20:09:13 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373636</guid>
-      <source url="http://www.geekpark.net/news/373636">极客公园</source>
-    </item>
-    <item>
-      <title>Anthropic 1.5 万亿美元 IPO 因投资者质疑估值遇阻</title>
-      <link>https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/</link>
-      <description>据 Reuters，Anthropic 的 IPO 遇阻，投资者质疑 1.5 万亿美元估值过高，有投资者提出仅 1 万亿美元，公司 9 月曾瞄准最高 2 万亿美元估值。</description>
-      <pubDate>Fri, 06 Nov 2026 11:38:17 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/</guid>
-      <source url="https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/">The Decoder：AI News（RSS）</source>
     </item>
   </channel>
 </rss>
