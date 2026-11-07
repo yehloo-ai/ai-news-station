@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 07:04:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:55:54 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>为何关于Anthropic 人工智能开发自动化的新报告 令人惊恐的研究人员</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
+      <description>Anthropic正在利用人工智能来建立更强大的人工智能。它似乎运行得非常好,公司模型的改进速度大约是一年前的两倍,几乎没有任何放缓的迹象。根据人工智能安全研究Organizatio星期四发表的一份新报告,</description>
+      <pubDate>Sat, 07 Nov 2026 07:30:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development">The Verge AI</source>
+    </item>
+    <item>
+      <title>美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划</title>
+      <link>https://www.ithome.com/1/023/765.htm</link>
+      <description>美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。</description>
+      <pubDate>Sat, 07 Nov 2026 09:16:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/023/765.htm</guid>
+      <source url="https://www.ithome.com/1/023/765.htm">IT之家·人工智能</source>
+    </item>
+    <item>
+      <title>抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？</title>
+      <link>https://www.qbitai.com/2026/11/508264.html</link>
+      <description>苦单Session久矣，两大Agent玩家不谋而合。</description>
+      <pubDate>Sat, 07 Nov 2026 05:01:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508264.html</guid>
+      <source url="https://www.qbitai.com/2026/11/508264.html">量子位</source>
+    </item>
+    <item>
+      <title>博世用豆包工作：让工程师少搬信息，多解问题</title>
+      <link>http://www.geekpark.net/news/373643</link>
+      <description>&amp;nbsp; 头图来源：豆包工作 客户在群里抛出一个问题，到工程师真正坐下来分析故障，中间隔着多少工作？ 在博世的某研发事业部，答案曾经是：找齐散落在各个群和私聊里的消息，按多个维度整理成完整描述，凭经验判断该找谁，接着再开会，再把结论写成报告。 故障分析还没开始，大半天已经过去了。 如今，这中间的一大段路，工程师交给了豆包工作和豆包工作伙伴。 博世的尝试：让 AI 接手沟通之后的工作 汽车产业链企业的研发部门，经常会遇到这样的情况：一个工程师要当三个用：研发细节要盯，还有很多日常重复的活儿需要做。 博世某事业部的工程师，其所在的团队需要对接各家客户，为客户提供系统综合解决方案。面对同一家客户</description>
+      <pubDate>Sat, 07 Nov 2026 11:35:36 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373643</guid>
+      <source url="http://www.geekpark.net/news/373643">极客公园</source>
+    </item>
+    <item>
+      <title>办公提效之后，企业级 Agent 开始对经营结果负责</title>
+      <link>http://www.geekpark.net/news/373642</link>
+      <description>头图来源：腾讯云 过去一年，智能体是 AI 行业最受关注的方向之一。 从查资料、写文档到处理日常办公事务，桌面办公智能体完成了第一轮普及，办公提效的价值已经成为行业共识。但当 AI 进一步走向企业核心业务，搭出一个智能体不难，难的是让它真正跑进业务流程，适配复杂的系统、权限与规则，持续产出可量化的经营价值。 在腾讯云副总裁吴永坚看来，未来企业级智能体的核心赛道，对话式的桌面办公 Agent 和服务经营的 Service Agent 会是两个长期并行的赛道。大模型提供了理解与推理能力，但想让 AI 真正参与业务经营，还需要一套能够打通系统、管好权限、支撑长期稳定运行的企业级平台。 在 2026</description>
+      <pubDate>Sat, 07 Nov 2026 11:31:37 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373642</guid>
+      <source url="http://www.geekpark.net/news/373642">极客公园</source>
+    </item>
     <item>
       <title>OpenAI价值1.25万亿美元,</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
@@ -30,6 +70,14 @@
       <pubDate>Fri, 06 Nov 2026 18:00:44 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</guid>
       <source url="https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy">The Verge AI</source>
+    </item>
+    <item>
+      <title>LifeVal:衡量人工智能在日常生活中重要任务的进展.</title>
+      <link>https://www.youtube.com/watch?v=hJOwOkLHRN0</link>
+      <description>为了让全人类受益,它应该帮助人们完成他们最关心的日常任务。 因此,我们建造了LifeVal。 这个新基准是由数千名ChatGPT用户的反馈所塑造的,他们最希望从个人助理那里得到帮助,从寻找儿童保育到进入政府本身。</description>
+      <pubDate>Fri, 06 Nov 2026 21:11:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=hJOwOkLHRN0</guid>
+      <source url="https://www.youtube.com/watch?v=hJOwOkLHRN0">OpenAI</source>
     </item>
     <item>
       <title>Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元</title>
@@ -118,54 +166,6 @@
       <pubDate>Fri, 06 Nov 2026 11:38:17 +0000</pubDate>
       <guid isPermaLink="true">https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/</guid>
       <source url="https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>蚂蚁百灵发布 Ling-3.2-flash：原生多模态，560B 总参数单步激活 25B</title>
-      <link>https://mp.weixin.qq.com/s/k1AUP6MNS0zqtcc92idrcg</link>
-      <description>蚂蚁百灵发布原生多模态模型 Ling-3.2-flash，总参数 560B、单步激活 25B，支持 1M 原生长上下文，重点强化视觉反馈自检与异常自适应恢复能力。</description>
-      <pubDate>Fri, 06 Nov 2026 11:04:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/k1AUP6MNS0zqtcc92idrcg</guid>
-      <source url="https://mp.weixin.qq.com/s/k1AUP6MNS0zqtcc92idrcg">公众号：蚂蚁百灵（Ling）</source>
-    </item>
-    <item>
-      <title>人工智能的未来是绝对不可思议的(黄斯彭克)</title>
-      <link>https://www.youtube.com/watch?v=XgC1QTs6A2U</link>
-      <description>请检查access-date=中的日期值 (帮助) Lambda在这里报名参加他们的GPU Cloud: https://lambda.ai/papers Chapters: 00:00:00 Intro 02:40 为什么机器人是硬的 08:16 完美数据饮食 16:05 智能密度 20:13 建设人工智能世界 22:10 学习从失败中吸取教训 25:41 现实差距 29:35 机器人受伤 31:28 100</description>
-      <pubDate>Fri, 06 Nov 2026 07:27:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=XgC1QTs6A2U</guid>
-      <source url="https://www.youtube.com/watch?v=XgC1QTs6A2U">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿</title>
-      <link>https://www.qbitai.com/2026/11/508155.html</link>
-      <description>Q3营收实现数倍增长</description>
-      <pubDate>Fri, 06 Nov 2026 07:00:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508155.html</guid>
-      <source url="https://www.qbitai.com/2026/11/508155.html">量子位</source>
-    </item>
-    <item>
-      <title>Meta 将基于 Muse Wonder 训练的专用模型上线 Muse 与 Meta AI</title>
-      <link>https://research.meta.ai/blog/specialized-models-for-muse-and-metaai</link>
-      <description>Meta 宣布把基于 Muse Wonder 训练的专用模型推向 Muse 和 Meta AI 用户，Personal Superintelligence Index 得分从 38% 提升到 47%。</description>
-      <pubDate>Fri, 06 Nov 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://research.meta.ai/blog/specialized-models-for-muse-and-metaai</guid>
-      <source url="https://research.meta.ai/blog/specialized-models-for-muse-and-metaai">Meta AI：Research Blog（网页）</source>
-    </item>
-    <item>
-      <title>将人工智能时代的反向问题正规化:可能性、陷阱和邀请</title>
-      <link>https://arxiv.org/abs/2611.06962</link>
-      <description>诸如Lean检查数学证据等证明助手,以及人工智能人员最近使这种证明书的撰写变得很便宜。我们描述了AutoIP,这是一个Lean图书馆,其中古典线性规范化理论以及功能性分析。</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06962</guid>
-      <source url="https://arxiv.org/abs/2611.06962">ArXiv AI</source>
-    </item>
-    <item>
-      <title>KDASO: 知识-数据双驱动自动技能优化,用于责任裁定任务</title>
-      <link>https://arxiv.org/abs/2611.06972</link>
-      <description>责任裁定任务(例如确定法律收费)要求根据特定领域技能分析事件描述,以确定当事方是否应当承担赔偿责任。</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.06972</guid>
-      <source url="https://arxiv.org/abs/2611.06972">ArXiv AI</source>
     </item>
   </channel>
 </rss>
