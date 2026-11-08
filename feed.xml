@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 02:21:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 10:11:04 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>为什么「陪伴」，注定是 Personal AI 的核心</title>
+      <link>http://www.geekpark.net/news/373653</link>
+      <description>作者｜宇航猿 编辑｜靖宇 最近这一波 Personal AI 实在太火了，我也注册了一个 Muse 体验了一下。 整个体验下来，我感觉 Muse 的能力实在一般，远没到让人惊叹的地步。但奇怪的是，它确实带来了一种真切的陪伴感。这种陪伴感，甚至直接改变了我的使用习惯，让我总是忍不住想找它聊聊，哪怕只是把最琐碎的需求丢给它。 就在本周，Muse 又往前迈了一步，正式上线了实时语音和会动的头像。无独有偶，各家 AI 助手最近都在做同一件事，就是给个人 AI 助手开通语音和对话功能。 这让我非常好奇，距离 ChatGPT 端出惊艳的语音模式，已经过去两年了，为什么到了现在这个时间点，所有的个人 AI</description>
+      <pubDate>Sun, 08 Nov 2026 17:52:45 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373653</guid>
+      <source url="http://www.geekpark.net/news/373653">极客公园</source>
+    </item>
+    <item>
+      <title>被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原</title>
+      <link>https://www.ifanr.com/1688364?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>磁带在 AI 时代迎来了第二春。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sun, 08 Nov 2026 03:35:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1688364?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1688364?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>创业者做 Personal Agent，有没有一线生机？</title>
+      <link>http://www.geekpark.net/news/373650</link>
+      <description>最近一阶段，Personal Agent 很热。有趣的是，这个概念迅速火爆又迅速有了一个共识，几波讨论下来大家的观点似乎是： Personal Agent 的机会是大厂的，创业者基本没戏。 虽然一般情况下，「入口级机会归大厂」确实是大概率发生的事情，但 Personal Agent 真的是个「入口」的问题吗？真的意味着「这件事里没有创业者的位置」吗？ 这依旧值得认真聊一聊。 &amp;nbsp; 真正值得兴奋的事：价值可以长在基模外 我们换一个视角看，Personal Agent 为什么让人兴奋？ 因为它给创业者提供了一种新的可能：产品的终极价值不来自于今天大模型公司提供的智能，而是可以借助大模型的能</description>
+      <pubDate>Sun, 08 Nov 2026 10:40:20 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373650</guid>
+      <source url="http://www.geekpark.net/news/373650">极客公园</source>
+    </item>
     <item>
       <title>收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案</title>
       <link>http://www.geekpark.net/news/373649</link>
@@ -64,12 +88,28 @@
       <source url="https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development">The Verge AI</source>
     </item>
     <item>
+      <title>GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞</title>
+      <link>https://www.qbitai.com/2026/11/508449.html</link>
+      <description>AI写代码太快，基础设施跟不上了</description>
+      <pubDate>Sat, 07 Nov 2026 09:38:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508449.html</guid>
+      <source url="https://www.qbitai.com/2026/11/508449.html">量子位</source>
+    </item>
+    <item>
       <title>美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划</title>
       <link>https://www.ithome.com/1/023/765.htm</link>
       <description>美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。</description>
       <pubDate>Sat, 07 Nov 2026 09:16:42 +0000</pubDate>
       <guid isPermaLink="true">https://www.ithome.com/1/023/765.htm</guid>
       <source url="https://www.ithome.com/1/023/765.htm">IT之家·人工智能</source>
+    </item>
+    <item>
+      <title>OpenAI新融资到账110亿美元，不及原计划一半</title>
+      <link>https://www.qbitai.com/2026/11/508344.html</link>
+      <description>融资缩水，硅谷投资人也谨慎了</description>
+      <pubDate>Sat, 07 Nov 2026 08:11:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508344.html</guid>
+      <source url="https://www.qbitai.com/2026/11/508344.html">量子位</source>
     </item>
     <item>
       <title>抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？</title>
@@ -126,46 +166,6 @@
       <pubDate>Fri, 06 Nov 2026 21:11:34 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=hJOwOkLHRN0</guid>
       <source url="https://www.youtube.com/watch?v=hJOwOkLHRN0">OpenAI</source>
-    </item>
-    <item>
-      <title>Bloomberg：OpenAI 完成 110 亿美元融资首批到账，估值达 1.25 万亿美元</title>
-      <link>https://x.com/rohanpaul_ai/status/2118813225336873181</link>
-      <description>据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。投资者当日已打款，剩余部分总额最高 200 亿美元，预计数周内到账。</description>
-      <pubDate>Fri, 06 Nov 2026 21:10:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2118813225336873181</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2118813225336873181">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>关于人工智能数据中心的所有最新消息</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
-      <description>大规模的新数据中心是技术公司对人工智能的希望和梦想的有形基础。 但是,仓促扩大充满能源需求服务器的仓库也激起了全球范围的争斗,因为它们对电网、公用事业账单、附近社区和环境的影响。</description>
-      <pubDate>Fri, 06 Nov 2026 15:02:22 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy">The Verge AI</source>
-    </item>
-    <item>
-      <title>Meta 的 Muse 人工智能可以为您需要的应用程序版本创建自定义“ 空间 ”</title>
-      <link>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</link>
-      <description>Meta将允许您在Muse内部构建定制的类似应用的经验。 新的功能叫做“ 空间 ” , 允许它的人工智能助理构建诸如购物中心、 学校仪表盘、 音乐跟踪器、 trivia 游戏等等, 您可以在 Muse 应用中直接与您互动 。 Meta 表示您可以</description>
-      <pubDate>Fri, 06 Nov 2026 13:10:10 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</guid>
-      <source url="https://www.theverge.com/tech/1028871/meta-muse-ai-spaces">The Verge AI</source>
-    </item>
-    <item>
-      <title>人工智能是新的约会破解者</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity</link>
-      <description>去年艾琳搬到旧金山后,她开始使用约会应用作为满足新人的方式,开始了解她的新城市,并与关心自己所做的事情的其他人建立联系. 25岁的分析师下载了Hinge并开始刷卡后,她注意到了一种趋势. "Hinge有一个即时w.</description>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity">The Verge AI</source>
-    </item>
-    <item>
-      <title>Big Tech在2026年大选中失势了</title>
-      <link>https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</link>
-      <description>周二,数百万美国选民参加了投票,以压倒多数投票支持民主党和反对人工智能。 与大科技的战斗即将恢复,对数据中心的争斗对试图建立数据中心的人们来说更加困难。 在《Vergecast》的这一集,尼拉(Nila)</description>
-      <pubDate>Fri, 06 Nov 2026 11:38:02 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</guid>
-      <source url="https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast">The Verge AI</source>
     </item>
   </channel>
 </rss>
