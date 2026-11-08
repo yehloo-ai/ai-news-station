@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 16:39:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:05:35 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nvidia 调查黄仁勋与中国间谍的关系</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy</link>
+      <description>Nvidia 董事会宣布对 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 的关系启动独立调查，后者据报被中国国家安全部招募从事间谍活动。董事会称由独立董事委员会在外部独立律师协助下主导调查，目前没有理由认为国家安全或 Nvidia 机密遭到泄露。黄仁勋表示全力支持并配合审查。</description>
+      <pubDate>Sun, 08 Nov 2026 20:22:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>苹果正在竞速让Siri更有代理性</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</link>
+      <description>彭博社的马克·古尔曼(Mark Gurman)表示,CEO约翰·泰尔努斯(John Ternus)正在向人工智能沙皇克雷格·费德里吉施压,以加速"西里路线图",并交付一个能与OpenAI的Dots或Meta的Muse竞争的强大的人工智能特工. Federighi在极其短的时间内提供了Siri人工智能的功能版本,而com则是在非常短的时间内提供.</description>
+      <pubDate>Sun, 08 Nov 2026 14:18:19 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic">The Verge AI</source>
+    </item>
+    <item>
+      <title>埃尔维斯和埃米纳姆权利持有者正在起诉苏诺</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</link>
+      <description>苏诺正面临另一对诉讼. 埃尔维斯·普雷斯利音乐的一群权利持有人和艾米纳姆一些最大唱片的出版商正在起诉人工智能音乐公司,声称它非法生成模仿这些艺术家的音乐和歌词. 普雷斯利诉讼案中的律师声称.</description>
+      <pubDate>Sun, 08 Nov 2026 12:23:19 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit">The Verge AI</source>
+    </item>
     <item>
       <title>GPT-Image-2.6 实测：10 个 GIF 玩法提示词与三项新能力评测</title>
       <link>https://x.com/aiwarts/status/2119435411667980473</link>
@@ -142,30 +166,6 @@
       <pubDate>Sat, 07 Nov 2026 11:31:37 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/373642</guid>
       <source url="http://www.geekpark.net/news/373642">极客公园</source>
-    </item>
-    <item>
-      <title>OpenAI价值1.25万亿美元,</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
-      <description>彭博社认为,OpenAI在新一轮资金中的价值为1.25万亿美元,这又筹集了110亿美元。 这将使它成为世界上最有价值的公司之一,在3月以8,520亿美元的价格从投资者那里筹集了1,220亿美元之后不久。</description>
-      <pubDate>Fri, 06 Nov 2026 18:46:18 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation">The Verge AI</source>
-    </item>
-    <item>
-      <title>Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现</title>
-      <link>https://x.com/ArtificialAnlys/status/2118851088111865983</link>
-      <description>Artificial Analysis 对 OpenAI 于 11 月 4 日发布的 GPT Image 2.6 进行了基准测试，两款模型在 AA-Image-T2I v2.1 和 AA-Image-Editing v2.1 上分列第一、二名。</description>
-      <pubDate>Fri, 06 Nov 2026 23:40:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2118851088111865983</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2118851088111865983">X：Artificial Analysis (@ArtificialAnlys)</source>
-    </item>
-    <item>
-      <title>据报道,中国招募人工智能执行官 监视黄杰森</title>
-      <link>https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</link>
-      <description>据"纽约时报"报道,中国情报机构招募了巨速执行官Alice Huang来监视Nvidia CEOJensen Huang. 国家安全部(MSS)请她搜集关于美国人工智能芯片的信息,并"可能会影响公司推动其最大进步.</description>
-      <pubDate>Fri, 06 Nov 2026 18:00:44 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</guid>
-      <source url="https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy">The Verge AI</source>
     </item>
   </channel>
 </rss>
