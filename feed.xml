@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 22:41:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 02:21:07 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案</title>
+      <link>http://www.geekpark.net/news/373649</link>
+      <description>收购 EA 之后，银湖资本与沙特公共投资基金据报出价 250 亿美元收购 Unity 据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金&amp;mdash;&amp;mdash;公共投资基金（PIF）组成的投资者财团，已向 Unity Software 提出收购要约，对这家公司的估值约为 250 亿美元。据悉，Unity 正在认真考虑这一报价，并已聘请一家投资银行提供咨询。 据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金&amp;mdash;&amp;mda</description>
+      <pubDate>Sun, 08 Nov 2026 08:57:46 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373649</guid>
+      <source url="http://www.geekpark.net/news/373649">极客公园</source>
+    </item>
     <item>
       <title>Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元</title>
       <link>https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 06 Nov 2026 11:38:02 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</guid>
       <source url="https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast">The Verge AI</source>
-    </item>
-    <item>
-      <title>约 60 万块 Nvidia H200 芯片滞留香港仓库，受阻方为北京而非华盛顿</title>
-      <link>https://x.com/thexpin/status/2118728111076335627</link>
-      <description>据 Reuters 报道，约 60 万块 Nvidia H200 芯片闲置在香港仓库，阻碍并非来自华盛顿而是北京。尽管 Trump 去年已放行 H200 对华销售，中国正以每家科技巨头约 1 万块的速度小批量发放进口许可，推动国内服务器价格上涨 3 倍。</description>
-      <pubDate>Fri, 06 Nov 2026 15:32:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thexpin/status/2118728111076335627</guid>
-      <source url="https://x.com/thexpin/status/2118728111076335627">X：X.PIN (@thexpin)</source>
     </item>
   </channel>
 </rss>
