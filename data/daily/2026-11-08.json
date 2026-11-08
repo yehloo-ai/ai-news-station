@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T00:00:31.968Z",
+  "windowStart": "2026-11-07T00:00:00.000Z",
+  "windowEnd": "2026-11-08T00:00:00.000Z",
+  "links": {
+    "aihot": "https://aihot.news/daily/2026-11-08"
+  },
+  "attribution": {
+    "name": "AIHOT",
+    "url": "https://aihot.news/daily/2026-11-08"
+  },
+  "lead": {
+    "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
+    "leadParagraph": "美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。"
+  },
+  "sections": [
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划",
+          "summary": "美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。",
+          "source": {
+            "name": "IT之家·人工智能"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv",
+            "original": "https://www.ithome.com/1/023/765.htm"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv"
+          },
+          "sourceUrl": "https://www.ithome.com/1/023/765.htm",
+          "sourceName": "IT之家·人工智能",
+          "permalink": "https://aihot.news/items/r0hypv8lgeq3nhx29eby0y3uv"
+        }
+      ]
+    }
+  ],
+  "flashes": [
+    {
+      "title": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua",
+        "original": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/"
+      },
+      "publishedAt": "2026-11-07T17:37:25.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua"
+      },
+      "sourceUrl": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "permalink": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua"
+    }
+  ]
+}
