@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 10:11:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 16:39:19 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GPT-Image-2.6 实测：10 个 GIF 玩法提示词与三项新能力评测</title>
+      <link>https://x.com/aiwarts/status/2119435411667980473</link>
+      <description>作者实测前两天上线的 GPT-Image-2.6，整理出 10 个 GIF 玩法提示词（黏土定格动画、表情包、剪辑贴纸、loading 图、PPT 动态图表、爆炸拆解图等）并测试三项新能力。</description>
+      <pubDate>Sun, 08 Nov 2026 14:22:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aiwarts/status/2119435411667980473</guid>
+      <source url="https://x.com/aiwarts/status/2119435411667980473">X：卡尔的 AI 沃茨 (@aiwarts)</source>
+    </item>
     <item>
       <title>为什么「陪伴」，注定是 Personal AI 的核心</title>
       <link>http://www.geekpark.net/news/373653</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 06 Nov 2026 18:00:44 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</guid>
       <source url="https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy">The Verge AI</source>
-    </item>
-    <item>
-      <title>LifeVal:衡量人工智能在日常生活中重要任务的进展.</title>
-      <link>https://www.youtube.com/watch?v=hJOwOkLHRN0</link>
-      <description>为了让全人类受益,它应该帮助人们完成他们最关心的日常任务。 因此,我们建造了LifeVal。 这个新基准是由数千名ChatGPT用户的反馈所塑造的,他们最希望从个人助理那里得到帮助,从寻找儿童保育到进入政府本身。</description>
-      <pubDate>Fri, 06 Nov 2026 21:11:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=hJOwOkLHRN0</guid>
-      <source url="https://www.youtube.com/watch?v=hJOwOkLHRN0">OpenAI</source>
     </item>
   </channel>
 </rss>
