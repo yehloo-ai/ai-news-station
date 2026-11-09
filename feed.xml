@@ -5,8 +5,80 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:47:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:53:00 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>黄仁勋职位悬了？耶鲁教授 Sonnenfeld 估计去留概率约五五开</title>
+      <link>https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/</link>
+      <description>TechCrunch 编辑专访耶鲁管理学院教授 Jeffrey Sonnenfeld，评估 Nvidia CEO 黄仁勋因与涉嫌为中国收集情报的 Megaspeed 高管 Alice Huang 有染而面临的职位风险，Sonnenfeld 称其能否保住职位概率约五五开。</description>
+      <pubDate>Mon, 09 Nov 2026 05:26:29 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/</guid>
+      <source url="https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>强迫信 禁止拒绝:大规模毁灭性武器方案的机械证据</title>
+      <link>https://arxiv.org/abs/2611.08639</link>
+      <description>大型语言模型(LLMs)的安全基准通常使用多选择问题(MCQ)格式,但先前的研究表明,MCQ格式降低了拒绝率,这可能严重影响模型的安全行为。</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.08639</guid>
+      <source url="https://arxiv.org/abs/2611.08639">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>FinEvolveKG:金融知识图构建的可控制和可归属的快速演变</title>
+      <link>https://arxiv.org/abs/2611.08643</link>
+      <description>金融机构从共享的SEC 10 Ks构建知识图,为风险分析、投资组合管理和投资研究服务,其分析需求各不相同。 采掘必须适应,而不会分割共享基础、打字和打字。</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.08643</guid>
+      <source url="https://arxiv.org/abs/2611.08643">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>语言模型中情感的压缩</title>
+      <link>https://arxiv.org/abs/2611.08683</link>
+      <description>大型语言模型(LLMs)被评价其识别用文字表达的情绪并产生流畅的情绪语言的能力。 然而,仅产出预测并不能揭示如何在内部组织精细的情感区分。</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.08683</guid>
+      <source url="https://arxiv.org/abs/2611.08683">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>内情与矛盾:探索真实世界的人工智能识别 - 引领的写作</title>
+      <link>https://arxiv.org/abs/2611.08704</link>
+      <description>随着人工智能生成的内容传播到人类互动的几乎每一个领域,人工智能检测的正式和非正式做法和言论已成为人们如何与文本和相互互动的日常部分。</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.08704</guid>
+      <source url="https://arxiv.org/abs/2611.08704">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>RL-ATTACK:通过强化学习对语言模型进行泛指式的黑牛反面攻击</title>
+      <link>https://arxiv.org/abs/2611.08711</link>
+      <description>大型语言模型(LLMS)暴露出容易引起意外反应的对抗性扰动的脆弱性,这些脆弱性可以通过故意攻击来识别,并随后用于改进模型安全。在黑盒环境中。</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.08711</guid>
+      <source url="https://arxiv.org/abs/2611.08711">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>微信 AI 录音笔体验：手机都能装的办公神器，免费！</title>
+      <link>https://www.ifanr.com/1688410?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>又能摸鱼了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 09 Nov 2026 04:00:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1688410?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1688410?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>实测 HY4：腾讯最「夯」大模型，离一线还有多远？</title>
+      <link>http://www.geekpark.net/news/373644</link>
+      <description>&amp;nbsp; 头图来源：腾讯混元 11 月 4 日，混元 Hy4 正式发布，模型权重将在近期开源，主打性价比的轻量版 Hy4 flash 也一起亮相。腾讯给它的定位是&amp;mdash;&amp;mdash;首次跻身最强开源模型之列。 过去一年，腾讯在 AI 上最多被人看见的，是 WorkBuddy 这类 Agent 和应用产品；到了更底层的模型上，它的声量明显弱于应用。Hy4 真正要回答的，是腾讯在模型这条线上的身位。 从榜单表现来看，在开源模型里，Hy4 已经站进第一梯队；放到全球，和顶尖闭源模型的差距仍然清晰。 而根据国家数据局最近公布的一组数据，我国日均 Token 调用量已经从 2024 年初的</description>
+      <pubDate>Mon, 09 Nov 2026 11:57:03 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373644</guid>
+      <source url="http://www.geekpark.net/news/373644">极客公园</source>
+    </item>
+    <item>
+      <title>黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层</title>
+      <link>http://www.geekpark.net/news/373687</link>
+      <description>黄仁勋承认「婚外情」，英伟达启动调查 11 月 9 日消息，英伟达 CEO 黄仁勋当地时间 8 日于公司官网发布致全员公开信，就个人私事致歉，同时披露董事会将针对相关报道提及的国家安全关切展开独立调查。 黄仁勋在信中承认自己对妻子不忠，坦言该行为伤害家人，对此承担全部责任，并接受外界批评。他表示家人不应为其个人选择负责，恳请公众给予家人隐私空间，希望能有机会重新赢回家人信任。他强调自己对英伟达始终坚定，将努力重新赢得团队与投资方的信赖。 针对近期报道带出的国家安全相关质疑，黄仁勋确认董事会已启动独立调查，本人将全力配合。 此前据《纽约时报》报道，美国政府认为黄仁勋与一家名为 Megaspeed</description>
+      <pubDate>Mon, 09 Nov 2026 10:58:04 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373687</guid>
+      <source url="http://www.geekpark.net/news/373687">极客公园</source>
+    </item>
     <item>
       <title>数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛</title>
       <link>https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg</link>
@@ -94,78 +166,6 @@
       <pubDate>Sat, 07 Nov 2026 17:37:25 +0000</pubDate>
       <guid isPermaLink="true">https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/</guid>
       <source url="https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI的Astra Just打开了人工智能的黑匣子</title>
-      <link>https://www.youtube.com/watch?v=GJ6PMUm5oTA</link>
-      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The Weight Space Programming work is available here: https://rikiyat.github.io/blog/weight-space-programming/ 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridg</description>
-      <pubDate>Sat, 07 Nov 2026 16:24:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=GJ6PMUm5oTA</guid>
-      <source url="https://www.youtube.com/watch?v=GJ6PMUm5oTA">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>NYT厨师的人工智能助手救了我的夜鸡 但差点毁了我的蛋糕</title>
-      <link>https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review</link>
-      <description>每周晚上7点左右,我发现自己站在冰箱前, 试图决定吃点什么, 不会让我丈夫抱怨,"鸡再次?" 是的,我应该多做点饭, 但我没有,所以我在这里。</description>
-      <pubDate>Sat, 07 Nov 2026 10:50:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review</guid>
-      <source url="https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review">The Verge AI</source>
-    </item>
-    <item>
-      <title>美国让Nvidia把薯片卖给中国的一个空办公室</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</link>
-      <description>人们担心商务部和Nvidia在审查获准处理公司H200人工智能芯片的中国公司时都没有尽职尽责。 据《纽约时报》报道,New Matrix被列入了批准公司名单,然而它的办公室却空空如也,“aho ”</description>
-      <pubDate>Sat, 07 Nov 2026 10:43:45 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government">The Verge AI</source>
-    </item>
-    <item>
-      <title>人工智能打破了网络安全世界。 接下来是什么?</title>
-      <link>https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</link>
-      <description>今天,我和认知首席安全官兼长期网络安全专家Alex Stamos讨论的是网络安全现在的一团糟。 这一集是一集关于现实生活中的人工智能的特别系列。 我总是喜欢和Alex交谈,因为他很直接,而你走</description>
-      <pubDate>Sat, 07 Nov 2026 10:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</guid>
-      <source url="https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos">The Verge AI</source>
-    </item>
-    <item>
-      <title>为何关于Anthropic 人工智能开发自动化的新报告 令人惊恐的研究人员</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
-      <description>Anthropic正在利用人工智能来建立更强大的人工智能。它似乎运行得非常好,公司模型的改进速度大约是一年前的两倍,几乎没有任何放缓的迹象。根据人工智能安全研究Organizatio星期四发表的一份新报告,</description>
-      <pubDate>Sat, 07 Nov 2026 07:30:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development">The Verge AI</source>
-    </item>
-    <item>
-      <title>GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞</title>
-      <link>https://www.qbitai.com/2026/11/508449.html</link>
-      <description>AI写代码太快，基础设施跟不上了</description>
-      <pubDate>Sat, 07 Nov 2026 09:38:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508449.html</guid>
-      <source url="https://www.qbitai.com/2026/11/508449.html">量子位</source>
-    </item>
-    <item>
-      <title>美国家长起诉谷歌 Gemini 被指协助 13 岁女孩制定轻生计划</title>
-      <link>https://www.ithome.com/1/023/765.htm</link>
-      <description>美国北卡罗来纳州一对夫妇起诉谷歌，其 13 岁女儿通过学校配发的 Chromebook 与 Gemini 和搜索 AI 模式进行数千条涉及自杀内容的交互。谷歌发言人表示正在审查指控，并称已将心理健康防护机制引入搜索 AI 功能。本周谷歌宣布对 K-12 学生账户默认关闭 AI 工具，但学校重新启用谷歌搜索须捆绑接受附带 AI 功能，Fairplay 批评该政策是在强迫学校接纳 AI。</description>
-      <pubDate>Sat, 07 Nov 2026 09:16:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/023/765.htm</guid>
-      <source url="https://www.ithome.com/1/023/765.htm">IT之家·人工智能</source>
-    </item>
-    <item>
-      <title>OpenAI新融资到账110亿美元，不及原计划一半</title>
-      <link>https://www.qbitai.com/2026/11/508344.html</link>
-      <description>融资缩水，硅谷投资人也谨慎了</description>
-      <pubDate>Sat, 07 Nov 2026 08:11:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508344.html</guid>
-      <source url="https://www.qbitai.com/2026/11/508344.html">量子位</source>
-    </item>
-    <item>
-      <title>抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？</title>
-      <link>https://www.qbitai.com/2026/11/508264.html</link>
-      <description>苦单Session久矣，两大Agent玩家不谋而合。</description>
-      <pubDate>Sat, 07 Nov 2026 05:01:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508264.html</guid>
-      <source url="https://www.qbitai.com/2026/11/508264.html">量子位</source>
     </item>
   </channel>
 </rss>
