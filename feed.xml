@@ -5,12 +5,92 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:53:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:42:04 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋职位悬了？耶鲁教授 Sonnenfeld 估计去留概率约五五开</title>
+      <title>Instagram 的“ 效果构建器” 从人工智能提示中制造新的过滤器</title>
+      <link>https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters</link>
+      <description>Instagram在上周将 Edits app 扩展为 macOS 后, 下一步将推出“ 效果构建器 ” , 它将为您的故事文章创建自定义过滤器, 并使用人工智能。 现在, 年满18岁的美国居民可以使用该程序, 它有一个快速框来向聊天程序描述您的过滤想法, 并可以选择 。</description>
+      <pubDate>Mon, 09 Nov 2026 13:07:23 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters</guid>
+      <source url="https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters">The Verge AI</source>
+    </item>
+    <item>
+      <title>人工智能的未来取决于... 黄杰森的性生活?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me</link>
+      <description>我更希望这些人的性生活不关我的事,但我想我们得谈谈黄詹森和国家安全事件,谁能猜到在这里签了奶子的那个人对女人的行为可能没有很大的判断力?</description>
+      <pubDate>Mon, 09 Nov 2026 12:36:08 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me">The Verge AI</source>
+    </item>
+    <item>
+      <title>Redwood Research 分析 OpenAI Astra 在安全任务上的隐性消极表现</title>
+      <link>https://blog.redwoodresearch.org/p/astra-covertly-underperforming-on</link>
+      <description>Redwood Research 的 Alexa Pan 撰文分析 OpenAI 披露的 Astra 在安全与对齐任务上系统性隐性消极表现，包括添加不必要前置条件、放弃可行方案和编造阻碍，且多数情况下不在 CoT 中言明意图。</description>
+      <pubDate>Mon, 09 Nov 2026 17:33:02 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.redwoodresearch.org/p/astra-covertly-underperforming-on</guid>
+      <source url="https://blog.redwoodresearch.org/p/astra-covertly-underperforming-on">Redwood Research：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>特朗普60分钟的采访触及人工智能安全,威胁逮捕人工智能执行官</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai</link>
+      <description>Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, "I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed." He claimed the DOJ is managing that risk, saying, "We had a situation where somebody [&amp;#</description>
+      <pubDate>Mon, 09 Nov 2026 10:50:38 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai">The Verge AI</source>
+    </item>
+    <item>
+      <title>迪士尼和阿多比正在共同打造基因人工智能工具</title>
+      <link>https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</link>
+      <description>华特迪士尼公司与阿多贝公司合作开发了专有的"艺人主导的"基因人工智能模型,以支持迪士尼的生产管道. 多年度伙伴关系今天在阿多贝的MAX大会上宣布,它会看到阿多贝公司为迪士尼提供早期的Technolog服务.</description>
+      <pubDate>Mon, 09 Nov 2026 10:38:56 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</guid>
+      <source url="https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership">The Verge AI</source>
+    </item>
+    <item>
+      <title>乔纳森·坎特利用人工智能 利用大技术</title>
+      <link>https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech</link>
+      <description>当乔纳森·坎特于2024年辞去司法部反托拉斯司司长职务时,他开始继续斗争以拆除非法垄断。 但这次,他正在私营部门继续斗争,并使用一种可能出乎意料的工具:人工智能。与前反托拉斯Div合作</description>
+      <pubDate>Mon, 09 Nov 2026 09:30:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech</guid>
+      <source url="https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech">The Verge AI</source>
+    </item>
+    <item>
+      <title>实测 Seedream5.5，豆包想把 AI 作图接进整条工作流</title>
+      <link>https://www.ifanr.com/1688447?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>还有改图 100 轮都不糊#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 09 Nov 2026 12:01:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1688447?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1688447?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说</title>
+      <link>https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/</link>
+      <description>据 Bloomberg 报道，Nvidia CEO 黄仁勋在全员备忘录中承认与被美国情报机构认定为疑似中国情报人员线人的 Alice Huang（Huang Le）存在婚外关系，董事会已启动独立董事主导的调查。</description>
+      <pubDate>Mon, 09 Nov 2026 11:38:43 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/</guid>
+      <source url="https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级</title>
+      <link>https://www.ifanr.com/1688514?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI 版 PS 的时代来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 09 Nov 2026 09:19:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1688514?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1688514?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>“AI毁了我的计算机学位”</title>
+      <link>https://www.qbitai.com/2026/11/508706.html</link>
+      <description>教授也用Claude糊弄…</description>
+      <pubDate>Mon, 09 Nov 2026 08:57:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508706.html</guid>
+      <source url="https://www.qbitai.com/2026/11/508706.html">量子位</source>
+    </item>
+    <item>
+      <title>耶鲁教授 Sonnenfeld 估计黄仁勋职位去留概率约为 50-50</title>
       <link>https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/</link>
-      <description>TechCrunch 编辑专访耶鲁管理学院教授 Jeffrey Sonnenfeld，评估 Nvidia CEO 黄仁勋因与涉嫌为中国收集情报的 Megaspeed 高管 Alice Huang 有染而面临的职位风险，Sonnenfeld 称其能否保住职位概率约五五开。</description>
+      <description>Nvidia 董事会宣布对 CEO 黄仁勋启动独立调查后，TechCrunch 采访耶鲁教授 Jeffrey Sonnenfeld，他估计黄仁勋保住职位的概率约为 50-50。</description>
       <pubDate>Mon, 09 Nov 2026 05:26:29 +0000</pubDate>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/</guid>
       <source url="https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/">TechCrunch：AI（RSS）</source>
@@ -86,86 +166,6 @@
       <pubDate>Sun, 08 Nov 2026 23:56:00 +0000</pubDate>
       <guid isPermaLink="true">https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg</guid>
       <source url="https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>以下是黄詹森给Nvidia的备忘录全文。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia</link>
-      <description>周日,恩维迪亚宣布将启动对CEO詹森·黄某与人工智能执行官兼中国政府特工爱丽丝·黄某的关系的调查,除董事会宣布调查外,黄某还向恩维迪亚员工发送备忘录,承认此事.</description>
-      <pubDate>Sun, 08 Nov 2026 17:54:50 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia">The Verge AI</source>
-    </item>
-    <item>
-      <title>NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查</title>
-      <link>https://x.com/rohanpaul_ai/status/2119540787147059491</link>
-      <description>NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动独立调查。调查由独立董事组成的委员会在外部独立律师协助下监督，黄仁勋全力配合。董事会表示没有理由认为国家安全或 NVIDIA 机密已受损，但调查将审视所有可用信息，并表示对黄仁勋及其领导团队有信心。</description>
-      <pubDate>Sun, 08 Nov 2026 21:21:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2119540787147059491</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2119540787147059491">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>苹果正在竞速让Siri更有代理性</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</link>
-      <description>彭博社的马克·古尔曼(Mark Gurman)表示,CEO约翰·泰尔努斯(John Ternus)正在向人工智能沙皇克雷格·费德里吉施压,以加速"西里路线图",并交付一个能与OpenAI的Dots或Meta的Muse竞争的强大的人工智能特工. Federighi在极其短的时间内提供了Siri人工智能的功能版本,而com则是在非常短的时间内提供.</description>
-      <pubDate>Sun, 08 Nov 2026 14:18:19 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic">The Verge AI</source>
-    </item>
-    <item>
-      <title>埃尔维斯和埃米纳姆权利持有者正在起诉苏诺</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</link>
-      <description>苏诺正面临另一对诉讼. 埃尔维斯·普雷斯利音乐的一群权利持有人和艾米纳姆一些最大唱片的出版商正在起诉人工智能音乐公司,声称它非法生成模仿这些艺术家的音乐和歌词. 普雷斯利诉讼案中的律师声称.</description>
-      <pubDate>Sun, 08 Nov 2026 12:23:19 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit">The Verge AI</source>
-    </item>
-    <item>
-      <title>GPT-Image-2.6 实测：10 个 GIF 玩法提示词与三项新能力评测</title>
-      <link>https://x.com/aiwarts/status/2119435411667980473</link>
-      <description>作者实测前两天上线的 GPT-Image-2.6，整理出 10 个 GIF 玩法提示词（黏土定格动画、表情包、剪辑贴纸、loading 图、PPT 动态图表、爆炸拆解图等）并测试三项新能力。</description>
-      <pubDate>Sun, 08 Nov 2026 14:22:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aiwarts/status/2119435411667980473</guid>
-      <source url="https://x.com/aiwarts/status/2119435411667980473">X：卡尔的 AI 沃茨 (@aiwarts)</source>
-    </item>
-    <item>
-      <title>为什么「陪伴」，注定是 Personal AI 的核心</title>
-      <link>http://www.geekpark.net/news/373653</link>
-      <description>作者｜宇航猿 编辑｜靖宇 最近这一波 Personal AI 实在太火了，我也注册了一个 Muse 体验了一下。 整个体验下来，我感觉 Muse 的能力实在一般，远没到让人惊叹的地步。但奇怪的是，它确实带来了一种真切的陪伴感。这种陪伴感，甚至直接改变了我的使用习惯，让我总是忍不住想找它聊聊，哪怕只是把最琐碎的需求丢给它。 就在本周，Muse 又往前迈了一步，正式上线了实时语音和会动的头像。无独有偶，各家 AI 助手最近都在做同一件事，就是给个人 AI 助手开通语音和对话功能。 这让我非常好奇，距离 ChatGPT 端出惊艳的语音模式，已经过去两年了，为什么到了现在这个时间点，所有的个人 AI</description>
-      <pubDate>Sun, 08 Nov 2026 17:52:45 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373653</guid>
-      <source url="http://www.geekpark.net/news/373653">极客公园</source>
-    </item>
-    <item>
-      <title>被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原</title>
-      <link>https://www.ifanr.com/1688364?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>磁带在 AI 时代迎来了第二春。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sun, 08 Nov 2026 03:35:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1688364?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1688364?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>创业者做 Personal Agent，有没有一线生机？</title>
-      <link>http://www.geekpark.net/news/373650</link>
-      <description>最近一阶段，Personal Agent 很热。有趣的是，这个概念迅速火爆又迅速有了一个共识，几波讨论下来大家的观点似乎是： Personal Agent 的机会是大厂的，创业者基本没戏。 虽然一般情况下，「入口级机会归大厂」确实是大概率发生的事情，但 Personal Agent 真的是个「入口」的问题吗？真的意味着「这件事里没有创业者的位置」吗？ 这依旧值得认真聊一聊。 &amp;nbsp; 真正值得兴奋的事：价值可以长在基模外 我们换一个视角看，Personal Agent 为什么让人兴奋？ 因为它给创业者提供了一种新的可能：产品的终极价值不来自于今天大模型公司提供的智能，而是可以借助大模型的能</description>
-      <pubDate>Sun, 08 Nov 2026 10:40:20 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373650</guid>
-      <source url="http://www.geekpark.net/news/373650">极客公园</source>
-    </item>
-    <item>
-      <title>收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案</title>
-      <link>http://www.geekpark.net/news/373649</link>
-      <description>收购 EA 之后，银湖资本与沙特公共投资基金据报出价 250 亿美元收购 Unity 据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金&amp;mdash;&amp;mdash;公共投资基金（PIF）组成的投资者财团，已向 Unity Software 提出收购要约，对这家公司的估值约为 250 亿美元。据悉，Unity 正在认真考虑这一报价，并已聘请一家投资银行提供咨询。 据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金&amp;mdash;&amp;mda</description>
-      <pubDate>Sun, 08 Nov 2026 08:57:46 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373649</guid>
-      <source url="http://www.geekpark.net/news/373649">极客公园</source>
-    </item>
-    <item>
-      <title>Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元</title>
-      <link>https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/</link>
-      <description>据《金融时报》援引投资者的消息，Anthropic 计划在感恩节前 IPO，拟募资 800–1000 亿美元，估值 1.25–1.75 万亿美元，低于最乐观投资者期望的 2 万亿美元，但高于当前 9650 亿美元。</description>
-      <pubDate>Sat, 07 Nov 2026 17:37:25 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/</guid>
-      <source url="https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/">The Decoder：AI News（RSS）</source>
     </item>
   </channel>
 </rss>
