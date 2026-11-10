@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:11:32 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>回答您关于 GPT- Live 的问题</title>
+      <link>https://www.youtube.com/watch?v=5YXlrzC_RYE</link>
+      <description>我们正回答互联网上关于GPT-Live的问题,从它与早期的语音模型有什么不同以及开发者使用它是为了什么。 已经用GPT-Live构建了这个系统。 我们将分享一些实用的技巧,以便定制您的代理声音并改进授权。你还想得到什么?</description>
+      <pubDate>Tue, 10 Nov 2026 21:10:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=5YXlrzC_RYE</guid>
+      <source url="https://www.youtube.com/watch?v=5YXlrzC_RYE">OpenAI</source>
+    </item>
+    <item>
+      <title>Stripe 收购 OpenRouter，双方宣布合并后定位</title>
+      <link>https://x.com/OpenRouter/status/2120234542183395787</link>
+      <description>OpenRouter 官方宣布正式并入 Stripe。OpenRouter 称有超过 1000 万开发者和公司使用其平台，它为多模型、多 provider 的 AI 运行提供基础设施，包括访问新模型、故障期间保持可用，以及为团队执行支出和数据策略。</description>
+      <pubDate>Tue, 10 Nov 2026 19:18:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenRouter/status/2120234542183395787</guid>
+      <source url="https://x.com/OpenRouter/status/2120234542183395787">X：OpenRouter (@OpenRouter)</source>
+    </item>
+    <item>
+      <title>Anthropic 再次修订 S-1：宣布已达责任扩展政策能力阈值，IPO 定价 $70-$78</title>
+      <link>https://x.com/rohanpaul_ai/status/2120231037569790385</link>
+      <description>Anthropic 再次修订 IPO 申请文件 S-1（Amendment No. 2），宣布已越过其 Responsible Scaling Policy 设定的阈值，即 AI 正大幅加快 AI 研究速度、需更强安全检查。这一判断基于其对未来模型的预期而非现有模型的表现，一周前的文件还只说"可能即将"越过。文件同时将 IPO 发行价定为每股 $70 至 $78。</description>
+      <pubDate>Tue, 10 Nov 2026 19:04:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120231037569790385</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2120231037569790385">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>美国正在赢得人工智能赛 黄杰森可能搞砸了</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</link>
+      <description>随着间谍目标的发展,黄杰森或许是地球上最不令人惊讶的人物之一。 Nvidia CEO经营着世界上最有价值的公司之一,控制着为人工智能繁荣火上浇油的点播技术,并且与总裁、CEO和各种重要人物保持舒适。 他还穿着一个很酷的Le。</description>
+      <pubDate>Tue, 10 Nov 2026 14:04:05 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy">The Verge AI</source>
+    </item>
+    <item>
+      <title>在 β 中引入 ChatGPT 中的企业</title>
+      <link>https://www.youtube.com/watch?v=Z9k5oI3Paoc</link>
+      <description>现在在 β 中: ChatGPT 中的企业。 要求您的业务,管理您的信息, 并获得关于人们如何与您互动的见解。 使用 Business Hub , 经认证的企业可以更新其细节, 并根据当前定价和可用性添加产品素材。 他们也可以看到关于 mant 的汇总见解 。</description>
+      <pubDate>Tue, 10 Nov 2026 18:07:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Z9k5oI3Paoc</guid>
+      <source url="https://www.youtube.com/watch?v=Z9k5oI3Paoc">OpenAI</source>
+    </item>
+    <item>
+      <title>ChatGPT正在获得经核实的人工智能“商业智能体”</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</link>
+      <description>ChatGPT将允许您与经认证的“商业智能体”聊天,后者代表着一个品牌,可以帮助您购买比较购物。该功能首先可以提供给美国“合格”电子商务和在线服务企业,它正在启动,作为Cha的一套以商业为重点的功能的一部分。</description>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenAI 开放 ChatGPT Business 计划登录 Notion、v0 等第三方工具</title>
+      <link>https://x.com/OpenAIDevs/status/2120212596850663712</link>
+      <description>OpenAI 宣布 ChatGPT Business 计划现可在 Notion、v0、ampcode、kilocode、Warp、NousResearch 的 Hermes、openclaw、opencode 等第三方工具中使用，通过 Sign in with ChatGPT 连接即可开始。</description>
+      <pubDate>Tue, 10 Nov 2026 17:50:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenAIDevs/status/2120212596850663712</guid>
+      <source url="https://x.com/OpenAIDevs/status/2120212596850663712">X：OpenAI Developers (@OpenAIDevs)</source>
+    </item>
+    <item>
+      <title>Ed Zitron 长文剖析黄仁勋丑闻与 NVIDIA 疑似借 Megaspeed 向中国走私 GPU</title>
+      <link>https://www.wheresyoured.at/jensens-bizarre-adventure/</link>
+      <description>Ed Zitron 长文梳理黄仁勋承认与 Megaspeed CEO Alice Huang 的婚外情事件，并整合 Bloomberg、纽约时报、金融时报与 Culper Research 的报道，指 Megaspeed 疑似作为转口实体将 NVIDIA GPU 非法流入中国。</description>
+      <pubDate>Tue, 10 Nov 2026 17:43:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wheresyoured.at/jensens-bizarre-adventure/</guid>
+      <source url="https://www.wheresyoured.at/jensens-bizarre-adventure/">Ed Zitron 长文 / Where’s Your Ed At（RSS）</source>
+    </item>
     <item>
       <title>Indie游戏社区因人工智能和大步走而陷入混乱</title>
       <link>https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</link>
@@ -30,6 +94,14 @@
       <pubDate>Tue, 10 Nov 2026 16:35:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cursor_ai/status/2120193584670580857</guid>
       <source url="https://x.com/cursor_ai/status/2120193584670580857">X：Cursor (@cursor_ai)</source>
+    </item>
+    <item>
+      <title>MiniMax 发布开源图像生成模型 H3-Image，10 秒内生成 4K 图像</title>
+      <link>https://www.minimax.io/blog/minimax-h3-image</link>
+      <description>MiniMax 发布基于 H3 的开源权重图像生成模型 H3-Image，支持文生图、参考图生成和图像编辑，可生成 4096 × 4096 的 4K 图像，速度最高达主流方案的 5 倍。</description>
+      <pubDate>Tue, 10 Nov 2026 16:23:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-h3-image</guid>
+      <source url="https://www.minimax.io/blog/minimax-h3-image">MiniMax：Blog（网页）</source>
     </item>
     <item>
       <title>eBay似乎已经关上了第三方人工智能特工的门</title>
@@ -94,78 +166,6 @@
       <pubDate>Tue, 10 Nov 2026 15:38:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120179172836622832</guid>
       <source url="https://x.com/rohanpaul_ai/status/2120179172836622832">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>代码Rabbit如何使用 OpenAI 来审查人工智能生成的代码</title>
-      <link>https://www.youtube.com/watch?v=ZTxzWJeGFAA</link>
-      <description>CodeRabbit联合创始人兼CEO Harjot Gill解释了团队如何使用OpenAI模型帮助团队理解,审查,以及人工智能人员制作的安全代码,并决定准备运送什么。 他还分享CodeRabbit如何使用Codex在6个月内与同一工程团队再运送20x软件。</description>
-      <pubDate>Tue, 10 Nov 2026 15:05:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=ZTxzWJeGFAA</guid>
-      <source url="https://www.youtube.com/watch?v=ZTxzWJeGFAA">OpenAI</source>
-    </item>
-    <item>
-      <title>Gary Marcus 质疑 Anthropic 1.4 万亿美元 IPO 估值</title>
-      <link>https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo</link>
-      <description>Gary Marcus 评论 Anthropic 拟以最高 1.4 万亿美元估值 IPO，称该公司除一个异常季度外从未盈利，未来负债接近 9000 亿美元。他引用 Q2 环比增长 147% 而 Q3 降至 47% 的数据，认为 tokenmaxxing 退潮与中国竞品崛起使万亿估值失去依据，并援引 S-1 中公司自认成本将上升、收入增速难以为继的表述。</description>
-      <pubDate>Tue, 10 Nov 2026 14:37:21 +0000</pubDate>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo</guid>
-      <source url="https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
-    </item>
-    <item>
-      <title>The Information 报道称与英伟达 CEO 黄仁勋相关人士向中国买家转手 75 亿美元硬件</title>
-      <link>https://x.com/rohanpaul_ai/status/2120162909422780789</link>
-      <description>据 The Information 报道，与英伟达 CEO 黄仁勋有染的 Alice Huang（无亲属关系）与丈夫和姐姐在中国和新加坡建立采购网络，涉资 75 亿美元。</description>
-      <pubDate>Tue, 10 Nov 2026 14:33:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120162909422780789</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2120162909422780789">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>MiniMax 发布 H3-Image 图像模型并开源权重</title>
-      <link>https://x.com/MiniMax_AI/status/2120158341229928576</link>
-      <description>MiniMax 发布图像模型 MiniMax H3-Image 并开源模型权重，可在 10-20 秒内生成 4K × 4K（16 million pixel）图像。</description>
-      <pubDate>Tue, 10 Nov 2026 14:15:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MiniMax_AI/status/2120158341229928576</guid>
-      <source url="https://x.com/MiniMax_AI/status/2120158341229928576">X：MiniMax (@MiniMax_AI)</source>
-    </item>
-    <item>
-      <title>Anthropic Fable 5.2 在 Remote Labor Index 上以 41.3% 领跑真实自由职业任务</title>
-      <link>https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/</link>
-      <description>The Decoder 报道，Anthropic 新模型 Fable 5.2 在 Scale Labs 和 Center for AI Safety 的 Remote Labor Index 基准上以 41.3% 排名第一，该测试衡量 AI 智能体能否把真实自由职业项目做到让付费客户接受的质量。</description>
-      <pubDate>Tue, 10 Nov 2026 14:07:47 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/</guid>
-      <source url="https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>Anthropic 将 IPO 发行价区间定为 70 至 78 美元，隐含估值达 1.404 万亿美元</title>
-      <link>https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/</link>
-      <description>Anthropic 在更新后的 IPO 招股文件中将发行价区间定为每股 70 至 78 美元，共发行 8.25 亿股 A 类股，预计募资 577.5 亿至 643.5 亿美元，若按区间上限定价隐含估值可达 1.404 万亿美元，高于其 5 月融资时的 9650 亿美元估值。</description>
-      <pubDate>Tue, 10 Nov 2026 14:01:39 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/</guid>
-      <source url="https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Lovable 介绍平台安全机制：自动扫描、一键修复与深度扫描功能</title>
-      <link>https://lovable.dev/blog/find-it-fix-it-ship-it</link>
-      <description>Lovable 发布安全功能说明，介绍平台如何帮助无技术背景的开发者构建安全应用。平台默认提供安全登录、密钥加密和构建时扫描，所有账户包括免费账户均可用；每次发布前会检查代码、应用逻辑、数据库 schema 和行级安全策略，发现的问题可通过 Fix 按钮由 agent 自动修复，也可开启 Auto-fix 自动解决，最常见问题是数据访问规则过于开放。</description>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://lovable.dev/blog/find-it-fix-it-ship-it</guid>
-      <source url="https://lovable.dev/blog/find-it-fix-it-ship-it">Lovable Blog</source>
-    </item>
-    <item>
-      <title>阿多比正在全力以赴地投入人工智能</title>
-      <link>https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates</link>
-      <description>Adobe正致力于一个概念,即聊天机器人和人工智能特工可以成为你的下一个设计助理,甚至可以代表你实现创意工作流程和重复任务的自动化。 今天在佛罗里达州迈阿密的Adobe的Max会议上宣布的一些工具和功能包括允许你更喜欢的人</description>
-      <pubDate>Tue, 10 Nov 2026 09:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates</guid>
-      <source url="https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates">The Verge AI</source>
-    </item>
-    <item>
-      <title>照片店、灯光室和Premiere 更方便搬走东西</title>
-      <link>https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates</link>
-      <description>Adobe正在扩展其Creative Cloud apps和 Firefly 人工智能平台,其新能力旨在让设计和编辑项目更快,更不复杂. Adobe今天的Max活动的一些公告包括自动删除对象的功能,blumishes,以及其他不想要的功能.</description>
-      <pubDate>Tue, 10 Nov 2026 09:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates</guid>
-      <source url="https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates">The Verge AI</source>
     </item>
   </channel>
 </rss>
