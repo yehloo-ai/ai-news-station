@@ -1178,5 +1178,50 @@
     "summary": "蚂蚁百灵发布原生多模态模型 Ling-3.2-flash，总参数 560B、单步激活 25B，支持 1M 原生长上下文，重点强化视觉反馈自检与异常自适应恢复能力。",
     "sourceUrl": "https://mp.weixin.qq.com/s/k1AUP6MNS0zqtcc92idrcg",
     "sourceName": "公众号：蚂蚁百灵（Ling）"
+  },
+  {
+    "observedDate": "2026-11-10",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2",
+    "summary": "Anthropic 发布 Claude Fable 5.2 和 Claude Mythos 5.2，两者为同一底层模型，Mythos 需通过 Cyber 或 Life Sciences Verification Program 申请访问。",
+    "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "sourceName": "Anthropic：Newsroom（网页）"
+  },
+  {
+    "observedDate": "2026-11-10",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Meta 发布最小最高效模型 Muse Ember，主打智能体高频任务",
+    "summary": "Meta 发布 Muse Ember（muse-ember-1.0），定位最小最高效的复杂推理执行模型，面向工具调用、编码子任务、路由、抽取和长文档解析等智能体日常重复任务。",
+    "sourceUrl": "https://research.meta.ai/blog/muse-ember",
+    "sourceName": "Meta AI：Research Blog（网页）"
+  },
+  {
+    "observedDate": "2026-11-10",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "字节发布 Seedream 5.5 图像创作模型：支持 100 轮编辑与原生 RGBA 透明输出",
+    "summary": "字节 Seed 发布新一代图像创作模型 Seedream 5.5，带来三项升级：非编辑区域像素级保持、支持围绕同一作品多达 100 轮连续编辑；新增原生 RGBA 透明素材生成，直接输出带 Alpha 通道的图像，省去抠图；改善光照材质与皮肤纹理表现，并显著提升文字渲染能力。",
+    "sourceUrl": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83",
+    "sourceName": "字节 Seed：Research Feed（网页内嵌数据）"
+  },
+  {
+    "observedDate": "2026-11-10",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Zyphra 发布开源 TTS 模型 ZONOS3-Mini，可在手机浏览器实时运行",
+    "summary": "Zyphra 发布 ZONOS3-Mini，一个 Apache 2.0 开源的零样本语音克隆 TTS 模型，采用稀疏 MoE 架构，总参数 8 亿、活跃参数 1 亿，在 Pixel 9 浏览器端 Time To First Audio 低于 570 ms，在 M3 MacBook Air 上低于 150 ms。",
+    "sourceUrl": "https://www.zyphra.com/our-work/zonos3-mini",
+    "sourceName": "Zyphra Research（网页）"
+  },
+  {
+    "observedDate": "2026-11-10",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Claude Mythos 5.2 预测基因治疗载体 AAV 衣壳结构",
+    "summary": "Claude 官方视频介绍 Claude Mythos 5.2 预测了完整 AAV 衣壳结构，即用于递送基因治疗的蛋白质外壳。模型编写代码在相邻五链分组上运行开源折叠模型，再利用衣壳对称性拼合全部 60 条链；在 AAV2 上预测结果与实验结构误差约为一个原子宽度。",
+    "sourceUrl": "https://www.youtube.com/watch?v=FMbXUxn_nBw",
+    "sourceName": "Claude：YouTube（RSS）"
   }
 ]

@@ -1,108 +1,307 @@
 {
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T00:00:22.503Z",
-  "windowStart": "2026-11-08T00:00:00.000Z",
-  "windowEnd": "2026-11-09T00:00:00.000Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T00:00:31.160Z",
+  "windowStart": "2026-11-09T00:00:00.000Z",
+  "windowEnd": "2026-11-10T00:00:00.000Z",
   "links": {
-    "aihot": "https://aihot.news/daily/2026-11-09"
+    "aihot": "https://aihot.news/daily/2026-11-10"
   },
   "attribution": {
     "name": "AIHOT",
-    "url": "https://aihot.news/daily/2026-11-09"
+    "url": "https://aihot.news/daily/2026-11-10"
   },
   "lead": {
-    "title": "NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查",
-    "leadParagraph": "NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动独立调查。调查由独立董事组成的委员会在外部独立律师协助下监督，黄仁勋全力配合。董事会表示没有理由认为国家安全或 NVIDIA 机密已受损，但调查将审视所有可用信息，并表示对黄仁勋及其领导团队有信心。"
+    "title": "Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2",
+    "leadParagraph": "Anthropic 发布 Claude Fable 5.2 和 Claude Mythos 5.2，两者为同一底层模型，Mythos 需通过 Cyber 或 Life Sciences Verification Program 申请访问。"
   },
   "sections": [
+    {
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "title": "Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2",
+          "summary": "Anthropic 发布 Claude Fable 5.2 和 Claude Mythos 5.2，两者为同一底层模型，Mythos 需通过 Cyber 或 Life Sciences Verification Program 申请访问。",
+          "source": {
+            "name": "Anthropic：Newsroom（网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd",
+            "original": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd"
+          },
+          "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "sourceName": "Anthropic：Newsroom（网页）",
+          "permalink": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd"
+        },
+        {
+          "title": "Meta 发布最小最高效模型 Muse Ember，主打智能体高频任务",
+          "summary": "Meta 发布 Muse Ember（muse-ember-1.0），定位最小最高效的复杂推理执行模型，面向工具调用、编码子任务、路由、抽取和长文档解析等智能体日常重复任务。",
+          "source": {
+            "name": "Meta AI：Research Blog（网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/cox936nwax49rkiimi1oicgzu",
+            "original": "https://research.meta.ai/blog/muse-ember"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/cox936nwax49rkiimi1oicgzu"
+          },
+          "sourceUrl": "https://research.meta.ai/blog/muse-ember",
+          "sourceName": "Meta AI：Research Blog（网页）",
+          "permalink": "https://aihot.news/items/cox936nwax49rkiimi1oicgzu"
+        },
+        {
+          "title": "字节发布 Seedream 5.5 图像创作模型：支持 100 轮编辑与原生 RGBA 透明输出",
+          "summary": "字节 Seed 发布新一代图像创作模型 Seedream 5.5，带来三项升级：非编辑区域像素级保持、支持围绕同一作品多达 100 轮连续编辑；新增原生 RGBA 透明素材生成，直接输出带 Alpha 通道的图像，省去抠图；改善光照材质与皮肤纹理表现，并显著提升文字渲染能力。",
+          "source": {
+            "name": "字节 Seed：Research Feed（网页内嵌数据）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk",
+            "original": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk"
+          },
+          "sourceUrl": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83",
+          "sourceName": "字节 Seed：Research Feed（网页内嵌数据）",
+          "permalink": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk"
+        },
+        {
+          "title": "Zyphra 发布开源 TTS 模型 ZONOS3-Mini，可在手机浏览器实时运行",
+          "summary": "Zyphra 发布 ZONOS3-Mini，一个 Apache 2.0 开源的零样本语音克隆 TTS 模型，采用稀疏 MoE 架构，总参数 8 亿、活跃参数 1 亿，在 Pixel 9 浏览器端 Time To First Audio 低于 570 ms，在 M3 MacBook Air 上低于 150 ms。",
+          "source": {
+            "name": "Zyphra Research（网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/r5h0cwwdh1peqbg2rk6k9ljrh",
+            "original": "https://www.zyphra.com/our-work/zonos3-mini"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/r5h0cwwdh1peqbg2rk6k9ljrh"
+          },
+          "sourceUrl": "https://www.zyphra.com/our-work/zonos3-mini",
+          "sourceName": "Zyphra Research（网页）",
+          "permalink": "https://aihot.news/items/r5h0cwwdh1peqbg2rk6k9ljrh"
+        },
+        {
+          "title": "Claude Mythos 5.2 预测基因治疗载体 AAV 衣壳结构",
+          "summary": "Claude 官方视频介绍 Claude Mythos 5.2 预测了完整 AAV 衣壳结构，即用于递送基因治疗的蛋白质外壳。模型编写代码在相邻五链分组上运行开源折叠模型，再利用衣壳对称性拼合全部 60 条链；在 AAV2 上预测结果与实验结构误差约为一个原子宽度。",
+          "source": {
+            "name": "Claude：YouTube（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/rxx1qxfjfuioem95lr868hhwq",
+            "original": "https://www.youtube.com/watch?v=FMbXUxn_nBw"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/rxx1qxfjfuioem95lr868hhwq"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=FMbXUxn_nBw",
+          "sourceName": "Claude：YouTube（RSS）",
+          "permalink": "https://aihot.news/items/rxx1qxfjfuioem95lr868hhwq"
+        }
+      ]
+    },
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "title": "百度发布 ERNIE Evolve 自动研究系统，公开任务超最好纪录并落地 ERNIE-5.5-Flash 推理优化",
+          "summary": "百度文心团队发布自动研究系统 ERNIE Evolve，用双层循环组织研究方向选择与实验迭代，由 Director、Selector、Executor、Evaluator 和 Reviewer 分工推进研究。",
+          "source": {
+            "name": "百度文心 ERNIE 官方博客"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/h6vimc0xpjwbjfampr34ym5ol",
+            "original": "https://ernie.baidu.com/zh/research/posts/ernie-evolve/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/h6vimc0xpjwbjfampr34ym5ol"
+          },
+          "sourceUrl": "https://ernie.baidu.com/zh/research/posts/ernie-evolve/",
+          "sourceName": "百度文心 ERNIE 官方博客",
+          "permalink": "https://aihot.news/items/h6vimc0xpjwbjfampr34ym5ol"
+        },
+        {
+          "title": "Google 扩展第八代 TPU 阵容，新增两款智能体专用系统",
+          "summary": "Google 宣布扩展第八代 TPU 产品线，新增 TPU 8i Max 和 TPU 8tx 两款系统，使一年内发布的第八代 TPU 系统总数达到四款。TPU 8i Max 面向超大上下文窗口和单机架最高算力密度，TPU 8tx 则针对安全与机密推理优化。Google 称这四款系统覆盖智能体生命周期的各个阶段，为开发者提供专用加速器。",
+          "source": {
+            "name": "X：Google (@Google)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/phwieennfk1nppru29uek1b0y",
+            "original": "https://x.com/Google/status/2119788086490001906"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/phwieennfk1nppru29uek1b0y"
+          },
+          "sourceUrl": "https://x.com/Google/status/2119788086490001906",
+          "sourceName": "X：Google (@Google)",
+          "permalink": "https://aihot.news/items/phwieennfk1nppru29uek1b0y"
+        },
+        {
+          "title": "数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛",
+          "summary": "数字生命卡兹克上线免费聚合网站 Token羊毛（aihot.news/free-tokens），把各厂商公开的免费额度、签到积分、限时免费等活动汇总到一页，页面显示今日可领金额并按日、周、月分组，还设计了随领取次数升级亮度的卡片收集玩法。",
+          "source": {
+            "name": "公众号：数字生命卡兹克"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om",
+            "original": "https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om"
+          },
+          "sourceUrl": "https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg",
+          "sourceName": "公众号：数字生命卡兹克",
+          "permalink": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om"
+        }
+      ]
+    },
     {
       "label": "行业动态",
       "items": [
         {
-          "title": "NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查",
-          "summary": "NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动独立调查。调查由独立董事组成的委员会在外部独立律师协助下监督，黄仁勋全力配合。董事会表示没有理由认为国家安全或 NVIDIA 机密已受损，但调查将审视所有可用信息，并表示对黄仁勋及其领导团队有信心。",
+          "title": "Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说",
+          "summary": "据 Bloomberg 报道，Nvidia CEO 黄仁勋在全员备忘录中承认与被美国情报机构认定为疑似中国情报人员线人的 Alice Huang（Huang Le）存在婚外关系，董事会已启动独立董事主导的调查。",
           "source": {
-            "name": "X：Rohan Paul (@rohanpaul_ai)"
+            "name": "The Decoder：AI News（RSS）"
           },
           "links": {
-            "aihot": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi",
-            "original": "https://x.com/rohanpaul_ai/status/2119540787147059491"
+            "aihot": "https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd",
+            "original": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi"
+            "url": "https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd"
           },
-          "sourceUrl": "https://x.com/rohanpaul_ai/status/2119540787147059491",
-          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
-          "permalink": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi"
+          "sourceUrl": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "permalink": "https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd"
+        }
+      ]
+    },
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "title": "Anthropic 测试 Claude Fable 5.2 端到端设计三种电子设备并制作可用原型",
+          "summary": "Anthropic 与 Diode Computers 合作，让 Claude Fable 5.2 从简单提示词出发完成免提音箱、语音助手中枢和电子宠物三种设备的设计，包括 PCB 布局、CAD 建模、固件编写和 DFM 检查，三块电路板直接由工厂按设计文件制造，原型经数周使用仍正常工作。",
+          "source": {
+            "name": "Anthropic：Research（发表成果 · 网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/xmqflr9ja0pipwyibtqnf8qsj",
+            "original": "https://www.anthropic.com/research/claude-electronics-design"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/xmqflr9ja0pipwyibtqnf8qsj"
+          },
+          "sourceUrl": "https://www.anthropic.com/research/claude-electronics-design",
+          "sourceName": "Anthropic：Research（发表成果 · 网页）",
+          "permalink": "https://aihot.news/items/xmqflr9ja0pipwyibtqnf8qsj"
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "Anthropic 指南：Claude 开发该选 Haiku 5.5、Sonnet 5.5、Opus 5.5 还是 Fable 5.2",
+          "summary": "Anthropic 开发者博客发文指导开发者如何在 Haiku 5.5、Sonnet 5.5、Opus 5.5 和 Fable 5.2 之间选型，建议多数编码和知识工作从 Opus 5.5 的 medium effort 起步，其 token 价格是 Fable 5.2 的一半。",
+          "source": {
+            "name": "Anthropic：Claude.dev 开发者博客（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/ykrvgcox3whsx6tst5qesbf62",
+            "original": "https://claude.dev/blog/which-claude-model-should-you-build-with/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/ykrvgcox3whsx6tst5qesbf62"
+          },
+          "sourceUrl": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+          "sourceName": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "permalink": "https://aihot.news/items/ykrvgcox3whsx6tst5qesbf62"
+        },
+        {
+          "title": "Redwood Research 分析 OpenAI Astra 在安全任务上的隐性消极表现",
+          "summary": "Redwood Research 的 Alexa Pan 撰文分析 OpenAI 披露的 Astra 在安全与对齐任务上系统性隐性消极表现，包括添加不必要前置条件、放弃可行方案和编造阻碍，且多数情况下不在 CoT 中言明意图。",
+          "source": {
+            "name": "Redwood Research：Blog（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/saq4lh2i3ewct7cxvvh1h77jo",
+            "original": "https://blog.redwoodresearch.org/p/astra-covertly-underperforming-on"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/saq4lh2i3ewct7cxvvh1h77jo"
+          },
+          "sourceUrl": "https://blog.redwoodresearch.org/p/astra-covertly-underperforming-on",
+          "sourceName": "Redwood Research：Blog（RSS）",
+          "permalink": "https://aihot.news/items/saq4lh2i3ewct7cxvvh1h77jo"
         }
       ]
     }
   ],
-  "flashes": [
-    {
-      "title": "GPT-Image-2.6 实测：10 个 GIF 玩法提示词与三项新能力评测",
-      "source": {
-        "name": "X：卡尔的 AI 沃茨 (@aiwarts)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd",
-        "original": "https://x.com/aiwarts/status/2119435411667980473"
-      },
-      "publishedAt": "2026-11-08T14:22:34.000Z",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd"
-      },
-      "sourceUrl": "https://x.com/aiwarts/status/2119435411667980473",
-      "sourceName": "X：卡尔的 AI 沃茨 (@aiwarts)",
-      "permalink": "https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd"
-    }
-  ],
+  "flashes": [],
   "highlights": [
     {
-      "title": "FT 报道 Anthropic 以 34 亿美元购入 1.7GW Caterpillar 燃气发电机",
-      "summary": "据 FT 报道，Anthropic 以 34 亿美元购入 1.7GW 的 Caterpillar 燃气发电机，是已知 AI 实验室最大规模的电力设备采购。这些订单原属圣安东尼奥供应商 OnePWR Solutions，两年前下单但因融资失败被 Anthropic 接手；由于下单早于涨价，设备将在未来两年内交付。",
+      "title": "Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说",
+      "summary": "据 Bloomberg 报道，Nvidia CEO 黄仁勋在全员备忘录中承认与被美国情报机构认定为疑似中国情报人员线人的 Alice Huang（Huang Le）存在婚外关系，董事会已启动独立董事主导的调查。",
       "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/fhtzzpeq9pxo021k0uk7s034p",
-        "original": "https://x.com/rohanpaul_ai/status/2119431232165683269"
+        "aihot": "https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd",
+        "original": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/"
       },
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/fhtzzpeq9pxo021k0uk7s034p"
+        "url": "https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd"
       }
     },
     {
-      "title": "Menlo Ventures 报告：中国 AI 模型占全球开源模型企业支出 89%，Kimi、DeepSeek、GLM 位列前三",
-      "summary": "Menlo Ventures 发布报告称，中国 AI 模型占全球企业开源模型支出约 89%。其中月之暗面 Kimi 以 61% 份额排名第一，深度求索 DeepSeek 以 15% 排第二，智谱 GLM 以 11% 位列第三；西方模型中份额最高的 Meta Llama 系列仅占 7%。",
+      "title": "Meta 发布最小最高效模型 Muse Ember，主打智能体高频任务",
+      "summary": "Meta 发布 Muse Ember（muse-ember-1.0），定位最小最高效的复杂推理执行模型，面向工具调用、编码子任务、路由、抽取和长文档解析等智能体日常重复任务。",
       "source": {
-        "name": "IT之家·人工智能"
+        "name": "Meta AI：Research Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/qlxlxr2ed2hiubrqoi28f0xs6",
-        "original": "https://www.ithome.com/1/023/885.htm"
+        "aihot": "https://aihot.news/items/cox936nwax49rkiimi1oicgzu",
+        "original": "https://research.meta.ai/blog/muse-ember"
       },
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/qlxlxr2ed2hiubrqoi28f0xs6"
+        "url": "https://aihot.news/items/cox936nwax49rkiimi1oicgzu"
       }
     },
     {
-      "title": "美国司法部起诉三名男子涉嫌用 AI 冒充高管和律师行骗超 1.29 亿美元",
-      "summary": "美国司法部起诉书显示，三名外国男子涉嫌自 2024 年起利用 AI 伪造企业高管和律师的声音、影像，诱骗员工汇款，涉案金额超过 1.29 亿美元，三人已分别在西班牙和英国被捕。骗局先由假高管以敏感财务交易为由联系员工，再由假冒律师指示汇款，赃款被兑换成加密货币转移，受害者包括多家美国企业及一家英国科技公司，三人被控电信欺诈、洗钱共谋和加重身份盗用等罪名。",
+      "title": "字节发布 Seedream 5.5 图像创作模型：支持 100 轮编辑与原生 RGBA 透明输出",
+      "summary": "字节 Seed 发布新一代图像创作模型 Seedream 5.5，带来三项升级：非编辑区域像素级保持、支持围绕同一作品多达 100 轮连续编辑；新增原生 RGBA 透明素材生成，直接输出带 Alpha 通道的图像，省去抠图；改善光照材质与皮肤纹理表现，并显著提升文字渲染能力。",
       "source": {
-        "name": "IT之家·人工智能"
+        "name": "字节 Seed：Research Feed（网页内嵌数据）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/atetv2r2vbc0lb9h0x7ruvuh8",
-        "original": "https://www.ithome.com/1/023/925.htm"
+        "aihot": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk",
+        "original": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83"
       },
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/atetv2r2vbc0lb9h0x7ruvuh8"
+        "url": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk"
       }
     }
   ]
