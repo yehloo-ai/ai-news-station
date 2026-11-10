@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:39:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:42:33 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>特努斯施压 Siri 掌门人，苹果 AI 不能再等了</title>
-      <link>https://www.ifanr.com/1688570?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>油门焊死#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 10 Nov 2026 09:30:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1688570?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1688570?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>Indie游戏社区因人工智能和大步走而陷入混乱</title>
+      <link>https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</link>
+      <description>一些独立游戏节(IGF)陪审员昨天发表了一份声明,表示不会投票支持以"任何身份"使用基因人工智能的游戏. 不久后,Indie的开发者冲击了Big Walk,发表了一份声明,称它在游戏dev的"最终伸展期"中" sparingly"使用了人工智能.</description>
+      <pubDate>Tue, 10 Nov 2026 12:32:47 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</guid>
+      <source url="https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai">The Verge AI</source>
     </item>
     <item>
-      <title>Claude Code 被曝把密码写进项目文件，GitHub 上发现 2539 个真实凭据，官方正在修复</title>
-      <link>https://www.ithome.com/1/024/888.htm</link>
-      <description>Ars Technica 报道，安全公司 Apiiro 发现超过 10 万份 Claude Code 本地设置文件被上传至公开仓库，共识别出 1,994 个代码库中的 2,539 个真实凭据，涉及 63 个组织，包括 Azure 数据库密码、Square 生产令牌和 SSH root 登录信息。</description>
-      <pubDate>Tue, 10 Nov 2026 08:45:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/024/888.htm</guid>
-      <source url="https://www.ithome.com/1/024/888.htm">IT之家·人工智能</source>
+      <title>Anthropic现在有自己的人工智能办公套房了</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now</link>
+      <description>多年来,Anthropic一直以专注于吸引高飞公司客户的企业和编码工具而闻名,它激励了竞争的前沿实验室 — — 如OpenAI、SpaceXSI和Meta — — 复制其策略。 今年早些时候,Claude Code经历了自己特有的歇斯底里循环。 并且没有。</description>
+      <pubDate>Tue, 10 Nov 2026 12:30:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now">The Verge AI</source>
     </item>
     <item>
-      <title>强迫信 禁止拒绝:大规模毁灭性武器方案的机械证据</title>
-      <link>https://arxiv.org/abs/2611.08639</link>
-      <description>大型语言模型(LLMs)的安全基准通常使用多选择问题(MCQ)格式,但先前的研究表明,MCQ格式降低了拒绝率,这可能严重影响模型的安全行为。</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.08639</guid>
-      <source url="https://arxiv.org/abs/2611.08639">ArXiv NLP</source>
+      <title>Gemini 4 Carbon 现已登陆 Cursor，高 effort 下居 CursorBench 榜首</title>
+      <link>https://x.com/cursor_ai/status/2120193584670580857</link>
+      <description>Cursor 宣布 Gemini 4 Carbon 已可在 Cursor 中使用。官方称在高 effort 设置下，该模型以 60.4% 的得分位居 CursorBench 4.0 榜首，配图还标注其成本为 $9.22。</description>
+      <pubDate>Tue, 10 Nov 2026 16:35:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cursor_ai/status/2120193584670580857</guid>
+      <source url="https://x.com/cursor_ai/status/2120193584670580857">X：Cursor (@cursor_ai)</source>
     </item>
     <item>
-      <title>FinEvolveKG:金融知识图构建的可控制和可归属的快速演变</title>
-      <link>https://arxiv.org/abs/2611.08643</link>
-      <description>金融机构从共享的SEC 10 Ks构建知识图,为风险分析、投资组合管理和投资研究服务,其分析需求各不相同。 采掘必须适应,而不会分割共享基础、打字和打字。</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.08643</guid>
-      <source url="https://arxiv.org/abs/2611.08643">ArXiv NLP</source>
+      <title>eBay似乎已经关上了第三方人工智能特工的门</title>
+      <link>https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</link>
+      <description>eBay似乎阻止了包括Meta's Muse在内的人工智能特工在平台上的浏览,这是人工智能特工种族的最新速度突飞猛进。 一位读者告诉The Verge,几个星期以来,他一直有他的Muse特工浏览和整理一份每日手表摘要,供在eBay等平台上出售,其中包括a</description>
+      <pubDate>Tue, 10 Nov 2026 11:20:30 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</guid>
+      <source url="https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping">The Verge AI</source>
     </item>
     <item>
-      <title>语言模型中情感的压缩</title>
-      <link>https://arxiv.org/abs/2611.08683</link>
-      <description>大型语言模型(LLMs)被评价其识别用文字表达的情绪并产生流畅的情绪语言的能力。 然而,仅产出预测并不能揭示如何在内部组织精细的情感区分。</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.08683</guid>
-      <source url="https://arxiv.org/abs/2611.08683">ArXiv NLP</source>
+      <title>Greg Brockman关于OpenAI如何利用前沿模型进行网络防御</title>
+      <link>https://www.youtube.com/shorts/sSyzj08Cy2U</link>
+      <description>我们正将捍卫OpenAI的教训变成我们客户的实用工具。 OpenAI 总裁和共同创始人 Greg Brockman 分享了我们如何使用前沿模型来识别和解决我们自己的代码和基础设施中的重要弱点。 这一经验为工具和游戏提供了参考。</description>
+      <pubDate>Tue, 10 Nov 2026 16:07:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/sSyzj08Cy2U</guid>
+      <source url="https://www.youtube.com/shorts/sSyzj08Cy2U">OpenAI</source>
     </item>
     <item>
-      <title>内情与矛盾:探索真实世界的人工智能识别 - 引领的写作</title>
-      <link>https://arxiv.org/abs/2611.08704</link>
-      <description>随着人工智能生成的内容传播到人类互动的几乎每一个领域,人工智能检测的正式和非正式做法和言论已成为人们如何与文本和相互互动的日常部分。</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.08704</guid>
-      <source url="https://arxiv.org/abs/2611.08704">ArXiv NLP</source>
+      <title>Gemini 4 Carbon 上线 Gemini API、AI Studio 和 Antigravity</title>
+      <link>https://x.com/_philschmid/status/2120186354537812452</link>
+      <description>Philipp Schmid 介绍 Gemini 4 Carbon 现已可在 Gemini API、Google AI Studio 和 Antigravity（限 Google AI Ultra 订阅者）中使用。</description>
+      <pubDate>Tue, 10 Nov 2026 16:06:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_philschmid/status/2120186354537812452</guid>
+      <source url="https://x.com/_philschmid/status/2120186354537812452">X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)</source>
     </item>
     <item>
-      <title>RL-ATTACK:通过强化学习对语言模型进行泛指式的黑牛反面攻击</title>
-      <link>https://arxiv.org/abs/2611.08711</link>
-      <description>大型语言模型(LLMS)暴露出容易引起意外反应的对抗性扰动的脆弱性,这些脆弱性可以通过故意攻击来识别,并随后用于改进模型安全。在黑盒环境中。</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.08711</guid>
-      <source url="https://arxiv.org/abs/2611.08711">ArXiv NLP</source>
+      <title>Google DeepMind 发布 Gemini 4 Carbon 前沿模型</title>
+      <link>https://deepmind.google/blog/gemini-4-carbon-is-now-available/</link>
+      <description>Google DeepMind 正式向开发者、企业、科学家和普通用户开放 Gemini 4 Carbon，定位为其最强前沿模型，主打网络安全能力与复杂知识工作、软件工程、科学推理中的长程智能体工作流。</description>
+      <pubDate>Tue, 10 Nov 2026 16:03:47 +0000</pubDate>
+      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-is-now-available/</guid>
+      <source url="https://deepmind.google/blog/gemini-4-carbon-is-now-available/">Google DeepMind：Blog（RSS）</source>
     </item>
     <item>
-      <title>千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了</title>
-      <link>http://www.geekpark.net/news/373760</link>
-      <description>作者｜Cynthia 编辑｜郑玄 传说，光明之神巴德尔梦见自己将死，于是，巴德尔的母亲弗丽嘉遍走世间，令万物立下了绝不伤害他的誓言。众神也因此放下心来，甚至还发明了一种新的消遣：轮番向巴德尔投掷武器和石块，看着他毫发无损，来确定他们已经战胜了预言。直到一小枝被遗漏的槲寄生投向巴德尔。光明之神轰然倒下，诸神的黄昏由此拉开序章。 这是北欧神话中巴德尔之死的故事。危险早已被预见，人们也采取了行动，却仍然自欺欺人，把一次次看似成功的演示，当成了问题已经解决的证明。 2026 年上半年的企业级 Agent 市场，也曾有过这样的笃定。 每一场发布会上，AI 写方案、做表格、敲代码、生成海报的单任务能力都会</description>
-      <pubDate>Tue, 10 Nov 2026 12:52:07 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373760</guid>
-      <source url="http://www.geekpark.net/news/373760">极客公园</source>
+      <title>Wiz 讲解如何评估 AI 智能体的网络安全能力</title>
+      <link>https://www.wiz.io/blog/cyber-model-arena-ai-benchmark</link>
+      <description>Wiz Research 介绍其 Cyber Model Arena v3.9 的基准设计方法，该基准覆盖 26 个模型、59 个智能体和 327 道挑战，分代码漏洞、API 安全、Web 安全和云安全四类。</description>
+      <pubDate>Tue, 10 Nov 2026 16:03:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wiz.io/blog/cyber-model-arena-ai-benchmark</guid>
+      <source url="https://www.wiz.io/blog/cyber-model-arena-ai-benchmark">Wiz：Research（安全研究）</source>
     </item>
     <item>
-      <title>Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目</title>
-      <link>https://x.com/adocomplete/status/2120008039411708279</link>
-      <description>作者转发 Anthropic 的 Alex Albert 分享的提示词：对每个项目运行同一条指令，让 Claude 通读整个项目，找出损坏、不一致、低效或不再需要的内容，确定的问题直接修复，其余列出供人工审查。作者补充可用 /doctor prompt-audit 和 /skill-doctor 优化上下文文件并清理不必要的技能。</description>
-      <pubDate>Tue, 10 Nov 2026 04:17:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/adocomplete/status/2120008039411708279</guid>
-      <source url="https://x.com/adocomplete/status/2120008039411708279">X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)</source>
+      <title>Greg Brockman关于OpenAI如何利用前沿模型进行网络防御</title>
+      <link>https://www.youtube.com/watch?v=vdEGZYIvFiI</link>
+      <description>我们正将捍卫OpenAI的教训变成我们客户的实用工具。 OpenAI 总裁和共同创始人 Greg Brockman 分享了我们如何使用前沿模型来识别和解决我们自己的代码和基础设施中的重要弱点。 这一经验为工具和游戏提供了参考。</description>
+      <pubDate>Tue, 10 Nov 2026 16:02:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vdEGZYIvFiI</guid>
+      <source url="https://www.youtube.com/watch?v=vdEGZYIvFiI">OpenAI</source>
     </item>
     <item>
-      <title>Kuken工业在几分钟内就搜索了70年的图纸</title>
-      <link>https://www.youtube.com/watch?v=FNTz0CdqL6g</link>
-      <description>Kuken Industries正在使用OpenAI API帮助工程师们在几分钟内搜索了70年的图纸. 由Reursive,日本人工智能启动公司和OpenAI官方合作伙伴共同构建,该系统为团队提供了更多的时间来指导年轻工程师,并承担更艰巨的工作. ^ 阅读Kuken Industries是如何形成的.</description>
-      <pubDate>Tue, 10 Nov 2026 02:41:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=FNTz0CdqL6g</guid>
-      <source url="https://www.youtube.com/watch?v=FNTz0CdqL6g">OpenAI</source>
+      <title>Google 发布双子座4 Carbon 的代理特性“ swarm ”</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</link>
+      <description>Google在两周前将最新人工智能模型双子座4 Carbon发布给一批"网络安全卫士"后,正在向大众推出其最新的人工智能模型. Google声称Carbon是其"最强大的模型",并且能够与来自Anthropic和OpenAI的极佳系统竞争. Google.</description>
+      <pubDate>Tue, 10 Nov 2026 11:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout">The Verge AI</source>
     </item>
     <item>
-      <title>据报道 Anthropic 推进 IPO，计划下周四或周五挂牌</title>
-      <link>https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</link>
-      <description>据 The Wall Street Journal 报道，Anthropic 将在本周设定估值区间，计划下周四或周五开始交易。部分机构投资者正推动估值低于上周讨论的 1.5 万亿美元目标，该数字已低于几个月前传闻的 2 万亿美元。报道还提到其主要竞争对手 OpenAI 上周融资 110 亿美元后估值约为 1.25 万亿美元，低于其最初寻求的 200 亿美元融资规模。</description>
-      <pubDate>Tue, 10 Nov 2026 01:27:12 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</guid>
-      <source url="https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/">TechCrunch：AI（RSS）</source>
+      <title>Google DeepMind 用 AlphaProof Code 对 Signal 协议机器码完成形式化安全验证</title>
+      <link>https://x.com/rohanpaul_ai/status/2120179172836622832</link>
+      <description>Google DeepMind 发布 AlphaProof Code 多智能体形式化验证框架，并首次对广泛部署协议 Signal 的生产机器码完成形式化安全验证。</description>
+      <pubDate>Tue, 10 Nov 2026 15:38:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120179172836622832</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2120179172836622832">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
-      <title>早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产</title>
-      <link>https://www.ifanr.com/1688654?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能 · 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理 · 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 10 Nov 2026 00:47:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1688654?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1688654?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>代码Rabbit如何使用 OpenAI 来审查人工智能生成的代码</title>
+      <link>https://www.youtube.com/watch?v=ZTxzWJeGFAA</link>
+      <description>CodeRabbit联合创始人兼CEO Harjot Gill解释了团队如何使用OpenAI模型帮助团队理解,审查,以及人工智能人员制作的安全代码,并决定准备运送什么。 他还分享CodeRabbit如何使用Codex在6个月内与同一工程团队再运送20x软件。</description>
+      <pubDate>Tue, 10 Nov 2026 15:05:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ZTxzWJeGFAA</guid>
+      <source url="https://www.youtube.com/watch?v=ZTxzWJeGFAA">OpenAI</source>
     </item>
     <item>
-      <title>David Ellison说人工智能可能是现代史上最大的创意解锁。</title>
-      <link>https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</link>
-      <description>在派拉蒙·斯凯登斯的最新收入呼吁中,CEO大卫·埃里森(David Elison)表示"难以想象"人工智能不会对电影业产生比CGI更大的影响. Ellison在回答公司对人工智能的展望时表示:"我认为当你放大并看出生产,人工智能真的有TH.</description>
-      <pubDate>Mon, 09 Nov 2026 19:28:49 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</guid>
-      <source url="https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai">The Verge AI</source>
+      <title>Gary Marcus 质疑 Anthropic 1.4 万亿美元 IPO 估值</title>
+      <link>https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo</link>
+      <description>Gary Marcus 评论 Anthropic 拟以最高 1.4 万亿美元估值 IPO，称该公司除一个异常季度外从未盈利，未来负债接近 9000 亿美元。他引用 Q2 环比增长 147% 而 Q3 降至 47% 的数据，认为 tokenmaxxing 退潮与中国竞品崛起使万亿估值失去依据，并援引 S-1 中公司自认成本将上升、收入增速难以为继的表述。</description>
+      <pubDate>Tue, 10 Nov 2026 14:37:21 +0000</pubDate>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo</guid>
+      <source url="https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo">Gary Marcus：The Road to AI We Can Trust（RSS）</source>
     </item>
     <item>
-      <title>ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道</title>
-      <link>http://www.geekpark.net/news/373736</link>
-      <description>8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%11 月 10 日消息，Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 Claude Mythos 5.2，两款模型基于同一底层模型，前者面向普通用户并内置网络安全与生物安全防护，后者则面向通过审核的网络安全和生命科学机构开放，用于高风险的专业应用。定价方面，Claude Fable 5.2 每 100 万词元（Token）输入费用为 8 美元（IT 之家注：现汇率约合 53.4 元人民币），每 100 万词</description>
-      <pubDate>Tue, 10 Nov 2026 08:19:15 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373736</guid>
-      <source url="http://www.geekpark.net/news/373736">极客公园</source>
+      <title>The Information 报道称与英伟达 CEO 黄仁勋相关人士向中国买家转手 75 亿美元硬件</title>
+      <link>https://x.com/rohanpaul_ai/status/2120162909422780789</link>
+      <description>据 The Information 报道，与英伟达 CEO 黄仁勋有染的 Alice Huang（无亲属关系）与丈夫和姐姐在中国和新加坡建立采购网络，涉资 75 亿美元。</description>
+      <pubDate>Tue, 10 Nov 2026 14:33:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120162909422780789</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2120162909422780789">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
-      <title>The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</link>
-      <description>The Verge 依据《纽约时报》等报道梳理 Nvidia CEO 黄仁勋与新加坡云服务商 Megaspeed 高管 Alice Huang 的婚外情风波。</description>
-      <pubDate>Mon, 09 Nov 2026 23:51:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang">The Verge：AI（RSS）</source>
+      <title>MiniMax 发布 H3-Image 图像模型并开源权重</title>
+      <link>https://x.com/MiniMax_AI/status/2120158341229928576</link>
+      <description>MiniMax 发布图像模型 MiniMax H3-Image 并开源模型权重，可在 10-20 秒内生成 4K × 4K（16 million pixel）图像。</description>
+      <pubDate>Tue, 10 Nov 2026 14:15:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MiniMax_AI/status/2120158341229928576</guid>
+      <source url="https://x.com/MiniMax_AI/status/2120158341229928576">X：MiniMax (@MiniMax_AI)</source>
     </item>
     <item>
-      <title>实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出</title>
-      <link>https://mp.weixin.qq.com/s/sKoVHL_oNsik9vtUjr0lHg</link>
-      <description>Anthropic 凌晨正式发布 Claude Fable 5.2，作者第一时间实测视频动效、Three.js 3D 场景和苹果静安店 3D 网页等 10 个任务，全部一次直出，未发现生成视频中的事实错误。</description>
-      <pubDate>Mon, 09 Nov 2026 23:21:03 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/sKoVHL_oNsik9vtUjr0lHg</guid>
-      <source url="https://mp.weixin.qq.com/s/sKoVHL_oNsik9vtUjr0lHg">公众号：数字生命卡兹克</source>
+      <title>Anthropic Fable 5.2 在 Remote Labor Index 上以 41.3% 领跑真实自由职业任务</title>
+      <link>https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/</link>
+      <description>The Decoder 报道，Anthropic 新模型 Fable 5.2 在 Scale Labs 和 Center for AI Safety 的 Remote Labor Index 基准上以 41.3% 排名第一，该测试衡量 AI 智能体能否把真实自由职业项目做到让付费客户接受的质量。</description>
+      <pubDate>Tue, 10 Nov 2026 14:07:47 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/</guid>
+      <source url="https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/">The Decoder：AI News（RSS）</source>
     </item>
     <item>
-      <title>刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5</title>
-      <link>https://www.ifanr.com/1688605?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>全球最强模型再次易主#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 09 Nov 2026 22:54:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1688605?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1688605?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>Anthropic 将 IPO 发行价区间定为 70 至 78 美元，隐含估值达 1.404 万亿美元</title>
+      <link>https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/</link>
+      <description>Anthropic 在更新后的 IPO 招股文件中将发行价区间定为每股 70 至 78 美元，共发行 8.25 亿股 A 类股，预计募资 577.5 亿至 643.5 亿美元，若按区间上限定价隐含估值可达 1.404 万亿美元，高于其 5 月融资时的 9650 亿美元估值。</description>
+      <pubDate>Tue, 10 Nov 2026 14:01:39 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/</guid>
+      <source url="https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/">TechCrunch：AI（RSS）</source>
     </item>
     <item>
-      <title>做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系</title>
-      <link>https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/</link>
-      <description>Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。</description>
-      <pubDate>Mon, 09 Nov 2026 22:46:09 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/</guid>
-      <source url="https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/">TechCrunch：AI（RSS）</source>
+      <title>Lovable 介绍平台安全机制：自动扫描、一键修复与深度扫描功能</title>
+      <link>https://lovable.dev/blog/find-it-fix-it-ship-it</link>
+      <description>Lovable 发布安全功能说明，介绍平台如何帮助无技术背景的开发者构建安全应用。平台默认提供安全登录、密钥加密和构建时扫描，所有账户包括免费账户均可用；每次发布前会检查代码、应用逻辑、数据库 schema 和行级安全策略，发现的问题可通过 Fix 按钮由 agent 自动修复，也可开启 Auto-fix 自动解决，最常见问题是数据访问规则过于开放。</description>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://lovable.dev/blog/find-it-fix-it-ship-it</guid>
+      <source url="https://lovable.dev/blog/find-it-fix-it-ship-it">Lovable Blog</source>
     </item>
     <item>
-      <title>Figma 官方讲解画布智能体的 6 种实用方法</title>
-      <link>https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/</link>
-      <description>Figma 官方介绍了在其画布上使用 Figma agent 的六种方法，覆盖从设计初期探索到交付前细节的各个阶段。</description>
-      <pubDate>Mon, 09 Nov 2026 21:46:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/</guid>
-      <source url="https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/">Figma AI / Agent / Make</source>
+      <title>阿多比正在全力以赴地投入人工智能</title>
+      <link>https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates</link>
+      <description>Adobe正致力于一个概念,即聊天机器人和人工智能特工可以成为你的下一个设计助理,甚至可以代表你实现创意工作流程和重复任务的自动化。 今天在佛罗里达州迈阿密的Adobe的Max会议上宣布的一些工具和功能包括允许你更喜欢的人</description>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates</guid>
+      <source url="https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates">The Verge AI</source>
     </item>
     <item>
-      <title>Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用</title>
-      <link>https://x.com/higgsfield/status/2119884452054937656</link>
-      <description>Higgsfield 宣布 Claude Fable 5.2 已在 Higgsfield MCP 上线，提供 3 天免费不限量使用全部顶级视频和图像模型。作者称该 Anthropic 新模型擅长 3D 建模、视觉推理、computer use 和编码；引用内容提到 Claude Fable 5.2 与 Claude Mythos 5.2 在编码、推理和视觉方面有提升。</description>
-      <pubDate>Mon, 09 Nov 2026 20:06:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/higgsfield/status/2119884452054937656</guid>
-      <source url="https://x.com/higgsfield/status/2119884452054937656">X：Higgsfield AI (@higgsfield)</source>
+      <title>照片店、灯光室和Premiere 更方便搬走东西</title>
+      <link>https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates</link>
+      <description>Adobe正在扩展其Creative Cloud apps和 Firefly 人工智能平台,其新能力旨在让设计和编辑项目更快,更不复杂. Adobe今天的Max活动的一些公告包括自动删除对象的功能,blumishes,以及其他不想要的功能.</description>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates</guid>
+      <source url="https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates">The Verge AI</source>
     </item>
   </channel>
 </rss>
