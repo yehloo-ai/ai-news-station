@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 23:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:59:20 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>回答您关于 GPT- Live 的问题</title>
-      <link>https://www.youtube.com/watch?v=5YXlrzC_RYE</link>
-      <description>我们正回答互联网上关于GPT-Live的问题,从它与早期的语音模型有什么不同以及开发者使用它是为了什么。 已经用GPT-Live构建了这个系统。 我们将分享一些实用的技巧,以便定制您的代理声音并改进授权。你还想得到什么?</description>
-      <pubDate>Tue, 10 Nov 2026 21:10:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=5YXlrzC_RYE</guid>
-      <source url="https://www.youtube.com/watch?v=5YXlrzC_RYE">OpenAI</source>
+      <title>WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权</title>
+      <link>https://x.com/rohanpaul_ai/status/2120392847505715324</link>
+      <description>WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票，每人保留约 180 亿美元持仓。据公司文件，每人出售近 3.4M 股，发行价区间预计 70 至 78 美元，上市预计下周进行，估值接近 1.3 万亿美元，募资 800 亿美元以上，部分通过包括 Google 在内的私募配售。</description>
+      <pubDate>Wed, 11 Nov 2026 05:47:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120392847505715324</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2120392847505715324">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
-      <title>Stripe 收购 OpenRouter，双方宣布合并后定位</title>
-      <link>https://x.com/OpenRouter/status/2120234542183395787</link>
-      <description>OpenRouter 官方宣布正式并入 Stripe。OpenRouter 称有超过 1000 万开发者和公司使用其平台，它为多模型、多 provider 的 AI 运行提供基础设施，包括访问新模型、故障期间保持可用，以及为团队执行支出和数据策略。</description>
-      <pubDate>Tue, 10 Nov 2026 19:18:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenRouter/status/2120234542183395787</guid>
-      <source url="https://x.com/OpenRouter/status/2120234542183395787">X：OpenRouter (@OpenRouter)</source>
+      <title>当美国无法建设数据中心，会对 AI 产生怎样的冲击</title>
+      <link>http://www.geekpark.net/news/373816</link>
+      <description>作者｜Techno 之王 编辑｜靖宇 2026 年 11 月 4 日，美国中期选举结果落定后的第二天上午，OpenAI 的高管们坐到了一起。 据外媒援引知情人士的消息，他们讨论的是要不要重设 2027 年的数据中心容量预期。讨论还没有形成决定，但焦虑已经摆上了台面。 过去几个月，美国各地的大型数据中心项目接连被按下暂停键。得州前任州长 Abbott 从 8 月起冻结了数据中心的并网和空气许可，要求审计到年底；新当选的州长 Gina Hinojosa 承诺，在州议会立法保护居民之前，暂停所有新数据中心审批，而议会会期要到 2027 年 5 月才结束。 俄亥俄新州长 Amy Acton 提出有条件</description>
+      <pubDate>Wed, 11 Nov 2026 13:23:24 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373816</guid>
+      <source url="http://www.geekpark.net/news/373816">极客公园</source>
     </item>
     <item>
-      <title>Anthropic 再次修订 S-1：宣布已达责任扩展政策能力阈值，IPO 定价 $70-$78</title>
-      <link>https://x.com/rohanpaul_ai/status/2120231037569790385</link>
-      <description>Anthropic 再次修订 IPO 申请文件 S-1（Amendment No. 2），宣布已越过其 Responsible Scaling Policy 设定的阈值，即 AI 正大幅加快 AI 研究速度、需更强安全检查。这一判断基于其对未来模型的预期而非现有模型的表现，一周前的文件还只说"可能即将"越过。文件同时将 IPO 发行价定为每股 $70 至 $78。</description>
-      <pubDate>Tue, 10 Nov 2026 19:04:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120231037569790385</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2120231037569790385">X：Rohan Paul (@rohanpaul_ai)</source>
+      <title>负责自主X光实验的可审计人类代理团队</title>
+      <link>https://arxiv.org/abs/2611.12933</link>
+      <description>闭路自发实验可以加速科学发现,但执行努力限制了无障碍性。 代理系统可以降低这一障碍,尽管对物理仪器的持续操作基本上仍未加以探索。 这里,u</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12933</guid>
+      <source url="https://arxiv.org/abs/2611.12933">ArXiv AI</source>
     </item>
     <item>
-      <title>美国正在赢得人工智能赛 黄杰森可能搞砸了</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</link>
-      <description>随着间谍目标的发展,黄杰森或许是地球上最不令人惊讶的人物之一。 Nvidia CEO经营着世界上最有价值的公司之一,控制着为人工智能繁荣火上浇油的点播技术,并且与总裁、CEO和各种重要人物保持舒适。 他还穿着一个很酷的Le。</description>
-      <pubDate>Tue, 10 Nov 2026 14:04:05 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy">The Verge AI</source>
+      <title>地球记录:从像素到四十年来的多模式代理的地表变化</title>
+      <link>https://arxiv.org/abs/2611.12934</link>
+      <description>虽然多模态代理人现在利用各种工具进行复杂的数据分析,但他们将数十年的卫星图像转化为可靠的地变分析的能力仍然没有得到衡量,这对地球观测科学至关重要。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12934</guid>
+      <source url="https://arxiv.org/abs/2611.12934">ArXiv AI</source>
     </item>
     <item>
-      <title>在 β 中引入 ChatGPT 中的企业</title>
-      <link>https://www.youtube.com/watch?v=Z9k5oI3Paoc</link>
-      <description>现在在 β 中: ChatGPT 中的企业。 要求您的业务,管理您的信息, 并获得关于人们如何与您互动的见解。 使用 Business Hub , 经认证的企业可以更新其细节, 并根据当前定价和可用性添加产品素材。 他们也可以看到关于 mant 的汇总见解 。</description>
-      <pubDate>Tue, 10 Nov 2026 18:07:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Z9k5oI3Paoc</guid>
-      <source url="https://www.youtube.com/watch?v=Z9k5oI3Paoc">OpenAI</source>
+      <title>关于预填的列车, 解码时的监视器: 使用稀疏的自动编码器进行主题监测</title>
+      <link>https://arxiv.org/abs/2611.12935</link>
+      <description>主题监测的任务是在模型生成时的反应中标出每个代号的标注主题. 以激活为基础的监测器在生成时运行至今已经经过了检测有害内容的培训,并且仅限于两到三个课程.</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12935</guid>
+      <source url="https://arxiv.org/abs/2611.12935">ArXiv AI</source>
     </item>
     <item>
-      <title>ChatGPT正在获得经核实的人工智能“商业智能体”</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</link>
-      <description>ChatGPT将允许您与经认证的“商业智能体”聊天,后者代表着一个品牌,可以帮助您购买比较购物。该功能首先可以提供给美国“合格”电子商务和在线服务企业,它正在启动,作为Cha的一套以商业为重点的功能的一部分。</description>
-      <pubDate>Tue, 10 Nov 2026 13:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub">The Verge AI</source>
+      <title>山体滑坡FM:促进统一地道滑坡认识和理解的基础模型</title>
+      <link>https://arxiv.org/abs/2611.12936</link>
+      <description>智能山体滑坡探测对防灾至关重要,但现有模型主要侧重于孤立的视觉任务,需要大量贴有标签的数据,并缺乏深刻的分析能力和现场了解能力。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12936</guid>
+      <source url="https://arxiv.org/abs/2611.12936">ArXiv AI</source>
     </item>
     <item>
-      <title>OpenAI 开放 ChatGPT Business 计划登录 Notion、v0 等第三方工具</title>
-      <link>https://x.com/OpenAIDevs/status/2120212596850663712</link>
-      <description>OpenAI 宣布 ChatGPT Business 计划现可在 Notion、v0、ampcode、kilocode、Warp、NousResearch 的 Hermes、openclaw、opencode 等第三方工具中使用，通过 Sign in with ChatGPT 连接即可开始。</description>
-      <pubDate>Tue, 10 Nov 2026 17:50:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenAIDevs/status/2120212596850663712</guid>
-      <source url="https://x.com/OpenAIDevs/status/2120212596850663712">X：OpenAI Developers (@OpenAIDevs)</source>
+      <title>追踪大语言模型中的心理计量推论</title>
+      <link>https://arxiv.org/abs/2611.12937</link>
+      <description>大型语言模型是否代表内在的心理构造,还是只产生类似心理结构的输出? 我们用跨人模式来解决这个问题,跨越来自两个家庭的14个模型变体(Llama 3 a)</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12937</guid>
+      <source url="https://arxiv.org/abs/2611.12937">ArXiv AI</source>
     </item>
     <item>
-      <title>Ed Zitron 长文剖析黄仁勋丑闻与 NVIDIA 疑似借 Megaspeed 向中国走私 GPU</title>
-      <link>https://www.wheresyoured.at/jensens-bizarre-adventure/</link>
-      <description>Ed Zitron 长文梳理黄仁勋承认与 Megaspeed CEO Alice Huang 的婚外情事件，并整合 Bloomberg、纽约时报、金融时报与 Culper Research 的报道，指 Megaspeed 疑似作为转口实体将 NVIDIA GPU 非法流入中国。</description>
-      <pubDate>Tue, 10 Nov 2026 17:43:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wheresyoured.at/jensens-bizarre-adventure/</guid>
-      <source url="https://www.wheresyoured.at/jensens-bizarre-adventure/">Ed Zitron 长文 / Where’s Your Ed At（RSS）</source>
+      <title>Brugge 场案的辅助历史比对图谱基因模型</title>
+      <link>https://arxiv.org/abs/2611.12927</link>
+      <description>协助的历史比对仍然不独特,因为许多地质成就可以复制等效的生产反应,而单个井比对之间的差别很大。 当一个田由几个腐烂地组成时,这种模糊性就会增加。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12927</guid>
+      <source url="https://arxiv.org/abs/2611.12927">ArXiv ML</source>
     </item>
     <item>
-      <title>Indie游戏社区因人工智能和大步走而陷入混乱</title>
-      <link>https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</link>
-      <description>一些独立游戏节(IGF)陪审员昨天发表了一份声明,表示不会投票支持以"任何身份"使用基因人工智能的游戏. 不久后,Indie的开发者冲击了Big Walk,发表了一份声明,称它在游戏dev的"最终伸展期"中" sparingly"使用了人工智能.</description>
-      <pubDate>Tue, 10 Nov 2026 12:32:47 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</guid>
-      <source url="https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai">The Verge AI</source>
+      <title>作为可解释时间序列的自圆形概念的预测性惊喜</title>
+      <link>https://arxiv.org/abs/2611.12955</link>
+      <description>在风险敏感领域部署的时间序列分类器必须是(1) 准确的,(2) 可解释的,(3) 在证据薄弱时能够弃权。 现有方法不能同时提供全部3个,障碍是结构性的,而不是后勤的。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12955</guid>
+      <source url="https://arxiv.org/abs/2611.12955">ArXiv ML</source>
     </item>
     <item>
-      <title>Anthropic现在有自己的人工智能办公套房了</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now</link>
-      <description>多年来,Anthropic一直以专注于吸引高飞公司客户的企业和编码工具而闻名,它激励了竞争的前沿实验室 — — 如OpenAI、SpaceXSI和Meta — — 复制其策略。 今年早些时候,Claude Code经历了自己特有的歇斯底里循环。 并且没有。</description>
-      <pubDate>Tue, 10 Nov 2026 12:30:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now">The Verge AI</source>
+      <title>ADIndex: 通过组级分级索引的图层分层注意</title>
+      <link>https://arxiv.org/abs/2611.12956</link>
+      <description>DeepSeek Sparse Content(DSA)通过符号级别选择来降低关注的计算成本。然而,它的索引器仍然为每个查询给整个因果前缀打分,使索引成为长文本中一个占支配地位的延迟源</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12956</guid>
+      <source url="https://arxiv.org/abs/2611.12956">ArXiv ML</source>
     </item>
     <item>
-      <title>Gemini 4 Carbon 现已登陆 Cursor，高 effort 下居 CursorBench 榜首</title>
-      <link>https://x.com/cursor_ai/status/2120193584670580857</link>
-      <description>Cursor 宣布 Gemini 4 Carbon 已可在 Cursor 中使用。官方称在高 effort 设置下，该模型以 60.4% 的得分位居 CursorBench 4.0 榜首，配图还标注其成本为 $9.22。</description>
-      <pubDate>Tue, 10 Nov 2026 16:35:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cursor_ai/status/2120193584670580857</guid>
-      <source url="https://x.com/cursor_ai/status/2120193584670580857">X：Cursor (@cursor_ai)</source>
+      <title>通过开发进行勘探:在个性化联邦中奖励多样性的祝福</title>
+      <link>https://arxiv.org/abs/2611.12964</link>
+      <description>尽管联邦强化学习(RL)传统上保证在同质环境中的高效,但当智能体拥有不同的目标时,协作往往受到阻碍。 在本文中,我们翻开这一范式,设定奖励的异质性。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12964</guid>
+      <source url="https://arxiv.org/abs/2611.12964">ArXiv ML</source>
     </item>
     <item>
-      <title>MiniMax 发布开源图像生成模型 H3-Image，10 秒内生成 4K 图像</title>
-      <link>https://www.minimax.io/blog/minimax-h3-image</link>
-      <description>MiniMax 发布基于 H3 的开源权重图像生成模型 H3-Image，支持文生图、参考图生成和图像编辑，可生成 4096 × 4096 的 4K 图像，速度最高达主流方案的 5 倍。</description>
-      <pubDate>Tue, 10 Nov 2026 16:23:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.minimax.io/blog/minimax-h3-image</guid>
-      <source url="https://www.minimax.io/blog/minimax-h3-image">MiniMax：Blog（网页）</source>
+      <title>StatPrompt-LLM: 轻量级统计完善基础-时序预测</title>
+      <link>https://arxiv.org/abs/2611.12974</link>
+      <description>时间序列预测最近出现范式转变,采用了基础式模型,使经过预先训练的大型语言架构适应相继数据。 然而,有效暴露了基本时间结构,如tr</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12974</guid>
+      <source url="https://arxiv.org/abs/2611.12974">ArXiv ML</source>
     </item>
     <item>
-      <title>eBay似乎已经关上了第三方人工智能特工的门</title>
-      <link>https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</link>
-      <description>eBay似乎阻止了包括Meta's Muse在内的人工智能特工在平台上的浏览,这是人工智能特工种族的最新速度突飞猛进。 一位读者告诉The Verge,几个星期以来,他一直有他的Muse特工浏览和整理一份每日手表摘要,供在eBay等平台上出售,其中包括a</description>
-      <pubDate>Tue, 10 Nov 2026 11:20:30 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</guid>
-      <source url="https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping">The Verge AI</source>
+      <title>从相关职位到可归属的斯班人:抑郁症问卷推论的明显症状证据</title>
+      <link>https://arxiv.org/abs/2611.12900</link>
+      <description>纵向的社会-媒体历史为评估抑郁症提供了一个机会,有可能支持标准化抑郁症问卷答复的推论。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12900</guid>
+      <source url="https://arxiv.org/abs/2611.12900">ArXiv NLP</source>
     </item>
     <item>
-      <title>Greg Brockman关于OpenAI如何利用前沿模型进行网络防御</title>
-      <link>https://www.youtube.com/shorts/sSyzj08Cy2U</link>
-      <description>我们正将捍卫OpenAI的教训变成我们客户的实用工具。 OpenAI 总裁和共同创始人 Greg Brockman 分享了我们如何使用前沿模型来识别和解决我们自己的代码和基础设施中的重要弱点。 这一经验为工具和游戏提供了参考。</description>
-      <pubDate>Tue, 10 Nov 2026 16:07:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/sSyzj08Cy2U</guid>
-      <source url="https://www.youtube.com/shorts/sSyzj08Cy2U">OpenAI</source>
+      <title>在斯派克斯进行再思考:用步骤-软件解码来缓解MDLMs中的幻觉</title>
+      <link>https://arxiv.org/abs/2611.12901</link>
+      <description>最近,在多模态语言模型(MDLMs)方面的进步通过迭代改进显示出强大的全球建模能力。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12901</guid>
+      <source url="https://arxiv.org/abs/2611.12901">ArXiv NLP</source>
     </item>
     <item>
-      <title>Gemini 4 Carbon 上线 Gemini API、AI Studio 和 Antigravity</title>
-      <link>https://x.com/_philschmid/status/2120186354537812452</link>
-      <description>Philipp Schmid 介绍 Gemini 4 Carbon 现已可在 Gemini API、Google AI Studio 和 Antigravity（限 Google AI Ultra 订阅者）中使用。</description>
-      <pubDate>Tue, 10 Nov 2026 16:06:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_philschmid/status/2120186354537812452</guid>
-      <source url="https://x.com/_philschmid/status/2120186354537812452">X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)</source>
+      <title>TimeOmni-o1:双向对接时间系列基础模型和多模态理由和预测的有限责任模型</title>
+      <link>https://arxiv.org/abs/2611.12902</link>
+      <description>来自现实世界系统的时间序列往往伴有文本,例如关于影响它们的事件的报告。这些序列的两个共同任务是理解,例如回答关于一个序列的问题,以及预测其未来的值。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12902</guid>
+      <source url="https://arxiv.org/abs/2611.12902">ArXiv NLP</source>
     </item>
     <item>
-      <title>Google DeepMind 发布 Gemini 4 Carbon 前沿模型</title>
-      <link>https://deepmind.google/blog/gemini-4-carbon-is-now-available/</link>
-      <description>Google DeepMind 正式向开发者、企业、科学家和普通用户开放 Gemini 4 Carbon，定位为其最强前沿模型，主打网络安全能力与复杂知识工作、软件工程、科学推理中的长程智能体工作流。</description>
-      <pubDate>Tue, 10 Nov 2026 16:03:47 +0000</pubDate>
-      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-is-now-available/</guid>
-      <source url="https://deepmind.google/blog/gemini-4-carbon-is-now-available/">Google DeepMind：Blog（RSS）</source>
+      <title>SELD: 在解答以外的上下文压缩中检测无声证据损失</title>
+      <link>https://arxiv.org/abs/2611.12903</link>
+      <description>对输入较长的语言模型来说,上下文压缩现在是例行公事,但压缩上下文只有在为答案保留证据的情况下才有用。 现有的检查比较了阅读器模型的答案或其最可能的单词,从而错过了花纹</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12903</guid>
+      <source url="https://arxiv.org/abs/2611.12903">ArXiv NLP</source>
     </item>
     <item>
-      <title>Wiz 讲解如何评估 AI 智能体的网络安全能力</title>
-      <link>https://www.wiz.io/blog/cyber-model-arena-ai-benchmark</link>
-      <description>Wiz Research 介绍其 Cyber Model Arena v3.9 的基准设计方法，该基准覆盖 26 个模型、59 个智能体和 327 道挑战，分代码漏洞、API 安全、Web 安全和云安全四类。</description>
-      <pubDate>Tue, 10 Nov 2026 16:03:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wiz.io/blog/cyber-model-arena-ai-benchmark</guid>
-      <source url="https://www.wiz.io/blog/cyber-model-arena-ai-benchmark">Wiz：Research（安全研究）</source>
+      <title>可操作反馈:通过用户编辑临床文献数据改进模型能力</title>
+      <link>https://arxiv.org/abs/2611.12904</link>
+      <description>大型语言模型(LLMS)越来越多地被部署在临床文献工作流程中,临床医生在使用前审查和编辑其产出。 原则上,这些临床医生的编辑是模型traini可扩展的监督来源。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.12904</guid>
+      <source url="https://arxiv.org/abs/2611.12904">ArXiv NLP</source>
     </item>
     <item>
-      <title>Greg Brockman关于OpenAI如何利用前沿模型进行网络防御</title>
-      <link>https://www.youtube.com/watch?v=vdEGZYIvFiI</link>
-      <description>我们正将捍卫OpenAI的教训变成我们客户的实用工具。 OpenAI 总裁和共同创始人 Greg Brockman 分享了我们如何使用前沿模型来识别和解决我们自己的代码和基础设施中的重要弱点。 这一经验为工具和游戏提供了参考。</description>
-      <pubDate>Tue, 10 Nov 2026 16:02:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=vdEGZYIvFiI</guid>
-      <source url="https://www.youtube.com/watch?v=vdEGZYIvFiI">OpenAI</source>
+      <title>Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议</title>
+      <link>https://x.com/rohanpaul_ai/status/2120369586096976098</link>
+      <description>Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成超 100 亿美元的新协议。Microsoft 承诺到 2033 年 6 月支出至少 472 亿、最高 492 亿美元，Google 最低承诺从约 1145 亿升至约 1213 亿美元，两笔均不可撤销、无论是否使用容量都须付款。文件还提到上季度短期算力支出 50 亿美元且价格明显更高。</description>
+      <pubDate>Wed, 11 Nov 2026 04:14:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120369586096976098</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2120369586096976098">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
-      <title>Google 发布双子座4 Carbon 的代理特性“ swarm ”</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</link>
-      <description>Google在两周前将最新人工智能模型双子座4 Carbon发布给一批"网络安全卫士"后,正在向大众推出其最新的人工智能模型. Google声称Carbon是其"最强大的模型",并且能够与来自Anthropic和OpenAI的极佳系统竞争. Google.</description>
-      <pubDate>Tue, 10 Nov 2026 11:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout">The Verge AI</source>
+      <title>Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高</title>
+      <link>https://x.com/rohanpaul_ai/status/2120320127484969162</link>
+      <description>FT 报道，因投资者需求旺盛，Anthropic 承销商计划上调 IPO 定价，把目标估值拉回 $1.5T 或更高。周二文件设定 $70-$78 的发行区间，计入员工期权和受限股后对应 $1.26T-$1.41T 估值；若定价超出区间，募资将超过 $100B，其中 Google、Nvidia 和 Microsoft 将按 IPO 价格投资 $26B。</description>
+      <pubDate>Wed, 11 Nov 2026 00:58:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120320127484969162</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2120320127484969162">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
-      <title>Google DeepMind 用 AlphaProof Code 对 Signal 协议机器码完成形式化安全验证</title>
-      <link>https://x.com/rohanpaul_ai/status/2120179172836622832</link>
-      <description>Google DeepMind 发布 AlphaProof Code 多智能体形式化验证框架，并首次对广泛部署协议 Signal 的生产机器码完成形式化安全验证。</description>
-      <pubDate>Tue, 10 Nov 2026 15:38:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120179172836622832</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2120179172836622832">X：Rohan Paul (@rohanpaul_ai)</source>
+      <title>Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员</title>
+      <link>http://www.geekpark.net/news/373796</link>
+      <description>英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件 11 月 11 日消息，英伟达发布公告，宣布已聘请美国前联邦检察官金正贤（Joon H. Kim）及其所在的律师事务所 Wachtell, Lipton, Rosen &amp;amp; Katz，负责开展一项全面、独立的调查。 此前，英伟达董事会表示，鉴于近期有关公司创始人兼 CEO 黄仁勋可能成为外国情报机构目标的报道，董事会决定启动独立调查。董事会将成立由独立董事组成的委员会，并在外部独立法律顾问协助下监督调查。 英伟达董事会此前还表示，目前没有理由认为美国国家安全或英伟达的商业机密已经遭到泄露，但调查将审查所有可获得的信息。黄仁勋</description>
+      <pubDate>Wed, 11 Nov 2026 08:34:34 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373796</guid>
+      <source url="http://www.geekpark.net/news/373796">极客公园</source>
     </item>
   </channel>
 </rss>
