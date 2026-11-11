@@ -5,8 +5,64 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 14:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:18:09 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AlphaGenome 2: 教授人工智能读取整个人类基因组</title>
+      <link>https://www.youtube.com/watch?v=uND6iY2qp_c</link>
+      <description>98%的人类DNA不构建蛋白质——它控制着我们的细胞如何工作,并掌握了重要的线索,说明疾病为什么会发生,以及90%的新药物在临床试验中为何失败。 在分子层面上理解基因组是解析人类生活蓝图的关键。 在这个剧集中,韩教授(A.</description>
+      <pubDate>Wed, 11 Nov 2026 18:00:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=uND6iY2qp_c</guid>
+      <source url="https://www.youtube.com/watch?v=uND6iY2qp_c">DeepMind</source>
+    </item>
+    <item>
+      <title>Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+      <description>Google 推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，可在 150-250ms 端到端延迟内对文本、图像、音频、视频和 PDF（最多 256K tokens）一次性评估最多 1000 个是/否、多选和评分题。</description>
+      <pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
+      <source url="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/">Google Blog：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Claude Code 中如何选择 Fable 5.2 与 Opus 等模型</title>
+      <link>https://www.youtube.com/watch?v=C33hJGt-ySg</link>
+      <description>Claude 发布视频教程，讲解在 Claude Code 中何时使用 Fable 5.2、Opus 5.5，何时降级到 Sonnet 5.5 或 Haiku 5.5，以及如何把一个任务拆分给多个模型。视频覆盖复杂编码与开放式技术工作、低成本明确任务等场景，并提供在自有任务上测量各模型表现的指南链接；可用性与用量限制因套餐而异。</description>
+      <pubDate>Wed, 11 Nov 2026 17:30:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=C33hJGt-ySg</guid>
+      <source url="https://www.youtube.com/watch?v=C33hJGt-ySg">Claude：YouTube（RSS）</source>
+    </item>
+    <item>
+      <title>Google 的 Tabletop 人工智能实验允许您构建自定义协作应用程序</title>
+      <link>https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</link>
+      <description>Google 制作了一个新的实验性人工智能工具,名为 Tabletop , 生成定制的合作中心, 帮助您与家人和朋友协调。 Tabletop 平台与 Asana 和 Monday 等工作场所管理应用程序有一些视觉相似之处, 但有一个内置的人工智能功能 tha</description>
+      <pubDate>Wed, 11 Nov 2026 11:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</guid>
+      <source url="https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability">The Verge AI</source>
+    </item>
+    <item>
+      <title>a16z 提出 B2A 经济：AI 智能体正成为新的流量与分发渠道</title>
+      <link>https://www.a16z.news/p/welcome-to-the-b2a-economy</link>
+      <description>a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。</description>
+      <pubDate>Wed, 11 Nov 2026 15:02:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.a16z.news/p/welcome-to-the-b2a-economy</guid>
+      <source url="https://www.a16z.news/p/welcome-to-the-b2a-economy">a16z：News（RSS）</source>
+    </item>
+    <item>
+      <title>Google 的 AlphaGenome 2 放大了疾病的细胞根基</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</link>
+      <description>Google DeepMind的研究人员揭开了一个新的人工智能模型,该模型旨在解析我们DNA的变化如何影响不同的细胞,让科学家们对一个众所周知的困难问题有一个更详细的看法,这个问题可以掌握疾病原因的重要线索——并指明新的治疗方法。</description>
+      <pubDate>Wed, 11 Nov 2026 10:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic IPO 拟募资最高 90.4B 美元，或成史上最大上市</title>
+      <link>https://x.com/rohanpaul_ai/status/2120526677247939001</link>
+      <description>Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来自大型机构投资者的锚定级意向。公司通过 IPO 加私募配售寻求最高 $90.4B，将超过 SpaceX 的 $85.7B 纪录成为史上最大上市，完全稀释估值目标约 $1.4T；Goldman Sachs 和 Morgan Stanley 牵头共 22 家银行，股票将以 ANT 在纳斯达克全球精选市场交易。</description>
+      <pubDate>Wed, 11 Nov 2026 14:38:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120526677247939001</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2120526677247939001">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
     <item>
       <title>Adobe 的人工智能实验让你在照片中走来走去,</title>
       <link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
@@ -14,6 +70,14 @@
       <pubDate>Wed, 11 Nov 2026 09:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</guid>
       <source url="https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai">The Verge AI</source>
+    </item>
+    <item>
+      <title>Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼</title>
+      <link>https://www.ithome.com/1/025/809.htm</link>
+      <description>据彭博社报道，多名未成年受害者就 Grok 被用于把普通照片篡改成儿童性虐待材料（CSAM）对马斯克旗下 xAI 提起多起集体诉讼，律师估计符合索赔条件的受害者可能多达数千人。</description>
+      <pubDate>Wed, 11 Nov 2026 13:56:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/025/809.htm</guid>
+      <source url="https://www.ithome.com/1/025/809.htm">IT之家·人工智能</source>
     </item>
     <item>
       <title>安全公司 Claroc：94.7% 的 Grok 构建应用可被任意访问，含患者数据和 SpaceXSI 内部文件</title>
@@ -102,70 +166,6 @@
       <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.12936</guid>
       <source url="https://arxiv.org/abs/2611.12936">ArXiv AI</source>
-    </item>
-    <item>
-      <title>追踪大语言模型中的心理计量推论</title>
-      <link>https://arxiv.org/abs/2611.12937</link>
-      <description>大型语言模型是否代表内在的心理构造,还是只产生类似心理结构的输出? 我们用跨人模式来解决这个问题,跨越来自两个家庭的14个模型变体(Llama 3 a)</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12937</guid>
-      <source url="https://arxiv.org/abs/2611.12937">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Brugge 场案的辅助历史比对图谱基因模型</title>
-      <link>https://arxiv.org/abs/2611.12927</link>
-      <description>协助的历史比对仍然不独特,因为许多地质成就可以复制等效的生产反应,而单个井比对之间的差别很大。 当一个田由几个腐烂地组成时,这种模糊性就会增加。</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12927</guid>
-      <source url="https://arxiv.org/abs/2611.12927">ArXiv ML</source>
-    </item>
-    <item>
-      <title>作为可解释时间序列的自圆形概念的预测性惊喜</title>
-      <link>https://arxiv.org/abs/2611.12955</link>
-      <description>在风险敏感领域部署的时间序列分类器必须是(1) 准确的,(2) 可解释的,(3) 在证据薄弱时能够弃权。 现有方法不能同时提供全部3个,障碍是结构性的,而不是后勤的。</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12955</guid>
-      <source url="https://arxiv.org/abs/2611.12955">ArXiv ML</source>
-    </item>
-    <item>
-      <title>ADIndex: 通过组级分级索引的图层分层注意</title>
-      <link>https://arxiv.org/abs/2611.12956</link>
-      <description>DeepSeek Sparse Content(DSA)通过符号级别选择来降低关注的计算成本。然而,它的索引器仍然为每个查询给整个因果前缀打分,使索引成为长文本中一个占支配地位的延迟源</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12956</guid>
-      <source url="https://arxiv.org/abs/2611.12956">ArXiv ML</source>
-    </item>
-    <item>
-      <title>通过开发进行勘探:在个性化联邦中奖励多样性的祝福</title>
-      <link>https://arxiv.org/abs/2611.12964</link>
-      <description>尽管联邦强化学习(RL)传统上保证在同质环境中的高效,但当智能体拥有不同的目标时,协作往往受到阻碍。 在本文中,我们翻开这一范式,设定奖励的异质性。</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12964</guid>
-      <source url="https://arxiv.org/abs/2611.12964">ArXiv ML</source>
-    </item>
-    <item>
-      <title>StatPrompt-LLM: 轻量级统计完善基础-时序预测</title>
-      <link>https://arxiv.org/abs/2611.12974</link>
-      <description>时间序列预测最近出现范式转变,采用了基础式模型,使经过预先训练的大型语言架构适应相继数据。 然而,有效暴露了基本时间结构,如tr</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12974</guid>
-      <source url="https://arxiv.org/abs/2611.12974">ArXiv ML</source>
-    </item>
-    <item>
-      <title>从相关职位到可归属的斯班人:抑郁症问卷推论的明显症状证据</title>
-      <link>https://arxiv.org/abs/2611.12900</link>
-      <description>纵向的社会-媒体历史为评估抑郁症提供了一个机会,有可能支持标准化抑郁症问卷答复的推论。</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12900</guid>
-      <source url="https://arxiv.org/abs/2611.12900">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>在斯派克斯进行再思考:用步骤-软件解码来缓解MDLMs中的幻觉</title>
-      <link>https://arxiv.org/abs/2611.12901</link>
-      <description>最近,在多模态语言模型(MDLMs)方面的进步通过迭代改进显示出强大的全球建模能力。</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12901</guid>
-      <source url="https://arxiv.org/abs/2611.12901">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
