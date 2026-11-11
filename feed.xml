@@ -5,8 +5,56 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 05:59:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:04:37 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Adobe 的人工智能实验让你在照片中走来走去,</title>
+      <link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
+      <description>Adobe在每年的Max年会上展示的一些最令人印象深刻的技术是它正在开发的实验功能,最新的这些工具今天被宣布:它们可以将图像转化为可扩展的3D场景,通过和它们交谈来设计人工智能人物,并转出p.</description>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</guid>
+      <source url="https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai">The Verge AI</source>
+    </item>
+    <item>
+      <title>安全公司 Claroc：94.7% 的 Grok 构建应用可被任意访问，含患者数据和 SpaceXSI 内部文件</title>
+      <link>https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/</link>
+      <description>安全公司 Claroc 报告称，在检查的 37,571 个仍在线的 Grok 构建应用中，35,578 个（94.7%）无需登录即可访问，原因是发布对话框默认预选"Anyone with the link"，且每个应用的独立子域名会进入可检索的 passive DNS 数据库。</description>
+      <pubDate>Wed, 11 Nov 2026 12:53:07 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/</guid>
+      <source url="https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>OpenAI Q3 营收达 100 亿美元，效率仍落后于 Anthropic</title>
+      <link>https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/</link>
+      <description>据《华尔街日报》和 The Information 报道，OpenAI Q3 环比增长约 50% 至 100 亿美元，但调整后经营亏损从 101 亿升至 109 亿美元。</description>
+      <pubDate>Wed, 11 Nov 2026 12:12:47 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/</guid>
+      <source url="https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>曝字节要做「中国版 Muse」，给豆包造个「超级大脑」</title>
+      <link>https://www.ifanr.com/1689016?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>豆包走出屏幕#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 11 Nov 2026 11:52:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1689016?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1689016?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下一代的常识</title>
+      <link>https://www.ifanr.com/1688897?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>人不能、至少不应该把严谨的自然科学当成 AI 技能大赛现场#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 11 Nov 2026 07:03:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1688897?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1688897?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>卷起来了！11月11日，大模型厂商在天猫打5折</title>
+      <link>https://www.qbitai.com/2026/11/509085.html</link>
+      <description>大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。</description>
+      <pubDate>Wed, 11 Nov 2026 06:18:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509085.html</guid>
+      <source url="https://www.qbitai.com/2026/11/509085.html">量子位</source>
+    </item>
     <item>
       <title>WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权</title>
       <link>https://x.com/rohanpaul_ai/status/2120392847505715324</link>
@@ -118,54 +166,6 @@
       <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.12901</guid>
       <source url="https://arxiv.org/abs/2611.12901">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>TimeOmni-o1:双向对接时间系列基础模型和多模态理由和预测的有限责任模型</title>
-      <link>https://arxiv.org/abs/2611.12902</link>
-      <description>来自现实世界系统的时间序列往往伴有文本,例如关于影响它们的事件的报告。这些序列的两个共同任务是理解,例如回答关于一个序列的问题,以及预测其未来的值。</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12902</guid>
-      <source url="https://arxiv.org/abs/2611.12902">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>SELD: 在解答以外的上下文压缩中检测无声证据损失</title>
-      <link>https://arxiv.org/abs/2611.12903</link>
-      <description>对输入较长的语言模型来说,上下文压缩现在是例行公事,但压缩上下文只有在为答案保留证据的情况下才有用。 现有的检查比较了阅读器模型的答案或其最可能的单词,从而错过了花纹</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12903</guid>
-      <source url="https://arxiv.org/abs/2611.12903">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>可操作反馈:通过用户编辑临床文献数据改进模型能力</title>
-      <link>https://arxiv.org/abs/2611.12904</link>
-      <description>大型语言模型(LLMS)越来越多地被部署在临床文献工作流程中,临床医生在使用前审查和编辑其产出。 原则上,这些临床医生的编辑是模型traini可扩展的监督来源。</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12904</guid>
-      <source url="https://arxiv.org/abs/2611.12904">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Anthropic 修订版 S1 文件披露与 Microsoft 和 Google 超 100 亿美元级新算力协议</title>
-      <link>https://x.com/rohanpaul_ai/status/2120369586096976098</link>
-      <description>Anthropic 在当日修订的 S1 文件中披露与 Microsoft 和 Google 达成超 100 亿美元的新协议。Microsoft 承诺到 2033 年 6 月支出至少 472 亿、最高 492 亿美元，Google 最低承诺从约 1145 亿升至约 1213 亿美元，两笔均不可撤销、无论是否使用容量都须付款。文件还提到上季度短期算力支出 50 亿美元且价格明显更高。</description>
-      <pubDate>Wed, 11 Nov 2026 04:14:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120369586096976098</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2120369586096976098">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>Anthropic 投资需求火热，承销商拟将 IPO 目标估值上调回 $1.5T 或更高</title>
-      <link>https://x.com/rohanpaul_ai/status/2120320127484969162</link>
-      <description>FT 报道，因投资者需求旺盛，Anthropic 承销商计划上调 IPO 定价，把目标估值拉回 $1.5T 或更高。周二文件设定 $70-$78 的发行区间，计入员工期权和受限股后对应 $1.26T-$1.41T 估值；若定价超出区间，募资将超过 $100B，其中 Google、Nvidia 和 Microsoft 将按 IPO 价格投资 $26B。</description>
-      <pubDate>Wed, 11 Nov 2026 00:58:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120320127484969162</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2120320127484969162">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员</title>
-      <link>http://www.geekpark.net/news/373796</link>
-      <description>英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件 11 月 11 日消息，英伟达发布公告，宣布已聘请美国前联邦检察官金正贤（Joon H. Kim）及其所在的律师事务所 Wachtell, Lipton, Rosen &amp;amp; Katz，负责开展一项全面、独立的调查。 此前，英伟达董事会表示，鉴于近期有关公司创始人兼 CEO 黄仁勋可能成为外国情报机构目标的报道，董事会决定启动独立调查。董事会将成立由独立董事组成的委员会，并在外部独立法律顾问协助下监督调查。 英伟达董事会此前还表示，目前没有理由认为美国国家安全或英伟达的商业机密已经遭到泄露，但调查将审查所有可获得的信息。黄仁勋</description>
-      <pubDate>Wed, 11 Nov 2026 08:34:34 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373796</guid>
-      <source url="http://www.geekpark.net/news/373796">极客公园</source>
     </item>
   </channel>
 </rss>
