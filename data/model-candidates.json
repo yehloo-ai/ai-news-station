@@ -1223,5 +1223,23 @@
     "summary": "Claude 官方视频介绍 Claude Mythos 5.2 预测了完整 AAV 衣壳结构，即用于递送基因治疗的蛋白质外壳。模型编写代码在相邻五链分组上运行开源折叠模型，再利用衣壳对称性拼合全部 60 条链；在 AAV2 上预测结果与实验结构误差约为一个原子宽度。",
     "sourceUrl": "https://www.youtube.com/watch?v=FMbXUxn_nBw",
     "sourceName": "Claude：YouTube（RSS）"
+  },
+  {
+    "observedDate": "2026-11-11",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "MiniMax 发布开源图像生成模型 H3-Image，10 秒内生成 4K 图像",
+    "summary": "MiniMax 发布基于 H3 的开源权重图像生成模型 H3-Image，支持文生图、参考图生成和图像编辑，可生成 4096 × 4096 的 4K 图像，速度最高达主流方案的 5 倍。",
+    "sourceUrl": "https://www.minimax.io/blog/minimax-h3-image",
+    "sourceName": "MiniMax：Blog（网页）"
+  },
+  {
+    "observedDate": "2026-11-11",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Anthropic 发布 Claude Whiteboards 和 Claude Sheets，Claude Dashboards 转正为 Claude Data",
+    "summary": "Anthropic 推出 Claude Whiteboards 和 Claude Sheets 测试版，Claude Dashboards 正式可用并更名为 Claude Data，三款产品面向所有付费计划开放。",
+    "sourceUrl": "https://claude.com/blog/sheets-whiteboards-data",
+    "sourceName": "Claude：Blog（网页）"
   }
 ]

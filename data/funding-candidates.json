@@ -465,5 +465,23 @@
     "summary": "据 Bloomberg，OpenAI 完成 110 亿美元新融资，这是估值 1.25 万亿美元一轮的首笔资金。投资者当日已打款，剩余部分总额最高 200 亿美元，预计数周内到账。",
     "sourceUrl": "https://x.com/rohanpaul_ai/status/2118813225336873181",
     "sourceName": "X：Rohan Paul (@rohanpaul_ai)"
+  },
+  {
+    "observedDate": "2026-11-11",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Anthropic 启动 IPO 路演，拟发行 8.25 亿股 A 类普通股并申请以代码 ANT 上市纳斯达克",
+    "summary": "Anthropic 启动拟议 IPO 路演，拟发行 825,000,000 股 A 类普通股，其中 801,351,354 股由 Anthropic 发售、23,648,646 股由部分现有股东出售，Anthropic 不获后者出售所得款项。",
+    "sourceUrl": "https://www.anthropic.com/news/roadshow-launch",
+    "sourceName": "Anthropic：Newsroom（网页）"
+  },
+  {
+    "observedDate": "2026-11-11",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Stripe 收购 OpenRouter，双方宣布合并后定位",
+    "summary": "OpenRouter 官方宣布正式并入 Stripe。OpenRouter 称有超过 1000 万开发者和公司使用其平台，它为多模型、多 provider 的 AI 运行提供基础设施，包括访问新模型、故障期间保持可用，以及为团队执行支出和数据策略。",
+    "sourceUrl": "https://x.com/OpenRouter/status/2120234542183395787",
+    "sourceName": "X：OpenRouter (@OpenRouter)"
   }
 ]
