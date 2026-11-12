@@ -5,8 +5,48 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 21:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:53:01 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>苹果突然永久关闭官方「支持社区」；字节即将推出个人 AI 助手；华为新品牌星芒 OSTA 曝光 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/373839</link>
+      <description>苹果官方社区即将永久关闭 11 月 11 日，苹果官网突然宣布，Apple 支持社区将于 2026 年 11 月 20 日永久关闭。即日起，社区将不再接受新帖子，并转为只读模式。用户仍可前往官方 Apple 支持网站，获取值得信赖的指导和帮助。 苹果公告称，我们衷心感谢各位社区成员一直以来贡献宝贵的时间和专业知识，帮助其他用户解决 Apple 产品使用中遇到的问题。（来源：新浪科技） 消息称字节跳动发力智能体赛道，计划推出类似 Meta Muse 的 AI 助手 11 月 11 日消息，据彭博社报道，字节跳动计划在未来几周内推出一款类似 Meta Muse 的 AI 助手，巩固其在 AI 视频</description>
+      <pubDate>Thu, 12 Nov 2026 08:39:27 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373839</guid>
+      <source url="http://www.geekpark.net/news/373839">极客公园</source>
+    </item>
+    <item>
+      <title>OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题</title>
+      <link>https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/</link>
+      <description>OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/</guid>
+      <source url="https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/">OpenRouter：Announcements（RSS）</source>
+    </item>
+    <item>
+      <title>WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋</title>
+      <link>https://x.com/rohanpaul_ai/status/2120663635479625930</link>
+      <description>WSJ 报道，Nvidia 董事会此前公开支持黄仁勋，如今接近决定是否罢免这位创始人 CEO。起因是黄仁勋与一名被指为中国情报人员的女子交往，随后又曝出与一名 Nvidia 员工的第二段婚外情；周日开始独立调查时董事会表示没有理由认为 Nvidia 机密泄露。</description>
+      <pubDate>Wed, 11 Nov 2026 23:43:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120663635479625930</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2120663635479625930">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可</title>
+      <link>https://runwayml.com/news/company-news/praxis-1-is-now-available</link>
+      <description>Runway 宣布世界动作模型 Praxis-1 以 Apache 2.0 开放权重面向所有人开放。该模型为 27B 参数 MoE 扩散 Transformer，同时预测视频与动作，在 NVIDIA RoboLab-120 榜单以 46.2% 成功率居首，超过 FLUX 3 Action（42.9%）、Cosmos3 Nano（36.8%）和 π0.5（28.0%）。</description>
+      <pubDate>Wed, 11 Nov 2026 23:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://runwayml.com/news/company-news/praxis-1-is-now-available</guid>
+      <source url="https://runwayml.com/news/company-news/praxis-1-is-now-available">Runway：News（网页）</source>
+    </item>
+    <item>
+      <title>曼联不会让你的人工智能特工 预订你的航班</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</link>
+      <description>曼联称不会让个人人工智能助理在航空公司订票,同时引用隐私和监管方面的顾虑. 公司称还没有看到许多人试图利用人工智能特工来订票,"华尔街日报"报道,根据其他企业的观察,比如"华尔街日报"(The Wall Street Journal reports).</description>
+      <pubDate>Wed, 11 Nov 2026 16:54:21 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents">The Verge AI</source>
+    </item>
     <item>
       <title>AlphaGenome 2: 教授人工智能读取整个人类基因组</title>
       <link>https://www.youtube.com/watch?v=uND6iY2qp_c</link>
@@ -88,6 +128,14 @@
       <source url="https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/">The Decoder：AI News（RSS）</source>
     </item>
     <item>
+      <title>纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了</title>
+      <link>https://www.qbitai.com/2026/11/509224.html</link>
+      <description>模型即将开源</description>
+      <pubDate>Wed, 11 Nov 2026 12:43:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509224.html</guid>
+      <source url="https://www.qbitai.com/2026/11/509224.html">量子位</source>
+    </item>
+    <item>
       <title>OpenAI Q3 营收达 100 亿美元，效率仍落后于 Anthropic</title>
       <link>https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/</link>
       <description>据《华尔街日报》和 The Information 报道，OpenAI Q3 环比增长约 50% 至 100 亿美元，但调整后经营亏损从 101 亿升至 109 亿美元。</description>
@@ -118,54 +166,6 @@
       <pubDate>Wed, 11 Nov 2026 06:18:09 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/11/509085.html</guid>
       <source url="https://www.qbitai.com/2026/11/509085.html">量子位</source>
-    </item>
-    <item>
-      <title>WSJ：Anthropic 7 位创始人 IPO 各套现约 2.5 亿美元并保留控制权</title>
-      <link>https://x.com/rohanpaul_ai/status/2120392847505715324</link>
-      <description>WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票，每人保留约 180 亿美元持仓。据公司文件，每人出售近 3.4M 股，发行价区间预计 70 至 78 美元，上市预计下周进行，估值接近 1.3 万亿美元，募资 800 亿美元以上，部分通过包括 Google 在内的私募配售。</description>
-      <pubDate>Wed, 11 Nov 2026 05:47:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120392847505715324</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2120392847505715324">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>当美国无法建设数据中心，会对 AI 产生怎样的冲击</title>
-      <link>http://www.geekpark.net/news/373816</link>
-      <description>作者｜Techno 之王 编辑｜靖宇 2026 年 11 月 4 日，美国中期选举结果落定后的第二天上午，OpenAI 的高管们坐到了一起。 据外媒援引知情人士的消息，他们讨论的是要不要重设 2027 年的数据中心容量预期。讨论还没有形成决定，但焦虑已经摆上了台面。 过去几个月，美国各地的大型数据中心项目接连被按下暂停键。得州前任州长 Abbott 从 8 月起冻结了数据中心的并网和空气许可，要求审计到年底；新当选的州长 Gina Hinojosa 承诺，在州议会立法保护居民之前，暂停所有新数据中心审批，而议会会期要到 2027 年 5 月才结束。 俄亥俄新州长 Amy Acton 提出有条件</description>
-      <pubDate>Wed, 11 Nov 2026 13:23:24 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373816</guid>
-      <source url="http://www.geekpark.net/news/373816">极客公园</source>
-    </item>
-    <item>
-      <title>负责自主X光实验的可审计人类代理团队</title>
-      <link>https://arxiv.org/abs/2611.12933</link>
-      <description>闭路自发实验可以加速科学发现,但执行努力限制了无障碍性。 代理系统可以降低这一障碍,尽管对物理仪器的持续操作基本上仍未加以探索。 这里,u</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12933</guid>
-      <source url="https://arxiv.org/abs/2611.12933">ArXiv AI</source>
-    </item>
-    <item>
-      <title>地球记录:从像素到四十年来的多模式代理的地表变化</title>
-      <link>https://arxiv.org/abs/2611.12934</link>
-      <description>虽然多模态代理人现在利用各种工具进行复杂的数据分析,但他们将数十年的卫星图像转化为可靠的地变分析的能力仍然没有得到衡量,这对地球观测科学至关重要。</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12934</guid>
-      <source url="https://arxiv.org/abs/2611.12934">ArXiv AI</source>
-    </item>
-    <item>
-      <title>关于预填的列车, 解码时的监视器: 使用稀疏的自动编码器进行主题监测</title>
-      <link>https://arxiv.org/abs/2611.12935</link>
-      <description>主题监测的任务是在模型生成时的反应中标出每个代号的标注主题. 以激活为基础的监测器在生成时运行至今已经经过了检测有害内容的培训,并且仅限于两到三个课程.</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12935</guid>
-      <source url="https://arxiv.org/abs/2611.12935">ArXiv AI</source>
-    </item>
-    <item>
-      <title>山体滑坡FM:促进统一地道滑坡认识和理解的基础模型</title>
-      <link>https://arxiv.org/abs/2611.12936</link>
-      <description>智能山体滑坡探测对防灾至关重要,但现有模型主要侧重于孤立的视觉任务,需要大量贴有标签的数据,并缺乏深刻的分析能力和现场了解能力。</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.12936</guid>
-      <source url="https://arxiv.org/abs/2611.12936">ArXiv AI</source>
     </item>
   </channel>
 </rss>
