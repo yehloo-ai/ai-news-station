@@ -5,8 +5,144 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:50:23 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%</title>
+      <link>https://x.com/mattyp/status/2120945253666762973</link>
+      <description>作者以「爱好包括制作 og:images」调侃，配图为 CursorBench 4.0 的模型散点图；其引用 Cursor 官方内容称 Gemini 4 Hydrogen 现已在 Cursor 上线，默认 effort 下 CursorBench 得分 54.3%，高于 Gemini 3.8 Flash 的 39.6%。</description>
+      <pubDate>Thu, 12 Nov 2026 18:22:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mattyp/status/2120945253666762973</guid>
+      <source url="https://x.com/mattyp/status/2120945253666762973">X：Matt Palmer（SpaceXSI，Grok Bot） (@mattyp)</source>
+    </item>
+    <item>
+      <title>World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats</title>
+      <link>https://x.com/drfeifei/status/2120942509786558671</link>
+      <description>World Labs 宣布 Atlas 世界模型向所有人开放，李飞飞转发并表达期待用户用它构建的内容。官方为用户提供了应用和 API 端点，可用 Atlas 生成关键帧、视频片段或 3D Gaussian splats。</description>
+      <pubDate>Thu, 12 Nov 2026 18:11:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/drfeifei/status/2120942509786558671</guid>
+      <source url="https://x.com/drfeifei/status/2120942509786558671">X：Fei-Fei Li (@drfeifei, World Labs)</source>
+    </item>
+    <item>
+      <title>Artificial Analysis 评测 Gemini 4 Hydrogen：智能指数 54，接近 Sonnet 5.5 且成本约其 32%</title>
+      <link>https://x.com/ArtificialAnlys/status/2120941511223185722</link>
+      <description>Artificial Analysis 评测 Google 新发布的 Gemini 4 Hydrogen：新增 xhigh 推理档在 Intelligence Index 得 54 分，比 Claude Sonnet 5.5 (max) 和 GPT-6.1 Sol (max) 低 1 分，每任务成本约为 Sonnet 的 32%，但约为 GPT-6.1 Sol 的 2.5 倍。</description>
+      <pubDate>Thu, 12 Nov 2026 18:07:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2120941511223185722</guid>
+      <source url="https://x.com/ArtificialAnlys/status/2120941511223185722">X：Artificial Analysis (@ArtificialAnlys)</source>
+    </item>
+    <item>
+      <title>SemiAnalysis 分析黄仁勋辞任 Nvidia 后的公司前景与对华芯片管制走向</title>
+      <link>https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen</link>
+      <description>Dylan Patel 在 SemiAnalysis 长文中分析黄仁勋不再担任 Nvidia CEO 的影响，认为其辞职与 GPU 大规模走私及美国情报界的推动有关，RASA 法案已在众议院以 369 票对 22 票通过，参议院表决正在进行。</description>
+      <pubDate>Thu, 12 Nov 2026 18:06:26 +0000</pubDate>
+      <guid isPermaLink="true">https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen</guid>
+      <source url="https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen">SemiAnalysis 长文 RSS（RSS）</source>
+    </item>
+    <item>
+      <title>Google Gemini 开放推送，覆盖开发者、企业与普通用户渠道</title>
+      <link>https://x.com/GoogleDeepMind/status/2120940342505566438</link>
+      <description>Google DeepMind 宣布开始向各渠道推送：开发者可在 Google AI Studio、Android Studio 中用 Gemini API，付费 Google AI Pro 和 Ultra 订阅者可在 Google Antigravity 中使用；企业可通过 Gemini for business 和 Google Antigravity 部署；所有用户可在 Google Search 和 Gemini 应用模型下拉菜单中访问。详情见 https://goo.gle/4zDCs8N。</description>
+      <pubDate>Thu, 12 Nov 2026 18:02:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GoogleDeepMind/status/2120940342505566438</guid>
+      <source url="https://x.com/GoogleDeepMind/status/2120940342505566438">X：Google DeepMind (@GoogleDeepMind)</source>
+    </item>
+    <item>
+      <title>Google DeepMind 发布 Gemini 4 Hydrogen</title>
+      <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
+      <description>Google DeepMind 发布 Gemini 4 Hydrogen，定位快速执行日常编码与智能体工作流，面向 Gemini API、AI Studio、Gemini 应用、Google Search 等全层级开放。</description>
+      <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
+      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
+      <source url="https://deepmind.google/blog/introducing-gemini-4-hydrogen/">Google DeepMind：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>The Verge 分析黄仁勋辞职与 Nvidia 芯片走私疑云</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling</link>
+      <description>The Verge 作者 Elizabeth Lopatto 分析 Nvidia 宣布黄仁勋辞职一事，认为第二桩婚外情只是导火索，真正原因或与芯片走私指控有关。</description>
+      <pubDate>Thu, 12 Nov 2026 17:44:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>人工智能聊天员建议 假零售网站,研究发现</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations</link>
+      <description>使用人工智能聊天器来研究产品或寻找购买物品的场所的店员可以被引导到冒名顶替者和其他有风险的网站,这是一份新发现的研究。 IP保护公司Podqi进行并专门与The Verge分享的研究促使了ChatGPT、双子座和Perplexity与少数sho</description>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations">The Verge AI</source>
+    </item>
+    <item>
+      <title>更多游戏开发者开始使用基因人工智能</title>
+      <link>https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs</link>
+      <description>根据GDC Gaming最新年度产业调查, 更多电子游戏开发商在工作中使用基因人工智能工具, 40%接受调查的开发商表示使用该工具"作为其工作的一部分", 比2025年的36%有所增加。 使用率更高 wi</description>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs</guid>
+      <source url="https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs">The Verge AI</source>
+    </item>
+    <item>
+      <title>Replit Agent 新增代购能力和 Google Ads 投放功能</title>
+      <link>https://replit.com/blog/replit-agent-ads-commerce</link>
+      <description>Replit 给 Replit Agent 新增两项能力：通过 Stripe Link 和 Visa 为企业代购物资，以及在 Replit 内直接创建和投放 Google Ads 覆盖 Search、YouTube 等渠道。</description>
+      <pubDate>Thu, 12 Nov 2026 16:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://replit.com/blog/replit-agent-ads-commerce</guid>
+      <source url="https://replit.com/blog/replit-agent-ads-commerce">Replit：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>黄仁勋辞职后，Nvidia 与 AI 热潮的未来走向分析</title>
+      <link>https://www.exponentialview.co/p/jensen-huang-and-the-future-of-the</link>
+      <description>Azeem Azhar 分析黄仁勋辞任 Nvidia CEO 后的影响，CFO Colette Kress 将临时接任。他指出 Nvidia 五年间售出近 1400 万颗旗舰 AI 芯片、占市场 85%，并向 neocloud 提供财务担保、过去一年在欧洲投资近 100 亿美元；与乔布斯离任时不同，公司没有准备好的继任者，而黄仁勋本人一直是 AI 生态的关键纽带。</description>
+      <pubDate>Thu, 12 Nov 2026 16:19:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.exponentialview.co/p/jensen-huang-and-the-future-of-the</guid>
+      <source url="https://www.exponentialview.co/p/jensen-huang-and-the-future-of-the">Azeem Azhar：Exponential View（RSS）</source>
+    </item>
+    <item>
+      <title>Epoch AI 分析华为和林格尔数据中心，揭示中美算力差距</title>
+      <link>https://epochai.substack.com/p/what-huaweis-horinger-data-center</link>
+      <description>Epoch AI 通过卫星影像和冷却设备模型估算，华为和林格尔数据中心已投运约 105,000 颗 Ascend 910C 和 8,000 颗 Ascend 910B 芯片，对应约 81,000 H100 等效算力，为全球最大 AI 数据中心 SpaceX Colossus 2 的约 7%。</description>
+      <pubDate>Thu, 12 Nov 2026 16:03:15 +0000</pubDate>
+      <guid isPermaLink="true">https://epochai.substack.com/p/what-huaweis-horinger-data-center</guid>
+      <source url="https://epochai.substack.com/p/what-huaweis-horinger-data-center">Epoch AI：Gradient Updates（RSS）</source>
+    </item>
+    <item>
+      <title>Figma 3D transforms 开放测试上线，品牌团队分享用它制作发布视频的过程</title>
+      <link>https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/</link>
+      <description>Figma 宣布 3D transforms 进入 open beta，面向所有 Full seat 用户开放，可用 3D transform 和 perspective 效果在空间中倾斜、旋转和排布文本、图像、矢量与框架，效果非破坏性，原稿保持可编辑。</description>
+      <pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/</guid>
+      <source url="https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/">Figma AI / Agent / Make</source>
+    </item>
+    <item>
+      <title>NVIDIA 宣布 CEO 变动：Jensen Huang 辞任，CFO Colette Kress 出任临时 CEO</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</link>
+      <description>NVIDIA 董事会宣布 Jensen Huang 即刻辞去总裁、CEO 及董事职务，CFO Colette Kress 被任命为临时 CEO，直至选定永久继任者，董事会已启动内外部人选遴选。</description>
+      <pubDate>Thu, 12 Nov 2026 13:48:00 +0000</pubDate>
+      <guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</guid>
+      <source url="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition">NVIDIA：Newsroom（RSS）</source>
+    </item>
+    <item>
+      <title>DeepMind的人工智能只是做了不可能的事</title>
+      <link>https://www.youtube.com/watch?v=gPNiuyYirfw</link>
+      <description>❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/ https://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf 🙏 We would like to thank our</description>
+      <pubDate>Thu, 12 Nov 2026 13:41:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=gPNiuyYirfw</guid>
+      <source url="https://www.youtube.com/watch?v=gPNiuyYirfw">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛</title>
+      <link>https://www.qbitai.com/2026/11/509440.html</link>
+      <description>「CAD拆解」</description>
+      <pubDate>Thu, 12 Nov 2026 11:36:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509440.html</guid>
+      <source url="https://www.qbitai.com/2026/11/509440.html">量子位</source>
+    </item>
+    <item>
+      <title>Anthropic 官宣首次公开募股（IPO）</title>
+      <link>https://x.com/AnthropicAI/status/2120841731302154708</link>
+      <description>Anthropic 官方宣布启动首次公开募股（IPO），并公布入口 ipo.anthropic.com。Anthropic 已向 SEC 提交注册声明及招股说明书，证券在注册声明生效前不得出售，初步招股说明书可经高盛与摩根士丹利获取。</description>
+      <pubDate>Thu, 12 Nov 2026 11:30:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AnthropicAI/status/2120841731302154708</guid>
+      <source url="https://x.com/AnthropicAI/status/2120841731302154708">X：Anthropic (@AnthropicAI)</source>
+    </item>
     <item>
       <title>iPhone Siri AI 体验：距离真正的 AI Phone，苹果还有多远？| 附开通指南</title>
       <link>https://www.ifanr.com/1688980?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -16,156 +152,20 @@
       <source url="https://www.ifanr.com/1688980?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>节假日特长的解锁程序</title>
-      <link>https://www.youtube.com/watch?v=vu3YlUMkvyg</link>
-      <description>当理解你的客户的人能够建立软件帮助他们时会发生什么?在假日特派店,Codex正在帮助将这一抱负转化为现实 — — 从两周后重建主要应用到更快地回应客户反馈。 听听CEOMatthew Pack、David Lee和Liam Thomp是如何实现的。</description>
-      <pubDate>Thu, 12 Nov 2026 09:45:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=vu3YlUMkvyg</guid>
-      <source url="https://www.youtube.com/watch?v=vu3YlUMkvyg">OpenAI</source>
+      <title>从通用大模型到学习过程智能，AI如何真正进入课堂？</title>
+      <link>https://www.qbitai.com/2026/11/509404.html</link>
+      <description>银河智学首席科学家邓澍军博士发表主题演讲</description>
+      <pubDate>Thu, 12 Nov 2026 10:45:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509404.html</guid>
+      <source url="https://www.qbitai.com/2026/11/509404.html">量子位</source>
     </item>
     <item>
-      <title>接入多款第三方模型，豆包工作也模型自由了</title>
-      <link>http://www.geekpark.net/news/373881</link>
-      <description>&amp;nbsp; 头图来源：豆包工作官网 豆包工作也模型自由了。 11 月 12 日，豆包工作宣布接入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型，支持用户按需选型完成任务。同步在模型选择页面标注各模型额度消耗倍率，倍率越低消耗越少，便于用户结合任务需求与使用成本做决策。 同时平台推出两项限时优惠：一是工作日及节假日的指定时段内，使用活动模型可享受额度消耗折扣；二是豆包 2.1 Lite、DeepSeek V4.1 Flash 两款模型限时下调额度消耗倍率，同等任务消耗额度更少。 一、补全多模型，解决「有的选」 本轮更新中，豆包工作一次性接</description>
-      <pubDate>Thu, 12 Nov 2026 16:24:17 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373881</guid>
-      <source url="http://www.geekpark.net/news/373881">极客公园</source>
-    </item>
-    <item>
-      <title>刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了</title>
-      <link>https://www.ifanr.com/1689176?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>国产大模型开始组团办公#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 12 Nov 2026 04:50:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1689176?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1689176?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>体验「跟拍机器人」Beni：谁不想要一个不会喊累还会拍照的出行搭子</title>
-      <link>http://www.geekpark.net/news/373860</link>
-      <description>作者 | siqi 编辑 | 郑玄 &amp;nbsp; 在智能硬件和具身圈里，可能是今年最受关注的产品之一 Beni 终于开售了。 我第一次听说 Beni，是今年上半年，这款产品背后的创业团队妙动科技拿到了包括经纬、红杉、美团的多轮投资。他们的两位核心合伙人，一位是前大疆（DJI）高管，另一位曾先后任大疆技术总监和特斯拉 Optimus 人形机器人团队核心算法与控制工程师。可以说兼具硬件和具身背景。 到了 8 月份，Hardwire 的伙伴 Founder Park 在新加坡组织了一场 AI 线下活动，影石的创始人刘靖康现场分享了对打造「CameraMan」（影像机器人）的想法&amp;mdash;&amp;mda</description>
-      <pubDate>Thu, 12 Nov 2026 11:44:41 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373860</guid>
-      <source url="http://www.geekpark.net/news/373860">极客公园</source>
-    </item>
-    <item>
-      <title>苹果突然永久关闭官方「支持社区」；字节即将推出个人 AI 助手；华为新品牌星芒 OSTA 曝光 | 极客早知道</title>
-      <link>http://www.geekpark.net/news/373839</link>
-      <description>苹果官方社区即将永久关闭 11 月 11 日，苹果官网突然宣布，Apple 支持社区将于 2026 年 11 月 20 日永久关闭。即日起，社区将不再接受新帖子，并转为只读模式。用户仍可前往官方 Apple 支持网站，获取值得信赖的指导和帮助。 苹果公告称，我们衷心感谢各位社区成员一直以来贡献宝贵的时间和专业知识，帮助其他用户解决 Apple 产品使用中遇到的问题。（来源：新浪科技） 消息称字节跳动发力智能体赛道，计划推出类似 Meta Muse 的 AI 助手 11 月 11 日消息，据彭博社报道，字节跳动计划在未来几周内推出一款类似 Meta Muse 的 AI 助手，巩固其在 AI 视频</description>
-      <pubDate>Thu, 12 Nov 2026 08:39:27 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373839</guid>
-      <source url="http://www.geekpark.net/news/373839">极客公园</source>
-    </item>
-    <item>
-      <title>OpenRouter 详解自纠错网站本地化流水线：GPT-6.1 Sol 翻译 7 种语言全站约 $460</title>
-      <link>https://openrouter.ai/blog/announcements/openrouter-in-8-languages/</link>
-      <description>OpenRouter 上线简体中文、日语等 7 种语言 Beta 本地化，并详解配套的自纠错翻译流水线：GPT-6.1 Sol 翻译 16,918 条字符串，经代码检查、同模型校验和每日 AI 审查重试，最坏情况每条约 20 次模型调用。全站重译 7 种语言约 $460，约为 Smartling 机器翻译牌价的 6%，错误报告会转化为术语规则、风格注释或评测用例。</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openrouter.ai/blog/announcements/openrouter-in-8-languages/</guid>
-      <source url="https://openrouter.ai/blog/announcements/openrouter-in-8-languages/">OpenRouter：Announcements（RSS）</source>
-    </item>
-    <item>
-      <title>OpenRouter 实测六模型并给出四层防护，解决 AI Agent 无限循环烧钱问题</title>
-      <link>https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/</link>
-      <description>OpenRouter 发布教程，讲解 AI Agent 因工具反复失败而陷入无限循环的成因，并给出四层防护：doom-loop 检测、loopKey 参数归一化、stopWhen 步数与成本上限、API key 信用额度。</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/</guid>
-      <source url="https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/">OpenRouter：Announcements（RSS）</source>
-    </item>
-    <item>
-      <title>WSJ 报道 Nvidia 董事会接近决定是否罢免 CEO 黄仁勋</title>
-      <link>https://x.com/rohanpaul_ai/status/2120663635479625930</link>
-      <description>WSJ 报道，Nvidia 董事会此前公开支持黄仁勋，如今接近决定是否罢免这位创始人 CEO。起因是黄仁勋与一名被指为中国情报人员的女子交往，随后又曝出与一名 Nvidia 员工的第二段婚外情；周日开始独立调查时董事会表示没有理由认为 Nvidia 机密泄露。</description>
-      <pubDate>Wed, 11 Nov 2026 23:43:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120663635479625930</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2120663635479625930">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可</title>
-      <link>https://runwayml.com/news/company-news/praxis-1-is-now-available</link>
-      <description>Runway 宣布世界动作模型 Praxis-1 以 Apache 2.0 开放权重面向所有人开放。该模型为 27B 参数 MoE 扩散 Transformer，同时预测视频与动作，在 NVIDIA RoboLab-120 榜单以 46.2% 成功率居首，超过 FLUX 3 Action（42.9%）、Cosmos3 Nano（36.8%）和 π0.5（28.0%）。</description>
-      <pubDate>Wed, 11 Nov 2026 23:25:00 +0000</pubDate>
-      <guid isPermaLink="true">https://runwayml.com/news/company-news/praxis-1-is-now-available</guid>
-      <source url="https://runwayml.com/news/company-news/praxis-1-is-now-available">Runway：News（网页）</source>
-    </item>
-    <item>
-      <title>曼联不会让你的人工智能特工 预订你的航班</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</link>
-      <description>曼联称不会让个人人工智能助理在航空公司订票,同时引用隐私和监管方面的顾虑. 公司称还没有看到许多人试图利用人工智能特工来订票,"华尔街日报"报道,根据其他企业的观察,比如"华尔街日报"(The Wall Street Journal reports).</description>
-      <pubDate>Wed, 11 Nov 2026 16:54:21 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents">The Verge AI</source>
-    </item>
-    <item>
-      <title>如何请求和启用 Daybreak 蓝色</title>
-      <link>https://www.youtube.com/watch?v=NS220dAaRMo</link>
-      <description>学习如何请求访问 Daybreak Blue 并启用它用于您的工作空间和 API 组织。 这样的行进覆盖了业务验证、 工作空间权限、 基于角色的访问控制和 Codex 的确认访问。 您也会看到如何设置一个工程和 API 自动化密钥 。</description>
-      <pubDate>Wed, 11 Nov 2026 21:10:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=NS220dAaRMo</guid>
-      <source url="https://www.youtube.com/watch?v=NS220dAaRMo">OpenAI</source>
-    </item>
-    <item>
-      <title>如何使公关安全审查与Codex安全</title>
-      <link>https://www.youtube.com/watch?v=vdBDMj2UhDg</link>
-      <description>将安全审查与 Codex Security 一起带入拖动请求工作流程。 学习如何检查您的 GitHub 连接, 请求审查, 通过修正工作, 并再次审查更改 。 然后为您的存储库配置自动审查, 包括触发和重度阈值 。</description>
-      <pubDate>Wed, 11 Nov 2026 21:10:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=vdBDMj2UhDg</guid>
-      <source url="https://www.youtube.com/watch?v=vdBDMj2UhDg">OpenAI</source>
-    </item>
-    <item>
-      <title>ChatGPT 图像: 启动的三种方式</title>
-      <link>https://www.youtube.com/watch?v=CrrpfvbNyMw</link>
-      <description>ChatGPT 图像允许您直接在 ChatGPT 内部创建新的图像并编辑已有的图像。 将普通语言的提示转换为原始图像, 探索不同的视觉方向。 在此视频中, 学习三种开始的方法: 从零开始创建图像, 通过对话改进图像的外观, a</description>
-      <pubDate>Wed, 11 Nov 2026 21:10:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=CrrpfvbNyMw</guid>
-      <source url="https://www.youtube.com/watch?v=CrrpfvbNyMw">OpenAI</source>
-    </item>
-    <item>
-      <title>AlphaGenome 2: 教授人工智能读取整个人类基因组</title>
-      <link>https://www.youtube.com/watch?v=uND6iY2qp_c</link>
-      <description>98%的人类DNA不构建蛋白质——它控制着我们的细胞如何工作,并掌握了重要的线索,说明疾病为什么会发生,以及90%的新药物在临床试验中为何失败。 在分子层面上理解基因组是解析人类生活蓝图的关键。 在这个剧集中,韩教授(A.</description>
-      <pubDate>Wed, 11 Nov 2026 18:00:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=uND6iY2qp_c</guid>
-      <source url="https://www.youtube.com/watch?v=uND6iY2qp_c">DeepMind</source>
-    </item>
-    <item>
-      <title>Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-      <description>Google 推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，可在 150-250ms 端到端延迟内对文本、图像、音频、视频和 PDF（最多 256K tokens）一次性评估最多 1000 个是/否、多选和评分题。</description>
-      <pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
-      <source url="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/">Google Blog：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Claude Code 中如何选择 Fable 5.2 与 Opus 等模型</title>
-      <link>https://www.youtube.com/watch?v=C33hJGt-ySg</link>
-      <description>Claude 发布视频教程，讲解在 Claude Code 中何时使用 Fable 5.2、Opus 5.5，何时降级到 Sonnet 5.5 或 Haiku 5.5，以及如何把一个任务拆分给多个模型。视频覆盖复杂编码与开放式技术工作、低成本明确任务等场景，并提供在自有任务上测量各模型表现的指南链接；可用性与用量限制因套餐而异。</description>
-      <pubDate>Wed, 11 Nov 2026 17:30:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=C33hJGt-ySg</guid>
-      <source url="https://www.youtube.com/watch?v=C33hJGt-ySg">Claude：YouTube（RSS）</source>
-    </item>
-    <item>
-      <title>Google 的 Tabletop 人工智能实验允许您构建自定义协作应用程序</title>
-      <link>https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</link>
-      <description>Google 制作了一个新的实验性人工智能工具,名为 Tabletop , 生成定制的合作中心, 帮助您与家人和朋友协调。 Tabletop 平台与 Asana 和 Monday 等工作场所管理应用程序有一些视觉相似之处, 但有一个内置的人工智能功能 tha</description>
-      <pubDate>Wed, 11 Nov 2026 11:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</guid>
-      <source url="https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability">The Verge AI</source>
-    </item>
-    <item>
-      <title>a16z 提出 B2A 经济：AI 智能体正成为新的流量与分发渠道</title>
-      <link>https://www.a16z.news/p/welcome-to-the-b2a-economy</link>
-      <description>a16z 发布文章提出 B2A 经济概念，认为 AI 智能体已占大多数网络流量，正从回答问题转向代替用户完成任务和消费。</description>
-      <pubDate>Wed, 11 Nov 2026 15:02:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.a16z.news/p/welcome-to-the-b2a-economy</guid>
-      <source url="https://www.a16z.news/p/welcome-to-the-b2a-economy">a16z：News（RSS）</source>
-    </item>
-    <item>
-      <title>Google 的 AlphaGenome 2 放大了疾病的细胞根基</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</link>
-      <description>Google DeepMind的研究人员揭开了一个新的人工智能模型,该模型旨在解析我们DNA的变化如何影响不同的细胞,让科学家们对一个众所周知的困难问题有一个更详细的看法,这个问题可以掌握疾病原因的重要线索——并指明新的治疗方法。</description>
-      <pubDate>Wed, 11 Nov 2026 10:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model">The Verge AI</source>
+      <title>马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光</title>
+      <link>https://www.qbitai.com/2026/11/509355.html</link>
+      <description>Grok在让人破绷这件事上，从来不会让人失望。</description>
+      <pubDate>Thu, 12 Nov 2026 10:08:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509355.html</guid>
+      <source url="https://www.qbitai.com/2026/11/509355.html">量子位</source>
     </item>
   </channel>
 </rss>
