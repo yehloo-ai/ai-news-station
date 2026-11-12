@@ -1241,5 +1241,41 @@
     "summary": "Anthropic 推出 Claude Whiteboards 和 Claude Sheets 测试版，Claude Dashboards 正式可用并更名为 Claude Data，三款产品面向所有付费计划开放。",
     "sourceUrl": "https://claude.com/blog/sheets-whiteboards-data",
     "sourceName": "Claude：Blog（网页）"
+  },
+  {
+    "observedDate": "2026-11-12",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "百度发布 ERNIE 5.5 Flash Preview，权重将于 11 月 25 日前开源",
+    "summary": "百度发布 ERNIE 5.5 Flash Preview，是基于此前 Base 模型的首个后训练版本，总参数 280B、激活参数 14B，支持 1M 上下文。模型 API 已在千帆平台上线，权重将于 11 月 25 日前开源；官方展示了游戏开发、3D 建模、知识工作、视频创作等 Agent 场景成果，并称该版本为后训练中间版本，正式版仍将持续优化。",
+    "sourceUrl": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-preview/",
+    "sourceName": "百度文心 ERNIE 官方博客"
+  },
+  {
+    "observedDate": "2026-11-12",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Runway 开源 27B 世界动作模型 Praxis-1，权重采用 Apache 2.0 许可",
+    "summary": "Runway 宣布世界动作模型 Praxis-1 以 Apache 2.0 开放权重面向所有人开放。该模型为 27B 参数 MoE 扩散 Transformer，同时预测视频与动作，在 NVIDIA RoboLab-120 榜单以 46.2% 成功率居首，超过 FLUX 3 Action（42.9%）、Cosmos3 Nano（36.8%）和 π0.5（28.0%）。",
+    "sourceUrl": "https://runwayml.com/news/company-news/praxis-1-is-now-available",
+    "sourceName": "Runway：News（网页）"
+  },
+  {
+    "observedDate": "2026-11-12",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Google DeepMind 发布 AlphaGenome 2，预测基因变异对特定细胞类型的影响",
+    "summary": "Google DeepMind 发布下一代 DNA 序列模型 AlphaGenome 2，可预测 DNA 变异如何影响数百种人类细胞类型中的基因表达。模型改为条件式架构，训练数据超过 1.07 亿个单细胞样本、覆盖 68 种组织，在 TenK10K 数据集上识别的因果变异数量接近上一代的两倍（30% vs 16%），并能在不重新训练的情况下泛化到新的单细胞实验。",
+    "sourceUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "sourceName": "Google DeepMind：Blog（RSS）"
+  },
+  {
+    "observedDate": "2026-11-12",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策",
+    "summary": "Google 推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，可在 150-250ms 端到端延迟内对文本、图像、音频、视频和 PDF（最多 256K tokens）一次性评估最多 1000 个是/否、多选和评分题。",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "sourceName": "Google Blog：AI（RSS）"
   }
 ]
