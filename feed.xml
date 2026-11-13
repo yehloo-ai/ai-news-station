@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 07:49:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:11:09 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本</title>
+      <link>https://x.com/ClementDelangue/status/2121260104913768931</link>
+      <description>Hugging Face CEO Clément Delangue 与 @ggerganov 宣布 llama.cpp v1.0.0 发布，这是这个最常用的本地运行 AI 模型库的首个完全稳定大版本。作者称用户可在手机、笔记本和工作站上免费掌控自己的智能，不向任何人发送数据，并承诺支持所有硬件、平台和模型类型，让 AI 分布式而非集中于少数硅谷机构。</description>
+      <pubDate>Fri, 13 Nov 2026 15:13:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ClementDelangue/status/2121260104913768931</guid>
+      <source url="https://x.com/ClementDelangue/status/2121260104913768931">X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)</source>
+    </item>
+    <item>
+      <title>Jensen Huang saga究竟有什么关系?</title>
+      <link>https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast</link>
+      <description>围绕Nvidia CEOJensen Huang的其中一部分在周四结束,当时,Huang辞去他在人工智能最重要的公司上的职位。 但是在未来几周和几个月里,一个更大的故事可能即将展开。 一个有关Nvidia在中国交易的故事,一个有关美国治理的故事。</description>
+      <pubDate>Fri, 13 Nov 2026 09:47:16 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast</guid>
+      <source url="https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast">The Verge AI</source>
+    </item>
+    <item>
+      <title>Claude的二重奏剂有点神经质 很有帮助</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
+      <description>通常情况下,我测试的产品并不能帮助我写出我与他们的经验. Dut是不同的. Claude Dute是Anthropic为消费者设计的人工智能智能体,这是一家人工智能公司最近试图让我们相信智能体对不写代码的人有帮助的尝试.</description>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on">The Verge AI</source>
+    </item>
+    <item>
+      <title>Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会</title>
+      <link>https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</link>
+      <description>Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000名员工和最大海外研发中心的公司是否会继续深耕以色列。多位以色列投资人认为，Nvidia 决策放缓可能给 AI 芯片和推理软件领域的竞争者留出空间，但如果不确定性也拖慢 AI 支出，竞争者面对的可能是更小的市场机会。</description>
+      <pubDate>Fri, 13 Nov 2026 12:52:19 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</guid>
+      <source url="https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO</title>
+      <link>https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/</link>
+      <description>Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年后辞去 CEO、总裁和董事职务，CFO Colette Kress 出任临时 CEO，SEC 文件显示董事会于 11 月 11 日接受辞呈，此前董事会已就 NYT 报道的绯闻事件展开独立调查。</description>
+      <pubDate>Fri, 13 Nov 2026 09:04:13 +0000</pubDate>
+      <guid isPermaLink="true">https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/</guid>
+      <source url="https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/">Latent Space（RSS）</source>
+    </item>
+    <item>
+      <title>腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力</title>
+      <link>https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg</link>
+      <description>腾讯混元发布全新实时语音模型 Hy Realtime，在语音理解、指令遵循、拟人化表达等基础能力外新增 Agentic 工具调用与唱歌能力，已在元宝语音通话、腾讯客服上线，近期将上线腾讯云提供 API 服务。</description>
+      <pubDate>Fri, 13 Nov 2026 08:32:39 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg</guid>
+      <source url="https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg">公众号：腾讯混元</source>
+    </item>
+    <item>
+      <title>MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！</title>
+      <link>https://www.qbitai.com/2026/11/509827.html</link>
+      <description>12.9 北京，来MEET2027现场</description>
+      <pubDate>Fri, 13 Nov 2026 07:51:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509827.html</guid>
+      <source url="https://www.qbitai.com/2026/11/509827.html">量子位</source>
+    </item>
+    <item>
+      <title>研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验</title>
+      <link>https://sspai.com/post/118153</link>
+      <description>AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文</description>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/118153</guid>
+      <source url="https://sspai.com/post/118153">少数派</source>
+    </item>
     <item>
       <title>Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归</title>
       <link>https://x.com/rohanpaul_ai/status/2121135206342275529</link>
@@ -102,70 +166,6 @@
       <pubDate>Thu, 12 Nov 2026 16:55:32 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen</guid>
       <source url="https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen">The Verge AI</source>
-    </item>
-    <item>
-      <title>Rohan Paul 类比乔布斯被逐，评 NVIDIA 放走黄仁勋</title>
-      <link>https://x.com/rohanpaul_ai/status/2120994977421705296</link>
-      <description>Lex Fridman 发文称 NVIDIA 让黄仁勋离开对美国和人类都是巨大错误，堪比 Apple 当年解雇 Steve Jobs 但影响更大，并为其品格辩护、回应间谍传闻。Rohan Paul 转引并列举 Atari 1978（Nolan Bushnell）、Apple 1985（Steve Jobs）、Uber 2017（Travis Kalanick）、OpenAI 2023（Sam Altman），称每隔几年董事会就会重新认识到创始人本身就是战略。</description>
-      <pubDate>Thu, 12 Nov 2026 21:39:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2120994977421705296</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2120994977421705296">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>Google 智能眼镜开放预购，12 月 10 日发货</title>
-      <link>https://x.com/joshwoodward/status/2120990821902397885</link>
-      <description>Josh Woodward 宣布 Google 智能眼镜开启预购，用户可在 https://glasses.google 下单，12 月 10 日发货。首批用户可到部分 Warby Parker、Gentle Monster 和 Google 门店试戴体验。</description>
-      <pubDate>Thu, 12 Nov 2026 21:23:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/joshwoodward/status/2120990821902397885</guid>
-      <source url="https://x.com/joshwoodward/status/2120990821902397885">X：Josh Woodward (@joshwoodward, Google Labs VP)</source>
-    </item>
-    <item>
-      <title>Gemini 4 Hydrogen 今日起向全球所有用户推送</title>
-      <link>https://x.com/GeminiApp/status/2120982674638864797</link>
-      <description>Google Gemini 宣布 Gemini 4 Hydrogen 今日起向全球所有用户推送，覆盖桌面、移动和网页端。免费用户无需单独选择模型，当提示词适合该模型时可通过自动模型选择使用它，详情见 https://goo.gle/4AxH40q。</description>
-      <pubDate>Thu, 12 Nov 2026 20:50:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GeminiApp/status/2120982674638864797</guid>
-      <source url="https://x.com/GeminiApp/status/2120982674638864797">X：Gemini (@GeminiApp)</source>
-    </item>
-    <item>
-      <title>不,人工智能人员没有发现 之前未知的玛雅遗址</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</link>
-      <description>Google研究员Pietro Miotti本周早些时候声称,他带着一组人工情报人员在墨西哥发现了一个可能未被标记的玛雅遗址。只有一个问题:该遗址已经被发现,并于去年在一份学术期刊上发表。 这一事件引发了一场灾难。</description>
-      <pubDate>Thu, 12 Nov 2026 14:42:40 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery">The Verge AI</source>
-    </item>
-    <item>
-      <title>Gemini 4 Hydrogen 上线 Cursor，CursorBench 得分 54.3%</title>
-      <link>https://x.com/mattyp/status/2120945253666762973</link>
-      <description>作者以「爱好包括制作 og:images」调侃，配图为 CursorBench 4.0 的模型散点图；其引用 Cursor 官方内容称 Gemini 4 Hydrogen 现已在 Cursor 上线，默认 effort 下 CursorBench 得分 54.3%，高于 Gemini 3.8 Flash 的 39.6%。</description>
-      <pubDate>Thu, 12 Nov 2026 18:22:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mattyp/status/2120945253666762973</guid>
-      <source url="https://x.com/mattyp/status/2120945253666762973">X：Matt Palmer（SpaceXSI，Grok Bot） (@mattyp)</source>
-    </item>
-    <item>
-      <title>World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats</title>
-      <link>https://x.com/drfeifei/status/2120942509786558671</link>
-      <description>World Labs 宣布 Atlas 世界模型向所有人开放，李飞飞转发并表达期待用户用它构建的内容。官方为用户提供了应用和 API 端点，可用 Atlas 生成关键帧、视频片段或 3D Gaussian splats。</description>
-      <pubDate>Thu, 12 Nov 2026 18:11:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/drfeifei/status/2120942509786558671</guid>
-      <source url="https://x.com/drfeifei/status/2120942509786558671">X：Fei-Fei Li (@drfeifei, World Labs)</source>
-    </item>
-    <item>
-      <title>Artificial Analysis 评测 Gemini 4 Hydrogen：智能指数 54，接近 Sonnet 5.5 且成本约其 32%</title>
-      <link>https://x.com/ArtificialAnlys/status/2120941511223185722</link>
-      <description>Artificial Analysis 评测 Google 新发布的 Gemini 4 Hydrogen：新增 xhigh 推理档在 Intelligence Index 得 54 分，比 Claude Sonnet 5.5 (max) 和 GPT-6.1 Sol (max) 低 1 分，每任务成本约为 Sonnet 的 32%，但约为 GPT-6.1 Sol 的 2.5 倍。</description>
-      <pubDate>Thu, 12 Nov 2026 18:07:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2120941511223185722</guid>
-      <source url="https://x.com/ArtificialAnlys/status/2120941511223185722">X：Artificial Analysis (@ArtificialAnlys)</source>
-    </item>
-    <item>
-      <title>SemiAnalysis 分析黄仁勋辞任 Nvidia CEO 背后的出口管制博弈</title>
-      <link>https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen</link>
-      <description>SemiAnalysis 发表长文分析黄仁勋不再担任 Nvidia CEO 一事，认为其去职与美国情报界推动、针对中国远程访问 GPU 的 RASA 法案推进有关。</description>
-      <pubDate>Thu, 12 Nov 2026 18:06:26 +0000</pubDate>
-      <guid isPermaLink="true">https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen</guid>
-      <source url="https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen">SemiAnalysis 长文 RSS（RSS）</source>
     </item>
   </channel>
 </rss>
