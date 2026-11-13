@@ -1277,5 +1277,23 @@
     "summary": "Google 推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，可在 150-250ms 端到端延迟内对文本、图像、音频、视频和 PDF（最多 256K tokens）一次性评估最多 1000 个是/否、多选和评分题。",
     "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
     "sourceName": "Google Blog：AI（RSS）"
+  },
+  {
+    "observedDate": "2026-11-13",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Google DeepMind 发布 Gemini 4 Hydrogen",
+    "summary": "Google DeepMind 发布 Gemini 4 Hydrogen，定位快速执行日常编码与智能体工作流，面向 Gemini API、AI Studio、Gemini 应用、Google Search 等全层级开放。",
+    "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "sourceName": "Google DeepMind：Blog（RSS）"
+  },
+  {
+    "observedDate": "2026-11-13",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Anthropic 推出 Claude Meetings，Claude 以参会者身份加入视频会议",
+    "summary": "Anthropic 推出 Claude Meetings beta，Claude 可作为可见参会者加入视频通话，在会中回答提问、协作创建文档和白板，并生成笔记和行动项。",
+    "sourceUrl": "https://claude.com/blog/claude-meetings",
+    "sourceName": "Claude：Blog（网页）"
   }
 ]
