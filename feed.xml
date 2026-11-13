@@ -5,8 +5,112 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 21:57:44 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NVIDIA 副总裁 Bryan Catanzaro 澄清要求恢复 Jensen 职务的信件系伪造</title>
+      <link>https://x.com/rohanpaul_ai/status/2121354165352096179</link>
+      <description>Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的声明：网上流传一封要求 NVIDIA 董事会恢复 Jensen Huang 职务、并声称有他参与的信件，Catanzaro 明确该信是伪造的，即使真实他也不会签署。他表示对 Jensen 离开 NVIDIA 感到悲痛，同时完全支持董事会，并称与 Colette 共事多年，全力支持她。</description>
+      <pubDate>Fri, 13 Nov 2026 21:27:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2121354165352096179</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2121354165352096179">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>ChatGPT 钱包让 OpenAI 的 Dots 代理为您购买</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</link>
+      <description>今年早些时候推出Dots人工智能代理平台后,OpenAI正在为代理推出一个钱包. ChatGPT钱包从今天开始为美国18岁及18岁以上的ChatGPT Pro用户推出,使用美国开具的账单地址以及"符合美国发行的美国快递,大通,Mastercard 和</description>
+      <pubDate>Fri, 13 Nov 2026 15:45:10 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet">The Verge AI</source>
+    </item>
+    <item>
+      <title>Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请</title>
+      <link>https://x.com/adocomplete/status/2121338030967697908</link>
+      <description>Anthropic 的 Claude Duet 更新：截至昨日在等待名单上的全部美国 Pro、Max 和 Ultra 订阅者均已收到邀请，等待名单入口为 https://claude.com/product/claude-duet。研究预览附带限额重置，Pro 为 3 次，Max 和 Ultra 为 1 次；官方计划很快向美国以外更多国家开放，并继续征集反馈。</description>
+      <pubDate>Fri, 13 Nov 2026 20:22:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/adocomplete/status/2121338030967697908</guid>
+      <source url="https://x.com/adocomplete/status/2121338030967697908">X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)</source>
+    </item>
+    <item>
+      <title>WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活</title>
+      <link>https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/</link>
+      <description>The Decoder 援引 WSJ 报道分析称，黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活传闻。Nvidia 在其主导下向 AI 云厂商和数据中心开发商提供数十亿美元财务担保以换取营收分成，最大一笔涉及对 OpenAI 俄亥俄数据中心的 2500 亿美元担保，消息公布后股价跌 5%，临时 CEO Colette Kress 将该承诺减半。</description>
+      <pubDate>Fri, 13 Nov 2026 20:07:34 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/</guid>
+      <source url="https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察</title>
+      <link>https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off</link>
+      <description>Newcomer 在旧金山 Cerebral Valley AI Summit 现场报道：Jensen Huang 因第二段婚外情披露辞职，Reuters 当天报道存在第三段，与会者多认为 Nvidia 短期无碍但生态承压，Databricks CEO 称其对整个生态是打击。</description>
+      <pubDate>Fri, 13 Nov 2026 19:27:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off</guid>
+      <source url="https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off">Newcomer 新闻长文（RSS）</source>
+    </item>
+    <item>
+      <title>Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试</title>
+      <link>https://x.com/lydiahallie/status/2121313048820617645</link>
+      <description>Lydia Hallie 分享一个 Claude Code 使用技巧：用 Stop hook 让 Claude 在检查失败后自动重试，关键是让 hook 以 exit code 2 退出。exit 2 会把 hook 的 stderr 返回给 Claude 触发重试，exit 1 则是非阻塞的，即使检查失败 Claude 也会直接结束。</description>
+      <pubDate>Fri, 13 Nov 2026 18:43:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/lydiahallie/status/2121313048820617645</guid>
+      <source url="https://x.com/lydiahallie/status/2121313048820617645">X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)</source>
+    </item>
+    <item>
+      <title>研究称中国最强 AI 模型由被禁运的 Nvidia Blackwell 芯片训练</title>
+      <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
+      <description>TechCrunch 报道，前 OpenAI 研究员 Will DePue 分析 DeepSeek、月之暗面、MiniMax 和蚂蚁集团开源模型权重后，称 Kimi K3 与 DeepSeek V4 等模型留有 Blackwell 芯片训练痕迹，而这些芯片被禁止出口到中国。</description>
+      <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</guid>
+      <source url="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>6 低评使用 ChatGPT 的方法</title>
+      <link>https://www.youtube.com/shorts/ErOVIC-MGVA</link>
+      <description>我们问了6个人使用ChatGPT的评分最低。 他们的答案包括个人风格、日常物流和停止随机订阅费。 您的答案是什么?</description>
+      <pubDate>Fri, 13 Nov 2026 18:15:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/ErOVIC-MGVA</guid>
+      <source url="https://www.youtube.com/shorts/ErOVIC-MGVA">OpenAI</source>
+    </item>
+    <item>
+      <title>Sierra 发布 Personal Agent Protocol（Poppy）v1.0</title>
+      <link>https://sierra.ai/blog/releasing-poppy</link>
+      <description>Sierra 宣布 Personal Agent Protocol（Poppy）v1.0 正式可用，该协议定义个人智能体如何通过企业智能体、网站和 API 与公司交互，主要基于 MCP、OpenAPI、UCP 等现有标准构建，认证通过 OAuth 由客户控制权限。</description>
+      <pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://sierra.ai/blog/releasing-poppy</guid>
+      <source url="https://sierra.ai/blog/releasing-poppy">Sierra：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Mozilla如何使用GPT-6 Cyber来发现和修复Firefox漏洞</title>
+      <link>https://www.youtube.com/watch?v=PkAmyub12K8</link>
+      <description>莫齐拉正在将数十年的安全工程与人工智能特工相结合,以加强Firefox的防御。 布莱恩·格林斯特德(Brian Grinstead)加入了OpenAI的克林特·吉布勒(Clint Gibler),讨论团队如何优先调查、测试和核实弱点,找到相关的bug模式,并帮助工程师们制定修复方案。</description>
+      <pubDate>Fri, 13 Nov 2026 16:56:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PkAmyub12K8</guid>
+      <source url="https://www.youtube.com/watch?v=PkAmyub12K8">OpenAI</source>
+    </item>
+    <item>
+      <title>ChatGPT 推出 ChatGPT Wallet，dot 可在用户批准下代为完成购买</title>
+      <link>https://x.com/ChatGPT/status/2121283151729496235</link>
+      <description>ChatGPT 官方账号宣布推出 ChatGPT Wallet，dot 可在用户批准下安全地代用户完成购买。智能体支付时不会接触用户的实际卡号信息，每笔购买都需要通过安全检查。该功能即日起在美国向 Pro 订阅用户的 dot 推出，详情见 https://openai.com/index/introducing-chatgpt-wallet/。</description>
+      <pubDate>Fri, 13 Nov 2026 16:44:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ChatGPT/status/2121283151729496235</guid>
+      <source url="https://x.com/ChatGPT/status/2121283151729496235">X：ChatGPT (@ChatGPT)</source>
+    </item>
+    <item>
+      <title>Mozilla如何通过GPT-6网络加强Firefox安全</title>
+      <link>https://www.youtube.com/shorts/pfbfZKxUEDQ</link>
+      <description>Mozilla的Brian Grinstead分享了与GPT-6 Cyber的早期测试如何识别出加强Firefox防守的新弱点和机会,帮助团队朝着一个宏伟的目标 — — 零虫子 — — 前进。 观察与OpenAI的Clint Gibler的全面对话以学习更多。</description>
+      <pubDate>Fri, 13 Nov 2026 16:38:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/pfbfZKxUEDQ</guid>
+      <source url="https://www.youtube.com/shorts/pfbfZKxUEDQ">OpenAI</source>
+    </item>
+    <item>
+      <title>Anthropic 直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 炉边谈话并披露 SEC 注册声明</title>
+      <link>https://x.com/AnthropicAI/status/2121272083863011714</link>
+      <description>Anthropic 预告美东时间中午 12 点直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 的炉边谈话，链接为 https://www.youtube.com/live/YHEaEpeY3ew。</description>
+      <pubDate>Fri, 13 Nov 2026 16:00:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AnthropicAI/status/2121272083863011714</guid>
+      <source url="https://x.com/AnthropicAI/status/2121272083863011714">X：Anthropic (@AnthropicAI)</source>
+    </item>
     <item>
       <title>llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本</title>
       <link>https://x.com/ClementDelangue/status/2121260104913768931</link>
@@ -62,110 +166,6 @@
       <pubDate>Fri, 13 Nov 2026 07:51:08 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/11/509827.html</guid>
       <source url="https://www.qbitai.com/2026/11/509827.html">量子位</source>
-    </item>
-    <item>
-      <title>研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验</title>
-      <link>https://sspai.com/post/118153</link>
-      <description>AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文</description>
-      <pubDate>Fri, 13 Nov 2026 15:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/118153</guid>
-      <source url="https://sspai.com/post/118153">少数派</source>
-    </item>
-    <item>
-      <title>Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归</title>
-      <link>https://x.com/rohanpaul_ai/status/2121135206342275529</link>
-      <description>据 WIRED 报道，Nvidia 内部建议箱一则帖文获得超过 1600 条评论，多数员工支持恢复黄仁勋的前 CEO 职位。该帖文由一位资深工程师在黄仁勋辞职前撰写，要求董事会先公布调查结果并对员工进行投票调查。</description>
-      <pubDate>Fri, 13 Nov 2026 06:56:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2121135206342275529</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2121135206342275529">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>AI 时代，公司的「新厂房」长什么样？</title>
-      <link>https://www.ifanr.com/1689182?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>真正决定公司未来十年身位的，是谁先动手重建那座名叫「智能组织」的新厂房。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 13 Nov 2026 06:34:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1689182?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1689182?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>AI 录音硬件卖的是时间差，窗口可能只剩半年</title>
-      <link>http://www.geekpark.net/news/373946</link>
-      <description>北京时间 11 月 4 日，苹果推送了 iOS 27.3 和 watchOS 27.3 的第一个开发者测试版，除了带来国行 Apple 智能，还给 Apple Watch 加入了两个全新的 AI 功能：一个是 Live Rewind，可以随时帮你回顾过去 15 秒内的对话；另一个则是 Siri Recap，手表会在一整天里记下你和别人的对话，再整理成摘要。不过这两个功能目前只有英文版，苹果也写明暂不在中国提供。 左为 Live Rewind，右为 Siri 回顾（Siri Recap）｜图片来源：Apple 在这两个功能发布之后，硬件创业者纷纷表示「巨头开始下场抢创业者的赛道了」。按苹果的说明</description>
-      <pubDate>Fri, 13 Nov 2026 12:57:38 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373946</guid>
-      <source url="http://www.geekpark.net/news/373946">极客公园</source>
-    </item>
-    <item>
-      <title>李彦宏定义 AI 下一个十年，智能组织是「新厂房」</title>
-      <link>http://www.geekpark.net/news/373937</link>
-      <description>&amp;nbsp; 智能组织就是 AI 时代的新厂房，是生产力真正发生的地方&amp;mdash;&amp;mdash;11 月 12 日，在百度世界 2026 上，百度创始人李彦宏抛出了贯穿本届大会的核心命题。 他在演讲中直言，当前 AI 没有产生预期的经济效益，本质是很多企业只更换了电机，却还没有重新设计工厂。 过去两年，大模型、智能体快速渗透到企业各个环节，从办公提效到业务辅助，AI 已从「尝鲜」变成很多企业的「标配」。但随着工具部署逐步完成，一个更核心的矛盾开始显现：AI 投入持续增加、Token 消耗不断增长，企业的利润增长却并未同步到来。 不少企业都遇到了相似的困境：员工个人效率提升了，单点试点也跑通了</description>
-      <pubDate>Fri, 13 Nov 2026 11:43:41 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373937</guid>
-      <source url="http://www.geekpark.net/news/373937">极客公园</source>
-    </item>
-    <item>
-      <title>在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？</title>
-      <link>https://sspai.com/post/118512</link>
-      <description>距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...查看全文</description>
-      <pubDate>Fri, 13 Nov 2026 11:35:48 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/118512</guid>
-      <source url="https://sspai.com/post/118512">少数派</source>
-    </item>
-    <item>
-      <title>派早报：英伟达 CEO 黄仁勋宣布辞职等</title>
-      <link>https://sspai.com/post/118966</link>
-      <description>2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文</description>
-      <pubDate>Fri, 13 Nov 2026 08:48:17 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/118966</guid>
-      <source url="https://sspai.com/post/118966">少数派</source>
-    </item>
-    <item>
-      <title>早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口</title>
-      <link>https://www.ifanr.com/1689292?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线 · 张雪：今年已经挣到了「一个小目标」 · Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1689292?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1689292?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>黄仁勋辞去英伟达总裁兼CEO，作者梳理14天风波始末</title>
-      <link>https://mp.weixin.qq.com/s/ToplAo9NHP356Fu-hbYlsg</link>
-      <description>英伟达公告黄仁勋辞去总裁、CEO和董事职务，即刻生效，股价开盘下跌14个点。作者依据《纽约时报》、The Information 等报道梳理脉络：从2022年A100、H100对华禁售，到 Megaspeed 采购争议、黄乐被情报机构认定涉间谍活动，再到婚外情曝光后董事会于10月29日起14天内收网，黄仁勋在英伟达33年的时代就此结束。</description>
-      <pubDate>Thu, 12 Nov 2026 23:56:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/ToplAo9NHP356Fu-hbYlsg</guid>
-      <source url="https://mp.weixin.qq.com/s/ToplAo9NHP356Fu-hbYlsg">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>刚刚，Gemini 4 新模型叒来了，终于人人可用</title>
-      <link>https://www.ifanr.com/1689267?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>更快更便宜还更聪明#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Thu, 12 Nov 2026 23:11:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1689267?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1689267?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>民主党对 Nvidia 对华芯片销售启动调查，致函质疑黄仁勋与特朗普的安排</title>
-      <link>https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/</link>
-      <description>民主党议员 Rep. Richard Neal 和 Sen. Ron Wyden 就特朗普政府处理 Nvidia 对华芯片销售一事开启调查，并致函商务部长 Howard Lutnick 要求保存相关记录。</description>
-      <pubDate>Thu, 12 Nov 2026 22:42:51 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/</guid>
-      <source url="https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>边境的网络</title>
-      <link>https://www.youtube.com/watch?v=YmxpxJZvm4M</link>
-      <description>以OpenAI最新网络公告为主角的现场主旨演讲.</description>
-      <pubDate>Thu, 12 Nov 2026 22:37:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=YmxpxJZvm4M</guid>
-      <source url="https://www.youtube.com/watch?v=YmxpxJZvm4M">OpenAI</source>
-    </item>
-    <item>
-      <title>Google的新双子座模型更能理解复杂的问题。</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen</link>
-      <description>Google说,它的新双子座4氢模型可以给复杂的问题提供更有用的答案,包括"有多个部分的问题,难以理解的字典,或非常具体的请求". 新模型可以破解你的问题,并在答复中解决每个部分.</description>
-      <pubDate>Thu, 12 Nov 2026 16:55:32 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen">The Verge AI</source>
     </item>
   </channel>
 </rss>
