@@ -5,8 +5,56 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 02:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:09:58 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Funkiest Zoom meeting EVER (超级视频) 互联网电影数据库(IMDb)上"Funkiest Zoom"的资料(英文)</title>
+      <link>https://www.youtube.com/watch?v=x7iwI6WfWS0</link>
+      <description>完成这首歌后,我花了3个月的时间来收集勇气,站在镜头前进行录制. 希望各位学者们都喜欢! 非常感谢各位惊人的音乐家的帮助!. Vocals: Carolina Padrón - Droms: Federico Guccidardo - Bass: Phil Willnnd - Saxophone: Di</description>
+      <pubDate>Sat, 14 Nov 2026 08:40:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=x7iwI6WfWS0</guid>
+      <source url="https://www.youtube.com/watch?v=x7iwI6WfWS0">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>Zugwise: 用于数字化手写国际象棋计分表的域- 智能游戏重建</title>
+      <link>https://arxiv.org/abs/2611.14544</link>
+      <description>将手写棋盘数字化作为笔迹识别问题进行了研究: 读取每个框中的动作, 并检查它是否合法。 此设定忽略了最重要的错误。 产生非法动作的错误读取是响亮的 。 1th</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14544</guid>
+      <source url="https://arxiv.org/abs/2611.14544">ArXiv AI</source>
+    </item>
+    <item>
+      <title>清理一个代理的历史伤害 当世界仍然持有错误</title>
+      <link>https://arxiv.org/abs/2611.14654</link>
+      <description>使用语言模型的代理人积累了他们自己错误的历史,而这种系统会压缩、修复或摆脱这种历史来决定它对这些错误的描述,而其影响却留在世界上。</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14654</guid>
+      <source url="https://arxiv.org/abs/2611.14654">ArXiv AI</source>
+    </item>
+    <item>
+      <title>共同编译器:用于人工智能推论的持续汇编</title>
+      <link>https://arxiv.org/abs/2611.14681</link>
+      <description>今天的人工智能工作量正在迅速变化:新模型更频繁地发布,模型架构越来越多样化,流量分布也经常变化。 我们共同面对的挑战就是不断优化这些变化。</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14681</guid>
+      <source url="https://arxiv.org/abs/2611.14681">ArXiv AI</source>
+    </item>
+    <item>
+      <title>语义学先导何时进入部分识别的causal 发现?.</title>
+      <link>https://arxiv.org/abs/2611.14736</link>
+      <description>观察性因果发现往往会留下因果二向复述的未决或不稳定. 大语言mod-els(LLMS)可以提供语义信息来解决这些方向,但不正确的建议可以排除真实的因果图和无效.</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14736</guid>
+      <source url="https://arxiv.org/abs/2611.14736">ArXiv AI</source>
+    </item>
+    <item>
+      <title>合成公司:建立数据代理基准的平台</title>
+      <link>https://arxiv.org/abs/2611.14765</link>
+      <description>当前LLM驱动数据代理器的基准快速饱和,无法瞄准特定能力. 我们提出了SynthCorp,这个平台通过模拟商务事件如何产生和修改公司来创建自定义的数据产业园和基准.</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14765</guid>
+      <source url="https://arxiv.org/abs/2611.14765">ArXiv AI</source>
+    </item>
     <item>
       <title>美联储金融稳定报告：AI成为华尔街头号金融风险</title>
       <link>https://x.com/rohanpaul_ai/status/2121391185499660332</link>
@@ -118,54 +166,6 @@
       <pubDate>Fri, 13 Nov 2026 16:44:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ChatGPT/status/2121283151729496235</guid>
       <source url="https://x.com/ChatGPT/status/2121283151729496235">X：ChatGPT (@ChatGPT)</source>
-    </item>
-    <item>
-      <title>Mozilla如何通过GPT-6网络加强Firefox安全</title>
-      <link>https://www.youtube.com/shorts/pfbfZKxUEDQ</link>
-      <description>Mozilla的Brian Grinstead分享了与GPT-6 Cyber的早期测试如何识别出加强Firefox防守的新弱点和机会,帮助团队朝着一个宏伟的目标 — — 零虫子 — — 前进。 观察与OpenAI的Clint Gibler的全面对话以学习更多。</description>
-      <pubDate>Fri, 13 Nov 2026 16:38:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/pfbfZKxUEDQ</guid>
-      <source url="https://www.youtube.com/shorts/pfbfZKxUEDQ">OpenAI</source>
-    </item>
-    <item>
-      <title>Anthropic 直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 炉边谈话并披露 SEC 注册声明</title>
-      <link>https://x.com/AnthropicAI/status/2121272083863011714</link>
-      <description>Anthropic 预告美东时间中午 12 点直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 的炉边谈话，链接为 https://www.youtube.com/live/YHEaEpeY3ew。</description>
-      <pubDate>Fri, 13 Nov 2026 16:00:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AnthropicAI/status/2121272083863011714</guid>
-      <source url="https://x.com/AnthropicAI/status/2121272083863011714">X：Anthropic (@AnthropicAI)</source>
-    </item>
-    <item>
-      <title>llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本</title>
-      <link>https://x.com/ClementDelangue/status/2121260104913768931</link>
-      <description>Hugging Face CEO Clément Delangue 与 @ggerganov 宣布 llama.cpp v1.0.0 发布，这是这个最常用的本地运行 AI 模型库的首个完全稳定大版本。作者称用户可在手机、笔记本和工作站上免费掌控自己的智能，不向任何人发送数据，并承诺支持所有硬件、平台和模型类型，让 AI 分布式而非集中于少数硅谷机构。</description>
-      <pubDate>Fri, 13 Nov 2026 15:13:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ClementDelangue/status/2121260104913768931</guid>
-      <source url="https://x.com/ClementDelangue/status/2121260104913768931">X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)</source>
-    </item>
-    <item>
-      <title>Jensen Huang saga究竟有什么关系?</title>
-      <link>https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast</link>
-      <description>围绕Nvidia CEOJensen Huang的其中一部分在周四结束,当时,Huang辞去他在人工智能最重要的公司上的职位。 但是在未来几周和几个月里,一个更大的故事可能即将展开。 一个有关Nvidia在中国交易的故事,一个有关美国治理的故事。</description>
-      <pubDate>Fri, 13 Nov 2026 09:47:16 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast</guid>
-      <source url="https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast">The Verge AI</source>
-    </item>
-    <item>
-      <title>Claude的二重奏剂有点神经质 很有帮助</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
-      <description>通常情况下,我测试的产品并不能帮助我写出我与他们的经验. Dut是不同的. Claude Dute是Anthropic为消费者设计的人工智能智能体,这是一家人工智能公司最近试图让我们相信智能体对不写代码的人有帮助的尝试.</description>
-      <pubDate>Fri, 13 Nov 2026 09:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on">The Verge AI</source>
-    </item>
-    <item>
-      <title>Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会</title>
-      <link>https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</link>
-      <description>Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000名员工和最大海外研发中心的公司是否会继续深耕以色列。多位以色列投资人认为，Nvidia 决策放缓可能给 AI 芯片和推理软件领域的竞争者留出空间，但如果不确定性也拖慢 AI 支出，竞争者面对的可能是更小的市场机会。</description>
-      <pubDate>Fri, 13 Nov 2026 12:52:19 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</guid>
-      <source url="https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/">TechCrunch：AI（RSS）</source>
     </item>
   </channel>
 </rss>
