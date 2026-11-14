@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 21:23:10 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难</title>
+      <link>https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/</link>
+      <description>Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走向存在巨大不确定性，算力是公司面临的最深商业两难：算力需提前一到两年购买，买少了影响客户和收入，买多了可能财务过度扩张。</description>
+      <pubDate>Sat, 14 Nov 2026 19:05:17 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/</guid>
+      <source url="https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>黄仁勋离开 Nvidia 后，亚洲各国政府如何回应</title>
+      <link>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</link>
+      <description>黄仁勋离开 Nvidia 后，亚洲多国政府相继回应：韩国科技部称 Nvidia 重申将向韩国供应 260,000 块先进 GPU 并继续联合 AI 项目，台湾经济部长龚明鑫认为此事不太可能显著改变全球 AI 产业增长，日本产业省表示将密切关注 Nvidia。</description>
+      <pubDate>Sat, 14 Nov 2026 16:34:15 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</guid>
+      <source url="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/">TechCrunch：AI（RSS）</source>
+    </item>
     <item>
       <title>解雇Sam Altman的OpenAI董事会成员表示,</title>
       <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 13 Nov 2026 19:27:39 +0000</pubDate>
       <guid isPermaLink="true">https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off</guid>
       <source url="https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off">Newcomer 新闻长文（RSS）</source>
-    </item>
-    <item>
-      <title>Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试</title>
-      <link>https://x.com/lydiahallie/status/2121313048820617645</link>
-      <description>Lydia Hallie 分享一个 Claude Code 使用技巧：用 Stop hook 让 Claude 在检查失败后自动重试，关键是让 hook 以 exit code 2 退出。exit 2 会把 hook 的 stderr 返回给 Claude 触发重试，exit 1 则是非阻塞的，即使检查失败 Claude 也会直接结束。</description>
-      <pubDate>Fri, 13 Nov 2026 18:43:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/lydiahallie/status/2121313048820617645</guid>
-      <source url="https://x.com/lydiahallie/status/2121313048820617645">X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)</source>
-    </item>
-    <item>
-      <title>研究报告称中国最强 AI 模型使用了被禁出口的 Nvidia Blackwell 芯片训练</title>
-      <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
-      <description>Will DePue 领导的非营利研究组织 Unemployment Labs 分析 DeepSeek、月之暗面、MiniMax 和蚂蚁集团开源模型权重，发现 Kimi K3 与 DeepSeek V4 等最受关注模型带有 Blackwell 芯片训练痕迹。</description>
-      <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</guid>
-      <source url="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">TechCrunch：AI（RSS）</source>
     </item>
   </channel>
 </rss>
