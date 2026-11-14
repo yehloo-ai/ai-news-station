@@ -1295,5 +1295,32 @@
     "summary": "Anthropic 推出 Claude Meetings beta，Claude 可作为可见参会者加入视频通话，在会中回答提问、协作创建文档和白板，并生成笔记和行动项。",
     "sourceUrl": "https://claude.com/blog/claude-meetings",
     "sourceName": "Claude：Blog（网页）"
+  },
+  {
+    "observedDate": "2026-11-14",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
+    "summary": "Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。",
+    "sourceUrl": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "sourceName": "Hacker News：AI 热帖"
+  },
+  {
+    "observedDate": "2026-11-14",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "ChatGPT 推出 ChatGPT Wallet，dot 可在用户批准下代为完成购买",
+    "summary": "ChatGPT 官方账号宣布推出 ChatGPT Wallet，dot 可在用户批准下安全地代用户完成购买。智能体支付时不会接触用户的实际卡号信息，每笔购买都需要通过安全检查。该功能即日起在美国向 Pro 订阅用户的 dot 推出，详情见 https://openai.com/index/introducing-chatgpt-wallet/。",
+    "sourceUrl": "https://x.com/ChatGPT/status/2121283151729496235",
+    "sourceName": "X：ChatGPT (@ChatGPT)"
+  },
+  {
+    "observedDate": "2026-11-14",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本",
+    "summary": "Hugging Face CEO Clément Delangue 与 @ggerganov 宣布 llama.cpp v1.0.0 发布，这是这个最常用的本地运行 AI 模型库的首个完全稳定大版本。作者称用户可在手机、笔记本和工作站上免费掌控自己的智能，不向任何人发送数据，并承诺支持所有硬件、平台和模型类型，让 AI 分布式而非集中于少数硅谷机构。",
+    "sourceUrl": "https://x.com/ClementDelangue/status/2121260104913768931",
+    "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
   }
 ]

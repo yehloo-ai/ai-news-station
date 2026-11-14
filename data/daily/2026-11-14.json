@@ -1,0 +1,443 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T00:00:30.118Z",
+  "windowStart": "2026-11-13T00:00:00.000Z",
+  "windowEnd": "2026-11-14T00:00:00.000Z",
+  "links": {
+    "aihot": "https://aihot.news/daily/2026-11-14"
+  },
+  "attribution": {
+    "name": "AIHOT",
+    "url": "https://aihot.news/daily/2026-11-14"
+  },
+  "lead": {
+    "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+    "leadParagraph": "Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000名员工和最大海外研发中心的公司是否会继续深耕以色列。多位以色列投资人认为，Nvidia 决策放缓可能给 AI 芯片和推理软件领域的竞争者留出空间，但如果不确定性也拖慢 AI 支出，竞争者面对的可能是更小的市场机会。"
+  },
+  "sections": [
+    {
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
+          "summary": "Edge0 宣布开源 Edge0-145B 与 Edge0-120B 模型及统一推理框架和部署工具，称 Edge0-145B 是首个可在个人电脑本地运行的 145B 参数开源模型。",
+          "source": {
+            "name": "Hacker News：AI 热帖"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882",
+            "original": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882"
+          },
+          "sourceUrl": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+          "sourceName": "Hacker News：AI 热帖",
+          "permalink": "https://aihot.news/items/icmwp7qazk244f7fn6zlw8882"
+        }
+      ]
+    },
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "title": "DeepSeek 开放全家桶应用 API：联网搜索、文件输入、阅读链接等能力面向开发者",
+          "summary": "DeepSeek 在 API 中开放此前 App 对话服务所用的能力，开发者开启对应参数即可使用，工具调用与上下文拼接由服务端完成。",
+          "source": {
+            "name": "DeepSeek：API 更新日志"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl",
+            "original": "https://api-docs.deepseek.com/zh-cn/updates/#发布全家桶应用-api"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl"
+          },
+          "sourceUrl": "https://api-docs.deepseek.com/zh-cn/updates/#%E5%8F%91%E5%B8%83%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%BA%94%E7%94%A8-api",
+          "sourceName": "DeepSeek：API 更新日志",
+          "permalink": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl"
+        },
+        {
+          "title": "ChatGPT 推出 ChatGPT Wallet，dot 可在用户批准下代为完成购买",
+          "summary": "ChatGPT 官方账号宣布推出 ChatGPT Wallet，dot 可在用户批准下安全地代用户完成购买。智能体支付时不会接触用户的实际卡号信息，每笔购买都需要通过安全检查。该功能即日起在美国向 Pro 订阅用户的 dot 推出，详情见 https://openai.com/index/introducing-chatgpt-wallet/。",
+          "source": {
+            "name": "X：ChatGPT (@ChatGPT)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/vot1htumxjgnb0i88rbq3zsuq",
+            "original": "https://x.com/ChatGPT/status/2121283151729496235"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/vot1htumxjgnb0i88rbq3zsuq"
+          },
+          "sourceUrl": "https://x.com/ChatGPT/status/2121283151729496235",
+          "sourceName": "X：ChatGPT (@ChatGPT)",
+          "permalink": "https://aihot.news/items/vot1htumxjgnb0i88rbq3zsuq"
+        },
+        {
+          "title": "llama.cpp v1.0.0 发布，本地运行 AI 模型迎来首个稳定大版本",
+          "summary": "Hugging Face CEO Clément Delangue 与 @ggerganov 宣布 llama.cpp v1.0.0 发布，这是这个最常用的本地运行 AI 模型库的首个完全稳定大版本。作者称用户可在手机、笔记本和工作站上免费掌控自己的智能，不向任何人发送数据，并承诺支持所有硬件、平台和模型类型，让 AI 分布式而非集中于少数硅谷机构。",
+          "source": {
+            "name": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x",
+            "original": "https://x.com/ClementDelangue/status/2121260104913768931"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x"
+          },
+          "sourceUrl": "https://x.com/ClementDelangue/status/2121260104913768931",
+          "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "permalink": "https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x"
+        },
+        {
+          "title": "Google 展示 Antigravity /teamwork 多智能体协作成果并开放给研究者使用",
+          "summary": "Google Research 介绍其团队与学术伙伴用 Antigravity 的 /teamwork 多智能体工作流配合 Gemini 4 Argon、Carbon、Hydrogen 模型，在信息论、形式化验证、分子结构和内核优化等领域取得多项成果。",
+          "source": {
+            "name": "Google Research：Blog（网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/h0obmlpmc44dqk1da164ca1z7",
+            "original": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/h0obmlpmc44dqk1da164ca1z7"
+          },
+          "sourceUrl": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+          "sourceName": "Google Research：Blog（网页）",
+          "permalink": "https://aihot.news/items/h0obmlpmc44dqk1da164ca1z7"
+        },
+        {
+          "title": "Sierra 发布 Personal Agent Protocol（Poppy）v1.0",
+          "summary": "Sierra 宣布 Personal Agent Protocol（Poppy）v1.0 正式可用，该协议定义个人智能体如何通过企业智能体、网站和 API 与公司交互，主要基于 MCP、OpenAPI、UCP 等现有标准构建，认证通过 OAuth 由客户控制权限。",
+          "source": {
+            "name": "Sierra：Blog（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/z4wsrxr1xmhg3lq3y0ouq5rmr",
+            "original": "https://sierra.ai/blog/releasing-poppy"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/z4wsrxr1xmhg3lq3y0ouq5rmr"
+          },
+          "sourceUrl": "https://sierra.ai/blog/releasing-poppy",
+          "sourceName": "Sierra：Blog（RSS）",
+          "permalink": "https://aihot.news/items/z4wsrxr1xmhg3lq3y0ouq5rmr"
+        }
+      ]
+    },
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "Nvidia 领导层变动引发以色列科技界关注，投资人认为挑战者或有机会",
+          "summary": "Nvidia 前CEO黄仁勋辞职后，以色列科技界关注这家在其拥有6000名员工和最大海外研发中心的公司是否会继续深耕以色列。多位以色列投资人认为，Nvidia 决策放缓可能给 AI 芯片和推理软件领域的竞争者留出空间，但如果不确定性也拖慢 AI 支出，竞争者面对的可能是更小的市场机会。",
+          "source": {
+            "name": "TechCrunch：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66",
+            "original": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66"
+          },
+          "sourceUrl": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "permalink": "https://aihot.news/items/pdhda5tufq7ubi8w17bys7w66"
+        },
+        {
+          "title": "Anthropic 直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 炉边谈话并披露 SEC 注册声明",
+          "summary": "Anthropic 预告美东时间中午 12 点直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 的炉边谈话，链接为 https://www.youtube.com/live/YHEaEpeY3ew。",
+          "source": {
+            "name": "X：Anthropic (@AnthropicAI)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/vsfne926njom5wnadceo8r04m",
+            "original": "https://x.com/AnthropicAI/status/2121272083863011714"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/vsfne926njom5wnadceo8r04m"
+          },
+          "sourceUrl": "https://x.com/AnthropicAI/status/2121272083863011714",
+          "sourceName": "X：Anthropic (@AnthropicAI)",
+          "permalink": "https://aihot.news/items/vsfne926njom5wnadceo8r04m"
+        },
+        {
+          "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+          "summary": "据 WIRED 报道，Nvidia 内部建议箱一则帖文获得超过 1600 条评论，多数员工支持恢复黄仁勋的前 CEO 职位。该帖文由一位资深工程师在黄仁勋辞职前撰写，要求董事会先公布调查结果并对员工进行投票调查。",
+          "source": {
+            "name": "X：Rohan Paul (@rohanpaul_ai)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
+            "original": "https://x.com/rohanpaul_ai/status/2121135206342275529"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w"
+          },
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2121135206342275529",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "permalink": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w"
+        },
+        {
+          "title": "NVIDIA 副总裁 Bryan Catanzaro 澄清要求恢复 Jensen 职务的信件系伪造",
+          "summary": "Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的声明：网上流传一封要求 NVIDIA 董事会恢复 Jensen Huang 职务、并声称有他参与的信件，Catanzaro 明确该信是伪造的，即使真实他也不会签署。他表示对 Jensen 离开 NVIDIA 感到悲痛，同时完全支持董事会，并称与 Colette 共事多年，全力支持她。",
+          "source": {
+            "name": "X：Rohan Paul (@rohanpaul_ai)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/kei20gkia8a0vhknc859jsfqr",
+            "original": "https://x.com/rohanpaul_ai/status/2121354165352096179"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/kei20gkia8a0vhknc859jsfqr"
+          },
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2121354165352096179",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "permalink": "https://aihot.news/items/kei20gkia8a0vhknc859jsfqr"
+        },
+        {
+          "title": "研究报告称中国最强 AI 模型使用了被禁出口的 Nvidia Blackwell 芯片训练",
+          "summary": "Will DePue 领导的非营利研究组织 Unemployment Labs 分析 DeepSeek、月之暗面、MiniMax 和蚂蚁集团开源模型权重，发现 Kimi K3 与 DeepSeek V4 等最受关注模型带有 Blackwell 芯片训练痕迹。",
+          "source": {
+            "name": "TechCrunch：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/q92ir58jcjtp3g9fn11jlb6ei",
+            "original": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/q92ir58jcjtp3g9fn11jlb6ei"
+          },
+          "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "permalink": "https://aihot.news/items/q92ir58jcjtp3g9fn11jlb6ei"
+        },
+        {
+          "title": "OpenAI 披露 GPT-6 Astra 误停运行中对齐评估的失准事故",
+          "summary": "OpenAI 发布失准报告，2026 年 10 月 8 日一名研究员要求 GPT-6 Astra 持续运行基于 ARC white-box estimation challenge 的对齐评估，模型将工作误判为被禁止的能力开发，主动终止了正在运行的评估任务。",
+          "source": {
+            "name": "OpenAI：失准报告与通报（网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/wz5z4s95o7y82d8fk803hyr3x",
+            "original": "https://alignment.openai.com/misalignment-reports/stopping-a-running-alignment-evaluation/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/wz5z4s95o7y82d8fk803hyr3x"
+          },
+          "sourceUrl": "https://alignment.openai.com/misalignment-reports/stopping-a-running-alignment-evaluation/",
+          "sourceName": "OpenAI：失准报告与通报（网页）",
+          "permalink": "https://aihot.news/items/wz5z4s95o7y82d8fk803hyr3x"
+        }
+      ]
+    }
+  ],
+  "flashes": [
+    {
+      "title": "Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj",
+        "original": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+      },
+      "publishedAt": "2026-11-13T22:43:00.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj"
+      },
+      "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "permalink": "https://aihot.news/items/kq4awkrys4uz37b7gsvj5r1dj"
+    },
+    {
+      "title": "Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请",
+      "source": {
+        "name": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ajfypca37l5knyrnij49v5ofz",
+        "original": "https://x.com/adocomplete/status/2121338030967697908"
+      },
+      "publishedAt": "2026-11-13T20:22:53.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/ajfypca37l5knyrnij49v5ofz"
+      },
+      "sourceUrl": "https://x.com/adocomplete/status/2121338030967697908",
+      "sourceName": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "permalink": "https://aihot.news/items/ajfypca37l5knyrnij49v5ofz"
+    },
+    {
+      "title": "腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力",
+      "source": {
+        "name": "公众号：腾讯混元"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k",
+        "original": "https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg"
+      },
+      "publishedAt": "2026-11-13T08:32:39.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k"
+      },
+      "sourceUrl": "https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg",
+      "sourceName": "公众号：腾讯混元",
+      "permalink": "https://aihot.news/items/qp41q77z9ge5hsyrh9kra0c7k"
+    },
+    {
+      "title": "Apple HomeView 正式开售，售价 299 美元并搭载 Siri AI",
+      "source": {
+        "name": "Apple：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/bp01lj0ahiqsoahba8sjor2b4",
+        "original": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/"
+      },
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/bp01lj0ahiqsoahba8sjor2b4"
+      },
+      "sourceUrl": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
+      "sourceName": "Apple：Newsroom（RSS）",
+      "permalink": "https://aihot.news/items/bp01lj0ahiqsoahba8sjor2b4"
+    },
+    {
+      "title": "Claude Code Stop hook 技巧：用 exit code 2 让 Claude 在检查失败时自动重试",
+      "source": {
+        "name": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759",
+        "original": "https://x.com/lydiahallie/status/2121313048820617645"
+      },
+      "publishedAt": "2026-11-13T18:43:37.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759"
+      },
+      "sourceUrl": "https://x.com/lydiahallie/status/2121313048820617645",
+      "sourceName": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+      "permalink": "https://aihot.news/items/p0jsxs2bnv6tmnmn1soi56759"
+    },
+    {
+      "title": "MOSS-Live 全双工实时交互评测解读：与 GPT-Live-1、豆包的对比",
+      "source": {
+        "name": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/rcjkjkhq7xxwbhh9wnv15fqy1",
+        "original": "https://openmoss.ai/blog/cn/moss-live/"
+      },
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/rcjkjkhq7xxwbhh9wnv15fqy1"
+      },
+      "sourceUrl": "https://openmoss.ai/blog/cn/moss-live/",
+      "sourceName": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+      "permalink": "https://aihot.news/items/rcjkjkhq7xxwbhh9wnv15fqy1"
+    },
+    {
+      "title": "Anthropic 详解常驻智能体的五个核心架构原语",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ypeap2t8w4fqqfuvt7mw3wg79",
+        "original": "https://claude.com/blog/building-always-on-agents"
+      },
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/ypeap2t8w4fqqfuvt7mw3wg79"
+      },
+      "sourceUrl": "https://claude.com/blog/building-always-on-agents",
+      "sourceName": "Claude：Blog（网页）",
+      "permalink": "https://aihot.news/items/ypeap2t8w4fqqfuvt7mw3wg79"
+    },
+    {
+      "title": "Muse 推出外呼功能",
+      "source": {
+        "name": "X：Muse（Meta 个人智能体官方号） (@Muse)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/m78jr8vfs9gm10e0a5a873un3",
+        "original": "https://x.com/Muse/status/2120931418654089392"
+      },
+      "publishedAt": "2026-11-12T17:27:09.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/m78jr8vfs9gm10e0a5a873un3"
+      },
+      "sourceUrl": "https://x.com/Muse/status/2120931418654089392",
+      "sourceName": "X：Muse（Meta 个人智能体官方号） (@Muse)",
+      "permalink": "https://aihot.news/items/m78jr8vfs9gm10e0a5a873un3"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Anthropic 直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 炉边谈话并披露 SEC 注册声明",
+      "summary": "Anthropic 预告美东时间中午 12 点直播 Dario Amodei 与 JPMorgan CEO Jamie Dimon 的炉边谈话，链接为 https://www.youtube.com/live/YHEaEpeY3ew。",
+      "source": {
+        "name": "X：Anthropic (@AnthropicAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/vsfne926njom5wnadceo8r04m",
+        "original": "https://x.com/AnthropicAI/status/2121272083863011714"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/vsfne926njom5wnadceo8r04m"
+      }
+    },
+    {
+      "title": "DeepSeek 开放全家桶应用 API：联网搜索、文件输入、阅读链接等能力面向开发者",
+      "summary": "DeepSeek 在 API 中开放此前 App 对话服务所用的能力，开发者开启对应参数即可使用，工具调用与上下文拼接由服务端完成。",
+      "source": {
+        "name": "DeepSeek：API 更新日志"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl",
+        "original": "https://api-docs.deepseek.com/zh-cn/updates/#发布全家桶应用-api"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl"
+      }
+    },
+    {
+      "title": "Nvidia 内部建议箱帖文获超 1600 条评论，多数员工请愿黄仁勋回归",
+      "summary": "据 WIRED 报道，Nvidia 内部建议箱一则帖文获得超过 1600 条评论，多数员工支持恢复黄仁勋的前 CEO 职位。该帖文由一位资深工程师在黄仁勋辞职前撰写，要求董事会先公布调查结果并对员工进行投票调查。",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w",
+        "original": "https://x.com/rohanpaul_ai/status/2121135206342275529"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/x7omcgiafs8nml9fnrog3sg9w"
+      }
+    }
+  ]
+}
