@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 21:57:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:17:06 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>美联储金融稳定报告：AI成为华尔街头号金融风险</title>
+      <link>https://x.com/rohanpaul_ai/status/2121391185499660332</link>
+      <description>美联储发布金融稳定报告，纽约联储调查显示87%的市场人士将AI列为首要金融风险，高于春季的50%。报告称对超级智能的市场热情推高股票估值；截至10月AI基础设施债务超6800亿美元，约为2023年全年的5倍、占投资级公司借贷约31%；最大银行对大型科技、数据中心建设及融资工具的风险敞口接近1万亿美元。</description>
+      <pubDate>Fri, 13 Nov 2026 23:54:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2121391185499660332</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2121391185499660332">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意</title>
+      <link>https://x.com/rohanpaul_ai/status/2121387496722329833</link>
+      <description>Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic IPO 路演期间的市场动荡不以为意，称对上市时机和市场状况不太在意。</description>
+      <pubDate>Fri, 13 Nov 2026 23:39:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2121387496722329833</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2121387496722329833">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧</title>
+      <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
+      <description>Nvidia CEO Jensen Huang 正式辞职，创投圈认为其继任者 Colette Kress 更保守，短期难延续他每年数十亿美元、今年已参与 105 轮的投资节奏。</description>
+      <pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</guid>
+      <source url="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">TechCrunch：AI（RSS）</source>
+    </item>
     <item>
       <title>NVIDIA 副总裁 Bryan Catanzaro 澄清要求恢复 Jensen 职务的信件系伪造</title>
       <link>https://x.com/rohanpaul_ai/status/2121354165352096179</link>
@@ -56,9 +80,9 @@
       <source url="https://x.com/lydiahallie/status/2121313048820617645">X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)</source>
     </item>
     <item>
-      <title>研究称中国最强 AI 模型由被禁运的 Nvidia Blackwell 芯片训练</title>
+      <title>研究报告称中国最强 AI 模型使用了被禁出口的 Nvidia Blackwell 芯片训练</title>
       <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
-      <description>TechCrunch 报道，前 OpenAI 研究员 Will DePue 分析 DeepSeek、月之暗面、MiniMax 和蚂蚁集团开源模型权重后，称 Kimi K3 与 DeepSeek V4 等模型留有 Blackwell 芯片训练痕迹，而这些芯片被禁止出口到中国。</description>
+      <description>Will DePue 领导的非营利研究组织 Unemployment Labs 分析 DeepSeek、月之暗面、MiniMax 和蚂蚁集团开源模型权重，发现 Kimi K3 与 DeepSeek V4 等最受关注模型带有 Blackwell 芯片训练痕迹。</description>
       <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</guid>
       <source url="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">TechCrunch：AI（RSS）</source>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 13 Nov 2026 12:52:19 +0000</pubDate>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</guid>
       <source url="https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>AINews：黄仁勋辞任 NVIDIA CEO，Colette Kress 出任临时 CEO</title>
-      <link>https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/</link>
-      <description>Latent Space 的 AI 新闻日报头条是 NVIDIA 宣布黄仁勋在任职 33 年后辞去 CEO、总裁和董事职务，CFO Colette Kress 出任临时 CEO，SEC 文件显示董事会于 11 月 11 日接受辞呈，此前董事会已就 NYT 报道的绯闻事件展开独立调查。</description>
-      <pubDate>Fri, 13 Nov 2026 09:04:13 +0000</pubDate>
-      <guid isPermaLink="true">https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/</guid>
-      <source url="https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/">Latent Space（RSS）</source>
-    </item>
-    <item>
-      <title>腾讯混元发布实时语音模型 Hy Realtime，新增工具调用与唱歌能力</title>
-      <link>https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg</link>
-      <description>腾讯混元发布全新实时语音模型 Hy Realtime，在语音理解、指令遵循、拟人化表达等基础能力外新增 Agentic 工具调用与唱歌能力，已在元宝语音通话、腾讯客服上线，近期将上线腾讯云提供 API 服务。</description>
-      <pubDate>Fri, 13 Nov 2026 08:32:39 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg</guid>
-      <source url="https://mp.weixin.qq.com/s/bFxAT04ohJs9hPcjjin3bg">公众号：腾讯混元</source>
-    </item>
-    <item>
-      <title>MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！</title>
-      <link>https://www.qbitai.com/2026/11/509827.html</link>
-      <description>12.9 北京，来MEET2027现场</description>
-      <pubDate>Fri, 13 Nov 2026 07:51:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509827.html</guid>
-      <source url="https://www.qbitai.com/2026/11/509827.html">量子位</source>
     </item>
   </channel>
 </rss>
