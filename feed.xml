@@ -5,10 +5,34 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 10:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:35:19 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Funkiest Zoom meeting EVER (超级视频) 互联网电影数据库(IMDb)上"Funkiest Zoom"的资料(英文)</title>
+      <title>解雇Sam Altman的OpenAI董事会成员表示,</title>
+      <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
+      <description>今天,我和乔治城大学安全和新兴技术中心执行主任海伦·托纳(Helen Toner)交谈。 这一集是我们关于现实生活中人工智能系列的第二部分。 海伦是人工智能安全和策略界的著名人物,尽管她或许最有名于人。</description>
+      <pubDate>Sat, 14 Nov 2026 10:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
+      <source url="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview">The Verge AI</source>
+    </item>
+    <item>
+      <title>Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空</title>
+      <link>https://www.interconnects.ai/p/open-source-ai-without-jensen</link>
+      <description>Nathan Lambert 撰文分析 Nvidia CEO 黄仁勋辞职对美国开源模型生态的冲击，认为 Nvidia 对开源模型的资金支持很可能随黄仁勋的离开而干涸，公司首要目标是稳住局面并向客户交付。</description>
+      <pubDate>Sat, 14 Nov 2026 12:23:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.interconnects.ai/p/open-source-ai-without-jensen</guid>
+      <source url="https://www.interconnects.ai/p/open-source-ai-without-jensen">Nathan Lambert：Interconnects（RSS）</source>
+    </item>
+    <item>
+      <title>黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕</title>
+      <link>https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</link>
+      <description>The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，分析这位执掌首家 5 万亿美元公司、占标普 500 约 6% 的创始人的离去意味着什么。</description>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</guid>
+      <source url="https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Funkiest Teams meeting EVER (Surprise video) 互联网电影数据库(IMDb)上"Funkiest Teams meeting EVER"的资料(英文) 互联网电影数据库(IMDb)上"Funkiest"的资料(英文)</title>
       <link>https://www.youtube.com/watch?v=x7iwI6WfWS0</link>
       <description>完成这首歌后,我花了3个月的时间来收集勇气,站在镜头前进行录制. 希望各位学者们都喜欢! 非常感谢各位惊人的音乐家的帮助!. Vocals: Carolina Padrón - Droms: Federico Guccidardo - Bass: Phil Willnnd - Saxophone: Di</description>
       <pubDate>Sat, 14 Nov 2026 08:40:55 +0000</pubDate>
@@ -54,6 +78,14 @@
       <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.14765</guid>
       <source url="https://arxiv.org/abs/2611.14765">ArXiv AI</source>
+    </item>
+    <item>
+      <title>突发！DeepSeek开放全家桶API</title>
+      <link>https://www.qbitai.com/2026/11/510003.html</link>
+      <description>官方App功能均可自由组合调用</description>
+      <pubDate>Sat, 14 Nov 2026 02:39:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510003.html</guid>
+      <source url="https://www.qbitai.com/2026/11/510003.html">量子位</source>
     </item>
     <item>
       <title>美联储金融稳定报告：AI成为华尔街头号金融风险</title>
@@ -134,38 +166,6 @@
       <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</guid>
       <source url="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>6 低评使用 ChatGPT 的方法</title>
-      <link>https://www.youtube.com/shorts/ErOVIC-MGVA</link>
-      <description>我们问了6个人使用ChatGPT的评分最低。 他们的答案包括个人风格、日常物流和停止随机订阅费。 您的答案是什么?</description>
-      <pubDate>Fri, 13 Nov 2026 18:15:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/ErOVIC-MGVA</guid>
-      <source url="https://www.youtube.com/shorts/ErOVIC-MGVA">OpenAI</source>
-    </item>
-    <item>
-      <title>Sierra 发布 Personal Agent Protocol（Poppy）v1.0</title>
-      <link>https://sierra.ai/blog/releasing-poppy</link>
-      <description>Sierra 宣布 Personal Agent Protocol（Poppy）v1.0 正式可用，该协议定义个人智能体如何通过企业智能体、网站和 API 与公司交互，主要基于 MCP、OpenAPI、UCP 等现有标准构建，认证通过 OAuth 由客户控制权限。</description>
-      <pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://sierra.ai/blog/releasing-poppy</guid>
-      <source url="https://sierra.ai/blog/releasing-poppy">Sierra：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Mozilla如何使用GPT-6 Cyber来发现和修复Firefox漏洞</title>
-      <link>https://www.youtube.com/watch?v=PkAmyub12K8</link>
-      <description>莫齐拉正在将数十年的安全工程与人工智能特工相结合,以加强Firefox的防御。 布莱恩·格林斯特德(Brian Grinstead)加入了OpenAI的克林特·吉布勒(Clint Gibler),讨论团队如何优先调查、测试和核实弱点,找到相关的bug模式,并帮助工程师们制定修复方案。</description>
-      <pubDate>Fri, 13 Nov 2026 16:56:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=PkAmyub12K8</guid>
-      <source url="https://www.youtube.com/watch?v=PkAmyub12K8">OpenAI</source>
-    </item>
-    <item>
-      <title>ChatGPT 推出 ChatGPT Wallet，dot 可在用户批准下代为完成购买</title>
-      <link>https://x.com/ChatGPT/status/2121283151729496235</link>
-      <description>ChatGPT 官方账号宣布推出 ChatGPT Wallet，dot 可在用户批准下安全地代用户完成购买。智能体支付时不会接触用户的实际卡号信息，每笔购买都需要通过安全检查。该功能即日起在美国向 Pro 订阅用户的 dot 推出，详情见 https://openai.com/index/introducing-chatgpt-wallet/。</description>
-      <pubDate>Fri, 13 Nov 2026 16:44:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ChatGPT/status/2121283151729496235</guid>
-      <source url="https://x.com/ChatGPT/status/2121283151729496235">X：ChatGPT (@ChatGPT)</source>
     </item>
   </channel>
 </rss>
