@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:42:03 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>在Nvidia间谍丑闻后,国会要加紧对人工智能芯片的出口规则</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
+      <description>毫不奇怪,在目前前Nvidia CEOJensen Huang和被怀疑是中国间谍的丑闻后,国会正想进一步限制人工智能芯片的出口。 民主党和共和党都表示支持各种措施和法案,这些措施和法案会收紧规则,并要求采取这些措施和法案。</description>
+      <pubDate>Sun, 15 Nov 2026 14:15:43 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china">The Verge AI</source>
+    </item>
     <item>
       <title>马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务</title>
       <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
@@ -40,9 +48,9 @@
       <source url="https://www.interconnects.ai/p/open-source-ai-without-jensen">Nathan Lambert：Interconnects（RSS）</source>
     </item>
     <item>
-      <title>黄仁勋离开 Nvidia：远见型创始人 CEO 时代落幕</title>
+      <title>黄仁勋离开Nvidia：远见型创始人CEO时代落幕</title>
       <link>https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</link>
-      <description>The Verge 长文回顾黄仁勋因走私丑闻和婚外情指控离开 Nvidia，分析这位执掌首家 5 万亿美元公司、占标普 500 约 6% 的创始人的离去意味着什么。</description>
+      <description>The Verge长文回顾黄仁勋离开Nvidia，分析这位执掌首家5万亿美元公司、占标普500约6%的创始人的离去意味着什么。文章梳理了黄仁勋从创办Nvidia到押注CUDA的关键决策，并结合多位分析师判断其离开后公司的路线图与风险。</description>
       <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</guid>
       <source url="https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo">The Verge：AI（RSS）</source>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 13 Nov 2026 20:07:34 +0000</pubDate>
       <guid isPermaLink="true">https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/</guid>
       <source url="https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察</title>
-      <link>https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off</link>
-      <description>Newcomer 在旧金山 Cerebral Valley AI Summit 现场报道：Jensen Huang 因第二段婚外情披露辞职，Reuters 当天报道存在第三段，与会者多认为 Nvidia 短期无碍但生态承压，Databricks CEO 称其对整个生态是打击。</description>
-      <pubDate>Fri, 13 Nov 2026 19:27:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off</guid>
-      <source url="https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off">Newcomer 新闻长文（RSS）</source>
     </item>
   </channel>
 </rss>
