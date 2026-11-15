@@ -5,7 +5,7 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 09:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:00:21 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务</title>
@@ -22,14 +22,6 @@
       <pubDate>Sat, 14 Nov 2026 19:05:17 +0000</pubDate>
       <guid isPermaLink="true">https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/</guid>
       <source url="https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/">The Decoder：AI News（RSS）</source>
-    </item>
-    <item>
-      <title>黄仁勋离开 Nvidia 后，亚洲多地如何回应</title>
-      <link>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</link>
-      <description>黄仁勋离开 Nvidia 后，亚洲多地相继回应：韩国科技主管部门称 Nvidia 重申将向韩国供应26万块先进 GPU 并继续联合 AI 项目，中国台湾地区经济主管部门负责人龚明鑫认为此事不太可能显著改变全球 AI 产业增长，日本经济产业省表示将密切关注 Nvidia。</description>
-      <pubDate>Sat, 14 Nov 2026 16:34:15 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</guid>
-      <source url="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/">TechCrunch：AI（RSS）</source>
     </item>
     <item>
       <title>解雇Sam Altman的OpenAI董事会成员表示,</title>
@@ -166,6 +158,14 @@
       <pubDate>Fri, 13 Nov 2026 20:07:34 +0000</pubDate>
       <guid isPermaLink="true">https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/</guid>
       <source url="https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>Nvidia 危机与 Anthropic IPO 前夜的 Cerebral Valley AI Summit 现场观察</title>
+      <link>https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off</link>
+      <description>Newcomer 在旧金山 Cerebral Valley AI Summit 现场报道：Jensen Huang 因第二段婚外情披露辞职，Reuters 当天报道存在第三段，与会者多认为 Nvidia 短期无碍但生态承压，Databricks CEO 称其对整个生态是打击。</description>
+      <pubDate>Fri, 13 Nov 2026 19:27:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off</guid>
+      <source url="https://www.newcomer.co/p/nvidia-crises-anthropic-ipo-and-off">Newcomer 新闻长文（RSS）</source>
     </item>
   </channel>
 </rss>
