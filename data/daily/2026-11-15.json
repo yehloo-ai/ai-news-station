@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T07:06:44.516Z",
+  "windowStart": "2026-11-14T00:00:00.000Z",
+  "windowEnd": "2026-11-15T00:00:00.000Z",
+  "links": {
+    "aihot": "https://aihot.news/daily/2026-11-15"
+  },
+  "attribution": {
+    "name": "AIHOT",
+    "url": "https://aihot.news/daily/2026-11-15"
+  },
+  "lead": {
+    "title": "Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
+    "leadParagraph": "Nathan Lambert 撰文分析 Nvidia CEO 黄仁勋辞职对美国开源模型生态的冲击，认为 Nvidia 对开源模型的资金支持很可能随黄仁勋的离开而干涸，公司首要目标是稳住局面并向客户交付。"
+  },
+  "sections": [
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+          "summary": "要求 Nvidia 恢复被罢免 CEO 黄仁勋职务的请愿书，截至周六下午已获得超过 11.5 万个签名，包括 5,965 名在职员工、1,108 名前员工和 63,063 名股东，马斯克、Replit CEO Amjad Masad 和 Epic Games CEO Tim Sweeney 均已联署。",
+          "source": {
+            "name": "TechCrunch：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+            "original": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju"
+          },
+          "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "permalink": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju"
+        },
+        {
+          "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展波及最多 5000 用户",
+          "summary": "Cursor 发布安全事件完整调查：攻击者利用 Fireworks 暴露的访问密钥读取用于模型训练的 coding agent trace，少于 0.01% 客户的 API 凭证暴露。",
+          "source": {
+            "name": "Cursor Blog"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/e9o5h2c1o5f0xuh2bgqtc2w7k",
+            "original": "https://cursor.com/blog/security-incident-update"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/e9o5h2c1o5f0xuh2bgqtc2w7k"
+          },
+          "sourceUrl": "https://cursor.com/blog/security-incident-update",
+          "sourceName": "Cursor Blog",
+          "permalink": "https://aihot.news/items/e9o5h2c1o5f0xuh2bgqtc2w7k"
+        },
+        {
+          "title": "美联储金融稳定报告：AI成为华尔街头号金融风险",
+          "summary": "美联储发布金融稳定报告，纽约联储调查显示87%的市场人士将AI列为首要金融风险，高于春季的50%。报告称对超级智能的市场热情推高股票估值；截至10月AI基础设施债务超6800亿美元，约为2023年全年的5倍、占投资级公司借贷约31%；最大银行对大型科技、数据中心建设及融资工具的风险敞口接近1万亿美元。",
+          "source": {
+            "name": "X：Rohan Paul (@rohanpaul_ai)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4",
+            "original": "https://x.com/rohanpaul_ai/status/2121391185499660332"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4"
+          },
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2121391185499660332",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "permalink": "https://aihot.news/items/xzt8t0xkgj3mm17k11s2yo3d4"
+        }
+      ]
+    },
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "title": "Thinking Machines Lab 发布端到端 4-bit 训练技术报告",
+          "summary": "Thinking Machines Lab 公布端到端 4-bit 训练方法，在 Inkling 2 Small 上从预训练到 RL rollout 统一使用 NVFP4 前向与 MXFP8 反向的数值配方。",
+          "source": {
+            "name": "Thinking Machines Lab：官方博客"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/sk6b7wgji4vbbkaa197ys334v",
+            "original": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/sk6b7wgji4vbbkaa197ys334v"
+          },
+          "sourceUrl": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
+          "sourceName": "Thinking Machines Lab：官方博客",
+          "permalink": "https://aihot.news/items/sk6b7wgji4vbbkaa197ys334v"
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
+          "summary": "Nathan Lambert 撰文分析 Nvidia CEO 黄仁勋辞职对美国开源模型生态的冲击，认为 Nvidia 对开源模型的资金支持很可能随黄仁勋的离开而干涸，公司首要目标是稳住局面并向客户交付。",
+          "source": {
+            "name": "Nathan Lambert：Interconnects（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n",
+            "original": "https://www.interconnects.ai/p/open-source-ai-without-jensen"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n"
+          },
+          "sourceUrl": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+          "sourceName": "Nathan Lambert：Interconnects（RSS）",
+          "permalink": "https://aihot.news/items/np6dwfqwflqe7vfse9kkfxj1n"
+        }
+      ]
+    }
+  ],
+  "flashes": [
+    {
+      "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
+        "original": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/"
+      },
+      "publishedAt": "2026-11-14T19:05:17.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i"
+      },
+      "sourceUrl": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+      "sourceName": "The Decoder：AI News（RSS）",
+      "permalink": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
+      "summary": "要求 Nvidia 恢复被罢免 CEO 黄仁勋职务的请愿书，截至周六下午已获得超过 11.5 万个签名，包括 5,965 名在职员工、1,108 名前员工和 63,063 名股东，马斯克、Replit CEO Amjad Masad 和 Epic Games CEO Tim Sweeney 均已联署。",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+        "original": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju"
+      }
+    },
+    {
+      "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展波及最多 5000 用户",
+      "summary": "Cursor 发布安全事件完整调查：攻击者利用 Fireworks 暴露的访问密钥读取用于模型训练的 coding agent trace，少于 0.01% 客户的 API 凭证暴露。",
+      "source": {
+        "name": "Cursor Blog"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/e9o5h2c1o5f0xuh2bgqtc2w7k",
+        "original": "https://cursor.com/blog/security-incident-update"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/e9o5h2c1o5f0xuh2bgqtc2w7k"
+      }
+    }
+  ]
+}

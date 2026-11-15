@@ -1322,5 +1322,14 @@
     "summary": "Hugging Face CEO Clément Delangue 与 @ggerganov 宣布 llama.cpp v1.0.0 发布，这是这个最常用的本地运行 AI 模型库的首个完全稳定大版本。作者称用户可在手机、笔记本和工作站上免费掌控自己的智能，不向任何人发送数据，并承诺支持所有硬件、平台和模型类型，让 AI 分布式而非集中于少数硅谷机构。",
     "sourceUrl": "https://x.com/ClementDelangue/status/2121260104913768931",
     "sourceName": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+  },
+  {
+    "observedDate": "2026-11-15",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空",
+    "summary": "Nathan Lambert 撰文分析 Nvidia CEO 黄仁勋辞职对美国开源模型生态的冲击，认为 Nvidia 对开源模型的资金支持很可能随黄仁勋的离开而干涸，公司首要目标是稳住局面并向客户交付。",
+    "sourceUrl": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "sourceName": "Nathan Lambert：Interconnects（RSS）"
   }
 ]
