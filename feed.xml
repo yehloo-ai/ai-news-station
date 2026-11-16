@@ -5,8 +5,32 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 21:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 01:54:28 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>苹果公司的新研究着眼于提高人工智能健康工具的有效性</title>
+      <link>https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</link>
+      <description>苹果公司今天宣布了一项新的研究,目的是更好地了解人们如何与对话的人工智能健康工具互动,以及他们的反应实际有多大用处。 该公司正在与OpenEvicence公司合作开展苹果健康人工智能使用研究,OpenEvication公司是他使用的一个临床人工智能平台。</description>
+      <pubDate>Sun, 15 Nov 2026 20:26:56 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</guid>
+      <source url="https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools">The Verge AI</source>
+    </item>
+    <item>
+      <title>曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队</title>
+      <link>http://www.geekpark.net/news/373994</link>
+      <description>曝黄仁勋考虑重返英伟达担任 CEO，盟友正施压董事会 据英国《金融时报》周日报道，黄仁勋正考虑重返英伟达担任首席执行官。如今他在硅谷的多位盟友正向英伟达董事会施压，要求公司重新任命他。 报道称，黄仁勋已经和亲信讨论了重返公司的可能性。与此同时，英伟达董事会还在开展独立调查。 一位黄仁勋的盟友表示，他们正在组建一个由硅谷高管构成的「作战室」，游说黄仁勋重返英伟达，并计划争取白宫方面支持。该人士透露：「除了那些前沿 AI 实验室外，科技界所有大腕都爱戴黄仁勋。」他还补充称，这些行动得到了黄仁勋本人的支持。 不过，与其他创始人、CEO 不同，黄仁勋并没有英伟达的控股股份，因此无法推翻董事会任何决定。</description>
+      <pubDate>Mon, 16 Nov 2026 08:47:39 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373994</guid>
+      <source url="http://www.geekpark.net/news/373994">极客公园</source>
+    </item>
+    <item>
+      <title>AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板</title>
+      <link>https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg</link>
+      <description>作者拆解了近期在群里疯传的 1.4M 纯 HTML 3D 游戏，指出其中约 700KB 是打包进文件的 Three.js，其余全部由代码程序化生成，没有图片、模型和录音。</description>
+      <pubDate>Sun, 15 Nov 2026 23:56:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg</guid>
+      <source url="https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg">公众号：数字生命卡兹克</source>
+    </item>
     <item>
       <title>在Nvidia间谍丑闻后,国会要加紧对人工智能芯片的出口规则</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
@@ -30,6 +54,14 @@
       <pubDate>Sat, 14 Nov 2026 19:05:17 +0000</pubDate>
       <guid isPermaLink="true">https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/</guid>
       <source url="https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/">The Decoder：AI News（RSS）</source>
+    </item>
+    <item>
+      <title>Apple 联合 OpenEvidence 启动 Apple Health AI Usage Study 探索健康 AI 使用</title>
+      <link>https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/</link>
+      <description>Apple 宣布在美国推出 Apple Health AI Usage Study，与 OpenEvidence 合作研究用户如何与对话式健康 AI 工具互动。</description>
+      <pubDate>Sat, 14 Nov 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/</guid>
+      <source url="https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/">Apple：Newsroom（RSS）</source>
     </item>
     <item>
       <title>解雇Sam Altman的OpenAI董事会成员表示,</title>
@@ -134,38 +166,6 @@
       <pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</guid>
       <source url="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>NVIDIA 副总裁 Bryan Catanzaro 澄清要求恢复 Jensen 职务的信件系伪造</title>
-      <link>https://x.com/rohanpaul_ai/status/2121354165352096179</link>
-      <description>Rohan Paul 转发 NVIDIA 应用深度学习研究副总裁 Bryan Catanzaro 的声明：网上流传一封要求 NVIDIA 董事会恢复 Jensen Huang 职务、并声称有他参与的信件，Catanzaro 明确该信是伪造的，即使真实他也不会签署。他表示对 Jensen 离开 NVIDIA 感到悲痛，同时完全支持董事会，并称与 Colette 共事多年，全力支持她。</description>
-      <pubDate>Fri, 13 Nov 2026 21:27:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2121354165352096179</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2121354165352096179">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>ChatGPT 钱包让 OpenAI 的 Dots 代理为您购买</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</link>
-      <description>今年早些时候推出Dots人工智能代理平台后,OpenAI正在为代理推出一个钱包. ChatGPT钱包从今天开始为美国18岁及18岁以上的ChatGPT Pro用户推出,使用美国开具的账单地址以及"符合美国发行的美国快递,大通,Mastercard 和</description>
-      <pubDate>Fri, 13 Nov 2026 15:45:10 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet">The Verge AI</source>
-    </item>
-    <item>
-      <title>Claude Duet 向美国等待名单上的 Pro、Max 和 Ultra 订阅者发出全部邀请</title>
-      <link>https://x.com/adocomplete/status/2121338030967697908</link>
-      <description>Anthropic 的 Claude Duet 更新：截至昨日在等待名单上的全部美国 Pro、Max 和 Ultra 订阅者均已收到邀请，等待名单入口为 https://claude.com/product/claude-duet。研究预览附带限额重置，Pro 为 3 次，Max 和 Ultra 为 1 次；官方计划很快向美国以外更多国家开放，并继续征集反馈。</description>
-      <pubDate>Fri, 13 Nov 2026 20:22:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/adocomplete/status/2121338030967697908</guid>
-      <source url="https://x.com/adocomplete/status/2121338030967697908">X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)</source>
-    </item>
-    <item>
-      <title>WSJ 报道称黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活</title>
-      <link>https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/</link>
-      <description>The Decoder 援引 WSJ 报道分析称，黄仁勋被罢免更多源于 Nvidia 高风险业务而非私生活传闻。Nvidia 在其主导下向 AI 云厂商和数据中心开发商提供数十亿美元财务担保以换取营收分成，最大一笔涉及对 OpenAI 俄亥俄数据中心的 2500 亿美元担保，消息公布后股价跌 5%，临时 CEO Colette Kress 将该承诺减半。</description>
-      <pubDate>Fri, 13 Nov 2026 20:07:34 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/</guid>
-      <source url="https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/">The Decoder：AI News（RSS）</source>
     </item>
   </channel>
 </rss>
