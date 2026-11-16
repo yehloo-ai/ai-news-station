@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 01:54:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:29:14 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>苹果公司的新研究着眼于提高人工智能健康工具的有效性</title>
-      <link>https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</link>
-      <description>苹果公司今天宣布了一项新的研究,目的是更好地了解人们如何与对话的人工智能健康工具互动,以及他们的反应实际有多大用处。 该公司正在与OpenEvicence公司合作开展苹果健康人工智能使用研究,OpenEvication公司是他使用的一个临床人工智能平台。</description>
-      <pubDate>Sun, 15 Nov 2026 20:26:56 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</guid>
-      <source url="https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools">The Verge AI</source>
+      <title>库德纳德</title>
+      <link>https://www.youtube.com/watch?v=soNLXvgUqNY</link>
+      <description>(原始内容存档于2019-03-26). Une cousinade avec 63 cousins. Un sitec crac ChatGPT.</description>
+      <pubDate>Mon, 16 Nov 2026 05:00:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=soNLXvgUqNY</guid>
+      <source url="https://www.youtube.com/watch?v=soNLXvgUqNY">OpenAI</source>
     </item>
     <item>
-      <title>曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队</title>
-      <link>http://www.geekpark.net/news/373994</link>
-      <description>曝黄仁勋考虑重返英伟达担任 CEO，盟友正施压董事会 据英国《金融时报》周日报道，黄仁勋正考虑重返英伟达担任首席执行官。如今他在硅谷的多位盟友正向英伟达董事会施压，要求公司重新任命他。 报道称，黄仁勋已经和亲信讨论了重返公司的可能性。与此同时，英伟达董事会还在开展独立调查。 一位黄仁勋的盟友表示，他们正在组建一个由硅谷高管构成的「作战室」，游说黄仁勋重返英伟达，并计划争取白宫方面支持。该人士透露：「除了那些前沿 AI 实验室外，科技界所有大腕都爱戴黄仁勋。」他还补充称，这些行动得到了黄仁勋本人的支持。 不过，与其他创始人、CEO 不同，黄仁勋并没有英伟达的控股股份，因此无法推翻董事会任何决定。</description>
-      <pubDate>Mon, 16 Nov 2026 08:47:39 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373994</guid>
-      <source url="http://www.geekpark.net/news/373994">极客公园</source>
+      <title>LLM 代理器何时应该忘记? 在查询- 关键解析器错误下进行内存过滤</title>
+      <link>https://arxiv.org/abs/2611.17338</link>
+      <description>LLM 内存系统经常删除被归类为 stale 的事实。 我们显示, 当解析器错误删除查询关键事实时, 这个硬过滤步骤会降低下游的精确度。 通过三种模型, 控制敏感度干预会移动硬投</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17338</guid>
+      <source url="https://arxiv.org/abs/2611.17338">ArXiv AI</source>
     </item>
     <item>
-      <title>AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板</title>
-      <link>https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg</link>
-      <description>作者拆解了近期在群里疯传的 1.4M 纯 HTML 3D 游戏，指出其中约 700KB 是打包进文件的 Three.js，其余全部由代码程序化生成，没有图片、模型和录音。</description>
-      <pubDate>Sun, 15 Nov 2026 23:56:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg</guid>
-      <source url="https://mp.weixin.qq.com/s/ZJddy1ssHBvw_1sm12jrkg">公众号：数字生命卡兹克</source>
+      <title>对小型、量化的、在线的迷幻探测器进行开业审计</title>
+      <link>https://arxiv.org/abs/2611.17339</link>
+      <description>对大语言模型的幻觉检测主要以7B-70B研究模型上评价的方法为主,这些模型具有丰富的采样预算和精确匹配或ROUGE的正确性标签. 小模型从业者实际上在Device,Phi-3-mini上载运.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17339</guid>
+      <source url="https://arxiv.org/abs/2611.17339">ArXiv AI</source>
     </item>
     <item>
-      <title>在Nvidia间谍丑闻后,国会要加紧对人工智能芯片的出口规则</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
-      <description>毫不奇怪,在目前前Nvidia CEOJensen Huang和被怀疑是中国间谍的丑闻后,国会正想进一步限制人工智能芯片的出口。 民主党和共和党都表示支持各种措施和法案,这些措施和法案会收紧规则,并要求采取这些措施和法案。</description>
-      <pubDate>Sun, 15 Nov 2026 14:15:43 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china">The Verge AI</source>
+      <title>LoRAWeaver:在LORA代表空间进行定向适配器运行</title>
+      <link>https://arxiv.org/abs/2611.17340</link>
+      <description>大语言模型通过全面的再培训更新成本很高. 参数高效的微调可以降低适应成本,但重复的适应会形成越来越多的任务专用的LORA适配器集合. 此集合会使适配器选择器复杂化.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17340</guid>
+      <source url="https://arxiv.org/abs/2611.17340">ArXiv AI</source>
     </item>
     <item>
-      <title>马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务</title>
-      <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
-      <description>要求 Nvidia 恢复被罢免 CEO 黄仁勋职务的请愿书，截至周六下午已获得超过 11.5 万个签名，包括 5,965 名在职员工、1,108 名前员工和 63,063 名股东，马斯克、Replit CEO Amjad Masad 和 Epic Games CEO Tim Sweeney 均已联署。</description>
-      <pubDate>Sat, 14 Nov 2026 21:41:22 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</guid>
-      <source url="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/">TechCrunch：AI（RSS）</source>
+      <title>作为EHR药品套装结构检索工具的表列人口前科</title>
+      <link>https://arxiv.org/abs/2611.17341</link>
+      <description>来自电子健康记录的医学预测是一个固定的词汇结构化的预测问题,然而最近的临床RAG系统常常把它当作开放式的基于病例的推理:检索类似的病人入院并请求一个LLM推断a.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17341</guid>
+      <source url="https://arxiv.org/abs/2611.17341">ArXiv AI</source>
     </item>
     <item>
-      <title>Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难</title>
-      <link>https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/</link>
-      <description>Anthropic CEO Dario Amodei 在 JPMorgan 投资者活动上表示，明年的走向存在巨大不确定性，算力是公司面临的最深商业两难：算力需提前一到两年购买，买少了影响客户和收入，买多了可能财务过度扩张。</description>
-      <pubDate>Sat, 14 Nov 2026 19:05:17 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/</guid>
-      <source url="https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/">The Decoder：AI News（RSS）</source>
+      <title>操作不透明序列深度</title>
+      <link>https://arxiv.org/abs/2611.17495</link>
+      <description>思考链是目前监督人工智能模型的宝贵工具,但一些建筑转变会大大降低COT的可监控性。 我们实施了一项措施,作为无语言序列认知量的代名词。</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17495</guid>
+      <source url="https://arxiv.org/abs/2611.17495">ArXiv AI</source>
     </item>
     <item>
-      <title>Apple 联合 OpenEvidence 启动 Apple Health AI Usage Study 探索健康 AI 使用</title>
-      <link>https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/</link>
-      <description>Apple 宣布在美国推出 Apple Health AI Usage Study，与 OpenEvidence 合作研究用户如何与对话式健康 AI 工具互动。</description>
-      <pubDate>Sat, 14 Nov 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/</guid>
-      <source url="https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/">Apple：Newsroom（RSS）</source>
+      <title>与反思保持一致:学习如何遵循原则</title>
+      <link>https://arxiv.org/abs/2611.17398</link>
+      <description>调整大语言模型的适当指导准则和原则往往取决于文化背景和部署应用。</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17398</guid>
+      <source url="https://arxiv.org/abs/2611.17398">ArXiv ML</source>
     </item>
     <item>
-      <title>解雇Sam Altman的OpenAI董事会成员表示,</title>
-      <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
-      <description>今天,我和乔治城大学安全和新兴技术中心执行主任海伦·托纳(Helen Toner)交谈。 这一集是我们关于现实生活中人工智能系列的第二部分。 海伦是人工智能安全和策略界的著名人物,尽管她或许最有名于人。</description>
-      <pubDate>Sat, 14 Nov 2026 10:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
-      <source url="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview">The Verge AI</source>
+      <title>WETW: 学习对等- 特定重量的欧几里得距离, 用于高效的 DTW 搜索</title>
+      <link>https://arxiv.org/abs/2611.17412</link>
+      <description>动态时间 Warping(DTW)是跨时间序列的相似性搜索的标准距离,在时间序列中错位,但其成本在序列长度中是四极化的,下限常是少数候选者,因此在长的大型集合上搜索</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17412</guid>
+      <source url="https://arxiv.org/abs/2611.17412">ArXiv ML</source>
     </item>
     <item>
-      <title>Nathan Lambert 分析黄仁勋辞职后美国开源模型生态的真空</title>
-      <link>https://www.interconnects.ai/p/open-source-ai-without-jensen</link>
-      <description>Nathan Lambert 撰文分析 Nvidia CEO 黄仁勋辞职对美国开源模型生态的冲击，认为 Nvidia 对开源模型的资金支持很可能随黄仁勋的离开而干涸，公司首要目标是稳住局面并向客户交付。</description>
-      <pubDate>Sat, 14 Nov 2026 12:23:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.interconnects.ai/p/open-source-ai-without-jensen</guid>
-      <source url="https://www.interconnects.ai/p/open-source-ai-without-jensen">Nathan Lambert：Interconnects（RSS）</source>
+      <title>与大阶梯后裔的分类:统一自稳率和趋同率</title>
+      <link>https://arxiv.org/abs/2611.17459</link>
+      <description>神经网络经常通过梯度下降(GD)培训,使用超过古典稳定性阈值的阶梯大小,这种制度是标准趋同理论不再适用的。 尽管呈现出非模态损失和振荡动力学,但是,这种变化是:</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17459</guid>
+      <source url="https://arxiv.org/abs/2611.17459">ArXiv ML</source>
     </item>
     <item>
-      <title>黄仁勋离开Nvidia：远见型创始人CEO时代落幕</title>
-      <link>https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</link>
-      <description>The Verge长文回顾黄仁勋离开Nvidia，分析这位执掌首家5万亿美元公司、占标普500约6%的创始人的离去意味着什么。文章梳理了黄仁勋从创办Nvidia到押注CUDA的关键决策，并结合多位分析师判断其离开后公司的路线图与风险。</description>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</guid>
-      <source url="https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo">The Verge：AI（RSS）</source>
+      <title>未完成的奔驰:测量现实工作环境中持久性代理违反规则的情况</title>
+      <link>https://arxiv.org/abs/2611.17460</link>
+      <description>人工情报人员越来越坚持不懈地完成任务,在内部文件和其他人民权威的许多未说明的限制下,长期自主地进行下放的工作。</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17460</guid>
+      <source url="https://arxiv.org/abs/2611.17460">ArXiv ML</source>
     </item>
     <item>
-      <title>人工智能可以做一切... 除此之外</title>
-      <link>https://www.youtube.com/watch?v=x7iwI6WfWS0</link>
-      <description>完成这首歌后,我花了3个月的时间来收集勇气,站在镜头前进行录制. 希望各位学者们都喜欢! 非常感谢各位惊人的音乐家的帮助!. Vocals: Carolina Padrón - Droms: Federico Guccidardo - Bass: Phil Willnnd - Saxophone: Di</description>
-      <pubDate>Sat, 14 Nov 2026 08:40:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=x7iwI6WfWS0</guid>
-      <source url="https://www.youtube.com/watch?v=x7iwI6WfWS0">Two Minute Papers</source>
+      <title>用于推论时间的传播树采样</title>
+      <link>https://arxiv.org/abs/2611.17462</link>
+      <description>基于分泌的基因模型已经变得对可能存在的晶体结构有着强烈的前科,但将之前的基因模型变为有希望的候选模型需要同时转向若干相互冲突的特性。 精细调整费用昂贵,并产生新的晶体结构。</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17462</guid>
+      <source url="https://arxiv.org/abs/2611.17462">ArXiv ML</source>
     </item>
     <item>
-      <title>Zugwise: 用于数字化手写国际象棋计分表的域- 智能游戏重建</title>
-      <link>https://arxiv.org/abs/2611.14544</link>
-      <description>将手写棋盘数字化作为笔迹识别问题进行了研究: 读取每个框中的动作, 并检查它是否合法。 此设定忽略了最重要的错误。 产生非法动作的错误读取是响亮的 。 1th</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.14544</guid>
-      <source url="https://arxiv.org/abs/2611.14544">ArXiv AI</source>
+      <title>追踪LLM中的知识和理由</title>
+      <link>https://arxiv.org/abs/2611.17461</link>
+      <description>目前对大语言模型(LLMs)的评价报告数据集或任务层面的业绩,揭示一个模型取得了什么成果,但对与其性能相关的内部处理几乎没有什么见解。</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17461</guid>
+      <source url="https://arxiv.org/abs/2611.17461">ArXiv NLP</source>
     </item>
     <item>
-      <title>清理一个代理的历史伤害 当世界仍然持有错误</title>
-      <link>https://arxiv.org/abs/2611.14654</link>
-      <description>使用语言模型的代理人积累了他们自己错误的历史,而这种系统会压缩、修复或摆脱这种历史来决定它对这些错误的描述,而其影响却留在世界上。</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.14654</guid>
-      <source url="https://arxiv.org/abs/2611.14654">ArXiv AI</source>
+      <title>LLMS的诗歌“ 重现 ”</title>
+      <link>https://arxiv.org/abs/2611.17464</link>
+      <description>在语言创造力受到算法著作挑战的时代,我们提出了一个挑衅性的问题:人工智能(人工智能)能否写出无限的诗?我们设置了两个实验来调查质和量的输出pro.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17464</guid>
+      <source url="https://arxiv.org/abs/2611.17464">ArXiv NLP</source>
     </item>
     <item>
-      <title>共同编译器:用于人工智能推论的持续汇编</title>
-      <link>https://arxiv.org/abs/2611.14681</link>
-      <description>今天的人工智能工作量正在迅速变化:新模型更频繁地发布,模型架构越来越多样化,流量分布也经常变化。 我们共同面对的挑战就是不断优化这些变化。</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.14681</guid>
-      <source url="https://arxiv.org/abs/2611.14681">ArXiv AI</source>
+      <title>通过输入优化创建引导矢量</title>
+      <link>https://arxiv.org/abs/2611.17481</link>
+      <description>激活方向导通过在生成过程中在其剩余流中添加方向矢量来影响语言模型的行为,但它需要白框访问来修改每个生成步骤的隐藏状态。我们引入 ActGCG,一个修改</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17481</guid>
+      <source url="https://arxiv.org/abs/2611.17481">ArXiv NLP</source>
     </item>
     <item>
-      <title>语义学先导何时进入部分识别的causal 发现?.</title>
-      <link>https://arxiv.org/abs/2611.14736</link>
-      <description>观察性因果发现往往会留下因果二向复述的未决或不稳定. 大语言mod-els(LLMS)可以提供语义信息来解决这些方向,但不正确的建议可以排除真实的因果图和无效.</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.14736</guid>
-      <source url="https://arxiv.org/abs/2611.14736">ArXiv AI</source>
+      <title>基准 勿退缩:通过自我分歧学习</title>
+      <link>https://arxiv.org/abs/2611.17563</link>
+      <description>一个基准通常只用一个问题来衡量语言模型,而部署很少看起来是这样:答案会受到质疑,而模型会在反理性的情况下放弃正确的答案,而这本身就是错误的。我们显示,失败的不是shor</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17563</guid>
+      <source url="https://arxiv.org/abs/2611.17563">ArXiv NLP</source>
     </item>
     <item>
-      <title>合成公司:建立数据代理基准的平台</title>
-      <link>https://arxiv.org/abs/2611.14765</link>
-      <description>当前LLM驱动数据代理器的基准快速饱和,无法瞄准特定能力. 我们提出了SynthCorp,这个平台通过模拟商务事件如何产生和修改公司来创建自定义的数据产业园和基准.</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.14765</guid>
-      <source url="https://arxiv.org/abs/2611.14765">ArXiv AI</source>
+      <title>CamSpokenNLI:喀麦隆Pidgin English和Camfranglais跨Variety转移评价的试点资源</title>
+      <link>https://arxiv.org/abs/2611.17573</link>
+      <description>喀麦隆的Pidgin英语(一种西非的Pidgin英语品种)和Camfranglais在喀麦隆得到广泛使用,然而据我们所知,这两种语言都没有专门的自然语言推论资源。</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17573</guid>
+      <source url="https://arxiv.org/abs/2611.17573">ArXiv NLP</source>
     </item>
     <item>
-      <title>突发！DeepSeek开放全家桶API</title>
-      <link>https://www.qbitai.com/2026/11/510003.html</link>
-      <description>官方App功能均可自由组合调用</description>
-      <pubDate>Sat, 14 Nov 2026 02:39:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510003.html</guid>
-      <source url="https://www.qbitai.com/2026/11/510003.html">量子位</source>
+      <title>腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型</title>
+      <link>https://hunyuan.tencent.com/research/100145?langVersion=zh</link>
+      <description>腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。</description>
+      <pubDate>Mon, 16 Nov 2026 04:29:37 +0000</pubDate>
+      <guid isPermaLink="true">https://hunyuan.tencent.com/research/100145?langVersion=zh</guid>
+      <source url="https://hunyuan.tencent.com/research/100145?langVersion=zh">腾讯混元：Research（API）</source>
     </item>
     <item>
-      <title>美联储金融稳定报告：AI成为华尔街头号金融风险</title>
-      <link>https://x.com/rohanpaul_ai/status/2121391185499660332</link>
-      <description>美联储发布金融稳定报告，纽约联储调查显示87%的市场人士将AI列为首要金融风险，高于春季的50%。报告称对超级智能的市场热情推高股票估值；截至10月AI基础设施债务超6800亿美元，约为2023年全年的5倍、占投资级公司借贷约31%；最大银行对大型科技、数据中心建设及融资工具的风险敞口接近1万亿美元。</description>
-      <pubDate>Fri, 13 Nov 2026 23:54:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2121391185499660332</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2121391185499660332">X：Rohan Paul (@rohanpaul_ai)</source>
+      <title>通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低</title>
+      <link>https://x.com/Alibaba_Qwen/status/2122174463479542126</link>
+      <description>通义千问宣布发布 Qwen4 Max，据 Artificial Analysis 数据，其 Intelligence Index 得分 43，较 Qwen3.8 Max（xhigh）高 9 分，落后 Kimi K3.1 Pro 3 分。每任务成本 $3.27，约为 Qwen3.8 Max 的三分之一，输出 token 用量减少 39%；上下文窗口 1M tokens，定价 $1.50/$4.50 per 1M input/output tokens，已在阿里第一方 API 开放。</description>
+      <pubDate>Mon, 16 Nov 2026 03:46:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2122174463479542126</guid>
+      <source url="https://x.com/Alibaba_Qwen/status/2122174463479542126">X：通义千问 / Qwen (@Alibaba_Qwen)</source>
     </item>
     <item>
-      <title>Dario Amodei 回应市场动荡：Anthropic IPO 前称对时机并不在意</title>
-      <link>https://x.com/rohanpaul_ai/status/2121387496722329833</link>
-      <description>Dario Amodei 在纽约 JPMorgan 活动上与 Jamie Dimon 对谈，对 Anthropic IPO 路演期间的市场动荡不以为意，称对上市时机和市场状况不太在意。</description>
-      <pubDate>Fri, 13 Nov 2026 23:39:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2121387496722329833</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2121387496722329833">X：Rohan Paul (@rohanpaul_ai)</source>
+      <title>Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14</title>
+      <link>https://x.com/arena/status/2122153116959482051</link>
+      <description>Arena 榜单显示 Qwen4-Max 以 +7.5% 净提升在 Agent Arena 总排名第14，成为第一中国模型，使 Alibaba 成为排名第一的中国实验室、总榜第5，仅次于 Anthropic、Google、OpenAI 和 Meta。</description>
+      <pubDate>Mon, 16 Nov 2026 02:21:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arena/status/2122153116959482051</guid>
+      <source url="https://x.com/arena/status/2122153116959482051">X：Arena (@arena)</source>
     </item>
     <item>
-      <title>Jensen Huang 离任或给 AI 创业融资留下大缺口，投资人和创始人担忧</title>
-      <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
-      <description>Nvidia CEO Jensen Huang 正式辞职，创投圈认为其继任者 Colette Kress 更保守，短期难延续他每年数十亿美元、今年已参与 105 轮的投资节奏。</description>
-      <pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</guid>
-      <source url="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">TechCrunch：AI（RSS）</source>
+      <title>Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力</title>
+      <link>https://qwen.ai/blog?id=qwen4-max</link>
+      <description>Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。</description>
+      <pubDate>Mon, 16 Nov 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen4-max</guid>
+      <source url="https://qwen.ai/blog?id=qwen4-max">Qwen：Blog Retrieval（API）</source>
     </item>
   </channel>
 </rss>
