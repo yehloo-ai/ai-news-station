@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:20:30 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>库德纳德</title>
-      <link>https://www.youtube.com/watch?v=soNLXvgUqNY</link>
-      <description>(原始内容存档于2019-03-26). Une cousinade avec 63 cousins. Un sitec crac ChatGPT.</description>
-      <pubDate>Mon, 16 Nov 2026 05:00:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=soNLXvgUqNY</guid>
-      <source url="https://www.youtube.com/watch?v=soNLXvgUqNY">OpenAI</source>
+      <title>苹果公司正在测试日常使用限制,以进行更复杂的Siri人工智能互动</title>
+      <link>https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription</link>
+      <description>苹果今天发布了iOS 27.3,iPadOS 27.3和macOS 27.3的β,根据MacRumors,该公司正在利用更新测试一些Siri人工智能和Apple Intelligence功能的每个设备每天的新使用限制. Basic Siri命令和请求将保持自由且无限,但更多Advan</description>
+      <pubDate>Mon, 16 Nov 2026 14:24:40 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription</guid>
+      <source url="https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription">The Verge AI</source>
     </item>
     <item>
-      <title>LLM 代理器何时应该忘记? 在查询- 关键解析器错误下进行内存过滤</title>
-      <link>https://arxiv.org/abs/2611.17338</link>
-      <description>LLM 内存系统经常删除被归类为 stale 的事实。 我们显示, 当解析器错误删除查询关键事实时, 这个硬过滤步骤会降低下游的精确度。 通过三种模型, 控制敏感度干预会移动硬投</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17338</guid>
-      <source url="https://arxiv.org/abs/2611.17338">ArXiv AI</source>
+      <title>OpenAI想要阻止那些 虐待孩子的深层谎言</title>
+      <link>https://www.theverge.com/policy/1034527/openai-csam-classifier</link>
+      <description>OpenAI正在宣布一个工具,该工具说它会帮助儿童性虐待调查员切除噪音,以找到他们可以快速行动的有害材料。 OpenAI在华盛顿的星期一新闻简报会上宣布了一个分类员,他说它可以更好地检测儿童虐待的图像,包括是否</description>
+      <pubDate>Mon, 16 Nov 2026 14:23:45 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1034527/openai-csam-classifier</guid>
+      <source url="https://www.theverge.com/policy/1034527/openai-csam-classifier">The Verge AI</source>
     </item>
     <item>
-      <title>对小型、量化的、在线的迷幻探测器进行开业审计</title>
-      <link>https://arxiv.org/abs/2611.17339</link>
-      <description>对大语言模型的幻觉检测主要以7B-70B研究模型上评价的方法为主,这些模型具有丰富的采样预算和精确匹配或ROUGE的正确性标签. 小模型从业者实际上在Device,Phi-3-mini上载运.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17339</guid>
-      <source url="https://arxiv.org/abs/2611.17339">ArXiv AI</source>
+      <title>FBI 警告开源 AI 渗透测试工具 Artex 被用于三小时内攻破企业网络</title>
+      <link>https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</link>
+      <description>FBI 在最新网络安全公告中警告，黑客正利用开源 AI 渗透测试工具 Artex 自主发起攻击，部分入侵从锁定目标到主动攻陷在不到三小时内完成。该工具已被用于针对美国 IT 公司 ConnectWise 客户及韩国金融行业的网络攻击，攻击者利用弱口令、暴露凭证等简单漏洞快速渗透并窃取数据。</description>
+      <pubDate>Mon, 16 Nov 2026 17:36:43 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</guid>
+      <source url="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/">TechCrunch：AI（RSS）</source>
     </item>
     <item>
-      <title>LoRAWeaver:在LORA代表空间进行定向适配器运行</title>
-      <link>https://arxiv.org/abs/2611.17340</link>
-      <description>大语言模型通过全面的再培训更新成本很高. 参数高效的微调可以降低适应成本,但重复的适应会形成越来越多的任务专用的LORA适配器集合. 此集合会使适配器选择器复杂化.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17340</guid>
-      <source url="https://arxiv.org/abs/2611.17340">ArXiv AI</source>
+      <title>Redwood Research：Gemini 4 安全报告未能证明失控风险低</title>
+      <link>https://blog.redwoodresearch.org/p/gemini-4-safety-reports-dont-demonstrate</link>
+      <description>Redwood Research 发文批评 Google DeepMind 的 Gemini 4 Argon 与 Carbon 安全报告，认为其基于控制措施的安全论证存在严重弱点，不足以证明部署风险已可靠缓解。</description>
+      <pubDate>Mon, 16 Nov 2026 17:21:38 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.redwoodresearch.org/p/gemini-4-safety-reports-dont-demonstrate</guid>
+      <source url="https://blog.redwoodresearch.org/p/gemini-4-safety-reports-dont-demonstrate">Redwood Research：Blog（RSS）</source>
     </item>
     <item>
-      <title>作为EHR药品套装结构检索工具的表列人口前科</title>
-      <link>https://arxiv.org/abs/2611.17341</link>
-      <description>来自电子健康记录的医学预测是一个固定的词汇结构化的预测问题,然而最近的临床RAG系统常常把它当作开放式的基于病例的推理:检索类似的病人入院并请求一个LLM推断a.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17341</guid>
-      <source url="https://arxiv.org/abs/2611.17341">ArXiv AI</source>
+      <title>Microsoft Research 等发布开源插件 TokenEconomizer，让编码智能体节省 18.4–30.9% token 成本</title>
+      <link>https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/</link>
+      <description>UC Berkeley、Microsoft Research 与 Microsoft Security 发布开源插件 TokenEconomizer，从智能体在同一仓库的过往会话中学习，在不改动智能体和底层模型的前提下降低后续会话成本。</description>
+      <pubDate>Mon, 16 Nov 2026 17:01:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/</guid>
+      <source url="https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/">Microsoft Research 博客（RSS）</source>
     </item>
     <item>
-      <title>操作不透明序列深度</title>
-      <link>https://arxiv.org/abs/2611.17495</link>
-      <description>思考链是目前监督人工智能模型的宝贵工具,但一些建筑转变会大大降低COT的可监控性。 我们实施了一项措施,作为无语言序列认知量的代名词。</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17495</guid>
-      <source url="https://arxiv.org/abs/2611.17495">ArXiv AI</source>
+      <title>Databricks 推出 AI Index：追踪企业级 AI 采用与 token 成本</title>
+      <link>https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics</link>
+      <description>Databricks 推出 AI Index，将 Unity Gateway 上 10,000+ 家企业的匿名用量数据与基于私有代码库的编码 Agent 评测结合，每周更新并首次公开其内部评测套件。</description>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics</guid>
+      <source url="https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics">Databricks：Blog（RSS）</source>
     </item>
     <item>
-      <title>与反思保持一致:学习如何遵循原则</title>
-      <link>https://arxiv.org/abs/2611.17398</link>
-      <description>调整大语言模型的适当指导准则和原则往往取决于文化背景和部署应用。</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17398</guid>
-      <source url="https://arxiv.org/abs/2611.17398">ArXiv ML</source>
+      <title>OpenAI 发布免费 CSAM 检测图像分类器并升级 ChatGPT 儿童安全干预</title>
+      <link>https://openai.com/index/strengthening-online-child-safety</link>
+      <description>OpenAI 发布可检测 CSAM（含 AI 生成内容）的图像分类器，通过 API 向审核机构免费开放，测试显示可将需复审图像减少 48%，fal 实测 72% 高置信标记确认为新型 CSAM。同时 ChatGPT 上线新警告，在用户尝试查找涉儿童性剥削内容时打断并暂停访问 24 小时，还发布了面向开发者的 CSAM 治理指南和执法调查支持工具。</description>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/strengthening-online-child-safety</guid>
+      <source url="https://openai.com/index/strengthening-online-child-safety">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
     </item>
     <item>
-      <title>WETW: 学习对等- 特定重量的欧几里得距离, 用于高效的 DTW 搜索</title>
-      <link>https://arxiv.org/abs/2611.17412</link>
-      <description>动态时间 Warping(DTW)是跨时间序列的相似性搜索的标准距离,在时间序列中错位,但其成本在序列长度中是四极化的,下限常是少数候选者,因此在长的大型集合上搜索</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17412</guid>
-      <source url="https://arxiv.org/abs/2611.17412">ArXiv ML</source>
+      <title>Check Point如何加快与网络安全的Daybreak QQ OpenAI的弱点研究.</title>
+      <link>https://www.youtube.com/watch?v=vVVdxMwPBuA</link>
+      <description>请检查date=中的日期值 (帮助) Point CTO Jonathan Zanger解释他的团队如何使用OpenAI Daybreak来分析弱点,并将发现变成对客户的保护。据Zanger说,一个持续数小时的弱点研究工作流程现在可以在几分钟内完成。读取完整的客户故事:https://o</description>
+      <pubDate>Mon, 16 Nov 2026 16:55:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vVVdxMwPBuA</guid>
+      <source url="https://www.youtube.com/watch?v=vVVdxMwPBuA">OpenAI</source>
     </item>
     <item>
-      <title>与大阶梯后裔的分类:统一自稳率和趋同率</title>
-      <link>https://arxiv.org/abs/2611.17459</link>
-      <description>神经网络经常通过梯度下降(GD)培训,使用超过古典稳定性阈值的阶梯大小,这种制度是标准趋同理论不再适用的。 尽管呈现出非模态损失和振荡动力学,但是,这种变化是:</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17459</guid>
-      <source url="https://arxiv.org/abs/2611.17459">ArXiv ML</source>
+      <title>Gemini 4 Hydrogen 与 Carbon 如何按工作负载选型</title>
+      <link>https://x.com/_philschmid/status/2122359669909811362</link>
+      <description>Google DeepMind 的 Philipp Schmid 讲解如何在工作负载中选择 Gemini 4 Hydrogen 与 Carbon：Carbon 适合硬架构设计、调试、科学证明和安全审计，intro 价 $2/$10 至 11 月 30 日；Hydrogen 适合日常编码、交互应用和工具调用智能体，价格 $1.50/$7.50 per 1M。两款都可用 Carbon 负责规划编排、Hydrogen 负责执行的搭配，共享 1M-token 统一上下文窗口、95% implicit caching 和相同 Interactions API schema。</description>
+      <pubDate>Mon, 16 Nov 2026 16:02:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_philschmid/status/2122359669909811362</guid>
+      <source url="https://x.com/_philschmid/status/2122359669909811362">X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)</source>
     </item>
     <item>
-      <title>未完成的奔驰:测量现实工作环境中持久性代理违反规则的情况</title>
-      <link>https://arxiv.org/abs/2611.17460</link>
-      <description>人工情报人员越来越坚持不懈地完成任务,在内部文件和其他人民权威的许多未说明的限制下,长期自主地进行下放的工作。</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17460</guid>
-      <source url="https://arxiv.org/abs/2611.17460">ArXiv ML</source>
+      <title>Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 agent 沙箱</title>
+      <link>https://x.com/_philschmid/status/2122358498461691913</link>
+      <description>Google 发布 Gemini 4 Carbon（gemini-4-carbon，1M 共享 token 池，11 月 30 日前 $2.00/$10.00 每 1M tokens。</description>
+      <pubDate>Mon, 16 Nov 2026 15:57:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_philschmid/status/2122358498461691913</guid>
+      <source url="https://x.com/_philschmid/status/2122358498461691913">X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)</source>
     </item>
     <item>
-      <title>用于推论时间的传播树采样</title>
-      <link>https://arxiv.org/abs/2611.17462</link>
-      <description>基于分泌的基因模型已经变得对可能存在的晶体结构有着强烈的前科,但将之前的基因模型变为有希望的候选模型需要同时转向若干相互冲突的特性。 精细调整费用昂贵,并产生新的晶体结构。</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17462</guid>
-      <source url="https://arxiv.org/abs/2611.17462">ArXiv ML</source>
+      <title>美国收紧 AI 芯片出口管制，限制中国企业远程获取算力</title>
+      <link>https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/</link>
+      <description>美国商务部发布临时规则，要求向全球数据中心出口 AI 芯片和服务器需申请许可，以阻止中国企业等通过远程访问境外算力绕过管制。</description>
+      <pubDate>Mon, 16 Nov 2026 15:02:34 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/</guid>
+      <source url="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/">TechCrunch：AI（RSS）</source>
     </item>
     <item>
-      <title>追踪LLM中的知识和理由</title>
-      <link>https://arxiv.org/abs/2611.17461</link>
-      <description>目前对大语言模型(LLMs)的评价报告数据集或任务层面的业绩,揭示一个模型取得了什么成果,但对与其性能相关的内部处理几乎没有什么见解。</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17461</guid>
-      <source url="https://arxiv.org/abs/2611.17461">ArXiv NLP</source>
+      <title>寻找你真正喜欢的录音簿,</title>
+      <link>https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability</link>
+      <description>Audible正在引入人工智能辅助概要功能,该功能旨在帮助用户在跳进并开始听之前确定是否享受音频手册. 新的音频发现功能结合了音频手册样本,人工智能综述,以及作者评论,为用户提供更多信息.</description>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability</guid>
+      <source url="https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability">The Verge AI</source>
     </item>
     <item>
-      <title>LLMS的诗歌“ 重现 ”</title>
-      <link>https://arxiv.org/abs/2611.17464</link>
-      <description>在语言创造力受到算法著作挑战的时代,我们提出了一个挑衅性的问题:人工智能(人工智能)能否写出无限的诗?我们设置了两个实验来调查质和量的输出pro.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17464</guid>
-      <source url="https://arxiv.org/abs/2611.17464">ArXiv NLP</source>
+      <title>Google 地图现在可以为您创建行程</title>
+      <link>https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning</link>
+      <description>Google 正在为 Maps 推出一个新的人工智能旅行规划功能, 它允许应用程序为您创建定制的行程, 并提供每个站点的实时细节 。 更新将推出到 双子座驱动的 Ask Maps 服务器, 让您规划一天的出行或一次横跨行程 。</description>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning</guid>
+      <source url="https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning">The Verge AI</source>
     </item>
     <item>
-      <title>通过输入优化创建引导矢量</title>
-      <link>https://arxiv.org/abs/2611.17481</link>
-      <description>激活方向导通过在生成过程中在其剩余流中添加方向矢量来影响语言模型的行为,但它需要白框访问来修改每个生成步骤的隐藏状态。我们引入 ActGCG,一个修改</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17481</guid>
-      <source url="https://arxiv.org/abs/2611.17481">ArXiv NLP</source>
+      <title>Lovable 推出 Drafts 功能，可并行探索应用改动而不影响线上版本</title>
+      <link>https://lovable.dev/blog/introducing-drafts</link>
+      <description>Lovable 推出 Drafts 功能，可创建应用的完整副本，从设计到数据库，让用户和团队并行试验不同想法而不触碰线上应用。每个 Draft 拥有独立聊天和预览，并自带示例数据便于查看效果；可创建任意数量的 Draft，接受后仍可在发布前通过 History 回滚，测试数据在接受或删除 Draft 时清除，不会混入真实用户数据。</description>
+      <pubDate>Mon, 16 Nov 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://lovable.dev/blog/introducing-drafts</guid>
+      <source url="https://lovable.dev/blog/introducing-drafts">Lovable Blog</source>
     </item>
     <item>
-      <title>基准 勿退缩:通过自我分歧学习</title>
-      <link>https://arxiv.org/abs/2611.17563</link>
-      <description>一个基准通常只用一个问题来衡量语言模型,而部署很少看起来是这样:答案会受到质疑,而模型会在反理性的情况下放弃正确的答案,而这本身就是错误的。我们显示,失败的不是shor</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17563</guid>
-      <source url="https://arxiv.org/abs/2611.17563">ArXiv NLP</source>
+      <title>英伟达CEO黄仁勋辞职后风波持续，公司股价一周下跌14%</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down</link>
+      <description>英伟达CEO黄仁勋于上周辞任，公司股价随之下跌14%，CFO Colette Kress出任临时CEO。辞职数小时后，路透社报道其第三段婚外情。事件还涉及公司芯片供应相关指控，国会议员已启动调查。报道称黄仁勋正联络盟友寻求回归，业内担心动荡加剧营收压力，可能促使公司在安全投入上有所松懈。</description>
+      <pubDate>Mon, 16 Nov 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down">The Verge：AI（RSS）</source>
     </item>
     <item>
-      <title>CamSpokenNLI:喀麦隆Pidgin English和Camfranglais跨Variety转移评价的试点资源</title>
-      <link>https://arxiv.org/abs/2611.17573</link>
-      <description>喀麦隆的Pidgin英语(一种西非的Pidgin英语品种)和Camfranglais在喀麦隆得到广泛使用,然而据我们所知,这两种语言都没有专门的自然语言推论资源。</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.17573</guid>
-      <source url="https://arxiv.org/abs/2611.17573">ArXiv NLP</source>
+      <title>自媒体作者分享10条指挥Agent最常用的Prompt</title>
+      <link>https://mp.weixin.qq.com/s/SD5q9kVK5gXyTHVQjNPnoA</link>
+      <description>作者让Agent整理出自己近两个月指挥Agent干活最常用的10条Prompt并分享，包括从第一性原理找根因、先对齐喜好再出3版方案、推演改动二阶三阶影响、假设最优方案错误找反例、分析Git历史识别可移除的历史包袱、评估新工程师接手的认知成本、复盘Bug和返工并沉淀成规则或Skill等。作者希望对大家指挥Agent开发有用。</description>
+      <pubDate>Mon, 16 Nov 2026 10:05:59 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/SD5q9kVK5gXyTHVQjNPnoA</guid>
+      <source url="https://mp.weixin.qq.com/s/SD5q9kVK5gXyTHVQjNPnoA">公众号：数字生命卡兹克</source>
     </item>
     <item>
-      <title>腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型</title>
-      <link>https://hunyuan.tencent.com/research/100145?langVersion=zh</link>
-      <description>腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。</description>
-      <pubDate>Mon, 16 Nov 2026 04:29:37 +0000</pubDate>
-      <guid isPermaLink="true">https://hunyuan.tencent.com/research/100145?langVersion=zh</guid>
-      <source url="https://hunyuan.tencent.com/research/100145?langVersion=zh">腾讯混元：Research（API）</source>
+      <title>实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页</title>
+      <link>https://www.ifanr.com/1689653?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>比 DeepSeek V4.1 Flash 性价比更高#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 16 Nov 2026 09:53:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1689653?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1689653?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低</title>
-      <link>https://x.com/Alibaba_Qwen/status/2122174463479542126</link>
-      <description>通义千问宣布发布 Qwen4 Max，据 Artificial Analysis 数据，其 Intelligence Index 得分 43，较 Qwen3.8 Max（xhigh）高 9 分，落后 Kimi K3.1 Pro 3 分。每任务成本 $3.27，约为 Qwen3.8 Max 的三分之一，输出 token 用量减少 39%；上下文窗口 1M tokens，定价 $1.50/$4.50 per 1M input/output tokens，已在阿里第一方 API 开放。</description>
-      <pubDate>Mon, 16 Nov 2026 03:46:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2122174463479542126</guid>
-      <source url="https://x.com/Alibaba_Qwen/status/2122174463479542126">X：通义千问 / Qwen (@Alibaba_Qwen)</source>
+      <title>IMF 总裁警告全球经济过度依赖 AI，循环融资规模超 1 万亿美元</title>
+      <link>https://www.ithome.com/1/027/861.htm</link>
+      <description>IMF 总裁格奥尔基耶娃在东盟峰会期间表示，全球经济正依靠 AI 支撑，过度依赖可能危及金融稳定，IMF 估计 AI 企业间循环融资规模已超 1 万亿美元，其中约三分之二来自债务融资。她认为近期市场波动属于有序调整，不太可能演变成系统性风险，但最坏情景下美股可能在 2026 年下跌 20%，2028 年全球经济产出比基准预测低 1.1%。</description>
+      <pubDate>Mon, 16 Nov 2026 09:32:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/027/861.htm</guid>
+      <source url="https://www.ithome.com/1/027/861.htm">IT之家·人工智能</source>
     </item>
     <item>
-      <title>Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14</title>
-      <link>https://x.com/arena/status/2122153116959482051</link>
-      <description>Arena 榜单显示 Qwen4-Max 以 +7.5% 净提升在 Agent Arena 总排名第14，成为第一中国模型，使 Alibaba 成为排名第一的中国实验室、总榜第5，仅次于 Anthropic、Google、OpenAI 和 Meta。</description>
-      <pubDate>Mon, 16 Nov 2026 02:21:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arena/status/2122153116959482051</guid>
-      <source url="https://x.com/arena/status/2122153116959482051">X：Arena (@arena)</source>
+      <title>OpenAI 与 Apollo Research、METR、Transluce、Goodfire 签约启动首阶段嵌入式安全评估</title>
+      <link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
+      <description>OpenAI 宣布与四家独立评估机构 Apollo Research、METR、Transluce 和 Goodfire 签署协议，启动首阶段嵌入式安全评估。评估专家将获得模型 checkpoint、源码、训练数据和监控系统等内部资源，分别评估模型暗中违背开发者意图的可能性、模型内部可解释性、最大 RL 训练运行的未对齐行为以及后训练对齐评测的质量覆盖。</description>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
+      <source url="https://openai.com/index/our-first-phase-of-embedded-assessments">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
     </item>
     <item>
-      <title>Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力</title>
-      <link>https://qwen.ai/blog?id=qwen4-max</link>
-      <description>Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。</description>
-      <pubDate>Mon, 16 Nov 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen4-max</guid>
-      <source url="https://qwen.ai/blog?id=qwen4-max">Qwen：Blog Retrieval（API）</source>
+      <title>阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景</title>
+      <link>https://www.qbitai.com/2026/11/510486.html</link>
+      <description>11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max</description>
+      <pubDate>Mon, 16 Nov 2026 07:51:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510486.html</guid>
+      <source url="https://www.qbitai.com/2026/11/510486.html">量子位</source>
     </item>
   </channel>
 </rss>
