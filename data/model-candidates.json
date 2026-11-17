@@ -1331,5 +1331,32 @@
     "summary": "Nathan Lambert 撰文分析 Nvidia CEO 黄仁勋辞职对美国开源模型生态的冲击，认为 Nvidia 对开源模型的资金支持很可能随黄仁勋的离开而干涸，公司首要目标是稳住局面并向客户交付。",
     "sourceUrl": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
     "sourceName": "Nathan Lambert：Interconnects（RSS）"
+  },
+  {
+    "observedDate": "2026-11-17",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
+    "summary": "Qwen 团队发布 Qwen4-Max，基于新 Qwen4 架构，拥有 2.4T 骨干参数、每 token 激活 71B、328B N-gram Embedding 参数，具备原生视觉能力和 100 万 token 上下文窗口。",
+    "sourceUrl": "https://qwen.ai/blog?id=qwen4-max",
+    "sourceName": "Qwen：Blog Retrieval（API）"
+  },
+  {
+    "observedDate": "2026-11-17",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "腾讯混元发布 Hy4 flash：224B 总参数、1M 上下文的日常高性价比模型",
+    "summary": "腾讯混元推出 Hy4 flash，总参数 224B（含 64B Engram 参数）、激活 12B，支持多模态和 1M 上下文，API 价格大幅低于 Hy4（输入 0.5 元、输出 2 元每百万 tokens）。",
+    "sourceUrl": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
+    "sourceName": "腾讯混元：Research（API）"
+  },
+  {
+    "observedDate": "2026-11-17",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Google 发布 Gemini 4 Carbon 与 Hydrogen，并推出 Decisions API 和自托管 agent 沙箱",
+    "summary": "Google 发布 Gemini 4 Carbon（gemini-4-carbon，1M 共享 token 池，11 月 30 日前 $2.00/$10.00 每 1M tokens。",
+    "sourceUrl": "https://x.com/_philschmid/status/2122358498461691913",
+    "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)"
   }
 ]
