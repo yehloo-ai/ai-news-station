@@ -5,8 +5,128 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 12:58:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:21:44 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>引入 ChatGPT 会计</title>
+      <link>https://www.youtube.com/watch?v=AhmCKHNqhB8</link>
+      <description>会计的 ChatGPT 帮助您在月末关闭时完成繁忙的工作。 注意ChatGPT 如何在您的电子邮件中找到已完成的工作, 如何为您的审核起草快书发票, 并标出任何不明事项 。 会计插件也帮助您调节交易、 处理发票和</description>
+      <pubDate>Wed, 18 Nov 2026 21:01:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=AhmCKHNqhB8</guid>
+      <source url="https://www.youtube.com/watch?v=AhmCKHNqhB8">OpenAI</source>
+    </item>
+    <item>
+      <title>特朗普最近抢地是菲律宾的人工智能中心,</title>
+      <link>https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica</link>
+      <description>根据Rappler当地新闻的报导,唐纳德·特朗普总统星期二在菲律宾登陆时受到至少5名美人女王的欢迎。 当他踏上停机坪时,一个孩子递给了他一些美国和菲律宾的旗帜。 一支乐队演奏了"YMCA",这是特朗普集会的主食,因为更多的女孩。</description>
+      <pubDate>Wed, 18 Nov 2026 14:40:36 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica</guid>
+      <source url="https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica">The Verge AI</source>
+    </item>
+    <item>
+      <title>Meta 员工内部聊天显示对 Muse 智能体隐私风险的担忧</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/</link>
+      <description>Reuters 披露的内部聊天显示，Meta 员工在测试 Muse 智能体时发现它似乎访问了加密私信、可能混淆用户对话，甚至输出他人银行账户余额等内容；有员工称测试中被误注册每月 888 美元的宠物保险且无法挽回。</description>
+      <pubDate>Wed, 18 Nov 2026 19:19:33 +0000</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/">Ars Technica：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Greg Brockman 称 OpenAI 模型不到 5 个月为 AMD 芯片带来约一年额外进度</title>
+      <link>https://x.com/gdb/status/2123130414323888463</link>
+      <description>Greg Brockman 转引 OpenAI 与 AMD 的合作结果，其模型在不到 5 个月内对 AMD 旗舰 GPU IP 实现最高 14% 的 PPA 提升，相当于约一年的额外进度，部分结果已进入近期完成 tapeout 的设计。同样的方法也改善了 OpenAI 首款自研推理芯片 Jalapeño，收益已在真实硅片上验证，OpenAI 还在与 Synopsys 合作将模型能力与 EDA 工具带给更多芯片设计师。</description>
+      <pubDate>Wed, 18 Nov 2026 19:05:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gdb/status/2123130414323888463</guid>
+      <source url="https://x.com/gdb/status/2123130414323888463">X：Greg Brockman (@gdb)</source>
+    </item>
+    <item>
+      <title>黄仁勋辞职后首次财报电话会：Nvidia 新 CEO Colette Kress 收紧支出并回应回归呼声</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition</link>
+      <description>作者分析黄仁勋辞职后 Nvidia 首次由新 CEO Colette Kress 主持的财报电话会，指出董事会明确不打算让黄仁勋回归，也不会回答相关问题。财报释放的新条款显示 neocloud 只有在拿到融资且数据中心建成投产后才能获得 Nvidia 的采购兜底，作者认为这透露了 Nvidia 支持意愿的边界。</description>
+      <pubDate>Wed, 18 Nov 2026 18:34:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition">The Verge：AI（RSS）</source>
+    </item>
+    <item>
+      <title>Google DeepMind 开放 Project Genie 新体验，首次提供 Genie 4 世界模型</title>
+      <link>https://deepmind.google/blog/genie-4-is-now-available/</link>
+      <description>Google DeepMind 于 11 月 18 日向符合条件的 Google AI Ultra 订阅者开放新 Project Genie 体验，首次提供 Genie 4，并更新 Genie 3。</description>
+      <pubDate>Wed, 18 Nov 2026 18:13:42 +0000</pubDate>
+      <guid isPermaLink="true">https://deepmind.google/blog/genie-4-is-now-available/</guid>
+      <source url="https://deepmind.google/blog/genie-4-is-now-available/">Google DeepMind：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>幕后与精灵4</title>
+      <link>https://www.youtube.com/watch?v=pVc6KkjeCfU</link>
+      <description>当我们探索我们最现实和互动的世界模式时,请在最近Genie 4 电影的幕后进行。Genie 4 并没有生成静态视频,而是实时模拟动态世界。看我们的团队如何使用Genie 4 和 Project Genie 将文本提示转换成可探索的环境 。</description>
+      <pubDate>Wed, 18 Nov 2026 18:12:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=pVc6KkjeCfU</guid>
+      <source url="https://www.youtube.com/watch?v=pVc6KkjeCfU">DeepMind</source>
+    </item>
+    <item>
+      <title>介绍由Genie 4提供动力的新项目Genie</title>
+      <link>https://www.youtube.com/watch?v=EDp4IoAUsXY</link>
+      <description>在你的想象中加入Google DeepMind最现实和互动的世界模型,Genie 4项目将我们最先进的世界和多模式模型与双子座结合起来,这样你就可以把想法变成可以探索的、共享的世界。</description>
+      <pubDate>Wed, 18 Nov 2026 18:12:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=EDp4IoAUsXY</guid>
+      <source url="https://www.youtube.com/watch?v=EDp4IoAUsXY">DeepMind</source>
+    </item>
+    <item>
+      <title>迪士尼的新星球大战动画 利用人工智能与来宾互动</title>
+      <link>https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai</link>
+      <description>正如迪士尼公园的动画人物一样,他们通常要么坚持预先定义的动作和常规,要么就有一个在外视的傀儡帮助他们的行为更自发地显现。这很快会随着华特·迪士尼想象的研发而改变。</description>
+      <pubDate>Wed, 18 Nov 2026 12:50:57 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai</guid>
+      <source url="https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai">The Verge AI</source>
+    </item>
+    <item>
+      <title>腾讯混元宣布 11 月 20 日在 Reddit r/LocalLLaMA 举办 AMA</title>
+      <link>https://x.com/TencentHunyuan/status/2123095410327879735</link>
+      <description>腾讯混元宣布本周五 11 月 20 日 8–10 AM PT 在 Reddit r/LocalLLaMA 举办 AMA，研发团队与 @ShunyuYao12 将解读刚发布的 Hy4 与 Hy4 flash。作者称 Hy4 flash 已开放权重，含 Hy4 flash-FP8 和 Hy4 flash-Base，为 224B 参数（激活 12B）、1M 上下文、原生多模态，并预告 Hy4 后续发布。</description>
+      <pubDate>Wed, 18 Nov 2026 16:46:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TencentHunyuan/status/2123095410327879735</guid>
+      <source url="https://x.com/TencentHunyuan/status/2123095410327879735">X：腾讯混元 (@TencentHunyuan)</source>
+    </item>
+    <item>
+      <title>记得边疆人工智能暂停吗?芯片公司也没有</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models</link>
+      <description>今年夏天,OpenAI在其人工智能人员不慎黑入Hugging Face后暂停了它计划进行的最大前沿训练,早期的证据表明它的下一个模型可以独立地发现和利用安全缺陷. 9月,Anthropic CEO Dario Amodei呼吁减速前进.</description>
+      <pubDate>Wed, 18 Nov 2026 10:44:02 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models">The Verge AI</source>
+    </item>
+    <item>
+      <title>Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007</title>
+      <link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
+      <description>Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。</description>
+      <pubDate>Wed, 18 Nov 2026 15:13:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</guid>
+      <source url="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities">Wiz：Research（安全研究）</source>
+    </item>
+    <item>
+      <title>Will Wright的下一场游戏使用人工智能来映射你的记忆</title>
+      <link>https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview</link>
+      <description>威尔·赖特是SimCity和The Sims等传奇特许权的创造者,他正在创作一款新游戏——它围绕人工智能构建,新标题专注于你的记忆,叫做"MyMems"(MyMems),和莱特的其他标题一样,听起来非常有野心,给玩家一种探索所创造出的世界的新方式.</description>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview</guid>
+      <source url="https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview">The Verge AI</source>
+    </item>
+    <item>
+      <title>跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋</title>
+      <link>http://www.geekpark.net/news/374175</link>
+      <description>「基本不可用，不推荐」。 OpenAI 新模型上线仅仅 8 分钟，硅谷知名创业者 Matt Shumer，就在社交平台上扔下一句毫不留情的评价。 紧接着，拥有大批开发者拥趸的 Theo Browne，发了一篇长文《我为什么讨厌 GPT-6.2 Astra》。向来对前沿模型保持温和耐心的沃顿商学院教授 Ethan Mollick，测完后也给出了罕见的严厉定调，「非常不稳定且古怪」，直言这是「自 GPT-4.5 以来 OpenAI 前沿发布首次未见明显进步」。 这原本该是 OpenAI 是一场漂亮的反击战。 北京时间 11 月 18 日凌晨，OpenAI 正式推出新一代旗舰 GPT-6.2 Ast</description>
+      <pubDate>Wed, 18 Nov 2026 21:40:28 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374175</guid>
+      <source url="http://www.geekpark.net/news/374175">极客公园</source>
+    </item>
+    <item>
+      <title>Nvidia不再向中国出售人工智能芯片</title>
+      <link>https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling</link>
+      <description>尽管去年12月白宫批准Nvidia向中国发送了先进的人工智能芯片,但Nvidia还是停止了向中国发送其先进的人工智能芯片。 临时Nvidia首席执行官科莱特·克雷斯(Colette Kress)在星期二的一次收入呼吁中宣布,这标志着该公司发生了显著的变化。</description>
+      <pubDate>Wed, 18 Nov 2026 08:01:05 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling</guid>
+      <source url="https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling">The Verge AI</source>
+    </item>
     <item>
       <title>苏诺现在让你制作人工智能视频 用于你的人工智能音乐</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature</link>
@@ -40,132 +160,12 @@
       <source url="https://www.qbitai.com/2026/11/510922.html">量子位</source>
     </item>
     <item>
-      <title>GPT-6.2难产！OpenAI怕了</title>
-      <link>https://www.qbitai.com/2026/11/510914.html</link>
-      <description>OpenAI也终于活成了2022年谷歌的样子</description>
-      <pubDate>Wed, 18 Nov 2026 07:53:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510914.html</guid>
-      <source url="https://www.qbitai.com/2026/11/510914.html">量子位</source>
-    </item>
-    <item>
-      <title>全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线</title>
-      <link>https://www.qbitai.com/2026/11/510916.html</link>
-      <description>近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线</description>
-      <pubDate>Wed, 18 Nov 2026 07:24:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510916.html</guid>
-      <source url="https://www.qbitai.com/2026/11/510916.html">量子位</source>
-    </item>
-    <item>
-      <title>OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异</title>
-      <link>https://x.com/thsottiaux/status/2122929634916679820</link>
-      <description>Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。他称这两个模型相比 GPT 前代有明显提升，但仍不完美，团队希望在后续迭代的品味和使用体验上改进，并表示欢迎反馈。</description>
-      <pubDate>Wed, 18 Nov 2026 05:47:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2122929634916679820</guid>
-      <source url="https://x.com/thsottiaux/status/2122929634916679820">X：Tibo (@thsottiaux)</source>
-    </item>
-    <item>
-      <title>Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务</title>
-      <link>https://x.com/rohanpaul_ai/status/2122925474485870983</link>
-      <description>Nvidia 临时 CEO Colette Kress 在 Jim Cramer 的节目上表示，董事会已决定不会恢复黄仁勋（Jensen）的 CEO 职务，称这就是董事会的决定和官方声明。此前董事 Harvey Jones 在昨天的首次财报电话会上表示，董事会一致接受其辞职且无意让其复任。完整采访见 CNBC Mad Money，完整视频见 CNBC Television YouTube 频道。</description>
-      <pubDate>Wed, 18 Nov 2026 05:30:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2122925474485870983</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2122925474485870983">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>Semafor：部分 Nvidia 董事仍推动让黄仁勋回归，尽管董事长否认</title>
-      <link>https://x.com/rohanpaul_ai/status/2122922693662245298</link>
-      <description>Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致接受黄仁勋的辞职且无意让他复任 CEO，部分董事仍在推动其回归。黄仁勋在周二财报发布前与至少 1 名董事讨论过回归事宜；该投票仅针对辞职本身，Nvidia 章程允许剩余 10 名董事以简单多数任命 CEO 而无需股东投票。另有董事将人选范围缩小至 Arm CEO Rene Haas 和 Marvell CEO Matt Murphy 等候选人。</description>
-      <pubDate>Wed, 18 Nov 2026 05:19:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2122922693662245298</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2122922693662245298">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>NEBench R1:大语言模型核领域能力评价的合理基准</title>
-      <link>https://arxiv.org/abs/2611.21682</link>
-      <description>正在越来越多地为核工程中的知识密集型和安全关键应用探索大型语言模型,但现有核领域基准的内容覆盖面有限,或主要侧重于答案。</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21682</guid>
-      <source url="https://arxiv.org/abs/2611.21682">ArXiv AI</source>
-    </item>
-    <item>
-      <title>思维控制链可减少思维控制链可监测性</title>
-      <link>https://arxiv.org/abs/2611.21799</link>
-      <description>思维链(CET)监控是检测隐藏目标、任务外行为和其他人工智能人员失误的有希望的工具。 一种风险是模型可以刻意塑造其推理,使其对监控器不透明。 我们对此进行压力测试。</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21799</guid>
-      <source url="https://arxiv.org/abs/2611.21799">ArXiv AI</source>
-    </item>
-    <item>
-      <title>搜索和救援车辆识别的多少是车辆? 背景快捷键、角隙和MSTAR和ATRNet-STAR部分图书馆</title>
-      <link>https://arxiv.org/abs/2611.21827</link>
-      <description>深层网络在MSTAR车辆基准上得分接近99%,而较新的ATRNet-STAR基准构建得更难。我们询问这些分数中有多少来自车辆本身。我们首先复制的是一个现代网络(ConvNEXt-Small,3种种子)。</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21827</guid>
-      <source url="https://arxiv.org/abs/2611.21827">ArXiv AI</source>
-    </item>
-    <item>
-      <title>努力在人工智能安全研究的端到端记录中抓住破坏</title>
-      <link>https://arxiv.org/abs/2611.21832</link>
-      <description>随着人工智能系统越来越多地用于人工智能研发自动化,错位系统可能会破坏旨在改进模型安全和对齐的研究。 为了测试抵御这种破坏的压力防御,我们利用一位人类专家作为人工智能安全的代理破坏者。</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21832</guid>
-      <source url="https://arxiv.org/abs/2611.21832">ArXiv AI</source>
-    </item>
-    <item>
-      <title>语言模型可以重写自己的重量</title>
-      <link>https://arxiv.org/abs/2611.21885</link>
-      <description>语言模型经过一次培训、冷冻和部署:再次改进一个模型需要再进行一次培训,一旦任务结束,便会失去一个即时、脚手架或额外计算。</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21885</guid>
-      <source url="https://arxiv.org/abs/2611.21885">ArXiv AI</source>
-    </item>
-    <item>
-      <title>DeltaHarness:资源辅助工具执行的自我演变工具</title>
-      <link>https://arxiv.org/abs/2611.21688</link>
-      <description>工具使用代理依赖执行工具来组织和安排工具操作。 相同的任务和资源描述可以隐藏运行时间条件, 从而逆转有效执行计划的延迟命令 。 解决这种不确定性需要</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21688</guid>
-      <source url="https://arxiv.org/abs/2611.21688">ArXiv ML</source>
-    </item>
-    <item>
-      <title>AdaFlowLite:对同步移动数据的可伸缩性和非阻断性推论</title>
-      <link>https://arxiv.org/abs/2611.21691</link>
-      <description>配备了LiDAR和照相机等众多传感器的移动设备的兴起,促使人们采用多种模式的深层智能来完成分布式感知任务,如智能舱和驾驶辅助设备。</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21691</guid>
-      <source url="https://arxiv.org/abs/2611.21691">ArXiv ML</source>
-    </item>
-    <item>
-      <title>TIBECG: ECG波形发布中铅-特定人口隐私的瞬间信息瓶</title>
-      <link>https://arxiv.org/abs/2611.21694</link>
-      <description>传播心电图(ECG)波形可以将人口信息暴露在预期的诊断任务之外。 我们评价TIBECG,这是一个建筑时空信息瓶颈,来自医院12条线索的单个线索。</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21694</guid>
-      <source url="https://arxiv.org/abs/2611.21694">ArXiv ML</source>
-    </item>
-    <item>
-      <title>远景网络中的分层学习-比例放大:有效比例识别、电力元聚合和预算依赖</title>
-      <link>https://arxiv.org/abs/2611.21696</link>
-      <description>分层学习率的缩放为网络的不同部分分配不同的学习率。虽然在微调预先训练过的模型中建立,但其在从零开始训练的视觉网络中的效果通常通过培训每个坦率者来评估。</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21696</guid>
-      <source url="https://arxiv.org/abs/2611.21696">ArXiv ML</source>
-    </item>
-    <item>
-      <title>FACE: mmWave MIMO系统流动导引通道估计框架</title>
-      <link>https://arxiv.org/abs/2611.21698</link>
-      <description>获取准确的通道状态信息对于毫米波(mmWave)多输入多输出(MIMO)系统至关重要,但由于高维通道、有限的试验观测和测量噪音,这一信息仍然具有挑战性。</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21698</guid>
-      <source url="https://arxiv.org/abs/2611.21698">ArXiv ML</source>
-    </item>
-    <item>
-      <title>Crisis Bench:用于危机咨询的一套评价软件</title>
-      <link>https://arxiv.org/abs/2611.21622</link>
-      <description>背景:危机求助热线对心理健康系统至关重要,但往往人手不足,资金不足。</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.21622</guid>
-      <source url="https://arxiv.org/abs/2611.21622">ArXiv NLP</source>
+      <title>OpenAI 深入解析 Codex 沙箱的权限设计与三平台实现</title>
+      <link>https://openai.com/index/inside-the-codex-sandbox</link>
+      <description>OpenAI 发布长文，详解 Codex 沙箱如何在用户现有环境中以可控的文件系统和网络限制运行命令。</description>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/inside-the-codex-sandbox</guid>
+      <source url="https://openai.com/index/inside-the-codex-sandbox">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
     </item>
   </channel>
 </rss>
