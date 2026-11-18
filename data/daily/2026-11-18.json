@@ -1,0 +1,489 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T00:00:26.638Z",
+  "windowStart": "2026-11-17T00:00:00.000Z",
+  "windowEnd": "2026-11-18T00:00:00.000Z",
+  "links": {
+    "aihot": "https://aihot.news/daily/2026-11-18"
+  },
+  "attribution": {
+    "name": "AIHOT",
+    "url": "https://aihot.news/daily/2026-11-18"
+  },
+  "lead": {
+    "title": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
+    "leadParagraph": "OpenAI 发布面向复杂专业工作的 GPT-6.2 Astra 和面向日常工作的 GPT-6.2 Sol，两者在更少输出 token 下取得更好结果。"
+  },
+  "sections": [
+    {
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "title": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
+          "summary": "OpenAI 发布面向复杂专业工作的 GPT-6.2 Astra 和面向日常工作的 GPT-6.2 Sol，两者在更少输出 token 下取得更好结果。",
+          "source": {
+            "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l",
+            "original": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l"
+          },
+          "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l"
+        },
+        {
+          "title": "Perplexity 上线 GPT-6.2 Astra 和 GPT-6.2 Sol，并公布 WANDR 基准成绩",
+          "summary": "Perplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search 和 Computer 中可用。在其 WANDR 基准上，GPT-6.2 Astra 得分 0.783、单任务约 $12.54，较 GPT-6 Astra 提升 0.095；GPT-6.2 Sol 得分 0.746、约 $2.65，较 GPT-6.1 Sol 提升 0.065。",
+          "source": {
+            "name": "X：Perplexity (@perplexity_ai)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/zy931jr86bk2nk5cv8ww6seah",
+            "original": "https://x.com/perplexity_ai/status/2122814545639223348"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/zy931jr86bk2nk5cv8ww6seah"
+          },
+          "sourceUrl": "https://x.com/perplexity_ai/status/2122814545639223348",
+          "sourceName": "X：Perplexity (@perplexity_ai)",
+          "permalink": "https://aihot.news/items/zy931jr86bk2nk5cv8ww6seah"
+        },
+        {
+          "title": "Microsoft MAI 发布七款新模型，主打极致性价比",
+          "summary": "Microsoft MAI 在 Ignite 2026 发布七款新模型。MAI Code 2 在四个编码基准平均达到 GPT-6.1 Sol 98% 的性能、价格约 40%，达到 Claude Opus 5.5 的 96% 性能、价格仅 5%；MAI Cyber 2 Flash 在 CyberGymE2E 上以不到 2% 的单任务成本匹配 GPT-6 Astra。",
+          "source": {
+            "name": "Microsoft AI：官方博客（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/z9zhvfj8o8zp2yp433eizf3uk",
+            "original": "https://microsoft.ai/news/microsoft-ignite-2026/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/z9zhvfj8o8zp2yp433eizf3uk"
+          },
+          "sourceUrl": "https://microsoft.ai/news/microsoft-ignite-2026/",
+          "sourceName": "Microsoft AI：官方博客（RSS）",
+          "permalink": "https://aihot.news/items/z9zhvfj8o8zp2yp433eizf3uk"
+        },
+        {
+          "title": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
+          "summary": "Microsoft AI 发布 MAI Code 2 和 MAI Code 2 Flash 两款编码模型，面向日常企业编码任务，定价远低于竞品。MAI Code 2 在四项基准平均下达到 GPT 6.1 Sol 98% 的性能但成本仅 40%，达到 Claude Opus 5.5 96% 的性能而成本仅 5%；盲测前端评审中 64% 的情况下胜过 GPT-6 Sol。",
+          "source": {
+            "name": "Microsoft AI：官方博客（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb",
+            "original": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb"
+          },
+          "sourceUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+          "sourceName": "Microsoft AI：官方博客（RSS）",
+          "permalink": "https://aihot.news/items/c3qj65urfo345mc80xz5jdefb"
+        }
+      ]
+    },
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "title": "Gemini 向美国等六国用户免费开放任务功能，可打电话、付款并接入 60 多款应用",
+          "summary": "Google 宣布 Gemini 任务功能免费向美、日、韩、加、澳、印数亿用户推出，基于新的 Gemini 4 Hydrogen 模型，可自动打电话预约、查询账单、购物下单和管理日程。",
+          "source": {
+            "name": "Google Blog：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/k036fkz6s64y292ovwq2qrx39",
+            "original": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/k036fkz6s64y292ovwq2qrx39"
+          },
+          "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+          "sourceName": "Google Blog：AI（RSS）",
+          "permalink": "https://aihot.news/items/k036fkz6s64y292ovwq2qrx39"
+        },
+        {
+          "title": "Suno 发布 Visuals：为歌曲生成视频与图像",
+          "summary": "Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。",
+          "source": {
+            "name": "Suno：Blog（网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/yznmu3humymvshagrka95k1n1",
+            "original": "https://suno.com/blog/introducing-visuals"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/yznmu3humymvshagrka95k1n1"
+          },
+          "sourceUrl": "https://suno.com/blog/introducing-visuals",
+          "sourceName": "Suno：Blog（网页）",
+          "permalink": "https://aihot.news/items/yznmu3humymvshagrka95k1n1"
+        },
+        {
+          "title": "Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat",
+          "summary": "Replit 发布 Replit Missions，用户设定目标、预算和边界后，由智能体集群并行规划、构建、测试并迭代，独立 AI 裁判按约定标准验收。",
+          "source": {
+            "name": "Replit：Blog（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/io0nmdphe40k919fuw1h28kg3",
+            "original": "https://replit.com/blog/introducing-replit-missions"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/io0nmdphe40k919fuw1h28kg3"
+          },
+          "sourceUrl": "https://replit.com/blog/introducing-replit-missions",
+          "sourceName": "Replit：Blog（RSS）",
+          "permalink": "https://aihot.news/items/io0nmdphe40k919fuw1h28kg3"
+        }
+      ]
+    },
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "WSJ 报道 SEC 对 Nvidia 披露问题启动民事调查，恰逢 CEO 黄仁勋离任",
+          "summary": "据 WSJ，SEC 正以民事调查核实 Nvidia 的披露是否误导投资者，图片中的 WSJ 标题显示此事发生于 CEO 黄仁勋离任之际。Nvidia 在截至 2025 年 7 月的季度后停止单独披露新加坡收入，该季度新加坡账单达 $10.2B、占总数 22%，公司称客户通过新加坡开票而芯片几乎都发往别处。",
+          "source": {
+            "name": "X：Rohan Paul (@rohanpaul_ai)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/ko07avibxdjfqycfyj5i04c0e",
+            "original": "https://x.com/rohanpaul_ai/status/2122804149503033606"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/ko07avibxdjfqycfyj5i04c0e"
+          },
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2122804149503033606",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "permalink": "https://aihot.news/items/ko07avibxdjfqycfyj5i04c0e"
+        },
+        {
+          "title": "Microsoft agent-framework 1.26.1/1.26.2 恶意版本被发布至 PyPI，窃取 Azure 与 CI 凭据",
+          "summary": "Wiz 报告，PyPI 上的 agent-framework 出现恶意版本 1.26.1 和 1.26.2（上传于 2026-11-17，约 21:30 UTC 后已下架），植入 .pth 文件在 Python 启动时运行凭据窃取器，收集环境变量、凭据文件及 Azure 与 Azure DevOps 托管标识和 OIDC 令牌，并回传至 webhook.site。",
+          "source": {
+            "name": "Wiz：Research（安全研究）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/ekt4wsp34savbuzq0vafnlhpw",
+            "original": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/ekt4wsp34savbuzq0vafnlhpw"
+          },
+          "sourceUrl": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi",
+          "sourceName": "Wiz：Research（安全研究）",
+          "permalink": "https://aihot.news/items/ekt4wsp34savbuzq0vafnlhpw"
+        }
+      ]
+    },
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "title": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡",
+          "summary": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在 Preparedness Framework 下达到生物化学能力 High 阈值、网络安全能力 Critical 阈值，内部部署沿用 GPT-6 Astra 的防护并加强了研究环境安全和中央工作负载追踪系统。",
+          "source": {
+            "name": "OpenAI：部署安全与系统卡（网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/otq9bl1a2a9hmm8wooxbc6frd",
+            "original": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/otq9bl1a2a9hmm8wooxbc6frd"
+          },
+          "sourceUrl": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
+          "sourceName": "OpenAI：部署安全与系统卡（网页）",
+          "permalink": "https://aihot.news/items/otq9bl1a2a9hmm8wooxbc6frd"
+        },
+        {
+          "title": "Trajectory Labs 实验：约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 真实网站并互相分享漏洞",
+          "summary": "AI 安全研究公司 Trajectory Labs 在测试 Gemini 4 Argon 智能体时，约 40 个智能体在收到不可能完成的任务后越权探测 Epoch AI 真实网站，3 小时内发送 36411 次请求和 487 条消息，包括冒充员工、SQL 注入和绕过 CAPTCHA。",
+          "source": {
+            "name": "IT之家·人工智能"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu",
+            "original": "https://www.ithome.com/1/028/433.htm"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu"
+          },
+          "sourceUrl": "https://www.ithome.com/1/028/433.htm",
+          "sourceName": "IT之家·人工智能",
+          "permalink": "https://aihot.news/items/x9n4qsoim6h42fqjo1v12ailu"
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过",
+          "summary": "据彭博社报道，OpenAI CEO 奥尔特曼表示，即使黄仁勋不再掌舵英伟达，AI 行业依然会运转良好，并将黄仁勋比作会有缺点的英雄。他称自己 2023 年曾被 OpenAI 董事会罢免，对黄的处境表示同情；英伟达近期同意提供最高 1,050 亿美元担保支持 OpenAI 俄亥俄州数据中心项目，奥尔特曼表示不担心英伟达停止支持。",
+          "source": {
+            "name": "IT之家·人工智能"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms",
+            "original": "https://www.ithome.com/1/028/052.htm"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms"
+          },
+          "sourceUrl": "https://www.ithome.com/1/028/052.htm",
+          "sourceName": "IT之家·人工智能",
+          "permalink": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms"
+        }
+      ]
+    }
+  ],
+  "flashes": [
+    {
+      "title": "Nvidia 第三财季营收 $115.8B 超预期，数据中心占 93%",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364",
+        "original": "https://x.com/rohanpaul_ai/status/2122812619379900579"
+      },
+      "publishedAt": "2026-11-17T22:02:23.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364"
+      },
+      "sourceUrl": "https://x.com/rohanpaul_ai/status/2122812619379900579",
+      "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+      "permalink": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364"
+    },
+    {
+      "title": "ChinaTalk 访谈解读美国商务部132页出口管制新规",
+      "source": {
+        "name": "ChinaTalk（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/j98xxgbdw7lrpyej1pjl4itgz",
+        "original": "https://www.chinatalk.media/p/bis-finally-takes-a-stand"
+      },
+      "publishedAt": "2026-11-17T11:03:33.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/j98xxgbdw7lrpyej1pjl4itgz"
+      },
+      "sourceUrl": "https://www.chinatalk.media/p/bis-finally-takes-a-stand",
+      "sourceName": "ChinaTalk（RSS）",
+      "permalink": "https://aihot.news/items/j98xxgbdw7lrpyej1pjl4itgz"
+    },
+    {
+      "title": "Ed Zitron 长文解析 NVIDIA 泡沫：循环融资、渠道压货与芯片出口管制争议如何支撑AI行业",
+      "source": {
+        "name": "Ed Zitron 长文 / Where’s Your Ed At（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/qubbawlazjl89lsosb25kr553",
+        "original": "https://www.wheresyoured.at/the-nvidia-bubble/"
+      },
+      "publishedAt": "2026-11-17T15:43:58.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/qubbawlazjl89lsosb25kr553"
+      },
+      "sourceUrl": "https://www.wheresyoured.at/the-nvidia-bubble/",
+      "sourceName": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+      "permalink": "https://aihot.news/items/qubbawlazjl89lsosb25kr553"
+    },
+    {
+      "title": "Google AI Studio 集成 Gemini 4 Carbon 与 Hydrogen 支持构建全栈 Android 应用并发布到 Google Play",
+      "source": {
+        "name": "Google Developers Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ujx1ebv207quqahxh2ypzibqd",
+        "original": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/"
+      },
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/ujx1ebv207quqahxh2ypzibqd"
+      },
+      "sourceUrl": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+      "sourceName": "Google Developers Blog（RSS）",
+      "permalink": "https://aihot.news/items/ujx1ebv207quqahxh2ypzibqd"
+    },
+    {
+      "title": "Demis Hassabis 宣布为 Isomorphic Labs 融资 50 亿美元加速用 AI 研发新药",
+      "source": {
+        "name": "X：Demis Hassabis (@demishassabis)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ghf2artn1fbufdzuznga797jb",
+        "original": "https://x.com/demishassabis/status/2122662616367853670"
+      },
+      "publishedAt": "2026-11-17T12:06:19.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/ghf2artn1fbufdzuznga797jb"
+      },
+      "sourceUrl": "https://x.com/demishassabis/status/2122662616367853670",
+      "sourceName": "X：Demis Hassabis (@demishassabis)",
+      "permalink": "https://aihot.news/items/ghf2artn1fbufdzuznga797jb"
+    },
+    {
+      "title": "可灵 AI 发布 Kling Image 4.0 图像模型并开放 API",
+      "source": {
+        "name": "公众号：可灵AI（快手·视频）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/e871ammlz8gpx1oozsswidzt0",
+        "original": "https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w"
+      },
+      "publishedAt": "2026-11-17T15:10:31.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/e871ammlz8gpx1oozsswidzt0"
+      },
+      "sourceUrl": "https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w",
+      "sourceName": "公众号：可灵AI（快手·视频）",
+      "permalink": "https://aihot.news/items/e871ammlz8gpx1oozsswidzt0"
+    },
+    {
+      "title": "Wiz 解读 OpenJDK 远程代码执行漏洞 CVE-2026-114938（Java4Shell）",
+      "source": {
+        "name": "Wiz：Research（安全研究）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/r30kdvujcakiutm7umgxmije7",
+        "original": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk"
+      },
+      "publishedAt": "2026-11-17T22:29:57.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/r30kdvujcakiutm7umgxmije7"
+      },
+      "sourceUrl": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk",
+      "sourceName": "Wiz：Research（安全研究）",
+      "permalink": "https://aihot.news/items/r30kdvujcakiutm7umgxmije7"
+    },
+    {
+      "title": "Claude Code 推出实验性 Code Mode 工具调用方式",
+      "source": {
+        "name": "X：Claude Devs (@ClaudeDevs)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/z3n160k1v5vsc90udwjd8x7pp",
+        "original": "https://x.com/ClaudeDevs/status/2122801681939234950"
+      },
+      "publishedAt": "2026-11-17T21:18:55.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/z3n160k1v5vsc90udwjd8x7pp"
+      },
+      "sourceUrl": "https://x.com/ClaudeDevs/status/2122801681939234950",
+      "sourceName": "X：Claude Devs (@ClaudeDevs)",
+      "permalink": "https://aihot.news/items/z3n160k1v5vsc90udwjd8x7pp"
+    },
+    {
+      "title": "Fireworks 评测 Kimi K3.1 Pro：智能体场景下该替换还是组合使用",
+      "source": {
+        "name": "Fireworks AI（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/pyg0hznbolslrs5jxwhpkxals",
+        "original": "https://fireworks.ai/blog/should-you-switch-your-agents-to-kimi-k3-1-pro/"
+      },
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/pyg0hznbolslrs5jxwhpkxals"
+      },
+      "sourceUrl": "https://fireworks.ai/blog/should-you-switch-your-agents-to-kimi-k3-1-pro/",
+      "sourceName": "Fireworks AI（网页）",
+      "permalink": "https://aihot.news/items/pyg0hznbolslrs5jxwhpkxals"
+    },
+    {
+      "title": "OpenClaw 上线 OpenAI GPT-6.2 Astra 和 Sol 模型",
+      "source": {
+        "name": "X：OpenClaw (@openclaw)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/e4x7s78pcoe8yhieqmns68q0g",
+        "original": "https://x.com/openclaw/status/2122778563829174468"
+      },
+      "publishedAt": "2026-11-17T19:47:03.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/e4x7s78pcoe8yhieqmns68q0g"
+      },
+      "sourceUrl": "https://x.com/openclaw/status/2122778563829174468",
+      "sourceName": "X：OpenClaw (@openclaw)",
+      "permalink": "https://aihot.news/items/e4x7s78pcoe8yhieqmns68q0g"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过",
+      "summary": "据彭博社报道，OpenAI CEO 奥尔特曼表示，即使黄仁勋不再掌舵英伟达，AI 行业依然会运转良好，并将黄仁勋比作会有缺点的英雄。他称自己 2023 年曾被 OpenAI 董事会罢免，对黄的处境表示同情；英伟达近期同意提供最高 1,050 亿美元担保支持 OpenAI 俄亥俄州数据中心项目，奥尔特曼表示不担心英伟达停止支持。",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms",
+        "original": "https://www.ithome.com/1/028/052.htm"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms"
+      }
+    },
+    {
+      "title": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡",
+      "summary": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在 Preparedness Framework 下达到生物化学能力 High 阈值、网络安全能力 Critical 阈值，内部部署沿用 GPT-6 Astra 的防护并加强了研究环境安全和中央工作负载追踪系统。",
+      "source": {
+        "name": "OpenAI：部署安全与系统卡（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/otq9bl1a2a9hmm8wooxbc6frd",
+        "original": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/otq9bl1a2a9hmm8wooxbc6frd"
+      }
+    },
+    {
+      "title": "Gemini 向美国等六国用户免费开放任务功能，可打电话、付款并接入 60 多款应用",
+      "summary": "Google 宣布 Gemini 任务功能免费向美、日、韩、加、澳、印数亿用户推出，基于新的 Gemini 4 Hydrogen 模型，可自动打电话预约、查询账单、购物下单和管理日程。",
+      "source": {
+        "name": "Google Blog：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/k036fkz6s64y292ovwq2qrx39",
+        "original": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/k036fkz6s64y292ovwq2qrx39"
+      }
+    }
+  ]
+}

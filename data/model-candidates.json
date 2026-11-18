@@ -1358,5 +1358,59 @@
     "summary": "Google 发布 Gemini 4 Carbon（gemini-4-carbon，1M 共享 token 池，11 月 30 日前 $2.00/$10.00 每 1M tokens。",
     "sourceUrl": "https://x.com/_philschmid/status/2122358498461691913",
     "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)"
+  },
+  {
+    "observedDate": "2026-11-18",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
+    "summary": "OpenAI 发布面向复杂专业工作的 GPT-6.2 Astra 和面向日常工作的 GPT-6.2 Sol，两者在更少输出 token 下取得更好结果。",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+  },
+  {
+    "observedDate": "2026-11-18",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Perplexity 上线 GPT-6.2 Astra 和 GPT-6.2 Sol，并公布 WANDR 基准成绩",
+    "summary": "Perplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search 和 Computer 中可用。在其 WANDR 基准上，GPT-6.2 Astra 得分 0.783、单任务约 $12.54，较 GPT-6 Astra 提升 0.095；GPT-6.2 Sol 得分 0.746、约 $2.65，较 GPT-6.1 Sol 提升 0.065",
+    "sourceUrl": "https://x.com/perplexity_ai/status/2122814545639223348",
+    "sourceName": "X：Perplexity (@perplexity_ai)"
+  },
+  {
+    "observedDate": "2026-11-18",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Microsoft MAI 发布七款新模型，主打极致性价比",
+    "summary": "Microsoft MAI 在 Ignite 2026 发布七款新模型。MAI Code 2 在四个编码基准平均达到 GPT-6.1 Sol 98% 的性能、价格约 40%，达到 Claude Opus 5.5 的 96% 性能、价格仅 5%；MAI Cyber 2 Flash 在 CyberGymE2E 上以不到 2% 的单任务成本匹配 GPT-6 Astra。",
+    "sourceUrl": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "sourceName": "Microsoft AI：官方博客（RSS）"
+  },
+  {
+    "observedDate": "2026-11-18",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Microsoft AI 发布 MAI Code 2 与 MAI Code 2 Flash 编码模型",
+    "summary": "Microsoft AI 发布 MAI Code 2 和 MAI Code 2 Flash 两款编码模型，面向日常企业编码任务，定价远低于竞品。MAI Code 2 在四项基准平均下达到 GPT 6.1 Sol 98% 的性能但成本仅 40%，达到 Claude Opus 5.5 96% 的性能而成本仅 5%；盲测前端评审中 64% 的情况下胜过 GPT-6 Sol。",
+    "sourceUrl": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "sourceName": "Microsoft AI：官方博客（RSS）"
+  },
+  {
+    "observedDate": "2026-11-18",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Suno 发布 Visuals：为歌曲生成视频与图像",
+    "summary": "Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。",
+    "sourceUrl": "https://suno.com/blog/introducing-visuals",
+    "sourceName": "Suno：Blog（网页）"
+  },
+  {
+    "observedDate": "2026-11-18",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡",
+    "summary": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在 Preparedness Framework 下达到生物化学能力 High 阈值、网络安全能力 Critical 阈值，内部部署沿用 GPT-6 Astra 的防护并加强了研究环境安全和中央工作负载追踪系统。",
+    "sourceUrl": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
+    "sourceName": "OpenAI：部署安全与系统卡（网页）"
   }
 ]
