@@ -5,8 +5,128 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 21:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 03:39:42 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道</title>
+      <link>http://www.geekpark.net/news/374109</link>
+      <description>OpenAI 发布 GPT-6.2 Astra 和 Sol，强化编程、电脑操作与专业工作 OpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业任务、Coding、电脑操作和执行效率，并降低部分使用成本。新模型将应用于 ChatGPT Work、Codex 和 API。 其中，Astra 面向复杂编程和专业工作，Sol 则更强调日常多模态任务及工具使用。 OpenAI 同时发布系统安全卡，披露两款模型在网络安全能力方面均达到其 Preparedness Framework 的 Critical 门槛，Astra 的 AI 自我改进能力达到 Hig</description>
+      <pubDate>Wed, 18 Nov 2026 08:48:04 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374109</guid>
+      <source url="http://www.geekpark.net/news/374109">极客公园</source>
+    </item>
+    <item>
+      <title>派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等</title>
+      <link>https://sspai.com/post/119210</link>
+      <description>iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。查看全文</description>
+      <pubDate>Wed, 18 Nov 2026 08:46:03 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/119210</guid>
+      <source url="https://sspai.com/post/119210">少数派</source>
+    </item>
+    <item>
+      <title>Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T</title>
+      <link>https://x.com/rohanpaul_ai/status/2122845999387602999</link>
+      <description>据 WSJ，Anthropic 预计将 IPO 定价上调至 $70 至 $78 区间之上，可能超过 $80 一股，其顾问已讨论 $1.5T 或 $1.6T 的估值，高于此前约 $1.33T。按申报区间计算，IPO 规模约 $61B，另有 $26B 私募配售，其中 Google 和 Nvidia 各以 IPO 价格认购约 $10B。</description>
+      <pubDate>Wed, 18 Nov 2026 00:15:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2122845999387602999</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2122845999387602999">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70~78 美元</title>
+      <link>https://www.ithome.com/1/028/599.htm</link>
+      <description>根据 SEC 11 月 17 日公示的文件，Anthropic 的 A 类普通股获准在纳斯达克全球精选市场上市，代码 ANT，发行价区间维持每股 70 至 78 美元。</description>
+      <pubDate>Wed, 18 Nov 2026 00:12:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/028/599.htm</guid>
+      <source url="https://www.ithome.com/1/028/599.htm">IT之家·人工智能</source>
+    </item>
+    <item>
+      <title>使用 ChatGPT: 生活管理员的低估方式</title>
+      <link>https://www.youtube.com/shorts/2pdF52EVlbM</link>
+      <description>甚至ChatGPT的研究者也需要一些生活管理员的帮助. Isa F分享了她使用ChatGPT的方式被低估:跟踪细节,为她下次发型创造时间.</description>
+      <pubDate>Wed, 18 Nov 2026 00:06:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/2pdF52EVlbM</guid>
+      <source url="https://www.youtube.com/shorts/2pdF52EVlbM">OpenAI</source>
+    </item>
+    <item>
+      <title>萨特雅·纳德拉说他现在被AGI绑架了</title>
+      <link>https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now</link>
+      <description>微软CEO萨特雅·纳德拉(Satya Nadella)说他是AGI所窃取的,至少当涉及人工智能会如何让经济结构发生惊人的变化,以及政治会因它而发生怎样的变化的时候. "我是AGI所窃取的,在经济层面上,围绕AGI的政治经济组织是什么.</description>
+      <pubDate>Tue, 17 Nov 2026 18:41:18 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now</guid>
+      <source url="https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now">The Verge AI</source>
+    </item>
+    <item>
+      <title>Nvidia 宣布停售 H200 芯片至中国，并设立董事会级国家安全委员会</title>
+      <link>https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/</link>
+      <description>代理 CEO Colette Kress 周二表示，Nvidia 将不再在中国销售 H200 芯片，结束此前由 Jensen Huang 与特朗普斡旋、需经美国境内并缴纳 25% 关税的出口通道。</description>
+      <pubDate>Tue, 17 Nov 2026 23:37:48 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/</guid>
+      <source url="https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>引入销售的ChatGPT</title>
+      <link>https://www.youtube.com/watch?v=pmOJIq7Ah00</link>
+      <description>新销售插件和30+新扩展的伙伴插件将您的客户背景和销售工具放在了ChatGPT中。 准备呼叫, 裁缝建议, 并更快地从工具中获取真知灼见。</description>
+      <pubDate>Tue, 17 Nov 2026 23:24:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=pmOJIq7Ah00</guid>
+      <source url="https://www.youtube.com/watch?v=pmOJIq7Ah00">OpenAI</source>
+    </item>
+    <item>
+      <title>深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯</title>
+      <link>https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA</link>
+      <description>OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。</description>
+      <pubDate>Tue, 17 Nov 2026 22:36:45 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA</guid>
+      <source url="https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>Gemini 4 Hydrogen 全面上线 Google Search</title>
+      <link>https://x.com/Google/status/2122820914777845813</link>
+      <description>Google 宣布 Gemini 4 Hydrogen 已在全球范围的 Google Search 中上线，称为 Search 迄今最大的一次模型升级。升级包括更好地理解用户意图、更智能的 query fan-out 与链接、更可视化自适应的回复，以及更强的多语言能力。</description>
+      <pubDate>Tue, 17 Nov 2026 22:35:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Google/status/2122820914777845813</guid>
+      <source url="https://x.com/Google/status/2122820914777845813">X：Google (@Google)</source>
+    </item>
+    <item>
+      <title>Wiz 解读 OpenJDK 远程代码执行漏洞 CVE-2026-114938（Java4Shell）</title>
+      <link>https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk</link>
+      <description>2026 年 11 月 17 日披露的 OpenJDK 关键 RCE 漏洞 CVE-2026-114938（Java4Shell）CVSSv4.0 评分 9.2，源于 AVX-512 Base64 解码的汇编代码在处理结尾填充字符时输出数组边界计算下溢，导致堆内存越界写入，已证实可对 Jenkins、Confluence、Apache Tomcat 等实现远程利用。</description>
+      <pubDate>Tue, 17 Nov 2026 22:29:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk</guid>
+      <source url="https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk">Wiz：Research（安全研究）</source>
+    </item>
+    <item>
+      <title>Perplexity 上线 GPT-6.2 Astra 和 GPT-6.2 Sol，并公布 WANDR 基准成绩</title>
+      <link>https://x.com/perplexity_ai/status/2122814545639223348</link>
+      <description>Perplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search 和 Computer 中可用。在其 WANDR 基准上，GPT-6.2 Astra 得分 0.783、单任务约 $12.54，较 GPT-6 Astra 提升 0.095；GPT-6.2 Sol 得分 0.746、约 $2.65，较 GPT-6.1 Sol 提升 0.065。</description>
+      <pubDate>Tue, 17 Nov 2026 22:10:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/perplexity_ai/status/2122814545639223348</guid>
+      <source url="https://x.com/perplexity_ai/status/2122814545639223348">X：Perplexity (@perplexity_ai)</source>
+    </item>
+    <item>
+      <title>Microsoft agent-framework 1.26.1/1.26.2 恶意版本被发布至 PyPI，窃取 Azure 与 CI 凭据</title>
+      <link>https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi</link>
+      <description>Wiz 报告，PyPI 上的 agent-framework 出现恶意版本 1.26.1 和 1.26.2（上传于 2026-11-17，约 21:30 UTC 后已下架），植入 .pth 文件在 Python 启动时运行凭据窃取器，收集环境变量、凭据文件及 Azure 与 Azure DevOps 托管标识和 OIDC 令牌，并回传至 webhook.site。</description>
+      <pubDate>Tue, 17 Nov 2026 22:03:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi</guid>
+      <source url="https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi">Wiz：Research（安全研究）</source>
+    </item>
+    <item>
+      <title>Nvidia 第三财季营收 $115.8B 超预期，数据中心占 93%</title>
+      <link>https://x.com/rohanpaul_ai/status/2122812619379900579</link>
+      <description>Nvidia 第三财季营收 $115.8B，同比增长 103%，其中数据中心收入 $107.6B 占 93%，季度利润 $65.3B 翻倍。</description>
+      <pubDate>Tue, 17 Nov 2026 22:02:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2122812619379900579</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2122812619379900579">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>OpenClaw 的 Sign in with ChatGPT 结束测试，支持 ChatGPT Business 及 GPT-6.2 Astra 与 Sol</title>
+      <link>https://x.com/openclaw/status/2122809472271958517</link>
+      <description>OpenClaw 宣布 Sign in with ChatGPT 功能结束测试，用户可在 OpenClaw 中使用自己的 ChatGPT 套餐，包括 ChatGPT Business。作者还确认支持新模型 GPT-6.2 Astra 和 Sol。引用的 @OpenAIDevs 内容显示，ChatGPT Business 套餐现已可通过 Sign in with ChatGPT 用于 Notion、v0、OpenClaw 等多种工具。</description>
+      <pubDate>Tue, 17 Nov 2026 21:49:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/openclaw/status/2122809472271958517</guid>
+      <source url="https://x.com/openclaw/status/2122809472271958517">X：OpenClaw (@openclaw)</source>
+    </item>
     <item>
       <title>WSJ 报道 SEC 对 Nvidia 披露问题启动民事调查，恰逢 CEO 黄仁勋离任</title>
       <link>https://x.com/rohanpaul_ai/status/2122804149503033606</link>
@@ -46,126 +166,6 @@
       <pubDate>Tue, 17 Nov 2026 13:58:01 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</guid>
       <source url="https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free">The Verge AI</source>
-    </item>
-    <item>
-      <title>使用 GPT-6.2 Astra 建造 3D 录像机</title>
-      <link>https://www.youtube.com/watch?v=tKoDPOrLMX0</link>
-      <description>GPT-6.2 Astra是我们新的旗舰模型,它以更清洁的代码、更好的前端和3D模型,以及更有效的工具使用来提高能力。在 Codex 中从仅两个视频框中重新创建一个房间。看看它是如何在 Blender 中构建该集的,修改了装饰和照明,一个</description>
-      <pubDate>Tue, 17 Nov 2026 18:41:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=tKoDPOrLMX0</guid>
-      <source url="https://www.youtube.com/watch?v=tKoDPOrLMX0">OpenAI</source>
-    </item>
-    <item>
-      <title>Microsoft Ignite 2026：Copilot 新形态、Microsoft IQ、Agent 365 与 Cobalt 200 VMs 等多项发布</title>
-      <link>https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/</link>
-      <description>Satya Nadella 在 Ignite 2026 开幕主题演讲中宣布构建 frontier 生态的多项产品更新。</description>
-      <pubDate>Tue, 17 Nov 2026 18:36:03 +0000</pubDate>
-      <guid isPermaLink="true">https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/</guid>
-      <source url="https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/">Microsoft：Official Blog（RSS）</source>
-    </item>
-    <item>
-      <title>Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，每分钟音频 $0.01 起</title>
-      <link>https://microsoft.ai/news/introducing-mai-realtime-1/</link>
-      <description>Microsoft AI 发布首个语音到语音模型 MAI Realtime 1，起步价 $0.01 每分钟音频，称其在 Big Bench Audio 和 τ-Voice 基准上于质量、速度和价格上超过 GPT Realtime 2.1。</description>
-      <pubDate>Tue, 17 Nov 2026 18:16:17 +0000</pubDate>
-      <guid isPermaLink="true">https://microsoft.ai/news/introducing-mai-realtime-1/</guid>
-      <source url="https://microsoft.ai/news/introducing-mai-realtime-1/">Microsoft AI：官方博客（RSS）</source>
-    </item>
-    <item>
-      <title>Microsoft MAI 发布七款新模型，主打极致性价比</title>
-      <link>https://microsoft.ai/news/microsoft-ignite-2026/</link>
-      <description>Microsoft MAI 在 Ignite 2026 发布七款新模型。MAI Code 2 在四个编码基准平均达到 GPT-6.1 Sol 98% 的性能、价格约 40%，达到 Claude Opus 5.5 的 96% 性能、价格仅 5%；MAI Cyber 2 Flash 在 CyberGymE2E 上以不到 2% 的单任务成本匹配 GPT-6 Astra。</description>
-      <pubDate>Tue, 17 Nov 2026 18:16:05 +0000</pubDate>
-      <guid isPermaLink="true">https://microsoft.ai/news/microsoft-ignite-2026/</guid>
-      <source url="https://microsoft.ai/news/microsoft-ignite-2026/">Microsoft AI：官方博客（RSS）</source>
-    </item>
-    <item>
-      <title>Microsoft AI 发布 MAI Code 2 与 Code 2 Flash 编码模型</title>
-      <link>https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</link>
-      <description>Microsoft AI 在 Ignite 发布两款面向日常企业编码任务的模型 MAI Code 2 和 MAI Code 2 Flash。</description>
-      <pubDate>Tue, 17 Nov 2026 18:15:16 +0000</pubDate>
-      <guid isPermaLink="true">https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</guid>
-      <source url="https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/">Microsoft AI：官方博客（RSS）</source>
-    </item>
-    <item>
-      <title>Microsoft Ignite 2026：MAI 发布多款模型并推出 Licensed Weights 可控权重方案</title>
-      <link>https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/</link>
-      <description>微软 MAI 在 Ignite 2026 主题演讲中发布一系列强调性价比的模型，并推出 MAI Licensed Weights，可定制后在自己的 Azure 环境中运行、掌控权重与数据。</description>
-      <pubDate>Tue, 17 Nov 2026 18:14:55 +0000</pubDate>
-      <guid isPermaLink="true">https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/</guid>
-      <source url="https://microsoft.ai/news/microsoft-ignite-2026-mai-keynote/">Microsoft AI：官方博客（RSS）</source>
-    </item>
-    <item>
-      <title>OpenAI GPT-6.2 Astra 和 GPT-6.2 Sol 上线 OpenRouter</title>
-      <link>https://x.com/OpenRouter/status/2122754139533066653</link>
-      <description>OpenRouter 宣布 OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 上线。Astra 面向最难的项目，评测成绩创新高且每任务成本不到 GPT-6 Astra 的三分之一，价格为 $8/M 输入、$40/M 输出；Sol 面向日常智能体工作，价格为 $2/M 输入、$10/M 输出，两者均有 Pro 版本。</description>
-      <pubDate>Tue, 17 Nov 2026 18:10:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenRouter/status/2122754139533066653</guid>
-      <source url="https://x.com/OpenRouter/status/2122754139533066653">X：OpenRouter (@OpenRouter)</source>
-    </item>
-    <item>
-      <title>Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat</title>
-      <link>https://replit.com/blog/introducing-replit-missions</link>
-      <description>Replit 发布 Replit Missions，用户设定目标、预算和边界后，由智能体集群并行规划、构建、测试并迭代，独立 AI 裁判按约定标准验收。</description>
-      <pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://replit.com/blog/introducing-replit-missions</guid>
-      <source url="https://replit.com/blog/introducing-replit-missions">Replit：Blog（RSS）</source>
-    </item>
-    <item>
-      <title>GPT-6.2 阿斯特拉和GPT-6.2 Sol-Models为现实世界建造</title>
-      <link>https://www.youtube.com/watch?v=C1zYX5jwqq4</link>
-      <description>我们引入了GPT\6.2 Astra,这是您最困难项目的新前沿模式,而GPT\\6.2 Sol,是日常工作的有效多功能模式。 这两个模式在要求任务上都取得了更好的成果,产出符号更少,因此您可以在使用限度内获得更多的工作。对于企业和企业来说,</description>
-      <pubDate>Tue, 17 Nov 2026 17:55:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=C1zYX5jwqq4</guid>
-      <source url="https://www.youtube.com/watch?v=C1zYX5jwqq4">OpenAI</source>
-    </item>
-    <item>
-      <title>OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol</title>
-      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
-      <description>OpenAI 发布面向复杂专业工作的 GPT-6.2 Astra 和面向日常工作的 GPT-6.2 Sol，两者在更少输出 token 下取得更好结果。</description>
-      <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol/</guid>
-      <source url="https://openai.com/index/introducing-gpt-6-2-astra-sol/">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>Gemini 向美国等六国用户免费开放任务功能，可打电话、付款并接入 60 多款应用</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
-      <description>Google 宣布 Gemini 任务功能免费向美、日、韩、加、澳、印数亿用户推出，基于新的 Gemini 4 Hydrogen 模型，可自动打电话预约、查询账单、购物下单和管理日程。</description>
-      <pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
-      <source url="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/">Google Blog：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Jensen Huang 发声明回应离职风波并表态愿在董事会决定下回归 NVIDIA CEO</title>
-      <link>https://x.com/DrJimFan/status/2122727208754254245</link>
-      <description>Jim Fan 转发并附 💚💚💚 FTW。Jensen Huang 发文感谢外界支持，承认个人生活中犯了严重错误、给董事会造成问题，并承诺配合董事会独立调查。他表示自离开以来收到员工、投资者、合作伙伴和客户的大量回归呼声，若董事会认为回归符合股东、员工、公司和美国的最佳利益，他将荣幸地回归 CEO 职位。</description>
-      <pubDate>Tue, 17 Nov 2026 16:22:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DrJimFan/status/2122727208754254245</guid>
-      <source url="https://x.com/DrJimFan/status/2122727208754254245">X：Jim Fan (@DrJimFan)</source>
-    </item>
-    <item>
-      <title>Ed Zitron 长文解析 NVIDIA 泡沫：循环融资、渠道压货与芯片出口管制争议如何支撑AI行业</title>
-      <link>https://www.wheresyoured.at/the-nvidia-bubble/</link>
-      <description>Ed Zitron 在长文中提出，AI泡沫本质上是 NVIDIA 泡沫，Jensen Huang 通过循环融资、渠道压货以及围绕芯片出口管制的争议性交易维持增长机器，黄仁勋辞职后这一模式难以为继。</description>
-      <pubDate>Tue, 17 Nov 2026 15:43:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wheresyoured.at/the-nvidia-bubble/</guid>
-      <source url="https://www.wheresyoured.at/the-nvidia-bubble/">Ed Zitron 长文 / Where’s Your Ed At（RSS）</source>
-    </item>
-    <item>
-      <title>可灵 AI 发布 Kling Image 4.0 图像模型并开放 API</title>
-      <link>https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w</link>
-      <description>快手可灵 AI 发布新一代图像创作模型 Kling Image 4.0，现已全量上线并面向企业客户与开发者开放 API。模型采用「理解生成统一」架构，首次支持原生 8K 图像生成，内置 110+ 种预设影调风格和 70+ 种商用字体，支持最高 15000 tokens 文本输入、单图最多生成 2000 字，以及一次描述生成最多 10 张风格连贯的组图和电商详情页等超长画幅长图。</description>
-      <pubDate>Tue, 17 Nov 2026 15:10:31 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w</guid>
-      <source url="https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w">公众号：可灵AI（快手·视频）</source>
-    </item>
-    <item>
-      <title>Suno 发布 Visuals：为歌曲生成视频与图像</title>
-      <link>https://suno.com/blog/introducing-visuals</link>
-      <description>Suno 发布新工具 Visuals，可基于库中的歌曲生成最长 15 秒的视频和图像，包括跟随歌曲节拍的歌词视频、专辑封面和照片改写的视频片段，模型会跟随歌曲结构、识别歌词并配合对口型，支持延展、编辑和文本重新提示。</description>
-      <pubDate>Tue, 17 Nov 2026 15:00:11 +0000</pubDate>
-      <guid isPermaLink="true">https://suno.com/blog/introducing-visuals</guid>
-      <source url="https://suno.com/blog/introducing-visuals">Suno：Blog（网页）</source>
     </item>
   </channel>
 </rss>
