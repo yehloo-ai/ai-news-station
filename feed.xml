@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:58:04 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道</title>
-      <link>http://www.geekpark.net/news/374109</link>
-      <description>OpenAI 发布 GPT-6.2 Astra 和 Sol，强化编程、电脑操作与专业工作 OpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业任务、Coding、电脑操作和执行效率，并降低部分使用成本。新模型将应用于 ChatGPT Work、Codex 和 API。 其中，Astra 面向复杂编程和专业工作，Sol 则更强调日常多模态任务及工具使用。 OpenAI 同时发布系统安全卡，披露两款模型在网络安全能力方面均达到其 Preparedness Framework 的 Critical 门槛，Astra 的 AI 自我改进能力达到 Hig</description>
-      <pubDate>Wed, 18 Nov 2026 08:48:04 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374109</guid>
-      <source url="http://www.geekpark.net/news/374109">极客公园</source>
+      <title>苏诺现在让你制作人工智能视频 用于你的人工智能音乐</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature</link>
+      <description>苏诺在最近的努力中引入了图像和视频生成,以扩张超越人工智能音乐平台. 新功能名为"Visuals",允许用户将苏诺歌曲转化为人工智能生成的视频片段,自动将唇音同步到歌词,或者通过即时描述来制作图像,这些画面可以是u.</description>
+      <pubDate>Wed, 18 Nov 2026 06:16:53 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature">The Verge AI</source>
     </item>
     <item>
-      <title>派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等</title>
-      <link>https://sspai.com/post/119210</link>
-      <description>iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。查看全文</description>
-      <pubDate>Wed, 18 Nov 2026 08:46:03 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/119210</guid>
-      <source url="https://sspai.com/post/119210">少数派</source>
+      <title>Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢</title>
+      <link>https://www.ithome.com/1/029/015.htm</link>
+      <description>据路透社报道，Anthropic 预计于当地时间 11 月 19 日登陆公开市场，IPO 估值最高可能达到 1.4 万亿美元。金融机构已推出 2 倍做多与做空 ETF 等挂钩产品，Vanda Research 预计上市将吸引约 2.5 亿美元散户净买入，为 SpaceX IPO 期间 1.18 亿美元纪录的两倍。</description>
+      <pubDate>Wed, 18 Nov 2026 10:45:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/029/015.htm</guid>
+      <source url="https://www.ithome.com/1/029/015.htm">IT之家·人工智能</source>
     </item>
     <item>
-      <title>Anthropic 拟将 IPO 定价上调至 $80 以上，估值或达 $1.6T</title>
-      <link>https://x.com/rohanpaul_ai/status/2122845999387602999</link>
-      <description>据 WSJ，Anthropic 预计将 IPO 定价上调至 $70 至 $78 区间之上，可能超过 $80 一股，其顾问已讨论 $1.5T 或 $1.6T 的估值，高于此前约 $1.33T。按申报区间计算，IPO 规模约 $61B，另有 $26B 私募配售，其中 Google 和 Nvidia 各以 IPO 价格认购约 $10B。</description>
-      <pubDate>Wed, 18 Nov 2026 00:15:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2122845999387602999</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2122845999387602999">X：Rohan Paul (@rohanpaul_ai)</source>
+      <title>OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型</title>
+      <link>https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/</link>
+      <description>Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。</description>
+      <pubDate>Wed, 18 Nov 2026 10:19:04 +0000</pubDate>
+      <guid isPermaLink="true">https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/</guid>
+      <source url="https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/">Latent Space（RSS）</source>
     </item>
     <item>
-      <title>Anthropic 获准在纳斯达克上市，代码 ANT，发行价每股 70~78 美元</title>
-      <link>https://www.ithome.com/1/028/599.htm</link>
-      <description>根据 SEC 11 月 17 日公示的文件，Anthropic 的 A 类普通股获准在纳斯达克全球精选市场上市，代码 ANT，发行价区间维持每股 70 至 78 美元。</description>
-      <pubDate>Wed, 18 Nov 2026 00:12:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/028/599.htm</guid>
-      <source url="https://www.ithome.com/1/028/599.htm">IT之家·人工智能</source>
+      <title>Gemini新模型Neon箭在弦上，网友：遍历元素周期表？</title>
+      <link>https://www.qbitai.com/2026/11/510922.html</link>
+      <description>氖人寻味！</description>
+      <pubDate>Wed, 18 Nov 2026 09:41:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510922.html</guid>
+      <source url="https://www.qbitai.com/2026/11/510922.html">量子位</source>
     </item>
     <item>
-      <title>使用 ChatGPT: 生活管理员的低估方式</title>
-      <link>https://www.youtube.com/shorts/2pdF52EVlbM</link>
-      <description>甚至ChatGPT的研究者也需要一些生活管理员的帮助. Isa F分享了她使用ChatGPT的方式被低估:跟踪细节,为她下次发型创造时间.</description>
-      <pubDate>Wed, 18 Nov 2026 00:06:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/2pdF52EVlbM</guid>
-      <source url="https://www.youtube.com/shorts/2pdF52EVlbM">OpenAI</source>
+      <title>GPT-6.2难产！OpenAI怕了</title>
+      <link>https://www.qbitai.com/2026/11/510914.html</link>
+      <description>OpenAI也终于活成了2022年谷歌的样子</description>
+      <pubDate>Wed, 18 Nov 2026 07:53:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510914.html</guid>
+      <source url="https://www.qbitai.com/2026/11/510914.html">量子位</source>
     </item>
     <item>
-      <title>萨特雅·纳德拉说他现在被AGI绑架了</title>
-      <link>https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now</link>
-      <description>微软CEO萨特雅·纳德拉(Satya Nadella)说他是AGI所窃取的,至少当涉及人工智能会如何让经济结构发生惊人的变化,以及政治会因它而发生怎样的变化的时候. "我是AGI所窃取的,在经济层面上,围绕AGI的政治经济组织是什么.</description>
-      <pubDate>Tue, 17 Nov 2026 18:41:18 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now</guid>
-      <source url="https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now">The Verge AI</source>
+      <title>全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线</title>
+      <link>https://www.qbitai.com/2026/11/510916.html</link>
+      <description>近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线</description>
+      <pubDate>Wed, 18 Nov 2026 07:24:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510916.html</guid>
+      <source url="https://www.qbitai.com/2026/11/510916.html">量子位</source>
     </item>
     <item>
-      <title>Nvidia 宣布停售 H200 芯片至中国，并设立董事会级国家安全委员会</title>
-      <link>https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/</link>
-      <description>代理 CEO Colette Kress 周二表示，Nvidia 将不再在中国销售 H200 芯片，结束此前由 Jensen Huang 与特朗普斡旋、需经美国境内并缴纳 25% 关税的出口通道。</description>
-      <pubDate>Tue, 17 Nov 2026 23:37:48 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/</guid>
-      <source url="https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/">TechCrunch：AI（RSS）</source>
+      <title>OpenAI Codex 团队成员解释 6.2 Sol/Astra 评测视频与现场反馈的差异</title>
+      <link>https://x.com/thsottiaux/status/2122929634916679820</link>
+      <description>Tibo 解释 6.2 Sol/Astra 上评测视频与现场人群反馈氛围不同的原因：部分人较早获得访问权限，而团队在过去 3-4 天做了大量改动，视频是上周制作的，之后大概率没有重新测试。他称这两个模型相比 GPT 前代有明显提升，但仍不完美，团队希望在后续迭代的品味和使用体验上改进，并表示欢迎反馈。</description>
+      <pubDate>Wed, 18 Nov 2026 05:47:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2122929634916679820</guid>
+      <source url="https://x.com/thsottiaux/status/2122929634916679820">X：Tibo (@thsottiaux)</source>
     </item>
     <item>
-      <title>引入销售的ChatGPT</title>
-      <link>https://www.youtube.com/watch?v=pmOJIq7Ah00</link>
-      <description>新销售插件和30+新扩展的伙伴插件将您的客户背景和销售工具放在了ChatGPT中。 准备呼叫, 裁缝建议, 并更快地从工具中获取真知灼见。</description>
-      <pubDate>Tue, 17 Nov 2026 23:24:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=pmOJIq7Ah00</guid>
-      <source url="https://www.youtube.com/watch?v=pmOJIq7Ah00">OpenAI</source>
+      <title>Nvidia 临时 CEO Colette Kress 表示董事会不会恢复黄仁勋的 CEO 职务</title>
+      <link>https://x.com/rohanpaul_ai/status/2122925474485870983</link>
+      <description>Nvidia 临时 CEO Colette Kress 在 Jim Cramer 的节目上表示，董事会已决定不会恢复黄仁勋（Jensen）的 CEO 职务，称这就是董事会的决定和官方声明。此前董事 Harvey Jones 在昨天的首次财报电话会上表示，董事会一致接受其辞职且无意让其复任。完整采访见 CNBC Mad Money，完整视频见 CNBC Television YouTube 频道。</description>
+      <pubDate>Wed, 18 Nov 2026 05:30:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2122925474485870983</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2122925474485870983">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
-      <title>深度实测GPT-6.2 Astra：极致省钱但偏科严重，沟通可读性依旧拉胯</title>
-      <link>https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA</link>
-      <description>OpenAI 发布 GPT-6.2 Astra 与 Sol，已同步上线 ChatGPT、Codex 和 API。</description>
-      <pubDate>Tue, 17 Nov 2026 22:36:45 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA</guid>
-      <source url="https://mp.weixin.qq.com/s/0cEoTueGjSGtm0-glpYGcA">公众号：数字生命卡兹克</source>
+      <title>Semafor：部分 Nvidia 董事仍推动让黄仁勋回归，尽管董事长否认</title>
+      <link>https://x.com/rohanpaul_ai/status/2122922693662245298</link>
+      <description>Semafor 报道称，尽管 Nvidia 董事长 Harvey Jones 表示董事会一致接受黄仁勋的辞职且无意让他复任 CEO，部分董事仍在推动其回归。黄仁勋在周二财报发布前与至少 1 名董事讨论过回归事宜；该投票仅针对辞职本身，Nvidia 章程允许剩余 10 名董事以简单多数任命 CEO 而无需股东投票。另有董事将人选范围缩小至 Arm CEO Rene Haas 和 Marvell CEO Matt Murphy 等候选人。</description>
+      <pubDate>Wed, 18 Nov 2026 05:19:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2122922693662245298</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2122922693662245298">X：Rohan Paul (@rohanpaul_ai)</source>
     </item>
     <item>
-      <title>Gemini 4 Hydrogen 全面上线 Google Search</title>
-      <link>https://x.com/Google/status/2122820914777845813</link>
-      <description>Google 宣布 Gemini 4 Hydrogen 已在全球范围的 Google Search 中上线，称为 Search 迄今最大的一次模型升级。升级包括更好地理解用户意图、更智能的 query fan-out 与链接、更可视化自适应的回复，以及更强的多语言能力。</description>
-      <pubDate>Tue, 17 Nov 2026 22:35:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Google/status/2122820914777845813</guid>
-      <source url="https://x.com/Google/status/2122820914777845813">X：Google (@Google)</source>
+      <title>NEBench R1:大语言模型核领域能力评价的合理基准</title>
+      <link>https://arxiv.org/abs/2611.21682</link>
+      <description>正在越来越多地为核工程中的知识密集型和安全关键应用探索大型语言模型,但现有核领域基准的内容覆盖面有限,或主要侧重于答案。</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21682</guid>
+      <source url="https://arxiv.org/abs/2611.21682">ArXiv AI</source>
     </item>
     <item>
-      <title>Wiz 解读 OpenJDK 远程代码执行漏洞 CVE-2026-114938（Java4Shell）</title>
-      <link>https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk</link>
-      <description>2026 年 11 月 17 日披露的 OpenJDK 关键 RCE 漏洞 CVE-2026-114938（Java4Shell）CVSSv4.0 评分 9.2，源于 AVX-512 Base64 解码的汇编代码在处理结尾填充字符时输出数组边界计算下溢，导致堆内存越界写入，已证实可对 Jenkins、Confluence、Apache Tomcat 等实现远程利用。</description>
-      <pubDate>Tue, 17 Nov 2026 22:29:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk</guid>
-      <source url="https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk">Wiz：Research（安全研究）</source>
+      <title>思维控制链可减少思维控制链可监测性</title>
+      <link>https://arxiv.org/abs/2611.21799</link>
+      <description>思维链(CET)监控是检测隐藏目标、任务外行为和其他人工智能人员失误的有希望的工具。 一种风险是模型可以刻意塑造其推理,使其对监控器不透明。 我们对此进行压力测试。</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21799</guid>
+      <source url="https://arxiv.org/abs/2611.21799">ArXiv AI</source>
     </item>
     <item>
-      <title>Perplexity 上线 GPT-6.2 Astra 和 GPT-6.2 Sol，并公布 WANDR 基准成绩</title>
-      <link>https://x.com/perplexity_ai/status/2122814545639223348</link>
-      <description>Perplexity 宣布 GPT-6.2 Astra 和 GPT-6.2 Sol 已在 Perplexity Search 和 Computer 中可用。在其 WANDR 基准上，GPT-6.2 Astra 得分 0.783、单任务约 $12.54，较 GPT-6 Astra 提升 0.095；GPT-6.2 Sol 得分 0.746、约 $2.65，较 GPT-6.1 Sol 提升 0.065。</description>
-      <pubDate>Tue, 17 Nov 2026 22:10:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/perplexity_ai/status/2122814545639223348</guid>
-      <source url="https://x.com/perplexity_ai/status/2122814545639223348">X：Perplexity (@perplexity_ai)</source>
+      <title>搜索和救援车辆识别的多少是车辆? 背景快捷键、角隙和MSTAR和ATRNet-STAR部分图书馆</title>
+      <link>https://arxiv.org/abs/2611.21827</link>
+      <description>深层网络在MSTAR车辆基准上得分接近99%,而较新的ATRNet-STAR基准构建得更难。我们询问这些分数中有多少来自车辆本身。我们首先复制的是一个现代网络(ConvNEXt-Small,3种种子)。</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21827</guid>
+      <source url="https://arxiv.org/abs/2611.21827">ArXiv AI</source>
     </item>
     <item>
-      <title>Microsoft agent-framework 1.26.1/1.26.2 恶意版本被发布至 PyPI，窃取 Azure 与 CI 凭据</title>
-      <link>https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi</link>
-      <description>Wiz 报告，PyPI 上的 agent-framework 出现恶意版本 1.26.1 和 1.26.2（上传于 2026-11-17，约 21:30 UTC 后已下架），植入 .pth 文件在 Python 启动时运行凭据窃取器，收集环境变量、凭据文件及 Azure 与 Azure DevOps 托管标识和 OIDC 令牌，并回传至 webhook.site。</description>
-      <pubDate>Tue, 17 Nov 2026 22:03:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi</guid>
-      <source url="https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi">Wiz：Research（安全研究）</source>
+      <title>努力在人工智能安全研究的端到端记录中抓住破坏</title>
+      <link>https://arxiv.org/abs/2611.21832</link>
+      <description>随着人工智能系统越来越多地用于人工智能研发自动化,错位系统可能会破坏旨在改进模型安全和对齐的研究。 为了测试抵御这种破坏的压力防御,我们利用一位人类专家作为人工智能安全的代理破坏者。</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21832</guid>
+      <source url="https://arxiv.org/abs/2611.21832">ArXiv AI</source>
     </item>
     <item>
-      <title>Nvidia 第三财季营收 $115.8B 超预期，数据中心占 93%</title>
-      <link>https://x.com/rohanpaul_ai/status/2122812619379900579</link>
-      <description>Nvidia 第三财季营收 $115.8B，同比增长 103%，其中数据中心收入 $107.6B 占 93%，季度利润 $65.3B 翻倍。</description>
-      <pubDate>Tue, 17 Nov 2026 22:02:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2122812619379900579</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2122812619379900579">X：Rohan Paul (@rohanpaul_ai)</source>
+      <title>语言模型可以重写自己的重量</title>
+      <link>https://arxiv.org/abs/2611.21885</link>
+      <description>语言模型经过一次培训、冷冻和部署:再次改进一个模型需要再进行一次培训,一旦任务结束,便会失去一个即时、脚手架或额外计算。</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21885</guid>
+      <source url="https://arxiv.org/abs/2611.21885">ArXiv AI</source>
     </item>
     <item>
-      <title>OpenClaw 的 Sign in with ChatGPT 结束测试，支持 ChatGPT Business 及 GPT-6.2 Astra 与 Sol</title>
-      <link>https://x.com/openclaw/status/2122809472271958517</link>
-      <description>OpenClaw 宣布 Sign in with ChatGPT 功能结束测试，用户可在 OpenClaw 中使用自己的 ChatGPT 套餐，包括 ChatGPT Business。作者还确认支持新模型 GPT-6.2 Astra 和 Sol。引用的 @OpenAIDevs 内容显示，ChatGPT Business 套餐现已可通过 Sign in with ChatGPT 用于 Notion、v0、OpenClaw 等多种工具。</description>
-      <pubDate>Tue, 17 Nov 2026 21:49:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/openclaw/status/2122809472271958517</guid>
-      <source url="https://x.com/openclaw/status/2122809472271958517">X：OpenClaw (@openclaw)</source>
+      <title>DeltaHarness:资源辅助工具执行的自我演变工具</title>
+      <link>https://arxiv.org/abs/2611.21688</link>
+      <description>工具使用代理依赖执行工具来组织和安排工具操作。 相同的任务和资源描述可以隐藏运行时间条件, 从而逆转有效执行计划的延迟命令 。 解决这种不确定性需要</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21688</guid>
+      <source url="https://arxiv.org/abs/2611.21688">ArXiv ML</source>
     </item>
     <item>
-      <title>WSJ 报道 SEC 对 Nvidia 披露问题启动民事调查，恰逢 CEO 黄仁勋离任</title>
-      <link>https://x.com/rohanpaul_ai/status/2122804149503033606</link>
-      <description>据 WSJ，SEC 正以民事调查核实 Nvidia 的披露是否误导投资者，图片中的 WSJ 标题显示此事发生于 CEO 黄仁勋离任之际。Nvidia 在截至 2025 年 7 月的季度后停止单独披露新加坡收入，该季度新加坡账单达 $10.2B、占总数 22%，公司称客户通过新加坡开票而芯片几乎都发往别处。</description>
-      <pubDate>Tue, 17 Nov 2026 21:28:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2122804149503033606</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2122804149503033606">X：Rohan Paul (@rohanpaul_ai)</source>
+      <title>AdaFlowLite:对同步移动数据的可伸缩性和非阻断性推论</title>
+      <link>https://arxiv.org/abs/2611.21691</link>
+      <description>配备了LiDAR和照相机等众多传感器的移动设备的兴起,促使人们采用多种模式的深层智能来完成分布式感知任务,如智能舱和驾驶辅助设备。</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21691</guid>
+      <source url="https://arxiv.org/abs/2611.21691">ArXiv ML</source>
     </item>
     <item>
-      <title>Claude Code 推出实验性 Code Mode 工具调用方式</title>
-      <link>https://x.com/ClaudeDevs/status/2122801681939234950</link>
-      <description>Claude Code 推出实验性 Code Mode，一种新的工具使用方式：Claude 会编写脚本以复杂方式串联多个工具，并能在长命令仍在运行时回复用户。可通过设置环境变量 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 开启，文档见 http://code.claude.com/docs/en/code-mode。</description>
-      <pubDate>Tue, 17 Nov 2026 21:18:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ClaudeDevs/status/2122801681939234950</guid>
-      <source url="https://x.com/ClaudeDevs/status/2122801681939234950">X：Claude Devs (@ClaudeDevs)</source>
+      <title>TIBECG: ECG波形发布中铅-特定人口隐私的瞬间信息瓶</title>
+      <link>https://arxiv.org/abs/2611.21694</link>
+      <description>传播心电图(ECG)波形可以将人口信息暴露在预期的诊断任务之外。 我们评价TIBECG,这是一个建筑时空信息瓶颈,来自医院12条线索的单个线索。</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21694</guid>
+      <source url="https://arxiv.org/abs/2611.21694">ArXiv ML</source>
     </item>
     <item>
-      <title>连萨姆·阿尔特曼都无法逃脱Instagram上的人工智能深层假象</title>
-      <link>https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake</link>
-      <description>Instagram上充斥着张贴深层内容的人——包括最近梅塔最知名的主管之一,11月早些时候,梅塔的首席人工智能官Alexandry Wang分享了一段短片,以宣传该公司消费人工智能特工Muse,在人工智能生成的短片中,Wang,梅塔CEO.</description>
-      <pubDate>Tue, 17 Nov 2026 16:00:55 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake</guid>
-      <source url="https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake">The Verge AI</source>
+      <title>远景网络中的分层学习-比例放大:有效比例识别、电力元聚合和预算依赖</title>
+      <link>https://arxiv.org/abs/2611.21696</link>
+      <description>分层学习率的缩放为网络的不同部分分配不同的学习率。虽然在微调预先训练过的模型中建立,但其在从零开始训练的视觉网络中的效果通常通过培训每个坦率者来评估。</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21696</guid>
+      <source url="https://arxiv.org/abs/2611.21696">ArXiv ML</source>
     </item>
     <item>
-      <title>OpenClaw 上线 OpenAI GPT-6.2 Astra 和 Sol 模型</title>
-      <link>https://x.com/openclaw/status/2122778563829174468</link>
-      <description>OpenClaw 宣布 OpenAI 的 GPT-6.2 Astra 和 Sol 现已在 OpenClaw 中可用。运行 v2026.10.1 或更新版本的用户无需更新 OpenClaw 即可直接使用。</description>
-      <pubDate>Tue, 17 Nov 2026 19:47:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/openclaw/status/2122778563829174468</guid>
-      <source url="https://x.com/openclaw/status/2122778563829174468">X：OpenClaw (@openclaw)</source>
+      <title>FACE: mmWave MIMO系统流动导引通道估计框架</title>
+      <link>https://arxiv.org/abs/2611.21698</link>
+      <description>获取准确的通道状态信息对于毫米波(mmWave)多输入多输出(MIMO)系统至关重要,但由于高维通道、有限的试验观测和测量噪音,这一信息仍然具有挑战性。</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21698</guid>
+      <source url="https://arxiv.org/abs/2611.21698">ArXiv ML</source>
     </item>
     <item>
-      <title>Google 的 Spark 人工智能代理成为“任务 ” , 现在免费了</title>
-      <link>https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</link>
-      <description>Google 正在将其 Spark 人工智能代理重新命名为 “任务 ” , 使其可以自由使用 。 该功能由 Google 新的双子座 4 氢人工智能模型提供动力, 可以做一些事情, 比如创建餐计划, 管理您的日历, 并通过您的电子邮件挖掘, 以找到您可能不需要的经常性开支 。</description>
-      <pubDate>Tue, 17 Nov 2026 13:58:01 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</guid>
-      <source url="https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free">The Verge AI</source>
+      <title>Crisis Bench:用于危机咨询的一套评价软件</title>
+      <link>https://arxiv.org/abs/2611.21622</link>
+      <description>背景:危机求助热线对心理健康系统至关重要,但往往人手不足,资金不足。</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.21622</guid>
+      <source url="https://arxiv.org/abs/2611.21622">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
