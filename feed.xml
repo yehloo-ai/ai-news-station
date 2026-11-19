@@ -5,8 +5,104 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 21:21:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:14:29 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>WorkBuddy 日活超过 1000 万；曝英伟达未投企业责任险，或因黄仁勋事件遭巨额索赔；DeepSeek 再调整 API 计费 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/374177</link>
+      <description>黄仁勋辞职风波升级：英伟达遭两起证券欺诈诉讼，公司自身却未投保企业责任险 11 月 18 日消息，据路透社报道，英伟达为公司高管和董事购买了责任保险，最高赔付额度达 9.5 亿美元，但公司自身没有购买通常用于覆盖证券诉讼辩护费用、和解金与判决赔偿的企业责任保险。 这意味着，如果围绕黄仁勋突然辞去 CEO 职务引发的诉讼最终胜诉，涉及股价暴跌的赔偿需要由公司自行承担。英伟达目前持有超过 500 亿美元现金储备。自 11 月 8 日黄仁勋承认对妻子不忠以来，针对英伟达及相关人员的诉讼至少已有两起，其中包括一名个人股东在旧金山联邦法院提起的拟议集体诉讼，指控公司及黄仁勋涉嫌证券欺诈、误导投资者。 该</description>
+      <pubDate>Thu, 19 Nov 2026 09:03:37 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374177</guid>
+      <source url="http://www.geekpark.net/news/374177">极客公园</source>
+    </item>
+    <item>
+      <title>Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员</title>
+      <link>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/</link>
+      <description>Microsoft CEO Satya Nadella 在 DealBook Summit 上解释，10 月向 6 万名员工提供买断是为了让员工在转型中拥有选择权，而非用 AI 取代员工，目标是让所有人都用 AI 工作、转向管理 AI 智能体。</description>
+      <pubDate>Thu, 19 Nov 2026 00:42:56 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/</guid>
+      <source url="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万</title>
+      <link>https://www.ifanr.com/1690255?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本 · 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪 · 英特尔再裁全球 IT 员工，继续推进组织精简#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 19 Nov 2026 00:36:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1690255?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1690255?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5</title>
+      <link>https://www.ifanr.com/1690235?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>性能更强，还更便宜#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 18 Nov 2026 23:56:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1690235?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1690235?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售</title>
+      <link>https://x.com/thexpin/status/2123199944903581803</link>
+      <description>围绕英伟达前高管黄仁勋及AI芯片转运传闻，美国商务部与司法部就Megaspeed发布联合声明，未认定存在违规芯片销售，也未将该公司列入实体清单；英伟达此前已主动切断对Megaspeed的供应。相关声明未提及间谍行为，新加坡内政部亦表示未就间谍问题调查该公司负责人。</description>
+      <pubDate>Wed, 18 Nov 2026 23:41:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thexpin/status/2123199944903581803</guid>
+      <source url="https://x.com/thexpin/status/2123199944903581803">X：X.PIN (@thexpin)</source>
+    </item>
+    <item>
+      <title>国家最大的校区考虑放弃谷歌搜索</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google</link>
+      <description>纽约、洛杉矶和芝加哥的学校都在考虑谷歌的替代方案,因为根据《纽约时报》,Google公司说它将禁用选择退出其人工智能功能的学校。 从明年开始,学校将无法在没有双子座功能的情况下禁用双子座功能。</description>
+      <pubDate>Wed, 18 Nov 2026 18:18:35 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google">The Verge AI</source>
+    </item>
+    <item>
+      <title>微软CEO纳德拉就英伟达CEO变动表态：仍对英伟达团队有信心</title>
+      <link>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/</link>
+      <description>英伟达CEO黄仁勋在任职33年后于上周卸任，微软CEO萨提亚·纳德拉在纽约时报DealBook峰会上表示此事令人惋惜，并称仍对英伟达及其临时CEO科莱特·克雷斯带领的团队充满信心。纳德拉提到克雷斯曾在微软长期工作，自己与她相识已久。</description>
+      <pubDate>Wed, 18 Nov 2026 23:17:28 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/</guid>
+      <source url="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>OpenAI 团队成员 Tibo 评价 GPT-6.2 Astra 并转引 AMD 与 Jalapeño 芯片优化结果</title>
+      <link>https://x.com/thsottiaux/status/2123175166519992652</link>
+      <description>OpenAI 成员 Tibo 转引团队结果并评价 GPT-6.2 Astra 擅长极难任务，同时承认收到对其沟通风格的反馈并正在改进。所引内容称与 AMD 合作在不到五个月内将旗舰 GPU IP 的 PPA 提升最高 14%，同样方法改进了 OpenAI 首款自研推理芯片 Jalapeño 且在真实硅片上验证，并与 Synopsys 合作把模型能力接入其 EDA 设计和验证工具，详情见 https://openai.com/index/advancing-chip-design-with-our-models/</description>
+      <pubDate>Wed, 18 Nov 2026 22:03:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2123175166519992652</guid>
+      <source url="https://x.com/thsottiaux/status/2123175166519992652">X：Tibo (@thsottiaux)</source>
+    </item>
+    <item>
+      <title>Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter</title>
+      <link>https://x.com/OpenRouter/status/2123170058574905675</link>
+      <description>OpenRouter 宣布 Google DeepMind 的 Gemini 4 Neon 正式上线其平台，可通过 Google Cloud 使用。该模型面向复杂软件工程、知识工作和科学场景，定位介于 Carbon 与 Hydrogen 之间。Google 称其在 Artificial Analysis Coding Agent Index 排名第一，每任务成本比 Carbon 低 32%。</description>
+      <pubDate>Wed, 18 Nov 2026 21:42:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenRouter/status/2123170058574905675</guid>
+      <source url="https://x.com/OpenRouter/status/2123170058574905675">X：OpenRouter (@OpenRouter)</source>
+    </item>
+    <item>
+      <title>Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放</title>
+      <link>https://x.com/GeminiApp/status/2123168704662012079</link>
+      <description>Google 宣布即日起 Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放，覆盖移动端、桌面端和网页端。官方称该模型擅长需要前沿级推理和快速响应的工作。</description>
+      <pubDate>Wed, 18 Nov 2026 21:37:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GeminiApp/status/2123168704662012079</guid>
+      <source url="https://x.com/GeminiApp/status/2123168704662012079">X：Gemini (@GeminiApp)</source>
+    </item>
+    <item>
+      <title>Google DeepMind 发布 Gemini 4 Neon</title>
+      <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
+      <description>Google DeepMind 发布 Gemini 4 Neon，主打前沿智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。模型在 Artificial Analysis Intelligence Index 得 61 分排第 3，Vals Index 排第 2，Agent Arena Index 以 1336 分全球第 2。</description>
+      <pubDate>Wed, 18 Nov 2026 21:35:43 +0000</pubDate>
+      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
+      <source url="https://deepmind.google/blog/introducing-gemini-4-neon/">Google DeepMind：Blog（RSS）</source>
+    </item>
+    <item>
+      <title>Palmer Luckey 就 Nvidia CEO 人事变动发表看法</title>
+      <link>https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/</link>
+      <description>TechCrunch 报道，Anduril CEO Palmer Luckey 在纽约时报 DealBook Summit 上就 Nvidia 领导层变动发表看法，认为相关变动可能影响美国产业竞争力，并呼吁 Nvidia 恢复创始人黄仁勋的 CEO 职位。报道称，已有超过 20 万人联署请愿，包括马斯克及多家科技公司 CEO；Nvidia 临时 CEO Colette Kress 在财报电话会上表示，公司暂无重新任命黄仁勋的计划。</description>
+      <pubDate>Wed, 18 Nov 2026 21:31:21 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/</guid>
+      <source url="https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/">TechCrunch：AI（RSS）</source>
+    </item>
     <item>
       <title>引入 ChatGPT 会计</title>
       <link>https://www.youtube.com/watch?v=AhmCKHNqhB8</link>
@@ -70,102 +166,6 @@
       <pubDate>Wed, 18 Nov 2026 18:12:21 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=EDp4IoAUsXY</guid>
       <source url="https://www.youtube.com/watch?v=EDp4IoAUsXY">DeepMind</source>
-    </item>
-    <item>
-      <title>迪士尼的新星球大战动画 利用人工智能与来宾互动</title>
-      <link>https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai</link>
-      <description>正如迪士尼公园的动画人物一样,他们通常要么坚持预先定义的动作和常规,要么就有一个在外视的傀儡帮助他们的行为更自发地显现。这很快会随着华特·迪士尼想象的研发而改变。</description>
-      <pubDate>Wed, 18 Nov 2026 12:50:57 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai</guid>
-      <source url="https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai">The Verge AI</source>
-    </item>
-    <item>
-      <title>腾讯混元宣布 11 月 20 日在 Reddit r/LocalLLaMA 举办 AMA</title>
-      <link>https://x.com/TencentHunyuan/status/2123095410327879735</link>
-      <description>腾讯混元宣布本周五 11 月 20 日 8–10 AM PT 在 Reddit r/LocalLLaMA 举办 AMA，研发团队与 @ShunyuYao12 将解读刚发布的 Hy4 与 Hy4 flash。作者称 Hy4 flash 已开放权重，含 Hy4 flash-FP8 和 Hy4 flash-Base，为 224B 参数（激活 12B）、1M 上下文、原生多模态，并预告 Hy4 后续发布。</description>
-      <pubDate>Wed, 18 Nov 2026 16:46:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TencentHunyuan/status/2123095410327879735</guid>
-      <source url="https://x.com/TencentHunyuan/status/2123095410327879735">X：腾讯混元 (@TencentHunyuan)</source>
-    </item>
-    <item>
-      <title>记得边疆人工智能暂停吗?芯片公司也没有</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models</link>
-      <description>今年夏天,OpenAI在其人工智能人员不慎黑入Hugging Face后暂停了它计划进行的最大前沿训练,早期的证据表明它的下一个模型可以独立地发现和利用安全缺陷. 9月,Anthropic CEO Dario Amodei呼吁减速前进.</description>
-      <pubDate>Wed, 18 Nov 2026 10:44:02 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models">The Verge AI</source>
-    </item>
-    <item>
-      <title>Wiz 披露 NGINX 两个 HTTP/2 无需认证远程代码执行漏洞 CVE-2026-123633 与 CVE-2026-123007</title>
-      <link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
-      <description>Wiz Research 与 Ikotas Labs、Rapid7 等团队独立发现 NGINX 两个 Critical 远程代码执行漏洞，CVSS 4.0 评分 9.2，已与 F5 协调并于 2026-11-18 发布修复。</description>
-      <pubDate>Wed, 18 Nov 2026 15:13:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</guid>
-      <source url="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities">Wiz：Research（安全研究）</source>
-    </item>
-    <item>
-      <title>Will Wright的下一场游戏使用人工智能来映射你的记忆</title>
-      <link>https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview</link>
-      <description>威尔·赖特是SimCity和The Sims等传奇特许权的创造者,他正在创作一款新游戏——它围绕人工智能构建,新标题专注于你的记忆,叫做"MyMems"(MyMems),和莱特的其他标题一样,听起来非常有野心,给玩家一种探索所创造出的世界的新方式.</description>
-      <pubDate>Wed, 18 Nov 2026 09:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview</guid>
-      <source url="https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview">The Verge AI</source>
-    </item>
-    <item>
-      <title>跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋</title>
-      <link>http://www.geekpark.net/news/374175</link>
-      <description>「基本不可用，不推荐」。 OpenAI 新模型上线仅仅 8 分钟，硅谷知名创业者 Matt Shumer，就在社交平台上扔下一句毫不留情的评价。 紧接着，拥有大批开发者拥趸的 Theo Browne，发了一篇长文《我为什么讨厌 GPT-6.2 Astra》。向来对前沿模型保持温和耐心的沃顿商学院教授 Ethan Mollick，测完后也给出了罕见的严厉定调，「非常不稳定且古怪」，直言这是「自 GPT-4.5 以来 OpenAI 前沿发布首次未见明显进步」。 这原本该是 OpenAI 是一场漂亮的反击战。 北京时间 11 月 18 日凌晨，OpenAI 正式推出新一代旗舰 GPT-6.2 Ast</description>
-      <pubDate>Wed, 18 Nov 2026 21:40:28 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374175</guid>
-      <source url="http://www.geekpark.net/news/374175">极客公园</source>
-    </item>
-    <item>
-      <title>Nvidia不再向中国出售人工智能芯片</title>
-      <link>https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling</link>
-      <description>尽管去年12月白宫批准Nvidia向中国发送了先进的人工智能芯片,但Nvidia还是停止了向中国发送其先进的人工智能芯片。 临时Nvidia首席执行官科莱特·克雷斯(Colette Kress)在星期二的一次收入呼吁中宣布,这标志着该公司发生了显著的变化。</description>
-      <pubDate>Wed, 18 Nov 2026 08:01:05 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling</guid>
-      <source url="https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling">The Verge AI</source>
-    </item>
-    <item>
-      <title>苏诺现在让你制作人工智能视频 用于你的人工智能音乐</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature</link>
-      <description>苏诺在最近的努力中引入了图像和视频生成,以扩张超越人工智能音乐平台. 新功能名为"Visuals",允许用户将苏诺歌曲转化为人工智能生成的视频片段,自动将唇音同步到歌词,或者通过即时描述来制作图像,这些画面可以是u.</description>
-      <pubDate>Wed, 18 Nov 2026 06:16:53 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature">The Verge AI</source>
-    </item>
-    <item>
-      <title>Anthropic IPO 估值最高或达 1.4 万亿美元，华尔街提前造势散户争抢</title>
-      <link>https://www.ithome.com/1/029/015.htm</link>
-      <description>据路透社报道，Anthropic 预计于当地时间 11 月 19 日登陆公开市场，IPO 估值最高可能达到 1.4 万亿美元。金融机构已推出 2 倍做多与做空 ETF 等挂钩产品，Vanda Research 预计上市将吸引约 2.5 亿美元散户净买入，为 SpaceX IPO 期间 1.18 亿美元纪录的两倍。</description>
-      <pubDate>Wed, 18 Nov 2026 10:45:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/029/015.htm</guid>
-      <source url="https://www.ithome.com/1/029/015.htm">IT之家·人工智能</source>
-    </item>
-    <item>
-      <title>OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型</title>
-      <link>https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/</link>
-      <description>Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。</description>
-      <pubDate>Wed, 18 Nov 2026 10:19:04 +0000</pubDate>
-      <guid isPermaLink="true">https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/</guid>
-      <source url="https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/">Latent Space（RSS）</source>
-    </item>
-    <item>
-      <title>Gemini新模型Neon箭在弦上，网友：遍历元素周期表？</title>
-      <link>https://www.qbitai.com/2026/11/510922.html</link>
-      <description>氖人寻味！</description>
-      <pubDate>Wed, 18 Nov 2026 09:41:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/510922.html</guid>
-      <source url="https://www.qbitai.com/2026/11/510922.html">量子位</source>
-    </item>
-    <item>
-      <title>OpenAI 深入解析 Codex 沙箱的权限设计与三平台实现</title>
-      <link>https://openai.com/index/inside-the-codex-sandbox</link>
-      <description>OpenAI 发布长文，详解 Codex 沙箱如何在用户现有环境中以可控的文件系统和网络限制运行命令。</description>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/inside-the-codex-sandbox</guid>
-      <source url="https://openai.com/index/inside-the-codex-sandbox">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
     </item>
   </channel>
 </rss>
