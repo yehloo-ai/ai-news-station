@@ -1412,5 +1412,23 @@
     "summary": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol 系统卡，评估认定两模型在 Preparedness Framework 下达到生物化学能力 High 阈值、网络安全能力 Critical 阈值，内部部署沿用 GPT-6 Astra 的防护并加强了研究环境安全和中央工作负载追踪系统。",
     "sourceUrl": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
     "sourceName": "OpenAI：部署安全与系统卡（网页）"
+  },
+  {
+    "observedDate": "2026-11-19",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Google DeepMind 发布 Gemini 4 Neon",
+    "summary": "Google DeepMind 发布 Gemini 4 Neon，主打前沿智能与快速端到端任务完成，覆盖软件工程、知识工作和科学工作流。模型在 Artificial Analysis Intelligence Index 得 61 分排第 3，Vals Index 排第 2，Agent Arena Index 以 1336 分全球第 2。",
+    "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "sourceName": "Google DeepMind：Blog（RSS）"
+  },
+  {
+    "observedDate": "2026-11-19",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol：更便宜但口碑分化，Anthropic 仍握最强模型",
+    "summary": "Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。",
+    "sourceUrl": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+    "sourceName": "Latent Space（RSS）"
   }
 ]
