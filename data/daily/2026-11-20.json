@@ -1,0 +1,430 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T00:00:39.442Z",
+  "windowStart": "2026-11-19T00:00:00.000Z",
+  "windowEnd": "2026-11-20T00:00:00.000Z",
+  "links": {
+    "aihot": "https://aihot.news/daily/2026-11-20"
+  },
+  "attribution": {
+    "name": "AIHOT",
+    "url": "https://aihot.news/daily/2026-11-20"
+  },
+  "lead": {
+    "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
+    "leadParagraph": "Anthropic 在纳斯达克完成 IPO，开盘几分钟内股价达 111.50 美元，较 83 美元发行价高出 33%，发行价已超过公司此前 70 至 78 美元的预期区间。本次发行募资超过 810 亿美元，叠加同期私募融资后公司现金储备预计达 2200 亿美元；按开盘价计算市值超过 2 万亿美元，CEO Dario Amodei 在开盘致辞中强调公司对安全的承诺。"
+  },
+  "sections": [
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+          "summary": "Google Labs VP Josh Woodward 宣布 Mac 版 Gemini 应用新增 computer use 功能，可跨文件夹、应用和网页代用户执行任务，屏幕和光标控制权仍归用户。官方演示显示 Gemini 能在后台窗口中点击、滚动和输入，把草图变成 Blender 里的绑定的 3D 模型。",
+          "source": {
+            "name": "X：Josh Woodward (@joshwoodward, Google Labs VP)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
+            "original": "https://x.com/joshwoodward/status/2123534862569324703"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj"
+          },
+          "sourceUrl": "https://x.com/joshwoodward/status/2123534862569324703",
+          "sourceName": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+          "permalink": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj"
+        },
+        {
+          "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
+          "summary": "Google 在 Gemini API 的 Interactions API 中以预览形式推出 Tool Retrieval，让智能体按需加载工具参数 schema，而不是每次请求都发送完整工具库，以减少输入 token 并在工具数量扩大时保持选择准确。",
+          "source": {
+            "name": "Google Blog：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l",
+            "original": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l"
+          },
+          "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+          "sourceName": "Google Blog：AI（RSS）",
+          "permalink": "https://aihot.news/items/n3npoqbr48wu58cke5p3ox18l"
+        }
+      ]
+    },
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "title": "Anthropic 登陆纳斯达克，开盘价 111 美元较发行价高出 33%",
+          "summary": "Anthropic 在纳斯达克完成 IPO，开盘几分钟内股价达 111.50 美元，较 83 美元发行价高出 33%，发行价已超过公司此前 70 至 78 美元的预期区间。本次发行募资超过 810 亿美元，叠加同期私募融资后公司现金储备预计达 2200 亿美元；按开盘价计算市值超过 2 万亿美元，CEO Dario Amodei 在开盘致辞中强调公司对安全的承诺。",
+          "source": {
+            "name": "TechCrunch：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv",
+            "original": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv"
+          },
+          "sourceUrl": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "permalink": "https://aihot.news/items/gklqioeodqeuqgz3lttg83ztv"
+        },
+        {
+          "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+          "summary": "Microsoft CEO Satya Nadella 在 DealBook Summit 上解释，10 月向 6 万名员工提供买断是为了让员工在转型中拥有选择权，而非用 AI 取代员工，目标是让所有人都用 AI 工作、转向管理 AI 智能体。",
+          "source": {
+            "name": "TechCrunch：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
+            "original": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y"
+          },
+          "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "permalink": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y"
+        },
+        {
+          "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
+          "summary": "美国商务部收紧AI芯片出口管制并关闭第三方国家云算力通道后，亚洲多笔大型AI数据中心交易开始瓦解。Moonshot AI取消了与印尼云服务商的1.5亿美元合同，原计划租用Nvidia Blackwell Ultra B300集群训练Kimi K4，此前已预付约50%而非行业标准的15%。台积电和三星暂停向中国客户交付部分处理器，需申请许可；字节跳动、百度昆仑等客户受影响，非AI芯片豁免取消也波及小米、Oppo、vivo等智能手机处理器。",
+          "source": {
+            "name": "The Decoder：AI News（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
+            "original": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42"
+          },
+          "sourceUrl": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "permalink": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42"
+        },
+        {
+          "title": "Nvidia 股价近期波动复盘：财报强劲但股价较 10 月高点跌近 40%",
+          "summary": "The Verge 梳理 Nvidia 近期股价波动：第三季度营收同比翻倍至 1158 亿美元，数据中心业务增长 110%，Vera Rubin 平台贡献近 200 亿美元收入；但受芯片股整体抛售、前 CEO 黄仁勋辞职及公司治理调查等因素影响，股价一度报约 150 美元，较 10 月 6 日历史高点跌近 40%，周四收于 145.98 美元，创 52 周新低。",
+          "source": {
+            "name": "The Verge：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc",
+            "original": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc"
+          },
+          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+          "sourceName": "The Verge：AI（RSS）",
+          "permalink": "https://aihot.news/items/w1q2gyqsel49b4vbqeodf0qmc"
+        },
+        {
+          "title": "彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲",
+          "summary": "彭博社 11 月 19 日报道称，英伟达管理层变动及黄仁勋离任引发全球 AI 概念股新一轮抛售，日本相关股票首当其冲，市场风向从“AI 溢价”转向“AI 折价”。",
+          "source": {
+            "name": "IT之家·人工智能"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a",
+            "original": "https://www.ithome.com/1/029/265.htm"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a"
+          },
+          "sourceUrl": "https://www.ithome.com/1/029/265.htm",
+          "sourceName": "IT之家·人工智能",
+          "permalink": "https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a"
+        },
+        {
+          "title": "Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型",
+          "summary": "Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。他表示 Opus 5.5 以明显优势仍是业界最佳模型，并称 Perplexity 作为 Anthropic 客户为其高兴。",
+          "source": {
+            "name": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo",
+            "original": "https://x.com/AravSrinivas/status/2123480966459174920"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo"
+          },
+          "sourceUrl": "https://x.com/AravSrinivas/status/2123480966459174920",
+          "sourceName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "permalink": "https://aihot.news/items/w8zhbr5smu0072gyuzmmay1eo"
+        },
+        {
+          "title": "Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO",
+          "summary": "Karina Nguyen 发文感谢投资人 Sol，回忆早期在办公室一起讨论模型评测和后训练难题的经历，并称赞他是唯一理解 scaling laws 的 VC。引用内容为 Sol 祝贺 Anthropic IPO 的推文，感谢 LP 及 GM 养老金、ICONIQ、Coatue、Lightspeed 等合作伙伴在增长投资最差时期押注 Anthropic。",
+          "source": {
+            "name": "X：Karina Nguyen（@karinanguyen）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq",
+            "original": "https://x.com/karinanguyen/status/2123509936475001310"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq"
+          },
+          "sourceUrl": "https://x.com/karinanguyen/status/2123509936475001310",
+          "sourceName": "X：Karina Nguyen（@karinanguyen）",
+          "permalink": "https://aihot.news/items/lc38ozrwfur9ympu1l3meqcuq"
+        },
+        {
+          "title": "黄仁勋相关传闻核查：美商务部与司法部就Megaspeed发联合声明，未认定违规芯片销售",
+          "summary": "围绕英伟达前高管黄仁勋及AI芯片转运传闻，美国商务部与司法部就Megaspeed发布联合声明，未认定存在违规芯片销售，也未将该公司列入实体清单；英伟达此前已主动切断对Megaspeed的供应。相关声明未提及间谍行为，新加坡内政部亦表示未就间谍问题调查该公司负责人。",
+          "source": {
+            "name": "X：X.PIN (@thexpin)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3",
+            "original": "https://x.com/thexpin/status/2123199944903581803"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3"
+          },
+          "sourceUrl": "https://x.com/thexpin/status/2123199944903581803",
+          "sourceName": "X：X.PIN (@thexpin)",
+          "permalink": "https://aihot.news/items/abxhv94f3gcq1qb9mzdf7yma3"
+        }
+      ]
+    },
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "title": "Stanford RegLab 发布 PhantomDocket 基准，追踪美国州法院诉讼文书中的 AI 辅助写作",
+          "summary": "Stanford HAI 与 RegLab 研究者发布论文 Detection Objection 和 PhantomDocket 基准，基于 Damien Charlotin 的 AI 幻觉案例数据库校准 AI 检测器，追踪四个州法院的 AI 辅助写作。",
+          "source": {
+            "name": "Stanford HAI News（网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/wi5cfyezztfdcojsokxto4q0d",
+            "original": "https://hai.stanford.edu/news/ai-might-be-flooding-state-court-houses-but-proving-it-is-another-matter"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/wi5cfyezztfdcojsokxto4q0d"
+          },
+          "sourceUrl": "https://hai.stanford.edu/news/ai-might-be-flooding-state-court-houses-but-proving-it-is-another-matter",
+          "sourceName": "Stanford HAI News（网页）",
+          "permalink": "https://aihot.news/items/wi5cfyezztfdcojsokxto4q0d"
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "title": "OpenAI 详解 Codex 驱动的 Performance Factory 如何自动保持 ChatGPT 高性能",
+          "summary": "OpenAI 官方详解其 Performance Factory 系统，用 Codex 智能体在云端自动排查并修复 ChatGPT 的性能回归。其中 Regression Workflow 在三个多月内跟踪超过 1700 次调查、定位超过 600 个根因，相当于每天约 17 次自动调查。",
+          "source": {
+            "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/alwgjr29158n454prl9tjmmw1",
+            "original": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/alwgjr29158n454prl9tjmmw1"
+          },
+          "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.news/items/alwgjr29158n454prl9tjmmw1"
+        }
+      ]
+    }
+  ],
+  "flashes": [
+    {
+      "title": "Gemini 4 Neon 实测：Peter Gostev 对比 Opus、Fable 等模型的首发体验",
+      "source": {
+        "name": "X：Arena (@arena)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6",
+        "original": "https://x.com/arena/status/2123528811572846972"
+      },
+      "publishedAt": "2026-11-19T21:28:16.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6"
+      },
+      "sourceUrl": "https://x.com/arena/status/2123528811572846972",
+      "sourceName": "X：Arena (@arena)",
+      "permalink": "https://aihot.news/items/z0unnn7ryj39a3tuns8b1l4a6"
+    },
+    {
+      "title": "Google 在 Gemini API 与 AI Studio 上线 Genie 4 实时世界模型",
+      "source": {
+        "name": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde",
+        "original": "https://x.com/_philschmid/status/2123465741592637445"
+      },
+      "publishedAt": "2026-11-19T17:17:39.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde"
+      },
+      "sourceUrl": "https://x.com/_philschmid/status/2123465741592637445",
+      "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "permalink": "https://aihot.news/items/n1nzpfmd3f6zc4abq3s8yxrde"
+    },
+    {
+      "title": "Perplexity Computer 的 Brain 智能体可自动编写和更新个人技能",
+      "source": {
+        "name": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv",
+        "original": "https://x.com/AravSrinivas/status/2123451045657690627"
+      },
+      "publishedAt": "2026-11-19T16:19:15.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv"
+      },
+      "sourceUrl": "https://x.com/AravSrinivas/status/2123451045657690627",
+      "sourceName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "permalink": "https://aihot.news/items/cty34utgc5ppbdnayf7cnjqlv"
+    },
+    {
+      "title": "Ai2 在 Asta 平台发布 Theorizer 科研理论生成智能体并开源代码",
+      "source": {
+        "name": "Ai2 / Allen Institute for AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w",
+        "original": "https://allenai.org/blog/theorizer-in-asta"
+      },
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w"
+      },
+      "sourceUrl": "https://allenai.org/blog/theorizer-in-asta",
+      "sourceName": "Ai2 / Allen Institute for AI（RSS）",
+      "permalink": "https://aihot.news/items/nl1zxwjilx9vxvz7af13c1s9w"
+    },
+    {
+      "title": "OpenAI 发布报告展示 AI 如何加速其内部研究",
+      "source": {
+        "name": "X：OpenAI (@OpenAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/f6lqwdjk5x80bwats1fvxagsu",
+        "original": "https://x.com/OpenAI/status/2123191365983248653"
+      },
+      "publishedAt": "2026-11-18T23:07:23.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/f6lqwdjk5x80bwats1fvxagsu"
+      },
+      "sourceUrl": "https://x.com/OpenAI/status/2123191365983248653",
+      "sourceName": "X：OpenAI (@OpenAI)",
+      "permalink": "https://aihot.news/items/f6lqwdjk5x80bwats1fvxagsu"
+    },
+    {
+      "title": "MIT 研究测算数据中心用电 2023 年在美国致约 650 例过早死亡",
+      "source": {
+        "name": "MIT News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav",
+        "original": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119"
+      },
+      "publishedAt": "2026-11-19T14:00:00.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav"
+      },
+      "sourceUrl": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+      "sourceName": "MIT News（RSS）",
+      "permalink": "https://aihot.news/items/wefmgc42bqc1uhcqc2gv3haav"
+    },
+    {
+      "title": "ChatGPT 听写新增实时转写",
+      "source": {
+        "name": "X：ChatGPT (@ChatGPT)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/u5ub03i55cwisoy4vzrrs8c3u",
+        "original": "https://x.com/ChatGPT/status/2123114715257946334"
+      },
+      "publishedAt": "2026-11-18T18:02:48.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/u5ub03i55cwisoy4vzrrs8c3u"
+      },
+      "sourceUrl": "https://x.com/ChatGPT/status/2123114715257946334",
+      "sourceName": "X：ChatGPT (@ChatGPT)",
+      "permalink": "https://aihot.news/items/u5ub03i55cwisoy4vzrrs8c3u"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Mac 版 Gemini 应用上线计算机操作功能，可代用户执行跨应用任务",
+      "summary": "Google Labs VP Josh Woodward 宣布 Mac 版 Gemini 应用新增 computer use 功能，可跨文件夹、应用和网页代用户执行任务，屏幕和光标控制权仍归用户。官方演示显示 Gemini 能在后台窗口中点击、滚动和输入，把草图变成 Blender 里的绑定的 3D 模型。",
+      "source": {
+        "name": "X：Josh Woodward (@joshwoodward, Google Labs VP)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
+        "original": "https://x.com/joshwoodward/status/2123534862569324703"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj"
+      }
+    },
+    {
+      "title": "Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员",
+      "summary": "Microsoft CEO Satya Nadella 在 DealBook Summit 上解释，10 月向 6 万名员工提供买断是为了让员工在转型中拥有选择权，而非用 AI 取代员工，目标是让所有人都用 AI 工作、转向管理 AI 智能体。",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y",
+        "original": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y"
+      }
+    },
+    {
+      "title": "芯片停运叠加海外云通道关闭，中国科技公司面临双重冲击",
+      "summary": "美国商务部收紧AI芯片出口管制并关闭第三方国家云算力通道后，亚洲多笔大型AI数据中心交易开始瓦解。Moonshot AI取消了与印尼云服务商的1.5亿美元合同，原计划租用Nvidia Blackwell Ultra B300集群训练Kimi K4，此前已预付约50%而非行业标准的15%。台积电和三星暂停向中国客户交付部分处理器，需申请许可；字节跳动、百度昆仑等客户受影响，非AI芯片豁免取消也波及小米、Oppo、vivo等智能手机处理器。",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42",
+        "original": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/h4bvsjw4ri6to1inm87srlf42"
+      }
+    }
+  ]
+}

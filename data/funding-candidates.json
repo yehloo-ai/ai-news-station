@@ -510,5 +510,23 @@
     "summary": "Anthropic, PBC 宣布其 IPO 定价为每股 $83.00，共发行 980,000,000 股 Class A 普通股，其中 956,351,354 股由公司出售，23,648,646 股由部分出售股东出售，公司不会获得后者收益。",
     "sourceUrl": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
     "sourceName": "Anthropic：Newsroom（网页）"
+  },
+  {
+    "observedDate": "2026-11-20",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Perplexity CEO Aravind Srinivas 祝贺 Anthropic IPO，称 Opus 5.5 仍是业界最佳模型",
+    "summary": "Perplexity CEO Aravind Srinivas 发推祝贺 Anthropic 当日 IPO，称其展示了专注、高信念、品味驱动的团队能在短时间内达成的成果。他表示 Opus 5.5 以明显优势仍是业界最佳模型，并称 Perplexity 作为 Anthropic 客户为其高兴。",
+    "sourceUrl": "https://x.com/AravSrinivas/status/2123480966459174920",
+    "sourceName": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+  },
+  {
+    "observedDate": "2026-11-20",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Karina Nguyen 发文祝贺投资人 Sol 庆祝 Anthropic IPO",
+    "summary": "Karina Nguyen 发文感谢投资人 Sol，回忆早期在办公室一起讨论模型评测和后训练难题的经历，并称赞他是唯一理解 scaling laws 的 VC。引用内容为 Sol 祝贺 Anthropic IPO 的推文，感谢 LP 及 GM 养老金、ICONIQ、Coatue、Lightspeed 等合作伙伴在增长投资最差时期押注 Anthropic。",
+    "sourceUrl": "https://x.com/karinanguyen/status/2123509936475001310",
+    "sourceName": "X：Karina Nguyen（@karinanguyen）"
   }
 ]

@@ -1430,5 +1430,14 @@
     "summary": "Latent Space 汇总 OpenAI 发布的 GPT-6.2 Astra 和 Sol：Artificial Analysis 测得 Sol 以约 15% 的单任务成本追平 9 月的 Astra，新 Astra 以 62 分位居 Intelligence Index 第二，仅次于 Fable 5.2 的 65 分，两者均为 1M 上下文、128K 输出。",
     "sourceUrl": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
     "sourceName": "Latent Space（RSS）"
+  },
+  {
+    "observedDate": "2026-11-20",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Google 在 Gemini API 推出 Tool Retrieval 预览",
+    "summary": "Google 在 Gemini API 的 Interactions API 中以预览形式推出 Tool Retrieval，让智能体按需加载工具参数 schema，而不是每次请求都发送完整工具库，以减少输入 token 并在工具数量扩大时保持选择准确。",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "sourceName": "Google Blog：AI（RSS）"
   }
 ]
