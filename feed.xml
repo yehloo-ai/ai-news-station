@@ -5,8 +5,80 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:24:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:00:31 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>特朗普威胁将人工智能数据中心移到美国境外,</title>
+      <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
+      <description>总统唐纳德·特朗普(Donald Trump)承诺对在美国境外建立数据中心的公司征收"三重税",即使全国各地的州市都在限制新应用来建立数据中心. "我们不会允许我们的公司在库恩以外建立数据中心.</description>
+      <pubDate>Fri, 20 Nov 2026 13:50:19 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</guid>
+      <source url="https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax">The Verge AI</source>
+    </item>
+    <item>
+      <title>ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件</title>
+      <link>https://x.com/ChatGPT/status/2123850915061104735</link>
+      <description>ChatGPT 官方宣布侧边栏中的 Space 成为 pages、slides、images、files 和 uploads 的新家。用 ChatGPT 可写页面、做研究、生成图片并创建交互式图表，把想法变成带图片和图形的幻灯片并邀请他人协作；页面和幻灯片还可从已连接的工具自动更新。</description>
+      <pubDate>Fri, 20 Nov 2026 18:48:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ChatGPT/status/2123850915061104735</guid>
+      <source url="https://x.com/ChatGPT/status/2123850915061104735">X：ChatGPT (@ChatGPT)</source>
+    </item>
+    <item>
+      <title>使用 ChatGPT: 寻找医生的方法被低估</title>
+      <link>https://www.youtube.com/shorts/X19Q12hmRjY</link>
+      <description>你每年的体检从找到合适的医生开始。 Magan Chin分享她如何在附近找到评分很高的医生。 提示: Instagram @genzbestie ^ TikTok @genzbestie_</description>
+      <pubDate>Fri, 20 Nov 2026 17:22:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/X19Q12hmRjY</guid>
+      <source url="https://www.youtube.com/shorts/X19Q12hmRjY">OpenAI</source>
+    </item>
+    <item>
+      <title>Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码</title>
+      <link>https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA</link>
+      <description>Anthropic 数学家 Levent Alpöge 在个人网站宣布与 Claude 合作证明了黎曼猜想，没有论文，只放出 14 个压缩包共 175187 个 Lean 文件、1737 万行代码。</description>
+      <pubDate>Fri, 20 Nov 2026 16:54:55 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA</guid>
+      <source url="https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>Anthropic数学家声称解决了与克劳德的著名千年奖问题</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
+      <description>安特罗皮克数学家勒文特·阿尔波赫(Levent Alpöge)声称他已经证明了里曼的假说,这是数学最出名的难题之一,在克劳德的帮助下,破解了一个谜题,几十年来一直躲在世界上一些最优秀的数学家的身边。 如果得到证实,这将会成为另一个sei的标志。</description>
+      <pubDate>Fri, 20 Nov 2026 11:34:13 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem">The Verge AI</source>
+    </item>
+    <item>
+      <title>3 保存钱的 ChatGPT 提示</title>
+      <link>https://www.youtube.com/watch?v=WGvsk0LIveU</link>
+      <description>ChatGPT 可以帮助您找到保存方法, 无论是购买办公桌椅, 还是在免费试验结束后想知道您仍在付多少钱。 学习三种方法与ChatGPT省钱。 在购买前使用产品截图来比较价格, 即时订阅, 并构建</description>
+      <pubDate>Fri, 20 Nov 2026 16:00:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=WGvsk0LIveU</guid>
+      <source url="https://www.youtube.com/watch?v=WGvsk0LIveU">OpenAI</source>
+    </item>
+    <item>
+      <title>MIT 数学面板讨论 AI 冲击下的数学研究未来</title>
+      <link>https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120</link>
+      <description>MIT 举办“AI 与社会：数学的未来”座谈，来自 MIT、哈佛、西北大学和纽约大学的数学家讨论 AI 对数学研究的影响。</description>
+      <pubDate>Fri, 20 Nov 2026 15:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120</guid>
+      <source url="https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120">MIT News（RSS）</source>
+    </item>
+    <item>
+      <title>Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫</title>
+      <link>https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</link>
+      <description>Anthropic 上市第二天股价跌逾 9% 至 $88.17，接近 $83 发行价，其破纪录 IPO 未能止住 AI 相关公司抛售。周五 Nasdaq 跌 2%，SanDisk 跌 14%、Micron 跌 10%；亚洲股市创 2020 年以来最差一周，台湾加权指数跌 6.7%、日经跌 5%、Kospi 跌 5.5%，SoftBank 单日跌 14.5%。</description>
+      <pubDate>Fri, 20 Nov 2026 13:53:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</guid>
+      <source url="https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off">Hacker News：AI 热帖</source>
+    </item>
+    <item>
+      <title>信号阻止双子座和Siri的人工智能读取你的屏幕</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</link>
+      <description>信号正在限制对Android和iOS设备进行截图的能力,以防止人工智能特工阅读用户信息和其他数据. 用于分析屏幕上信息以了解更多用户的操作系统中的代理人工智能能力正在"破坏Si".</description>
+      <pubDate>Fri, 20 Nov 2026 07:30:47 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app">The Verge AI</source>
+    </item>
     <item>
       <title>首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」</title>
       <link>https://www.ifanr.com/1690642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -32,6 +104,14 @@
       <source url="http://www.geekpark.net/news/374282">极客公园</source>
     </item>
     <item>
+      <title>MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹</title>
+      <link>https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</link>
+      <description>MiniMax 研究团队用内部研究模型 MIM 对现代密码方案做自动化密码分析，报告称在 NIST 候选算法、同行评审方案和公开挑战基准上取得多个此前无实用攻击方案的首个实用破解，并把部分理论攻击变为可执行攻击。</description>
+      <pubDate>Fri, 20 Nov 2026 06:41:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</guid>
+      <source url="https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model">MiniMax：Blog（网页）</source>
+    </item>
+    <item>
       <title>在 ChatGPT 中创建并共享一个 Dashboard</title>
       <link>https://www.youtube.com/watch?v=OSHSopaYjTw</link>
       <description>将您的分析转换成您团队可以使用的仪表板。 在虚构的艾克米销售实例的基础上, 这个走过将季度度量衡和客户后续操作带入一个视图。 查看如何检查图表背后的数据, 编辑其外观, 询问数字, 并完善破折号b 。</description>
@@ -46,22 +126,6 @@
       <pubDate>Fri, 20 Nov 2026 06:05:59 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=JEgTn37Sk50</guid>
       <source url="https://www.youtube.com/watch?v=JEgTn37Sk50">OpenAI</source>
-    </item>
-    <item>
-      <title>将您的团队数据连接到 ChatGPT</title>
-      <link>https://www.youtube.com/watch?v=oJIuz3AFfEQ</link>
-      <description>将您团队已经使用的数据工具连接到 ChatGPT 。 此操作是工作空间管理员: 启用 Data 插件, 选择团队成员如何安装该插件, 并探索雪花连接的设置 。 您也会看到如何添加自定义插件或 MCP 服务器以及为什么连接您的团队的 m 。</description>
-      <pubDate>Fri, 20 Nov 2026 06:02:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=oJIuz3AFfEQ</guid>
-      <source url="https://www.youtube.com/watch?v=oJIuz3AFfEQ">OpenAI</source>
-    </item>
-    <item>
-      <title>见 ChatGPT 中的数据代理</title>
-      <link>https://www.youtube.com/watch?v=KrlfehIapEA</link>
-      <description>以 ChatGPT 中的数据插件开始。 请快速浏览如何询问您的数据、 创建可视化、 构建仪表板、 并与团队共享报告 。 请查看插件市场中的数据在哪里找到、 如何与您的文件和连接工具一起工作, 以及技能是否有效 。</description>
-      <pubDate>Fri, 20 Nov 2026 05:35:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=KrlfehIapEA</guid>
-      <source url="https://www.youtube.com/watch?v=KrlfehIapEA">OpenAI</source>
     </item>
     <item>
       <title>人文智能 互通主义在能力不对称下是不稳定的</title>
@@ -102,70 +166,6 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.23410</guid>
       <source url="https://arxiv.org/abs/2611.23410">ArXiv AI</source>
-    </item>
-    <item>
-      <title>PsyWorld:配置条件化的世界人类行为预测模型</title>
-      <link>https://arxiv.org/abs/2611.24999</link>
-      <description>理解如何稳定的精神计量特征和时间变化状态共同为行为提供信息是计算行为科学中的一个重要问题。 现有的个性化剂通常直接将动作附加在静态剖面上,从而留下真实的状态。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.24999</guid>
-      <source url="https://arxiv.org/abs/2611.24999">ArXiv ML</source>
-    </item>
-    <item>
-      <title>注意线性化之处: 预测和校正模型- 模拟干扰</title>
-      <link>https://arxiv.org/abs/2611.25000</link>
-      <description>模型合并通过将任务向量添加到共享主干线中,将分别进行微调的模型合并在一起。 通常只有在构建和评价候选合并后才会评估干扰,使系数搜索费用高昂。我们显示,一个虚弱的</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.25000</guid>
-      <source url="https://arxiv.org/abs/2611.25000">ArXiv ML</source>
-    </item>
-    <item>
-      <title>遗传平地横向攻击的可转移性密度反馈控制</title>
-      <link>https://arxiv.org/abs/2611.25001</link>
-      <description>基于发电机的零星对抗攻击列车编码器-解码器网络可以产生可转移的零星扰动,用于黑箱稳健性评价。 然而,它们的扰动密度只是由固定的相撞系数间接设定的。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.25001</guid>
-      <source url="https://arxiv.org/abs/2611.25001">ArXiv ML</source>
-    </item>
-    <item>
-      <title>语言模型的分样样本模型</title>
-      <link>https://arxiv.org/abs/2611.25003</link>
-      <description>语言模型往往产生高质量的单个样本,但样本组差,重复的样本围绕相同的语义模式聚集。 我们把不同的一代正规化,从一个决定性点对一个大小-$K$的完整字符串子集进行取样。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.25003</guid>
-      <source url="https://arxiv.org/abs/2611.25003">ArXiv ML</source>
-    </item>
-    <item>
-      <title>降低地貌技术对横向攻击的影响</title>
-      <link>https://arxiv.org/abs/2611.25004</link>
-      <description>对抗性攻击通过利用机器的固有弱点对机器学习模式构成重大威胁。 研究人员建立了一个跨学科领域,称为对抗性机器学习,以探索这些弱点。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.25004</guid>
-      <source url="https://arxiv.org/abs/2611.25004">ArXiv ML</source>
-    </item>
-    <item>
-      <title>LLM 复杂度:大语言模型推论的计算复杂度视图</title>
-      <link>https://arxiv.org/abs/2611.24943</link>
-      <description>计算复杂性理论为描述计算问题的效率提供了原则框架,而"大语言模型"(LLMS)同样可以被视作执行结构化输入过程的计算系统,infere.</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.24943</guid>
-      <source url="https://arxiv.org/abs/2611.24943">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>ICARE:具有增量班级意识的跨域文本分类和分馏学习.</title>
-      <link>https://arxiv.org/abs/2611.24959</link>
-      <description>强大的、微调的大型语言模型(LLMS)的兴起需要强大的自然语言推论(NLI)系统。 这些NLI系统最理想地跨越各种任务,包括情绪分析,新闻分类等多种概念。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.24959</guid>
-      <source url="https://arxiv.org/abs/2611.24959">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>第3行:无培训、弹性、托克-安克雷德等级提取和回收设计-驱动长文件</title>
-      <link>https://arxiv.org/abs/2611.24960</link>
-      <description>将复杂的文件转换成结构化的知识,是在下游研究中部署大型语言模型(LLMS)迫切需要的关键基础设施。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.24960</guid>
-      <source url="https://arxiv.org/abs/2611.24960">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
