@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:39:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:23:20 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic能把安全放在第一位吗?</title>
+      <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
+      <description>今天,我和赫登·菲尔德(Hayden Field),The Verge的资深人工智能记者,谈到我们系列关于现实生活中人工智能的第三集也是最后一集的Anthropic IPO。 克劳德背后的人工智能实验室上周四在Nasdaq上公开了。 这些数字是巨大的,但对于这个凸轮来说并不那么重要。</description>
+      <pubDate>Sat, 21 Nov 2026 10:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
+      <source url="https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure">The Verge AI</source>
+    </item>
+    <item>
+      <title>Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿</title>
+      <link>https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/</link>
+      <description>Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。</description>
+      <pubDate>Sat, 21 Nov 2026 11:19:49 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/</guid>
+      <source url="https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/">The Decoder：AI News（RSS）</source>
+    </item>
     <item>
       <title>刚刚，DeepSeek V1作者创业项目曝光：开源Agent</title>
       <link>https://www.qbitai.com/2026/11/511570.html</link>
@@ -14,6 +30,22 @@
       <pubDate>Sat, 21 Nov 2026 06:32:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/11/511570.html</guid>
       <source url="https://www.qbitai.com/2026/11/511570.html">量子位</source>
+    </item>
+    <item>
+      <title>美股一夜崩盘，AI 泡沫真要破了？</title>
+      <link>https://www.ifanr.com/1690789?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI 泡沫要破了吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 21 Nov 2026 03:30:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1690789?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1690789?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>刚刚，曝黎曼猜想被证明，Claude 立大功</title>
+      <link>https://www.ifanr.com/1690750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 21 Nov 2026 01:29:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1690750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1690750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
       <title>早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验</title>
@@ -134,38 +166,6 @@
       <pubDate>Fri, 20 Nov 2026 09:17:05 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1690642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1690642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>给 Gemini 道歉，请自觉排队</title>
-      <link>https://www.ifanr.com/1690572?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>Gemini 4 真的越来越好用了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 20 Nov 2026 09:03:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1690572?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1690572?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」</title>
-      <link>http://www.geekpark.net/news/374282</link>
-      <description>作者｜宇航猿 编辑｜靖宇 AI 吞掉了软件，现在，它要吞掉工业了。 卸任亚马逊 CEO 五年后，杰夫&amp;middot;贝佐斯没忍住，又给自己找了个班上。 当地时间 2026 年 11 月 17 日，加州门洛帕克的 Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克&amp;middot;巴贾杰（Vik Bajaj）罕见同台。他现在的最新头衔，是 AI 初创公司 Prometheus 的联合创始人兼联席 CEO。这是自 2021 年交出亚马逊帅印后，这位商业巨头首次重回一线担任 CEO。 早在 2024 年底种子期就掏钱投资的贝佐斯，在台上毫不掩饰自己的兴奋，直言项目进展太快，自己根本「没法坐在场</description>
-      <pubDate>Fri, 20 Nov 2026 16:24:30 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374282</guid>
-      <source url="http://www.geekpark.net/news/374282">极客公园</source>
-    </item>
-    <item>
-      <title>Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini</title>
-      <link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
-      <description>Thinking Machines Lab 发布开源权重模型 Inkling 2 Mini，采用循环 Transformer 架构，将中间 12 层每 token 运行三次，总参数 26.4B、激活 3.4B，内存占用约 20GB，可在 32GB 内存以上的 Mac 本地运行。</description>
-      <pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://thinkingmachines.ai/news/inkling-2-mini/</guid>
-      <source url="https://thinkingmachines.ai/news/inkling-2-mini/">Thinking Machines Lab：News（网页）</source>
-    </item>
-    <item>
-      <title>MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹</title>
-      <link>https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</link>
-      <description>MiniMax 研究团队用内部研究模型 MIM 对现代密码方案做自动化密码分析，报告称在 NIST 候选算法、同行评审方案和公开挑战基准上取得多个此前无实用攻击方案的首个实用破解，并把部分理论攻击变为可执行攻击。</description>
-      <pubDate>Fri, 20 Nov 2026 06:41:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</guid>
-      <source url="https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model">MiniMax：Blog（网页）</source>
     </item>
   </channel>
 </rss>
