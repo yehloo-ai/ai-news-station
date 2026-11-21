@@ -5,8 +5,40 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:24:51 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验</title>
+      <link>https://www.ifanr.com/1690759?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sat, 21 Nov 2026 00:25:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1690759?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1690759?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机</title>
+      <link>http://www.geekpark.net/news/374299</link>
+      <description>传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资，估值达 50 亿美元，短短几个月内估值翻了一倍多。 林俊旸曾是阿里的明星研究员，在离职后于今年夏季创立语用科技。据知情人士称，语用科技在最近结束的一轮融资中筹集了数千万美元资金。今年 8 月，该公司在首次融资中筹集了数亿美元，当时估值为 20 亿美元。 知情人士称，语用科技的新投资者包括华业天成资本、鼎晖投资以及汽车制造商吉利汽车。 语用科技总部位于上海，致力于开发面向数字世界和物理世界的 AI 智能体。该公司首轮融</description>
+      <pubDate>Sat, 21 Nov 2026 08:17:10 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374299</guid>
+      <source url="http://www.geekpark.net/news/374299">极客公园</source>
+    </item>
+    <item>
+      <title>Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划</title>
+      <link>https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</link>
+      <description>Figma 在 Workflow lab 中演示一个完整工作流：工程师用 Specs 在画布上汇集 PRD、Hex 数据、FigJam 图、标注设计和组件说明，再让 Figma agent 生成供编码智能体使用的实现计划。文中还提到 Specs 与 code layers 已开放 beta、覆盖所有套餐，最后通过 Figma MCP 把计划链接交给 Codex 读取全部上下文并实现功能。</description>
+      <pubDate>Fri, 20 Nov 2026 22:17:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</guid>
+      <source url="https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/">Figma AI / Agent / Make</source>
+    </item>
+    <item>
+      <title>如何与Shoppify在ChatGPT进行交易</title>
+      <link>https://www.youtube.com/watch?v=mX7wHNnsghs</link>
+      <description>通过连接您的 Shopify 商店来声称您在 ChatGPT 的业务。 此演示演示如何在 Business Hub 或 Shopify App Store 中启动, 然后将您的商店直接连接到 ChatGPT 。 在此之后, 您可以管理您的商业信息, 以决定您在 ChatGPT 中如何出现 。 声明您在 Busine 的业务 。</description>
+      <pubDate>Fri, 20 Nov 2026 20:48:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=mX7wHNnsghs</guid>
+      <source url="https://www.youtube.com/watch?v=mX7wHNnsghs">OpenAI</source>
+    </item>
     <item>
       <title>特朗普威胁将人工智能数据中心移到美国境外,</title>
       <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
@@ -104,6 +136,14 @@
       <source url="http://www.geekpark.net/news/374282">极客公园</source>
     </item>
     <item>
+      <title>Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini</title>
+      <link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
+      <description>Thinking Machines Lab 发布开源权重模型 Inkling 2 Mini，采用循环 Transformer 架构，将中间 12 层每 token 运行三次，总参数 26.4B、激活 3.4B，内存占用约 20GB，可在 32GB 内存以上的 Mac 本地运行。</description>
+      <pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thinkingmachines.ai/news/inkling-2-mini/</guid>
+      <source url="https://thinkingmachines.ai/news/inkling-2-mini/">Thinking Machines Lab：News（网页）</source>
+    </item>
+    <item>
       <title>MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹</title>
       <link>https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</link>
       <description>MiniMax 研究团队用内部研究模型 MIM 对现代密码方案做自动化密码分析，报告称在 NIST 候选算法、同行评审方案和公开挑战基准上取得多个此前无实用攻击方案的首个实用破解，并把部分理论攻击变为可执行攻击。</description>
@@ -120,52 +160,12 @@
       <source url="https://www.youtube.com/watch?v=OSHSopaYjTw">OpenAI</source>
     </item>
     <item>
-      <title>在 ChatGPT 中询问您的数据</title>
-      <link>https://www.youtube.com/watch?v=JEgTn37Sk50</link>
-      <description>通过询问 ChatGPT 数据有什么变化以及哪些客户需要注意来筹备销售会议。使用虚构的Acme 公司提供的样本数据,这种走行程序比较了季度销售量,可视化了变化背后的片段,并探索了客户订单和账户笔记。</description>
-      <pubDate>Fri, 20 Nov 2026 06:05:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=JEgTn37Sk50</guid>
-      <source url="https://www.youtube.com/watch?v=JEgTn37Sk50">OpenAI</source>
-    </item>
-    <item>
       <title>人文智能 互通主义在能力不对称下是不稳定的</title>
       <link>https://arxiv.org/abs/2611.23322</link>
       <description>人类美好未来与先进人工智能并存的一个希望在于持久的相互主义:人类和人工智能将相互需要,因此,这种关系对双方都是有利的。 我们认为,随着人工智能能力的增强,这一希望失败了。 谈判保证了各方O。</description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.23322</guid>
       <source url="https://arxiv.org/abs/2611.23322">ArXiv AI</source>
-    </item>
-    <item>
-      <title>内向监督语言培训模式</title>
-      <link>https://arxiv.org/abs/2611.23365</link>
-      <description>语言模型越来越显示出在记录片中难以发现的行为,如奖励黑客、欺骗和节奏。 向助理后续询问其行为是不可靠的,因为模型通常不是特洛伊的。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.23365</guid>
-      <source url="https://arxiv.org/abs/2611.23365">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Tokens 去之处: 代理编码中的热、 Entropy 和出错</title>
-      <link>https://arxiv.org/abs/2611.23375</link>
-      <description>编码代理是按代号计费的,然而软件工程却只字不提代号实际买到什么。在这里,我们引入了一个软件热力学理论。该理论从古典和有花样的热力学中抽取了类似物,并扩展了它们。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.23375</guid>
-      <source url="https://arxiv.org/abs/2611.23375">ArXiv AI</source>
-    </item>
-    <item>
-      <title>硬件Dx:用于数据中心机器修理的基础图形模型系统</title>
-      <link>https://arxiv.org/abs/2611.23398</link>
-      <description>人工智能基础设施的迅速扩大使得数据中心可靠性成为了云商业经济的基石。 由于超规模人工智能集群的硬件故障可以拖住数百万美元的培训工作量,因此个人机械的停产时间也随之中断。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.23398</guid>
-      <source url="https://arxiv.org/abs/2611.23398">ArXiv AI</source>
-    </item>
-    <item>
-      <title>RF Bench:被动RF布局设计和理解模拟-全方位多模态基准</title>
-      <link>https://arxiv.org/abs/2611.23410</link>
-      <description>虽然多模式语言模型可以解释图表并产生结构化的输出,但其连接被动射频设计意图、布局几何和电磁行为的能力基本上仍未经过测试。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.23410</guid>
-      <source url="https://arxiv.org/abs/2611.23410">ArXiv AI</source>
     </item>
   </channel>
 </rss>
