@@ -1439,5 +1439,59 @@
     "summary": "Google 在 Gemini API 的 Interactions API 中以预览形式推出 Tool Retrieval，让智能体按需加载工具参数 schema，而不是每次请求都发送完整工具库，以减少输入 token 并在工具数量扩大时保持选择准确。",
     "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
     "sourceName": "Google Blog：AI（RSS）"
+  },
+  {
+    "observedDate": "2026-11-21",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Thinking Machines Lab 发布可跑在笔记本上的开源权重模型 Inkling 2 Mini",
+    "summary": "Thinking Machines Lab 发布开源权重模型 Inkling 2 Mini，采用循环 Transformer 架构，将中间 12 层每 token 运行三次，总参数 26.4B、激活 3.4B，内存占用约 20GB，可在 32GB 内存以上的 Mac 本地运行。",
+    "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "sourceName": "Thinking Machines Lab：News（网页）"
+  },
+  {
+    "observedDate": "2026-11-21",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "腾讯混元开放 Hy4 权重",
+    "summary": "腾讯混元发布 Hy4 开放权重，定位原生多模态旗舰 MoE 模型，总参数 770B、激活 49B，支持 1M 上下文。同步发布含安全评估报告的 Hy4 System Card，并提供 GitHub、Hugging Face 权重与 GGUF 下载链接，团队将于本周五 8–10 AM PT 在 r/LocalLLaMA 举行 AMA。",
+    "sourceUrl": "https://x.com/TencentHunyuan/status/2123625549147070538",
+    "sourceName": "X：腾讯混元 (@TencentHunyuan)"
+  },
+  {
+    "observedDate": "2026-11-21",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Google 发布 Gemini 4 Hydrogen，已上线 Gemini 应用和 Search",
+    "summary": "Google 宣布 Gemini 4 Hydrogen 正式上线，主打速度和日常任务，现已可在 Gemini 应用和 Search 中使用。该模型面向多样化的智能体工作流设计，强调快速高效执行；官方称其能更紧密地遵循指令、更准确地调用工具，用更少的来回沟通产出可靠结果。",
+    "sourceUrl": "https://x.com/Google/status/2123825847815561261",
+    "sourceName": "X：Google (@Google)"
+  },
+  {
+    "observedDate": "2026-11-21",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
+    "summary": "ChatGPT 官方宣布侧边栏中的 Space 成为 pages、slides、images、files 和 uploads 的新家。用 ChatGPT 可写页面、做研究、生成图片并创建交互式图表，把想法变成带图片和图形的幻灯片并邀请他人协作；页面和幻灯片还可从已连接的工具自动更新。",
+    "sourceUrl": "https://x.com/ChatGPT/status/2123850915061104735",
+    "sourceName": "X：ChatGPT (@ChatGPT)"
+  },
+  {
+    "observedDate": "2026-11-21",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "MiniMax 内部模型 MIM 实现多项密码分析实用攻击并开源验证轨迹",
+    "summary": "MiniMax 研究团队用内部研究模型 MIM 对现代密码方案做自动化密码分析，报告称在 NIST 候选算法、同行评审方案和公开挑战基准上取得多个此前无实用攻击方案的首个实用破解，并把部分理论攻击变为可执行攻击。",
+    "sourceUrl": "https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model",
+    "sourceName": "MiniMax：Blog（网页）"
+  },
+  {
+    "observedDate": "2026-11-21",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "DeepSeek Harness 发布100天，作者分享13个实用插件玩法",
+    "summary": "卡兹克在DeepSeek Harness发布100天之际分享了13个插件玩法。",
+    "sourceUrl": "https://x.com/Khazix0918/status/2123627885730951241",
+    "sourceName": "X：卡兹克 (@Khazix0918)"
   }
 ]
