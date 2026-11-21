@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 01:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:39:12 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>刚刚，DeepSeek V1作者创业项目曝光：开源Agent</title>
+      <link>https://www.qbitai.com/2026/11/511570.html</link>
+      <description>专为本地部署而生</description>
+      <pubDate>Sat, 21 Nov 2026 06:32:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511570.html</guid>
+      <source url="https://www.qbitai.com/2026/11/511570.html">量子位</source>
+    </item>
     <item>
       <title>早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验</title>
       <link>https://www.ifanr.com/1690759?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -80,6 +88,14 @@
       <source url="https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem">The Verge AI</source>
     </item>
     <item>
+      <title>黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明</title>
+      <link>https://www.qbitai.com/2026/11/511727.html</link>
+      <description></description>
+      <pubDate>Fri, 20 Nov 2026 16:07:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511727.html</guid>
+      <source url="https://www.qbitai.com/2026/11/511727.html">量子位</source>
+    </item>
+    <item>
       <title>3 保存钱的 ChatGPT 提示</title>
       <link>https://www.youtube.com/watch?v=WGvsk0LIveU</link>
       <description>ChatGPT 可以帮助您找到保存方法, 无论是购买办公桌椅, 还是在免费试验结束后想知道您仍在付多少钱。 学习三种方法与ChatGPT省钱。 在购买前使用产品截图来比较价格, 即时订阅, 并构建</description>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 20 Nov 2026 06:41:45 +0000</pubDate>
       <guid isPermaLink="true">https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</guid>
       <source url="https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model">MiniMax：Blog（网页）</source>
-    </item>
-    <item>
-      <title>在 ChatGPT 中创建并共享一个 Dashboard</title>
-      <link>https://www.youtube.com/watch?v=OSHSopaYjTw</link>
-      <description>将您的分析转换成您团队可以使用的仪表板。 在虚构的艾克米销售实例的基础上, 这个走过将季度度量衡和客户后续操作带入一个视图。 查看如何检查图表背后的数据, 编辑其外观, 询问数字, 并完善破折号b 。</description>
-      <pubDate>Fri, 20 Nov 2026 06:07:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=OSHSopaYjTw</guid>
-      <source url="https://www.youtube.com/watch?v=OSHSopaYjTw">OpenAI</source>
-    </item>
-    <item>
-      <title>人文智能 互通主义在能力不对称下是不稳定的</title>
-      <link>https://arxiv.org/abs/2611.23322</link>
-      <description>人类美好未来与先进人工智能并存的一个希望在于持久的相互主义:人类和人工智能将相互需要,因此,这种关系对双方都是有利的。 我们认为,随着人工智能能力的增强,这一希望失败了。 谈判保证了各方O。</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.23322</guid>
-      <source url="https://arxiv.org/abs/2611.23322">ArXiv AI</source>
     </item>
   </channel>
 </rss>
