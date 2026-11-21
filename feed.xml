@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 17:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 23:05:22 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限</title>
+      <link>https://x.com/rohanpaul_ai/status/2124213113583174076</link>
+      <description>Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。</description>
+      <pubDate>Sat, 21 Nov 2026 18:47:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2124213113583174076</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2124213113583174076">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
     <item>
       <title>Anthropic能把安全放在第一位吗?</title>
       <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
@@ -64,12 +72,28 @@
       <source url="http://www.geekpark.net/news/374299">极客公园</source>
     </item>
     <item>
+      <title>Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug</title>
+      <link>https://www.together.ai/blog/qwen4-max</link>
+      <description>Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。</description>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.together.ai/blog/qwen4-max</guid>
+      <source url="https://www.together.ai/blog/qwen4-max">Together AI 研究与产品博客（RSS）</source>
+    </item>
+    <item>
       <title>Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划</title>
       <link>https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</link>
       <description>Figma 在 Workflow lab 中演示一个完整工作流：工程师用 Specs 在画布上汇集 PRD、Hex 数据、FigJam 图、标注设计和组件说明，再让 Figma agent 生成供编码智能体使用的实现计划。文中还提到 Specs 与 code layers 已开放 beta、覆盖所有套餐，最后通过 Figma MCP 把计划链接交给 Codex 读取全部上下文并实现功能。</description>
       <pubDate>Fri, 20 Nov 2026 22:17:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</guid>
       <source url="https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/">Figma AI / Agent / Make</source>
+    </item>
+    <item>
+      <title>研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露</title>
+      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
+      <description>研究者在经过 OpenRouter 等 AI 路由的请求中埋入 200 万个金丝雀链接，测试敏感信息是否会沿 AI 服务链泄露，结果显示这些数据像筛子一样大量外泄。</description>
+      <pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</guid>
+      <source url="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">Ars Technica：AI（RSS）</source>
     </item>
     <item>
       <title>如何与Shoppify在ChatGPT进行交易</title>
@@ -142,30 +166,6 @@
       <pubDate>Fri, 20 Nov 2026 15:20:00 +0000</pubDate>
       <guid isPermaLink="true">https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120</guid>
       <source url="https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120">MIT News（RSS）</source>
-    </item>
-    <item>
-      <title>Anthropic 破纪录 IPO 未能止住 AI 抛售，全球股市下挫</title>
-      <link>https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</link>
-      <description>Anthropic 上市第二天股价跌逾 9% 至 $88.17，接近 $83 发行价，其破纪录 IPO 未能止住 AI 相关公司抛售。周五 Nasdaq 跌 2%，SanDisk 跌 14%、Micron 跌 10%；亚洲股市创 2020 年以来最差一周，台湾加权指数跌 6.7%、日经跌 5%、Kospi 跌 5.5%，SoftBank 单日跌 14.5%。</description>
-      <pubDate>Fri, 20 Nov 2026 13:53:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</guid>
-      <source url="https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off">Hacker News：AI 热帖</source>
-    </item>
-    <item>
-      <title>信号阻止双子座和Siri的人工智能读取你的屏幕</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</link>
-      <description>信号正在限制对Android和iOS设备进行截图的能力,以防止人工智能特工阅读用户信息和其他数据. 用于分析屏幕上信息以了解更多用户的操作系统中的代理人工智能能力正在"破坏Si".</description>
-      <pubDate>Fri, 20 Nov 2026 07:30:47 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app">The Verge AI</source>
-    </item>
-    <item>
-      <title>首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」</title>
-      <link>https://www.ifanr.com/1690642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>在手机里打开了一个关于 AI 的「平行宇宙」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 20 Nov 2026 09:17:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1690642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1690642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
