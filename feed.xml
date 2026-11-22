@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 11:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:27:33 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>装订以撒开发者将人工智能音乐从悔改附加中移除</title>
+      <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
+      <description>"Isaac: Repentance Plus"的捆绑在Steam发现游戏的特定部分使用了人工智能音乐后,花了最后几天时间在Steam上被作回顾炸弹. Reddit用户ShweetsStuff发现了Grand Theft Auto主题部分使用的歌曲. 他们发现了几个音频文件wi.</description>
+      <pubDate>Sun, 22 Nov 2026 12:25:20 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</guid>
+      <source url="https://www.theverge.com/games/1039770/binding-of-isaac-ai-music">The Verge AI</source>
+    </item>
+    <item>
+      <title>Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确</title>
+      <link>https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/</link>
+      <description>Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。</description>
+      <pubDate>Sun, 22 Nov 2026 11:08:31 +0000</pubDate>
+      <guid isPermaLink="true">https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/</guid>
+      <source url="https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/">The Decoder：AI News（RSS）</source>
+    </item>
     <item>
       <title>菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可</title>
       <link>https://www.ithome.com/1/030/677.htm</link>
@@ -150,22 +166,6 @@
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.together.ai/blog/qwen4-max</guid>
       <source url="https://www.together.ai/blog/qwen4-max">Together AI 研究与产品博客（RSS）</source>
-    </item>
-    <item>
-      <title>Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划</title>
-      <link>https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</link>
-      <description>Figma 在 Workflow lab 中演示一个完整工作流：工程师用 Specs 在画布上汇集 PRD、Hex 数据、FigJam 图、标注设计和组件说明，再让 Figma agent 生成供编码智能体使用的实现计划。文中还提到 Specs 与 code layers 已开放 beta、覆盖所有套餐，最后通过 Figma MCP 把计划链接交给 Codex 读取全部上下文并实现功能。</description>
-      <pubDate>Fri, 20 Nov 2026 22:17:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</guid>
-      <source url="https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/">Figma AI / Agent / Make</source>
-    </item>
-    <item>
-      <title>研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露</title>
-      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
-      <description>研究者在经过 OpenRouter 等 AI 路由的请求中埋入 200 万个金丝雀链接，测试敏感信息是否会沿 AI 服务链泄露，结果显示这些数据像筛子一样大量外泄。</description>
-      <pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</guid>
-      <source url="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">Ars Technica：AI（RSS）</source>
     </item>
   </channel>
 </rss>
