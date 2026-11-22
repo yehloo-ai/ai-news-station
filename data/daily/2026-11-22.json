@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T00:00:32.553Z",
+  "windowStart": "2026-11-21T00:00:00.000Z",
+  "windowEnd": "2026-11-22T00:00:00.000Z",
+  "links": {
+    "aihot": "https://aihot.news/daily/2026-11-22"
+  },
+  "attribution": {
+    "name": "AIHOT",
+    "url": "https://aihot.news/daily/2026-11-22"
+  },
+  "lead": {
+    "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
+    "leadParagraph": "Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。"
+  },
+  "sections": [
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "rlj39tzyujneo0u35iyrfb4uc",
+          "title": "Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug",
+          "summary": "Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。",
+          "source": {
+            "id": "rss-together-blog",
+            "name": "Together AI 研究与产品博客（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc",
+            "original": "https://www.together.ai/blog/qwen4-max"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc"
+          },
+          "sourceUrl": "https://www.together.ai/blog/qwen4-max",
+          "sourceName": "Together AI 研究与产品博客（RSS）",
+          "permalink": "https://aihot.news/items/rlj39tzyujneo0u35iyrfb4uc"
+        }
+      ]
+    },
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "id": "xqe6lbb5zsjp9xbsc1o912cs0",
+          "title": "Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件",
+          "summary": "Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。",
+          "source": {
+            "id": "rss-together-blog",
+            "name": "Together AI 研究与产品博客（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0",
+            "original": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0"
+          },
+          "sourceUrl": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "sourceName": "Together AI 研究与产品博客（RSS）",
+          "permalink": "https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0"
+        }
+      ]
+    },
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "id": "tje8i8y21ttk7jjmqet5bpxuq",
+          "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
+          "summary": "Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。",
+          "source": {
+            "id": "rss-the-decoder",
+            "name": "The Decoder：AI News（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
+            "original": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq"
+          },
+          "sourceUrl": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+          "sourceName": "The Decoder：AI News（RSS）",
+          "permalink": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq"
+        },
+        {
+          "id": "agm7klro03kcu9weuix1bt4su",
+          "title": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+          "summary": "研究者在经过 OpenRouter 等 AI 路由的请求中埋入 200 万个金丝雀链接，测试敏感信息是否会沿 AI 服务链泄露，结果显示这些数据像筛子一样大量外泄。",
+          "source": {
+            "id": "rss-arstechnica-ai",
+            "name": "Ars Technica：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
+            "original": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su"
+          },
+          "sourceUrl": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "sourceName": "Ars Technica：AI（RSS）",
+          "permalink": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su"
+        },
+        {
+          "id": "d32df9vzpliz9m348fug74inq",
+          "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+          "summary": "Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。",
+          "source": {
+            "id": "x-account-rohanpaulai",
+            "name": "X：Rohan Paul (@rohanpaul_ai)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+            "original": "https://x.com/rohanpaul_ai/status/2124213113583174076"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq"
+          },
+          "sourceUrl": "https://x.com/rohanpaul_ai/status/2124213113583174076",
+          "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+          "permalink": "https://aihot.news/items/d32df9vzpliz9m348fug74inq"
+        },
+        {
+          "id": "p52mxe56big96tb6cx9qr1rij",
+          "title": "OpenAI 发布 MedChemBench：评估 AI 模型解读分子结构与实验数据的能力",
+          "summary": "OpenAI 推出 MedChemBench，用 99 道源自已发表研究的题目评估 AI 模型解读分子结构、解释实验证据并预测化合物性质的能力。在 xhigh 推理设置下，GPT‑6.2 Astra 获得 84.5% 的可用分数，GPT‑6 Astra 为 83.3%，GPT‑6.1 Sol 为 82.0%，GPT‑5.6 Sol 为 58.2%。",
+          "source": {
+            "id": "rss-openai-news",
+            "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/p52mxe56big96tb6cx9qr1rij",
+            "original": "https://openai.com/index/introducing-medchembench"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/p52mxe56big96tb6cx9qr1rij"
+          },
+          "sourceUrl": "https://openai.com/index/introducing-medchembench",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.news/items/p52mxe56big96tb6cx9qr1rij"
+        }
+      ]
+    }
+  ],
+  "flashes": [],
+  "highlights": [
+    {
+      "id": "xqe6lbb5zsjp9xbsc1o912cs0",
+      "title": "Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件",
+      "summary": "Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。",
+      "source": {
+        "id": "rss-together-blog",
+        "name": "Together AI 研究与产品博客（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0",
+        "original": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/xqe6lbb5zsjp9xbsc1o912cs0"
+      }
+    },
+    {
+      "id": "agm7klro03kcu9weuix1bt4su",
+      "title": "研究者向 AI 供应链埋入 200 万个金丝雀，揭露敏感数据泄露",
+      "summary": "研究者在经过 OpenRouter 等 AI 路由的请求中埋入 200 万个金丝雀链接，测试敏感信息是否会沿 AI 服务链泄露，结果显示这些数据像筛子一样大量外泄。",
+      "source": {
+        "id": "rss-arstechnica-ai",
+        "name": "Ars Technica：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
+        "original": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su"
+      }
+    },
+    {
+      "id": "d32df9vzpliz9m348fug74inq",
+      "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+      "summary": "Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。",
+      "source": {
+        "id": "x-account-rohanpaulai",
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+        "original": "https://x.com/rohanpaul_ai/status/2124213113583174076"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq"
+      }
+    }
+  ]
+}

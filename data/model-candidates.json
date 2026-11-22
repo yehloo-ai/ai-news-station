@@ -1493,5 +1493,23 @@
     "summary": "卡兹克在DeepSeek Harness发布100天之际分享了13个插件玩法。",
     "sourceUrl": "https://x.com/Khazix0918/status/2123627885730951241",
     "sourceName": "X：卡兹克 (@Khazix0918)"
+  },
+  {
+    "observedDate": "2026-11-22",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
+    "summary": "Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。",
+    "sourceUrl": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+    "sourceName": "The Decoder：AI News（RSS）"
+  },
+  {
+    "observedDate": "2026-11-22",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "OpenAI 发布 MedChemBench：评估 AI 模型解读分子结构与实验数据的能力",
+    "summary": "OpenAI 推出 MedChemBench，用 99 道源自已发表研究的题目评估 AI 模型解读分子结构、解释实验证据并预测化合物性质的能力。在 xhigh 推理设置下，GPT‑6.2 Astra 获得 84.5% 的可用分数，GPT‑6 Astra 为 83.3%，GPT‑6.1 Sol 为 82.0%，GPT‑5.6 Sol 为 58.2%。",
+    "sourceUrl": "https://openai.com/index/introducing-medchembench",
+    "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
   }
 ]
