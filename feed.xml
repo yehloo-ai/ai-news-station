@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 23:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:01:02 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就</title>
+      <link>https://www.ifanr.com/1690820?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>AI 恐怖如斯#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sun, 22 Nov 2026 01:35:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1690820?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1690820?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限</title>
       <link>https://x.com/rohanpaul_ai/status/2124213113583174076</link>
@@ -70,6 +78,14 @@
       <pubDate>Sat, 21 Nov 2026 08:17:10 +0800</pubDate>
       <guid isPermaLink="true">http://www.geekpark.net/news/374299</guid>
       <source url="http://www.geekpark.net/news/374299">极客公园</source>
+    </item>
+    <item>
+      <title>Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件</title>
+      <link>https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026</link>
+      <description>Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。</description>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026</guid>
+      <source url="https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026">Together AI 研究与产品博客（RSS）</source>
     </item>
     <item>
       <title>Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug</title>
@@ -150,22 +166,6 @@
       <pubDate>Fri, 20 Nov 2026 16:07:39 +0000</pubDate>
       <guid isPermaLink="true">https://www.qbitai.com/2026/11/511727.html</guid>
       <source url="https://www.qbitai.com/2026/11/511727.html">量子位</source>
-    </item>
-    <item>
-      <title>3 保存钱的 ChatGPT 提示</title>
-      <link>https://www.youtube.com/watch?v=WGvsk0LIveU</link>
-      <description>ChatGPT 可以帮助您找到保存方法, 无论是购买办公桌椅, 还是在免费试验结束后想知道您仍在付多少钱。 学习三种方法与ChatGPT省钱。 在购买前使用产品截图来比较价格, 即时订阅, 并构建</description>
-      <pubDate>Fri, 20 Nov 2026 16:00:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=WGvsk0LIveU</guid>
-      <source url="https://www.youtube.com/watch?v=WGvsk0LIveU">OpenAI</source>
-    </item>
-    <item>
-      <title>MIT 数学面板讨论 AI 冲击下的数学研究未来</title>
-      <link>https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120</link>
-      <description>MIT 举办“AI 与社会：数学的未来”座谈，来自 MIT、哈佛、西北大学和纽约大学的数学家讨论 AI 对数学研究的影响。</description>
-      <pubDate>Fri, 20 Nov 2026 15:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120</guid>
-      <source url="https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120">MIT News（RSS）</source>
     </item>
   </channel>
 </rss>
