@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:13:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 08:56:49 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法</title>
-      <link>https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA</link>
-      <description>自媒体作者卡兹克分享自己让 Claude、GPT 和 Gemini 协同工作的方法：把 Claude Opus 5.5 当总指挥负责沟通、拆解和验收，Gemini 4 Neon 当军师出方案和改界面文案，GPT 负责后端、算法、修 BUG 和代码审查。</description>
-      <pubDate>Sun, 22 Nov 2026 23:56:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA</guid>
-      <source url="https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA">公众号：数字生命卡兹克</source>
+      <title>Claude人工智能解决了黑洞的秘密</title>
+      <link>https://www.youtube.com/watch?v=1jPdehG3Hms</link>
+      <description>本文提供:https://www.harmic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.00175v1 感谢慷慨的帕特伦支持者,他们编写了两份一分钟的文件。</description>
+      <pubDate>Mon, 23 Nov 2026 07:37:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=1jPdehG3Hms</guid>
+      <source url="https://www.youtube.com/watch?v=1jPdehG3Hms">Two Minute Papers</source>
     </item>
     <item>
-      <title>iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始</title>
-      <link>https://www.ifanr.com/1690832?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>更多的新品，也不能消除苹果的 AI 焦虑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sun, 22 Nov 2026 22:19:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1690832?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1690832?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>增加一个代理:人工智能团队的规模和形成 人文智能中的生产力和多样性</title>
+      <link>https://arxiv.org/abs/2611.26663</link>
+      <description>基因人工智能提高了个人的生产率,但是否添加了多种人工智能伙伴的帮助或伤害仍然开放。 我们跨越了人工智能伙伴关系(一对二 ) , 与行为形成(与人类行为平均比照定制)</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26663</guid>
+      <source url="https://arxiv.org/abs/2611.26663">ArXiv AI</source>
     </item>
     <item>
-      <title>装订以撒开发者将人工智能音乐从悔改附加中移除</title>
-      <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
-      <description>"Isaac: Repentance Plus"的捆绑在Steam发现游戏的特定部分使用了人工智能音乐后,花了最后几天时间在Steam上被作回顾炸弹. Reddit用户ShweetsStuff发现了Grand Theft Auto主题部分使用的歌曲. 他们发现了几个音频文件wi.</description>
-      <pubDate>Sun, 22 Nov 2026 12:25:20 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</guid>
-      <source url="https://www.theverge.com/games/1039770/binding-of-isaac-ai-music">The Verge AI</source>
+      <title>建筑的一致性:综合气候技术倡议知识图和一致性鉴定的正式限度</title>
+      <link>https://arxiv.org/abs/2611.26717</link>
+      <description>合成关系训练数据,例如具有大语言模型的知识图表,通常一次发出一个结构化对象,使每个对象都有效,但是它们之间的关系没有根据。我们研究一个替代的 par</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26717</guid>
+      <source url="https://arxiv.org/abs/2611.26717">ArXiv AI</source>
     </item>
     <item>
-      <title>MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国</title>
-      <link>https://x.com/OpenBMB/status/2124464239670964531</link>
-      <description>面壁智能转发并认同 @xiaoanlab 对 MiniCPM 端侧落地的观察：截至 2026 年 11 月 MiniCPM 下载量超过 7000 万，其 8B 老挝国家模型接入老挝政府 G-Chat v2 通讯软件，老挝翻译在国际基准上超过 GPT-4o。马来西亚用 VoxCPM2 做语音交互，肯尼亚一家银行在其上运行端侧风控 Agent，开发者基于它推出离线应用；小模型之争正从参数量转向谁真正嵌入日常系统。</description>
-      <pubDate>Sun, 22 Nov 2026 11:25:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenBMB/status/2124464239670964531</guid>
-      <source url="https://x.com/OpenBMB/status/2124464239670964531">X：面壁智能 OpenBMB (@OpenBMB)</source>
+      <title>TOUMAII:一个4.5M-对等工具调用首选数据集及其源可知生成器</title>
+      <link>https://arxiv.org/abs/2611.26722</link>
+      <description>要自主地执行多步骤任务,企业代理必须可靠地与工具交互,调用API,或查询数据库,使工具调用成为人工智能模型的基本能力. 监督微调(SFT)的选用,用于生成正确的ca.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26722</guid>
+      <source url="https://arxiv.org/abs/2611.26722">ArXiv AI</source>
     </item>
     <item>
-      <title>用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析</title>
-      <link>https://x.com/OpenBMB/status/2124461770043785636</link>
-      <description>用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码，肌酐因名称歧义留空未猜。问超标指标时 2B 模型走 11 步找到全部 5 项箭头指标，但把一项在范围内的血糖误判为超标。接 Claude Code 时改用演示账号避免数据上传。Mirobody 由 Theta Health 以 Apache</description>
-      <pubDate>Sun, 22 Nov 2026 11:15:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OpenBMB/status/2124461770043785636</guid>
-      <source url="https://x.com/OpenBMB/status/2124461770043785636">X：面壁智能 OpenBMB (@OpenBMB)</source>
+      <title>ChatAtom:分子动力模拟和可视化的多代理LLM系统</title>
+      <link>https://arxiv.org/abs/2611.26782</link>
+      <description>分子动力学(MD)模拟可以解决原子尺度运动,并预测材料的结构、机械和动态性质,使其对材料的设计和发现产生cen-tral。 然而,MD研究需要专家驱动的工作流程:des</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26782</guid>
+      <source url="https://arxiv.org/abs/2611.26782">ArXiv AI</source>
     </item>
     <item>
-      <title>Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确</title>
-      <link>https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/</link>
-      <description>Lean 与 Mathlib 社区发表声明，确认斯坦福数学家 Levent Alpöge 的黎曼猜想证明正确。Alpöge 于 2026 年 11 月 20 日以 1700 万行 Lean 代码发布该证明，数十人独立运行得到相同结果，且验证程序被设计为可证明不会接受有缺陷的证明。</description>
-      <pubDate>Sun, 22 Nov 2026 11:08:31 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/</guid>
-      <source url="https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/">The Decoder：AI News（RSS）</source>
+      <title>Beyond Final Answers: 由H&amp;E和MIF引起的可解释肿瘤免疫性微环境</title>
+      <link>https://arxiv.org/abs/2611.26794</link>
+      <description>肿瘤免疫微观环境(TIME)的读取,如CD8+T细胞密度,院内渗透和Ki67指数,将H&amp;E的组织架构与多x免疫流体(MIF)的细胞苯基(phenotypes)结合. Multimode big.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26794</guid>
+      <source url="https://arxiv.org/abs/2611.26794">ArXiv AI</source>
     </item>
     <item>
-      <title>菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可</title>
-      <link>https://www.ithome.com/1/030/677.htm</link>
-      <description>2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯·梅纳德（James Maynard）在采访中表示，他认为 Anthropic 数学家莱文特·阿尔珀格（Levent Alpöge）与 Claude 合作完成的黎曼猜想证明是正确的，依据是该证明已通过 Lean 库形式化验证并经独立核实，且阿尔珀格过往有可靠记录。</description>
-      <pubDate>Sun, 22 Nov 2026 09:35:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ithome.com/1/030/677.htm</guid>
-      <source url="https://www.ithome.com/1/030/677.htm">IT之家·人工智能</source>
+      <title>关于线性神经网络的损失地貌:超越临界点</title>
+      <link>https://arxiv.org/abs/2611.26671</link>
+      <description>虽然自1980年代后期巴尔迪·霍尼克(Baldi QQ Hornik)的开创性工作以来,线性神经网络中损失地貌的临界点得到了广泛的研究,但是在中间或全球尺度上对这一地貌的描述仍然缺乏. Su.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26671</guid>
+      <source url="https://arxiv.org/abs/2611.26671">ArXiv ML</source>
     </item>
     <item>
-      <title>A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿</title>
-      <link>https://www.qbitai.com/2026/11/511870.html</link>
-      <description></description>
-      <pubDate>Sun, 22 Nov 2026 06:03:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511870.html</guid>
-      <source url="https://www.qbitai.com/2026/11/511870.html">量子位</source>
+      <title>辅助特征:通过纯洁路径的因果关系抽象化</title>
+      <link>https://arxiv.org/abs/2611.26711</link>
+      <description>Causal 抽象定义了神经网络和算法之间的\emph{等同性}的概念,从而成为了机械解释的强大框架。 然而,在本文中,我们显示存在一个 \emph{纯真 featu 类。</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26711</guid>
+      <source url="https://arxiv.org/abs/2611.26711">ArXiv ML</source>
     </item>
     <item>
-      <title>重控制、轻渲染，达瓦科技的 AI 视频工业路线</title>
-      <link>http://www.geekpark.net/news/374303</link>
-      <description>&amp;nbsp; 头图来源：极客公园 今年以来，视频生成模型的进步肉眼可见，AI 短剧、换脸、场景合成在各个平台越来越多，但一个现实问题始终存在：生成一条满意的视频，往往要反复「抽卡」，算力和时间成本都不低；而一旦进入专业影视管线，今天的模型能承担的工业级工作仍然有限。 关于这个问题，行业有两种思路。一种堆参数、扩算力，相信通用大模型终会跨过工业门槛；另一种扎进真实片场，从具体需求自下而上生长。达瓦科技走的是后一条路径。 达瓦科技总部位于重庆永川，团队从 2014 年开始运营科技影视片场，2023 年成立达瓦科技，转向 AI 模型，今年已连续完成 Pre-A 轮、A 轮融资，累计融资约 5 亿元人</description>
-      <pubDate>Sun, 22 Nov 2026 10:03:57 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374303</guid>
-      <source url="http://www.geekpark.net/news/374303">极客公园</source>
+      <title>联邦学习跨大西洋强力聚合组织</title>
+      <link>https://arxiv.org/abs/2611.26731</link>
+      <description>联邦学习(FL)让受资源制约的IOT和边缘设备在不交换原始数据的情况下训练一个共享模型,但损坏或错误的设备会毒害全球模型。 在一些制度下,现有的强力聚合器每个都失败:天真的averagin</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26731</guid>
+      <source url="https://arxiv.org/abs/2611.26731">ArXiv ML</source>
     </item>
     <item>
-      <title>资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段</title>
-      <link>http://www.geekpark.net/news/374302</link>
-      <description>&amp;nbsp; 头图来源：腾讯 &amp;nbsp; 腾讯的 AI 故事，正在进入一个有些沉重的阶段。 11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 665 亿元，同比下降 6%。 图片来源：腾讯财报 本季度，腾讯资本开支达到 814 亿元，同比增长 527%，单季支出已经超过 2025 年全年；研发投入 323.6 亿元，同比增长 42%。大规模算力采购和预付款之下，自由现金流为负 691 亿元；若剔除算力采购预付款，自由现金流仍有 169 亿元。 单看收入</description>
-      <pubDate>Sun, 22 Nov 2026 09:58:48 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374302</guid>
-      <source url="http://www.geekpark.net/news/374302">极客公园</source>
+      <title>深链式残余键用于多模态检索和生成</title>
+      <link>https://arxiv.org/abs/2611.26752</link>
+      <description>迭代架构,如循环语言模型,提高了变压器的参数效率和推理能力,然而它们相继的骨干迭代却引入了大量的计算延迟。 相反,可平行学习的谱系。</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26752</guid>
+      <source url="https://arxiv.org/abs/2611.26752">ArXiv ML</source>
     </item>
     <item>
-      <title>关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切</title>
-      <link>http://www.geekpark.net/news/374301</link>
-      <description>&amp;nbsp; 头图来源：ChatGPT 生成 &amp;nbsp; 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。 图片来源：x 两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎覆盖了当前开源大模型领域所有核心争议与关切。 过去不到一个月，混元刚刚完成一轮高密度产品发布&amp;mdash;&amp;mdash;11 月 4 日推出的 Hy4 首次跻身全球最强开源模型之列，拿下 Agent Arena</description>
-      <pubDate>Sun, 22 Nov 2026 09:56:28 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374301</guid>
-      <source url="http://www.geekpark.net/news/374301">极客公园</source>
+      <title>由谁来核查? 审查者通过部分信息和结果审计进行选择</title>
+      <link>https://arxiv.org/abs/2611.26770</link>
+      <description>选择人工智能审查员需要阅读草稿后进行哪些工作的证据。在一个固定批次上,一个小组可以保存原始答案,或者在整个过程中采用一个审查员的答案。我们询问,证明所选的Procedu要花费多少费用。</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26770</guid>
+      <source url="https://arxiv.org/abs/2611.26770">ArXiv ML</source>
     </item>
     <item>
-      <title>Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就</title>
-      <link>https://www.ifanr.com/1690820?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI 恐怖如斯#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sun, 22 Nov 2026 01:35:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1690820?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1690820?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>SkillPrivus:在代理技能中揭开Use伤害的PriVacy</title>
+      <link>https://arxiv.org/abs/2611.26747</link>
+      <description>代理技能通过可安装的可访问用户文件、账户和数据的指令和代码来扩展人工智能助理。 即使在执行他们公布的任务时,技能也可能推断出敏感属性,保留不必要的信息,或者diclos</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26747</guid>
+      <source url="https://arxiv.org/abs/2611.26747">ArXiv NLP</source>
     </item>
     <item>
-      <title>OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据</title>
-      <link>https://openai.com/index/perplexity-and-intelligence</link>
-      <description>OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/perplexity-and-intelligence</guid>
-      <source url="https://openai.com/index/perplexity-and-intelligence">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+      <title>强化学习 失学 腐败 SFT 原因</title>
+      <link>https://arxiv.org/abs/2611.26756</link>
+      <description>我们显示,在推理任务中的强化学习(RL)即使监督的微调(SFT)数据被严重腐蚀,也能取得成功。 在数学推理数据集(GSM8K)中,我们系统腐败了361confi的训练轨迹。</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26756</guid>
+      <source url="https://arxiv.org/abs/2611.26756">ArXiv NLP</source>
     </item>
     <item>
-      <title>Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限</title>
-      <link>https://x.com/rohanpaul_ai/status/2124213113583174076</link>
-      <description>Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。</description>
-      <pubDate>Sat, 21 Nov 2026 18:47:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2124213113583174076</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2124213113583174076">X：Rohan Paul (@rohanpaul_ai)</source>
+      <title>Know your Context Bank: 在上下文中修复不一致度和衡量通用度 - 了解文本到SQL</title>
+      <link>https://arxiv.org/abs/2611.26775</link>
+      <description>文本到SQL系统越来越依赖上下文库:收集实例查询、计量定义和域知识,说明一个组织如何写出查询的模型。 在企业中,一个银行在数年里不断增长。</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26775</guid>
+      <source url="https://arxiv.org/abs/2611.26775">ArXiv NLP</source>
     </item>
     <item>
-      <title>Anthropic能把安全放在第一位吗?</title>
-      <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
-      <description>今天,我和赫登·菲尔德(Hayden Field),The Verge的资深人工智能记者,谈到我们系列关于现实生活中人工智能的第三集也是最后一集的Anthropic IPO。 克劳德背后的人工智能实验室上周四在Nasdaq上公开了。 这些数字是巨大的,但对于这个凸轮来说并不那么重要。</description>
-      <pubDate>Sat, 21 Nov 2026 10:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
-      <source url="https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure">The Verge AI</source>
+      <title>什么帮助语言模型特工审查暴力视频? 与人类证据参考文献的可控比较</title>
+      <link>https://arxiv.org/abs/2611.26776</link>
+      <description>为人类操作者标注暴力视频的系统,现在可以不经过训练地从语言模型中构建,方法是结合感知模型,让语言模型来决定。我们询问感知模型的观察应如何到达十诫中。</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26776</guid>
+      <source url="https://arxiv.org/abs/2611.26776">ArXiv NLP</source>
     </item>
     <item>
-      <title>全网疯传！Grok一姐教你如何月提交3000个PR</title>
-      <link>https://www.qbitai.com/2026/11/511830.html</link>
-      <description></description>
-      <pubDate>Sat, 21 Nov 2026 11:34:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511830.html</guid>
-      <source url="https://www.qbitai.com/2026/11/511830.html">量子位</source>
+      <title>MedicalRSI:通过临床模型-Harness协同演进进行医学递归自我改进剂</title>
+      <link>https://arxiv.org/abs/2611.26806</link>
+      <description>基于大语言模型(LLMs)的医护人员已经迅速进步,但大多数人员一旦部署就固定下来,不再继续利用他们的经验来改进以后的尝试。 因此,同样的错误可能会在病人之间发生。</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.26806</guid>
+      <source url="https://arxiv.org/abs/2611.26806">ArXiv NLP</source>
     </item>
     <item>
-      <title>反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢</title>
-      <link>https://www.qbitai.com/2026/11/511791.html</link>
-      <description></description>
-      <pubDate>Sat, 21 Nov 2026 11:24:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511791.html</guid>
-      <source url="https://www.qbitai.com/2026/11/511791.html">量子位</source>
+      <title>Anthropic IPO 前三家机构如何重注押注</title>
+      <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
+      <description>TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。</description>
+      <pubDate>Mon, 23 Nov 2026 01:25:53 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</guid>
+      <source url="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/">TechCrunch：AI（RSS）</source>
     </item>
     <item>
-      <title>Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿</title>
-      <link>https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/</link>
-      <description>Anthropic 数学家 Levent Alpöge 周五宣布与 Claude 合作得到黎曼猜想及广义黎曼猜想的证明，证明以 Lean 语言分 14 个数据包发布，打印将超 25 万页。</description>
-      <pubDate>Sat, 21 Nov 2026 11:19:49 +0000</pubDate>
-      <guid isPermaLink="true">https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/</guid>
-      <source url="https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/">The Decoder：AI News（RSS）</source>
+      <title>OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道</title>
+      <link>http://www.geekpark.net/news/374304</link>
+      <description>OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 &amp;middot; 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。 他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进展的参考指标（困惑度用于衡量 AI 模型预测下一个文本 Token 的能力，数值</description>
+      <pubDate>Mon, 23 Nov 2026 09:22:36 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374304</guid>
+      <source url="http://www.geekpark.net/news/374304">极客公园</source>
     </item>
     <item>
-      <title>刚刚，DeepSeek V1作者创业项目曝光：开源Agent</title>
-      <link>https://www.qbitai.com/2026/11/511570.html</link>
-      <description>专为本地部署而生</description>
-      <pubDate>Sat, 21 Nov 2026 06:32:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511570.html</guid>
-      <source url="https://www.qbitai.com/2026/11/511570.html">量子位</source>
+      <title>华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机</title>
+      <link>https://www.ifanr.com/1690613?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>面向 AI，面向世界，面向未来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 23 Nov 2026 00:57:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1690613?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1690613?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
-      <title>美股一夜崩盘，AI 泡沫真要破了？</title>
-      <link>https://www.ifanr.com/1690789?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI 泡沫要破了吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 21 Nov 2026 03:30:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1690789?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1690789?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元</title>
+      <link>https://www.ifanr.com/1690857?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 曝小米汽车欧洲团队再添一名前小鹏高管 · 神舟二十四号完成发射前最后一次全区合练 · AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 23 Nov 2026 00:25:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1690857?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1690857?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
