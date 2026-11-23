@@ -5,167 +5,167 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 08:56:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:14:44 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Claude人工智能解决了黑洞的秘密</title>
-      <link>https://www.youtube.com/watch?v=1jPdehG3Hms</link>
-      <description>本文提供:https://www.harmic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.00175v1 感谢慷慨的帕特伦支持者,他们编写了两份一分钟的文件。</description>
-      <pubDate>Mon, 23 Nov 2026 07:37:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=1jPdehG3Hms</guid>
-      <source url="https://www.youtube.com/watch?v=1jPdehG3Hms">Two Minute Papers</source>
+      <title>人工智能数据中心又给混乱的联合国气候会谈投出一把扳手</title>
+      <link>https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit</link>
+      <description>清洁能源革命取决于整个全球经济的电气化,正如电力需求数据中心正在猛增一样。 这是一个来自世界各地的代表必须在联合国气候大会(称为COP31)期间应对的挑战,它陷入了混乱和令人不满意的境地。</description>
+      <pubDate>Mon, 23 Nov 2026 16:09:37 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit</guid>
+      <source url="https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit">The Verge AI</source>
     </item>
     <item>
-      <title>增加一个代理:人工智能团队的规模和形成 人文智能中的生产力和多样性</title>
-      <link>https://arxiv.org/abs/2611.26663</link>
-      <description>基因人工智能提高了个人的生产率,但是否添加了多种人工智能伙伴的帮助或伤害仍然开放。 我们跨越了人工智能伙伴关系(一对二 ) , 与行为形成(与人类行为平均比照定制)</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26663</guid>
-      <source url="https://arxiv.org/abs/2611.26663">ArXiv AI</source>
+      <title>Figma agent 正式开放至 FigJam 和 Figma Slides</title>
+      <link>https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/</link>
+      <description>Figma agent 现已在 FigJam 和 Figma Slides 上对所有付费计划全面开放，支持连接器和附件，可将设计文件、会议记录或研究笔记等材料整理到 FigJam 白板或生成演示文稿初稿。</description>
+      <pubDate>Mon, 23 Nov 2026 20:54:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/</guid>
+      <source url="https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/">Figma AI / Agent / Make</source>
     </item>
     <item>
-      <title>建筑的一致性:综合气候技术倡议知识图和一致性鉴定的正式限度</title>
-      <link>https://arxiv.org/abs/2611.26717</link>
-      <description>合成关系训练数据,例如具有大语言模型的知识图表,通常一次发出一个结构化对象,使每个对象都有效,但是它们之间的关系没有根据。我们研究一个替代的 par</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26717</guid>
-      <source url="https://arxiv.org/abs/2611.26717">ArXiv AI</source>
+      <title>使用 GPT-6 网络调查 Linux 脆弱性</title>
+      <link>https://www.youtube.com/shorts/w-ltt0Np2cY</link>
+      <description>人工智能可以帮助安全团队更快地从发现弱点到获得人们所依赖的软件的修复。在一次运行中,GPT-6 Cyber帮助验证了948 Linux 内核的弱点并生成可供人类审查的候选补丁。网络研究人员Kyle Zeng坐下来与 Clint Gibler, app</description>
+      <pubDate>Mon, 23 Nov 2026 20:03:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/w-ltt0Np2cY</guid>
+      <source url="https://www.youtube.com/shorts/w-ltt0Np2cY">OpenAI</source>
     </item>
     <item>
-      <title>TOUMAII:一个4.5M-对等工具调用首选数据集及其源可知生成器</title>
-      <link>https://arxiv.org/abs/2611.26722</link>
-      <description>要自主地执行多步骤任务,企业代理必须可靠地与工具交互,调用API,或查询数据库,使工具调用成为人工智能模型的基本能力. 监督微调(SFT)的选用,用于生成正确的ca.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26722</guid>
-      <source url="https://arxiv.org/abs/2611.26722">ArXiv AI</source>
+      <title>使用 GPT-6 网络调查 Linux 脆弱性</title>
+      <link>https://www.youtube.com/watch?v=MpsO8Ds8uyo</link>
+      <description>人工智能可以帮助安全团队更快地从发现弱点到获得人们所依赖的软件的修复。在一次运行中,GPT-6 Cyber帮助验证了948 Linux 内核的弱点并生成可供人类审查的候选补丁。网络研究人员Kyle Zeng坐下来与 Clint Gibler, app</description>
+      <pubDate>Mon, 23 Nov 2026 20:02:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=MpsO8Ds8uyo</guid>
+      <source url="https://www.youtube.com/watch?v=MpsO8Ds8uyo">OpenAI</source>
     </item>
     <item>
-      <title>ChatAtom:分子动力模拟和可视化的多代理LLM系统</title>
-      <link>https://arxiv.org/abs/2611.26782</link>
-      <description>分子动力学(MD)模拟可以解决原子尺度运动,并预测材料的结构、机械和动态性质,使其对材料的设计和发现产生cen-tral。 然而,MD研究需要专家驱动的工作流程:des</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26782</guid>
-      <source url="https://arxiv.org/abs/2611.26782">ArXiv AI</source>
+      <title>Claude人工智能可以自行审查拉力请求 并自行修复</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests</link>
+      <description>Anthropic正在推出一些新的克洛德人工智能功能来帮助软件工程师的船舶代码. 作为今天宣布的克洛德·斯皮克新产品的一部分,克洛德现在可以审查,修复并批准拉力请求. Engineers已经能够利用克洛德的代码审查能力 t.</description>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests">The Verge AI</source>
     </item>
     <item>
-      <title>Beyond Final Answers: 由H&amp;E和MIF引起的可解释肿瘤免疫性微环境</title>
-      <link>https://arxiv.org/abs/2611.26794</link>
-      <description>肿瘤免疫微观环境(TIME)的读取,如CD8+T细胞密度,院内渗透和Ki67指数,将H&amp;E的组织架构与多x免疫流体(MIF)的细胞苯基(phenotypes)结合. Multimode big.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26794</guid>
-      <source url="https://arxiv.org/abs/2611.26794">ArXiv AI</source>
+      <title>黄詹森怎么又当上NvidiaCEO了</title>
+      <link>https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return</link>
+      <description>Nvidia的Jensen Huang时代本月接近尾声,他三十多年前共同创立了被认为是人工智能中最重要的公司之一的黄克华于11月12日辞去他的职务,因为他正在加紧对其指称的事务进行严格审查.</description>
+      <pubDate>Mon, 23 Nov 2026 14:57:18 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return</guid>
+      <source url="https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return">The Verge AI</source>
     </item>
     <item>
-      <title>关于线性神经网络的损失地貌:超越临界点</title>
-      <link>https://arxiv.org/abs/2611.26671</link>
-      <description>虽然自1980年代后期巴尔迪·霍尼克(Baldi QQ Hornik)的开创性工作以来,线性神经网络中损失地貌的临界点得到了广泛的研究,但是在中间或全球尺度上对这一地貌的描述仍然缺乏. Su.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26671</guid>
-      <source url="https://arxiv.org/abs/2611.26671">ArXiv ML</source>
+      <title>没有什么即将到来的"耳朵笔记" 是一对带有人工智能记录的耳机</title>
+      <link>https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording</link>
+      <description>没有任何新的人工智能设备是"耳朵笔记"(Ear Note),一套能记录和转录对话的耳机和他们的麦克风设备充电箱,有一个连接的应用程序来管理录音,笔录和人工智能生成的总结,类似于苹果公司的新"守望"(Watch)功能和亚马逊等设备.</description>
+      <pubDate>Mon, 23 Nov 2026 14:04:52 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording</guid>
+      <source url="https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording">The Verge AI</source>
     </item>
     <item>
-      <title>辅助特征:通过纯洁路径的因果关系抽象化</title>
-      <link>https://arxiv.org/abs/2611.26711</link>
-      <description>Causal 抽象定义了神经网络和算法之间的\emph{等同性}的概念,从而成为了机械解释的强大框架。 然而,在本文中,我们显示存在一个 \emph{纯真 featu 类。</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26711</guid>
-      <source url="https://arxiv.org/abs/2611.26711">ArXiv ML</source>
+      <title>俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit</link>
+      <description>俄勒冈州和弗吉尼亚州总检察长周一分别起诉 SpaceX，指控其忽视行业标准防护并虚假宣传 X 平台和 Grok AI 的安全性，两案均寻求经济赔偿。诉讼核心指向 Grok Imagine：xAI 于 2025 年 8 月为该工具推出生成色情内容的 spicy 模式，2026 年 1 月又允许 X 用户无需同意即可编辑任意图片，导致非自愿色情深伪泛滥。</description>
+      <pubDate>Mon, 23 Nov 2026 18:26:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit">The Verge：AI（RSS）</source>
     </item>
     <item>
-      <title>联邦学习跨大西洋强力聚合组织</title>
-      <link>https://arxiv.org/abs/2611.26731</link>
-      <description>联邦学习(FL)让受资源制约的IOT和边缘设备在不交换原始数据的情况下训练一个共享模型,但损坏或错误的设备会毒害全球模型。 在一些制度下,现有的强力聚合器每个都失败:天真的averagin</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26731</guid>
-      <source url="https://arxiv.org/abs/2611.26731">ArXiv ML</source>
+      <title>Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用</title>
+      <link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</link>
+      <description>Google 宣布在 Search 的 AI Mode 中扩展 Personal Intelligence，用户可选择安全连接 Google Wallet、Drive 和 Gemini 应用，Wallet 即日起开放，Drive 和 Gemini 应用将在未来数周跟进。</description>
+      <pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</guid>
+      <source url="https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/">Google Blog：AI（RSS）</source>
     </item>
     <item>
-      <title>深链式残余键用于多模态检索和生成</title>
-      <link>https://arxiv.org/abs/2611.26752</link>
-      <description>迭代架构,如循环语言模型,提高了变压器的参数效率和推理能力,然而它们相继的骨干迭代却引入了大量的计算延迟。 相反,可平行学习的谱系。</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26752</guid>
-      <source url="https://arxiv.org/abs/2611.26752">ArXiv ML</source>
+      <title>Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法</title>
+      <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
+      <description>Google DeepMind 发布新论文，用多个 Gemini 4 智能体团队结合 Lean 形式化定理证明改进量子算法，生成经数学验证的高效量子电路，并在 GitHub 开源 Lean 库、问题规格和验证解法。</description>
+      <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
+      <guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</guid>
+      <source url="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/">Google DeepMind：Blog（RSS）</source>
     </item>
     <item>
-      <title>由谁来核查? 审查者通过部分信息和结果审计进行选择</title>
-      <link>https://arxiv.org/abs/2611.26770</link>
-      <description>选择人工智能审查员需要阅读草稿后进行哪些工作的证据。在一个固定批次上,一个小组可以保存原始答案,或者在整个过程中采用一个审查员的答案。我们询问,证明所选的Procedu要花费多少费用。</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26770</guid>
-      <source url="https://arxiv.org/abs/2611.26770">ArXiv ML</source>
+      <title>字节，该造手机了</title>
+      <link>http://www.geekpark.net/news/374374</link>
+      <description>&amp;nbsp; &amp;nbsp; 11 月 19 日，财联社援引供应链人士的消息称，富士康旗下的富智康已经拿到 OpenAI 手机的组装订单，首款产品有望在 2027 年底或 2028 年面市。OpenAI 至今没有确认自己在做手机，但从今年 4 月起，围绕这台手机的供应链消息就没有断过。 而在中国，一家 AI 公司的手机其实已经卖到了第二代，这就是豆包手机。只不过在这台手机上，让助手帮你叫一辆车已经不算难事，但想让它接着给朋友回一条「我上车了」的微信，目前还做不到。 按曹操出行公布的用法，看到想去的地方，按一下手机侧面的 AI 键，豆包就能认出屏幕上的地址，路线和车型也都可以在对话里选。但等你上了</description>
+      <pubDate>Mon, 23 Nov 2026 23:47:18 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374374</guid>
+      <source url="http://www.geekpark.net/news/374374">极客公园</source>
     </item>
     <item>
-      <title>SkillPrivus:在代理技能中揭开Use伤害的PriVacy</title>
-      <link>https://arxiv.org/abs/2611.26747</link>
-      <description>代理技能通过可安装的可访问用户文件、账户和数据的指令和代码来扩展人工智能助理。 即使在执行他们公布的任务时,技能也可能推断出敏感属性,保留不必要的信息,或者diclos</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26747</guid>
-      <source url="https://arxiv.org/abs/2611.26747">ArXiv NLP</source>
+      <title>富兰克林·坦普顿如何利用人工智能进行投资研究 . OpenAI</title>
+      <link>https://www.youtube.com/shorts/gAmjBqXNoFI</link>
+      <description>“仅仅提供数据是不够的。 ”富兰克林·坦普尔顿(Franklin Templeton)的卡特里娜·杜德利(Katrina Dudley)解释了OpenAI如何帮助公司将信息与合规、风险和交易联系起来,然后将信息转化为投资组合经理的洞察力。 这给分析家们更多的实地时间,与私人公司和德夫(dev)交谈。</description>
+      <pubDate>Mon, 23 Nov 2026 15:23:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/gAmjBqXNoFI</guid>
+      <source url="https://www.youtube.com/shorts/gAmjBqXNoFI">OpenAI</source>
     </item>
     <item>
-      <title>强化学习 失学 腐败 SFT 原因</title>
-      <link>https://arxiv.org/abs/2611.26756</link>
-      <description>我们显示,在推理任务中的强化学习(RL)即使监督的微调(SFT)数据被严重腐蚀,也能取得成功。 在数学推理数据集(GSM8K)中,我们系统腐败了361confi的训练轨迹。</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26756</guid>
-      <source url="https://arxiv.org/abs/2611.26756">ArXiv NLP</source>
+      <title>富兰克林·坦普顿如何利用人工智能进行投资研究 . OpenAI</title>
+      <link>https://www.youtube.com/watch?v=PXKvR8ta22Q</link>
+      <description>“仅仅提供数据是不够的。 ”富兰克林·坦普尔顿(Franklin Templeton)的卡特里娜·杜德利(Katrina Dudley)解释了OpenAI如何帮助公司将信息与合规、风险和交易联系起来,然后将信息转化为投资组合经理的洞察力。 这给分析家们更多的实地时间,与私人公司和德夫(dev)交谈。</description>
+      <pubDate>Mon, 23 Nov 2026 15:21:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PXKvR8ta22Q</guid>
+      <source url="https://www.youtube.com/watch?v=PXKvR8ta22Q">OpenAI</source>
     </item>
     <item>
-      <title>Know your Context Bank: 在上下文中修复不一致度和衡量通用度 - 了解文本到SQL</title>
-      <link>https://arxiv.org/abs/2611.26775</link>
-      <description>文本到SQL系统越来越依赖上下文库:收集实例查询、计量定义和域知识,说明一个组织如何写出查询的模型。 在企业中,一个银行在数年里不断增长。</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26775</guid>
-      <source url="https://arxiv.org/abs/2611.26775">ArXiv NLP</source>
+      <title>a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法</title>
+      <link>https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents</link>
+      <description>a16z 联合 The Prompting Company 测试 Grok Bot、Muse、Instinct、Dots 等智能体在 1,270 条提示词、11,307 次完整运行中的购物表现，并比对 YipitData 消费数据。</description>
+      <pubDate>Mon, 23 Nov 2026 15:04:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents</guid>
+      <source url="https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents">a16z：News（RSS）</source>
     </item>
     <item>
-      <title>什么帮助语言模型特工审查暴力视频? 与人类证据参考文献的可控比较</title>
-      <link>https://arxiv.org/abs/2611.26776</link>
-      <description>为人类操作者标注暴力视频的系统,现在可以不经过训练地从语言模型中构建,方法是结合感知模型,让语言模型来决定。我们询问感知模型的观察应如何到达十诫中。</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26776</guid>
-      <source url="https://arxiv.org/abs/2611.26776">ArXiv NLP</source>
+      <title>Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据</title>
+      <link>https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/</link>
+      <description>Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。</description>
+      <pubDate>Mon, 23 Nov 2026 15:04:01 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/</guid>
+      <source url="https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/">TechCrunch：AI（RSS）</source>
     </item>
     <item>
-      <title>MedicalRSI:通过临床模型-Harness协同演进进行医学递归自我改进剂</title>
-      <link>https://arxiv.org/abs/2611.26806</link>
-      <description>基于大语言模型(LLMs)的医护人员已经迅速进步,但大多数人员一旦部署就固定下来,不再继续利用他们的经验来改进以后的尝试。 因此,同样的错误可能会在病人之间发生。</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.26806</guid>
-      <source url="https://arxiv.org/abs/2611.26806">ArXiv NLP</source>
+      <title>Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例</title>
+      <link>https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks</link>
+      <description>Wiz Research 发文介绍 ARTEX 等智能体攻击框架正在推动云入侵激增。文中分享了来自真实环境的案例，包括通过攻击操作者泄露的日志看到的一次攻击的双方视角、对 Black October 的更新，以及可捕捉这类嘈杂、机器速度攻击的检测方法。</description>
+      <pubDate>Mon, 23 Nov 2026 14:46:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks</guid>
+      <source url="https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks">Wiz：Research（安全研究）</source>
     </item>
     <item>
-      <title>Anthropic IPO 前三家机构如何重注押注</title>
-      <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
-      <description>TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。</description>
-      <pubDate>Mon, 23 Nov 2026 01:25:53 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</guid>
-      <source url="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/">TechCrunch：AI（RSS）</source>
+      <title>NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会</title>
+      <link>https://x.com/thexpin/status/2124866686025400819</link>
+      <description>NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。复职决定参考了美国政府高层意见，董事会认为其不构成国家安全风险，此前因黄仁勋成为外国情报行动目标而启动的独立董事调查将继续进行，董事会另设国家安全与出口管制委员会并招聘首席合规官。</description>
+      <pubDate>Mon, 23 Nov 2026 14:04:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thexpin/status/2124866686025400819</guid>
+      <source url="https://x.com/thexpin/status/2124866686025400819">X：X.PIN (@thexpin)</source>
     </item>
     <item>
-      <title>OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道</title>
-      <link>http://www.geekpark.net/news/374304</link>
-      <description>OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 &amp;middot; 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。 他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进展的参考指标（困惑度用于衡量 AI 模型预测下一个文本 Token 的能力，数值</description>
-      <pubDate>Mon, 23 Nov 2026 09:22:36 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374304</guid>
-      <source url="http://www.geekpark.net/news/374304">极客公园</source>
+      <title>实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了</title>
+      <link>https://www.qbitai.com/2026/11/512195.html</link>
+      <description>零Token成本，断网也能自由Vibe Coding</description>
+      <pubDate>Mon, 23 Nov 2026 11:01:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/512195.html</guid>
+      <source url="https://www.qbitai.com/2026/11/512195.html">量子位</source>
     </item>
     <item>
-      <title>华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机</title>
-      <link>https://www.ifanr.com/1690613?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>面向 AI，面向世界，面向未来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 23 Nov 2026 00:57:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1690613?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1690613?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>Meta Muse 可以在沃尔玛购买黑色星期五的购物</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</link>
+      <description>Walmart现在会让Meta的Muse商店代表你,允许人工智能特工通过Walmart的Sparky人工智能助理找到并购买黑色星期五交易。 零售巨头正在推出它上个月宣布的代理Gateway的活执行,它帮助人工智能特工找到相关的产品。</description>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</guid>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday">The Verge AI</source>
     </item>
     <item>
-      <title>早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元</title>
-      <link>https://www.ifanr.com/1690857?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 曝小米汽车欧洲团队再添一名前小鹏高管 · 神舟二十四号完成发射前最后一次全区合练 · AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Mon, 23 Nov 2026 00:25:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1690857?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1690857?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+      <title>AI 降本增笑，全世界都在被迫接受审美大降级</title>
+      <link>https://www.ifanr.com/1691079?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>日本开始狂用 AI 了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Mon, 23 Nov 2026 09:53:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1691079?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1691079?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
   </channel>
 </rss>
