@@ -5,8 +5,24 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 18:27:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:13:28 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法</title>
+      <link>https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA</link>
+      <description>自媒体作者卡兹克分享自己让 Claude、GPT 和 Gemini 协同工作的方法：把 Claude Opus 5.5 当总指挥负责沟通、拆解和验收，Gemini 4 Neon 当军师出方案和改界面文案，GPT 负责后端、算法、修 BUG 和代码审查。</description>
+      <pubDate>Sun, 22 Nov 2026 23:56:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA</guid>
+      <source url="https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始</title>
+      <link>https://www.ifanr.com/1690832?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>更多的新品，也不能消除苹果的 AI 焦虑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Sun, 22 Nov 2026 22:19:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1690832?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1690832?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
     <item>
       <title>装订以撒开发者将人工智能音乐从悔改附加中移除</title>
       <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
@@ -14,6 +30,22 @@
       <pubDate>Sun, 22 Nov 2026 12:25:20 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</guid>
       <source url="https://www.theverge.com/games/1039770/binding-of-isaac-ai-music">The Verge AI</source>
+    </item>
+    <item>
+      <title>MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国</title>
+      <link>https://x.com/OpenBMB/status/2124464239670964531</link>
+      <description>面壁智能转发并认同 @xiaoanlab 对 MiniCPM 端侧落地的观察：截至 2026 年 11 月 MiniCPM 下载量超过 7000 万，其 8B 老挝国家模型接入老挝政府 G-Chat v2 通讯软件，老挝翻译在国际基准上超过 GPT-4o。马来西亚用 VoxCPM2 做语音交互，肯尼亚一家银行在其上运行端侧风控 Agent，开发者基于它推出离线应用；小模型之争正从参数量转向谁真正嵌入日常系统。</description>
+      <pubDate>Sun, 22 Nov 2026 11:25:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenBMB/status/2124464239670964531</guid>
+      <source url="https://x.com/OpenBMB/status/2124464239670964531">X：面壁智能 OpenBMB (@OpenBMB)</source>
+    </item>
+    <item>
+      <title>用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析</title>
+      <link>https://x.com/OpenBMB/status/2124461770043785636</link>
+      <description>用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码，肌酐因名称歧义留空未猜。问超标指标时 2B 模型走 11 步找到全部 5 项箭头指标，但把一项在范围内的血糖误判为超标。接 Claude Code 时改用演示账号避免数据上传。Mirobody 由 Theta Health 以 Apache</description>
+      <pubDate>Sun, 22 Nov 2026 11:15:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenBMB/status/2124461770043785636</guid>
+      <source url="https://x.com/OpenBMB/status/2124461770043785636">X：面壁智能 OpenBMB (@OpenBMB)</source>
     </item>
     <item>
       <title>Lean 与 Mathlib 社区确认 Levent Alpöge 黎曼猜想证明正确</title>
@@ -72,6 +104,14 @@
       <source url="https://www.ifanr.com/1690820?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
     </item>
     <item>
+      <title>OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据</title>
+      <link>https://openai.com/index/perplexity-and-intelligence</link>
+      <description>OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/perplexity-and-intelligence</guid>
+      <source url="https://openai.com/index/perplexity-and-intelligence">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
+    <item>
       <title>Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限</title>
       <link>https://x.com/rohanpaul_ai/status/2124213113583174076</link>
       <description>Columbia 和 MIT 的论文展示 Claude 发现的算法在 3SUM 和全对最短路径（APSP）上取得多项式改进，3SUM 达到 O(n^1.9992)、APSP 达到 O(n^2.9995)，推翻了 3SUM 和 APSP 假设。</description>
@@ -126,46 +166,6 @@
       <pubDate>Sat, 21 Nov 2026 03:30:42 +0000</pubDate>
       <guid isPermaLink="true">https://www.ifanr.com/1690789?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
       <source url="https://www.ifanr.com/1690789?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>刚刚，曝黎曼猜想被证明，Claude 立大功</title>
-      <link>https://www.ifanr.com/1690750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 21 Nov 2026 01:29:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1690750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1690750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验</title>
-      <link>https://www.ifanr.com/1690759?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Sat, 21 Nov 2026 00:25:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1690759?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1690759?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机</title>
-      <link>http://www.geekpark.net/news/374299</link>
-      <description>传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资，估值达 50 亿美元，短短几个月内估值翻了一倍多。 林俊旸曾是阿里的明星研究员，在离职后于今年夏季创立语用科技。据知情人士称，语用科技在最近结束的一轮融资中筹集了数千万美元资金。今年 8 月，该公司在首次融资中筹集了数亿美元，当时估值为 20 亿美元。 知情人士称，语用科技的新投资者包括华业天成资本、鼎晖投资以及汽车制造商吉利汽车。 语用科技总部位于上海，致力于开发面向数字世界和物理世界的 AI 智能体。该公司首轮融</description>
-      <pubDate>Sat, 21 Nov 2026 08:17:10 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374299</guid>
-      <source url="http://www.geekpark.net/news/374299">极客公园</source>
-    </item>
-    <item>
-      <title>Together AI 通报 2026 年 6-7 月 serverless 推理服务提示词泄露事件</title>
-      <link>https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026</link>
-      <description>Together AI 通报一起安全事件：因 AI 编码 agent 在公开 GitHub 仓库 xorl 中提交了私有 Hugging Face 仓库凭证，未授权方下载了 2026 年 6-7 月提交给 MiniMax M3、GLM-5.2、Kimi K2.6 等 serverless 推理服务的存储提示词样本，并搜索其中其他服务凭证。</description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026</guid>
-      <source url="https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026">Together AI 研究与产品博客（RSS）</source>
-    </item>
-    <item>
-      <title>Qwen4 Max 上线 Together AI，单次调用修复 Tornado 整仓 bug</title>
-      <link>https://www.together.ai/blog/qwen4-max</link>
-      <description>Together AI 宣布阿里旗舰模型 Qwen4 Max 上线其 Serverless 推理平台（模型串 Qwen/Qwen4-Max），1M token 上下文，截至 2026 年 11 月 22 日 7 折。</description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.together.ai/blog/qwen4-max</guid>
-      <source url="https://www.together.ai/blog/qwen4-max">Together AI 研究与产品博客（RSS）</source>
     </item>
   </channel>
 </rss>
