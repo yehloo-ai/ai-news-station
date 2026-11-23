@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T00:00:32.455Z",
+  "windowStart": "2026-11-22T00:00:00.000Z",
+  "windowEnd": "2026-11-23T00:00:00.000Z",
+  "links": {
+    "aihot": "https://aihot.news/daily/2026-11-23"
+  },
+  "attribution": {
+    "name": "AIHOT",
+    "url": "https://aihot.news/daily/2026-11-23"
+  },
+  "lead": {
+    "title": "OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据",
+    "leadParagraph": "OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。"
+  },
+  "sections": [
+    {
+      "label": "行业动态",
+      "items": [
+        {
+          "id": "dr26culfdd1cb21w56i8iruts",
+          "title": "MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国",
+          "summary": "面壁智能转发并认同 @xiaoanlab 对 MiniCPM 端侧落地的观察：截至 2026 年 11 月 MiniCPM 下载量超过 7000 万，其 8B 老挝国家模型接入老挝政府 G-Chat v2 通讯软件，老挝翻译在国际基准上超过 GPT-4o。马来西亚用 VoxCPM2 做语音交互，肯尼亚一家银行在其上运行端侧风控 Agent，开发者基于它推出离线应用；小模型之争正从参数量转向谁真正嵌入日常系统。",
+          "source": {
+            "id": "x-account-openbmb",
+            "name": "X：面壁智能 OpenBMB (@OpenBMB)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts",
+            "original": "https://x.com/OpenBMB/status/2124464239670964531"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts"
+          },
+          "sourceUrl": "https://x.com/OpenBMB/status/2124464239670964531",
+          "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "permalink": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts"
+        }
+      ]
+    },
+    {
+      "label": "技巧与观点",
+      "items": [
+        {
+          "id": "r7kb35fpdwc1m2iqsmd310tdj",
+          "title": "OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据",
+          "summary": "OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。",
+          "source": {
+            "id": "rss-openai-news",
+            "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj",
+            "original": "https://openai.com/index/perplexity-and-intelligence"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj"
+          },
+          "sourceUrl": "https://openai.com/index/perplexity-and-intelligence",
+          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "permalink": "https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj"
+        },
+        {
+          "id": "g3vdho0vzm8rzriiz5grruy3m",
+          "title": "用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析",
+          "summary": "用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码，肌酐因名称歧义留空未猜。问超标指标时 2B 模型走 11 步找到全部 5 项箭头指标，但把一项在范围内的血糖误判为超标。接 Claude Code 时改用演示账号避免数据上传。Mirobody 由 Theta Health 以 Apache-2.0 开源，网页版和微信小程序也基于它。",
+          "source": {
+            "id": "x-account-openbmb",
+            "name": "X：面壁智能 OpenBMB (@OpenBMB)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m",
+            "original": "https://x.com/OpenBMB/status/2124461770043785636"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m"
+          },
+          "sourceUrl": "https://x.com/OpenBMB/status/2124461770043785636",
+          "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "permalink": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m"
+        }
+      ]
+    }
+  ],
+  "flashes": [
+    {
+      "id": "p9h5xzsooms0foxeakoivy7qt",
+      "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
+      "source": {
+        "id": "rss-ithome",
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
+        "original": "https://www.ithome.com/1/030/677.htm"
+      },
+      "publishedAt": "2026-11-22T09:35:58.183Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt"
+      },
+      "sourceUrl": "https://www.ithome.com/1/030/677.htm",
+      "sourceName": "IT之家·人工智能",
+      "permalink": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "g3vdho0vzm8rzriiz5grruy3m",
+      "title": "用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析",
+      "summary": "用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码，肌酐因名称歧义留空未猜。问超标指标时 2B 模型走 11 步找到全部 5 项箭头指标，但把一项在范围内的血糖误判为超标。接 Claude Code 时改用演示账号避免数据上传。Mirobody 由 Theta Health 以 Apache-2.0 开源，网页版和微信小程序也基于它。",
+      "source": {
+        "id": "x-account-openbmb",
+        "name": "X：面壁智能 OpenBMB (@OpenBMB)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m",
+        "original": "https://x.com/OpenBMB/status/2124461770043785636"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m"
+      }
+    },
+    {
+      "id": "dr26culfdd1cb21w56i8iruts",
+      "title": "MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国",
+      "summary": "面壁智能转发并认同 @xiaoanlab 对 MiniCPM 端侧落地的观察：截至 2026 年 11 月 MiniCPM 下载量超过 7000 万，其 8B 老挝国家模型接入老挝政府 G-Chat v2 通讯软件，老挝翻译在国际基准上超过 GPT-4o。马来西亚用 VoxCPM2 做语音交互，肯尼亚一家银行在其上运行端侧风控 Agent，开发者基于它推出离线应用；小模型之争正从参数量转向谁真正嵌入日常系统。",
+      "source": {
+        "id": "x-account-openbmb",
+        "name": "X：面壁智能 OpenBMB (@OpenBMB)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts",
+        "original": "https://x.com/OpenBMB/status/2124464239670964531"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts"
+      }
+    },
+    {
+      "id": "ygk78g9svmphgtbms3klrjnxw",
+      "title": "FT 调查：与 Jensen Huang 有情感关系的 Alice Huang 牵涉向中国走私 Nvidia 芯片的网络",
+      "summary": "FT 发布调查报道，指与 Jensen Huang 存在情感关系的 Alice Huang 牵涉一张将 Nvidia 芯片运入中国的网络，涉及云合作伙伴、游戏大亨、据称的柬埔寨人口贩运者及数百家空壳公司。其家族几乎在每个环节都有关联，走私据称经一家被制裁的柬埔寨犯罪集团进行；Nvidia 的审查依赖公司文书，而该网络正是为通过这些审查而搭建。",
+      "source": {
+        "id": "x-account-rohanpaulai",
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ygk78g9svmphgtbms3klrjnxw",
+        "original": "https://x.com/rohanpaul_ai/status/2124303818167095585"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/ygk78g9svmphgtbms3klrjnxw"
+      }
+    }
+  ]
+}
