@@ -1,42 +1,257 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T00:00:32.455Z",
-  "windowStart": "2026-11-22T00:00:00.000Z",
-  "windowEnd": "2026-11-23T00:00:00.000Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T00:00:16.903Z",
+  "windowStart": "2026-11-23T00:00:00.000Z",
+  "windowEnd": "2026-11-24T00:00:00.000Z",
   "links": {
-    "aihot": "https://aihot.news/daily/2026-11-23"
+    "aihot": "https://aihot.news/daily/2026-11-24"
   },
   "attribution": {
     "name": "AIHOT",
-    "url": "https://aihot.news/daily/2026-11-23"
+    "url": "https://aihot.news/daily/2026-11-24"
   },
   "lead": {
-    "title": "OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据",
-    "leadParagraph": "OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。"
+    "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
+    "leadParagraph": "NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。复职决定参考了美国政府高层意见，董事会认为其不构成国家安全风险，此前因黄仁勋成为外国情报行动目标而启动的独立董事调查将继续进行，董事会另设国家安全与出口管制委员会并招聘首席合规官。"
   },
   "sections": [
+    {
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "id": "d4hhqnlmrclsx7d6idtvq95wz",
+          "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
+          "summary": "智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。",
+          "source": {
+            "id": "mp-account-zhipu",
+            "name": "公众号：智谱（GLM）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
+            "original": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz"
+          },
+          "sourceUrl": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
+          "sourceName": "公众号：智谱（GLM）",
+          "permalink": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz"
+        }
+      ]
+    },
+    {
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "t7jlbaldqf2zcliuva1sofoks",
+          "title": "Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批",
+          "summary": "Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。",
+          "source": {
+            "id": "web-claude-blog",
+            "name": "Claude：Blog（网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
+            "original": "https://claude.com/blog/introducing-claude-ship"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks"
+          },
+          "sourceUrl": "https://claude.com/blog/introducing-claude-ship",
+          "sourceName": "Claude：Blog（网页）",
+          "permalink": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks"
+        },
+        {
+          "id": "gl6fl6hsisrt26tg83li0j4gk",
+          "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
+          "summary": "ChatGPT 宣布在 Chat 标签页推出面向日常对话优化的 GPT-6.2 Sol，今日起面向 Plus、Pro、Business 和 Enterprise 用户开放。该版本更擅长处理复杂请求和在线信息查找，能识别照片中标签文字、路牌符号等细节，并更好地根据价格、位置等偏好缩小选项范围。转发者 Tibo 表示答案质量会有明显提升，年底前应用体验还会更快、更简洁。",
+          "source": {
+            "id": "x-account-thsottiaux",
+            "name": "X：Tibo (@thsottiaux)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+            "original": "https://x.com/thsottiaux/status/2124998553856844186"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk"
+          },
+          "sourceUrl": "https://x.com/thsottiaux/status/2124998553856844186",
+          "sourceName": "X：Tibo (@thsottiaux)",
+          "permalink": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk"
+        },
+        {
+          "id": "cyorgi8t8dm2fo6ee3b5a6qs2",
+          "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
+          "summary": "Google 宣布在 Search 的 AI Mode 中扩展 Personal Intelligence，用户可选择安全连接 Google Wallet、Drive 和 Gemini 应用，Wallet 即日起开放，Drive 和 Gemini 应用将在未来数周跟进。",
+          "source": {
+            "id": "web-google-blog-models-research",
+            "name": "Google Blog：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
+            "original": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2"
+          },
+          "sourceUrl": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "sourceName": "Google Blog：AI（RSS）",
+          "permalink": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2"
+        },
+        {
+          "id": "h1vnjuwxsli7ku7rpocjlr3s2",
+          "title": "Claude 推出插件，统一连接器与技能的接入方式",
+          "summary": "Claude 官方宣布将连接器和技能合并为插件，提供统一的方式为 Claude 接入工具或教授新技能。插件已在 Free、Pro、Max 和 Ultra 套餐上线，Team 和 Enterprise 即将支持，用户可在 https://claude.ai/plugins 浏览 10,000 多个插件。",
+          "source": {
+            "id": "x-account-claudeai",
+            "name": "X：Claude (@claudeai)"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
+            "original": "https://x.com/claudeai/status/2124970294523945328"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2"
+          },
+          "sourceUrl": "https://x.com/claudeai/status/2124970294523945328",
+          "sourceName": "X：Claude (@claudeai)",
+          "permalink": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2"
+        }
+      ]
+    },
     {
       "label": "行业动态",
       "items": [
         {
-          "id": "dr26culfdd1cb21w56i8iruts",
-          "title": "MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国",
-          "summary": "面壁智能转发并认同 @xiaoanlab 对 MiniCPM 端侧落地的观察：截至 2026 年 11 月 MiniCPM 下载量超过 7000 万，其 8B 老挝国家模型接入老挝政府 G-Chat v2 通讯软件，老挝翻译在国际基准上超过 GPT-4o。马来西亚用 VoxCPM2 做语音交互，肯尼亚一家银行在其上运行端侧风控 Agent，开发者基于它推出离线应用；小模型之争正从参数量转向谁真正嵌入日常系统。",
+          "id": "ajcxs84uezjqgsgxpdtr31o0l",
+          "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
+          "summary": "NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。复职决定参考了美国政府高层意见，董事会认为其不构成国家安全风险，此前因黄仁勋成为外国情报行动目标而启动的独立董事调查将继续进行，董事会另设国家安全与出口管制委员会并招聘首席合规官。",
           "source": {
-            "id": "x-account-openbmb",
-            "name": "X：面壁智能 OpenBMB (@OpenBMB)"
+            "id": "x-account-thexpin",
+            "name": "X：X.PIN (@thexpin)"
           },
           "links": {
-            "aihot": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts",
-            "original": "https://x.com/OpenBMB/status/2124464239670964531"
+            "aihot": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
+            "original": "https://x.com/thexpin/status/2124866686025400819"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts"
+            "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l"
           },
-          "sourceUrl": "https://x.com/OpenBMB/status/2124464239670964531",
-          "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "permalink": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts"
+          "sourceUrl": "https://x.com/thexpin/status/2124866686025400819",
+          "sourceName": "X：X.PIN (@thexpin)",
+          "permalink": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l"
+        },
+        {
+          "id": "uop2ab4998l6dxugsgtg7w7rn",
+          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+          "summary": "Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。",
+          "source": {
+            "id": "rss-techcrunch-ai",
+            "name": "TechCrunch：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+            "original": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn"
+          },
+          "sourceUrl": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "permalink": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn"
+        },
+        {
+          "id": "vlxrimiuixb91iodhjh5hxmte",
+          "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
+          "summary": "俄勒冈州和弗吉尼亚州总检察长周一分别起诉 SpaceX，指控其忽视行业标准防护并虚假宣传 X 平台和 Grok AI 的安全性，两案均寻求经济赔偿。诉讼核心指向 Grok Imagine：xAI 于 2025 年 8 月为该工具推出生成色情内容的 spicy 模式，2026 年 1 月又允许 X 用户无需同意即可编辑任意图片，导致非自愿色情深伪泛滥。",
+          "source": {
+            "id": "rss-the-verge-ai",
+            "name": "The Verge：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
+            "original": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte"
+          },
+          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+          "sourceName": "The Verge：AI（RSS）",
+          "permalink": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte"
+        },
+        {
+          "id": "dus34samsjrld1qopq65v54uq",
+          "title": "Anthropic IPO 前三家机构如何重注押注",
+          "summary": "TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。",
+          "source": {
+            "id": "rss-techcrunch-ai",
+            "name": "TechCrunch：AI（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
+            "original": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/dus34samsjrld1qopq65v54uq"
+          },
+          "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+          "sourceName": "TechCrunch：AI（RSS）",
+          "permalink": "https://aihot.news/items/dus34samsjrld1qopq65v54uq"
+        }
+      ]
+    },
+    {
+      "label": "论文研究",
+      "items": [
+        {
+          "id": "gj8mzwrgqlkvim6xe382a35q2",
+          "title": "Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组",
+          "summary": "Anthropic 研究团队对 58 家企业客户进行 66 次面对面访谈，分析企业采用 AI 的方式、瓶颈与组织变化。研究发现多数 AI 应用通过扩大产出而非削减成本创造价值；直接裁员案例很少，但约三分之二的公司因 AI 减少招聘，九家削减外包和离岸承包商；高价值应用通常需要更深度的组织重组，如拓宽岗位职责、把员工转向 AI 无法完成的瓶颈任务，以及为非技术员工建设数据和基础设施支持。",
+          "source": {
+            "id": "web-anthropic-research",
+            "name": "Anthropic：Research（发表成果 · 网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2",
+            "original": "https://www.anthropic.com/research/working-with-ai"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2"
+          },
+          "sourceUrl": "https://www.anthropic.com/research/working-with-ai",
+          "sourceName": "Anthropic：Research（发表成果 · 网页）",
+          "permalink": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2"
+        },
+        {
+          "id": "pjpgapf3mbvmy98cywxhwf07n",
+          "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
+          "summary": "Google DeepMind 发布新论文，用多个 Gemini 4 智能体团队结合 Lean 形式化定理证明改进量子算法，生成经数学验证的高效量子电路，并在 GitHub 开源 Lean 库、问题规格和验证解法。",
+          "source": {
+            "id": "web-deepmind-blog",
+            "name": "Google DeepMind：Blog（RSS）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
+            "original": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n"
+          },
+          "sourceUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "sourceName": "Google DeepMind：Blog（RSS）",
+          "permalink": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n"
         }
       ]
     },
@@ -44,120 +259,160 @@
       "label": "技巧与观点",
       "items": [
         {
-          "id": "r7kb35fpdwc1m2iqsmd310tdj",
-          "title": "OpenAI 提议以困惑度作为行业共享指标并公开内部预训练测量数据",
-          "summary": "OpenAI 撰文提议将 perplexity（交叉熵损失）确立为跨模型开发者比较和安全标准的共享指标，并公开其内部预训练测量数据。",
+          "id": "qkxvs90ewfu3k430sdefndv56",
+          "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
+          "summary": "a16z 联合 The Prompting Company 测试 Grok Bot、Muse、Instinct、Dots 等智能体在 1,270 条提示词、11,307 次完整运行中的购物表现，并比对 YipitData 消费数据。",
           "source": {
-            "id": "rss-openai-news",
-            "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+            "id": "rss-a16z-news",
+            "name": "a16z：News（RSS）"
           },
           "links": {
-            "aihot": "https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj",
-            "original": "https://openai.com/index/perplexity-and-intelligence"
+            "aihot": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
+            "original": "https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj"
+            "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56"
           },
-          "sourceUrl": "https://openai.com/index/perplexity-and-intelligence",
-          "sourceName": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "permalink": "https://aihot.news/items/r7kb35fpdwc1m2iqsmd310tdj"
-        },
-        {
-          "id": "g3vdho0vzm8rzriiz5grruy3m",
-          "title": "用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析",
-          "summary": "用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码，肌酐因名称歧义留空未猜。问超标指标时 2B 模型走 11 步找到全部 5 项箭头指标，但把一项在范围内的血糖误判为超标。接 Claude Code 时改用演示账号避免数据上传。Mirobody 由 Theta Health 以 Apache-2.0 开源，网页版和微信小程序也基于它。",
-          "source": {
-            "id": "x-account-openbmb",
-            "name": "X：面壁智能 OpenBMB (@OpenBMB)"
-          },
-          "links": {
-            "aihot": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m",
-            "original": "https://x.com/OpenBMB/status/2124461770043785636"
-          },
-          "attribution": {
-            "name": "AIHOT",
-            "url": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m"
-          },
-          "sourceUrl": "https://x.com/OpenBMB/status/2124461770043785636",
-          "sourceName": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "permalink": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m"
+          "sourceUrl": "https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents",
+          "sourceName": "a16z：News（RSS）",
+          "permalink": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56"
         }
       ]
     }
   ],
   "flashes": [
     {
-      "id": "p9h5xzsooms0foxeakoivy7qt",
-      "title": "菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可",
+      "id": "hz782dpcwhurj6584rtd13eaf",
+      "title": "卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法",
       "source": {
-        "id": "rss-ithome",
-        "name": "IT之家·人工智能"
+        "id": "mp-account-kazike-digital-life",
+        "name": "公众号：数字生命卡兹克"
       },
       "links": {
-        "aihot": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt",
-        "original": "https://www.ithome.com/1/030/677.htm"
+        "aihot": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
+        "original": "https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA"
       },
-      "publishedAt": "2026-11-22T09:35:58.183Z",
+      "publishedAt": "2026-11-22T23:56:00.000Z",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt"
+        "url": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf"
       },
-      "sourceUrl": "https://www.ithome.com/1/030/677.htm",
-      "sourceName": "IT之家·人工智能",
-      "permalink": "https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt"
+      "sourceUrl": "https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA",
+      "sourceName": "公众号：数字生命卡兹克",
+      "permalink": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf"
+    },
+    {
+      "id": "zur9ndkrkvtk4lqiix14q468s",
+      "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
+      "source": {
+        "id": "web-figma-ai-blog",
+        "name": "Figma AI / Agent / Make"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
+        "original": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/"
+      },
+      "publishedAt": "2026-11-23T20:54:00.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s"
+      },
+      "sourceUrl": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/",
+      "sourceName": "Figma AI / Agent / Make",
+      "permalink": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s"
+    },
+    {
+      "id": "tl8v9gto8rd3e4x40xfbljj13",
+      "title": "AISI 红队论文：攻击策略选择会让 LLM 监视器评估结果失真",
+      "source": {
+        "id": "web-aisi-blog",
+        "name": "英国 AI Security Institute：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/tl8v9gto8rd3e4x40xfbljj13",
+        "original": "https://www.aisi.gov.uk/blog/attack-policy-selection-can-make-monitor-evaluations-misleading"
+      },
+      "publishedAt": "2026-11-22T23:00:00.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/tl8v9gto8rd3e4x40xfbljj13"
+      },
+      "sourceUrl": "https://www.aisi.gov.uk/blog/attack-policy-selection-can-make-monitor-evaluations-misleading",
+      "sourceName": "英国 AI Security Institute：Blog（网页）",
+      "permalink": "https://aihot.news/items/tl8v9gto8rd3e4x40xfbljj13"
+    },
+    {
+      "id": "gp8e9a8oitha0rbip8pzntuff",
+      "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
+      "source": {
+        "id": "rss-wiz-research",
+        "name": "Wiz：Research（安全研究）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
+        "original": "https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks"
+      },
+      "publishedAt": "2026-11-23T14:46:19.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff"
+      },
+      "sourceUrl": "https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks",
+      "sourceName": "Wiz：Research（安全研究）",
+      "permalink": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff"
     }
   ],
   "highlights": [
     {
-      "id": "g3vdho0vzm8rzriiz5grruy3m",
-      "title": "用户实测用 MiniCPM5-2B 在 Mac 上本地跑通体检报告分析",
-      "summary": "用户@cxjwin 分享在 Mac（M4 Pro、48GB）上用 Homebrew 装 llama.cpp 跑 minicpm5-2b、colima 起 Docker 本地运行开源项目 Mirobody 的实测：14 页 PDF 首次处理漏掉 3 页扫描版化验单，截图单独上传后 58 行化验数值逐项与原件对上，其中 20 行成功映射到 LOINC 标准编码，肌酐因名称歧义留空未猜。问超标指标时 2B 模型走 11 步找到全部 5 项箭头指标，但把一项在范围内的血糖误判为超标。接 Claude Code 时改用演示账号避免数据上传。Mirobody 由 Theta Health 以 Apache-2.0 开源，网页版和微信小程序也基于它。",
+      "id": "d4hhqnlmrclsx7d6idtvq95wz",
+      "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
+      "summary": "智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。",
       "source": {
-        "id": "x-account-openbmb",
-        "name": "X：面壁智能 OpenBMB (@OpenBMB)"
+        "id": "mp-account-zhipu",
+        "name": "公众号：智谱（GLM）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m",
-        "original": "https://x.com/OpenBMB/status/2124461770043785636"
+        "aihot": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
+        "original": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ"
       },
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/g3vdho0vzm8rzriiz5grruy3m"
+        "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz"
       }
     },
     {
-      "id": "dr26culfdd1cb21w56i8iruts",
-      "title": "MiniCPM 8B 成为老挝国家模型，端侧小模型加速落地多国",
-      "summary": "面壁智能转发并认同 @xiaoanlab 对 MiniCPM 端侧落地的观察：截至 2026 年 11 月 MiniCPM 下载量超过 7000 万，其 8B 老挝国家模型接入老挝政府 G-Chat v2 通讯软件，老挝翻译在国际基准上超过 GPT-4o。马来西亚用 VoxCPM2 做语音交互，肯尼亚一家银行在其上运行端侧风控 Agent，开发者基于它推出离线应用；小模型之争正从参数量转向谁真正嵌入日常系统。",
+      "id": "uop2ab4998l6dxugsgtg7w7rn",
+      "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
+      "summary": "Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。",
       "source": {
-        "id": "x-account-openbmb",
-        "name": "X：面壁智能 OpenBMB (@OpenBMB)"
+        "id": "rss-techcrunch-ai",
+        "name": "TechCrunch：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts",
-        "original": "https://x.com/OpenBMB/status/2124464239670964531"
+        "aihot": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
+        "original": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
       },
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/dr26culfdd1cb21w56i8iruts"
+        "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn"
       }
     },
     {
-      "id": "ygk78g9svmphgtbms3klrjnxw",
-      "title": "FT 调查：与 Jensen Huang 有情感关系的 Alice Huang 牵涉向中国走私 Nvidia 芯片的网络",
-      "summary": "FT 发布调查报道，指与 Jensen Huang 存在情感关系的 Alice Huang 牵涉一张将 Nvidia 芯片运入中国的网络，涉及云合作伙伴、游戏大亨、据称的柬埔寨人口贩运者及数百家空壳公司。其家族几乎在每个环节都有关联，走私据称经一家被制裁的柬埔寨犯罪集团进行；Nvidia 的审查依赖公司文书，而该网络正是为通过这些审查而搭建。",
+      "id": "t7jlbaldqf2zcliuva1sofoks",
+      "title": "Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批",
+      "summary": "Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。",
       "source": {
-        "id": "x-account-rohanpaulai",
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "id": "web-claude-blog",
+        "name": "Claude：Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/ygk78g9svmphgtbms3klrjnxw",
-        "original": "https://x.com/rohanpaul_ai/status/2124303818167095585"
+        "aihot": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
+        "original": "https://claude.com/blog/introducing-claude-ship"
       },
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/ygk78g9svmphgtbms3klrjnxw"
+        "url": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks"
       }
     }
   ]
