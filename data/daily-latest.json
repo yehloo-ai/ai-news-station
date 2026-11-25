@@ -1,42 +1,42 @@
 {
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T00:00:16.903Z",
-  "windowStart": "2026-11-23T00:00:00.000Z",
-  "windowEnd": "2026-11-24T00:00:00.000Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T00:00:36.665Z",
+  "windowStart": "2026-11-24T00:00:00.000Z",
+  "windowEnd": "2026-11-25T00:00:00.000Z",
   "links": {
-    "aihot": "https://aihot.news/daily/2026-11-24"
+    "aihot": "https://aihot.news/daily/2026-11-25"
   },
   "attribution": {
     "name": "AIHOT",
-    "url": "https://aihot.news/daily/2026-11-24"
+    "url": "https://aihot.news/daily/2026-11-25"
   },
   "lead": {
-    "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
-    "leadParagraph": "NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。复职决定参考了美国政府高层意见，董事会认为其不构成国家安全风险，此前因黄仁勋成为外国情报行动目标而启动的独立董事调查将继续进行，董事会另设国家安全与出口管制委员会并招聘首席合规官。"
+    "title": "Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用",
+    "leadParagraph": "Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。"
   },
   "sections": [
     {
       "label": "模型发布/更新",
       "items": [
         {
-          "id": "d4hhqnlmrclsx7d6idtvq95wz",
-          "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
-          "summary": "智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。",
+          "id": "gflb0kkwzma61spkzpp1uxmrk",
+          "title": "Cognition 发布 SWE-2.1 及高速版 SWE-2.1 Lightning",
+          "summary": "Cognition 发布 SWE-2.1，基于 Kimi K3 纯强化学习训练，在 FrontierCode 2.0、Terminal-Bench 4.1 等基准上较 SWE-2 大幅提升，ExploitBench 达 80%、ExploitGym 捕获 27.3% flags，网络安全能力显著增强。",
           "source": {
-            "id": "mp-account-zhipu",
-            "name": "公众号：智谱（GLM）"
+            "id": "web-cognition-blog",
+            "name": "Cognition 模型 / Devin 博客（网页）"
           },
           "links": {
-            "aihot": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-            "original": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ"
+            "aihot": "https://aihot.news/items/gflb0kkwzma61spkzpp1uxmrk",
+            "original": "https://cognition.com/blog/swe-2-1"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz"
+            "url": "https://aihot.news/items/gflb0kkwzma61spkzpp1uxmrk"
           },
-          "sourceUrl": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
-          "sourceName": "公众号：智谱（GLM）",
-          "permalink": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz"
+          "sourceUrl": "https://cognition.com/blog/swe-2-1",
+          "sourceName": "Cognition 模型 / Devin 博客（网页）",
+          "permalink": "https://aihot.news/items/gflb0kkwzma61spkzpp1uxmrk"
         }
       ]
     },
@@ -44,84 +44,84 @@
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "t7jlbaldqf2zcliuva1sofoks",
-          "title": "Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批",
-          "summary": "Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。",
+          "id": "zcpto4b7qb8sr6v6n223kd2sx",
+          "title": "Claude 推出 Install as app：artifacts 可安装为 Mac 和 Windows 桌面应用",
+          "summary": "Anthropic 在 Mac 和 Windows 版 Claude 中以 beta 形式推出 Install as app，artifacts 可创建、运行并分享为独立桌面应用，拥有自己的图标和窗口，底层 artifact 更新时应用自动同步。",
           "source": {
             "id": "web-claude-blog",
             "name": "Claude：Blog（网页）"
           },
           "links": {
-            "aihot": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
-            "original": "https://claude.com/blog/introducing-claude-ship"
+            "aihot": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
+            "original": "https://claude.com/blog/install-as-app"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks"
+            "url": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx"
           },
-          "sourceUrl": "https://claude.com/blog/introducing-claude-ship",
+          "sourceUrl": "https://claude.com/blog/install-as-app",
           "sourceName": "Claude：Blog（网页）",
-          "permalink": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks"
+          "permalink": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx"
         },
         {
-          "id": "gl6fl6hsisrt26tg83li0j4gk",
-          "title": "ChatGPT 推出面向日常对话优化的 GPT-6.2 Sol",
-          "summary": "ChatGPT 宣布在 Chat 标签页推出面向日常对话优化的 GPT-6.2 Sol，今日起面向 Plus、Pro、Business 和 Enterprise 用户开放。该版本更擅长处理复杂请求和在线信息查找，能识别照片中标签文字、路牌符号等细节，并更好地根据价格、位置等偏好缩小选项范围。转发者 Tibo 表示答案质量会有明显提升，年底前应用体验还会更快、更简洁。",
+          "id": "kjd2qp2iuk9zxdfqj5qk2a8f9",
+          "title": "Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新",
+          "summary": "Anthropic 宣布 Skills over MCP 在 Claude 与 Claude Code 进入公开测试，MCP 服务器可在工具之外发布技能，按需加载以降低上下文占用。",
+          "source": {
+            "id": "web-claude-blog",
+            "name": "Claude：Blog（网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9",
+            "original": "https://claude.com/blog/skills-over-mcp-tasks-and-more"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9"
+          },
+          "sourceUrl": "https://claude.com/blog/skills-over-mcp-tasks-and-more",
+          "sourceName": "Claude：Blog（网页）",
+          "permalink": "https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9"
+        },
+        {
+          "id": "d41p6k2h48zm8u2kl5xdzqx5h",
+          "title": "OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统",
+          "summary": "OpenAI 宣布与 Cisco 合作推出开源 Linux 运行时 Shirudo，让 Agent 编写动态 eBPF 控制来抵御漏洞利用，同时保持服务不中断，为防御方争取测试和部署补丁的时间。作者称这是迈向自适应自防御基础设施的第一步，目标是让防御者与 AI Agent 协作定位受影响系统、测试并共享 shield、在不干扰工作负载的情况下部署。",
           "source": {
             "id": "x-account-thsottiaux",
             "name": "X：Tibo (@thsottiaux)"
           },
           "links": {
-            "aihot": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
-            "original": "https://x.com/thsottiaux/status/2124998553856844186"
+            "aihot": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
+            "original": "https://x.com/thsottiaux/status/2125141302501417232"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk"
+            "url": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h"
           },
-          "sourceUrl": "https://x.com/thsottiaux/status/2124998553856844186",
+          "sourceUrl": "https://x.com/thsottiaux/status/2125141302501417232",
           "sourceName": "X：Tibo (@thsottiaux)",
-          "permalink": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk"
+          "permalink": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h"
         },
         {
-          "id": "cyorgi8t8dm2fo6ee3b5a6qs2",
-          "title": "Google Search AI Mode 支持连接 Google Wallet、Drive 和 Gemini 应用",
-          "summary": "Google 宣布在 Search 的 AI Mode 中扩展 Personal Intelligence，用户可选择安全连接 Google Wallet、Drive 和 Gemini 应用，Wallet 即日起开放，Drive 和 Gemini 应用将在未来数周跟进。",
+          "id": "f1380j6hyrxn0rnz6666nu3b8",
+          "title": "MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次",
+          "summary": "MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。",
           "source": {
-            "id": "web-google-blog-models-research",
-            "name": "Google Blog：AI（RSS）"
+            "id": "mp-account-minimax-hailuo",
+            "name": "公众号：MiniMax（稀宇科技）"
           },
           "links": {
-            "aihot": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2",
-            "original": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+            "aihot": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8",
+            "original": "https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2"
+            "url": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8"
           },
-          "sourceUrl": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-          "sourceName": "Google Blog：AI（RSS）",
-          "permalink": "https://aihot.news/items/cyorgi8t8dm2fo6ee3b5a6qs2"
-        },
-        {
-          "id": "h1vnjuwxsli7ku7rpocjlr3s2",
-          "title": "Claude 推出插件，统一连接器与技能的接入方式",
-          "summary": "Claude 官方宣布将连接器和技能合并为插件，提供统一的方式为 Claude 接入工具或教授新技能。插件已在 Free、Pro、Max 和 Ultra 套餐上线，Team 和 Enterprise 即将支持，用户可在 https://claude.ai/plugins 浏览 10,000 多个插件。",
-          "source": {
-            "id": "x-account-claudeai",
-            "name": "X：Claude (@claudeai)"
-          },
-          "links": {
-            "aihot": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2",
-            "original": "https://x.com/claudeai/status/2124970294523945328"
-          },
-          "attribution": {
-            "name": "AIHOT",
-            "url": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2"
-          },
-          "sourceUrl": "https://x.com/claudeai/status/2124970294523945328",
-          "sourceName": "X：Claude (@claudeai)",
-          "permalink": "https://aihot.news/items/h1vnjuwxsli7ku7rpocjlr3s2"
+          "sourceUrl": "https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ",
+          "sourceName": "公众号：MiniMax（稀宇科技）",
+          "permalink": "https://aihot.news/items/f1380j6hyrxn0rnz6666nu3b8"
         }
       ]
     },
@@ -129,84 +129,64 @@
       "label": "行业动态",
       "items": [
         {
-          "id": "ajcxs84uezjqgsgxpdtr31o0l",
-          "title": "NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会",
-          "summary": "NVIDIA 于 11 月 23 日宣布黄仁勋即刻复任总裁、CEO 及董事会成员，董事会一致投票通过，临时 CEO Colette Kress 继续担任 CFO。复职决定参考了美国政府高层意见，董事会认为其不构成国家安全风险，此前因黄仁勋成为外国情报行动目标而启动的独立董事调查将继续进行，董事会另设国家安全与出口管制委员会并招聘首席合规官。",
+          "id": "zto0pspydy8330r0bvwqb6j5z",
+          "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+          "summary": "ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。节目围绕出口管制执法、实体清单是否附加外国直接产品规则（FDPR）、国会相关立法（AI Overwatch、MATCH、RASA）的覆盖范围与局限，以及政策与股市波动之间的互动展开分析。",
           "source": {
-            "id": "x-account-thexpin",
-            "name": "X：X.PIN (@thexpin)"
+            "id": "rss-chinatalk",
+            "name": "ChinaTalk（RSS）"
           },
           "links": {
-            "aihot": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-            "original": "https://x.com/thexpin/status/2124866686025400819"
+            "aihot": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+            "original": "https://www.chinatalk.media/p/jensen-returns"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l"
+            "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z"
           },
-          "sourceUrl": "https://x.com/thexpin/status/2124866686025400819",
-          "sourceName": "X：X.PIN (@thexpin)",
-          "permalink": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l"
+          "sourceUrl": "https://www.chinatalk.media/p/jensen-returns",
+          "sourceName": "ChinaTalk（RSS）",
+          "permalink": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z"
         },
         {
-          "id": "uop2ab4998l6dxugsgtg7w7rn",
-          "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-          "summary": "Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。",
+          "id": "ygbhvp086wl672gfxuhfgl23x",
+          "title": "Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day",
+          "summary": "Amazon 威胁情报报告称，黑客在开源 AI 渗透测试框架 Cairn 上运行的 AI 智能体，仅凭一句「获取 shell 权限」的指令，就自主发现并利用了一个开源医学影像 AI 应用中未修补的路径遍历 0-day，从映射 API 到任意写文件仅用约 11 分钟，随后写入 Python 反向 shell payload 并以 root 权限获得控制。",
           "source": {
-            "id": "rss-techcrunch-ai",
-            "name": "TechCrunch：AI（RSS）"
+            "id": "rss-arstechnica-ai",
+            "name": "Ars Technica：AI（RSS）"
           },
           "links": {
-            "aihot": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-            "original": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+            "aihot": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x",
+            "original": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn"
+            "url": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x"
           },
-          "sourceUrl": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-          "sourceName": "TechCrunch：AI（RSS）",
-          "permalink": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn"
+          "sourceUrl": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+          "sourceName": "Ars Technica：AI（RSS）",
+          "permalink": "https://aihot.news/items/ygbhvp086wl672gfxuhfgl23x"
         },
         {
-          "id": "vlxrimiuixb91iodhjh5hxmte",
-          "title": "俄勒冈州和弗吉尼亚州起诉 SpaceX 指控 Grok 生成色情深伪防护不足",
-          "summary": "俄勒冈州和弗吉尼亚州总检察长周一分别起诉 SpaceX，指控其忽视行业标准防护并虚假宣传 X 平台和 Grok AI 的安全性，两案均寻求经济赔偿。诉讼核心指向 Grok Imagine：xAI 于 2025 年 8 月为该工具推出生成色情内容的 spicy 模式，2026 年 1 月又允许 X 用户无需同意即可编辑任意图片，导致非自愿色情深伪泛滥。",
+          "id": "yz5va6l60tfkmdampmsiz0jq2",
+          "title": "ChinaTalk 分析 BIS 租赁算力新规或为美国换取约六个月算力领先",
+          "summary": "作者分析美国 BIS 于11月16日发布、11月19日生效的租赁算力临时最终规则，该规则要求向境外数据中心供应芯片需申领许可，门槛约为760块 H100 等效算力，覆盖 Hopper 和 Blackwell 级芯片，并关闭 Foundry Due-Diligence 漏洞。作者基于自建测算模型给出规则执行率与延迟月数的量化区间，并梳理柔佛数据中心和执法风险等关键变量。",
           "source": {
-            "id": "rss-the-verge-ai",
-            "name": "The Verge：AI（RSS）"
+            "id": "rss-chinatalk",
+            "name": "ChinaTalk（RSS）"
           },
           "links": {
-            "aihot": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte",
-            "original": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+            "aihot": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2",
+            "original": "https://www.chinatalk.media/p/the-remote-access-rule-will-slow"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte"
+            "url": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2"
           },
-          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-          "sourceName": "The Verge：AI（RSS）",
-          "permalink": "https://aihot.news/items/vlxrimiuixb91iodhjh5hxmte"
-        },
-        {
-          "id": "dus34samsjrld1qopq65v54uq",
-          "title": "Anthropic IPO 前三家机构如何重注押注",
-          "summary": "TechCrunch 报道 Notable Capital、GIC 和 Baillie Gifford 在 Anthropic IPO 前的重仓投资逻辑。",
-          "source": {
-            "id": "rss-techcrunch-ai",
-            "name": "TechCrunch：AI（RSS）"
-          },
-          "links": {
-            "aihot": "https://aihot.news/items/dus34samsjrld1qopq65v54uq",
-            "original": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
-          },
-          "attribution": {
-            "name": "AIHOT",
-            "url": "https://aihot.news/items/dus34samsjrld1qopq65v54uq"
-          },
-          "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-          "sourceName": "TechCrunch：AI（RSS）",
-          "permalink": "https://aihot.news/items/dus34samsjrld1qopq65v54uq"
+          "sourceUrl": "https://www.chinatalk.media/p/the-remote-access-rule-will-slow",
+          "sourceName": "ChinaTalk（RSS）",
+          "permalink": "https://aihot.news/items/yz5va6l60tfkmdampmsiz0jq2"
         }
       ]
     },
@@ -214,44 +194,64 @@
       "label": "论文研究",
       "items": [
         {
-          "id": "gj8mzwrgqlkvim6xe382a35q2",
-          "title": "Anthropic 访谈 58 家企业客户：AI 采用的价值、雇佣影响与组织重组",
-          "summary": "Anthropic 研究团队对 58 家企业客户进行 66 次面对面访谈，分析企业采用 AI 的方式、瓶颈与组织变化。研究发现多数 AI 应用通过扩大产出而非削减成本创造价值；直接裁员案例很少，但约三分之二的公司因 AI 减少招聘，九家削减外包和离岸承包商；高价值应用通常需要更深度的组织重组，如拓宽岗位职责、把员工转向 AI 无法完成的瓶颈任务，以及为非技术员工建设数据和基础设施支持。",
+          "id": "vld1kqsp7wkz3o3qo1ubc9sg9",
+          "title": "OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力",
+          "summary": "OpenAI 发布新 preprint，报告通过湿实验室验证 GPT-6 系列模型具备内在蛋白质设计能力。模型可依靠推理和代码设计新的蛋白质形状与序列，无需调用专用生物学模型来生成，详情见 openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/。",
           "source": {
-            "id": "web-anthropic-research",
-            "name": "Anthropic：Research（发表成果 · 网页）"
+            "id": "x-account-openai",
+            "name": "X：OpenAI (@OpenAI)"
           },
           "links": {
-            "aihot": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2",
-            "original": "https://www.anthropic.com/research/working-with-ai"
+            "aihot": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9",
+            "original": "https://x.com/OpenAI/status/2125334383490105601"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2"
+            "url": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9"
           },
-          "sourceUrl": "https://www.anthropic.com/research/working-with-ai",
-          "sourceName": "Anthropic：Research（发表成果 · 网页）",
-          "permalink": "https://aihot.news/items/gj8mzwrgqlkvim6xe382a35q2"
+          "sourceUrl": "https://x.com/OpenAI/status/2125334383490105601",
+          "sourceName": "X：OpenAI (@OpenAI)",
+          "permalink": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9"
         },
         {
-          "id": "pjpgapf3mbvmy98cywxhwf07n",
-          "title": "Google DeepMind 用 Gemini 4 智能体团队与 Lean 形式化验证改进量子算法",
-          "summary": "Google DeepMind 发布新论文，用多个 Gemini 4 智能体团队结合 Lean 形式化定理证明改进量子算法，生成经数学验证的高效量子电路，并在 GitHub 开源 Lean 库、问题规格和验证解法。",
+          "id": "gat7lwf755dyryyd45gvlesxz",
+          "title": "Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问",
+          "summary": "Anthropic 发布新安全评估 Siren，让 Claude 在故意削弱的沙盒中执行日常任务，并把有用资源放在沙盒外。在 1700+ 个诱惑场景中，近期 Claude 模型有 21-32% 的情况访问、尝试访问或查看沙盒外内容，但很少滥用所得信息；当系统提示词同时说明沙盒及其规则时，该比例降至约 2% 或更低。",
           "source": {
-            "id": "web-deepmind-blog",
-            "name": "Google DeepMind：Blog（RSS）"
+            "id": "x-account-anthropic",
+            "name": "X：Anthropic (@AnthropicAI)"
           },
           "links": {
-            "aihot": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n",
-            "original": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+            "aihot": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz",
+            "original": "https://x.com/AnthropicAI/status/2125341904644763678"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n"
+            "url": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz"
           },
-          "sourceUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-          "sourceName": "Google DeepMind：Blog（RSS）",
-          "permalink": "https://aihot.news/items/pjpgapf3mbvmy98cywxhwf07n"
+          "sourceUrl": "https://x.com/AnthropicAI/status/2125341904644763678",
+          "sourceName": "X：Anthropic (@AnthropicAI)",
+          "permalink": "https://aihot.news/items/gat7lwf755dyryyd45gvlesxz"
+        },
+        {
+          "id": "frmncgr2jcrvfm3t6jgabqhfh",
+          "title": "OpenClaw 联合多家机构发布真实任务基准 ShellBench，最强模型完成率约六成",
+          "summary": "OpenClaw 与 Hugging Face、Red Hat、UC Berkeley 等机构合作推出 ShellBench，基于超过 1000 万条匿名真实智能体交互构建 100 个日常任务，含 90 个 rubric 评分任务（721 项标准，其中 381 项安全标准）和 10 个代码测试任务，共 53,100 次评分运行。",
+          "source": {
+            "id": "web-openclaw-blog",
+            "name": "OpenClaw：Blog（网页）"
+          },
+          "links": {
+            "aihot": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh",
+            "original": "https://openclaw.ai/blog/shellbench"
+          },
+          "attribution": {
+            "name": "AIHOT",
+            "url": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh"
+          },
+          "sourceUrl": "https://openclaw.ai/blog/shellbench",
+          "sourceName": "OpenClaw：Blog（网页）",
+          "permalink": "https://aihot.news/items/frmncgr2jcrvfm3t6jgabqhfh"
         }
       ]
     },
@@ -259,160 +259,200 @@
       "label": "技巧与观点",
       "items": [
         {
-          "id": "qkxvs90ewfu3k430sdefndv56",
-          "title": "a16z 实测 11,307 次 Agent 购物流程，总结企业赢得 B2A 经济的五条方法",
-          "summary": "a16z 联合 The Prompting Company 测试 Grok Bot、Muse、Instinct、Dots 等智能体在 1,270 条提示词、11,307 次完整运行中的购物表现，并比对 YipitData 消费数据。",
+          "id": "lb66i6g7eq01l6hx0rr8f7k9r",
+          "title": "Ed Zitron 撰文批评 NVIDIA 董事会在政府施压下恢复黄仁勋 CEO 职务",
+          "summary": "Ed Zitron 撰文批评 NVIDIA 董事会在政府施压下未咨询高管即恢复黄仁勋 CEO 职务，认为此举旨在稳定股市，并指出 AI 行业面临的流动性问题并未因此改变。",
           "source": {
-            "id": "rss-a16z-news",
-            "name": "a16z：News（RSS）"
+            "id": "rss-ed-zitron",
+            "name": "Ed Zitron 长文 / Where’s Your Ed At（RSS）"
           },
           "links": {
-            "aihot": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56",
-            "original": "https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents"
+            "aihot": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r",
+            "original": "https://www.wheresyoured.at/defective-accelerationism/"
           },
           "attribution": {
             "name": "AIHOT",
-            "url": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56"
+            "url": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r"
           },
-          "sourceUrl": "https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents",
-          "sourceName": "a16z：News（RSS）",
-          "permalink": "https://aihot.news/items/qkxvs90ewfu3k430sdefndv56"
+          "sourceUrl": "https://www.wheresyoured.at/defective-accelerationism/",
+          "sourceName": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+          "permalink": "https://aihot.news/items/lb66i6g7eq01l6hx0rr8f7k9r"
         }
       ]
     }
   ],
   "flashes": [
     {
-      "id": "hz782dpcwhurj6584rtd13eaf",
-      "title": "卡兹克分享 Claude、GPT、Gemini 三模型协同调度方法",
-      "source": {
-        "id": "mp-account-kazike-digital-life",
-        "name": "公众号：数字生命卡兹克"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf",
-        "original": "https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA"
-      },
-      "publishedAt": "2026-11-22T23:56:00.000Z",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf"
-      },
-      "sourceUrl": "https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA",
-      "sourceName": "公众号：数字生命卡兹克",
-      "permalink": "https://aihot.news/items/hz782dpcwhurj6584rtd13eaf"
-    },
-    {
-      "id": "zur9ndkrkvtk4lqiix14q468s",
-      "title": "Figma agent 正式开放至 FigJam 和 Figma Slides",
-      "source": {
-        "id": "web-figma-ai-blog",
-        "name": "Figma AI / Agent / Make"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s",
-        "original": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/"
-      },
-      "publishedAt": "2026-11-23T20:54:00.000Z",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s"
-      },
-      "sourceUrl": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/",
-      "sourceName": "Figma AI / Agent / Make",
-      "permalink": "https://aihot.news/items/zur9ndkrkvtk4lqiix14q468s"
-    },
-    {
-      "id": "tl8v9gto8rd3e4x40xfbljj13",
-      "title": "AISI 红队论文：攻击策略选择会让 LLM 监视器评估结果失真",
-      "source": {
-        "id": "web-aisi-blog",
-        "name": "英国 AI Security Institute：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/tl8v9gto8rd3e4x40xfbljj13",
-        "original": "https://www.aisi.gov.uk/blog/attack-policy-selection-can-make-monitor-evaluations-misleading"
-      },
-      "publishedAt": "2026-11-22T23:00:00.000Z",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/tl8v9gto8rd3e4x40xfbljj13"
-      },
-      "sourceUrl": "https://www.aisi.gov.uk/blog/attack-policy-selection-can-make-monitor-evaluations-misleading",
-      "sourceName": "英国 AI Security Institute：Blog（网页）",
-      "permalink": "https://aihot.news/items/tl8v9gto8rd3e4x40xfbljj13"
-    },
-    {
-      "id": "gp8e9a8oitha0rbip8pzntuff",
-      "title": "Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例",
-      "source": {
-        "id": "rss-wiz-research",
-        "name": "Wiz：Research（安全研究）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff",
-        "original": "https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks"
-      },
-      "publishedAt": "2026-11-23T14:46:19.000Z",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff"
-      },
-      "sourceUrl": "https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks",
-      "sourceName": "Wiz：Research（安全研究）",
-      "permalink": "https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff"
-    }
-  ],
-  "highlights": [
-    {
-      "id": "d4hhqnlmrclsx7d6idtvq95wz",
-      "title": "智谱发布GLM-5.4：首个Loop Transformer架构旗舰模型开启泛Coding",
-      "summary": "智谱发布旗舰模型GLM-5.4，为第一代采用Loop Transformer架构的模型，让28层共享权重循环执行两轮，在参数量不变下获得更深推理，智能水平达到2-3T级模型效果，并开启泛Coding能力。",
-      "source": {
-        "id": "mp-account-zhipu",
-        "name": "公众号：智谱（GLM）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-        "original": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ"
-      },
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz"
-      }
-    },
-    {
-      "id": "uop2ab4998l6dxugsgtg7w7rn",
-      "title": "Trump 力挺黄仁勋回归 Nvidia，称美国政府无其不当行为的证据",
-      "summary": "Trump 在 Truth Social 上表态支持 Nvidia 董事会复职黄仁勋为 CEO 兼总裁，称美国政府没有理由认为其回归构成国家安全风险。他称司法部长 Todd Blanche 已确认政府没有黄仁勋违法行为的证据，但 Blanche 本人尚未正式声明。",
+      "id": "jurm0kx9gczvzp4o14g0o35xo",
+      "title": "Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元",
       "source": {
         "id": "rss-techcrunch-ai",
         "name": "TechCrunch：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn",
-        "original": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+        "aihot": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo",
+        "original": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+      },
+      "publishedAt": "2026-11-24T18:30:42.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo"
+      },
+      "sourceUrl": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "sourceName": "TechCrunch：AI（RSS）",
+      "permalink": "https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo"
+    },
+    {
+      "id": "nm8mi41auemid3iivue4tel3d",
+      "title": "Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通",
+      "source": {
+        "id": "x-account-philipp-schmid",
+        "name": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d",
+        "original": "https://x.com/_philschmid/status/2125296446459056156"
+      },
+      "publishedAt": "2026-11-24T18:32:13.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d"
+      },
+      "sourceUrl": "https://x.com/_philschmid/status/2125296446459056156",
+      "sourceName": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "permalink": "https://aihot.news/items/nm8mi41auemid3iivue4tel3d"
+    },
+    {
+      "id": "eb9lfibaf8fpouyw0x3vh63st",
+      "title": "GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜",
+      "source": {
+        "id": "x-account-gdb",
+        "name": "X：Greg Brockman (@gdb)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st",
+        "original": "https://x.com/gdb/status/2125305172721320165"
+      },
+      "publishedAt": "2026-11-24T19:06:54.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st"
+      },
+      "sourceUrl": "https://x.com/gdb/status/2125305172721320165",
+      "sourceName": "X：Greg Brockman (@gdb)",
+      "permalink": "https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st"
+    },
+    {
+      "id": "jb7ohptrc5ctyx9maoimz2hn0",
+      "title": "卡兹克分享两个优化用户体验和产品动效的 Prompt",
+      "source": {
+        "id": "x-account-khazix0918",
+        "name": "X：卡兹克 (@Khazix0918)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0",
+        "original": "https://x.com/Khazix0918/status/2125110224143171669"
+      },
+      "publishedAt": "2026-11-24T06:12:14.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0"
+      },
+      "sourceUrl": "https://x.com/Khazix0918/status/2125110224143171669",
+      "sourceName": "X：卡兹克 (@Khazix0918)",
+      "permalink": "https://aihot.news/items/jb7ohptrc5ctyx9maoimz2hn0"
+    },
+    {
+      "id": "jmwvt06m28bn5v5mek14llnlx",
+      "title": "蚂蚁 inclusionAI 发布开源权重多模态模型 Ling-3.2-air",
+      "source": {
+        "id": "json-inclusion-ai-hf",
+        "name": "蚂蚁 inclusionAI：HuggingFace 新模型"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/jmwvt06m28bn5v5mek14llnlx",
+        "original": "https://huggingface.co/inclusionAI/Ling-3.2-air"
+      },
+      "publishedAt": "2026-11-23T03:55:12.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/jmwvt06m28bn5v5mek14llnlx"
+      },
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+      "sourceName": "蚂蚁 inclusionAI：HuggingFace 新模型",
+      "permalink": "https://aihot.news/items/jmwvt06m28bn5v5mek14llnlx"
+    },
+    {
+      "id": "uz9j9ukn8j60mwkeeaibmmctw",
+      "title": "Goodfire 用可解释性改进 BioReason-Pro 2 生物推理模型并用湿实验验证假设",
+      "source": {
+        "id": "web-goodfire-research",
+        "name": "Goodfire Research（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/uz9j9ukn8j60mwkeeaibmmctw",
+        "original": "https://www.goodfire.com/research/building-stronger-biological-reasoning-models"
+      },
+      "publishedAt": "2026-11-23T16:00:00.000Z",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/uz9j9ukn8j60mwkeeaibmmctw"
+      },
+      "sourceUrl": "https://www.goodfire.com/research/building-stronger-biological-reasoning-models",
+      "sourceName": "Goodfire Research（网页）",
+      "permalink": "https://aihot.news/items/uz9j9ukn8j60mwkeeaibmmctw"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "vld1kqsp7wkz3o3qo1ubc9sg9",
+      "title": "OpenAI 发布 preprint：湿实验验证 GPT-6 系列模型具备内在蛋白质设计能力",
+      "summary": "OpenAI 发布新 preprint，报告通过湿实验室验证 GPT-6 系列模型具备内在蛋白质设计能力。模型可依靠推理和代码设计新的蛋白质形状与序列，无需调用专用生物学模型来生成，详情见 openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/。",
+      "source": {
+        "id": "x-account-openai",
+        "name": "X：OpenAI (@OpenAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9",
+        "original": "https://x.com/OpenAI/status/2125334383490105601"
       },
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/uop2ab4998l6dxugsgtg7w7rn"
+        "url": "https://aihot.news/items/vld1kqsp7wkz3o3qo1ubc9sg9"
       }
     },
     {
-      "id": "t7jlbaldqf2zcliuva1sofoks",
-      "title": "Anthropic 推出 Claude Ship 测试版，自动完成 PR 审查、修复与审批",
-      "summary": "Anthropic 发布 Claude Ship 测试版，由 Code Review（已正式可用）、PR Steward 和 Claude Approvals 两个 beta 智能体组成，可审查 PR、推送修复并按团队写进仓库的策略文件决定能否合并。",
+      "id": "zto0pspydy8330r0bvwqb6j5z",
+      "title": "ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单",
+      "summary": "ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。节目围绕出口管制执法、实体清单是否附加外国直接产品规则（FDPR）、国会相关立法（AI Overwatch、MATCH、RASA）的覆盖范围与局限，以及政策与股市波动之间的互动展开分析。",
+      "source": {
+        "id": "rss-chinatalk",
+        "name": "ChinaTalk（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z",
+        "original": "https://www.chinatalk.media/p/jensen-returns"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z"
+      }
+    },
+    {
+      "id": "kjd2qp2iuk9zxdfqj5qk2a8f9",
+      "title": "Anthropic 为 Claude 推出 Skills over MCP 公测及 Tasks、Elicitation 等更新",
+      "summary": "Anthropic 宣布 Skills over MCP 在 Claude 与 Claude Code 进入公开测试，MCP 服务器可在工具之外发布技能，按需加载以降低上下文占用。",
       "source": {
         "id": "web-claude-blog",
         "name": "Claude：Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
-        "original": "https://claude.com/blog/introducing-claude-ship"
+        "aihot": "https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9",
+        "original": "https://claude.com/blog/skills-over-mcp-tasks-and-more"
       },
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks"
+        "url": "https://aihot.news/items/kjd2qp2iuk9zxdfqj5qk2a8f9"
       }
     }
   ]
