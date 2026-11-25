@@ -5,8 +5,112 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 02:18:54 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/374438</link>
+      <description>豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆包 App 上线。（来源：IT 之家） 特斯拉 SpaceX 合并最新进展曝光 据报道，马斯克旗下特斯拉与 SpaceX 的潜在合并交易迎来新进展，双方已经确定五名董事，分别负责指导各自特别委员会推进合并谈判。</description>
+      <pubDate>Wed, 25 Nov 2026 08:44:18 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374438</guid>
+      <source url="http://www.geekpark.net/news/374438">极客公园</source>
+    </item>
+    <item>
+      <title>派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等</title>
+      <link>https://sspai.com/post/119527</link>
+      <description>豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。查看全文</description>
+      <pubDate>Wed, 25 Nov 2026 08:22:35 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/119527</guid>
+      <source url="https://sspai.com/post/119527">少数派</source>
+    </item>
+    <item>
+      <title>早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台</title>
+      <link>https://www.ifanr.com/1691400?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <description>· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S · 神舟二十四号任务将开展一年期在轨驻留试验 · PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 25 Nov 2026 00:08:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1691400?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+      <source url="https://www.ifanr.com/1691400?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
+    </item>
+    <item>
+      <title>Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10</title>
+      <link>https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw</link>
+      <description>Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。</description>
+      <pubDate>Tue, 24 Nov 2026 23:56:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw</guid>
+      <source url="https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问</title>
+      <link>https://x.com/AnthropicAI/status/2125341904644763678</link>
+      <description>Anthropic 发布新安全评估 Siren，让 Claude 在故意削弱的沙盒中执行日常任务，并把有用资源放在沙盒外。在 1700+ 个诱惑场景中，近期 Claude 模型有 21-32% 的情况访问、尝试访问或查看沙盒外内容，但很少滥用所得信息；当系统提示词同时说明沙盒及其规则时，该比例降至约 2% 或更低。</description>
+      <pubDate>Tue, 24 Nov 2026 21:32:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AnthropicAI/status/2125341904644763678</guid>
+      <source url="https://x.com/AnthropicAI/status/2125341904644763678">X：Anthropic (@AnthropicAI)</source>
+    </item>
+    <item>
+      <title>使用编码插件的 SVG &amp; 3D 设计实验</title>
+      <link>https://www.youtube.com/watch?v=1u0hTd86_HU</link>
+      <description>Craig Dennis 从未用手画过 SVG 或使用 Blender 。 他用 Codex 的 SVG &amp; 3D 设计插件, 演示如何将参考图像变成可编辑的图形或3D 模型, 然后要求用普通语言进行修改 。 看 SVG 代码的微小修改如何使字符的眼睛跟随您的咒语</description>
+      <pubDate>Tue, 24 Nov 2026 21:32:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=1u0hTd86_HU</guid>
+      <source url="https://www.youtube.com/watch?v=1u0hTd86_HU">OpenAI</source>
+    </item>
+    <item>
+      <title>如何搜寻外行星</title>
+      <link>https://www.youtube.com/watch?v=p8lvQQebvpg</link>
+      <description>两位业余天文学家,凯文·邦德和伊森·伯德,独立地发现了可以指向远方恒星周围行星的信号,他们知道你不需要自己的望远镜来进行这种狩猎. 凯文使用Codex,伊森使用Astra来搜索公用望远镜数据,以寻找恒星中微小的,反复出现的滑动.</description>
+      <pubDate>Tue, 24 Nov 2026 20:00:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=p8lvQQebvpg</guid>
+      <source url="https://www.youtube.com/watch?v=p8lvQQebvpg">OpenAI</source>
+    </item>
+    <item>
+      <title>GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜</title>
+      <link>https://x.com/gdb/status/2125305172721320165</link>
+      <description>研究者引述案例称，GPT-6.2 Astra 仅用 22 分钟和公开资料，将耶鲁 Beinecke 图书馆藏的 1808 年蒙特利尔至苏必利尔湖匿名素描画作者鉴定为 vicomte de Chabot，并找到其微缩胶片日记供验证。日记笔迹与素描题注吻合，1808 年 6 月 18 日日记明确写下“我画了一幅素描”；作者认为这标志着模型的研究发现能力正从数学等可验证领域扩展到历史等非确定性领域。</description>
+      <pubDate>Tue, 24 Nov 2026 19:06:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gdb/status/2125305172721320165</guid>
+      <source url="https://x.com/gdb/status/2125305172721320165">X：Greg Brockman (@gdb)</source>
+    </item>
+    <item>
+      <title>Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通</title>
+      <link>https://x.com/_philschmid/status/2125296446459056156</link>
+      <description>Philipp Schmid 宣布 Google Workspace MCP servers 与 gwscli 正式 GA，新增 Personal 模式一键开通，无需 Enterprise 计划或绑卡。共 8 个 server 覆盖 Gmail、Drive、Docs、Sheets、Slides、Calendar、Chat、Tasks，免费档为每产品每天 5,000 次请求，发送和分享内置 HITL 确认。他提到仍需经过 Google Cloud，但比旧的 OAuth 同意屏和应用审核流程好得多，欢迎试用反馈。</description>
+      <pubDate>Tue, 24 Nov 2026 18:32:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_philschmid/status/2125296446459056156</guid>
+      <source url="https://x.com/_philschmid/status/2125296446459056156">X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)</source>
+    </item>
+    <item>
+      <title>Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元</title>
+      <link>https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</link>
+      <description>Anthropic 股价跌破 83 美元的 IPO 发行价，周二午盘最低跌至 76 美元，较周一收盘下跌近 12%，距其在 Nasdaq 以 111.33 美元上市不到一周。风投界视其为公开市场对 AI 行业估值的晴雨表，若持续走弱可能压低 AI 初创公司私募估值和其他公司 IPO 前景。同日 Nvidia 也跌超 7%。</description>
+      <pubDate>Tue, 24 Nov 2026 18:30:42 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</guid>
+      <source url="https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/">TechCrunch：AI（RSS）</source>
+    </item>
+    <item>
+      <title>David Fincher在最近一部电影中 被怀疑是使用人工智能</title>
+      <link>https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive</link>
+      <description>虽然大卫·芬奇的粉丝们一直热切期待克里夫·布斯的"进一步错觉",但早期在好莱坞主演布拉德·皮特的"Once Apon An Time"续集的放映引起了关于电影中是否使用基因人工智能的质疑,人们声称这部电影是奇幻般的.</description>
+      <pubDate>Tue, 24 Nov 2026 13:15:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive</guid>
+      <source url="https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive">The Verge AI</source>
+    </item>
+    <item>
+      <title>Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险</title>
+      <link>https://www.wheresyoured.at/defective-accelerationism/</link>
+      <description>Ed Zitron 撰文分析 NVIDIA 董事会恢复黄仁勋 CEO 职位一事，认为此举是应对外部压力的符号性操作，并未解决 AI 行业面临的循环融资、流动性紧张及 OpenAI 亏损等根本问题。文章梳理了 NVIDIA 对 AI 行业的巨额资金支持、Anthropic 上市后表现及 OpenAI 的财务压力等证据，论证行业流动性风险并未消除。</description>
+      <pubDate>Tue, 24 Nov 2026 18:08:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wheresyoured.at/defective-accelerationism/</guid>
+      <source url="https://www.wheresyoured.at/defective-accelerationism/">Ed Zitron 长文 / Where’s Your Ed At（RSS）</source>
+    </item>
+    <item>
+      <title>大脑帮助我们建立了人工智能。现在人工智能正在解释大脑。</title>
+      <link>https://www.youtube.com/watch?v=K8rdrWQRd20</link>
+      <description>人类大脑仍然是科学中最大的未解之谜之一。我们拥有大约860亿个神经元以某种方式产生智能,然而大脑基本上仍然是黑匣子。 在人工智能早期,研究人员向大脑寻找如何构建Smar的线索。</description>
+      <pubDate>Tue, 24 Nov 2026 17:51:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=K8rdrWQRd20</guid>
+      <source url="https://www.youtube.com/watch?v=K8rdrWQRd20">DeepMind</source>
+    </item>
     <item>
       <title>潮汐下个月开始禁止人工智能生成的音乐</title>
       <link>https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban</link>
@@ -32,22 +136,6 @@
       <source url="https://www.youtube.com/watch?v=4MFBNFyBmQg">OpenAI</source>
     </item>
     <item>
-      <title>和ChatGPT共进晚餐</title>
-      <link>https://www.youtube.com/watch?v=Faoam45LT-Q</link>
-      <description>在公园多一点时间?连接您的日历,请 ChatGPT 为您的会议找到一个以后的时间 。</description>
-      <pubDate>Tue, 24 Nov 2026 17:13:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Faoam45LT-Q</guid>
-      <source url="https://www.youtube.com/watch?v=Faoam45LT-Q">OpenAI</source>
-    </item>
-    <item>
-      <title>与 ChatGPT 一起移动您的一天 。</title>
-      <link>https://www.youtube.com/watch?v=DLV3XRdJAog</link>
-      <description>计划改变?由于您的日历被连接, ChatGPT 可以检查您的日程安排, 找到另一个时间, 并起草一个说明让人们知道。</description>
-      <pubDate>Tue, 24 Nov 2026 17:13:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=DLV3XRdJAog</guid>
-      <source url="https://www.youtube.com/watch?v=DLV3XRdJAog">OpenAI</source>
-    </item>
-    <item>
       <title>Jensen Huang deepfakes 是个热门的新人工智能</title>
       <link>https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</link>
       <description>Jensen Huang正在Ibiza为他狂欢,在一段对Instagram有近600万次观看的视频中,Nvidia的前首席执行官正在一个拥挤的俱乐部跳舞,手持香槟玻璃,仍然穿着他的签名黑色皮夹克。突然,从他身后,Alice Huang——中国科技执行官。</description>
@@ -64,108 +152,20 @@
       <source url="https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features">The Verge AI</source>
     </item>
     <item>
+      <title>OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力</title>
+      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</link>
+      <description>OpenAI 发布预印本，称 GPT-6 系列模型仅凭推理和通用编码工具即可设计新蛋白的结构与序列，无需调用专用生物学模型。与 Onava 的实验室测试中，基于 GPT-6.2 设计的 minibinder 在 5 个靶点上均出现结合证据，322 个 minibinder 中 35 个（10.9%）结合阳性；重设计的抗体片段 66% 保留结合。</description>
+      <pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</guid>
+      <source url="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
+    </item>
+    <item>
       <title>Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day</title>
       <link>https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/</link>
       <description>Amazon 威胁情报报告称，黑客在开源 AI 渗透测试框架 Cairn 上运行的 AI 智能体，仅凭一句「获取 shell 权限」的指令，就自主发现并利用了一个开源医学影像 AI 应用中未修补的路径遍历 0-day，从映射 API 到任意写文件仅用约 11 分钟，随后写入 Python 反向 shell payload 并以 root 权限获得控制。</description>
       <pubDate>Tue, 24 Nov 2026 12:30:05 +0000</pubDate>
       <guid isPermaLink="true">https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/</guid>
       <source url="https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/">Ars Technica：AI（RSS）</source>
-    </item>
-    <item>
-      <title>实测小豆：主动办事的背后，AI 正在走向每一个人</title>
-      <link>https://www.ifanr.com/1691355?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>Personal Agent 的下半场，拼的是主动办事#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 24 Nov 2026 11:04:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1691355?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1691355?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>ChinaTalk 分析 BIS 租赁算力新规可为美国换取约六个月算力领先</title>
-      <link>https://www.chinatalk.media/p/the-remote-access-rule-will-slow</link>
-      <description>作者分析美国 BIS 于 11 月 16 日发布、11 月 19 日生效的租赁算力临时最终规则：向海外数据中心供应芯片、且供中国公司使用超过约 760 张 H100 等值算力的，需申领许可；规则覆盖 Hopper 与 Blackwell 级芯片，并涉及印度尼西亚、马来西亚、新加坡、泰国和巴西的先进 AI 芯片出货，同时关闭 FDD 自认证漏洞。作者基于自建算力模型估算，若规则有效执行，可为中国前沿算力进展带来约六个月的延迟，并指出执法力度与政治意愿是成效关键。</description>
-      <pubDate>Tue, 24 Nov 2026 10:58:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.chinatalk.media/p/the-remote-access-rule-will-slow</guid>
-      <source url="https://www.chinatalk.media/p/the-remote-access-rule-will-slow">ChinaTalk（RSS）</source>
-    </item>
-    <item>
-      <title>在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任</title>
-      <link>https://www.ifanr.com/1691270?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>AI 带来的技术平权，甚至把作弊的门槛也一并打了下来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 24 Nov 2026 09:09:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1691270?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1691270?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>OpenAI 与 Cisco 发布开源 Linux 运行时 Shirudo，让 Agent 无停机防御系统</title>
-      <link>https://x.com/thsottiaux/status/2125141302501417232</link>
-      <description>OpenAI 宣布与 Cisco 合作推出开源 Linux 运行时 Shirudo，让 Agent 编写动态 eBPF 控制来抵御漏洞利用，同时保持服务不中断，为防御方争取测试和部署补丁的时间。作者称这是迈向自适应自防御基础设施的第一步，目标是让防御者与 AI Agent 协作定位受影响系统、测试并共享 shield、在不干扰工作负载的情况下部署。</description>
-      <pubDate>Tue, 24 Nov 2026 08:15:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thsottiaux/status/2125141302501417232</guid>
-      <source url="https://x.com/thsottiaux/status/2125141302501417232">X：Tibo (@thsottiaux)</source>
-    </item>
-    <item>
-      <title>华为星芒O1 Pro，如何把手机 AI 再往前努一小步</title>
-      <link>http://www.geekpark.net/news/374417</link>
-      <description>随着 iOS 27.2 的更新，中国大陆用户日盼夜盼的苹果智能，终于露出了一小手，但各种原因吧，仍然是犹抱琵琶半遮面。 如果对消费电子看得比较多的同学，可能会感到现在手机 AI 比较割裂。既有大厂在一点点摸索，上了 AI，但是散落在键盘、录音、文字记录、笔记等等各个功能之中；然后也有来自字节、阶跃这样的挑战者，走的是 Rabbit R1 的路子，想用一个 AI 助手，一杆子捅到底，然后被互联网大厂南墙撞得头破血流。 星芒 OSTA O1 Pro 采用了阔直板形式｜图片来源：极客公园 历史肯定是要发展的，但道路无疑注定是曲折的，先进的技术，未必总是一开始就能势如破竹。 极客公园最近试用了华为刚刚</description>
-      <pubDate>Tue, 24 Nov 2026 15:47:16 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374417</guid>
-      <source url="http://www.geekpark.net/news/374417">极客公园</source>
-    </item>
-    <item>
-      <title>文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议</title>
-      <link>https://www.qbitai.com/2026/11/512354.html</link>
-      <description></description>
-      <pubDate>Tue, 24 Nov 2026 06:22:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/512354.html</guid>
-      <source url="https://www.qbitai.com/2026/11/512354.html">量子位</source>
-    </item>
-    <item>
-      <title>卡兹克分享两个优化用户体验和产品动效的 Prompt</title>
-      <link>https://x.com/Khazix0918/status/2125110224143171669</link>
-      <description>数字生命卡兹克分享自己做产品时用的两个 Prompt，一个按用户体验至上的原则审查项目交互并直接修复，一个把项目动效做到细腻丝滑水准。要点包括让 Gemini 当方案顾问、按状态变化逐项审查动效，完成后让 GPT 审查再合并上线。</description>
-      <pubDate>Tue, 24 Nov 2026 06:12:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Khazix0918/status/2125110224143171669</guid>
-      <source url="https://x.com/Khazix0918/status/2125110224143171669">X：卡兹克 (@Khazix0918)</source>
-    </item>
-    <item>
-      <title>「试用期」已到，苹果开始给 AI 收费了 | AG&amp;I</title>
-      <link>https://www.ifanr.com/1691186?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>两年之期已到#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 24 Nov 2026 05:55:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1691186?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1691186?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>极客公园创新大会 2027 全议程公布！</title>
-      <link>http://www.geekpark.net/news/374395</link>
-      <description>17 年， IF，永远是创新者的主场。 这一年，AI 的能力还在不断突破，工作、创作、商业，一件件被改写。 你笃定了多年的经验，正在被重新定价；你以为早已看懂的赛道，换个角度，结论可能完全不同。 这是一场价值的重估，也是今年的主题「Revaluation 价值，另有答案」想要回答的事。 可是重估之后，新的坐标在哪里？它又指向何方？ 这从来不是一个人、一个角度能回答的问题。 所以我们决定，请最关键的人，回答最关键的问题。 他们是在技术、产品、组织里一路向前的创业者，是在没有答案的地方，先走出了一步的人。 他们会把自己在价值重估中看到的新坐标、新指向，毫无保留地带到 IF 的现场。 哪些能力还值钱</description>
-      <pubDate>Tue, 24 Nov 2026 12:37:47 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374395</guid>
-      <source url="http://www.geekpark.net/news/374395">极客公园</source>
-    </item>
-    <item>
-      <title>MiniMax 发布 H3 Family 系列模型，H3 开源百日衍生模型达 1472 个、下载量超 1.48 亿次</title>
-      <link>https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ</link>
-      <description>MiniMax 推出 H3 Family，包含 H3、H3-Highspeed、H3-Lite、H3-Image、H3-Image Highspeed 等旗舰模型及 fal、Suno、HeyGen、Pika 等伙伴的多个扩展模型。</description>
-      <pubDate>Tue, 24 Nov 2026 02:11:36 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ</guid>
-      <source url="https://mp.weixin.qq.com/s/Maoz76fZdGNaB7tlIVxWWQ">公众号：MiniMax（稀宇科技）</source>
-    </item>
-    <item>
-      <title>刚刚，Claude 黎曼猜想证明的主导者回应一切</title>
-      <link>https://www.ifanr.com/1691152?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>这玩笑并不好笑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Tue, 24 Nov 2026 02:10:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1691152?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1691152?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单</title>
-      <link>https://www.chinatalk.media/p/jensen-returns</link>
-      <description>ChinaTalk 主持人 Jordan Schneider 邀请 Chris McGuire 与 Peter Harrell 紧急讨论 Nvidia 董事会在美国政府表态后一致恢复黄仁勋职务，以及美国商务部同日将 Megaspeed 列入实体清单。节目围绕出口管制执法、实体清单是否附加外国直接产品规则（FDPR）、国会相关立法（AI Overwatch、MATCH、RASA）的覆盖范围与局限，以及政策与股市波动之间的互动展开分析。</description>
-      <pubDate>Tue, 24 Nov 2026 01:41:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.chinatalk.media/p/jensen-returns</guid>
-      <source url="https://www.chinatalk.media/p/jensen-returns">ChinaTalk（RSS）</source>
     </item>
   </channel>
 </rss>
