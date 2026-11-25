@@ -5,8 +5,152 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 02:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:39:32 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude人工智能的"最伟大的数学突破"有一个问题.</title>
+      <link>https://www.youtube.com/watch?v=hwWlEuI359w</link>
+      <description>https://nasqret.github.io/riemann-rev/guide/prev-guide.pdf https://alpo.ge/remark.pdf 压缩和建筑在公众场合:https://x.com/altryne/status/2124585496013926707 https://x.com.</description>
+      <pubDate>Wed, 25 Nov 2026 09:54:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=hwWlEuI359w</guid>
+      <source url="https://www.youtube.com/watch?v=hwWlEuI359w">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>Plaud、影石、小红书、Looki......我们发起了一场 AI 硬件圈的年度聚会</title>
+      <link>http://www.geekpark.net/news/374487</link>
+      <description>在模型飞速演进的 2026 年，硬件世界反而开始告别「爽文叙事」。 前两年聊 AI 硬件，行业里经常讨论做出一个取代智能手机的「下一代超级入口」的终局命题。听着很过瘾，但真干起来才发现，做硬件这事儿，哪有那么多一步登天。 今年，气氛明显不一样了。 创业者们扎进一个个具体的生活场景里，一批新形态的产品，正在一些新场景里逐渐成为共识。 所以，今年跑得最快的几个方向，都没有「下一代入口」那么性感的叙事，但又都挺有意思： 健康可穿戴 AI 加入后，原本冰冷的身体信号，变成了普通消费者随时能看懂的身体状态、训练指导和睡眠建议。可穿戴，正在从记录仪变成随身教练。 录音卡 录音也正在从单纯的「存储」，向可以</description>
+      <pubDate>Wed, 25 Nov 2026 17:33:01 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374487</guid>
+      <source url="http://www.geekpark.net/news/374487">极客公园</source>
+    </item>
+    <item>
+      <title>A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆</title>
+      <link>https://www.qbitai.com/2026/11/512515.html</link>
+      <description>OpenAI这下要有俩Tibo了</description>
+      <pubDate>Wed, 25 Nov 2026 07:46:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/512515.html</guid>
+      <source url="https://www.qbitai.com/2026/11/512515.html">量子位</source>
+    </item>
+    <item>
+      <title>Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法</title>
+      <link>https://x.com/addyosmani/status/2125492213903978917</link>
+      <description>Anthropic Claude Code 团队刚推出 Claude Ship，包含三个智能体：Code Review（已全面开放）、PR Steward 和 Claude Approvals（beta），可审查 PR、处理失败 CI、合并冲突和审查意见，并按仓库策略文件批准常规改动。</description>
+      <pubDate>Wed, 25 Nov 2026 07:30:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/addyosmani/status/2125492213903978917</guid>
+      <source url="https://x.com/addyosmani/status/2125492213903978917">X：Addy Osmani (@addyosmani)</source>
+    </item>
+    <item>
+      <title>App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你</title>
+      <link>https://sspai.com/post/119310</link>
+      <description>Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。查看全文</description>
+      <pubDate>Wed, 25 Nov 2026 14:59:16 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/119310</guid>
+      <source url="https://sspai.com/post/119310">少数派</source>
+    </item>
+    <item>
+      <title>从手腕到雪鞋，运动可穿戴探索下一个可能 | 对话 Heygo</title>
+      <link>http://www.geekpark.net/news/374470</link>
+      <description>随身可穿戴，是智能硬件领域里一个非常清晰且明确的产品方向。 背后的逻辑，是把硬件「传感化」，用传感器在物理世界里拿到过去模型很难获得的上下文数据，再经过 AI 处理，最终兑现成高价值的个人服务。 落在具体产品上，目前已经可以看到两个「超级共识」的形态： 一类是以语音采集为抓手的个人效率工具，代表公司 Plaud 目前估值已经突破百亿；另一类是个人健康监测设备，这个赛道里既有超级巨头苹果旗下的 Apple&amp;nbsp;Watch，也已经出现了 WHOOP、Oura 这样的新锐独角兽企业。 所以，对新晋入场的创业者们而言，要想在激烈竞争的共识里找到机会，大概率需要找到一个新的「非共识」切口：要么是新</description>
+      <pubDate>Wed, 25 Nov 2026 14:45:34 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374470</guid>
+      <source url="http://www.geekpark.net/news/374470">极客公园</source>
+    </item>
+    <item>
+      <title>MIT 与 Microsoft 论文：GitHub Copilot 使初级软件工程师招聘下降约 40%</title>
+      <link>https://x.com/rohanpaul_ai/status/2125461932111229203</link>
+      <description>MIT 和 Microsoft 的新论文《AI-Assisted Programming and Labor Demand》利用 5,414 家跨国公司（覆盖 38% 美国程序员）的 GitHub 合同审查时点构造自然实验，估计 Copilot 采用对劳动力需求的影响。</description>
+      <pubDate>Wed, 25 Nov 2026 05:29:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2125461932111229203</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2125461932111229203">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2</title>
+      <link>https://www.ifanr.com/1691445?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign</link>
+      <description>AI 视频「烧钱」终结者#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Wed, 25 Nov 2026 05:21:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1691445?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign</guid>
+      <source url="https://www.ifanr.com/1691445?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign">爱范儿</source>
+    </item>
+    <item>
+      <title>荣耀眼里的 AI 手机：前沿模型可以进来，但入口不能拿走</title>
+      <link>http://www.geekpark.net/news/374462</link>
+      <description>作者｜张勇毅 编辑｜郑玄 &amp;nbsp; 11 月 23 日下午，荣耀在武汉发布了荣耀 700 系列，包括 700S、700 和 700 Pro 三款机型，补贴后 2899 元起，11 月 27 日开售。发布会上，全系 2 亿像素主摄、9000mAh 电池和背面那块 1.72 英寸小屏占了不少篇幅。 AI 手机助手 YOYO 豆包，这一代在荣耀 700 上有了专属的背屏显示载体｜图片来源：极客公园 但真正让手机圈竖起耳朵的，是荣耀官方通稿里的一个新称呼。荣耀手机上的 AI 助手一直叫 YOYO，到了荣耀 700 系列，它的正式名称变成了「AI 手机助手 YOYO 豆包」。 此前市面上搭载豆包手机</description>
+      <pubDate>Wed, 25 Nov 2026 13:02:43 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374462</guid>
+      <source url="http://www.geekpark.net/news/374462">极客公园</source>
+    </item>
+    <item>
+      <title>大语言中的比斯对癌症治疗模型反应的验证 问:一个因子跨科研究</title>
+      <link>https://arxiv.org/abs/2611.31251</link>
+      <description>大型语言模型(LLM)聊天机越来越多地被寻求癌症信息的患者所使用,但是当用户对治疗提出证据-异化的信念时,其安全性仍然没有被定性。 我们假设LLMs会表现出验证偏差。</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.31251</guid>
+      <source url="https://arxiv.org/abs/2611.31251">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>DAGGER: 基因人工智能流动的无部署质量估计</title>
+      <link>https://arxiv.org/abs/2611.31252</link>
+      <description>估计基因人工智能工作流程的质量具有挑战性,因为这些工作流程包含多个阶段,而且错误可以横跨这些阶段,使端到端的性能不仅取决于单个模型的准确性,还取决于其如何实现.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.31252</guid>
+      <source url="https://arxiv.org/abs/2611.31252">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>图像生成中对人类价值的证明</title>
+      <link>https://arxiv.org/abs/2611.31253</link>
+      <description>文字到图像(T2I)模型越来越多地被嵌入到日常视觉文化中,然而对于它们如何将抽象的人类价值转化为视觉场景却所知甚少。 我们通过引入一个基于施瓦茨的bas理论的框架来解决这一差距。</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.31253</guid>
+      <source url="https://arxiv.org/abs/2611.31253">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>您未设定的日期: 作为 LLM 评估中隐藏变量的系统预览日期</title>
+      <link>https://arxiv.org/abs/2611.31254</link>
+      <description>许多指令调试模型的系统提示带一个日期,通常是今天的日期,自动填充,用于对话请求和代理请求,因此一个不变的评价可以每天发出不同的提示。在本文中,我们探索如何使用 mu 。</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.31254</guid>
+      <source url="https://arxiv.org/abs/2611.31254">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>INCLUDE-2:在多种语言LLM评价中消除知识差距</title>
+      <link>https://arxiv.org/abs/2611.31255</link>
+      <description>目前的多语种基准仅涵盖现代预训中代表的一小部分语言,而且常常将语言熟练程度与回答基于特定区域和社区的问题的能力混为一谈。</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.31255</guid>
+      <source url="https://arxiv.org/abs/2611.31255">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电</title>
+      <link>https://mp.weixin.qq.com/s/jZumD5cprhI7bgmOI7mUEw</link>
+      <description>千问APP宣布千问Go打电话服务免费开放，用户告知打给谁、要办什么事并经授权后，AI可代为拨打电话、沟通需求。文中示例包括定时提醒朋友带饮料、定时来电叫醒起床、代订包间或询问快递等场景，并邀请用户在评论区分享想安排的任务。</description>
+      <pubDate>Wed, 25 Nov 2026 04:32:44 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/jZumD5cprhI7bgmOI7mUEw</guid>
+      <source url="https://mp.weixin.qq.com/s/jZumD5cprhI7bgmOI7mUEw">公众号：千问APP（阿里）</source>
+    </item>
+    <item>
+      <title>Anthropic 上市不到一周跌破 83 美元发行价</title>
+      <link>https://www.ithome.com/1/031/983.htm</link>
+      <description>Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收报 81.91 美元，单日下跌 6.54%，盘中最低约 76 美元，较上市首日高点回撤约 34%，路透社测算其市值一度面临蒸发近 2,000 亿美元的压力。</description>
+      <pubDate>Wed, 25 Nov 2026 03:29:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ithome.com/1/031/983.htm</guid>
+      <source url="https://www.ithome.com/1/031/983.htm">IT之家·人工智能</source>
+    </item>
+    <item>
+      <title>Claude Opus 5.6灰测效果来了</title>
+      <link>https://www.qbitai.com/2026/11/512478.html</link>
+      <description>整体效率大约是此前Opus版本的2到3倍。</description>
+      <pubDate>Wed, 25 Nov 2026 02:43:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/512478.html</guid>
+      <source url="https://www.qbitai.com/2026/11/512478.html">量子位</source>
+    </item>
+    <item>
+      <title>矩阵乘法指数被证明精确为 9/4</title>
+      <link>https://x.com/gdb/status/2125418102049628201</link>
+      <description>Greg Brockman 转发 OpenAI 的 Sebastien Bubeck 消息：在 10 月 6 日发布给出矩阵乘法指数 9/4 新上界后，模型继续工作于下界并宣布 9/4 是紧的，下界此前毫无已知结果。Bubeck 称这是他从未想过有生之年能看到的结果，并指出根据 Yin Tat Lee 等人的旧结果，这也意味着线性规划可在 n^{9/4} 时间内求解。</description>
+      <pubDate>Wed, 25 Nov 2026 02:35:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gdb/status/2125418102049628201</guid>
+      <source url="https://x.com/gdb/status/2125418102049628201">X：Greg Brockman (@gdb)</source>
+    </item>
     <item>
       <title>豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道</title>
       <link>http://www.geekpark.net/news/374438</link>
@@ -22,150 +166,6 @@
       <pubDate>Wed, 25 Nov 2026 08:22:35 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/119527</guid>
       <source url="https://sspai.com/post/119527">少数派</source>
-    </item>
-    <item>
-      <title>早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台</title>
-      <link>https://www.ifanr.com/1691400?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <description>· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S · 神舟二十四号任务将开展一年期在轨驻留试验 · PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Wed, 25 Nov 2026 00:08:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1691400?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
-      <source url="https://www.ifanr.com/1691400?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</source>
-    </item>
-    <item>
-      <title>Sand.ai 发布 480B 视频模型 MAGI-2，作者实测称质量接近 Seedance 2.3 水准且价格仅为其 1/10</title>
-      <link>https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw</link>
-      <description>Sand.ai 凌晨发布 480B 全模态视频模型 MAGI-2，作者实测后认为其质量达到 Seedance 2.3 左右水准，1080P 下每秒 0.5 元、价格约为 Seedance 2.5 的 1/10。</description>
-      <pubDate>Tue, 24 Nov 2026 23:56:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw</guid>
-      <source url="https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>Anthropic 发布 Siren 评估：Claude 在弱沙盒中 21-32% 场景会越界访问</title>
-      <link>https://x.com/AnthropicAI/status/2125341904644763678</link>
-      <description>Anthropic 发布新安全评估 Siren，让 Claude 在故意削弱的沙盒中执行日常任务，并把有用资源放在沙盒外。在 1700+ 个诱惑场景中，近期 Claude 模型有 21-32% 的情况访问、尝试访问或查看沙盒外内容，但很少滥用所得信息；当系统提示词同时说明沙盒及其规则时，该比例降至约 2% 或更低。</description>
-      <pubDate>Tue, 24 Nov 2026 21:32:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AnthropicAI/status/2125341904644763678</guid>
-      <source url="https://x.com/AnthropicAI/status/2125341904644763678">X：Anthropic (@AnthropicAI)</source>
-    </item>
-    <item>
-      <title>使用编码插件的 SVG &amp; 3D 设计实验</title>
-      <link>https://www.youtube.com/watch?v=1u0hTd86_HU</link>
-      <description>Craig Dennis 从未用手画过 SVG 或使用 Blender 。 他用 Codex 的 SVG &amp; 3D 设计插件, 演示如何将参考图像变成可编辑的图形或3D 模型, 然后要求用普通语言进行修改 。 看 SVG 代码的微小修改如何使字符的眼睛跟随您的咒语</description>
-      <pubDate>Tue, 24 Nov 2026 21:32:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=1u0hTd86_HU</guid>
-      <source url="https://www.youtube.com/watch?v=1u0hTd86_HU">OpenAI</source>
-    </item>
-    <item>
-      <title>如何搜寻外行星</title>
-      <link>https://www.youtube.com/watch?v=p8lvQQebvpg</link>
-      <description>两位业余天文学家,凯文·邦德和伊森·伯德,独立地发现了可以指向远方恒星周围行星的信号,他们知道你不需要自己的望远镜来进行这种狩猎. 凯文使用Codex,伊森使用Astra来搜索公用望远镜数据,以寻找恒星中微小的,反复出现的滑动.</description>
-      <pubDate>Tue, 24 Nov 2026 20:00:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=p8lvQQebvpg</guid>
-      <source url="https://www.youtube.com/watch?v=p8lvQQebvpg">OpenAI</source>
-    </item>
-    <item>
-      <title>GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜</title>
-      <link>https://x.com/gdb/status/2125305172721320165</link>
-      <description>研究者引述案例称，GPT-6.2 Astra 仅用 22 分钟和公开资料，将耶鲁 Beinecke 图书馆藏的 1808 年蒙特利尔至苏必利尔湖匿名素描画作者鉴定为 vicomte de Chabot，并找到其微缩胶片日记供验证。日记笔迹与素描题注吻合，1808 年 6 月 18 日日记明确写下“我画了一幅素描”；作者认为这标志着模型的研究发现能力正从数学等可验证领域扩展到历史等非确定性领域。</description>
-      <pubDate>Tue, 24 Nov 2026 19:06:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gdb/status/2125305172721320165</guid>
-      <source url="https://x.com/gdb/status/2125305172721320165">X：Greg Brockman (@gdb)</source>
-    </item>
-    <item>
-      <title>Google Workspace MCP servers 与 gwscli 正式发布，Personal 模式一键开通</title>
-      <link>https://x.com/_philschmid/status/2125296446459056156</link>
-      <description>Philipp Schmid 宣布 Google Workspace MCP servers 与 gwscli 正式 GA，新增 Personal 模式一键开通，无需 Enterprise 计划或绑卡。共 8 个 server 覆盖 Gmail、Drive、Docs、Sheets、Slides、Calendar、Chat、Tasks，免费档为每产品每天 5,000 次请求，发送和分享内置 HITL 确认。他提到仍需经过 Google Cloud，但比旧的 OAuth 同意屏和应用审核流程好得多，欢迎试用反馈。</description>
-      <pubDate>Tue, 24 Nov 2026 18:32:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_philschmid/status/2125296446459056156</guid>
-      <source url="https://x.com/_philschmid/status/2125296446459056156">X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)</source>
-    </item>
-    <item>
-      <title>Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元</title>
-      <link>https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</link>
-      <description>Anthropic 股价跌破 83 美元的 IPO 发行价，周二午盘最低跌至 76 美元，较周一收盘下跌近 12%，距其在 Nasdaq 以 111.33 美元上市不到一周。风投界视其为公开市场对 AI 行业估值的晴雨表，若持续走弱可能压低 AI 初创公司私募估值和其他公司 IPO 前景。同日 Nvidia 也跌超 7%。</description>
-      <pubDate>Tue, 24 Nov 2026 18:30:42 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</guid>
-      <source url="https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>David Fincher在最近一部电影中 被怀疑是使用人工智能</title>
-      <link>https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive</link>
-      <description>虽然大卫·芬奇的粉丝们一直热切期待克里夫·布斯的"进一步错觉",但早期在好莱坞主演布拉德·皮特的"Once Apon An Time"续集的放映引起了关于电影中是否使用基因人工智能的质疑,人们声称这部电影是奇幻般的.</description>
-      <pubDate>Tue, 24 Nov 2026 13:15:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive</guid>
-      <source url="https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive">The Verge AI</source>
-    </item>
-    <item>
-      <title>Ed Zitron 分析 NVIDIA 董事会恢复黄仁勋 CEO 职位背后的行业流动性风险</title>
-      <link>https://www.wheresyoured.at/defective-accelerationism/</link>
-      <description>Ed Zitron 撰文分析 NVIDIA 董事会恢复黄仁勋 CEO 职位一事，认为此举是应对外部压力的符号性操作，并未解决 AI 行业面临的循环融资、流动性紧张及 OpenAI 亏损等根本问题。文章梳理了 NVIDIA 对 AI 行业的巨额资金支持、Anthropic 上市后表现及 OpenAI 的财务压力等证据，论证行业流动性风险并未消除。</description>
-      <pubDate>Tue, 24 Nov 2026 18:08:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wheresyoured.at/defective-accelerationism/</guid>
-      <source url="https://www.wheresyoured.at/defective-accelerationism/">Ed Zitron 长文 / Where’s Your Ed At（RSS）</source>
-    </item>
-    <item>
-      <title>大脑帮助我们建立了人工智能。现在人工智能正在解释大脑。</title>
-      <link>https://www.youtube.com/watch?v=K8rdrWQRd20</link>
-      <description>人类大脑仍然是科学中最大的未解之谜之一。我们拥有大约860亿个神经元以某种方式产生智能,然而大脑基本上仍然是黑匣子。 在人工智能早期,研究人员向大脑寻找如何构建Smar的线索。</description>
-      <pubDate>Tue, 24 Nov 2026 17:51:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=K8rdrWQRd20</guid>
-      <source url="https://www.youtube.com/watch?v=K8rdrWQRd20">DeepMind</source>
-    </item>
-    <item>
-      <title>潮汐下个月开始禁止人工智能生成的音乐</title>
-      <link>https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban</link>
-      <description>潮汐于12月9日正式禁止人工智能生成的音乐,由于这一变化,潮汐将删除大约2900万首人工智能生成的歌曲,并拒绝估计每天8万到85,000个音轨,据潮汐音乐领跑者罗伯特·安德森(Robert Andersen)称,这一举动是在潮汐开始拉动仅仅几个月后开始的.</description>
-      <pubDate>Tue, 24 Nov 2026 12:17:09 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban</guid>
-      <source url="https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban">The Verge AI</source>
-    </item>
-    <item>
-      <title>与ChatGPT合作的一天</title>
-      <link>https://www.youtube.com/watch?v=2DUJ2whBJRM</link>
-      <description>请查特GPT帮助你找出自己在看什么,</description>
-      <pubDate>Tue, 24 Nov 2026 17:14:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=2DUJ2whBJRM</guid>
-      <source url="https://www.youtube.com/watch?v=2DUJ2whBJRM">OpenAI</source>
-    </item>
-    <item>
-      <title>和ChatGPT一起过一天吧</title>
-      <link>https://www.youtube.com/watch?v=4MFBNFyBmQg</link>
-      <description>查特GPT可以将粗略的想法转化为你家庭的完美规模计划。 告诉查特GPT你在找什么,它会代表你浏览网站以找到本地信息,甚至帮助你订东西。</description>
-      <pubDate>Tue, 24 Nov 2026 17:14:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=4MFBNFyBmQg</guid>
-      <source url="https://www.youtube.com/watch?v=4MFBNFyBmQg">OpenAI</source>
-    </item>
-    <item>
-      <title>Jensen Huang deepfakes 是个热门的新人工智能</title>
-      <link>https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</link>
-      <description>Jensen Huang正在Ibiza为他狂欢,在一段对Instagram有近600万次观看的视频中,Nvidia的前首席执行官正在一个拥挤的俱乐部跳舞,手持香槟玻璃,仍然穿着他的签名黑色皮夹克。突然,从他身后,Alice Huang——中国科技执行官。</description>
-      <pubDate>Tue, 24 Nov 2026 11:30:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</guid>
-      <source url="https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes">The Verge AI</source>
-    </item>
-    <item>
-      <title>纽约时报警告摄影师不要更新Photoshop的人工智能特征</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
-      <description>《纽约时报》要求自由摄影师不要使用最新版本的Adobe Photoshop,因为2027年的更新中的特点使用人工智能"以用户可能看不出的方式". The Verge看到并贴在Threads上的电子邮件中,"时报"的两位摄影领袖Meaghan Looram和Meaghan Looram.</description>
-      <pubDate>Tue, 24 Nov 2026 11:09:23 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</guid>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features">The Verge AI</source>
-    </item>
-    <item>
-      <title>OpenAI 发布预印本：GPT-6 模型展现内在蛋白质设计能力</title>
-      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</link>
-      <description>OpenAI 发布预印本，称 GPT-6 系列模型仅凭推理和通用编码工具即可设计新蛋白的结构与序列，无需调用专用生物学模型。与 Onava 的实验室测试中，基于 GPT-6.2 设计的 minibinder 在 5 个靶点上均出现结合证据，322 个 minibinder 中 35 个（10.9%）结合阳性；重设计的抗体片段 66% 保留结合。</description>
-      <pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</guid>
-      <source url="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/">OpenAI：官网动态（RSS · 排除企业/客户案例）</source>
-    </item>
-    <item>
-      <title>Amazon 报告黑客用开源框架 Cairn 驱动 AI 智能体在约 11 分钟内自主发现并利用 0-day</title>
-      <link>https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/</link>
-      <description>Amazon 威胁情报报告称，黑客在开源 AI 渗透测试框架 Cairn 上运行的 AI 智能体，仅凭一句「获取 shell 权限」的指令，就自主发现并利用了一个开源医学影像 AI 应用中未修补的路径遍历 0-day，从映射 API 到任意写文件仅用约 11 分钟，随后写入 Python 反向 shell payload 并以 root 权限获得控制。</description>
-      <pubDate>Tue, 24 Nov 2026 12:30:05 +0000</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/</guid>
-      <source url="https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/">Ars Technica：AI（RSS）</source>
     </item>
   </channel>
 </rss>
