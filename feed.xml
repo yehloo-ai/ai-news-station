@@ -5,8 +5,56 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:57:02 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板</title>
+      <link>https://www.ifanr.com/1691748?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign</link>
+      <description>你用公司的 AI 省下的时间是公司的#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Thu, 26 Nov 2026 01:28:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1691748?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign</guid>
+      <source url="https://www.ifanr.com/1691748?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign">爱范儿</source>
+    </item>
+    <item>
+      <title>派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等</title>
+      <link>https://sspai.com/post/119560</link>
+      <description>阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。查看全文</description>
+      <pubDate>Thu, 26 Nov 2026 08:08:07 +0800</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/119560</guid>
+      <source url="https://sspai.com/post/119560">少数派</source>
+    </item>
+    <item>
+      <title>Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露</title>
+      <link>https://calif.io/research/tortilla-with-onion</link>
+      <description>Calif 在 OpenAI Patch the Planet 项目下发布研究，展示恶意网站可通过 UAF 漏洞链绕过 Tor Browser 15.0.22 默认防御，泄露用户真实 IP。</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://calif.io/research/tortilla-with-onion</guid>
+      <source url="https://calif.io/research/tortilla-with-onion">Calif：Research（AI 漏洞研究）</source>
+    </item>
+    <item>
+      <title>OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机</title>
+      <link>https://calif.io/research/oempocalypse-part-2</link>
+      <description>Calif Research 发布 OEMpocalypse 系列第二篇，通过 Knox DualDAR 的 confused-deputy 漏洞与内核驱动页 UAF 组成两阶段利用链，从零权限应用在 Galaxy S23、S26 EU、S26 US 和 S26 Ultra 四款机型上高可靠获取 root。</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://calif.io/research/oempocalypse-part-2</guid>
+      <source url="https://calif.io/research/oempocalypse-part-2">Calif：Research（AI 漏洞研究）</source>
+    </item>
+    <item>
+      <title>卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义</title>
+      <link>https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg</link>
+      <description>公众号作者卡兹克将斯坦福《人生意义设计课》新书的核心方法改编成一个多轮对话Prompt，通过四个阶段6到9个问题，最终生成一份5000到7000字的《个人意义设计手册》。他用GPT-6.2完整实测并展示了手册内容，包括意义地图、思维误区重构、罗盘价值观和可执行的意义时刻设计，全程约20到30分钟。</description>
+      <pubDate>Wed, 25 Nov 2026 23:56:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg</guid>
+      <source url="https://mp.weixin.qq.com/s/d-MoIMsMdxtR9qw3dn-8sg">公众号：数字生命卡兹克</source>
+    </item>
+    <item>
+      <title>你让我们在部署中</title>
+      <link>https://www.youtube.com/watch?v=C6DENY3rgqg</link>
+      <description>我们感谢我们的顾客和我们共同建设的一切。谢谢你信任我们,分享你一路学习的东西。</description>
+      <pubDate>Wed, 25 Nov 2026 23:50:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=C6DENY3rgqg</guid>
+      <source url="https://www.youtube.com/watch?v=C6DENY3rgqg">OpenAI</source>
+    </item>
     <item>
       <title>Google的定制人工智能录影带专利,</title>
       <link>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</link>
@@ -14,6 +62,14 @@
       <pubDate>Wed, 25 Nov 2026 16:51:26 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</guid>
       <source url="https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent">The Verge AI</source>
+    </item>
+    <item>
+      <title>Dario Amodei 澄清不主张向 AI 交出人类自由意志</title>
+      <link>https://x.com/elonmusk/status/2125669066388209784</link>
+      <description>Anthropic 的 Dario Amodei 发长文否认其主张“向 AI 交出人类自由意志”，称其文章一贯主张 AI 须受合法民主程序治理。他区分了全球治理层面的交权与具体任务的自动化，后者持混合态度，包括对递归自我改进设限、警惕端到端部署带来的就业冲击，并称 Anthropic 曾拒绝让自家模型用于自主武器；文末批评部分 AI CEO 只喊“人类控制”等口号而无实质行动。Elon Musk 转发并评论 Interesting。</description>
+      <pubDate>Wed, 25 Nov 2026 19:12:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/elonmusk/status/2125669066388209784</guid>
+      <source url="https://x.com/elonmusk/status/2125669066388209784">X：Elon Musk (@elonmusk, xAI)</source>
     </item>
     <item>
       <title>在你离开的时候,你的点如何能继续工作</title>
@@ -110,62 +166,6 @@
       <pubDate>Wed, 25 Nov 2026 13:00:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/OpenBMB/status/2125575267217531181</guid>
       <source url="https://x.com/OpenBMB/status/2125575267217531181">X：面壁智能 OpenBMB (@OpenBMB)</source>
-    </item>
-    <item>
-      <title>黄仁勋回归后 Nvidia 仍面临 Megaspeed 芯片出口合规调查</title>
-      <link>https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/</link>
-      <description>TechCrunch 分析指出，黄仁勋回归 Nvidia CEO 后，公司仍面临多方对其 GPU 出口合规问题的调查。新加坡数据中心运营商 Megaspeed 被指违反美国出口管制，将先进 GPU 转运至中国。美国司法部于 2024 年启动调查，新加坡方面于 2025 年展开类似调查，加州总检察长办公室及美国证券交易委员会也关注 Nvidia 的相关披露。Nvidia 表示将停止向中国销售许可芯片，并计划设立首席合规官及董事会出口管制委员会。</description>
-      <pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/</guid>
-      <source url="https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/">TechCrunch：AI（RSS）</source>
-    </item>
-    <item>
-      <title>Claude人工智能的"最伟大的数学突破"有一个问题.</title>
-      <link>https://www.youtube.com/watch?v=hwWlEuI359w</link>
-      <description>https://nasqret.github.io/riemann-rev/guide/prev-guide.pdf https://alpo.ge/remark.pdf 压缩和建筑在公众场合:https://x.com/altryne/status/2124585496013926707 https://x.com.</description>
-      <pubDate>Wed, 25 Nov 2026 09:54:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=hwWlEuI359w</guid>
-      <source url="https://www.youtube.com/watch?v=hwWlEuI359w">Two Minute Papers</source>
-    </item>
-    <item>
-      <title>Plaud、影石、小红书、Looki......我们发起了一场 AI 硬件圈的年度聚会</title>
-      <link>http://www.geekpark.net/news/374487</link>
-      <description>在模型飞速演进的 2026 年，硬件世界反而开始告别「爽文叙事」。 前两年聊 AI 硬件，行业里经常讨论做出一个取代智能手机的「下一代超级入口」的终局命题。听着很过瘾，但真干起来才发现，做硬件这事儿，哪有那么多一步登天。 今年，气氛明显不一样了。 创业者们扎进一个个具体的生活场景里，一批新形态的产品，正在一些新场景里逐渐成为共识。 所以，今年跑得最快的几个方向，都没有「下一代入口」那么性感的叙事，但又都挺有意思： 健康可穿戴 AI 加入后，原本冰冷的身体信号，变成了普通消费者随时能看懂的身体状态、训练指导和睡眠建议。可穿戴，正在从记录仪变成随身教练。 录音卡 录音也正在从单纯的「存储」，向可以</description>
-      <pubDate>Wed, 25 Nov 2026 17:33:01 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374487</guid>
-      <source url="http://www.geekpark.net/news/374487">极客公园</source>
-    </item>
-    <item>
-      <title>Pydantic AI 发布终端编码智能体 Pax 与 Harness beta，迈向 1.0</title>
-      <link>https://pydantic.dev/articles/pax-harness-beta</link>
-      <description>Pydantic AI 发布终端编码智能体 Pax（pydantic-ai-pax），基于 Harness SDK，全部功能以插件形式组织，可 /plugins 开关 coder、sandbox、mcp、Logfire 观测等，并支持 --agent 换成代码库里任意 Pydantic AI Agent。</description>
-      <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://pydantic.dev/articles/pax-harness-beta</guid>
-      <source url="https://pydantic.dev/articles/pax-harness-beta">Pydantic AI 官方文章</source>
-    </item>
-    <item>
-      <title>A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆</title>
-      <link>https://www.qbitai.com/2026/11/512515.html</link>
-      <description>OpenAI这下要有俩Tibo了</description>
-      <pubDate>Wed, 25 Nov 2026 07:46:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/512515.html</guid>
-      <source url="https://www.qbitai.com/2026/11/512515.html">量子位</source>
-    </item>
-    <item>
-      <title>Claude Code 团队发布实用指南讲解 Claude Ship 的 PR 审查与守护用法</title>
-      <link>https://x.com/addyosmani/status/2125492213903978917</link>
-      <description>Anthropic Claude Code 团队刚推出 Claude Ship，包含三个智能体：Code Review（已全面开放）、PR Steward 和 Claude Approvals（beta），可审查 PR、处理失败 CI、合并冲突和审查意见，并按仓库策略文件批准常规改动。</description>
-      <pubDate>Wed, 25 Nov 2026 07:30:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/addyosmani/status/2125492213903978917</guid>
-      <source url="https://x.com/addyosmani/status/2125492213903978917">X：Addy Osmani (@addyosmani)</source>
-    </item>
-    <item>
-      <title>App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你</title>
-      <link>https://sspai.com/post/119310</link>
-      <description>Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。查看全文</description>
-      <pubDate>Wed, 25 Nov 2026 14:59:16 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/119310</guid>
-      <source url="https://sspai.com/post/119310">少数派</source>
     </item>
   </channel>
 </rss>
