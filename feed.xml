@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:45:53 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图</title>
+      <link>https://x.com/adocomplete/status/2125994186252161315</link>
+      <description>Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。GDP 映射为金产量、城市按真实产业分化，含 19 个视图、524 个都市的 City View 和覆盖 3,100+ 县的 Explorer，已部署在 https://karpathy.ai/usaciv/。作者 Ado 转发并感叹。</description>
+      <pubDate>Thu, 26 Nov 2026 16:44:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/adocomplete/status/2125994186252161315</guid>
+      <source url="https://x.com/adocomplete/status/2125994186252161315">X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)</source>
+    </item>
     <item>
       <title>Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP</title>
       <link>https://x.com/_philschmid/status/2125945282072297794</link>
@@ -38,6 +46,22 @@
       <pubDate>Thu, 26 Nov 2026 17:30:00 +0800</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/116773</guid>
       <source url="https://sspai.com/post/116773">少数派</source>
+    </item>
+    <item>
+      <title>好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI</title>
+      <link>http://www.geekpark.net/news/374536</link>
+      <description>作者｜Lilyann 编辑｜靖宇 网上冲浪这么多年，你一定有过这样的经历：想取消一项自动续费，却怎么都找不到入口；明明是商家多扣了钱，申请退款却要层层转接；为了几十块钱，和客服解释半个小时，最后听到一句「非常抱歉，暂时无法为您处理」。 钱不一定很多，但就是咽不下这口气。更憋屈的是，你明明有道理，却没时间跟它耗。企业有一整套客服系统，而你可能只有一个午休时间。 现在，这种不对称的关系，终于迎来改变了。 AI，尤其是 Personal AI 的出现，让消费者可以把这些生活琐事，交给 AI 来处理，无论是邮件往来，或者是 App 上的申诉，Agent 都能一键代劳。 但是，新的问题，也出现了。 好消</description>
+      <pubDate>Thu, 26 Nov 2026 17:04:47 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374536</guid>
+      <source url="http://www.geekpark.net/news/374536">极客公园</source>
+    </item>
+    <item>
+      <title>成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代</title>
+      <link>http://www.geekpark.net/news/374532</link>
+      <description>作者｜Cynthia 编辑｜郑玄 2026 年的视频大模型圈子，有一个心照不宣的保留节目：无论哪家推出新模型，最终的成绩页上，永远会留一行和 Seedance 2.5 的对标数据。 这款上半年坐稳行业标杆的闭源模型，如今成了整条赛道公认的「基准线」&amp;mdash;&amp;mdash; 快手可灵 Kling 3.0 上线，要比镜头控制与生成时长；阿里 Wan 3.0 推出，主打同画质下的性价比；MiniMax 发 H3 系列，也要在 AA 榜单上标清和 Seedance 的 Elo 分差。 你方唱罢我登场，榜首的排位刷了一轮又一轮，但行业的底色没变：顶尖能力始终攥在闭源厂商手里，靠云端 API 和创作平</description>
+      <pubDate>Thu, 26 Nov 2026 16:38:54 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374532</guid>
+      <source url="http://www.geekpark.net/news/374532">极客公园</source>
     </item>
     <item>
       <title>FT 报道 Nvidia 暂停向东南亚四国发运服务器</title>
@@ -142,30 +166,6 @@
       <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.33173</guid>
       <source url="https://arxiv.org/abs/2611.33173">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>MGMem:长视代理记忆的高效、决定性和保质框架</title>
-      <link>https://arxiv.org/abs/2611.33174</link>
-      <description>长视大语言模型(LLM)代理需要持续的内存,通过数千个转弯在正确的时间显示正确的过去互动。 许多系统通过引用基因LLMs来将历史重写成摘要、事实或知道来索引</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.33174</guid>
-      <source url="https://arxiv.org/abs/2611.33174">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>Transformer分红模型基于特性的解释性:一个Fidelity-第一自动写作评估框架</title>
-      <link>https://arxiv.org/abs/2611.33175</link>
-      <description>基于Transformer的自动书写评分模型可以与人类的分数达成强烈一致,同时为与其预测相关的响应特征提供有限的透明度. 本研究评价了基于特征的后Hoc ex</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.33175</guid>
-      <source url="https://arxiv.org/abs/2611.33175">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>多模态大语文模型中对持续时间的认识的心理物理学</title>
-      <link>https://arxiv.org/abs/2611.33176</link>
-      <description>对语言模型中时间感知的研究主要侧重于文本设置,但多模态模型越来越多地用于需要理解时间流逝的任务,使其时间感知的限度对理解至关重要。</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.33176</guid>
-      <source url="https://arxiv.org/abs/2611.33176">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
