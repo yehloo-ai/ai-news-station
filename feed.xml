@@ -5,8 +5,72 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:52:33 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Android 的 DIY 部件是 一种气温编码的乐趣</title>
+      <link>https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini</link>
+      <description>除了处理我的日历以外,我还需要人工智能来做一件事:告诉我如果我要错过公交车的话,我需要的是一个部件,它需要告诉我实时到达我家附近的公交车站,在我手机屏幕上盘旋以打开正确的应用程序和[.].</description>
+      <pubDate>Fri, 27 Nov 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini</guid>
+      <source url="https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini">The Verge AI</source>
+    </item>
+    <item>
+      <title>OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction</title>
+      <link>https://x.com/OpenBMB/status/2126308118741323853</link>
+      <description>OpenBMB 转发并点评上海人工智能实验室 InternLM 团队发布的开源全双工语音视频模型 Sage-Interaction，该模型基于 MiniCPM-o 4.5 构建。OpenBMB 称赞其边说边听、在不打断对话的情况下把复杂任务交给后端模型，是迈向更自然 AI 交互的一步，并向 InternLM 团队致意。</description>
+      <pubDate>Fri, 27 Nov 2026 13:32:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OpenBMB/status/2126308118741323853</guid>
+      <source url="https://x.com/OpenBMB/status/2126308118741323853">X：面壁智能 OpenBMB (@OpenBMB)</source>
+    </item>
+    <item>
+      <title>Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报</title>
+      <link>https://x.com/Khazix0918/status/2126294658431201385</link>
+      <description>卡兹克分享一个 Antigravity 使用技巧，针对模型长时间闷头干活不输出信息的问题，只需在 GEMINI.md 中加一句话，要求动手前说要做什么、有发现、换方向、卡住或连干四五步时再说一句，即可获得类似 Claude 或 Codex 那种实时汇报进度的交互体验。</description>
+      <pubDate>Fri, 27 Nov 2026 12:38:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Khazix0918/status/2126294658431201385</guid>
+      <source url="https://x.com/Khazix0918/status/2126294658431201385">X：卡兹克 (@Khazix0918)</source>
+    </item>
+    <item>
+      <title>大厂的应届生名额，正在先让给 AI 预算</title>
+      <link>http://www.geekpark.net/news/374601</link>
+      <description>在 AI 时代，最敢给自身组织结构动刀、同时也最能整活的大厂微软，又成为了新的 AI 组织实践者。但这次微软带来的不是好消息，而是公开承认「微软已经延缓了应届生的招聘进度」。 不久前的 The Pragmatic Engineer 播客里，主持人问微软 CEO 萨提亚&amp;middot;纳德拉「微软还招不招应届生」时，纳德拉在节目上公开承认微软应届生招聘的确放慢了，还表示「很多公司都这样」。 对于这个结论，他解释道眼下「首要任务是确保我们内部的所有人，都被调整到合适的位置」，先把人和 AI 分工写软件的「软件工厂」模式构建起来。 但在他的计划中，调岗后面的第二步，还是得先把 AI 预算花满。他谈到</description>
+      <pubDate>Fri, 27 Nov 2026 17:26:31 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374601</guid>
+      <source url="http://www.geekpark.net/news/374601">极客公园</source>
+    </item>
+    <item>
+      <title>Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？</title>
+      <link>https://www.ifanr.com/1695831?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign</link>
+      <description>这可能是我们见过最离谱的 AI 生成 PPT。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 27 Nov 2026 09:06:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1695831?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign</guid>
+      <source url="https://www.ifanr.com/1695831?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign">爱范儿</source>
+    </item>
+    <item>
+      <title>DeepMind的新人工智能刚刚改变了人工智能竞赛</title>
+      <link>https://www.youtube.com/watch?v=u6UYsl-KEoc</link>
+      <description>https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_security_report.pdf 资料来源: - https://x.com/PromptLLM/status/212489880654504419 - https://x.com/thebuggeddev</description>
+      <pubDate>Fri, 27 Nov 2026 08:42:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=u6UYsl-KEoc</guid>
+      <source url="https://www.youtube.com/watch?v=u6UYsl-KEoc">Two Minute Papers</source>
+    </item>
+    <item>
+      <title>B 站十几年的家底，在 AI 时代「升值」</title>
+      <link>http://www.geekpark.net/news/374593</link>
+      <description>作者｜Moonshot 编辑｜郑玄 当 AI 能在分秒内给出详尽答案，为什么人们还需要看长视频？ 最需要回答这个问题的平台是 B 站，但它们最新发布的财报，给了个出乎意料的答案。 11 月 24 日，B 站发布 2026 年第三季度财报，总营收达 83.2 亿元，同比增长 8%，调整后净利润达 8.3 亿元。 社区三项核心指标均创历史新高：日均活跃用户达 1.24 亿，月均活跃用户达 3.94 亿，用户日均使用时长首次突破两小时，达到 121 分钟，特别是 AI 知识内容，消费时长同比增长了 108%。 钱、用户、内容三线增长。看来 B 站，在 AI 时代过得更好了。 细看 B 站这份财报，以</description>
+      <pubDate>Fri, 27 Nov 2026 16:29:54 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374593</guid>
+      <source url="http://www.geekpark.net/news/374593">极客公园</source>
+    </item>
+    <item>
+      <title>DeepSeek APP突然更新账单，网友：要收费了？</title>
+      <link>https://www.qbitai.com/2026/11/513305.html</link>
+      <description>网页App双端亮出聊天账单</description>
+      <pubDate>Fri, 27 Nov 2026 07:29:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/513305.html</guid>
+      <source url="https://www.qbitai.com/2026/11/513305.html">量子位</source>
+    </item>
     <item>
       <title>Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接</title>
       <link>https://x.com/rohanpaul_ai/status/2126214860421914884</link>
@@ -102,70 +166,6 @@
       <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.33195</guid>
       <source url="https://arxiv.org/abs/2611.33195">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间</title>
-      <link>https://www.qbitai.com/2026/11/513194.html</link>
-      <description>企业需要有用的 AI</description>
-      <pubDate>Fri, 27 Nov 2026 04:05:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/513194.html</guid>
-      <source url="https://www.qbitai.com/2026/11/513194.html">量子位</source>
-    </item>
-    <item>
-      <title>Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了</title>
-      <link>https://www.ifanr.com/1695671?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign</link>
-      <description>AI 既是一场工业革命，也是一场文艺复兴。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
-      <pubDate>Fri, 27 Nov 2026 03:49:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ifanr.com/1695671?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign</guid>
-      <source url="https://www.ifanr.com/1695671?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign">爱范儿</source>
-    </item>
-    <item>
-      <title>具身公司抱团回应：通用大模型跨维打击？没那么简单</title>
-      <link>https://www.qbitai.com/2026/11/513125.html</link>
-      <description></description>
-      <pubDate>Fri, 27 Nov 2026 03:33:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/513125.html</guid>
-      <source url="https://www.qbitai.com/2026/11/513125.html">量子位</source>
-    </item>
-    <item>
-      <title>智谱辟谣 GLM-5.5 延期；特斯拉和 SpaceX 冲刺年底合并；18 家平台完成算法协商，覆盖 2500 万新就业形态劳动者｜极客早知道</title>
-      <link>http://www.geekpark.net/news/374546</link>
-      <description>智谱辟谣 GLM-5.5 延期：性能 Fable 级、上万张国产 AI 卡进展顺利 11 月 26 日，智谱高管杨昊翊公开辟谣，称此前流传的 GLM-5.5 跳票相关爆料均为假消息。 此前有外媒发布消息称，原计划 12 月发布的智谱 GLM-5.5 将延期至 2027 年第一季度推出，同时月之暗面旗下的 Kimi K4 也将跳票，还声称跳票原因是海外头部 AI 厂商对蒸馏技术设限，阻碍了国产大模型的研发进度。 智谱高管杨昊翊在朋友圈辟谣，表示今天下午的所谓爆料新闻都是假消息，算是否认了跳票的消息。 至于 GLM-5.5 的情况，虽然他没有公布进度，但此前大摩参与的路演会议上提到的还是 12 月</description>
-      <pubDate>Fri, 27 Nov 2026 08:43:10 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374546</guid>
-      <source url="http://www.geekpark.net/news/374546">极客公园</source>
-    </item>
-    <item>
-      <title>实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱</title>
-      <link>https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw</link>
-      <description>作者完整实测支付宝 SkillPay 平台的 Skill 变现流程，该平台7月上线，支持买断和订阅两种售卖模式。买断制将 Skill 完整内容交付本地，订阅制把 Skill 保留在云端沙盒中、Agent 看不到明文；买断定价 0.01-50 元，订阅按周月季度收费上限 50 元，免费试用最低 5 次。</description>
-      <pubDate>Thu, 26 Nov 2026 23:56:00 +0000</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw</guid>
-      <source url="https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw">公众号：数字生命卡兹克</source>
-    </item>
-    <item>
-      <title>Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图</title>
-      <link>https://x.com/adocomplete/status/2125994186252161315</link>
-      <description>Karpathy 分享用 Claude Code 桌面版加 Opus 5.5（开启 ultracode）构建的美国文明风格游戏地图，7 小时生成 45K 行代码，整合 Census、BEA、BLS、EIA、NOAA 等 31 个真实数据源，统一到 25 km 六边形网格。GDP 映射为金产量、城市按真实产业分化，含 19 个视图、524 个都市的 City View 和覆盖 3,100+ 县的 Explorer，已部署在 https://karpathy.ai/usaciv/。作者 Ado 转发并感叹。</description>
-      <pubDate>Thu, 26 Nov 2026 16:44:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/adocomplete/status/2125994186252161315</guid>
-      <source url="https://x.com/adocomplete/status/2125994186252161315">X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)</source>
-    </item>
-    <item>
-      <title>Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP</title>
-      <link>https://x.com/_philschmid/status/2125945282072297794</link>
-      <description>Philipp Schmid 撰文解释为何在 Skills 和 CLI 流行后依然看好 MCP：Linear 和 Notion 的 agent 每周创建约 240 万条 issue 和页面，Atlassian 每天 MCP 工具调用超 500 万次，其中 44% 用户来自软件团队之外，Notion 报告 60 倍 MCP 流量增长。</description>
-      <pubDate>Thu, 26 Nov 2026 13:30:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_philschmid/status/2125945282072297794</guid>
-      <source url="https://x.com/_philschmid/status/2125945282072297794">X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)</source>
-    </item>
-    <item>
-      <title>42个州的AG试图阻止字符. 人工智能销售用户聊天</title>
-      <link>https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</link>
-      <description>一个由42名州检察长组成的联盟试图阻止Charity. artificial Intelligence在浏览第11章破产程序时出售用户数据。 在一次几乎相同的新闻稿大罢工中,各律师集团指责该公司计划拍卖“更多个人聊天历史 ” 。</description>
-      <pubDate>Thu, 26 Nov 2026 04:54:40 -0500</pubDate>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</guid>
-      <source url="https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats">The Verge AI</source>
     </item>
   </channel>
 </rss>
