@@ -5,8 +5,144 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:11:19 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接</title>
+      <link>https://x.com/rohanpaul_ai/status/2126214860421914884</link>
+      <description>据美国安全公司 Dragos，MiniMax 收集并打开了用户提示词中的私有链接，即便用户要求不存储数据。</description>
+      <pubDate>Fri, 27 Nov 2026 07:21:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2126214860421914884</guid>
+      <source url="https://x.com/rohanpaul_ai/status/2126214860421914884">X：Rohan Paul (@rohanpaul_ai)</source>
+    </item>
+    <item>
+      <title>AI 创作，走过产能竞速之后</title>
+      <link>http://www.geekpark.net/news/374584</link>
+      <description>2026 年，AI 内容行业走到了一个新的节点。 回头看 2025 年， AI 视频还带着明显的早期痕迹：人物容易失真、镜头只能做短片段，大家讨论更多的是生产效率的提升与制作成本的下探。 仅仅一年过去，行业的前进速度超出了很多人的预期。2026 年以来，以即梦为代表的 AI 创作工具陆续落地了 4K 画质、分钟级长镜头、人物一致性与局部精修能力，基础画质和叙事流畅度都上了一个台阶。 行业的关注点开始转向更本质的问题：怎么做出有辨识度的好内容，怎么跑通健康的商业模式，以及在线性内容之外，还有哪些新的形态可以探索。 在今年的 IF 2027 创新大会上，极客公园联合即梦准备了「AI 创作专场」小场</description>
+      <pubDate>Fri, 27 Nov 2026 15:16:24 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374584</guid>
+      <source url="http://www.geekpark.net/news/374584">极客公园</source>
+    </item>
+    <item>
+      <title>背景扩展:人工智能扩展的新前沿</title>
+      <link>https://arxiv.org/abs/2611.33160</link>
+      <description>所部署的人工智能的许多失败不是由微弱的推论引起的,而是由任务在系统操作时所依赖的状态和可用的上下文之间的不匹配引起的. 相關的使用者狀態,寄存器修正,工具痕迹,传感器读取或环境 c</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33160</guid>
+      <source url="https://arxiv.org/abs/2611.33160">ArXiv AI</source>
+    </item>
+    <item>
+      <title>对 LLM 和 VLM 候选人选择的约束- 软件测试- 时间计数</title>
+      <link>https://arxiv.org/abs/2611.33161</link>
+      <description>当一个 LLM 或 VLM 生成多个候选答案时, 选择最佳答案通常依赖于模型本身的信心, 一个学习型法官模型, 或者一个域名检查 。 每个域都有一个已知的弱点: 一个答案可以是流利但不安全的, 数学上的 plausibl</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33161</guid>
+      <source url="https://arxiv.org/abs/2611.33161">ArXiv AI</source>
+    </item>
+    <item>
+      <title>Autoform Bench:高级数学精益正规化基准</title>
+      <link>https://arxiv.org/abs/2611.33165</link>
+      <description>然而,真正的数学形式化并不是孤立的定理证明:它要求建立定义和中间lemma,</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33165</guid>
+      <source url="https://arxiv.org/abs/2611.33165">ArXiv AI</source>
+    </item>
+    <item>
+      <title>人工智能配置图宁通用决定模型</title>
+      <link>https://arxiv.org/abs/2611.33190</link>
+      <description>人工智能配置在有限预算下对改善人工智能系统性能的设置进行调试搜索. 现有调子使用不同的采样和搜索策略,使得决策策略的选择对调取质量和成本都至关重要.</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33190</guid>
+      <source url="https://arxiv.org/abs/2611.33190">ArXiv AI</source>
+    </item>
+    <item>
+      <title>什么,谁,以及何时:通过短期理由对精神健康安全进行结构性损害评估</title>
+      <link>https://arxiv.org/abs/2611.33263</link>
+      <description>越来越多的人使用大型语言模型来提供心理健康支助,这引起了重要的安全关切。 现有的保安模型主要确定有害内容的类别,常常忽略确定适当对策所需的背景。</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33263</guid>
+      <source url="https://arxiv.org/abs/2611.33263">ArXiv AI</source>
+    </item>
+    <item>
+      <title>联邦法:德国联邦委员会政治言论数据集</title>
+      <link>https://arxiv.org/abs/2611.33173</link>
+      <description>联邦参议院是德国的第二立法院,也是其政治制度范围内的宪法否决者。 联邦参议院的成员是州政府的代表。 追查联邦参议院的政治言论是挑战性的,因为它是挑战性的。</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33173</guid>
+      <source url="https://arxiv.org/abs/2611.33173">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>MGMem:长视代理记忆的高效、决定性和保质框架</title>
+      <link>https://arxiv.org/abs/2611.33174</link>
+      <description>长视大语言模型(LLM)代理需要持续的内存,通过数千个转弯在正确的时间显示正确的过去互动。 许多系统通过引用基因LLMs来将历史重写成摘要、事实或知道来索引</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33174</guid>
+      <source url="https://arxiv.org/abs/2611.33174">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>Transformer分红模型基于特性的解释性:一个Fidelity-第一自动写作评估框架</title>
+      <link>https://arxiv.org/abs/2611.33175</link>
+      <description>基于Transformer的自动书写评分模型可以与人类的分数达成强烈一致,同时为与其预测相关的响应特征提供有限的透明度. 本研究评价了基于特征的后Hoc ex</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33175</guid>
+      <source url="https://arxiv.org/abs/2611.33175">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>多模态大语文模型中对持续时间的认识的心理物理学</title>
+      <link>https://arxiv.org/abs/2611.33176</link>
+      <description>对语言模型中时间感知的研究主要侧重于文本设置,但多模态模型越来越多地用于需要理解时间流逝的任务,使其时间感知的限度对理解至关重要。</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33176</guid>
+      <source url="https://arxiv.org/abs/2611.33176">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>验证的经验用大语言模型改进了材料预测</title>
+      <link>https://arxiv.org/abs/2611.33195</link>
+      <description>材料发现是一个迭代循环:实验和计算验证了预测,每个结果都可以为下一个结果提供参考。然而,大多数预测器都是经过培训后固定的专门单任务模型。大型语言模型最近已经出现。</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.33195</guid>
+      <source url="https://arxiv.org/abs/2611.33195">ArXiv NLP</source>
+    </item>
+    <item>
+      <title>钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间</title>
+      <link>https://www.qbitai.com/2026/11/513194.html</link>
+      <description>企业需要有用的 AI</description>
+      <pubDate>Fri, 27 Nov 2026 04:05:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/513194.html</guid>
+      <source url="https://www.qbitai.com/2026/11/513194.html">量子位</source>
+    </item>
+    <item>
+      <title>Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了</title>
+      <link>https://www.ifanr.com/1695671?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign</link>
+      <description>AI 既是一场工业革命，也是一场文艺复兴。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</description>
+      <pubDate>Fri, 27 Nov 2026 03:49:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ifanr.com/1695671?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign</guid>
+      <source url="https://www.ifanr.com/1695671?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign">爱范儿</source>
+    </item>
+    <item>
+      <title>具身公司抱团回应：通用大模型跨维打击？没那么简单</title>
+      <link>https://www.qbitai.com/2026/11/513125.html</link>
+      <description></description>
+      <pubDate>Fri, 27 Nov 2026 03:33:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/513125.html</guid>
+      <source url="https://www.qbitai.com/2026/11/513125.html">量子位</source>
+    </item>
+    <item>
+      <title>智谱辟谣 GLM-5.5 延期；特斯拉和 SpaceX 冲刺年底合并；18 家平台完成算法协商，覆盖 2500 万新就业形态劳动者｜极客早知道</title>
+      <link>http://www.geekpark.net/news/374546</link>
+      <description>智谱辟谣 GLM-5.5 延期：性能 Fable 级、上万张国产 AI 卡进展顺利 11 月 26 日，智谱高管杨昊翊公开辟谣，称此前流传的 GLM-5.5 跳票相关爆料均为假消息。 此前有外媒发布消息称，原计划 12 月发布的智谱 GLM-5.5 将延期至 2027 年第一季度推出，同时月之暗面旗下的 Kimi K4 也将跳票，还声称跳票原因是海外头部 AI 厂商对蒸馏技术设限，阻碍了国产大模型的研发进度。 智谱高管杨昊翊在朋友圈辟谣，表示今天下午的所谓爆料新闻都是假消息，算是否认了跳票的消息。 至于 GLM-5.5 的情况，虽然他没有公布进度，但此前大摩参与的路演会议上提到的还是 12 月</description>
+      <pubDate>Fri, 27 Nov 2026 08:43:10 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374546</guid>
+      <source url="http://www.geekpark.net/news/374546">极客公园</source>
+    </item>
+    <item>
+      <title>实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱</title>
+      <link>https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw</link>
+      <description>作者完整实测支付宝 SkillPay 平台的 Skill 变现流程，该平台7月上线，支持买断和订阅两种售卖模式。买断制将 Skill 完整内容交付本地，订阅制把 Skill 保留在云端沙盒中、Agent 看不到明文；买断定价 0.01-50 元，订阅按周月季度收费上限 50 元，免费试用最低 5 次。</description>
+      <pubDate>Thu, 26 Nov 2026 23:56:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw</guid>
+      <source url="https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw">公众号：数字生命卡兹克</source>
+    </item>
     <item>
       <title>Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图</title>
       <link>https://x.com/adocomplete/status/2125994186252161315</link>
@@ -24,148 +160,12 @@
       <source url="https://x.com/_philschmid/status/2125945282072297794">X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)</source>
     </item>
     <item>
-      <title>AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用</title>
-      <link>https://www.qbitai.com/2026/11/512981.html</link>
-      <description>还得是科班尖子生</description>
-      <pubDate>Thu, 26 Nov 2026 12:39:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/512981.html</guid>
-      <source url="https://www.qbitai.com/2026/11/512981.html">量子位</source>
-    </item>
-    <item>
       <title>42个州的AG试图阻止字符. 人工智能销售用户聊天</title>
       <link>https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</link>
       <description>一个由42名州检察长组成的联盟试图阻止Charity. artificial Intelligence在浏览第11章破产程序时出售用户数据。 在一次几乎相同的新闻稿大罢工中,各律师集团指责该公司计划拍卖“更多个人聊天历史 ” 。</description>
       <pubDate>Thu, 26 Nov 2026 04:54:40 -0500</pubDate>
       <guid isPermaLink="true">https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</guid>
       <source url="https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats">The Verge AI</source>
-    </item>
-    <item>
-      <title>App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具</title>
-      <link>https://sspai.com/post/116773</link>
-      <description>如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文</description>
-      <pubDate>Thu, 26 Nov 2026 17:30:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/116773</guid>
-      <source url="https://sspai.com/post/116773">少数派</source>
-    </item>
-    <item>
-      <title>好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI</title>
-      <link>http://www.geekpark.net/news/374536</link>
-      <description>作者｜Lilyann 编辑｜靖宇 网上冲浪这么多年，你一定有过这样的经历：想取消一项自动续费，却怎么都找不到入口；明明是商家多扣了钱，申请退款却要层层转接；为了几十块钱，和客服解释半个小时，最后听到一句「非常抱歉，暂时无法为您处理」。 钱不一定很多，但就是咽不下这口气。更憋屈的是，你明明有道理，却没时间跟它耗。企业有一整套客服系统，而你可能只有一个午休时间。 现在，这种不对称的关系，终于迎来改变了。 AI，尤其是 Personal AI 的出现，让消费者可以把这些生活琐事，交给 AI 来处理，无论是邮件往来，或者是 App 上的申诉，Agent 都能一键代劳。 但是，新的问题，也出现了。 好消</description>
-      <pubDate>Thu, 26 Nov 2026 17:04:47 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374536</guid>
-      <source url="http://www.geekpark.net/news/374536">极客公园</source>
-    </item>
-    <item>
-      <title>成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代</title>
-      <link>http://www.geekpark.net/news/374532</link>
-      <description>作者｜Cynthia 编辑｜郑玄 2026 年的视频大模型圈子，有一个心照不宣的保留节目：无论哪家推出新模型，最终的成绩页上，永远会留一行和 Seedance 2.5 的对标数据。 这款上半年坐稳行业标杆的闭源模型，如今成了整条赛道公认的「基准线」&amp;mdash;&amp;mdash; 快手可灵 Kling 3.0 上线，要比镜头控制与生成时长；阿里 Wan 3.0 推出，主打同画质下的性价比；MiniMax 发 H3 系列，也要在 AA 榜单上标清和 Seedance 的 Elo 分差。 你方唱罢我登场，榜首的排位刷了一轮又一轮，但行业的底色没变：顶尖能力始终攥在闭源厂商手里，靠云端 API 和创作平</description>
-      <pubDate>Thu, 26 Nov 2026 16:38:54 +0800</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374532</guid>
-      <source url="http://www.geekpark.net/news/374532">极客公园</source>
-    </item>
-    <item>
-      <title>FT 报道 Nvidia 暂停向东南亚四国发运服务器</title>
-      <link>https://x.com/rohanpaul_ai/status/2125847124600656142</link>
-      <description>据 FT 报道，Nvidia 已通知 Dell、Supermicro 等制造伙伴停止向马来西亚、新加坡、泰国和印尼发运服务器，原因是美国要求这些国家及巴西的先进 AI 芯片需申请许可。此前中国 AI 实验室通过当地云厂商租用 Nvidia 算力绕开直接出口禁令，云厂商现有 90 天证明无受限用户但缺乏申请指引；Nvidia 2025 年经新加坡部门入账 $104B，同比增长 72%。</description>
-      <pubDate>Thu, 26 Nov 2026 07:00:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2125847124600656142</guid>
-      <source url="https://x.com/rohanpaul_ai/status/2125847124600656142">X：Rohan Paul (@rohanpaul_ai)</source>
-    </item>
-    <item>
-      <title>论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图</title>
-      <link>https://sspai.com/post/119563</link>
-      <description>在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。查看全文</description>
-      <pubDate>Thu, 26 Nov 2026 15:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/119563</guid>
-      <source url="https://sspai.com/post/119563">少数派</source>
-    </item>
-    <item>
-      <title>自主代理系统可减少的治理结构:公平分配、战略成果和多层次组成</title>
-      <link>https://arxiv.org/abs/2611.31284</link>
-      <description>自主代理治理通常被视为执行正确执行的问题,但是,在多代理制度中,执行之前有一个同样根本性的问题:允许哪些代理采取行动。</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.31284</guid>
-      <source url="https://arxiv.org/abs/2611.31284">ArXiv AI</source>
-    </item>
-    <item>
-      <title>MOZAIC: 一个音频视频深层假说基准 告诉什么是假的</title>
-      <link>https://arxiv.org/abs/2611.31301</link>
-      <description>Audio-video(AV) Deep fakes 可以假造面部、声音或两者。大多数基准只询问剪辑是真实的还是假的,所以无法显示检测器是依赖图片、声音还是编码痕迹。我们介绍MOZAIC,一个配对的长凳</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.31301</guid>
-      <source url="https://arxiv.org/abs/2611.31301">ArXiv AI</source>
-    </item>
-    <item>
-      <title>不完全数据的保守重叠模糊粗略集</title>
-      <link>https://arxiv.org/abs/2611.31329</link>
-      <description>在不完整的信息系统中,属性减少很困难,因为缺失的值会打破粗略集合理论的等效类结构。我们提出保守重叠模糊组合(COFRS)模型。每个对象由它的集合描述</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.31329</guid>
-      <source url="https://arxiv.org/abs/2611.31329">ArXiv AI</source>
-    </item>
-    <item>
-      <title>Beyond Statistic Charts: MLLMs 交互图表到代码生成基准</title>
-      <link>https://arxiv.org/abs/2611.31345</link>
-      <description>近年来,多模态大语言模型(MLLMs)在图表到代码生成方面取得了显著进展,但现有基准主要侧重于静态图表,俯瞰互动图表,从而能够更丰富、更具有表现力。</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.31345</guid>
-      <source url="https://arxiv.org/abs/2611.31345">ArXiv AI</source>
-    </item>
-    <item>
-      <title>" 人们选择不说:谈话中精细信息管理的多模态基准 "</title>
-      <link>https://arxiv.org/abs/2611.31346</link>
-      <description>最近,MLLMs的进步提高了社会理解,使模型能够识别情绪,区分真实性和欺骗行为。 然而,现有的基准主要侧重于粗糙的情感识别或二进制的真相-十进制。</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.31346</guid>
-      <source url="https://arxiv.org/abs/2611.31346">ArXiv AI</source>
-    </item>
-    <item>
-      <title>用 Interactive 2D 环境来解释视觉-语言模型的代理失败归属</title>
-      <link>https://arxiv.org/abs/2611.33162</link>
-      <description>代理基准报告的成功率混淆了失败的明显原因:错误地解读环境,永远不研究环境的组件如何运行,按错误的顺序运行组件,以及未能从错误中恢复</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.33162</guid>
-      <source url="https://arxiv.org/abs/2611.33162">ArXiv ML</source>
-    </item>
-    <item>
-      <title>用于签名伪造检测的量子机器学习</title>
-      <link>https://arxiv.org/abs/2611.33163</link>
-      <description>离线手写签名仍然是法律和财务文件中的主要行为生物特征,由于缺少笔压、时间和中风顺序,因此很难从静态光栅图像中检测熟练的伪造行为。</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.33163</guid>
-      <source url="https://arxiv.org/abs/2611.33163">ArXiv ML</source>
-    </item>
-    <item>
-      <title>代码可用性还不够:记录和扩展数据分析的计划</title>
-      <link>https://arxiv.org/abs/2611.33167</link>
-      <description>数据分析涉及一系列决定,从数据清理到模型规格,每个模型都可能影响报告的结果。 复制结果与理解产生结果的决定的顺序和结果不同。</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.33167</guid>
-      <source url="https://arxiv.org/abs/2611.33167">ArXiv ML</source>
-    </item>
-    <item>
-      <title>在不时参与联邦学习的情况下暂时暴露于拜占庭的脆弱性</title>
-      <link>https://arxiv.org/abs/2611.33168</link>
-      <description>在本文中,我们研究参与变化对整个拜占庭脆弱性的影响。 我们正式确定动态参与暴露(DPE),在这个现象中,全球拜占庭部分仍然低于集合规则的容忍度。</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.33168</guid>
-      <source url="https://arxiv.org/abs/2611.33168">ArXiv ML</source>
-    </item>
-    <item>
-      <title>贝叶斯地球物理反演的地球物理学信息不可逆操作者网络</title>
-      <link>https://arxiv.org/abs/2611.33178</link>
-      <description>地球物理反向问题本质上是因观测和测量噪声稀少而难以预测的。 典型的基于取样的巴耶斯推论方法,如马尔科夫链式蒙特卡洛(MCMC),在计算上是令人望而却步的,因为它们得到补偿。</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.33178</guid>
-      <source url="https://arxiv.org/abs/2611.33178">ArXiv ML</source>
-    </item>
-    <item>
-      <title>联邦法:德国联邦委员会政治言论数据集</title>
-      <link>https://arxiv.org/abs/2611.33173</link>
-      <description>联邦参议院是德国的第二立法院,也是其政治制度范围内的宪法否决者。 联邦参议院的成员是州政府的代表。 追查联邦参议院的政治言论是挑战性的,因为它是挑战性的。</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.33173</guid>
-      <source url="https://arxiv.org/abs/2611.33173">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
