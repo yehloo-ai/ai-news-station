@@ -1628,5 +1628,14 @@
     "summary": "腾讯新开源模型 Hy4 Flash 现已在 Fireworks serverless 上可用。该模型为 MoE 架构，总参数约 220B、每 token 激活约 12B，1M token 上下文窗口（Fireworks 上线时为 512K），支持文本和图像输入，面向文档处理、研究、办公和 Agent 工作流。",
     "sourceUrl": "https://fireworks.ai/blog/hy4-flash-on-fireworks/",
     "sourceName": "Fireworks AI（网页）"
+  },
+  {
+    "observedDate": "2026-11-27",
+    "status": "pending",
+    "reviewReason": "awaiting-review",
+    "title": "蚂蚁 inclusionAI 开源 Ming-Image-0.2-Design 图像生成模型",
+    "summary": "蚂蚁 inclusionAI 在 Hugging Face 发布并开源 Ming-Image-0.2-Design，改进复杂构图、光照和文字渲染，可用于电商主图、UI 设计稿和空间效果图。",
+    "sourceUrl": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+    "sourceName": "蚂蚁 inclusionAI：HuggingFace 新模型"
   }
 ]
