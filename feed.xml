@@ -5,8 +5,16 @@
     <link>https://yehloo-ai.github.io/ai-news-station/</link>
     <description>每 2 小时自动更新的 AI 行业精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:52:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:54:20 +0000</lastBuildDate>
     <atom:link href="https://yehloo-ai.github.io/ai-news-station/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作</title>
+      <link>http://www.geekpark.net/news/374621</link>
+      <description>OpenAI 转守为攻：反诉苹果窃密，喊话「不公平竞争」 当地时间周五（27 日），OpenAI 在美国加利福尼亚州圣何塞联邦法院对苹果提起反诉，指控苹果窃取其商业机密，并阻挠其与硬件供应商合作。 今年 7 月，苹果曾以窃取商业机密为由起诉 OpenAI。随着 OpenAI 反诉，这场官司从苹果一方起诉变成了双方互诉。 据报道，OpenAI 正准备推出一系列新的个人设备，并称这些设备有望「在苹果视为自家地盘的领域胜过苹果」。 据报道，OpenAI 在诉状中称，苹果这样做是为了「不择手段地进行不公平竞争」。OpenAI 还指控苹果利用自身的「规模和财力来阻碍竞争」，存在「各种违法、不公平和侵权行</description>
+      <pubDate>Sat, 28 Nov 2026 08:53:50 +0800</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374621</guid>
+      <source url="http://www.geekpark.net/news/374621">极客公园</source>
+    </item>
     <item>
       <title>Android 的 DIY 部件是 一种气温编码的乐趣</title>
       <link>https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://arxiv.org/abs/2611.33176</guid>
       <source url="https://arxiv.org/abs/2611.33176">ArXiv NLP</source>
-    </item>
-    <item>
-      <title>验证的经验用大语言模型改进了材料预测</title>
-      <link>https://arxiv.org/abs/2611.33195</link>
-      <description>材料发现是一个迭代循环:实验和计算验证了预测,每个结果都可以为下一个结果提供参考。然而,大多数预测器都是经过培训后固定的专门单任务模型。大型语言模型最近已经出现。</description>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.33195</guid>
-      <source url="https://arxiv.org/abs/2611.33195">ArXiv NLP</source>
     </item>
   </channel>
 </rss>
